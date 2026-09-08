@@ -1,0 +1,47 @@
+---
+type Tone = 'cyan' | 'blue' | 'indigo';
+
+// tipamos props para que 'tone' NO sea any
+const { tone = 'cyan' } = Astro.props as { tone?: Tone };
+
+// tipamos el mapa de colores
+const palette = {
+  cyan:   { line: 'text-cyan-400/35',   dot: 'fill-cyan-400/35'   },
+  blue:   { line: 'text-blue-400/35',   dot: 'fill-blue-400/35'   },
+  indigo: { line: 'text-indigo-400/35', dot: 'fill-indigo-400/35' },
+} satisfies Record<Tone, { line: string; dot: string }>;
+
+// ahora TypeScript sabe que 'tone' es Tone y puede indexar
+const c = palette[tone];
+---
+
+<!-- Circuitos sutiles; sin cuadrícula -->
+<svg aria-hidden viewBox="0 0 1440 320"
+     class={`pointer-events-none absolute inset-0 -z-10 w-full h-full ${c.line}`}
+     preserveAspectRatio="none">
+  <defs>
+    <filter id="s1"><feGaussianBlur stdDeviation="0.6"/></filter>
+  </defs>
+
+  <!-- Trazos principales -->
+  <g stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Línea 1 -->
+    <path d="M0,60 C220,80 320,80 540,60 S920,30 1140,60 1440,90 1440,90" />
+    <!-- Línea 2 -->
+    <path d="M0,160 C160,140 300,140 520,160 S900,200 1120,170 1440,140 1440,140" />
+    <!-- Línea 3 -->
+    <path d="M0,240 C200,230 380,210 620,230 S980,270 1200,250 1440,220 1440,220" />
+  </g>
+
+  <!-- Nodos (puntos) -->
+  <g class={c.dot} filter="url(#s1)">
+    <circle cx="260" cy="58" r="3"/>
+    <circle cx="540" cy="60" r="3"/>
+    <circle cx="920" cy="48" r="3"/>
+    <circle cx="1120" cy="70" r="3"/>
+    <circle cx="520" cy="160" r="3"/>
+    <circle cx="900" cy="200" r="3"/>
+    <circle cx="1200" cy="250" r="3"/>
+    <circle cx="620" cy="230" r="3"/>
+  </g>
+</svg>

@@ -1,0 +1,38 @@
+{
+  "name": "c-users-m3jkm-onedrive-documentos-whatisia",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro",
+    "tailwind:init": "tailwindcss init -p"
+  },
+  "dependencies": {
+    "@astrojs/cloudflare": "^12.5.3",
+    "@astrojs/netlify": "^6.3.4",
+    "@astrojs/node": "^9.2.2",
+    "@astrojs/react": "^4.3.0",
+    "@astrojs/sitemap": "^3.7.0",
+    "astro": "^5.8.0",
+    "character-entities-html4": "^2.1.0",
+    "cloudinary": "^2.6.1",
+    "dotenv": "^16.4.7",
+    "firebase": "^11.10.0",
+    "firebase-admin": "^13.4.0",
+    "framer-motion": "^12.6.3",
+    "lucide-react": "^0.511.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-hot-toast": "^2.5.2",
+    "react-router-dom": "^7.6.0"
+  },
+  "devDependencies": {
+    "@astrojs/tailwind": "^6.0.1",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.7.3"
+  }
+}

@@ -1,0 +1,180 @@
+---
+// src/layouts/BaseLayout.astro
+import "../styles/global.css";
+import LogoQueso from "../assets/logo-bg.png";
+
+const { title } = Astro.props || { title: "" };
+
+import LoginButton from "../components/LoginButton.jsx";
+import MobileMenu from "../components/MobileMenu.jsx";
+import AuthLoginIsland from "../components/AuthLoginIsland.jsx";
+/* Fondo desde src/assets (elige uno) */
+// Importa como URL para usarlo en background-image
+// Importa como URL para que background-image reciba una ruta válida
+import bgAmorphUrl from "../assets/bg_amorph.svg?url";
+// import bgAmorphUrl from "../assets/bg_amorph.svg?url";
+---
+<html lang="es" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+  </head>
+  <body
+    class="relative bg-glass text-default font-sans flex flex-col min-h-screen overflow-x-hidden"
+    style={`background:
+      /* Gradientes de respaldo (si fallara la imagen, aún verás color) */
+      radial-gradient(1100px 600px at 15% -10%, rgba(59,102,255,.12), transparent 60%),
+      radial-gradient(900px 500px at 110% 20%, rgba(168,85,247,.10), transparent 60%),
+      url('${bgAmorphUrl}') center / cover no-repeat fixed;`}
+  >
+
+    <!-- Fondo amorfo global (sin fade) con colores suavizados -->
+    <div class="pointer-events-none fixed inset-0 -z-10">
+      <img
+        src={bgAmorphUrl}
+        alt=""
+        class="w-full h-full object-cover opacity-20 filter saturate-[.75] contrast-[.95]"
+      />
+    </div>
+
+
+   <header
+  class="fixed top-0 left-0 z-50 w-full flex items-center justify-between
+  px-4 py-3 bg-white/40 border border-white/40 shadow-md shadow-slate-900/10 backdrop-blur-xl"
+    >
+
+      <!-- Logo -->
+      <a href="/" class="flex items-center gap-2 text-3xl font-bold italic">
+        <img src={LogoQueso.src} alt="Logo Queesia" class="h-8 w-8" />
+        <span>
+          <span class="text-black">quees</span><span class="text-primary">ia</span>
+        </span>
+      </a>
+
+      <!-- Navegación, menú móvil y login -->
+      <div class="flex items-center gap-4">
+        <!-- Menú normal solo en escritorio -->
+      <nav class="hidden lg:flex space-x-6 text-default-strong text-lg">
+  <a href="/#catalogo" class="text-black hover:text-primary transition-colors duration-200">Catálogo</a>
+  <a href="/casos" class="text-black hover:text-primary transition-colors duration-200">Quesos de éxito</a>
+  <a href="https://expertos.queesia.com" target="_blank" rel="noopener noreferrer" class="text-black hover:text-primary transition-colors duration-200">Expertos</a>
+
+  <!-- NUEVOS LINKS -->
+  <a
+    href="https://foro.queesia.com"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="text-black hover:text-primary transition-colors duration-200"
+  >
+    Foro
+  </a>
+  <a
+    href="/blog"
+    class="text-black hover:text-primary transition-colors duration-200"
+  >
+    Blog
+  </a>
+
+  <a href="/biblioteca" class="text-black hover:text-primary transition-colors duration-200">Biblioteca</a>
+  <a href="/ofertas-educativas" class="text-black hover:text-primary transition-colors duration-200">Ofertas educativas</a>
+  <!-- FIN NUEVOS LINKS -->
+   <a
+    href="https://expertos.queesia.com/agenda-ia"
+    target="_blank"
+    rel="noopener noreferrer"
+    class="text-black hover:text-primary transition-colors duration-200"
+  >
+    Agenda IA
+  </a>
+
+  <a href="/nosotros" class="text-black hover:text-primary transition-colors duration-200">Sobre Nosotros</a>
+  <a href="/contacto" class="text-black hover:text-primary transition-colors duration-200">Contáctanos</a>
+</nav>
+
+
+        <!-- Menú hamburguesa solo en móvil -->
+        <MobileMenu client:load />
+
+    
+      <!-- Login: isla única (Provider + Button) para asegurar contexto -->
+      <AuthLoginIsland client:load />
+
+
+      </div>
+    </header>
+
+    <!-- importante: sin fondos sólidos aquí -->
+    <main class="w-full flex-1 bg-transparent">
+
+      <slot />
+    </main>
+
+      <footer class="bg-black text-white text-sm py-6 px-6">
+        <div class="max-w-7xl mx-auto grid md:grid-cols-3 items-center gap-4">
+          <!-- Copyright + mensaje ATDT -->
+          <div class="text-left space-y-2">
+            <p>© 2025 Queesia. Todos los derechos reservados.</p>
+            
+          </div>
+
+        <!-- Redes sociales -->
+<div class="flex justify-center gap-4">
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/quees_ia" target="_blank" rel="noopener noreferrer" class="hover:text-pink-400 transition" title="Instagram">
+    <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <rect x="2" y="2" width="20" height="20" rx="5" ry="5" />
+      <path d="M16 11.37A4 4 0 1112.63 8 4 4 0 0116 11.37z" />
+      <line x1="17.5" y1="6.5" x2="17.5" y2="6.5" />
+    </svg>
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/share/16tCkmXBzp/" target="_blank" rel="noopener noreferrer" class="hover:text-blue-500 transition" title="Facebook">
+    <svg xmlns="http://www.w3.org/2000/svg" class="w-5 h-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <path d="M18 2h-3a5 5 0 00-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 011-1h3z"/>
+    </svg>
+  </a>
+
+<!-- Threads (ícono oficial tipo @ estilizado) -->
+<a href="https://www.threads.net/@quees_ia" target="_blank" rel="noopener noreferrer" class="hover:text-purple-400 transition" title="Threads">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="currentColor" class="w-5 h-5">
+    <path d="M254.5 32C136.6 32 64 111.6 64 215.5c0 72.3 48.1 138.6 132.5 160.2 9.3-6.4 18.1-13.7 26.3-21.9-49.1-12.2-81.4-52.6-81.4-106.7 0-80.3 60.4-137.3 145.1-137.3 73.6 0 130.6 52.1 130.6 129.3 0 92.8-78.4 168.1-185.1 168.1-21.4 0-44.6-3.5-63.2-8.6-9.4 11.6-21.4 22.3-34.5 30.7 32.3 9.7 70.7 14.6 102.4 14.6 130.3 0 224.1-88.3 224.1-203.4C446.3 116.7 361.9 32 254.5 32z"/>
+  </svg>
+</a>
+
+
+  <!-- TikTok -->
+  <a href="https://www.tiktok.com/@quees_ia" target="_blank" rel="noopener noreferrer" class="hover:text-white transition" title="TikTok">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="w-5 h-5" viewBox="0 0 24 24">
+      <path d="M16.75 3a4.75 4.75 0 004.75 4.75v3.07a7.82 7.82 0 01-4.75-1.57v6.64a6.25 6.25 0 11-6.25-6.25c.25 0 .5.02.75.05v3.2a2.91 2.91 0 00-.75-.1 2.75 2.75 0 102.75 2.75V3h3.5Z"/>
+    </svg>
+  </a>
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/quees_ia" target="_blank" rel="noopener noreferrer" class="hover:text-white transition" title="X (antes Twitter)">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="w-5 h-5" viewBox="0 0 24 24">
+      <path d="M20.39 3H17.6l-4.9 6.31L7.74 3H3l6.92 9.43L3 21h3.37l5.4-6.98L16.9 21H21l-7.28-9.94L20.39 3Z"/>
+    </svg>
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/@Quees_IA" target="_blank" rel="noopener noreferrer" class="hover:text-red-500 transition" title="YouTube">
+    <svg xmlns="http://www.w3.org/2000/svg" fill="currentColor" class="w-5 h-5" viewBox="0 0 24 24">
+      <path d="M21.8 8.001s-.2-1.4-.8-2a3.292 3.292 0 00-2.3-.801C16.2 5 12 5 12 5h-.1s-4.2 0-6.7.2c-.9 0-1.7.2-2.3.8-.6.6-.8 2-.8 2S2 9.6 2 11.2v1.6c0 1.6.2 3.2.2 3.2s.2 1.4.8 2c.6.6 1.5.8 2.3.9 1.7.2 7.5.3 7.5.3s4.2 0 6.7-.2a3.292 3.292 0 002.3-.8c.6-.6.8-2 .8-2s.2-1.6.2-3.2v-1.6c0-1.6-.2-3.2-.2-3.2zM9.8 14.7V9.3l5.2 2.7-5.2 2.7z"/>
+    </svg>
+  </a>
+</div>
+
+
+        <!-- Enlaces legales -->
+        <div class="flex flex-col items-center md:items-end gap-1">
+          <a href="/terminos" class="hover:underline text-gray-400">Términos y Condiciones</a>
+          <a href="/privacidad" class="hover:underline text-gray-400">Aviso de Privacidad</a>
+        </div>
+      </div>
+    </footer>
+   {/* scripts */}
+  <script src="/scripts/parallax.js" type="module"></script>
+  </body>
+</html>

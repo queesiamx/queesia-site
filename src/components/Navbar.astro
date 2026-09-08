@@ -1,0 +1,58 @@
+---
+const { title } = Astro.props as { title?: string };
+---
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<header class="navbar">
+  <div class="container">
+    <a href="/" class="logo">
+      <img src="/logo.png" alt="Queesia Logo" />
+    </a>
+    <h1>{title ?? "Queesia - Directorio de IA"}</h1>
+    <div class="search-container">
+      <input 
+        type="text" 
+        id="searchInput"
+        placeholder="Buscar por nombre, categoría o etiqueta..." 
+        class="search-bar"
+      />
+      <button id="searchBtn">🔍</button>
+
+  </div>
+</header>
+
+<style>
+.navbar {
+  background: #fff;
+  padding: 10px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid #ddd;
+}
+
+.logo img {
+  height: 50px;
+}
+
+.search-container {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.search-bar {
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+#searchBtn {
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 8px 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+</style>

@@ -1,0 +1,28 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+---
+
+<BaseLayout title="¡Gracias por tu mensaje!">
+  <section class="text-center py-20 px-6">
+    <h1 class="text-4xl font-bold text-black mb-4">¡Gracias por tu queso! </h1>
+    <p class="text-lg text-black mb-8">
+      Hemos recibido tu mensaje y pronto te responderemos . Mientras tanto, puedes seguir explorando Queesia. 
+    </p>
+    <img src="/logo-bg.png" alt="Logo de IA" class="w-64 mx-auto mt-6" />
+
+    <div class="flex flex-col sm:flex-row justify-center gap-4 mt-8">
+        <a
+          href="/contacto"
+          class="bg-black text-white px-5 py-3 rounded-lg font-semibold hover:bg-primary-strong transition text-center"
+        >
+        Enviar otro mensaje
+    </a>
+    <a
+      href="/"
+      class="border border-black text-black px-5 py-3 rounded-lg font-semibold hover:bg-primary-soft transition text-center"
+    >
+        Ir al inicio
+      </a>
+    </div>
+  </section>
+</BaseLayout>

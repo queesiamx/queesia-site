@@ -1,0 +1,173 @@
+---
+// src/pages/nosotros.astro
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+// 🔽 Importa las imágenes desde src/assets
+// (si prefieres usar "mision.jpeg", cambia la 1ª línea)
+import MissionImg from "../assets/ovni-queesia.jpg";
+import EdgarImg   from "../assets/edgar_quesia.jpg";
+import AlexImg    from "../assets/alex_quesia.jpg";
+import GusImg    from "../assets/gus_quesia.jpg";
+import MarianaImg    from "../assets/mariana_quesia.png";
+import TobioImg   from "../assets/quesitos.jpg";
+// Fallback: usa cualquier imagen ligera que tengas
+import FallbackImg from "../assets/logo-bg.png";
+
+// (Opcionales) en .env para los botones
+// Dejamos un valor por defecto con el canal de Telegram
+const TELEGRAM_URL =
+  import.meta.env.PUBLIC_TELEGRAM_URL ??
+  "https://t.me/radarqueesia";
+
+const DISCORD_URL = import.meta.env.PUBLIC_DISCORD_URL ?? "";
+
+
+// ✅ Usa .src para obtener la URL servida por Astro/Vite
+const MISSION_IMG = MissionImg.src;
+const TEAM = [
+  { name: "Misa Cheddar",  role: "Cofundador — Ingeniería aplicada de queso",        avatar: EdgarImg.src },
+  { name: "Alex Manchego",  role: "Cofundador — Producto & Consultoría",     avatar: AlexImg.src },
+  { name: "Gus Parmesano",  role: "Plataforma, IA y queso",     avatar: GusImg.src },
+  { name: "Mariana Emmental",  role: "Desarrollo Web",     avatar: MarianaImg.src },
+  { name: "Tobio de Quesos", role: "Sumiller de quesos premium",             avatar: TobioImg.src },
+];
+
+const FALLBACK = FallbackImg.src;
+
+const FEATURES = [
+  { icon: "⚡", title: "Innovación", text: "Siempre a la vanguardia de las últimas tecnologías de IA." },
+  { icon: "🛡️", title: "Confianza",  text: "Recomendaciones verificadas y probadas antes de aparecer." },
+  { icon: "🤝", title: "Comunidad",  text: "Una comunidad activa que comparte hallazgos y mejores prácticas." },
+];
+---
+
+<BaseLayout title="Sobre nosotros — queesia">
+  <section class="max-w-7xl mx-auto px-4 py-12 pt-24 md:pt-28">
+    <!-- Hero -->
+    <header class="text-center max-w-3xl mx-auto">
+      <h1 class="text-4xl md:text-5xl font-extrabold italic">Sobre nosotros</h1>
+      <p class="text-gray-600 mt-4">
+        Somos el directorio más fresco de aplicaciones de Inteligencia Artificial. Ayudamos a profesionales
+        y equipos a encontrar las herramientas adecuadas para sus necesidades, sin ruido y con criterio.
+      </p>
+    </header>
+
+    <!-- Features -->
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-5 mt-10">
+      {FEATURES.map((f) => (
+        <article class="bg-white rounded-2xl border ring-1 ring-black/5 shadow-sm p-6 text-center">
+          <div class="text-3xl">{f.icon}</div>
+          <h3 class="mt-2 font-semibold">{f.title}</h3>
+          <p class="text-sm text-gray-600 mt-2">{f.text}</p>
+        </article>
+      ))}
+    </div>
+
+    <!-- Detrás del queso: ilustración + misión/visión -->
+<section class="mt-14 grid grid-cols-1 lg:grid-cols-2 lg:grid-rows-2 gap-8 items-stretch">
+  <!-- Ilustración: ocupa 2 filas en desktop -->
+  <figure
+    class="bg-white rounded-2xl border ring-1 ring-black/5 p-4 overflow-hidden
+           flex items-center justify-center
+           lg:row-span-2 h-full"
+  >
+    <img
+      src={MISSION_IMG}
+      alt="Ilustración misión queesia"
+      loading="lazy"
+      decoding="async"
+      class="w-full h-full object-contain"   
+      onerror={`this.onerror=null; this.src='${FALLBACK}';`}
+    />
+  </figure>
+
+  <!-- Columna derecha: Misión -->
+  <article class="bg-white rounded-2xl border ring-1 ring-black/5 p-6">
+    <h3 class="font-bold text-lg">Misión</h3>
+    <p class="text-gray-700 mt-2">
+      Ser el catálogo más completo y práctico de apps de IA en español. Curamos, probamos y
+      explicamos para que la gente encuentre soluciones reales sin perder tiempo entre miles de opciones.
+    </p>
+  </article>
+
+  <!-- Columna derecha: Visión -->
+  <article class="bg-white rounded-2xl border ring-1 ring-black/5 p-6">
+    <h3 class="font-bold text-lg">Visión</h3>
+    <p class="text-gray-700 mt-2">
+      Acelerar el impacto de la IA en empresas, gobiernos y personas; conectando problemas con
+      herramientas confiables y casos reales que inspiran decisiones de calidad.
+    </p>
+  </article>
+</section>
+
+
+
+    <!-- Nuestro equipo -->
+    <section class="mt-16">
+      <h2 class="text-2xl font-extrabold italic mb-4">Nuestros quesos 🧀</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+        {TEAM.map((m) => (
+          <article class="bg-white rounded-2xl border ring-1 ring-black/5 p-5 flex gap-4 items-center">
+            <img
+              src={m.avatar}
+              alt={m.name}
+              loading="lazy"
+              decoding="async"
+              class="w-16 h-16 rounded-xl object-contain bg-gray-50 ring-1 ring-black/5"
+              onerror={`this.onerror=null; this.src='${FALLBACK}';`}
+            />
+            <div>
+              <h3 class="font-semibold">{m.name}</h3>
+              <p class="text-sm text-gray-600">{m.role}</p>
+            </div>
+          </article>
+        ))}
+      </div>
+    </section>
+
+    <!-- Únete a la comunidad -->
+    <section class="mt-16 bg-yellow-100/60 rounded-2xl px-6 py-8 border">
+      <div class="max-w-3xl mx-auto text-center">
+         <h2 class="text-2xl md:text-3xl font-extrabold italic">Únete al canal</h2>
+        <p class="text-gray-700 mt-2">
+          Recibe señales, tendencias, lanzamientos y casos relevantes sobre IA, energía e innovación.
+        </p>
+        <p class="text-gray-700">
+          Sigue el Radar Queesia en Telegram y mantente al día. 🧀
+        </p>
+
+        <div class="flex flex-wrap items-center justify-center gap-3 mt-5">
+  {TELEGRAM_URL ? (
+  <a
+    href={TELEGRAM_URL}
+    target="_blank"
+    rel="noopener noreferrer"
+    class="px-4 py-2 rounded-xl bg-sky-500 text-white hover:bg-sky-600 transition inline-flex items-center gap-2"
+  >
+    <!-- Telegram icon -->
+    <svg viewBox="0 0 24 24" class="h-5 w-5" fill="currentColor" aria-hidden="true">
+      <path d="M21.944 4.506c.315-1.214-.442-1.69-1.45-1.318L2.82 10.01c-1.206.47-1.188 1.143-.206 1.444l4.52 1.41 10.46-6.6c.494-.3.946-.139.575.19l-8.474 7.653-.329 4.635c.482 0 .695-.221.964-.482l2.314-2.248 4.812 3.553c.887.49 1.52.237 1.741-.822l2.747-12.237z"/>
+    </svg>
+    Telegram
+  </a>
+) : null}
+          {DISCORD_URL && (
+            <a
+              href={DISCORD_URL}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="px-4 py-2 rounded-xl bg-indigo-600 text-white hover:bg-indigo-700 transition"
+            >
+              Discord
+            </a>
+          )}
+          {!TELEGRAM_URL && !DISCORD_URL && (
+            <span class="text-sm text-gray-500">
+              Configura <code>PUBLIC_TELEGRAM_URL</code> o <code>PUBLIC_DISCORD_URL</code> en tu <code>.env</code>.
+            </span>
+          )}
+        </div>
+      </div>
+    </section>
+  </section>
+</BaseLayout>

@@ -1,0 +1,756 @@
+---
+// src/pages/index.astro
+import Layout from "../layouts/BaseLayout.astro";
+import ToolCard from "../components/ToolCard.astro";
+import MiniToolCard from "../components/MiniToolCard.tsx";
+import CategoryPreview from "../components/CategoryPreview.tsx";
+import VisitCounter from "../components/VisitCounter.jsx";
+import HomeNewAppsDynamic from "../components/HomeNewAppsDynamic.jsx";
+import HomeCategoryChipsDynamic from "../components/HomeCategoryChipsDynamic.jsx";
+import HomeCategoryGridDynamic from "../components/HomeCategoryGridDynamic.jsx";
+import type { App } from "../types";
+//import SectionDeco from "~/components/SectionDeco.astro";
+import SectionCircuits from "~/components/SectionCircuits.astro";
+import BgAmorph from "~/components/BgAmorph.astro";
+import MobileSocialDock from "../components/social/MobileSocialDock.jsx"
+import DesktopSocialDock from "../components/social/DesktopSocialRail.jsx";
+import QueesiaBotWidget from "../components/QueesiaBotWidget.jsx";
+import RepositorioNacionalAd from "../components/RepositorioNacionalAd.jsx";
+import AdBanner from "../components/AdBanner.jsx";
+import AdPopup from "../components/AdPopup.jsx";
+
+
+const TELEGRAM_URL =
+  import.meta.env.PUBLIC_TELEGRAM_URL ??
+  "https://t.me/radarqueesia";
+
+const DISCORD_URL = import.meta.env.PUBLIC_DISCORD_URL ?? "";
+
+// 1) Categorías
+const resCategories = await fetch("https://queesia.com/api/obtener_categorias.php");
+let categorias: string[] = [];
+if (resCategories.ok) {
+  try {
+    const dataCategories = await resCategories.json();
+    if (dataCategories?.success && Array.isArray(dataCategories.categories)) {
+      categorias = dataCategories.categories
+        .filter((c: unknown) => typeof c === "string" && c.trim() !== "")
+        .map((c: string) => c.trim());
+    }
+  } catch {}
+}
+
+// Métrica total de apps (preferir `total`; si no, length)
+let totalApps = 0;
+try {
+  const resAll = await fetch(
+    "https://queesia.com/api/obtener_datos.php?all=1&limit=5000&page=1&_nocache=" + Date.now()
+  );
+  if (resAll.ok) {
+    const dataAll = await resAll.json();
+    if (typeof dataAll.total === "number") totalApps = dataAll.total;
+    else if (Array.isArray(dataAll.tools)) totalApps = dataAll.tools.length;
+  }
+} catch {}
+
+
+// 3) Filas de categorías (grupos de 5) — construir DESPUÉS de tener `categorias`
+const categoryRows: string[][] = [];
+for (let i = 0; i < categorias.length; i += 5) {
+  categoryRows.push(categorias.slice(i, i + 5));
+}
+
+// 4) Top 5 por categoría + conteo total para "Ver todas (n)"
+const conteosPorCategoria: Record<string, number> =
+  Object.fromEntries(categorias.map((c) => [c, 0]));
+
+const appFetches: { categoria: string; apps: App[] }[] = [];
+
+for (const categoria of categorias) {
+  let apps: App[] = [];
+
+  // Top 5
+  try {
+    const resTop = await fetch(
+      `https://queesia.com/api/obtener_datos.php?category=${encodeURIComponent(
+        categoria
+      )}&limit=5&top=1&_nocache=${Date.now()}`
+    );
+    if (resTop.ok) {
+      const dataTop = await resTop.json();
+      apps = Array.isArray(dataTop.tools) ? (dataTop.tools as App[]) : [];
+    }
+  } catch {}
+
+  // Conteo total por categoría
+  try {
+    const resCount = await fetch(
+      `https://queesia.com/api/obtener_datos.php?category=${encodeURIComponent(
+        categoria
+      )}&all=1&_nocache=${Date.now()}`
+    );
+    if (resCount.ok) {
+      const dataCount = await resCount.json();
+      conteosPorCategoria[categoria] = Array.isArray(dataCount.tools)
+        ? dataCount.tools.length
+        : 0;
+    }
+  } catch {}
+
+  appFetches.push({ categoria, apps });
+}
+
+// 5) appsByCategoria preservando el orden original
+const appsByCategoria: Record<string, App[]> = Object.fromEntries(
+  categorias.map((c) => [c, [] as App[]])
+);
+
+for (const { categoria, apps } of appFetches) {
+  appsByCategoria[categoria] = apps;
+}
+
+
+const API_BASE = "https://queesia.com/api";
+const NEW_SINCE_ID = 1475;
+
+let nuevasApps: App[] = [];
+
+try {
+  const resNuevas = await fetch(
+    `${API_BASE}/obtener_datos.php?new_since_id=${NEW_SINCE_ID}&limit=4`,
+    { headers: { Accept: "application/json" } }
+  );
+
+  const dataNuevas = await resNuevas.json();
+
+  if (dataNuevas?.success && Array.isArray(dataNuevas.tools)) {
+    nuevasApps = dataNuevas.tools as App[];
+  }
+} catch (error) {
+  console.error("Error cargando apps nuevas:", error);
+}
+
+---
+
+<Layout title="Inicio | Queesia">
+  <DesktopSocialDock client:load side="left" />
+  <AdPopup client:load />
+
+  <!-- Banner patrocinado superior -->
+<section class="relative z-10 w-full bg-transparent px-4 md:px-6 mt-[96px] md:mt-[104px] pb-6">
+  <div class="w-full max-w-[1500px] mx-auto">
+    <AdBanner client:load />
+  </div>
+</section>
+
+  <!-- BG amorfo detrás del recuadro --> 
+ <!-- 2) Mueve el fondo fuera del section y hazlo fijo a toda la página -->
+  <!-- Fondo fijo con fade en bordes (vertical + opcional horizontal) -->
+ <div
+   class="pointer-events-none fixed inset-0 -z-10
+          [mask-image:linear-gradient(to_bottom,rgba(0,0,0,0),#000_12%,#000_88%,rgba(0,0,0,0))]
+          [-webkit-mask-image:linear-gradient(to_bottom,rgba(0,0,0,0),#000_12%,#000_88%,rgba(0,0,0,0))]
+          [mask-repeat:no-repeat]"
+ >
+  <!-- Si también querés fade a los lados, anidá otra máscara horizontal -->
+   <div
+     class="
+       [mask-image:linear-gradient(to_right,rgba(0,0,0,0),#000_10%,#000_90%,rgba(0,0,0,0))]
+       [-webkit-mask-image:linear-gradient(to_right,rgba(0,0,0,0),#000_10%,#000_90%,rgba(0,0,0,0))]
+       [mask-repeat:no-repeat] w-full h-full
+    "
+   >
+     <img
+       src="/bg_amorph.svg"
+       class="w-full h-full object-cover opacity-25"
+       alt=""
+     />
+   </div>
+ </div>
+
+  <!-- Cinta bajo navbar con circuitos (evita banda blanca superior) -->
+
+  
+
+   <section class="relative z-0 w-full flex flex-col 
+   items-center overflow-hidden pt-4 pb-8 md:pt-6 md:pb-12">
+   <!-- BG amorfo detrás del recuadro -->
+
+  
+
+    <!-- DECORACIÓN: detrás del contenido -->
+    <div class="pointer-events-none absolute inset-0 -z-10">
+      <!-- orbes suaves (sin fondo sólido) -->
+      <div class="absolute -top-10 -left-16 w-80 h-80 rounded-full ring-1 ring-white/50 bg-transparent backdrop-blur-[2px] mix-blend-soft-light"></div>
+      <div class="absolute -bottom-12 -right-20 w-72 h-72 rounded-full ring-1 ring-white/40 bg-transparent backdrop-blur-[2px] mix-blend-soft-light"></div>
+      <!-- medios círculos como contornos -->
+      <div class="absolute top-16 -left-24 w-64 h-64 rounded-l-full ring-1 ring-white/40 bg-transparent mix-blend-soft-light"></div>
+      <div class="absolute bottom-16 -right-24 w-64 h-64 rounded-l-full ring-1 ring-white/30 bg-transparent mix-blend-soft-light"></div>
+    </div>
+
+     <div class="relative z-10 text-center text-default
+             bg-white/45 backdrop-blur-xl
+             border border-white/50
+             shadow-[0_20px_40px_-20px_rgba(0,0,0,.35)]
+             px-5 py-6 md:px-10 md:py-8 max-w-3xl w-full rounded-3xl overflow-hidden">
+   <!-- Fondo amorfo dentro del card -->
+   <img
+     src="/bg_amorph.svg"
+     alt=""
+     class="pointer-events-none absolute inset-0 -z-10 w-full h-full object-cover opacity-20 mix-blend-soft-light"
+   />
+
+<div class="pointer-events-none absolute -z-10 left-1/2 top-[60%] -translate-x-1/2 w-[70%] h-[40%]
+            rounded-[50%] blur-3xl opacity-40
+            bg-[radial-gradient(closest-side,rgba(0,0,0,.25),transparent)]"></div>
+
+      <img src="/logo-bg.png" alt="Logo de IA" class="w-52 md:w-64 mx-auto mt-2 md:mt-4 hero-logo" />
+      <h1
+      class="text-[34px] leading-[40px] md:text-[48px] md:leading-[52px] font-bold italic text-black"
+        style="font-family: Raleway, ui-sans-serif, system-ui, sans-serif;"
+      >
+        ¿qué es <span class="text-primary not-italic font-bold">IA</span>?
+      </h1>
+
+
+
+<p class="max-w-2xl mx-auto text-base md:text-lg mt-3">
+  Descubre el queso de la Inteligencia Artificial en el catálogo de apps más fresco del día.
+     Encuentra las herramientas perfectas para potenciar tu productividad.  
+</p>
+
+      <div class="flex justify-center gap-4 mt-4">
+        <a href="#catalogo" class="btn-gradient">Explorar catálogo</a>  
+        <a href="#nuevas" class="btn-gradient">Recién agregadas</a>      
+      </div>
+      
+      <!-- MÉTRICAS: Apps y Categorías (glass) -->
+<div
+  id="metrics"
+  class="mt-5 w-full max-w-3xl mx-auto grid grid-cols-2 gap-4 md:gap-6 text-center"
+>
+  <!-- Apps -->
+  <div
+    class="rounded-2xl bg-white/60 backdrop-blur-md border border-white/60 shadow-lg px-4 py-4"
+  >
+    <div class="text-3xl md:text-4xl font-bold text-primary">
+      <span class="countup" data-countto={totalApps} data-metric="apps">0</span>+
+    </div>
+    <div class="text-sm text-default">Aplicaciones</div>
+  </div>
+  <!-- Categorías -->
+  <div
+    class="rounded-2xl bg-white/60 backdrop-blur-md border border-white/60 shadow-lg px-4 py-4"
+  >
+    <div class="text-3xl md:text-4xl font-bold text-primary">
+      <span class="countup" data-countto={categorias.length} data-metric="categories">0</span>+
+    </div>
+    <div class="text-sm text-default">Categorías</div>
+  </div>
+</div>
+
+<!-- Animación + actualización dinámica del conteo -->
+<script is:inline>
+  (function () {
+    const els = document.querySelectorAll(".countup");
+    const ease = t => 1 - Math.pow(1 - t, 3);
+
+    function animate(el, to) {
+      const dur = 800;
+      const from = 0;
+      const start = performance.now();
+
+      function step(now) {
+        const p = Math.min(1, (now - start) / dur);
+        el.textContent = Math.floor(from + (to - from) * ease(p));
+        if (p < 1) requestAnimationFrame(step);
+      }
+
+      requestAnimationFrame(step);
+    }
+
+    async function loadDynamicMetrics() {
+      try {
+        const [appsRes, categoriesRes] = await Promise.all([
+          fetch("https://queesia.com/api/obtener_datos.php?all=1&limit=5000&page=1&_nocache=" + Date.now()),
+          fetch("https://queesia.com/api/obtener_categorias.php?_nocache=" + Date.now())
+        ]);
+
+        const appsData = await appsRes.json();
+        const categoriesData = await categoriesRes.json();
+
+        const totalApps =
+          typeof appsData.total === "number"
+            ? appsData.total
+            : Array.isArray(appsData.tools)
+              ? appsData.tools.length
+              : null;
+
+        const totalCategories =
+          categoriesData?.success && Array.isArray(categoriesData.categories)
+            ? categoriesData.categories.length
+            : null;
+
+        els.forEach((el) => {
+          const metric = el.getAttribute("data-metric");
+
+          if (metric === "apps" && totalApps !== null) {
+            el.setAttribute("data-countto", String(totalApps));
+          }
+
+          if (metric === "categories" && totalCategories !== null) {
+            el.setAttribute("data-countto", String(totalCategories));
+          }
+        });
+      } catch (error) {
+        console.error("Error cargando métricas dinámicas:", error);
+      }
+    }
+
+    loadDynamicMetrics().finally(() => {
+      const io = new IntersectionObserver((entries) => {
+        entries.forEach(e => {
+          if (e.isIntersecting) {
+            const el = e.target;
+            const to = parseInt(el.getAttribute("data-countto") || "0", 10);
+            animate(el, isNaN(to) ? 0 : to);
+            io.unobserve(el);
+          }
+        });
+      }, { threshold: 0.5 });
+
+      els.forEach(el => io.observe(el));
+    });
+  })();
+</script>
+
+      
+    </div>
+
+    <!-- Únete a la comunidad -->
+    <section class="mt-8 mb-6 bg-yellow-100/60 rounded-2xl px-5 py-6 border">
+      <div class="max-w-3xl mx-auto text-center">
+        <h2 class="text-2xl md:text-3xl font-extrabold italic">Únete al canal</h2>
+        <p class="text-gray-700 mt-2">
+          Recibe señales, tendencias, lanzamientos y casos relevantes sobre IA, energía e innovación.
+        </p>
+        <p class="text-gray-700">
+          Sigue el Radar Queesia en Telegram y mantente al día. 🧀
+        </p>
+
+<div class="flex flex-wrap items-center justify-center gap-3 mt-5">
+  {TELEGRAM_URL ? (
+  <a
+    href={TELEGRAM_URL}
+    target="_blank"
+    rel="noopener noreferrer"
+    class="px-4 py-2 rounded-xl bg-sky-500 text-white hover:bg-sky-600 transition inline-flex items-center gap-2"
+  >
+    <!-- Telegram icon -->
+    <svg viewBox="0 0 24 24" class="h-5 w-5" fill="currentColor" aria-hidden="true">
+      <path d="M21.944 4.506c.315-1.214-.442-1.69-1.45-1.318L2.82 10.01c-1.206.47-1.188 1.143-.206 1.444l4.52 1.41 10.46-6.6c.494-.3.946-.139.575.19l-8.474 7.653-.329 4.635c.482 0 .695-.221.964-.482l2.314-2.248 4.812 3.553c.887.49 1.52.237 1.741-.822l2.747-12.237z"/>
+    </svg>
+    Telegram
+  </a>
+) : null}
+          {DISCORD_URL && (
+            <a
+              href={DISCORD_URL}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="px-4 py-2 rounded-xl bg-indigo-600 text-white hover:bg-indigo-700 transition"
+            >
+              Discord
+            </a>
+          )}
+          {!TELEGRAM_URL && !DISCORD_URL && (
+            <span class="text-sm text-gray-500">
+              Configura <code>PUBLIC_TELEGRAM_URL</code> o <code>PUBLIC_DISCORD_URL</code> en tu <code>.env</code>.
+            </span>
+          )}
+        </div>
+      </div>
+    </section>
+
+
+  </section>
+
+
+    <!-- Publicidad institucional: Repositorio Nacional -->
+     <section class="bg-transparent px-4 mt-0">
+    <div class="max-w-6xl mx-auto">
+      <RepositorioNacionalAd client:load />
+    </div>
+    </section> 
+  
+    <HomeNewAppsDynamic client:load />
+
+  <section id="catalogo" class="pt-8 md:pt-10">
+
+  <div
+    id="catalogoSticky"
+    class="sticky top-[64px] md:static z-40
+           bg-white/70 md:bg-transparent
+           backdrop-blur-xl md:backdrop-blur-0
+           border-b border-white/60 md:border-0
+           shadow-md md:shadow-none"
+  >
+
+    <!-- HÉROE de Catálogo -->
+    <section
+      id="catalogo-hero"
+      class="relative pt-3 pb-2 md:pt-6 md:pb-10 px-4 text-center mt-0 bg-tech-circuits bg-transparent"
+    >
+      <SectionCircuits tone="indigo" />
+
+      <div class="relative z-[1] max-w-5xl mx-auto">
+        <h2 class="text-3xl md:text-4xl font-extrabold tracking-tight">
+          Catálogo de Aplicaciones
+        </h2>
+
+        <p class="mt-2 text-default/70 hidden sm:block">
+          Descubre el queso de la Inteligencia Artificial en el catálogo de apps más fresco del día.
+        </p>
+
+        <!-- Onda inferior opcional para transición suave -->
+        <div class="absolute bottom-0 left-0 w-full overflow-hidden leading-[0] hidden md:block">
+          <svg class="relative block w-full h-[60px]" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320" preserveAspectRatio="none">
+            <path fill="transparent" stroke="#e5e7eb" stroke-width="1.5" d="M0,64L80,90.7C160,117,320,171,480,197.3C640,224,800,224,960,213.3C1120,203,1280,181,1360,170.7L1440,160V320H1360C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320H0Z"></path>
+          </svg>
+        </div>
+      </div>
+    </section>
+
+    <!-- BARRA DE BÚSQUEDA -->
+    <section class="bg-transparent py-3 md:py-6 px-4">
+      <div class="max-w-6xl mx-auto">
+        <div class="relative max-w-3xl mx-auto">
+          <input
+            id="searchInput"
+            type="search"
+            placeholder="Buscar por nombre, categoría o etiqueta…"
+            class="w-full h-12 rounded-xl border border-line bg-white
+                   px-4 pr-12 text-[15px] text-default placeholder:text-default-soft
+                   focus:outline-none focus:ring-4 focus:ring-primary/10 focus:border-primary"
+          />
+
+          <button
+            id="searchBtn"
+            aria-label="Buscar"
+            class="absolute inset-y-0 right-2 my-auto h-9 w-9
+                   rounded-lg text-primary hover:bg-gray-100
+                   focus:outline-none focus:ring-2 focus:ring-primary/20"
+          >
+            <svg viewBox="0 0 24 24" fill="none" class="h-5 w-5 mx-auto" aria-hidden="true">
+              <path d="M21 21l-4.2-4.2m1.2-5a6 6 0 11-12 0 6 6 0 0112 0z"
+                    stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <!-- CHIPS -->
+    <div class="pb-3 md:pb-0">
+      <HomeCategoryChipsDynamic client:load />
+    </div>
+
+  </div>
+
+
+<!-- RESULTADOS DE BÚSQUEDA -->
+<div id="appGrid" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 px-4 mt-8"></div>
+
+<!-- MENSAJE DE NO RESULTADOS -->
+<div id="noResultsMessage" class="text-center text-default text-lg mt-4 hidden">
+  <img src="/ohno-cheese.png" alt="Oh no cheese" class="mx-auto w-32 md:w-40 mb-4" />
+  <p>⚠️ No encontramos ninguna app, categoría o etiqueta relacionada a la palabra ingresada. <br />Intenta con otra búsqueda. 🧀</p>
+</div>
+
+<!-- FONDO + DECO DEL GRID -->
+ <div id="catalogoContentStart"></div>
+<section class="relative py-8 md:py-10 bg-tech-circuits">
+  <SectionCircuits tone="cyan" />
+  <div class="relative z-[1] max-w-6xl mx-auto">
+    <!-- CATEGORÍAS dinámicas -->
+  <HomeCategoryGridDynamic client:load />
+  </div>
+</section>
+
+<div id="catalogoContentEnd"></div>
+
+<!-- JS PARA BÚSQUEDA -->
+<script defer>
+  document.addEventListener("DOMContentLoaded", () => {
+    const searchInput = document.getElementById("searchInput");
+    const searchBtn = document.getElementById("searchBtn");
+    const resultadoDiv = document.getElementById("appGrid");
+    const mensajeNoResultados = document.getElementById("noResultsMessage");
+
+    async function buscarAplicaciones(query) {
+      if (!resultadoDiv || !mensajeNoResultados) return;
+      if (!query || query.trim().length === 0) {
+        resultadoDiv.innerHTML = "";
+        mensajeNoResultados.classList.add("hidden");
+        return;
+      }
+      if (query.length < 3) return;
+
+      try {
+        const url = `https://queesia.com/api/obtener_datos.php?query=${encodeURIComponent(query)}&limit=20`;
+        const response = await fetch(url);
+        const data = await response.json();
+        mostrarResultados(data.tools);
+      } catch (error) {
+        console.error("✖ Error en la búsqueda:", error);
+        resultadoDiv.innerHTML = "";
+        mensajeNoResultados.classList.remove("hidden");
+      }
+    }
+
+    function mostrarResultados(apps) {
+      if (!resultadoDiv || !mensajeNoResultados) return;
+      resultadoDiv.innerHTML = "";
+      if (!apps || apps.length === 0) {
+        mensajeNoResultados.classList.remove("hidden");
+        return;
+      }
+      mensajeNoResultados.classList.add("hidden");
+
+      apps.forEach(app => {
+        const defaultLogoURL = "https://queesia.com/logos/default-logo.png";
+        const rawLogoFilename = app.logo_filename
+          ? String(app.logo_filename).split("/").pop().trim()
+          : "";
+        const hasLogoExtension = /\.(png|jpg|jpeg|webp|svg)$/i.test(rawLogoFilename);
+        const logoURL = rawLogoFilename
+          ? `https://queesia.com/logos/${
+              hasLogoExtension ? rawLogoFilename : `${rawLogoFilename}.png`
+           }`
+          : defaultLogoURL;
+
+        const rate = app.rate && parseFloat(app.rate) > 0
+          ? `<p class="text-sm mb-2 text-yellow-600 font-medium">★ ${app.rate} / 5</p>`
+          : `<p class="text-sm mb-2 text-gray-400 font-medium">★ N/A</p>`;
+
+        const tags = Array.isArray(app.tags) && app.tags.length > 0
+          ? app.tags.map(tag => `<span class="bg-primary text-white text-xs px-2 py-1 rounded animate-fade-in">${tag}</span>`).join(" ")
+          : `<span class="bg-gray-400 text-white text-xs px-2 py-1 rounded">Sin etiquetas</span>`;
+
+        resultadoDiv.innerHTML += `
+          <div class="relative bg-white border border-gray-200 rounded-xl shadow hover:shadow-lg transition duration-200 flex flex-col items-center text-center p-4 w-full max-w-xs mx-auto">
+            <div class="w-24 h-24 bg-white rounded-xl shadow flex items-center justify-center overflow-hidden mb-4">
+              <img
+                src="${logoURL}"
+                alt="Logo de ${app.name}"
+                class="max-w-[80%] max-h-[80%] object-contain"
+                loading="lazy"
+                onerror="this.onerror=null;this.src='https://queesia.com/logos/default-logo.png';"
+              />
+            </div>
+            <h2 class="text-lg font-semibold text-default mb-1">${app.name}</h2>
+            <p class="text-sm text-default-soft italic mb-1">${app.category ?? "Categoría no disponible"}</p>
+            ${rate}
+            <div class="flex flex-wrap justify-center gap-2 my-2">${tags}</div>
+            <p class="text-sm text-default mt-3 min-h-[70px]">${app.short_description ?? "Descripción no disponible"}</p>
+            <div class="pt-4 w-full flex justify-center mt-auto">
+              <a href="/app/${app.id}" class="bg-black text-white hover:bg-default-soft hover:scale-105 px-4 py-2 rounded-md text-sm font-medium transition-all duration-300">
+                Derrite tu curiosidad
+              </a>
+            </div>
+          </div>
+        `;
+      });
+    }
+
+    if (searchInput && searchBtn) {
+      searchInput.addEventListener("input", (e) => buscarAplicaciones(e.target.value));
+      searchBtn.addEventListener("click", () => buscarAplicaciones(searchInput.value));
+    }
+  });
+</script>
+
+<script is:inline>
+  document.addEventListener("DOMContentLoaded", () => {
+    const sticky = document.getElementById("catalogoSticky");
+    const btnTop = document.getElementById("catalogoGoTop");
+    const btnBottom = document.getElementById("catalogoGoBottom");
+
+    const getCategories = () =>
+      Array.from(document.querySelectorAll('[id^="cat-"]'));
+
+    function getOffset() {
+      const isMobile = window.innerWidth < 768;
+      const stickyHeight = sticky ? sticky.offsetHeight : 0;
+
+      // En móvil compensamos navbar + bloque sticky + aire visual.
+      return isMobile ? stickyHeight + 48 : 96;
+    }
+
+    function applyScrollMargins() {
+      const offset = getOffset();
+
+      getCategories().forEach((el) => {
+        el.style.scrollMarginTop = `${offset}px`;
+      });
+
+      const start = document.getElementById("catalogoContentStart");
+      const end = document.getElementById("catalogoContentEnd");
+
+      if (start) start.style.scrollMarginTop = `${offset}px`;
+      if (end) end.style.scrollMarginTop = `${offset}px`;
+    }
+
+    function scrollToElement(el, behavior = "smooth") {
+      if (!el) return;
+
+      const top = el.getBoundingClientRect().top + window.scrollY - getOffset();
+
+      window.scrollTo({
+        top: Math.max(top, 0),
+        behavior,
+      });
+    }
+
+    function scrollToCurrentHash(behavior = "smooth") {
+      if (!window.location.hash) return;
+
+      const id = decodeURIComponent(window.location.hash.replace("#", ""));
+      const target = document.getElementById(id);
+
+      if (target) {
+        scrollToElement(target, behavior);
+      }
+    }
+
+    // Aplica margen inicial.
+    applyScrollMargins();
+
+    // React puede renderizar las categorías después del DOMContentLoaded.
+    // Por eso observamos cambios y recalculamos.
+    const observer = new MutationObserver(() => {
+      applyScrollMargins();
+
+      if (window.location.hash.startsWith("#cat-")) {
+        scrollToCurrentHash("auto");
+      }
+    });
+
+    observer.observe(document.body, {
+      childList: true,
+      subtree: true,
+    });
+
+    window.addEventListener("resize", () => {
+      applyScrollMargins();
+      scrollToCurrentHash("auto");
+    });
+
+    window.addEventListener("hashchange", () => {
+      setTimeout(() => {
+        applyScrollMargins();
+        scrollToCurrentHash("smooth");
+      }, 80);
+    });
+
+    // Intercepta clics en chips/anclas de categoría para evitar que el sticky tape la card.
+    document.addEventListener("click", (event) => {
+      const link = event.target.closest('a[href^="#cat-"]');
+      if (!link) return;
+
+      const href = link.getAttribute("href");
+      const target = document.querySelector(href);
+
+      if (!target) return;
+
+      event.preventDefault();
+
+      history.pushState(null, "", href);
+      applyScrollMargins();
+      scrollToElement(target, "smooth");
+    });
+
+    btnTop?.addEventListener("click", () => {
+      const categories = getCategories();
+      const firstCategory =
+        categories[0] || document.getElementById("catalogoContentStart");
+
+      scrollToElement(firstCategory);
+    });
+
+    btnBottom?.addEventListener("click", () => {
+      const categories = getCategories();
+      const lastCategory =
+        categories[categories.length - 1] ||
+        document.getElementById("catalogoContentEnd");
+
+      scrollToElement(lastCategory);
+    });
+
+    // Si cargas directo con URL tipo /#cat-bienestar.
+    setTimeout(() => {
+      applyScrollMargins();
+      scrollToCurrentHash("auto");
+    }, 300);
+  });
+</script>
+
+<div class="md:hidden fixed right-4 bottom-24 z-50 flex flex-col gap-2">
+  <button
+    id="catalogoGoTop"
+    type="button"
+    aria-label="Ir a la primera categoría"
+    class="w-11 h-11 rounded-full bg-white/80 backdrop-blur-xl border border-white/70
+           shadow-lg text-blue-600 font-bold active:scale-95 transition"
+  >
+    ↑
+  </button>
+
+  <button
+    id="catalogoGoBottom"
+    type="button"
+    aria-label="Ir a la última categoría"
+    class="w-11 h-11 rounded-full bg-blue-600 text-white
+           shadow-lg font-bold active:scale-95 transition"
+  >
+    ↓
+  </button>
+</div>
+
+        <!-- CTA A QUESOS DE ÉXITO -->
+  <section id="casos-cta" class="relative py-12 md:py-16 px-4 text-center bg-tech-circuits mt-4">
+  <SectionCircuits tone="blue" />
+    <div class="relative z-[1] max-w-5xl mx-auto text-center">
+    
+     <h2 class="text-3xl font-bold text-gray-800 mb-4">
+       ¿Quieres ver cómo la IA ya está haciendo historia?
+     </h2>
+     <p class="text-lg text-default mb-6">
+       Explora los casos reales donde las apps de IA están generando impacto en gobiernos, empresas y más.
+     </p>
+     <a href="/casos" class="btn-gradient">Ver quesos de éxito 🧀</a>
+    
+   </div>
+   
+ </section>
+
+   <!-- (ya no hace falta otro SocialBubbles aquí) -->
+    <!-- Aquí centramos el contador -->
+    <div class="mt-4 flex justify-center">
+      <VisitCounter client:load />
+    </div>
+
+
+  </section> <!-- cierra #catalogo -->
+    <!-- Dock de redes solo en móvil -->
+  <div class="md:hidden">
+    <MobileSocialDock client:load />
+  </div>
+<QueesiaBotWidget
+  client:load
+  showOnlyWhenTargetVisible={false}
+/>
+</Layout>
+
+
+

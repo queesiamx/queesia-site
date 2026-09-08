@@ -1,0 +1,66 @@
+---
+import type { App } from '../types';
+
+const { app } = Astro.props as { app: App };
+
+const defaultLogoURL = "https://queesia.com/logos/default-logo.png";
+
+const filename = app.logo_filename?.split('/').pop()?.trim();
+
+const hasExtension = filename
+  ? /\.(png|jpg|jpeg|webp|svg)$/i.test(filename)
+  : false;
+
+const logoURL = filename
+  ? `https://queesia.com/logos/${hasExtension ? filename : `${filename}.png`}`
+  : defaultLogoURL;
+---
+
+<div class="relative bg-white border border-gray-200 rounded-xl shadow hover:shadow-lg transition duration-200 flex flex-col items-center text-center p-4 w-full max-w-xs mx-auto">
+
+
+  <div class="w-24 h-24 bg-white rounded-xl shadow flex items-center justify-center overflow-hidden mb-4">
+    <img
+      src={logoURL}
+      alt={`Logo de ${app.name}`}
+      class="max-w-[80%] max-h-[80%] object-contain"
+      loading="lazy"
+      onerror={`this.onerror=null;this.src='${defaultLogoURL}';`}
+    />
+</div>
+  
+
+  <h2 class="text-lg font-semibold text-default mb-1">{app.name}</h2>
+  <p class="text-sm text-default-soft italic mb-1">{app.category}</p>
+
+  <p class="text-sm mb-2 text-yellow-600 font-medium">⭐ {app.rate ? app.rate : "N/A"} / 5</p>
+
+  <div class="flex flex-wrap justify-center gap-2 my-2">
+    {app.tags && Array.isArray(app.tags) && app.tags.length > 0 ? (
+      app.tags.map((tag: string) => (
+        <span class="bg-primary text-white text-xs px-2 py-1 rounded animate-fade-in">{tag}</span>
+      ))
+    ) : (
+      <span class="bg-gray-400 text-white text-xs px-2 py-1 rounded">Sin etiquetas</span>
+    )}
+  </div>
+
+<!--{app.url && (
+    <a href={app.url} target="_blank" rel="noopener noreferrer" class="text-sm text-primary underline hover:text-primary-soft mt-2">
+      Ver queso
+    </a>
+  )} -->
+
+  <p class="text-sm text-default mt-3 min-h-[70px]">{app.short_description ?? "Descripción no disponible"}</p>
+
+  <!-- 👇 Aquí el truco: wrapper con espacio arriba -->
+  <div class="pt-4 w-full flex justify-center mt-auto">
+    <a
+  href={`/app/${app.id}`}
+  class="bg-black text-white hover:bg-default-soft hover:scale-105 px-4 py-2 rounded-md text-sm font-medium transition-all duration-300"
+>
+  Derrite tu curiosidad
+</a>
+
+  </div>
+</div>

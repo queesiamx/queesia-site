@@ -1,0 +1,10 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import QueesiaAppFinder from "../components/QueesiaAppFinder.jsx";
+---
+
+<BaseLayout title="Encuentra apps de IA | Queesia">
+  <main class="min-h-screen bg-[#05070d]">
+    <QueesiaAppFinder client:load />
+  </main>
+</BaseLayout>

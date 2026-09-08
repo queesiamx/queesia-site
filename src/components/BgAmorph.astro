@@ -1,0 +1,14 @@
+---
+interface Props {
+  opacity?: number; // 0..1
+  y?: string;       // ej. "0px", "-40px"
+  scale?: number;   // ej. 1, 1.1
+}
+const { opacity = 0.22, y = "0px", scale = 1 }: Props = Astro.props as Props;
+---
+<img
+  src="/src/assets/bg_amorph.svg"
+  alt=""
+  class="pointer-events-none absolute inset-0 -z-10 w-full h-full object-cover"
+  style={`opacity:${opacity}; transform: translateY(${y}) scale(${scale});`}
+/>

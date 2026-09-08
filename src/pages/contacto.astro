@@ -1,0 +1,383 @@
+---
+// src/pages/contacto.astro
+import BaseLayout from "../layouts/BaseLayout.astro";
+
+const SUBJECT_OPTIONS = [
+  {
+    value: "anunciate",
+    label: "Anúnciate en Queesia",
+    subject: "Anúnciate en Queesia",
+    placeholder:
+      "Cuéntanos qué quieres promocionar: app, curso, evento, servicio o colaboración.",
+  },
+  {
+    value: "catalogo",
+    label: "Incluir mi aplicación en el catálogo",
+    subject: "Incluir aplicación",
+    placeholder:
+      "Cuéntanos el nombre de tu app, sitio web, categoría y por qué debería estar en Queesia.",
+  },
+  {
+    value: "consultoria",
+    label: "Consultoría y herramientas de IA",
+    subject: "Consultoría de IA",
+    placeholder:
+      "Cuéntanos qué problema quieres resolver, qué herramientas usas y qué tipo de apoyo necesitas.",
+  },
+  {
+    value: "partnerships",
+    label: "Partnerships y colaboraciones",
+    subject: "Partnerships",
+    placeholder:
+      "Cuéntanos qué tipo de colaboración tienes en mente y cómo podríamos trabajar juntos.",
+  },
+  {
+    value: "soporte",
+    label: "Soporte técnico o dudas",
+    subject: "Soporte",
+    placeholder:
+      "Describe la duda o problema técnico. Si aplica, incluye la página o sección donde ocurrió.",
+  },
+  {
+    value: "otro",
+    label: "Otro asunto",
+    subject: "Otro asunto",
+    placeholder:
+      "Cuéntanos brevemente qué necesitas o cómo podemos ayudarte.",
+  },
+];
+---
+
+<BaseLayout title="Contáctanos">
+  <!-- Hero -->
+  <section class="bg-hero text-center py-12 sm:py-16 px-4 pt-24 md:pt-28">
+    <h1 class="text-3xl sm:text-4xl font-extrabold italic">Lánzanos tu 🧀</h1>
+    <p class="text-default mt-3 max-w-2xl mx-auto">
+      Hablemos de tus proyectos, ideas o cualquier cosa que quieras compartir.
+      Llena el formulario y te responderemos más rápido de lo que se derrite un queso.
+    </p>
+  </section>
+
+  <!-- Formulario -->
+<section class="py-12 bg-wash">
+  <div class="max-w-5xl mx-auto px-4">
+    <form
+      id="contactForm"
+      class="card relative overflow-hidden p-6 sm:p-8 md:p-10"
+    >
+      <!-- Listón superior -->
+      <div
+        aria-hidden="true"
+        class="pointer-events-none absolute inset-x-0 top-0 h-1.5 bg-gradient-to-r from-primary via-blue-500 to-violet-500"
+      ></div>
+
+      <div class="mb-7">
+        <span class="inline-flex rounded-full bg-primary/10 px-3 py-1 text-xs font-bold uppercase tracking-[0.16em] text-primary">
+          Contacto Queesia
+        </span>
+
+        <h2 class="mt-3 text-2xl sm:text-3xl font-extrabold italic text-default">
+          Hablemos de tu proyecto
+        </h2>
+
+        <p class="mt-2 max-w-2xl text-sm sm:text-base text-default-soft">
+          Selecciona el asunto y compártenos los detalles. Así podremos responderte mejor.
+        </p>
+      </div>
+
+      <!-- Datos internos -->
+      <input id="subjectHidden" type="hidden" name="asunto" value="Contacto — Queesia" />
+
+      <!-- Honeypot anti-spam -->
+      <input
+        type="text"
+        name="website"
+        class="hidden"
+        tabindex="-1"
+        autocomplete="off"
+        aria-hidden="true"
+      />
+
+      <!-- Campos -->
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 sm:gap-5">
+        <input
+          type="text"
+          name="nombre"
+          placeholder="Nombre"
+          class="w-full h-12 rounded-xl border border-line bg-white px-4 text-sm outline-none shadow-sm focus:border-primary focus:ring-2 focus:ring-primary/30"
+          required
+        />
+
+        <input
+          type="text"
+          name="apellido"
+          placeholder="Apellido"
+          class="w-full h-12 rounded-xl border border-line bg-white px-4 text-sm outline-none shadow-sm focus:border-primary focus:ring-2 focus:ring-primary/30"
+          required
+        />
+
+        <input
+          type="email"
+          name="email"
+          placeholder="Email"
+          class="w-full h-12 rounded-xl border border-line bg-white px-4 text-sm outline-none shadow-sm focus:border-primary focus:ring-2 focus:ring-primary/30"
+          required
+        />
+
+        <input
+          type="tel"
+          name="telefono"
+          placeholder="Teléfono"
+          class="w-full h-12 rounded-xl border border-line bg-white px-4 text-sm outline-none shadow-sm focus:border-primary focus:ring-2 focus:ring-primary/30"
+        />
+
+        <div class="sm:col-span-2">
+          <label
+            for="subjectSelect"
+            class="mb-2 block text-sm font-bold text-default"
+          >
+            Asunto
+          </label>
+
+          <select
+            id="subjectSelect"
+            class="w-full h-12 rounded-xl border border-line bg-white px-4 text-sm outline-none shadow-sm focus:border-primary focus:ring-2 focus:ring-primary/30"
+            required
+          >
+            <option value="">Selecciona un asunto</option>
+            {SUBJECT_OPTIONS.map((item) => (
+              <option
+                value={item.value}
+                data-subject={item.subject}
+                data-placeholder={item.placeholder}
+              >
+                {item.label}
+              </option>
+            ))}
+          </select>
+
+          <p
+            id="subjectHelp"
+            class="mt-2 text-xs text-default-soft"
+          >
+            Esto nos ayuda a dirigir mejor tu solicitud.
+          </p>
+        </div>
+
+        <textarea
+          id="mensaje"
+          name="mensaje"
+          placeholder="Cuéntanos brevemente qué necesitas o cómo podemos ayudarte."
+          rows="7"
+          class="sm:col-span-2 min-h-[180px] rounded-xl border border-line bg-white p-4 text-sm outline-none shadow-sm focus:border-primary focus:ring-2 focus:ring-primary/30"
+          required
+        ></textarea>
+      </div>
+
+      <!-- Mensaje de estado -->
+      <div
+        id="formStatus"
+        class="mt-5 hidden rounded-xl px-4 py-3 text-sm"
+      ></div>
+
+      <!-- CTA -->
+      <div class="mt-6 sm:mt-8 flex justify-center sm:justify-start">
+        <button
+          id="submitBtn"
+          type="submit"
+          class="btn-primary px-6 py-3 rounded-xl disabled:opacity-60 disabled:cursor-not-allowed"
+        >
+          Enviar quesito 🧀
+        </button>
+      </div>
+    </form>
+  </div>
+</section>
+
+  <script type="module">
+    const API_URL =
+      window.location.hostname === "localhost"
+        ? "https://queesia.com/api/contacto/enviar_contacto.php"
+        : "/api/contacto/enviar_contacto.php";
+
+    const textarea = document.getElementById("mensaje");
+    const hiddenSubject = document.getElementById("subjectHidden");
+    const subjectSelect = document.getElementById("subjectSelect");
+    const subjectHelp = document.getElementById("subjectHelp");
+
+    const SUBJECT_META = {
+      anunciate: {
+        subject: "Anúnciate en Queesia",
+        placeholder:
+          "Cuéntanos qué quieres promocionar: app, curso, evento, servicio o colaboración.",
+        help: "Vienes desde el espacio de anuncios. Déjanos los detalles y te contactamos.",
+      },
+      catalogo: {
+        subject: "Incluir aplicación",
+        placeholder:
+          "Cuéntanos el nombre de tu app, sitio web, categoría y por qué debería estar en Queesia.",
+        help: "Comparte la URL de la aplicación y una breve descripción.",
+      },
+      consultoria: {
+        subject: "Consultoría de IA",
+        placeholder:
+          "Cuéntanos qué problema quieres resolver, qué herramientas usas y qué tipo de apoyo necesitas.",
+        help: "Describe el contexto, objetivo y nivel de avance del proyecto.",
+      },
+      partnerships: {
+        subject: "Partnerships",
+        placeholder:
+          "Cuéntanos qué tipo de colaboración tienes en mente y cómo podríamos trabajar juntos.",
+        help: "Incluye el tipo de alianza, institución o marca relacionada.",
+      },
+      soporte: {
+        subject: "Soporte",
+        placeholder:
+          "Describe la duda o problema técnico. Si aplica, incluye la página o sección donde ocurrió.",
+        help: "Agrega capturas o detalles si el problema es técnico.",
+      },
+      otro: {
+        subject: "Otro asunto",
+        placeholder:
+          "Cuéntanos brevemente qué necesitas o cómo podemos ayudarte.",
+        help: "Usa esta opción si tu solicitud no encaja en las anteriores.",
+      },
+    };
+
+    const form = document.getElementById("contactForm");
+    const statusBox = document.getElementById("formStatus");
+    const submitBtn = document.getElementById("submitBtn");
+
+    function showStatus(message, type = "success") {
+      if (!statusBox) return;
+
+      statusBox.textContent = message;
+      statusBox.classList.remove(
+        "hidden",
+        "bg-green-50",
+        "text-green-700",
+        "border",
+        "border-green-200",
+        "bg-red-50",
+        "text-red-700",
+        "border-red-200"
+      );
+
+      if (type === "success") {
+        statusBox.classList.add(
+          "bg-green-50",
+          "text-green-700",
+          "border",
+          "border-green-200"
+        );
+      } else {
+        statusBox.classList.add(
+          "bg-red-50",
+          "text-red-700",
+          "border",
+          "border-red-200"
+        );
+      }
+    }
+
+    function applySubject(value) {
+    const meta = SUBJECT_META[value];
+
+    if (hiddenSubject) {
+      hiddenSubject.value = meta?.subject
+        ? `Contacto — ${meta.subject}`
+        : "Contacto — Queesia";
+    }
+
+    if (textarea) {
+      textarea.placeholder =
+        meta?.placeholder ||
+        "Cuéntanos brevemente qué necesitas o cómo podemos ayudarte.";
+    }
+
+    if (subjectHelp) {
+      subjectHelp.textContent =
+        meta?.help || "Esto nos ayuda a dirigir mejor tu solicitud.";
+    }
+  }
+
+  subjectSelect?.addEventListener("change", () => {
+    applySubject(subjectSelect.value);
+  });
+
+  const params = new URLSearchParams(window.location.search);
+  const asuntoParam = params.get("asunto");
+
+  if (asuntoParam && subjectSelect && SUBJECT_META[asuntoParam]) {
+    subjectSelect.value = asuntoParam;
+    applySubject(asuntoParam);
+
+    if (textarea) {
+      setTimeout(() => {
+        textarea.scrollIntoView({ behavior: "smooth", block: "center" });
+        textarea.focus();
+      }, 350);
+    }
+  } else {
+    applySubject("");
+  }
+
+    form?.addEventListener("submit", async (event) => {
+      event.preventDefault();
+
+      if (!form.checkValidity()) {
+        form.reportValidity();
+        return;
+      }
+
+      const formData = new FormData(form);
+
+      submitBtn.disabled = true;
+      submitBtn.textContent = "Enviando...";
+
+      try {
+        const response = await fetch(API_URL, {
+          method: "POST",
+          body: formData,
+        });
+
+        let result = null;
+
+        try {
+          result = await response.json();
+        } catch {
+          result = null;
+        }
+
+        if (!response.ok || !result?.ok) {
+          throw new Error(result?.message || "No se pudo enviar el mensaje.");
+        }
+
+        form.reset();
+
+        if (hiddenSubject) {
+          hiddenSubject.value = "Contacto — Queesia";
+        }
+
+        if (subjectSelect) {
+          subjectSelect.value = "";
+        }
+
+        applySubject("");
+
+        showStatus(
+          "Gracias por escribirnos. Recibimos tu mensaje y te responderemos pronto 🧀",
+          "success"
+        );
+      } catch (error) {
+        showStatus(
+          error.message || "Ocurrió un error al enviar el formulario. Intenta nuevamente.",
+          "error"
+        );
+      } finally {
+        submitBtn.disabled = false;
+        submitBtn.textContent = "Enviar quesito 🧀";
+      }
+    });
+  </script>
+</BaseLayout>

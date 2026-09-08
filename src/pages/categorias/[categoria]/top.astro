@@ -1,0 +1,69 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import ToolCard from '../../../components/ToolCard.astro';
+import type { App } from '../../../types';
+
+// Generar rutas estáticas
+export async function getStaticPaths() {
+  try {
+    const res = await fetch('https://queesia.com/api/obtener_categorias.php');
+    if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
+    const data = await res.json();
+
+    if (!data?.categories || !Array.isArray(data.categories)) {
+      console.error("❌ Estructura de datos incorrecta:", data);
+      return [];
+    }
+
+    return data.categories
+      .filter((cat: string) => typeof cat === "string" && cat.trim() !== "")
+      .map((cat: string) => ({ params: { categoria: cat.trim() } }));
+  } catch (err) {
+    console.error("❌ Error general en getStaticPaths:", err);
+    return [];
+  }
+}
+
+// Obtener el parámetro de la URL
+const { categoria } = Astro.params;
+console.log("📌 Categoría recibida en Top 5:", categoria);
+
+// Variables
+const limit = 5;
+let apps: App[] = [];
+
+try {
+  const url = `https://queesia.com/api/obtener_datos.php?category=${encodeURIComponent(categoria)}&limit=${limit}&top=1&_nocache=${Date.now()}`;
+  console.log(`🔍 URL solicitada: ${url}`);
+  const res = await fetch(url);
+  if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
+  const data = await res.json();
+
+  if (data.success && Array.isArray(data.tools)) {
+    apps = data.tools.map((app: Partial<App>) => ({
+      ...app,
+      tags: Array.isArray(app.tags) ? app.tags : [],
+    })) as App[];
+  } else {
+    console.warn("⚠️ No se recibieron datos válidos para apps");
+  }
+} catch (err) {
+  console.error("❌ Error en fetch de Top 5:", err);
+}
+---
+<meta charset="UTF-8" />
+<BaseLayout title={`Top 5 en ${categoria}`}>
+  <h1 class="text-2xl font-bold mb-4">Top 5 de <span class="capitalize">{categoria}</span></h1>
+  
+  <a href={`/categorias/${categoria}`} class="inline-block bg-black text-white px-4 py-2 rounded hover:bg-gray-800 transition mb-6">
+    Ver todas las herramientas de {categoria}
+  </a>
+
+  <section class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
+    {apps.length > 0 ? (
+      apps.map((app: App) => <ToolCard app={app} />)
+    ) : (
+      <p class="text-center text-gray-500 col-span-full">No se encontraron aplicaciones en esta categoría.</p>
+    )}
+  </section>
+</BaseLayout>

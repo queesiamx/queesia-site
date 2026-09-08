@@ -1,0 +1,195 @@
+/* global.css */
+
+/* Cargas e imports tal como los tienes… */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+   html { scroll-behavior: smooth; }
+  /* Importante: sin fondo sólido aquí para que se vea el background-image del <body> */
+  /* Importante: sin fondo sólido aquí para que se vea el background del <body> inline */
+  body { @apply font-sans text-default bg-transparent leading-relaxed; }
+  h1, h2, h3, h4, h5, h6 { @apply font-montserrat italic; }
+  p { @apply mb-4; }
+  a { @apply text-primary hover:underline; }
+}
+
+@layer utilities {
+  /* Ocultar barra de scroll */
+  .mix-blend-soft-light { mix-blend-mode: soft-light; }
+  .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+  .no-scrollbar::-webkit-scrollbar { display: none; }
+
+  /* Helpers con variables */
+  .bg-wash { background-color: var(--bg-wash); }
+  /* Evita que .bg-hero tape el fondo si la usas accidentalmente en el hero */
+  .bg-hero { background: transparent; }
+}
+
+/* Tarjetas y varios (puede quedarse fuera o en @layer utilities) */
+.card {
+  @apply bg-white rounded-2xl border border-line shadow-card;
+}
+.btn-primary {
+  @apply inline-flex items-center justify-center gap-2 rounded-xl
+         bg-primary text-white px-4 py-2
+         shadow-sm hover:bg-primary-600 active:bg-primary-700 transition;
+}
+.chip {
+  @apply inline-flex items-center justify-center
+         rounded-full border border-line bg-white
+         text-default px-3 py-1 text-sm hover:bg-gray-50 transition;
+}
+.kpi-number { @apply text-primary font-bold text-3xl; }
+.kpi-label  { @apply text-default-soft text-sm; }
+
+/* variables (como ya las tenías) */
+:root{
+  --color-primary: #3B66FF;
+  --color-text:    #1F2937;
+  --color-text-2:  #6B7280;
+  --color-line:    #E6EAF2;
+  --bg-wash:       #F7F9FC;
+  --bg-hero:       #F3F6FD;
+}
+
+/* ===========================
+   GLASSMORPHISM UTILITIES
+   =========================== */
+@layer utilities {
+  /* Fondo glass genérico (la imagen se inyecta desde Astro con style=background-image) */
+  .bg-glass {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+  }
+  .glass {
+    background: rgba(255,255,255,0.55);
+    backdrop-filter: blur(16px) saturate(150%);
+    -webkit-backdrop-filter: blur(16px) saturate(150%);
+    border: 1px solid rgba(255,255,255,0.65);
+    border-radius: 22px;
+    box-shadow: 0 16px 40px rgba(2,6,23,0.25);
+  }
+  .glass-soft  { background: rgba(255,255,255,0.38); }
+  .glass-strong{ background: rgba(255,255,255,0.72); }
+  .glass-chip  {
+    @apply inline-flex items-center gap-2 font-bold rounded-full;
+    padding: .45rem .75rem;
+    background: rgba(255,255,255,.40);
+    border: 1px solid rgba(255,255,255,.65);
+    color: #0b1220;
+  }
+  .btn-gradient {
+    @apply text-white font-extrabold rounded-xl;
+    padding: .75rem 1rem;
+    background: linear-gradient(90deg,#2563EB,#8B5CF6);
+    box-shadow: 0 10px 24px rgba(37,99,235,.35);
+    transition: filter .2s ease, transform .1s ease;
+  }
+  .btn-gradient:hover { filter: brightness(1.1); transform: translateY(-1px); }
+}
+ /* ==== DECOS & PARALLAX ==== */
+ .deco-layer {
+   position: absolute;
+   inset: 0;
+   pointer-events: none;
+   z-index: 0; /* debajo del contenido */
+ }
+ .deco-item {
+   position: absolute;
+   will-change: transform, opacity;
+   transition: transform 400ms cubic-bezier(.2,.7,.2,1), opacity 400ms ease;
+   opacity: .9;
+ }
+ /* Reduce motion */
+ @media (prefers-reduced-motion: reduce) {
+   .deco-item { transition: none; }
+ }
+
+ /* Suave degradado superior/inferior para transiciones entre secciones */
+ .section-fade-top {
+   mask-image: linear-gradient(0deg, transparent 0%, black 20%, black 100%);
+   -webkit-mask-image: linear-gradient(0deg, transparent 0%, black 20%, black 100%);
+ }
+ .section-fade-bottom {
+   mask-image: linear-gradient(180deg, transparent 0%, black 20%, black 100%);
+   -webkit-mask-image: linear-gradient(180deg, transparent 0%, black 20%, black 100%);
+ }
+
+ /* Fondo tecnológico suave (similar a bg_orbs pero “tech”) */
+ .bg-tech-orbs {
+ background:
+   radial-gradient(1200px 1200px at -10% 10%, rgba(79,70,229,.12), transparent 65%),
+   radial-gradient(900px 900px at 110% 30%, rgba(14,165,233,.10), transparent 70%),
+   radial-gradient(700px 700px at 30% 120%, rgba(59,130,246,.14), transparent 75%);
+}
+ /* ==== FIX: que los decorativos no se corten ==== */
+ .deco-layer {
+   position: absolute;
+   inset: -120px 0 -120px 0; /* sangrado arriba/abajo */
+   pointer-events: none;
+   z-index: 0;
+   overflow: visible;
+ }
+ .deco-item { position: absolute; will-change: transform, opacity; }
+ 
+ /* Cualquier sección con fondo tech NO debe recortar */
+ section.bg-tech-orbs { overflow: visible; }
+ 
+ /* Un poco más fuerte el fondo para que se note sin saturar */
+ .bg-tech-orbs {
+   background:
+     radial-gradient(1200px 1200px at -10% 10%, rgba(79,70,229,.12), transparent 65%),
+     radial-gradient(900px 900px at 110% 30%, rgba(14,165,233,.10), transparent 70%),
+     radial-gradient(700px 700px at 30% 120%, rgba(59,130,246,.14), transparent 75%);
+ }
+:root { --header-h: 72px; }         /* fallback */
+html { scroll-padding-top: var(--header-h); } /* anclas no quedan ocultas */
+
+/* helpers */
+.mt-header { margin-top: var(--header-h); }
+.pt-header { padding-top: var(--header-h); }
+/* Fondo suave sin cuadrícula: degrade + leve brillo */
+/* antes posiblemente tenía bg blanco */
+.bg-tech-circuits{
+  /* background-color: #fff;   <-- quítalo */
+  background-image: url('/src/assets/circuits.svg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.section-fade-top::before{
+  content:""; position:absolute; inset:0 0 auto 0; height:48px; z-index:0;
+  background: linear-gradient(to bottom, rgba(255,255,255,1), rgba(255,255,255,0));
+}
+.section-fade-bottom::after{
+  content:""; position:absolute; inset:auto 0 0 0; height:48px; z-index:0;
+  background: linear-gradient(to top, rgba(255,255,255,1), rgba(255,255,255,0));
+}
+/* Fondo amorfo reutilizable para “cintas” */
+@layer utilities {
+  .bg-amorph {
+    background-image: url('/src/assets/bg_amorph.svg');
+    background-size: cover;
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+  /* Desvanece suavemente hacia abajo para que no corte brusco */
+  .bg-amorph-fade {
+    -webkit-mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 70%, rgba(0,0,0,0) 100%);
+            mask-image: linear-gradient(to bottom, rgba(0,0,0,1) 70%, rgba(0,0,0,0) 100%);
+  }
+}
+/* Botón gradiente reutilizable (igual al de “Explorar catálogo”) */
+.btn-gradient {
+  @apply inline-flex items-center justify-center px-5 py-3 rounded-xl
+         text-white font-semibold shadow-lg ring-1 ring-white/40
+         bg-gradient-to-r from-indigo-500 via-purple-500 to-fuchsia-500
+         transition hover:shadow-xl hover:opacity-95 active:scale-95;
+}
+

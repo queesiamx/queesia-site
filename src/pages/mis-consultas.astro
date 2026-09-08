@@ -1,0 +1,10 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import AuthProviderWrapper from '../components/AuthProviderWrapper.jsx';
+---
+
+<BaseLayout>
+  <section class="max-w-4xl mx-auto py-10">
+    <AuthProviderWrapper client:only="react" />
+  </section>
+</BaseLayout>
