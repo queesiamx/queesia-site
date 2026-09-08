@@ -114,7 +114,7 @@ export default function CategoryPreview({ categoria, apps, totalEnCategoria }: P
           Ver todas {typeof totalEnCategoria === "number" ? `(${totalEnCategoria})` : ""}
         </a>
         <a
-          href={`/categorias/${encodeURIComponent(categoria)}?top=1`}
+          href={`/categorias/${encodeURIComponent(categoria)}/top/`}
           className="text-sm text-blue-600 hover:underline"
         >
           Top 5 →
