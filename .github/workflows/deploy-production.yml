@@ -1,0 +1,118 @@
+name: Desplegar Quesia a producción (manual)
+
+on:
+  workflow_dispatch:
+    inputs:
+      confirmacion:
+        description: Escribe DESPLEGAR para confirmar
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+concurrency:
+  group: queesia-production-deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy-production:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Validate production deployment gate
+        env:
+          GITHUB_REF_VALUE: ${{ github.ref }}
+          CONFIRMACION_VALUE: ${{ inputs.confirmacion }}
+        run: |
+          if [ "$GITHUB_REF_VALUE" != "refs/heads/main" ]; then
+            echo "Error: this workflow can only deploy from refs/heads/main."
+            exit 1
+          fi
+
+          if [ "$CONFIRMACION_VALUE" != "DESPLEGAR" ]; then
+            echo "Error: confirmation input must be DESPLEGAR."
+            exit 1
+          fi
+
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Setup Node
+        uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build
+        env:
+          PUBLIC_FIREBASE_API_KEY: ${{ secrets.PUBLIC_FIREBASE_API_KEY }}
+          PUBLIC_FIREBASE_AUTH_DOMAIN: ${{ secrets.PUBLIC_FIREBASE_AUTH_DOMAIN }}
+          PUBLIC_FIREBASE_PROJECT_ID: ${{ secrets.PUBLIC_FIREBASE_PROJECT_ID }}
+          PUBLIC_FIREBASE_STORAGE_BUCKET: ${{ secrets.PUBLIC_FIREBASE_STORAGE_BUCKET }}
+          PUBLIC_FIREBASE_MESSAGING_SENDER_ID: ${{ secrets.PUBLIC_FIREBASE_MESSAGING_SENDER_ID }}
+          PUBLIC_FIREBASE_APP_ID: ${{ secrets.PUBLIC_FIREBASE_APP_ID }}
+          PUBLIC_FIREBASE_MEASUREMENT_ID: ${{ secrets.PUBLIC_FIREBASE_MEASUREMENT_ID }}
+        run: npm run build
+
+      - name: Validate generated files
+        run: |
+          test -f dist/index.html
+          test -f dist/servicios/index.html
+          test -f dist/contacto/index.html
+
+      - name: Validate protected file types
+        run: |
+          if find dist -type f -name '*.php' -print -quit | grep -q .; then
+            echo "Error: dist/ contains PHP files."
+            exit 1
+          fi
+
+          if find dist -type f -name '.htaccess' -print -quit | grep -q .; then
+            echo "Error: dist/ contains .htaccess."
+            exit 1
+          fi
+
+      - name: Deploy to production
+        uses: SamKirkland/FTP-Deploy-Action@v4.4.0
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftps
+          port: 21
+          local-dir: ./dist/
+          server-dir: ./
+          state-name: .ftp-deploy-queesia-state.json
+          dry-run: false
+          dangerous-clean-slate: false
+          security: strict
+          log-level: standard
+          timeout: 120000
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+            .well-known/**
+            admin-chatbot-queries/**
+            admindijtfs/**
+            api/**
+            biblioteca-admin/**
+            blog-admin/**
+            ofertas-admin/**
+            tfs-demo/**
+            uploads/**
+            logos/**
+            biblioteca-pdf/**
+            infografias/**
+            cursos-of-edu/**
+            scripts/**
+            dist/**
+            *.zip
+            .htaccess
+            bg_amorph.svg
