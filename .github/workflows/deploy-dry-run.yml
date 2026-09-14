@@ -1,0 +1,93 @@
+name: Validar despliegue de Quesia (dry run)
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - feat/servicios-home
+
+permissions:
+  contents: read
+
+concurrency:
+  group: queesia-deploy-validation
+  cancel-in-progress: false
+
+jobs:
+  validate-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Setup Node
+        uses: actions/setup-node@v7
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: package-lock.json
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build
+        run: npm run build
+
+      - name: Validate generated files
+        run: |
+          test -f dist/index.html
+          test -f dist/servicios/index.html
+          test -f dist/contacto/index.html
+
+      - name: Validate protected file types
+        run: |
+          if find dist -type f -name '*.php' -print -quit | grep -q .; then
+            echo "Error: dist/ contains PHP files."
+            exit 1
+          fi
+
+          if find dist -type f -name '.htaccess' -print -quit | grep -q .; then
+            echo "Error: dist/ contains .htaccess."
+            exit 1
+          fi
+
+      - name: Simulate FTP deploy
+        uses: SamKirkland/FTP-Deploy-Action@v4.4.0
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftps
+          port: 21
+          local-dir: ./dist/
+          server-dir: ./
+          state-name: .ftp-deploy-queesia-state.json
+          dry-run: true
+          dangerous-clean-slate: false
+          security: strict
+          log-level: verbose
+          timeout: 120000
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+            .well-known/**
+            admin-chatbot-queries/**
+            admindijtfs/**
+            api/**
+            biblioteca-admin/**
+            blog-admin/**
+            ofertas-admin/**
+            tfs-demo/**
+            uploads/**
+            logos/**
+            biblioteca-pdf/**
+            infografias/**
+            cursos-of-edu/**
+            scripts/**
+            dist/**
+            *.zip
+            .htaccess
+            bg_amorph.svg
