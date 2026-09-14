@@ -29,7 +29,7 @@ export default function MobileMenu() {
   const handleLinkClick = () => setIsOpen(false);
 
   return (
-    <div className="lg:hidden relative">
+    <div className="xl:hidden relative">
       <button
         onClick={() => setIsOpen(!isOpen)}
         className="text-black focus:outline-none flex items-center justify-center w-10 h-10"
@@ -64,6 +64,13 @@ export default function MobileMenu() {
                 className="block px-4 py-2 text-black hover:bg-gray-200 hover:text-primary transition"
               >
                 Catálogo
+              </a>
+              <a
+                href="/servicios"
+                onClick={handleLinkClick}
+                className="block px-4 py-2 text-black hover:bg-gray-200 hover:text-primary transition"
+              >
+                Servicios
               </a>
               <a
                 href="/casos"
