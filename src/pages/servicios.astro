@@ -1,132 +1,93 @@
 ---
 // src/pages/servicios.astro
 import BaseLayout from "../layouts/BaseLayout.astro";
+import ServicesAppliedCases from "../components/ServicesAppliedCases.jsx";
 
 const CONTACT_URL = "/contacto?asunto=servicios";
-
-const services = [
-  {
-    title: "Desarrollo de soluciones a la medida",
-    description:
-      "Diseñamos y desarrollamos plataformas, sistemas, portales y herramientas digitales adaptadas a los procesos y necesidades específicas de cada organización.",
-    iconPath:
-      "M4 7.5A2.5 2.5 0 0 1 6.5 5h11A2.5 2.5 0 0 1 20 7.5v9a2.5 2.5 0 0 1-2.5 2.5h-11A2.5 2.5 0 0 1 4 16.5v-9Zm4 2.5h8M8 14h5",
-  },
-  {
-    title: "Automatización y optimización de procesos",
-    description:
-      "Analizamos procesos manuales, repetitivos o poco eficientes para simplificarlos y automatizarlos mediante software, integraciones y herramientas digitales.",
-    iconPath:
-      "M12 3v3m0 12v3m9-9h-3M6 12H3m15.36-6.36-2.12 2.12M7.76 16.24l-2.12 2.12m12.72 0-2.12-2.12M7.76 7.76 5.64 5.64M9 12a3 3 0 1 0 6 0 3 3 0 0 0-6 0Z",
-  },
-  {
-    title: "Inteligencia artificial aplicada al negocio",
-    description:
-      "Implementamos soluciones de IA para necesidades concretas como análisis de información, asistentes inteligentes, clasificación de documentos y datos, generación de contenido, consulta de información interna y automatización de tareas.",
-    iconPath:
-      "M8 6.5A2.5 2.5 0 0 1 10.5 4h3A2.5 2.5 0 0 1 16 6.5v11a2.5 2.5 0 0 1-2.5 2.5h-3A2.5 2.5 0 0 1 8 17.5v-11Zm-3 4h3m8 0h3M5 15h3m8 0h3m-7-7v8m-2-4h4",
-  },
-  {
-    title: "Capacitación y adopción de inteligencia artificial",
-    description:
-      "Diseñamos cursos, talleres y acompañamiento para que equipos y organizaciones aprendan a utilizar la inteligencia artificial y puedan incorporarla de manera práctica a su operación.",
-    iconPath:
-      "M4 6.5 12 3l8 3.5-8 3.5-8-3.5Zm3 3.2v5.1c0 1.8 2.2 3.2 5 3.2s5-1.4 5-3.2V9.7M20 8v6",
-  },
-];
 ---
 
 <BaseLayout title="Servicios para empresas | Queesia">
   <div class="w-full">
-    <section class="relative overflow-hidden px-4 pt-28 pb-12 md:pt-32 md:pb-16">
+    <section class="relative overflow-hidden px-4 pt-28 pb-10 md:pt-32 md:pb-14">
       <div class="pointer-events-none absolute inset-0 -z-10" aria-hidden="true">
-        <div class="absolute left-1/2 top-10 h-72 w-72 -translate-x-1/2 rounded-full bg-primary/10 blur-3xl"></div>
+        <div class="absolute inset-x-0 top-16 h-px bg-gradient-to-r from-transparent via-primary/20 to-transparent"></div>
       </div>
 
       <div class="mx-auto max-w-7xl">
-        <div class="grid grid-cols-1 gap-8 lg:grid-cols-[minmax(0,1fr)_420px] lg:items-center">
+        <div class="grid grid-cols-1 gap-8 lg:grid-cols-[minmax(0,1.1fr)_minmax(340px,0.9fr)] lg:items-center">
           <header class="max-w-4xl">
             <p class="text-sm font-bold uppercase tracking-[0.18em] text-primary">
               Servicios para empresas
             </p>
 
-            <h1 class="mt-4 text-4xl font-extrabold leading-tight text-default md:text-5xl">
-              Transformamos procesos y necesidades de negocio en soluciones digitales e inteligencia artificial.
+            <h1 class="mt-4 max-w-4xl text-4xl font-extrabold leading-tight text-default md:text-5xl lg:text-6xl">
+              Mejora procesos reales con IA y automatización.
             </h1>
 
             <p class="mt-5 max-w-3xl text-lg leading-8 text-default-soft">
-              Diseñamos e implementamos soluciones adaptadas a los objetivos, procesos y retos particulares de cada organización.
+              Identificamos oportunidades, elegimos la solución adecuada y la implementamos con un alcance claro.
             </p>
 
             <div class="mt-8 flex flex-wrap gap-3">
               <a href={CONTACT_URL} class="btn-gradient">
-                Cuéntanos tu proyecto
+                Cuéntanos qué proceso quieres mejorar →
+              </a>
+              <a href="#soluciones" class="inline-flex items-center justify-center rounded-xl border border-line bg-white/80 px-5 py-3 text-sm font-semibold text-default shadow-sm backdrop-blur-xl transition hover:border-primary hover:text-primary hover:no-underline">
+                Ver ejemplos
               </a>
             </div>
           </header>
 
-          <aside class="card bg-white/70 p-6 backdrop-blur-xl">
-            <p class="text-sm font-semibold uppercase tracking-[0.16em] text-primary">
-              Enfoque Queesia
-            </p>
-            <h2 class="mt-3 text-2xl font-extrabold text-default">
-              De la idea a la implementación.
-            </h2>
-            <p class="mt-3 text-sm leading-7 text-default-soft">
-              Partimos de tus procesos reales para identificar oportunidades, diseñar una solución viable y acompañar su adopción con una mirada práctica.
-            </p>
+          <aside class="relative overflow-hidden rounded-3xl border border-white/70 bg-white/55 p-6 shadow-card backdrop-blur-xl md:p-8" aria-label="Proceso de trabajo Queesia">
+            <div class="pointer-events-none absolute inset-0 -z-10 bg-gradient-to-br from-primary/10 via-white/20 to-primary-accent/30"></div>
+
+            <div class="flex items-center gap-4">
+              <div class="flex h-20 w-20 shrink-0 items-center justify-center rounded-2xl border border-white/70 bg-white/80 shadow-sm">
+                <img src="/logo-bg.png" alt="" class="h-14 w-14 object-contain" />
+              </div>
+              <div>
+                <p class="text-sm font-bold uppercase tracking-[0.16em] text-primary">
+                  Enfoque Queesia
+                </p>
+                <h2 class="mt-2 text-2xl font-extrabold text-default">
+                  Del proceso a la mejora medible.
+                </h2>
+              </div>
+            </div>
+
+            <div class="mt-7 grid gap-3">
+              <div class="flex items-center gap-3 rounded-2xl border border-white/70 bg-white/70 px-4 py-3 text-sm font-semibold text-default-soft">
+                <span class="flex h-8 w-8 shrink-0 items-center justify-center rounded-xl bg-primary/10 text-primary">1</span>
+                Entendemos el proceso actual.
+              </div>
+              <div class="flex items-center gap-3 rounded-2xl border border-white/70 bg-white/70 px-4 py-3 text-sm font-semibold text-default-soft">
+                <span class="flex h-8 w-8 shrink-0 items-center justify-center rounded-xl bg-primary/10 text-primary">2</span>
+                Elegimos una solución viable.
+              </div>
+              <div class="flex items-center gap-3 rounded-2xl border border-white/70 bg-white/70 px-4 py-3 text-sm font-semibold text-default-soft">
+                <span class="flex h-8 w-8 shrink-0 items-center justify-center rounded-xl bg-primary/10 text-primary">3</span>
+                Implementamos y medimos.
+              </div>
+            </div>
           </aside>
         </div>
       </div>
     </section>
 
-    <section class="px-4 py-10 md:py-14" aria-labelledby="servicios-title">
-      <div class="mx-auto max-w-7xl">
-        <div class="mb-8 max-w-3xl">
-          <p class="text-sm font-bold uppercase tracking-[0.18em] text-primary">
-            Nuestros servicios
+    <section class="px-4 pb-8 md:pb-12">
+      <div class="mx-auto max-w-5xl">
+        <div class="card bg-white/70 px-6 py-8 text-center backdrop-blur-xl md:px-10">
+          <strong class="block text-2xl font-extrabold italic text-default md:text-3xl">
+            “No vendemos IA por vender IA.”
+          </strong>
+          <p class="mx-auto mt-3 max-w-3xl text-base leading-7 text-default-soft">
+            Partimos del proceso, elegimos la solución adecuada, implementamos y medimos.
           </p>
-          <h2 id="servicios-title" class="mt-3 text-3xl font-extrabold text-default md:text-4xl">
-            Soluciones para operar, automatizar y adoptar IA con sentido de negocio.
-          </h2>
-        </div>
-
-        <div class="grid grid-cols-1 gap-5 md:grid-cols-2">
-          {services.map((service) => (
-            <article class="card flex h-full flex-col bg-white/70 p-6 backdrop-blur-xl transition hover:shadow-lg">
-              <div class="mb-5 flex h-12 w-12 items-center justify-center rounded-2xl bg-primary/10 text-primary ring-1 ring-primary/10">
-                <svg
-                  viewBox="0 0 24 24"
-                  class="h-6 w-6"
-                  fill="none"
-                  stroke="currentColor"
-                  stroke-width="1.8"
-                  stroke-linecap="round"
-                  stroke-linejoin="round"
-                  aria-hidden="true"
-                >
-                  <path d={service.iconPath} />
-                </svg>
-              </div>
-
-              <h3 class="text-xl font-bold text-default">
-                {service.title}
-              </h3>
-
-              <p class="mt-3 flex-1 text-sm leading-7 text-default-soft">
-                {service.description}
-              </p>
-
-              <div class="mt-6">
-                <a href={CONTACT_URL} class="inline-flex items-center rounded-xl border border-line bg-white px-4 py-2 text-sm font-semibold text-default transition hover:border-primary hover:text-primary">
-                  Cuéntanos tu proyecto
-                </a>
-              </div>
-            </article>
-          ))}
         </div>
       </div>
     </section>
+
+    <ServicesAppliedCases client:visible />
 
     <section class="px-4 pb-16 pt-4 md:pb-20">
       <div class="mx-auto max-w-7xl">
