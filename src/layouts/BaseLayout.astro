@@ -3,7 +3,33 @@
 import "../styles/global.css";
 import LogoQueso from "../assets/logo-bg.png";
 
-const { title } = Astro.props || { title: "" };
+type SeoProps = {
+  title?: string;
+  description?: string;
+  canonical?: string;
+  robots?: string;
+  ogImage?: string;
+  ogType?: string;
+};
+
+const {
+  title = "",
+  description,
+  canonical,
+  robots = "index, follow",
+  ogImage,
+  ogType = "website",
+} = Astro.props as SeoProps;
+
+const fallbackDescription =
+  "Descubre herramientas, recursos y soluciones de inteligencia artificial en Queesia.";
+
+const effectiveDescription = description || fallbackDescription;
+const site = Astro.site ?? new URL(Astro.url.origin);
+const canonicalUrl = canonical
+  ? new URL(canonical, site).toString()
+  : new URL(Astro.url.pathname, site).toString();
+const effectiveOgImage = ogImage ? new URL(ogImage, site).toString() : "";
 
 import LoginButton from "../components/LoginButton.jsx";
 import MobileMenu from "../components/MobileMenu.jsx";
@@ -19,6 +45,18 @@ import bgAmorphUrl from "../assets/bg_amorph.svg?url";
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title}</title>
+    <meta name="description" content={effectiveDescription} />
+    <link rel="canonical" href={canonicalUrl} />
+    <meta name="robots" content={robots} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={effectiveDescription} />
+    <meta property="og:type" content={ogType} />
+    <meta property="og:url" content={canonicalUrl} />
+    {effectiveOgImage && <meta property="og:image" content={effectiveOgImage} />}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={effectiveDescription} />
+    {effectiveOgImage && <meta name="twitter:image" content={effectiveOgImage} />}
   </head>
   <body
     class="relative bg-glass text-default font-sans flex flex-col min-h-screen overflow-x-hidden"
