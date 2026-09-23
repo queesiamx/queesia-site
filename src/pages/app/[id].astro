@@ -1,0 +1,362 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import Comments from "../../components/Comments.jsx";
+import RatingStars from "../../components/RatingStars.jsx";
+import type { App, News, Source } from "../../types";
+
+const LOGO_BASE_URL = "https://queesia.com/logos";
+const DEFAULT_LOGO_URL = `${LOGO_BASE_URL}/default-logo.png`;
+
+type AppDetailPayload = {
+  success?: boolean;
+  app?: App | null;
+  news?: News[];
+  sources?: Source[];
+  message?: string;
+};
+
+function cleanText(value?: string | null) {
+  return String(value || "").replace(/\s+/g, " ").trim();
+}
+
+function truncateMeta(value?: string | null, maxLength = 155) {
+  const text = cleanText(value);
+
+  if (text.length <= maxLength) return text;
+
+  const sliced = text.slice(0, maxLength + 1);
+  const lastSpace = sliced.lastIndexOf(" ");
+  const cleanSlice = sliced.slice(0, lastSpace > 90 ? lastSpace : maxLength).trim();
+
+  return cleanSlice.replace(/[.,;:!?-]+$/g, "") + "...";
+}
+
+function getMetaDescription(app: App) {
+  return (
+    truncateMeta(app.short_description) ||
+    truncateMeta(app.purpose) ||
+    truncateMeta(app.what_is) ||
+    undefined
+  );
+}
+
+function getTags(tags: App["tags"]) {
+  if (!tags) return [];
+
+  const rawTags = Array.isArray(tags)
+    ? tags
+    : String(tags).split(/[,\n;#]+/);
+
+  return rawTags
+    .map((tag) => String(tag || "").replace(/^#/, "").replace(/,+$/g, "").trim())
+    .filter(Boolean)
+    .slice(0, 6);
+}
+
+function getLogoUrl(logoFilename?: string | null) {
+  const filename = String(logoFilename || "").split("/").pop()?.trim();
+
+  if (!filename) return DEFAULT_LOGO_URL;
+
+  const hasExtension = /\.(png|jpg|jpeg|webp|svg)$/i.test(filename);
+
+  return `${LOGO_BASE_URL}/${hasExtension ? filename : `${filename}.png`}`;
+}
+
+function hasUsefulValue(value?: string | null) {
+  const text = cleanText(value);
+  return Boolean(text && !["NA", "N/A", "No disponible", "No especificado"].includes(text));
+}
+
+function getValidNews(news: News[]) {
+  return Array.isArray(news)
+    ? news.filter(
+        (item) =>
+          !cleanText(item.title).toLowerCase().includes("no hay casos de éxito") &&
+          hasUsefulValue(item.description) &&
+          hasUsefulValue(item.url)
+      )
+    : [];
+}
+
+// TEMPORAL / PROTOTIPO: limitar deliberadamente a 3 apps reales.
+// La implementación final deberá reemplazar esta lista por la enumeración completa.
+export async function getStaticPaths() {
+  const prototypeAppIds = ["361", "1706", "1055"];
+
+  const entries = await Promise.all(
+    prototypeAppIds.map(async (id) => {
+      const response = await fetch(`https://queesia.com/api/obtener_app.php?id=${id}`);
+      const data: AppDetailPayload = await response.json();
+
+      if (!response.ok || !data.success || !data.app) {
+        throw new Error(data.message || `No se pudo obtener la aplicación ${id}.`);
+      }
+
+      return {
+        id,
+        detail: {
+          app: data.app,
+          news: Array.isArray(data.news) ? data.news : [],
+          sources: Array.isArray(data.sources) ? data.sources : [],
+        },
+      };
+    })
+  );
+
+  return entries.map(({ id, detail }) => ({
+    params: { id },
+    props: detail,
+  }));
+}
+
+const { app, news = [], sources = [] } = Astro.props as {
+  app: App;
+  news: News[];
+  sources: Source[];
+};
+
+const appId = String(app.id);
+const appName = cleanText(app.name);
+const tags = getTags(app.tags);
+const validNews = getValidNews(news);
+const validSources = Array.isArray(sources)
+  ? sources.filter((source) => hasUsefulValue(source.source_url))
+  : [];
+const canonical = `https://queesia.com/app/${appId}/`;
+const title = `${appName} | Queesia`;
+const description = getMetaDescription(app);
+const logoUrl = getLogoUrl(app.logo_filename);
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonical={canonical}
+  robots="index, follow"
+>
+  <main class="w-full max-w-6xl mx-auto px-4 pt-24 pb-12">
+    <nav class="max-w-4xl mx-auto px-4 py-3 text-sm">
+      <a href="/#catalogo" class="text-default-soft hover:text-primary">
+        ← Volver al Catálogo
+      </a>
+    </nav>
+
+    <article class="space-y-8 max-w-4xl mx-auto px-4">
+      <section class="card p-6 sm:p-8">
+        <div class="flex flex-col md:flex-row md:items-center md:justify-between gap-6">
+          <div class="flex items-center gap-4">
+            <img
+              src={logoUrl}
+              alt={`Logo de ${appName}`}
+              class="h-16 w-16 rounded-xl bg-white ring-1 ring-black/5 object-contain"
+              loading="lazy"
+            />
+
+            <div>
+              <h1 class="text-2xl sm:text-3xl font-extrabold">{appName}</h1>
+
+              <div class="mt-1 flex flex-wrap items-center gap-2 text-sm">
+                {hasUsefulValue(app.category) && (
+                  <span class="px-2 py-0.5 rounded-full border border-line bg-white">
+                    {app.category}
+                  </span>
+                )}
+
+                {tags.map((tag) => (
+                  <span class="px-2 py-0.5 rounded-full bg-primary/10 text-primary text-xs">
+                    {tag}
+                  </span>
+                ))}
+              </div>
+            </div>
+          </div>
+
+          {hasUsefulValue(app.url) && (
+            <div class="flex flex-col items-start md:items-end gap-3">
+              <a
+                href={app.url}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="btn-primary rounded-xl px-4 py-2"
+              >
+                Ir al sitio oficial
+              </a>
+            </div>
+          )}
+        </div>
+      </section>
+
+      {hasUsefulValue(app.short_description) && (
+        <section class="card p-5">
+          <h2 class="font-bold mb-1">Resumen</h2>
+          <p class="text-sm text-default">{app.short_description}</p>
+        </section>
+      )}
+
+      <section class="grid grid-cols-1 lg:grid-cols-[minmax(0,1fr)_320px] gap-6">
+        <div class="space-y-6">
+          {hasUsefulValue(app.what_is) && (
+            <section class="card p-5">
+              <h2 class="font-bold mb-1">¿Qué es?</h2>
+              <p class="text-sm text-default">{app.what_is}</p>
+            </section>
+          )}
+
+          {hasUsefulValue(app.purpose) && (
+            <section class="card p-5">
+              <h2 class="font-bold mb-1">Propósito</h2>
+              <p class="text-sm text-default">{app.purpose}</p>
+            </section>
+          )}
+
+          {hasUsefulValue(app.use_cases) && (
+            <section class="card p-5">
+              <h2 class="font-bold mb-1">Casos de uso</h2>
+              <p class="text-sm text-default whitespace-pre-line">{app.use_cases}</p>
+            </section>
+          )}
+
+          {hasUsefulValue(app.main_advantages) && (
+            <section class="card p-5">
+              <h2 class="font-bold mb-1">Ventajas principales</h2>
+              <p class="text-sm text-default whitespace-pre-line">{app.main_advantages}</p>
+            </section>
+          )}
+
+          {hasUsefulValue(app.long_description) && (
+            <section class="card p-5">
+              <h2 class="font-bold mb-1">Descripción</h2>
+              <p class="text-sm text-default whitespace-pre-line">{app.long_description}</p>
+            </section>
+          )}
+
+          {validNews.length > 0 && (
+            <section class="card p-5">
+              <h2 class="font-bold mb-3 flex items-center gap-2">Noticias relacionadas</h2>
+
+              <div class="space-y-3">
+                {validNews.map((item) => (
+                  <article class="border border-line rounded-xl p-3">
+                    <h3 class="font-semibold text-sm">{item.title || "Sin título"}</h3>
+
+                    {hasUsefulValue(item.success_type) && (
+                      <p class="text-xs text-default-soft mt-1">{item.success_type}</p>
+                    )}
+
+                    <p class="text-sm mt-1">{item.description}</p>
+
+                    <a
+                      href={item.url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="text-sm text-primary underline mt-1 inline-block"
+                    >
+                      Ver más
+                    </a>
+                  </article>
+                ))}
+              </div>
+            </section>
+          )}
+
+          {validSources.length > 0 && (
+            <section class="card p-5">
+              <h2 class="font-bold mb-3">Fuentes</h2>
+
+              <ul class="space-y-2 text-sm">
+                {validSources.map((source) => (
+                  <li class="truncate">
+                    <a
+                      href={source.source_url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      class="text-primary hover:underline break-all"
+                      title={source.source_url}
+                    >
+                      {source.source_url}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </section>
+          )}
+
+          <section class="card p-5">
+            <h2 class="font-bold mb-2">Déjanos saber tu opinión</h2>
+            <Comments appId={appId} client:visible />
+          </section>
+        </div>
+
+        <aside class="space-y-6">
+          <section class="card p-5">
+            <h2 class="font-bold mb-3">Calificación</h2>
+            <p class="text-sm text-default-soft">
+              ¿Cuánto le das a este queso?
+            </p>
+            <div class="mt-2">
+              <RatingStars appId={appId} client:visible />
+            </div>
+          </section>
+
+          <section class="card p-5">
+            <h2 class="font-bold mb-3">Información técnica</h2>
+
+            <dl class="grid grid-cols-1 gap-4">
+              {hasUsefulValue(app.release_date) && (
+                <div>
+                  <dt class="text-default-soft">Fecha de lanzamiento</dt>
+                  <dd class="text-sm">{app.release_date}</dd>
+                </div>
+              )}
+
+              {hasUsefulValue(app.developer) && (
+                <div>
+                  <dt class="text-default-soft">Desarrollador</dt>
+                  <dd class="text-sm">{app.developer}</dd>
+                </div>
+              )}
+
+              {hasUsefulValue(app.main_model) && (
+                <div>
+                  <dt class="text-default-soft">Modelos soportados</dt>
+                  <dd class="text-sm">{app.main_model}</dd>
+                </div>
+              )}
+
+              {hasUsefulValue(app.license) && (
+                <div>
+                  <dt class="text-default-soft">Licencia</dt>
+                  <dd class="text-sm">{app.license}</dd>
+                </div>
+              )}
+            </dl>
+
+            {(hasUsefulValue(app.integration) || hasUsefulValue(app.security_privacy)) && (
+              <div class="mt-4 pt-4 border-t border-line text-sm">
+                {hasUsefulValue(app.integration) && (
+                  <p>
+                    <strong>Integración:</strong> {app.integration}
+                  </p>
+                )}
+
+                {hasUsefulValue(app.security_privacy) && (
+                  <p class="mt-1">
+                    <strong>Seguridad/Privacidad:</strong> {app.security_privacy}
+                  </p>
+                )}
+              </div>
+            )}
+          </section>
+
+          {hasUsefulValue(app.pricing_plans) && (
+            <section class="card p-5">
+              <h2 class="font-bold mb-3">Plan de precios</h2>
+              <p class="text-sm whitespace-pre-line">{app.pricing_plans}</p>
+            </section>
+          )}
+        </aside>
+      </section>
+    </article>
+  </main>
+</BaseLayout>
