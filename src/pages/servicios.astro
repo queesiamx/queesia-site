@@ -4,6 +4,116 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import ServicesAppliedCases from "../components/ServicesAppliedCases.jsx";
 
 const CONTACT_URL = "/contacto?asunto=servicios";
+
+const capabilities = [
+  {
+    title: "Herramientas existentes",
+    description:
+      "Aprovechamos soluciones disponibles cuando ya resuelven bien la necesidad.",
+    iconPath:
+      "M4 7.5A2.5 2.5 0 0 1 6.5 5h11A2.5 2.5 0 0 1 20 7.5v9a2.5 2.5 0 0 1-2.5 2.5h-11A2.5 2.5 0 0 1 4 16.5v-9Zm4 2.5h8M8 14h5",
+  },
+  {
+    title: "Automatización",
+    description:
+      "Reducimos tareas manuales y repetitivas mediante flujos automatizados.",
+    iconPath:
+      "M12 3v3m0 12v3m9-9h-3M6 12H3m15.36-6.36-2.12 2.12M7.76 16.24l-2.12 2.12m12.72 0-2.12-2.12M7.76 7.76 5.64 5.64M9 12a3 3 0 1 0 6 0 3 3 0 0 0-6 0Z",
+  },
+  {
+    title: "Integraciones",
+    description: "Conectamos sistemas, datos, archivos, APIs y herramientas.",
+    iconPath:
+      "M8.5 7.5h-1A3.5 3.5 0 0 0 4 11v0a3.5 3.5 0 0 0 3.5 3.5h1M15.5 7.5h1A3.5 3.5 0 0 1 20 11v0a3.5 3.5 0 0 1-3.5 3.5h-1M9 11h6",
+  },
+  {
+    title: "IA aplicada",
+    description:
+      "La usamos cuando aporta valor en búsqueda, análisis, clasificación o generación.",
+    iconPath:
+      "M8 6.5A2.5 2.5 0 0 1 10.5 4h3A2.5 2.5 0 0 1 16 6.5v11a2.5 2.5 0 0 1-2.5 2.5h-3A2.5 2.5 0 0 1 8 17.5v-11Zm-3 4h3m8 0h3M5 15h3m8 0h3m-7-7v8m-2-4h4",
+  },
+  {
+    title: "Desarrollo a medida",
+    description:
+      "Construimos cuando configurar o integrar una solución existente no basta.",
+    iconPath:
+      "M8 9.5 5.5 12 8 14.5m8-5 2.5 2.5-2.5 2.5M14 7l-4 10M4 6.5A2.5 2.5 0 0 1 6.5 4h11A2.5 2.5 0 0 1 20 6.5v11a2.5 2.5 0 0 1-2.5 2.5h-11A2.5 2.5 0 0 1 4 17.5v-11Z",
+  },
+  {
+    title: "Capacitación, cursos y adopción",
+    description:
+      "Desde IA generativa hasta programas personalizados por equipo, proceso o área.",
+    iconPath:
+      "M4 6.5 12 3l8 3.5-8 3.5-8-3.5Zm3 3.2v5.1c0 1.8 2.2 3.2 5 3.2s5-1.4 5-3.2V9.7M20 8v6",
+  },
+];
+
+const processSteps = [
+  {
+    title: "Cuéntanos qué quieres mejorar",
+    description: "Problema, proceso y resultado esperado.",
+  },
+  {
+    title: "Revisamos si está listo",
+    description: "Información, documentación, accesos y viabilidad.",
+  },
+  {
+    title: "Definimos alcance",
+    description: "Responsabilidades, tiempos y criterios de aceptación.",
+  },
+  {
+    title: "Implementamos",
+    description: "Piloto o primera versión cuando conviene.",
+  },
+  {
+    title: "Validamos y mejoramos",
+    description: "Pruebas, despliegue y soporte posterior.",
+  },
+];
+
+const requirements = [
+  {
+    title: "Proceso actual",
+    description: "Cómo se realiza hoy.",
+  },
+  {
+    title: "Entradas y salidas",
+    description: "Archivos, datos, documentos y resultados.",
+  },
+  {
+    title: "Reglas y excepciones",
+    description: "Qué decisiones se toman y qué casos especiales existen.",
+  },
+  {
+    title: "Sistemas involucrados",
+    description: "ERP, CRM, correo, hojas de cálculo, APIs u otras herramientas.",
+  },
+  {
+    title: "Accesos y responsables",
+    description: "Quién participa y qué permisos o accesos pueden requerirse.",
+  },
+  {
+    title: "Volumen y restricciones",
+    description: "Frecuencia, cantidad, tiempos, seguridad y otras limitaciones.",
+  },
+  {
+    title: "Resultado y criterios de aceptación",
+    description: "Qué debe entregar la solución y cómo sabremos que funciona.",
+  },
+];
+
+const requirementNotes = [
+  {
+    title: "¿Tu proceso no está documentado?",
+    description: "Podemos ayudarte a levantarlo y definirlo antes de automatizar.",
+  },
+  {
+    title: "¿Necesitas una nueva plataforma?",
+    description:
+      "También podemos evaluar desarrollo a medida cuando sea la opción adecuada.",
+  },
+];
 ---
 
 <BaseLayout title="Servicios para empresas | Queesia">
@@ -89,20 +199,152 @@ const CONTACT_URL = "/contacto?asunto=servicios";
 
     <ServicesAppliedCases client:visible />
 
+    <section class="px-4 pb-14 pt-4 md:pb-16 md:pt-8" aria-labelledby="como-resolvemos-title">
+      <div class="mx-auto max-w-7xl">
+        <div class="mb-8 max-w-3xl">
+          <p class="text-sm font-bold uppercase tracking-[0.18em] text-primary">
+            Cómo lo resolvemos
+          </p>
+          <h2 id="como-resolvemos-title" class="mt-3 text-3xl font-extrabold text-default md:text-4xl">
+            La solución adecuada para cada necesidad
+          </h2>
+          <p class="mt-4 text-base leading-7 text-default-soft">
+            Combinamos herramientas existentes, automatización, integraciones, IA y desarrollo según lo que realmente requiera tu proceso.
+          </p>
+        </div>
+
+        <div class="grid grid-cols-1 gap-4 md:grid-cols-2 xl:grid-cols-3">
+          {capabilities.map((capability) => (
+            <article class="card flex h-full min-h-[172px] gap-4 bg-white/60 p-5 backdrop-blur-xl transition hover:bg-white/75">
+              <div class="flex h-10 w-10 shrink-0 items-center justify-center rounded-xl bg-primary/10 text-primary ring-1 ring-primary/10">
+                <svg
+                  viewBox="0 0 24 24"
+                  class="h-5 w-5"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="1.8"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                  aria-hidden="true"
+                >
+                  <path d={capability.iconPath} />
+                </svg>
+              </div>
+
+              <div>
+                <h3 class="text-lg font-bold leading-snug text-default">
+                  {capability.title}
+                </h3>
+                <p class="mt-2 text-sm leading-6 text-default-soft">
+                  {capability.description}
+                </p>
+              </div>
+            </article>
+          ))}
+        </div>
+      </div>
+    </section>
+
+    <section class="px-4 pb-16 pt-2 md:pb-20 md:pt-6" aria-labelledby="como-trabajamos-title">
+      <div class="mx-auto max-w-7xl">
+        <div class="mb-9 max-w-3xl">
+          <p class="text-sm font-bold uppercase tracking-[0.18em] text-primary">
+            Cómo trabajamos
+          </p>
+          <h2 id="como-trabajamos-title" class="mt-3 text-3xl font-extrabold text-default md:text-4xl">
+            Un proceso claro de principio a fin
+          </h2>
+          <p class="mt-4 text-base leading-7 text-default-soft">
+            Definimos el alcance antes de implementar y validamos cada solución con criterios acordados.
+          </p>
+        </div>
+
+        <div class="relative">
+          <div class="pointer-events-none absolute left-10 right-10 top-8 hidden h-px bg-gradient-to-r from-primary/10 via-primary/35 to-primary/10 xl:block" aria-hidden="true"></div>
+
+          <ol class="relative grid grid-cols-1 gap-4 md:grid-cols-2 xl:grid-cols-5">
+            {processSteps.map((step, index) => (
+              <li class="card flex h-full min-h-[190px] flex-col bg-white/65 p-5 backdrop-blur-xl">
+                <div class="relative mb-5 flex h-14 w-14 items-center justify-center rounded-2xl border border-primary/15 bg-white text-xl font-extrabold text-primary shadow-sm ring-8 ring-[rgba(255,255,255,0.75)]">
+                  {index + 1}
+                </div>
+
+                <h3 class="text-lg font-bold leading-snug text-default">
+                  {step.title}
+                </h3>
+                <p class="mt-3 text-sm leading-6 text-default-soft">
+                  {step.description}
+                </p>
+              </li>
+            ))}
+          </ol>
+        </div>
+      </div>
+    </section>
+
+    <section class="px-4 pb-16 pt-2 md:pb-20 md:pt-4" aria-labelledby="que-necesitamos-title">
+      <div class="mx-auto max-w-7xl">
+        <div class="mb-8 max-w-3xl">
+          <p class="text-sm font-bold uppercase tracking-[0.18em] text-primary">
+            Qué necesitamos
+          </p>
+          <h2 id="que-necesitamos-title" class="mt-3 text-3xl font-extrabold text-default md:text-4xl">
+            Qué necesitamos para comenzar
+          </h2>
+          <p class="mt-4 text-base leading-7 text-default-soft">
+            Para evaluar correctamente el proyecto necesitamos entender el proceso y contar con la información necesaria.
+          </p>
+        </div>
+
+        <div class="card bg-white/65 p-5 backdrop-blur-xl md:p-7">
+          <ul class="grid grid-cols-1 gap-4 lg:grid-cols-2">
+            {requirements.map((requirement) => (
+              <li class="flex gap-4 rounded-2xl border border-white/70 bg-white/55 p-4">
+                <span class="mt-0.5 flex h-8 w-8 shrink-0 items-center justify-center rounded-xl bg-primary/10 text-sm font-extrabold text-primary ring-1 ring-primary/10" aria-hidden="true">
+                  ✓
+                </span>
+                <div>
+                  <h3 class="text-base font-bold leading-snug text-default">
+                    {requirement.title}
+                  </h3>
+                  <p class="mt-1.5 text-sm leading-6 text-default-soft">
+                    {requirement.description}
+                  </p>
+                </div>
+              </li>
+            ))}
+          </ul>
+
+          <div class="mt-5 grid grid-cols-1 gap-4 border-t border-line/70 pt-5 md:grid-cols-2">
+            {requirementNotes.map((note) => (
+              <aside class="rounded-2xl border border-primary/10 bg-primary/5 p-5">
+                <h3 class="text-base font-extrabold text-default">
+                  {note.title}
+                </h3>
+                <p class="mt-2 text-sm leading-6 text-default-soft">
+                  {note.description}
+                </p>
+              </aside>
+            ))}
+          </div>
+        </div>
+      </div>
+    </section>
+
     <section class="px-4 pb-16 pt-4 md:pb-20">
       <div class="mx-auto max-w-7xl">
         <div class="card bg-white/75 p-6 text-center backdrop-blur-xl md:p-10">
           <h2 class="text-3xl font-extrabold text-default">
-            ¿Tienes un proyecto o una necesidad específica?
+            ¿Qué proceso quieres mejorar?
           </h2>
 
           <p class="mx-auto mt-4 max-w-2xl text-base leading-7 text-default-soft">
-            Cuéntanos qué quieres resolver y exploraremos contigo la solución tecnológica más adecuada.
+            Cuéntanos tu caso y evaluemos qué solución tiene sentido.
           </p>
 
           <div class="mt-7 flex justify-center">
             <a href={CONTACT_URL} class="btn-primary px-6 py-3">
-              Hablemos de tu proyecto
+              Hablemos →
             </a>
           </div>
         </div>
