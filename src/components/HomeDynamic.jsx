@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
 import { getLogoUrl, handleLogoError } from "../utils/logoUtils";
+import { getCanonicalCategoryUrl, warnMissingCategorySlug } from "../utils/categorySlug";
 
 const NEW_SINCE_ID = 1475;
 
@@ -75,7 +76,14 @@ export default function HomeDynamic() {
   
 
   const getCategoryUrl = (category) => {
-    return `/categorias/${encodeURIComponent(category)}/`;
+    const categoryUrl = getCanonicalCategoryUrl(category);
+
+    if (!categoryUrl) {
+      warnMissingCategorySlug(category, "HomeDynamic");
+      return undefined;
+    }
+
+    return categoryUrl;
   };
 
   if (loading) {

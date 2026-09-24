@@ -3,6 +3,7 @@ import { iconMap, descriptionMap } from "../utils/categoryInfo.tsx";
 import { Bot } from "lucide-react";
 import type { App } from "../types";
 import { getLogoUrl, handleLogoError } from "../utils/logoUtils";
+import { getCanonicalCategoryUrl, warnMissingCategorySlug } from "../utils/categorySlug";
 
 interface Props {
   categoria: string;
@@ -24,6 +25,11 @@ function compact(n: unknown): string | null {
 
 export default function CategoryPreview({ categoria, apps, totalEnCategoria }: Props) {
   const Icon = iconMap[categoria] ?? Bot;
+  const categoryUrl = getCanonicalCategoryUrl(categoria);
+
+  if (!categoryUrl) {
+    warnMissingCategorySlug(categoria, "CategoryPreview");
+  }
   const descripcion = descriptionMap[categoria] ?? "Explora herramientas de esta categoría.";
   
   // 👇 Normalizamos top 5 y calculamos cuántos “espaciadores” faltan
@@ -107,12 +113,21 @@ export default function CategoryPreview({ categoria, apps, totalEnCategoria }: P
 
       {/* Acciones */}
       <div className="mt-4 flex items-center justify-between">
-        <a
-          href={`/categorias/${encodeURIComponent(categoria)}`}
-          className="text-sm px-3 py-1 rounded-full border hover:bg-black hover:text-white transition"
-        >
-          Ver todas {typeof totalEnCategoria === "number" ? `(${totalEnCategoria})` : ""}
-        </a>
+        {categoryUrl ? (
+          <a
+            href={categoryUrl}
+            className="text-sm px-3 py-1 rounded-full border hover:bg-black hover:text-white transition"
+          >
+            Ver todas {typeof totalEnCategoria === "number" ? `(${totalEnCategoria})` : ""}
+          </a>
+        ) : (
+          <span
+            className="text-sm px-3 py-1 rounded-full border text-gray-400 cursor-not-allowed"
+            aria-disabled="true"
+          >
+            Ver todas {typeof totalEnCategoria === "number" ? `(${totalEnCategoria})` : ""}
+          </span>
+        )}
         <a
           href={`/categorias/${encodeURIComponent(categoria)}/top/`}
           className="text-sm text-blue-600 hover:underline"

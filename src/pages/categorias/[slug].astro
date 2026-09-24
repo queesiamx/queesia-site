@@ -1,0 +1,125 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import {
+  getCategoryPageProps,
+  loadCategoriesManifest,
+  loadSnapshotApps,
+  type CategoryPageProps,
+} from "../../utils/staticCategoryPages";
+
+export const prerender = true;
+
+const LOGO_BASE_URL = "https://queesia.com/logos";
+const DEFAULT_LOGO_URL = `${LOGO_BASE_URL}/default-logo.png`;
+
+function getLogoUrl(logoFilename?: string | null) {
+  const filename = String(logoFilename || "").split("/").pop()?.trim();
+
+  if (!filename) return DEFAULT_LOGO_URL;
+
+  const hasExtension = /\.(png|jpg|jpeg|webp|svg)$/i.test(filename);
+
+  return `${LOGO_BASE_URL}/${hasExtension ? filename : `${filename}.png`}`;
+}
+
+export async function getStaticPaths() {
+  const [categories, snapshotApps] = await Promise.all([
+    loadCategoriesManifest(),
+    loadSnapshotApps(),
+  ]);
+
+  return getCategoryPageProps(categories, snapshotApps).map(({ category, apps }) => ({
+    params: { slug: category.slug },
+    props: { category, apps },
+  }));
+}
+
+const { category, apps } = Astro.props as CategoryPageProps;
+const title = `${category.name}: herramientas de IA | Queesia`;
+const description = `Explora ${apps.length} herramientas de inteligencia artificial en la categoría ${category.name} disponibles en el catálogo de Queesia.`;
+const canonical = `/categorias/${category.slug}/`;
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  canonical={canonical}
+  robots="index, follow"
+>
+  <main class="w-full max-w-7xl mx-auto px-4 pt-24 pb-14">
+    <nav class="mb-6 text-sm">
+      <a href="/categorias" class="text-default-soft hover:text-primary">
+        Volver a categorías
+      </a>
+    </nav>
+
+    <section class="mb-8">
+      <h1 class="text-3xl sm:text-4xl font-extrabold text-default">
+        Herramientas de IA para {category.name}
+      </h1>
+
+      <p class="mt-3 text-default-soft">
+        {apps.length} herramientas encontradas.
+      </p>
+    </section>
+
+    {
+      apps.length > 0 ? (
+        <section
+          class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6"
+          aria-label={`Aplicaciones de ${category.name}`}
+        >
+          {apps.map((app) => (
+            <article
+              class="relative bg-white border border-gray-200 rounded-xl shadow hover:shadow-lg transition duration-200 flex flex-col items-center text-center p-4 w-full max-w-xs mx-auto"
+              data-app-card
+            >
+              <div class="w-24 h-24 bg-white rounded-xl shadow flex items-center justify-center overflow-hidden mb-4">
+                <img
+                  src={getLogoUrl(app.logo_filename)}
+                  alt={`Logo de ${app.name}`}
+                  class="max-w-[80%] max-h-[80%] object-contain"
+                  loading="lazy"
+                />
+              </div>
+
+              <h2 class="text-lg font-semibold text-default mb-1">{app.name}</h2>
+              <p class="text-sm text-default-soft italic mb-1">{app.category}</p>
+
+              <div class="flex flex-wrap justify-center gap-2 my-2">
+                {app.tags.length > 0 ? (
+                  app.tags.map((tag) => (
+                    <span class="bg-primary text-white text-xs px-2 py-1 rounded">
+                      {tag}
+                    </span>
+                  ))
+                ) : (
+                  <span class="bg-gray-400 text-white text-xs px-2 py-1 rounded">
+                    Sin etiquetas
+                  </span>
+                )}
+              </div>
+
+              <p class="text-sm text-default mt-3 min-h-[70px]">
+                {app.short_description || "Descripción no disponible"}
+              </p>
+
+              <div class="pt-4 w-full flex justify-center mt-auto">
+                <a
+                  href={`/app/${app.id}/`}
+                  class="bg-black text-white hover:bg-default-soft hover:scale-105 px-4 py-2 rounded-md text-sm font-medium transition-all duration-300"
+                >
+                  Derrite tu curiosidad
+                </a>
+              </div>
+            </article>
+          ))}
+        </section>
+      ) : (
+        <p class="text-default-soft text-center">
+          No se encontraron aplicaciones en esta categoría.
+        </p>
+      )
+    }
+  </main>
+</BaseLayout>

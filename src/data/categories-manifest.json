@@ -1,0 +1,167 @@
+[
+  {
+    "name": "Audio",
+    "slug": "audio",
+    "aliases": ["Audio"]
+  },
+  {
+    "name": "Automatización",
+    "slug": "automatizacion",
+    "aliases": ["Automatización"]
+  },
+  {
+    "name": "Bienestar",
+    "slug": "bienestar",
+    "aliases": ["Bienestar"]
+  },
+  {
+    "name": "Chat",
+    "slug": "chat",
+    "aliases": ["Chat"]
+  },
+  {
+    "name": "Citas",
+    "slug": "citas",
+    "aliases": ["Citas"]
+  },
+  {
+    "name": "Codificación",
+    "slug": "codificacion",
+    "aliases": ["Codificación"]
+  },
+  {
+    "name": "Detección",
+    "slug": "deteccion",
+    "aliases": ["Detección"]
+  },
+  {
+    "name": "Diseño gráfico",
+    "slug": "diseno-grafico",
+    "aliases": ["Diseño gráfico"]
+  },
+  {
+    "name": "Edición de imágenes",
+    "slug": "edicion-de-imagenes",
+    "aliases": ["Edición de imágenes"]
+  },
+  {
+    "name": "Edición de video",
+    "slug": "edicion-de-video",
+    "aliases": ["Edición de video"]
+  },
+  {
+    "name": "Educación",
+    "slug": "educacion",
+    "aliases": ["Educación"]
+  },
+  {
+    "name": "Entrenamiento de modelos",
+    "slug": "entrenamiento-de-modelos",
+    "aliases": ["Entrenamiento de modelos"]
+  },
+  {
+    "name": "Generación de arte",
+    "slug": "generacion-de-arte",
+    "aliases": ["Generación de arte"]
+  },
+  {
+    "name": "Generación de diseño",
+    "slug": "generacion-de-diseno",
+    "aliases": ["Generación de diseño"]
+  },
+  {
+    "name": "Generación de texto",
+    "slug": "generacion-de-texto",
+    "aliases": ["Generación de texto"]
+  },
+  {
+    "name": "Generación de video",
+    "slug": "generacion-de-video",
+    "aliases": ["Generación de video"]
+  },
+  {
+    "name": "Gestión",
+    "slug": "gestion",
+    "aliases": ["Gestión"]
+  },
+  {
+    "name": "Inteligencia de negocios",
+    "slug": "inteligencia-de-negocios",
+    "aliases": ["Inteligencia de negocios"]
+  },
+  {
+    "name": "Juegos",
+    "slug": "juegos",
+    "aliases": ["Juegos"]
+  },
+  {
+    "name": "Marketing",
+    "slug": "marketing",
+    "aliases": ["Marketing"]
+  },
+  {
+    "name": "Marketing de contenidos",
+    "slug": "marketing-de-contenidos",
+    "aliases": ["Marketing de contenidos"]
+  },
+  {
+    "name": "Música",
+    "slug": "musica",
+    "aliases": ["Música"]
+  },
+  {
+    "name": "Plataformas sin código",
+    "slug": "plataformas-sin-codigo",
+    "aliases": ["Plataformas sin código"]
+  },
+  {
+    "name": "Podcasting",
+    "slug": "podcasting",
+    "aliases": ["Podcasting"]
+  },
+  {
+    "name": "Productividad",
+    "slug": "productividad",
+    "aliases": ["Productividad"]
+  },
+  {
+    "name": "Publicidad",
+    "slug": "publicidad",
+    "aliases": ["Publicidad"]
+  },
+  {
+    "name": "Reclutamiento",
+    "slug": "reclutamiento",
+    "aliases": ["Reclutamiento"]
+  },
+  {
+    "name": "Redacción",
+    "slug": "redaccion",
+    "aliases": ["Redacción"]
+  },
+  {
+    "name": "Redes sociales",
+    "slug": "redes-sociales",
+    "aliases": ["Redes sociales"]
+  },
+  {
+    "name": "SEO",
+    "slug": "seo",
+    "aliases": ["SEO"]
+  },
+  {
+    "name": "Texto a video",
+    "slug": "texto-a-video",
+    "aliases": ["Texto a video", "Texto a vídeo"]
+  },
+  {
+    "name": "Texto a voz",
+    "slug": "texto-a-voz",
+    "aliases": ["Texto a voz"]
+  },
+  {
+    "name": "Traducción",
+    "slug": "traduccion",
+    "aliases": ["Traducción"]
+  }
+]
