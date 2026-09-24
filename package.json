@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
+    "sync:apps": "node scripts/sync-apps.mjs",
     "preview": "astro preview",
     "astro": "astro",
     "tailwind:init": "tailwindcss init -p"

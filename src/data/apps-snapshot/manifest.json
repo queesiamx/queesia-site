@@ -1,0 +1,247 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-09-24T18:07:35.204Z",
+  "count": 2287,
+  "selection": {
+    "source": "https://queesia.com/api/obtener_datos.php?all=1&limit=5000&page=1",
+    "strategy": "all valid unique ids in API order",
+    "catalogStats": {
+      "totalReceived": 2287,
+      "missingId": 0,
+      "missingName": 0,
+      "duplicateIds": []
+    }
+  },
+  "batches": [
+    {
+      "file": "apps-0001.json",
+      "count": 50,
+      "sha256": "0b8f0fd9d49dfed1b79c992f6dab7fbcef34fb81fb21d12d19fc407e6b9b6062"
+    },
+    {
+      "file": "apps-0002.json",
+      "count": 50,
+      "sha256": "dd384639e6b430b6be8208975acdfa56a0291db19f6464ccc1807c621bbe88b8"
+    },
+    {
+      "file": "apps-0003.json",
+      "count": 50,
+      "sha256": "5c4309671a1191eef7272d64c5c3ed5268b543cf29f43d0655684104ba1e53cc"
+    },
+    {
+      "file": "apps-0004.json",
+      "count": 50,
+      "sha256": "f023e5713d799dfd9e1a04ca396fc8b7df1d5dccbb9d7d57053cd94f341b51e8"
+    },
+    {
+      "file": "apps-0005.json",
+      "count": 50,
+      "sha256": "9fe668b1911dc61549cf3340236d3398823997128356ecebf648e7ad1d86261c"
+    },
+    {
+      "file": "apps-0006.json",
+      "count": 50,
+      "sha256": "e223d1dd4f81eebad0c81757924a825ac66fd467fd7dd8a8417349fb11ae135e"
+    },
+    {
+      "file": "apps-0007.json",
+      "count": 50,
+      "sha256": "8ea1370dbbab76c920bb9a2de72e8d677b91ef8878d99434b89d78bd36d56ddc"
+    },
+    {
+      "file": "apps-0008.json",
+      "count": 50,
+      "sha256": "19a7a70d54b6968040e083aee2731fb37ea02216cba2130f09732c3416fed469"
+    },
+    {
+      "file": "apps-0009.json",
+      "count": 50,
+      "sha256": "70279e22f6e4f9bff69ee95b04da3d77d0028a9d61a9fe0689d07405a195268c"
+    },
+    {
+      "file": "apps-0010.json",
+      "count": 50,
+      "sha256": "f47311891822dac3c1b1fcab30383ef74c8d7c799983faa94680eac96cc928ec"
+    },
+    {
+      "file": "apps-0011.json",
+      "count": 50,
+      "sha256": "1d3cbb4028e10379a67b006fa224afe37f9ea123c7e18a72820122f1f9b85852"
+    },
+    {
+      "file": "apps-0012.json",
+      "count": 50,
+      "sha256": "275609d7dbdb0fd12d8b08bebac603a83a5ad6fb1ef0a7d156fd944e670e58ab"
+    },
+    {
+      "file": "apps-0013.json",
+      "count": 50,
+      "sha256": "5bd9ff654ec41fba630b8f5e78502ac3fe6c1080f28340fa432fb1f71ff3ac27"
+    },
+    {
+      "file": "apps-0014.json",
+      "count": 50,
+      "sha256": "686b8cde28777d6d5e3090b31fd30803fbe875d22ba40bacb9f63558b4859a74"
+    },
+    {
+      "file": "apps-0015.json",
+      "count": 50,
+      "sha256": "05a34a4b1cf5b316fce13ba9d0b0386baa9211a82a2cc46dd5d1c1beb5e76443"
+    },
+    {
+      "file": "apps-0016.json",
+      "count": 50,
+      "sha256": "18bf2f83078b863fa08d12d1a34f9848bfeea9fcce0b89fa8683cbdbe1b10012"
+    },
+    {
+      "file": "apps-0017.json",
+      "count": 50,
+      "sha256": "9fcf4d590ea02fba2a185a493d8a6b341edb3ace403ff73076b75c18d8c259ab"
+    },
+    {
+      "file": "apps-0018.json",
+      "count": 50,
+      "sha256": "8a0ee3899ead32bb4afe9f82754e8052cd72c3b3eaaaba6930de9e324fe2e845"
+    },
+    {
+      "file": "apps-0019.json",
+      "count": 50,
+      "sha256": "5d6e5f8454fba42c5e8c07b6dd8e030e5d968f9d4cb91fd1d338f7f08b12c57a"
+    },
+    {
+      "file": "apps-0020.json",
+      "count": 50,
+      "sha256": "d3339a94dedac99830cc4a98ff057393f1eda6bfd19716947d73d33ad99720cc"
+    },
+    {
+      "file": "apps-0021.json",
+      "count": 50,
+      "sha256": "626ca61de35a810a514293e777243decee86809eafdf71f124acf702508ec17f"
+    },
+    {
+      "file": "apps-0022.json",
+      "count": 50,
+      "sha256": "d578dbfb2fc7a4dd5a8c22fd0fff50bd348c3b8f2552b3bb475c1719550c09cd"
+    },
+    {
+      "file": "apps-0023.json",
+      "count": 50,
+      "sha256": "99d8c654ab7be7ac2c2cf820ff106fc6e46584fe93f97e569f13b171501e8325"
+    },
+    {
+      "file": "apps-0024.json",
+      "count": 50,
+      "sha256": "cd21d91a841aed94e00f9cf55bb93cbd36920e654a13d1698c727cde1fd46652"
+    },
+    {
+      "file": "apps-0025.json",
+      "count": 50,
+      "sha256": "98861e56b4039ff1c673f492062279f91586d765655fdf216b4632e4ee53af16"
+    },
+    {
+      "file": "apps-0026.json",
+      "count": 50,
+      "sha256": "0947d7dd6f8aee3c89cc1663fe2d8d35f771f4ed2d9c6f52803fa0f6aef4112a"
+    },
+    {
+      "file": "apps-0027.json",
+      "count": 50,
+      "sha256": "f51c7f19c38aefd1e9b877c84aac0f3377406813a2f56cd69ac2bab34ee1c51f"
+    },
+    {
+      "file": "apps-0028.json",
+      "count": 50,
+      "sha256": "b5d167240627809d6d82823f0faf075b5ff0f78641007ee224a380f61815b92b"
+    },
+    {
+      "file": "apps-0029.json",
+      "count": 50,
+      "sha256": "601ceb61a67ebc5e98849fc44cdfaa14892cffa802737f725b3eafa4e6426cc7"
+    },
+    {
+      "file": "apps-0030.json",
+      "count": 50,
+      "sha256": "18f1cef75d23924b149d3b0f9b0447b4bb461ed95f65fafc845612042f5418d4"
+    },
+    {
+      "file": "apps-0031.json",
+      "count": 50,
+      "sha256": "7aa2164e8049619a3b2a1bdb07ac07a7bc86e652763ab039fbbb6bb400f1d217"
+    },
+    {
+      "file": "apps-0032.json",
+      "count": 50,
+      "sha256": "71ad6db6cf7e9a90211714270829a80056e8c963d6af250d5812763750085fff"
+    },
+    {
+      "file": "apps-0033.json",
+      "count": 50,
+      "sha256": "df0e2a17399ada228a7787ff22859562112ba781e151a51c1df2e5e8f3ea8f81"
+    },
+    {
+      "file": "apps-0034.json",
+      "count": 50,
+      "sha256": "c1434c8a2133deb0af790a46316ecf57fdca090d0c39c73fa8e50d812ea02f05"
+    },
+    {
+      "file": "apps-0035.json",
+      "count": 50,
+      "sha256": "f3708a9cb182a40e7323055d7214a93fe9160a9395670a9d0d3f2bb2fb423cab"
+    },
+    {
+      "file": "apps-0036.json",
+      "count": 50,
+      "sha256": "4ca8cd29a06d7689469fdd29b9edb1918220310400a53f0bc419ace98bb3cc18"
+    },
+    {
+      "file": "apps-0037.json",
+      "count": 50,
+      "sha256": "f49b5f897d8341b47060382c4c330b53e665039bd724bcabdfdc6747b35ac5b3"
+    },
+    {
+      "file": "apps-0038.json",
+      "count": 50,
+      "sha256": "99bfaad8e6f105c3d97c7996e057b063a9250a4cc287b0dfa390a1d5bbd73b7f"
+    },
+    {
+      "file": "apps-0039.json",
+      "count": 50,
+      "sha256": "286c856643594c96ec306f5c0da1cb1057624def2f8777b1555d21c5a15f844e"
+    },
+    {
+      "file": "apps-0040.json",
+      "count": 50,
+      "sha256": "39369ef517ab223f47d21b1f92611d5a05ec4ff83820e6ceaf926e6673110192"
+    },
+    {
+      "file": "apps-0041.json",
+      "count": 50,
+      "sha256": "baebe1d396e7a0e16dae2729278dd74b67e07b48b0cabdb739c04370d4ca01f0"
+    },
+    {
+      "file": "apps-0042.json",
+      "count": 50,
+      "sha256": "277ffbce14ab9a7f7833a6ba72615bd4828954516084d24c911ac56a6bd8099d"
+    },
+    {
+      "file": "apps-0043.json",
+      "count": 50,
+      "sha256": "ccf98da0a2e0423f782b1fd375a3a81bb194d50effd9c858fdbb619c28dccea3"
+    },
+    {
+      "file": "apps-0044.json",
+      "count": 50,
+      "sha256": "755780f77289d8bbfdd26147782653084a1a30b68d32624e479ac0cffcf1ff8d"
+    },
+    {
+      "file": "apps-0045.json",
+      "count": 50,
+      "sha256": "318a2e2b653d1843512805f43a7f203e6fd49708f33e5d3922a2f1ad9dd5fb70"
+    },
+    {
+      "file": "apps-0046.json",
+      "count": 37,
+      "sha256": "4b3f3a2c8260cabda5bd5d07989e5665660047e4d83ef711fb23d160671d26e9"
+    }
+  ]
+}

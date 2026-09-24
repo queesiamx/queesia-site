@@ -1,0 +1,2326 @@
+{
+  "schemaVersion": 1,
+  "apps": {
+    "50": {
+      "app": {
+        "id": "50",
+        "name": "FullContext",
+        "url": "https://www.fullcontext.ai/",
+        "short_description": "Interactúe, califique y demuestre clientes potenciales sin esfuerzo utilizando el primer chatbot unificado impulsado por IA con recorridos interactivos de productos y demostraciones.",
+        "category": "Marketing",
+        "main_functionality": "Implementación de chatbots impulsados por IA para interactuar con clientes potenciales, calificar leads y ofrecer demostraciones de productos de manera automatizada.",
+        "tags": "#Automatización #Productividad #BI",
+        "logo_filename": "id_50_full_context",
+        "what_is": "FullContext es una plataforma de inteligencia artificial diseñada para optimizar los procesos de ventas y marketing mediante la automatización de interacciones con clientes potenciales. Ofrece herramientas como chatbots impulsados por IA, demostraciones automatizadas y calificación de leads, permitiendo a las empresas interactuar con compradores las 24 horas del día.",
+        "purpose": "Su propósito principal es ayudar a las empresas a aumentar la eficiencia en la generación y conversión de leads, reduciendo el tiempo dedicado a tareas manuales y permitiendo que los equipos de ventas se enfoquen en cuentas de alto valor. FullContext facilita la interacción inmediata con compradores, la calificación orgánica de leads y la presentación de contenido personalizado basado en las necesidades específicas de los clientes.",
+        "use_cases": "Interacción con Clientes Potenciales: Empresas que buscan mejorar la experiencia del cliente pueden utilizar FullContext para ofrecer respuestas inmediatas y personalizadas a través de chatbots, aumentando la satisfacción y el compromiso del usuario. \n\nCalificación de Leads: Equipos de ventas pueden aprovechar la calificación automática de leads para identificar oportunidades de negocio más prometedoras, optimizando el uso de recursos y tiempo. \n\nDemostraciones de Producto: FullContext permite a las empresas presentar demostraciones interactivas de sus productos o servicios de manera automatizada, facilitando la comprensión y el interés del cliente potencial. ",
+        "main_advantages": "Automatización 24/7: La plataforma opera de manera continua, asegurando que los clientes potenciales reciban atención inmediata en cualquier momento. \n\nAhorro de Tiempo: Al automatizar tareas repetitivas, los equipos de ventas pueden enfocarse en estrategias y negociaciones más complejas. \n\nPersonalización: FullContext adapta las interacciones y demostraciones según las necesidades y preguntas específicas de cada cliente, mejorando la relevancia y efectividad de la comunicación. \n\nAnálisis de Datos: La plataforma proporciona insights sobre las preguntas y comportamientos de los clientes, permitiendo a las empresas ajustar sus estrategias de ventas y marketing de manera informada.",
+        "long_description": "FullContext es una plataforma de inteligencia artificial diseñada para optimizar los procesos de ventas y marketing mediante la automatización de interacciones con clientes potenciales. Ofrece herramientas como chatbots impulsados por IA, demostraciones automatizadas y calificación de leads, permitiendo a las empresas interactuar con compradores las 24 horas del día. La plataforma facilita la creación de flujos de trabajo personalizados utilizando lenguaje natural, lo que simplifica la configuración y adaptación a las necesidades específicas de cada negocio. Además, FullContext proporciona análisis detallados sobre las interacciones con los clientes, ofreciendo información valiosa para mejorar las estrategias de ventas y marketing.",
+        "release_date": "No disponible.",
+        "developer": "FullContext.",
+        "main_model": "No disponible.\n\n",
+        "pricing_plans": "Gratuito: $0 - Chatbot impulsado por IA\nChat en persona en vivo\nRecorridos interactivos de productos\nIdentificación de visitantes a nivel de persona\nFlujos de trabajo en lenguaje natural\nInformación y análisis\nProgramador de reuniones de Calendly y HubSpot\nIntegración con Slack                                                     STARTER: $199 -   Aumento de los límites de entrenamiento de recursos e IA\nRastreo de sitios web mejorado\nProgramador de reuniones nativo              GROWTH: $599/mes -   Límites ilimitados de recursos y entrenamiento de IA\nSin personalización de marca FullContext\nIntegración con HubSpot\nSSO\nSoporte en vivo                                                    ENTERPRISE: $_ (Contacte con la empresa) -  Todo en Growth, más:\nIntegraciones personalizadas\nHerramientas de IA personalizadas\nGerente de éxito dedicado\nPersonalización de marca\nMúltiples agentes y departamentos\nRecorridos de captura de HTML                                                         ",
+        "license": "Propietaria de FullContext.",
+        "security_privacy": "FullContext se compromete a proteger la información de sus usuarios, implementando medidas de seguridad para salvaguardar los datos recopilados. Para consultas o inquietudes sobre estas políticas, se recomienda contactar a FullContext a través del correo electrónico.",
+        "integration": "FullContext se integra con las herramientas de ventas y marketing existentes, permitiendo una implementación sin inconvenientes y una mejora en los flujos de trabajo actuales."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.fullcontext.ai/?utm_source=superhuman&utm_medium=newsletter&utm_campaign=a-peek-at-gemini-2-0&_bhlid=e7c1772889a971cf29ebaa16115fafad7debdece"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/fullcontext"
+        },
+        {
+          "source_url": "https://www.fullcontext.ai/about"
+        },
+        {
+          "source_url": "https://www.fullcontext.ai/pricing"
+        },
+        {
+          "source_url": "https://www.g2.com/products/fullcontext-ai/reviews"
+        },
+        {
+          "source_url": "https://www.b12.io/ai-directory/fullcontext%20/"
+        },
+        {
+          "source_url": "https://www.trendingaitools.com/ai-tools/fullcontext/"
+        }
+      ]
+    },
+    "57": {
+      "app": {
+        "id": "57",
+        "name": "Focus Buddy",
+        "url": "https://www.focusbuddy.ai/",
+        "short_description": "Un copiloto de IA que gestiona tareas y te ayuda a hacer más cosas que nunca.",
+        "category": "Productividad",
+        "main_functionality": "Proporciona sesiones de enfoque guiadas por inteligencia artificial, manteniendo al usuario en una llamada mientras trabaja para gestionar listas de tareas, superar barreras como el perfeccionismo y ofrecer información sobre patrones de trabajo.",
+        "tags": "#Productividad #GestiónDeTareas #Automatización",
+        "logo_filename": "id_57_focus_buddy",
+        "what_is": "Focus Buddy es una aplicación de productividad impulsada por inteligencia artificial que actúa como un copiloto, acompañando al usuario durante sus sesiones de trabajo para mejorar el enfoque y la eficiencia. La herramienta ayuda a gestionar listas de tareas, evitar la procrastinación e identificar patrones de comportamiento que pueden obstaculizar la productividad.",
+        "purpose": "La aplicación está diseñada para asistir a los usuarios en la organización y priorización de tareas, mantener la concentración durante las sesiones de trabajo y proporcionar información sobre hábitos laborales. Al ofrecer un acompañamiento constante, Focus Buddy busca mejorar la productividad y el bienestar laboral.",
+        "use_cases": "Profesionales con TDAH: Usuarios que requieren apoyo adicional para mantener la concentración y gestionar tareas de manera efectiva. \n\nEstudiantes: Aquellos que buscan mejorar sus hábitos de estudio y evitar distracciones durante sesiones académicas. \n\nTrabajadores remotos: Personas que necesitan estructurar su jornada laboral y mantener la productividad desde casa. \n\nFreelancers: Profesionales independientes que requieren herramientas para gestionar múltiples proyectos y cumplir con plazos de entrega.",
+        "main_advantages": "Acompañamiento constante: La IA permanece en llamada con el usuario, brindando soporte en tiempo real. \nGestión automática de tareas: Actualiza y prioriza la lista de tareas según el progreso y las necesidades del usuario. \n\nInformación personalizada: Proporciona insights sobre patrones de trabajo, identificando distracciones y momentos de mayor productividad. \n\nAccesibilidad y asequibilidad: Ofrece una versión gratuita para uso general y una versión personalizada de pago para usuarios selectos. ",
+        "long_description": "Focus Buddy es una aplicación de productividad impulsada por inteligencia artificial que actúa como un copiloto, acompañando al usuario durante sus sesiones de trabajo para mejorar el enfoque y la eficiencia. La herramienta ayuda a gestionar listas de tareas, evitar la procrastinación e identificar patrones de comportamiento que pueden obstaculizar la productividad.",
+        "release_date": "2024",
+        "developer": "Focus Buddy fue desarrollado por Yash Ramchandani y Adnan Sherif, ex empleados de Google con experiencia en aprendizaje automático y gestión de productos.",
+        "main_model": "No disponible.\n\n",
+        "pricing_plans": "Focus Buddy ofrece una versión gratuita para uso general y una versión personalizada de pago disponible para usuarios selectos.",
+        "license": "Propietaria de Focus Buddy",
+        "security_privacy": "Focus Buddy enfatiza la protección de los usuarios mediante la implementación de salvaguardas que los protegen de preguntas imprecisas y métricas inválidas, dirigiéndolos hacia la información necesaria y diferenciando claramente entre métricas generadas por IA y métricas validadas.",
+        "integration": "No disponible."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.focusbuddy.ai/?utm_source=superhuman&utm_medium=newsletter&utm_campaign=nobel-prize-winning-drug-discovery-tool-goes-open-source&_bhlid=433faff5ec695ffe0b0c7e3e6353565224541703"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/focus-buddy-yc-s24/introduction"
+        },
+        {
+          "source_url": "https://right-ai.com/es/ai/focusbuddy-ai"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/focus-buddy-yc-s24"
+        },
+        {
+          "source_url": "https://www.ycombinator.com/companies/focus-buddy"
+        },
+        {
+          "source_url": "https://try.focusbuddy.ai/privacy_policy.html"
+        }
+      ]
+    },
+    "104": {
+      "app": {
+        "id": "104",
+        "name": "FrontDesk",
+        "url": "https://frontdesk.helpedby.ai/",
+        "short_description": "Utilice los agentes de voz de IA para gestionar las consultas de los clientes, ayudar con las reservas y mucho más.",
+        "category": "Automatización",
+        "main_functionality": "Automatización de respuestas a consultas de clientes, desde información general de productos hasta resolución de problemas complejos, mediante agentes de IA que operan de forma autónoma las 24 horas del día.",
+        "tags": "#Automatización #AtenciónAlCliente #AgentesVirtuales",
+        "logo_filename": "id_104_font_desk",
+        "what_is": "FrontDesk es una plataforma de inteligencia artificial diseñada para automatizar la atención al cliente. Funciona mediante agentes autónomos que gestionan consultas, resuelven problemas y brindan soporte personalizado de manera eficiente y continua.",
+        "purpose": "Sirve para optimizar los procesos de atención al cliente al automatizar tareas repetitivas, responder preguntas comunes y manejar interacciones más complejas, todo con tiempos de respuesta rápidos y disponibilidad las 24 horas.",
+        "use_cases": "Empresas de comercio electrónico: Responder preguntas frecuentes sobre pedidos, devoluciones y envíos.\nSector financiero: Ayudar con consultas sobre cuentas, transacciones o asistencia básica en procesos bancarios.\nEducación en línea: Proporcionar soporte a estudiantes con problemas técnicos o preguntas sobre cursos.\nSoporte IT: Automatizar tareas iniciales de diagnóstico y resolución en áreas de tecnología.\nHospitalidad: Manejo de consultas relacionadas con reservas, servicios adicionales y políticas.",
+        "main_advantages": "Reducción de carga laboral: Permite a los equipos humanos enfocarse en tareas estratégicas.\nDisponibilidad constante: Brinda soporte las 24 horas del día, los 7 días de la semana.\nPersonalización del servicio: Responde de manera contextual a las necesidades específicas de cada cliente.\nOptimización de costos: Reduce la necesidad de recursos humanos adicionales para gestionar grandes volúmenes de consultas.\nEscalabilidad: Maneja altos volúmenes de interacción sin comprometer la calidad del servicio.",
+        "long_description": "FrontDesk es una plataforma de inteligencia artificial que ofrece agentes autónomos diseñados para automatizar y optimizar la atención al cliente. Estos agentes pueden gestionar consultas, asistir en reservas y manejar diversas interacciones con los clientes, operando de manera continua las 24 horas del día. La plataforma permite a las empresas personalizar los agentes según sus necesidades específicas, integrándolos en sus sistemas existentes para mejorar la eficiencia operativa y la satisfacción del cliente.",
+        "release_date": "No disponible.",
+        "developer": "HelpedBy.AI.",
+        "main_model": "Utiliza modelos de inteligencia artificial especializados en procesamiento de lenguaje natural para comprender y responder a las consultas de los clientes de manera efectiva.",
+        "pricing_plans": "Empresa emergente: $27/mes - Prueba gratuita de 2 días.\n200.000 créditos al mes.\nCargue una base de conocimientos de hasta 10 MB.\nLlamada de voz con IA de hasta 200 minutos al mes, o\nChatea con IA hasta 10.000 mensajes al mes.\nSoporte prioritario.                                                                                                                                                                                                                                                                                                                            ENTERPRISE: $132/mes - Prueba gratuita de 2 días.\n1.000.000 de créditos al mes.\nCargue una base de conocimientos de hasta 20 MB.\nLlamada de voz con IA de hasta 1.000 minutos al mes, o\nChatea con IA hasta 50.000 mensajes al mes.\nPrioridad de solicitud de funciones.\nAcceso a las próximas funciones.\nSoporte súper prioritario.",
+        "license": "Propietaria HelpedBy.AI.",
+        "security_privacy": "FontDesk recopila, utiliza y protege la información personal de los usuarios. Al utilizar los servicios de FrontDesk, los usuarios aceptan la recopilación y el procesamiento de su información personal según los términos descritos. La empresa recopila tanto información no identificable, como datos técnicos y de comportamiento, como información personal proporcionada voluntariamente por los usuarios, incluyendo detalles de contacto y comunicaciones. La empresa utiliza esta información para mejorar sus servicios y mantener una comunicación efectiva con los usuarios.",
+        "integration": "FrontDesk se integra con sistemas de gestión de relaciones con clientes (CRM) y otras plataformas empresariales, facilitando una implementación fluida y una experiencia unificada para el cliente."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://frontdesk.helpedby.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=nvidia-keeps-climbing"
+        },
+        {
+          "source_url": "https://toolhunt.io/frontdesk/"
+        },
+        {
+          "source_url": "https://canvasbusinessmodel.com/es/blogs/how-it-works/frontdesk-how-it-works"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/frontdesk"
+        },
+        {
+          "source_url": "https://www.comparasoftware.com/frontdeskai"
+        },
+        {
+          "source_url": "https://www.capterra.mx/software/84709/frontdesk-anywhere"
+        },
+        {
+          "source_url": "https://frontdesk.helpedby.ai/pricing\n"
+        },
+        {
+          "source_url": "https://frontdesk.helpedby.ai/privacy"
+        }
+      ]
+    },
+    "133": {
+      "app": {
+        "id": "133",
+        "name": "Futudo",
+        "url": "https://futudo.com/",
+        "short_description": "Reduce la ansiedad por tomar decisiones con una plataforma de IA que aprende sobre ti con el tiempo y sugiere acciones relevantes para tu situación personal.",
+        "category": "Automatización",
+        "main_functionality": "Proporciona análisis basados en datos históricos para predecir tendencias, identificar patrones y apoyar la toma de decisiones estratégicas en diversas industrias.",
+        "tags": "#AnalíticaPredictiva #MachineLearning #Predicciones #BigData",
+        "logo_filename": "id_133_futudo",
+        "what_is": "Futudo es una aplicación impulsada por inteligencia artificial que combina el análisis de datos históricos con modelos avanzados de aprendizaje automático para predecir tendencias futuras y apoyar la toma de decisiones estratégicas.",
+        "purpose": "Su propósito principal es proporcionar a empresas y profesionales herramientas para analizar patrones pasados y actuales, permitiendo anticipar comportamientos futuros y optimizar estrategias en diversos sectores.",
+        "use_cases": "Marketing: Predecir tendencias de consumo y ajustar campañas publicitarias en consecuencia.\nFinanzas: Anticipar movimientos del mercado y gestionar riesgos financieros.\nVentas: Pronosticar la demanda de productos y gestionar inventarios de manera eficiente.\nRecursos Humanos: Identificar patrones en la rotación de personal y mejorar estrategias de retención.\nSalud: Prever brotes de enfermedades y optimizar recursos médicos.",
+        "main_advantages": "Precisión en las predicciones: Utiliza algoritmos avanzados que mejoran la exactitud de los pronósticos.\nInterfaz intuitiva: Facilita la interpretación de datos complejos mediante visualizaciones claras.\nAdaptabilidad: Se ajusta a las necesidades específicas de diferentes industrias y tamaños de empresas.\nIntegración de datos: Compatible con múltiples fuentes de datos para un análisis más completo.\nSoporte continuo: Ofrece actualizaciones y asistencia técnica para garantizar un rendimiento óptimo.",
+        "long_description": "Futudo es una aplicación impulsada por inteligencia artificial que combina el análisis de datos históricos con modelos avanzados de aprendizaje automático para predecir tendencias futuras y apoyar la toma de decisiones estratégicas. Su propósito principal es proporcionar a empresas y profesionales herramientas para analizar patrones pasados y actuales, permitiendo anticipar comportamientos futuros y optimizar estrategias en diversos sectores.",
+        "release_date": "Noviembre 2024",
+        "developer": "Futudo",
+        "main_model": "Futudo emplea modelos avanzados de aprendizaje automático para analizar datos históricos y predecir tendencias futuras.",
+        "pricing_plans": "Futudo ofrece opciones gratuitas y de pago.",
+        "license": "Propietaria",
+        "security_privacy": "Futudo se compromete a proteger la privacidad de los usuarios y la seguridad de los datos, implementando medidas de seguridad avanzadas y cumpliendo con las regulaciones vigentes en materia de protección de datos.",
+        "integration": "Futudo proporciona una API que permite a los desarrolladores integrar sus capacidades de análisis predictivo en diversas aplicaciones y servicios, facilitando la creación de experiencias de usuario enriquecidas con predicciones generadas por IA."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://futudo.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=the-reasoning-models-coming-for-o1"
+        },
+        {
+          "source_url": "https://aipure.ai/products/futudo"
+        },
+        {
+          "source_url": "https://www.aibase.com/tool/34464"
+        },
+        {
+          "source_url": "https://www.producthunt.com/posts/futudo"
+        },
+        {
+          "source_url": "https://futudo.com/privacy"
+        }
+      ]
+    },
+    "191": {
+      "app": {
+        "id": "191",
+        "name": "FounderPal",
+        "url": "https://founderpal.ai/?",
+        "short_description": "Comprime tu mensaje de marketing en 1 frase.",
+        "category": "Marketing",
+        "main_functionality": "Automatización de la creación de estrategias de marketing y generación de ideas de negocio mediante inteligencia artificial.",
+        "tags": "#MarketingDigital #IA #Emprendimiento\n",
+        "logo_filename": "id_191_founderpal",
+        "what_is": "FounderPal es una plataforma que utiliza inteligencia artificial para simplificar tareas relacionadas con el marketing digital y el desarrollo de ideas de negocio. Está diseñada para emprendedores, startups y pequeños equipos que buscan automatizar y optimizar sus esfuerzos de marketing.",
+        "purpose": "Sirve para generar estrategias de marketing personalizadas, identificar oportunidades de mercado, desarrollar perfiles de clientes y automatizar tareas repetitivas relacionadas con la planificación y ejecución de campañas de marketing.",
+        "use_cases": "Emprendedores individuales: Ayuda a identificar nichos de mercado y desarrollar estrategias para el lanzamiento de productos o servicios.\nStartups: Automatización de tareas de marketing para reducir costos y ahorrar tiempo.\nEquipos de marketing: Generación de perfiles detallados de clientes ideales y sugerencias de estrategias basadas en análisis de datos.\nCreadores de contenido: Identificación de tendencias de mercado y optimización de estrategias de contenido.\nPequeñas empresas: Simplificación de la planificación y ejecución de campañas de marketing.",
+        "main_advantages": "Ahorro de tiempo: Automatiza tareas de marketing complejas, permitiendo enfocarse en la ejecución.\nAccesibilidad: Interfaz fácil de usar, ideal para personas con poco conocimiento técnico en marketing.\nAdaptabilidad: Ofrece recomendaciones personalizadas basadas en los objetivos y características del usuario.\nEficiencia: Proporciona insights de mercado basados en datos y análisis predictivo.\nCosto-efectividad: Reduce la necesidad de contratar equipos de marketing completos al proporcionar herramientas accesibles para emprendedores.",
+        "long_description": "FounderPal es una plataforma de inteligencia artificial diseñada para ayudar a emprendedores y pequeñas empresas a desarrollar estrategias de marketing efectivas de manera rápida y sencilla. Mediante una interfaz intuitiva, los usuarios pueden obtener ideas de marketing personalizadas, descripciones detalladas de clientes ideales y perfiles de usuario en cuestión de minutos, sin necesidad de entrevistas extensas ni conocimientos técnicos avanzados. La herramienta sugiere segmentos de audiencia, define propuestas de valor y ofrece estrategias de posicionamiento, incluyendo tono de voz, características, titulares y precios. Además, proporciona ideas para la adquisición de usuarios y sugerencias para optimizar la tasa de conversión, facilitando la creación de planes de marketing integrales y personalizados. \n",
+        "release_date": "2023",
+        "developer": "FundadorPal, LLC",
+        "main_model": "FounderPal utiliza modelos de inteligencia artificial para generar estrategias de marketing personalizadas basadas en la información proporcionada por el usuario.",
+        "pricing_plans": "FounderPal ofrece acceso de por vida a créditos y una garantía de devolución de dinero de 7 días.",
+        "license": "Propietaria",
+        "security_privacy": "FounderPal recopila, utiliza y protege la información personal de los usuarios. Al utilizar los servicios de FounderPal, los usuarios aceptan los términos establecidos en esta política. Para obtener información específica sobre los datos recopilados, su uso y las medidas de protección implementadas, se recomienda consultar directamente la política de privacidad en el sitio web oficial de FounderPal.",
+        "integration": "No disponible."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://founderpal.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=nvidia-stealthily-drops-new-model"
+        },
+        {
+          "source_url": "https://founderpal.softonic.com/aplicaciones-web"
+        },
+        {
+          "source_url": "https://aitoolsexplorer.com/ai-tools/founder-pal-simplifying-marketing-for-solopreneurs/"
+        },
+        {
+          "source_url": "https://www.crunchbase.com/organization/founderpal"
+        },
+        {
+          "source_url": "https://founderpal.ai/blog"
+        },
+        {
+          "source_url": "https://founderpal.ai/privacy-policy"
+        }
+      ]
+    },
+    "290": {
+      "app": {
+        "id": "290",
+        "name": "Followr",
+        "url": "https://followr.ai/",
+        "short_description": "Plataforma avanzada que utiliza inteligencia artificial para facilitar la creación, programación y análisis de contenido en redes sociales, optimizando la presencia en línea de los usuarios.",
+        "category": "Redes sociales",
+        "main_functionality": "Automatización de la gestión de redes sociales mediante programación de publicaciones, creación de contenido asistida por IA y análisis avanzados para mejorar la estrategia digital.",
+        "tags": "#GestiónRedesSociales #Automatización #InteligenciaArtificial #AnálisisAvanzado",
+        "logo_filename": "id_290_followr",
+        "what_is": "Followr.ai es una herramienta de inteligencia artificial diseñada para simplificar y optimizar la gestión de redes sociales. Ofrece soluciones automatizadas para la creación, programación y análisis de contenido, ayudando a usuarios y empresas a mantener una presencia en línea eficaz y profesional.",
+        "purpose": "El propósito principal de Followr.ai es automatizar las tareas relacionadas con la gestión de redes sociales. Esto incluye la generación de publicaciones adaptadas a las necesidades de la audiencia, la programación automática en horarios óptimos y el análisis de métricas clave para ajustar estrategias digitales y maximizar el impacto.",
+        "use_cases": "Gestión empresarial: Ayuda a pequeñas empresas y grandes corporaciones a mantener perfiles activos y optimizados en múltiples plataformas.\nCreación de contenido: Asiste a creadores de contenido en la planificación y generación de ideas para publicaciones relevantes.\nMarketing digital: Proporciona a los equipos de marketing datos analíticos detallados para mejorar campañas en redes sociales.\nFreelancers y agencias: Facilita a profesionales la gestión de múltiples cuentas de clientes desde una sola plataforma.",
+        "main_advantages": "Automatización: Elimina tareas manuales, reduciendo tiempo y esfuerzo.\nInteligencia en análisis: Ofrece métricas avanzadas que ayudan a mejorar estrategias en tiempo real.\nInterfaz amigable: Diseñada para ser accesible tanto para principiantes como para profesionales.\nOptimización: Publicaciones programadas según análisis de datos para lograr un mayor alcance e interacción.\nVersatilidad: Compatible con múltiples redes sociales, adaptándose a las necesidades de diferentes usuarios.",
+        "long_description": "Followr.ai es una herramienta integral para la gestión de redes sociales que utiliza inteligencia artificial avanzada para automatizar y optimizar tareas como la creación de contenido, la programación de publicaciones y el análisis de datos. Su diseño está pensado para facilitar la vida de los gestores de redes sociales, brindando recomendaciones basadas en datos y adaptadas a las audiencias específicas. La plataforma analiza métricas clave para proporcionar insights prácticos que mejoren las estrategias de marketing y la interacción con el público. Con una interfaz intuitiva y funcionalidades personalizables, Followr.ai es adecuado tanto para empresas como para individuos que buscan mejorar su presencia en línea.",
+        "release_date": "Septiembre 2023",
+        "developer": "Reblox Solutions LLC",
+        "main_model": "Información no disponible.",
+        "pricing_plans": "Pro\nPara individuos\n\n$\n29.00 / mes\n65% DE DESCUENTO\n$\n10.15\n/ De esta manera,\nÚnete por un 50% de descuento\n2 Usuario\n\n2 Empresa (conjunto social)\n\n20,000 Palabras IA / mes\n\n100 Imágenes AI / mes\n\n50 GB Almacenamiento\n\nPublicaciones Programadas Ilimitadas\n\nAnalítica Avanzada\n\nLo más popular\nEquipo\nPara pequeñas empresas\n\n$\n79.00 / mes\n65% DE DESCUENTO\n$\n27.65\n/ De esta manera,\nÚnete por un 50% de descuento\n5 Usuario\n\n5 Empresa (conjunto social)\n\n150,000 Palabras IA / mes\n\n200 Imágenes AI / mes\n\n200 GB Almacenamiento\n\nPublicaciones Programadas Ilimitadas\n\nAnalítica Avanzada\n\nAgencia\nPara grandes empresas\n\n$\n199.00 / mes\n65% DE DESCUENTO\n$\n69.65\n/ De esta manera,\nÚnete por un 50% de descuento\n20 Usuario\n\n20 Empresa (conjunto social)\n\n1,000,000 Palabras IA / mes\n\n500 Imágenes AI / mes\n\n500 GB Almacenamiento\n\nPublicaciones Programadas Ilimitadas\n\nAnalítica Avanzada",
+        "license": "Información no disponible.",
+        "security_privacy": "La política de privacidad de Followr.ai detalla cómo se recopila, utiliza y protege la información personal de los usuarios. La empresa se compromete a garantizar la seguridad de los datos y a utilizarlos de manera transparente y responsable.",
+        "integration": "No se especifica si la aplicación es compatible con otras herramientas o plataformas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/followr"
+        },
+        {
+          "source_url": "https://followr.ai/?ref=ffmedia"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/followr-ai/"
+        },
+        {
+          "source_url": "https://ageofai.tools/tools/followr-ai/"
+        },
+        {
+          "source_url": "https://appsumo.com/products/followr/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/followr-ai/launches"
+        },
+        {
+          "source_url": "https://followr.ai/#ai_tools"
+        },
+        {
+          "source_url": "https://followr.ai/#pricing"
+        },
+        {
+          "source_url": "https://followr.ai/privacy-policy"
+        }
+      ]
+    },
+    "389": {
+      "app": {
+        "id": "389",
+        "name": "Frase",
+        "url": "https://www.frase.io/",
+        "short_description": "Ayuda a crear y optimizar contenido SEO, combinando herramientas de investigación, redacción y análisis en una sola plataforma.",
+        "category": "SEO",
+        "main_functionality": "Ofrece funciones para investigar temas, estructurar artículos, generar texto con IA y mejorar el contenido para motores de búsqueda.",
+        "tags": "#OptimizaciónSEO #GeneraciónDeContenido #InteligenciaArtificial",
+        "logo_filename": "id_389_frase",
+        "what_is": "Frase es una herramienta basada en inteligencia artificial diseñada para ayudar a los creadores de contenido a investigar, redactar y optimizar artículos enfocados en SEO. Combina funcionalidades de análisis de búsquedas, generación automática de texto y optimización de contenido en una sola plataforma.",
+        "purpose": "Sirve para agilizar el proceso de creación de contenido de calidad optimizado para motores de búsqueda. Es ideal para redactores, equipos de marketing y especialistas en SEO que desean mejorar su posicionamiento web y atraer más tráfico orgánico.",
+        "use_cases": "Redacción de blogs optimizados para palabras clave específicas.\nAnálisis de contenido competitivo para identificar oportunidades de mejora.\nGeneración rápida de borradores para artículos o publicaciones en sitios web.\nMejora de contenido ya existente para aumentar su relevancia en motores de búsqueda.\nCreación de respuestas optimizadas para preguntas frecuentes basadas en tendencias de búsqueda.",
+        "main_advantages": "Ahorro de tiempo en la investigación y creación de contenido.\nOptimización guiada basada en datos reales de búsqueda y análisis de competidores.\nInterfaz intuitiva que permite gestionar todo el flujo de trabajo en una sola herramienta.\nMejora significativa en el posicionamiento SEO con contenido de alta calidad.\nAcceso a algoritmos de generación de texto basados en IA para mejorar la creatividad y productividad.",
+        "long_description": "Frase es una plataforma integral impulsada por inteligencia artificial que facilita la creación y optimización de contenido orientado al SEO. Ofrece herramientas que permiten desde la investigación de palabras clave y análisis de la competencia, hasta la generación y optimización de contenido de alta calidad. Su objetivo es agilizar el flujo de trabajo de los creadores de contenido, profesionales de SEO y equipos de marketing, proporcionando funcionalidades como resúmenes automatizados, análisis de SERP y generación de texto asistida por IA.",
+        "release_date": "2017",
+        "developer": "Frase Inc.",
+        "main_model": "Frase utiliza modelos de inteligencia artificial desarrollados en colaboración con OpenAI, incluyendo los modelos GPT-3.5 y GPT-4-turbo para la generación de contenido. Además, ofrece la opción de \"Bring Your Own Key\" (BYOK) para empresas que requieren soluciones personalizadas, permitiendo el uso de sus propias claves de OpenAI. \n",
+        "pricing_plans": "Solo: $14.99 al mes, incluye 1 usuario y permite escribir y optimizar hasta 4 artículos al mes, con un límite de 20,000 caracteres generados por IA mensualmente.\n\nBásico: $44.99 al mes, incluye 1 usuario y permite escribir y optimizar hasta 30 artículos al mes, con el mismo límite de 20,000 caracteres generados por IA.\n\nEquipo: $114.99 al mes, incluye 3 usuarios (con la opción de añadir usuarios adicionales por $25 al mes cada uno) y permite escribir y optimizar un número ilimitado de artículos, manteniendo el límite de 20,000 caracteres generados por IA.",
+        "license": "Frase es una plataforma de software propietario que opera bajo un modelo de suscripción.",
+        "security_privacy": "Frase se compromete a proteger la información de sus usuarios mediante medidas de seguridad estándar en la industria. Aunque no se detallan públicamente todas las políticas específicas, es recomendable revisar su política de privacidad y términos de servicio en su sitio web oficial para obtener información detallada sobre cómo manejan los datos y garantizan la seguridad de la información.",
+        "integration": "Frase ofrece integraciones con plataformas como Google Docs y WordPress, permitiendo a los usuarios optimizar su contenido directamente dentro de estas herramientas. Estas integraciones facilitan la colaboración y la publicación eficiente de contenido optimizado para SEO."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/frase"
+        },
+        {
+          "source_url": "https://www.frase.io/?via=ffmedia&fp_sid=aitools"
+        },
+        {
+          "source_url": "https://barrazacarlos.com/es/frase-io-seo-content-optimization-and-ai-writing-tool/"
+        },
+        {
+          "source_url": "https://iaperfecta.com/frase-io/"
+        },
+        {
+          "source_url": "https://aplicaciones.ai/frase/"
+        },
+        {
+          "source_url": "https://www.novafai.com/frase/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/frase/launches"
+        },
+        {
+          "source_url": "https://www.frase.io/about/"
+        },
+        {
+          "source_url": "https://www.frase.io/pricing/"
+        },
+        {
+          "source_url": "https://www.frase.io/privacy-policy/"
+        }
+      ]
+    },
+    "415": {
+      "app": {
+        "id": "415",
+        "name": "Flow Voice",
+        "url": "https://www.flowvoice.ai/",
+        "short_description": "usa tu voz para escribir tres veces más rápido en cada aplicación con comandos de IA y ediciones automáticas en 100 idiomas.",
+        "category": "Redacción",
+        "main_functionality": "Conversión de voz a texto en tiempo real, permitiendo la redacción eficiente en múltiples aplicaciones mediante comandos de voz y ediciones automáticas.",
+        "tags": "#IA #DictadoPorVoz #Productividad",
+        "logo_filename": "id_415_flow_voice",
+        "what_is": "Flow Voice es una herramienta de dictado de texto basada en inteligencia artificial que permite a los usuarios transformar sus palabras habladas en texto de manera rápida y precisa. Está diseñada para integrarse con diversas plataformas y aplicaciones, proporcionando una experiencia fluida para la redacción y edición de documentos mediante la voz.",
+        "purpose": "El principal propósito de Flow Voice es agilizar el proceso de escritura y redacción, facilitando la creación de contenido para usuarios que prefieren dictar en lugar de escribir manualmente. También es útil para mejorar la accesibilidad y productividad en tareas de oficina, creación de contenido o comunicación personal.",
+        "use_cases": "Redacción de correos electrónicos: Dictar mensajes de correo electrónico sin necesidad de escribir manualmente.\nCreación de documentos: Generar textos largos como reportes, ensayos o publicaciones mediante la voz.\nToma de notas: Capturar ideas y notas rápidamente durante reuniones o sesiones de lluvia de ideas.\nAccesibilidad: Asistir a personas con dificultades para escribir, permitiéndoles interactuar con aplicaciones de manera eficiente.\nEdición en tiempo real: Realizar correcciones y ajustes al texto dictado utilizando comandos de voz.",
+        "main_advantages": "Alta Precisión: Reconoce el habla con exactitud, minimizando errores en la transcripción.\nIntegración Versátil: Compatible con una variedad de aplicaciones y plataformas.\nProductividad Mejorada: Reduce significativamente el tiempo de escritura.\nEdición Inteligente: Permite ajustes en tiempo real, mejorando el flujo de trabajo.\nAccesibilidad Mejorada: Hace que la redacción sea más accesible para personas con discapacidades.",
+        "long_description": "Flow Voice es una aplicación innovadora de dictado por voz basada en inteligencia artificial que transforma la forma en que los usuarios interactúan con sus dispositivos y redactan contenido. Al convertir la voz en texto en tiempo real, permite una escritura más rápida y eficiente en cualquier plataforma compatible. Además, su sistema de edición inteligente permite realizar cambios en el texto dictado mediante comandos de voz, optimizando la productividad y facilitando el flujo de trabajo. Diseñada tanto para usuarios individuales como para equipos, Flow Voice integra accesibilidad y funcionalidad avanzada, haciendo que la redacción sea más accesible y precisa.",
+        "release_date": "Septiembre 2024",
+        "developer": "Wispr AI, Inc.",
+        "main_model": "No especificado. Utiliza inteligencia artificial para procesamiento de voz y texto.",
+        "pricing_plans": "Gratuito: Plan básico con funcionalidades limitadas.\nPremium: Funciones avanzadas como comandos de voz personalizables y mayor compatibilidad con plataformas (precios específicos no encontrados).",
+        "license": "Propietaria",
+        "security_privacy": "Flow Voice asegura la privacidad de sus usuarios mediante encriptación avanzada y almacenamiento seguro de datos. Cumple con normativas como GDPR, garantizando la confidencialidad de la información.",
+        "integration": "Flow Voice se integra con una variedad de aplicaciones y plataformas, incluyendo procesadores de texto, sistemas de gestión de correo electrónico y otras herramientas de productividad, facilitando su incorporación en flujos de trabajo existentes."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.flowvoice.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=new-ai-model-learns-like-we-do"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/flow-voice"
+        },
+        {
+          "source_url": "https://canvasbusinessmodel.com/es/blogs/how-it-works/voiceflow-how-it-works"
+        },
+        {
+          "source_url": "https://iaperfecta.com/flowvoice/"
+        },
+        {
+          "source_url": "https://hunts.ai/es/ia/voiceflow-ai/"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/ai-news-es/crea-tu-propio-asistente-de-ia-con-voice-flow-y-perplejidad-2035063"
+        }
+      ]
+    },
+    "547": {
+      "app": {
+        "id": "547",
+        "name": "Fullmoon",
+        "url": "https://fullmoon.app/",
+        "short_description": "Chatea con LLM privados y locales en el dispositivo, lo que te permite trabajar completamente sin conexión cuando no tienes Internet.",
+        "category": "Chat",
+        "main_functionality": "Permite a los usuarios chatear con modelos de lenguaje de gran escala de manera privada y local, operando completamente offline y optimizado para dispositivos con Apple Silicon.\n\n",
+        "tags": "#LLM #Chatbot #Offline #Privacidad #AppleSilicon",
+        "logo_filename": "id_547_fullmoon",
+        "what_is": "Fullmoon es una aplicación que permite a los usuarios interactuar con modelos de lenguaje de gran escala (LLMs) de forma privada y local, directamente desde sus dispositivos Apple. La aplicación funciona completamente offline, garantizando la privacidad y seguridad de las interacciones.",
+        "purpose": "Fullmoon está diseñada para proporcionar a los usuarios la capacidad de chatear con modelos de lenguaje avanzados sin necesidad de una conexión a internet. Esto es especialmente útil para quienes requieren asistencia lingüística o generación de texto en entornos donde la conectividad es limitada o la privacidad es una preocupación.",
+        "use_cases": "Asistencia en Escritura: Ayuda a redactar correos electrónicos, documentos o cualquier tipo de texto sin necesidad de conexión a internet.\nAprendizaje de Idiomas: Ofrece soporte en la práctica y comprensión de diferentes idiomas de manera privada.\nGeneración de Contenido Creativo: Facilita la creación de historias, poemas o ideas para proyectos creativos sin depender de servicios en la nube.",
+        "main_advantages": "Privacidad Total: Al operar completamente offline, garantiza que las interacciones del usuario no se compartan ni almacenen en servidores externos.\nAccesibilidad Sin Conexión: Funciona sin necesidad de internet, lo que la hace ideal para su uso en áreas con conectividad limitada.\nOptimización para Apple Silicon: Diseñada específicamente para aprovechar al máximo el hardware de los dispositivos Apple con chips Silicon, ofreciendo un rendimiento eficiente.\nPersonalización: Permite ajustar temas, fuentes y el prompt del sistema según las preferencias del usuario.",
+        "long_description": "Fullmoon es una aplicación diseñada para dispositivos Apple que permite a los usuarios interactuar con modelos de lenguaje de gran escala (LLMs) de manera privada y local, sin necesidad de conexión a internet. Optimizada para dispositivos con Apple Silicon, Fullmoon ofrece una experiencia de chatbot que garantiza la privacidad total de las interacciones, ya que todo el procesamiento se realiza localmente en el dispositivo del usuario.",
+        "release_date": "Enero 2025",
+        "developer": "No disponible",
+        "main_model": "Fullmoon utiliza modelos de lenguaje de gran escala (LLMs) para generar respuestas en lenguaje natural. Sin embargo, no se especifica públicamente el modelo exacto empleado.",
+        "pricing_plans": "No especificado",
+        "license": "Propietaria",
+        "security_privacy": "Fullmoon garantiza la privacidad total de las interacciones al operar completamente offline, asegurando que los datos del usuario no se transmitan ni almacenen en servidores externos. Todo el procesamiento se realiza localmente en el dispositivo del usuario, proporcionando un entorno seguro para la comunicación con el modelo de lenguaje.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://fullmoon.app/?utm_source=superhuman&utm_medium=referral&utm_campaign=ai-complicates-centuries-old-language-puzzle"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/fullmoon"
+        },
+        {
+          "source_url": "https://creator.nightcafe.studio/creation/pALh4FbMeKcjccRk5Bt5"
+        }
+      ]
+    },
+    "559": {
+      "app": {
+        "id": "559",
+        "name": "Founder Odyssey",
+        "url": "https://www.founderodyssey.com/",
+        "short_description": "Ahorre innumerables horas validando su idea de producto con la ayuda de la IA.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Proporciona un marco paso a paso que guía a los fundadores desde la ideación hasta el lanzamiento, utilizando análisis de múltiples modelos de IA y recursos de alta calidad para validar ideas de productos.",
+        "tags": "#AsistenciaEmprendimiento #ValidaciónProducto #IA",
+        "logo_filename": "id_559_founder_odyssey",
+        "what_is": "Founder Odyssey es una plataforma que combina un marco estructurado con un asistente de inteligencia artificial para guiar a los emprendedores en la validación y desarrollo de sus ideas de productos tecnológicos.",
+        "purpose": "Su propósito principal es proporcionar a los fundadores una guía paso a paso que abarca desde la ideación hasta el lanzamiento del producto, facilitando herramientas para analizar el mercado, definir propuestas de valor y planificar estrategias de ejecución.",
+        "use_cases": "Definición de la Idea: Ayuda a articular claramente el problema y la solución propuesta. \n\nAnálisis de Mercado: Ofrece herramientas como el calculador de tamaño de mercado para evaluar oportunidades. \n\nValidación con Usuarios: Facilita la creación de entrevistas y recopilación de feedback para refinar el concepto.\n\nDesarrollo del MVP: Proporciona un marco para construir el producto mínimo viable enfocándose en características esenciales. ",
+        "main_advantages": "Ahorro de Tiempo: Reduce significativamente el tiempo dedicado a la validación de ideas.\n\nEstructura Clara: Ofrece una metodología probada que guía a través de cada fase del desarrollo del producto. \n\nAsistencia de IA: Utiliza múltiples modelos de IA para proporcionar análisis y recomendaciones precisas.\n\nRecursos Integrados: Incluye herramientas como análisis de competidores y calculadoras de mercado para una planificación informada.",
+        "long_description": "Founder Odyssey es una plataforma diseñada para guiar a los emprendedores a través de las diversas etapas de validación y desarrollo de productos tecnológicos. Ofrece un enfoque estructurado que abarca desde la ideación hasta el lanzamiento, proporcionando herramientas impulsadas por inteligencia artificial para analizar el mercado, definir propuestas de valor y planificar estrategias de ejecución. Entre sus funcionalidades destacan el análisis con múltiples modelos de IA, integración con la API de Reddit y recursos de alta calidad para facilitar la toma de decisiones informadas.",
+        "release_date": "Enero 2025",
+        "developer": "No disponible",
+        "main_model": "Utiliza análisis de múltiples modelos de inteligencia artificial, incluyendo GPT-4 y Perplexity, para proporcionar recomendaciones y análisis precisos.\n\n",
+        "pricing_plans": "Starter: Gratuito, incluye 1 proyecto, 10 interacciones de IA por día y acceso a las fases de ideación, puntuación y análisis.\n\nPremium: $20/mes ($10/mes con oferta de lanzamiento), ofrece proyectos ilimitados, interacciones de IA ilimitadas, acceso completo a todas las fases (ideación, puntuación, análisis, segmentación, entrevistas, construcción y lanzamiento), herramientas y recursos premium, soporte prioritario y acceso anticipado a nuevas funciones.",
+        "license": "No disponible",
+        "security_privacy": "No disponible",
+        "integration": "Incluye integración con la API de Reddit para análisis de mercado y tendencias."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.founderodyssey.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=major-player-enters-the-agi-race"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/founder-odyssey"
+        },
+        {
+          "source_url": "https://indiehackerstacks.com/products/founder-odyssey?utm_source=chatgpt.com"
+        }
+      ]
+    },
+    "561": {
+      "app": {
+        "id": "561",
+        "name": "Formula Bot",
+        "url": "https://www.formulabot.com/",
+        "short_description": "Herramienta impulsada por inteligencia artificial que convierte instrucciones en lenguaje natural en fórmulas de Excel y Google Sheets, facilitando el análisis y visualización de datos sin necesidad de conocimientos avanzados en hojas de cálculo.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Traduce instrucciones en lenguaje natural a fórmulas de Excel o Google Sheets, permite la explicación de fórmulas existentes y ofrece análisis de datos a través de conversaciones simples, generando visualizaciones, tablas y modelos avanzados sin necesidad de programación.",
+        "tags": "#AnálisisDeDatos #InteligenciaArtificial #Excel #GoogleSheets",
+        "logo_filename": "id_561_formula_bot",
+        "what_is": "Formula Bot es una plataforma de análisis de datos impulsada por inteligencia artificial que permite a los usuarios convertir instrucciones en lenguaje natural en fórmulas para Excel y Google Sheets, así como en consultas SQL y código VBA. Además, ofrece análisis de datos conversacionales, permitiendo generar visualizaciones, tablas y modelos avanzados sin necesidad de programación.",
+        "purpose": "Su propósito principal es simplificar y automatizar el análisis y la gestión de datos, facilitando tareas como la creación de hojas de cálculo, generación de consultas SQL y automatización de procesos en Excel y Google Sheets. Esto permite a profesionales de diversos campos optimizar sus flujos de trabajo y mejorar la eficiencia en el manejo de datos. \n",
+        "use_cases": "Análisis Financiero: Automatiza cálculos complejos y genera informes financieros precisos.\n\nPronósticos Empresariales: Facilita la proyección de tendencias y análisis predictivos para la toma de decisiones estratégicas.\n\nInvestigación de Mercado: Permite analizar grandes volúmenes de datos para identificar patrones y oportunidades en el mercado.\n\nGestión de Ventas: Ayuda en el seguimiento y análisis de datos de ventas, optimizando estrategias comerciales.\n\nEducación: Asiste a estudiantes y educadores en la comprensión y aplicación de fórmulas y análisis de datos en proyectos académicos.",
+        "main_advantages": "Ahorro de Tiempo: Reduce significativamente el tiempo dedicado a la creación y comprensión de fórmulas y análisis de datos.\n\nAccesibilidad: Hace que herramientas avanzadas de análisis de datos sean accesibles para usuarios sin experiencia en programación.\n\nPrecisión: Minimiza errores humanos en la generación de fórmulas y análisis, asegurando resultados más confiables.\n\nAutomatización: Simplifica tareas repetitivas, permitiendo a los usuarios enfocarse en actividades estratégicas de mayor valor.\n\nIntegración: Se integra fácilmente con múltiples fuentes de datos, facilitando un análisis más completo y coherente.",
+        "long_description": "Formula Bot es una plataforma de análisis de datos impulsada por inteligencia artificial que permite a los usuarios conectar, analizar, visualizar, limpiar, transformar y enriquecer sus datos de manera eficiente. La herramienta facilita la generación de fórmulas en Excel y Google Sheets a partir de instrucciones en lenguaje natural, así como la creación de consultas SQL y scripts de VBA.",
+        "release_date": "No disponible",
+        "developer": "Datasetmatch LLC",
+        "main_model": "No disponible",
+        "pricing_plans": "Plan Gratuito: Ideal para usuarios ocasionales, incluye 5 generaciones de fórmulas por mes y 20 automatizaciones de datos de IA en hojas de cálculo (Excel y complementos de Google Sheets) por mes. \nPlan Pro: Diseñado para usuarios que trabajan con datos y hojas de cálculo de manera diaria, ofrece generaciones ilimitadas de fórmulas, uso ilimitado del Analizador de Datos y 10,000 automatizaciones de datos de IA en hojas de cálculo a través de complementos de Excel y Google Sheets cada mes. Este plan tiene un precio de $9 al mes o $76 al año (equivalente a $6.33 al mes) si se paga anualmente.",
+        "license": "No disponible",
+        "security_privacy": "No disponible",
+        "integration": "Formula Bot se integra con diversas herramientas y plataformas para mejorar la eficiencia en el análisis de datos:\n\nMicrosoft Excel: Permite la generación de fórmulas y automatizaciones directamente en Excel.\n\nGoogle Sheets: Facilita la creación de fórmulas y automatizaciones en Hojas de Cálculo de Google.\n\nSQL: Ofrece la generación de consultas SQL para interactuar con bases de datos."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/formula-bot"
+        },
+        {
+          "source_url": "https://link.aitoolsdirectory.com/formulabot"
+        },
+        {
+          "source_url": "https://www.formulabot.com/pricing"
+        },
+        {
+          "source_url": "https://appsource.microsoft.com/en-us/product/office/wa200004935"
+        },
+        {
+          "source_url": "https://tooldirectory.ai/tools/ai-excel-formula-generator"
+        },
+        {
+          "source_url": "https://aitools.grootsolutions.com/excel-formula-bot/"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/excel-formula-bot"
+        },
+        {
+          "source_url": "https://www.formulabot.com/privacy-policy"
+        },
+        {
+          "source_url": "https://vivevirtual.es/inteligencia-artificial/excel-formula-bot-usa-lenguaje-normal-para-crear-formulas-complejas-de-excel-con-ia/"
+        }
+      ]
+    },
+    "588": {
+      "app": {
+        "id": "588",
+        "name": "Frame",
+        "url": "https://www.frame.so/",
+        "short_description": "Suite unificada de aplicaciones de productividad diseñada para equipos, que ofrece un espacio de trabajo inteligente y conectado para mejorar la colaboración y eficiencia.",
+        "category": "Productividad",
+        "main_functionality": "Proporciona una plataforma centralizada con aplicaciones como notas, tareas, wikis y objetivos, integrando asistentes de IA para generar contenido y responder preguntas basadas en datos empresariales.",
+        "tags": "#Productividad #Colaboración #EspacioDeTrabajoInteligente #AsistentesDeIA #GestiónDeProyectos",
+        "logo_filename": "id_588_frame",
+        "what_is": "Frame es una plataforma de productividad y colaboración diseñada para equipos. Combina múltiples aplicaciones, como gestión de tareas, creación de notas, wikis y planificación de objetivos, en un solo espacio de trabajo conectado.",
+        "purpose": "Sirve para optimizar la colaboración entre equipos, centralizando las herramientas necesarias para la gestión de proyectos y tareas, la documentación compartida y la organización del trabajo diario. Además, aprovecha la inteligencia artificial para simplificar tareas como la generación de contenido, búsqueda de información y resolución de consultas internas.",
+        "use_cases": "Integración de múltiples aplicaciones en una única plataforma.\nAhorro de tiempo al reducir la necesidad de cambiar entre diferentes herramientas.\nMejora en la colaboración gracias a un espacio de trabajo compartido.\nAsistentes de IA que generan contenido automáticamente y resuelven consultas de datos empresariales.\nEscalabilidad para adaptarse a equipos pequeños o grandes.",
+        "main_advantages": "Gestión de Proyectos: Planificación y seguimiento del progreso de proyectos en equipo.\nDocumentación Compartida: Creación y mantenimiento de wikis para conocimiento corporativo.\nOrganización Personal: Tareas individuales organizadas en el mismo entorno de colaboración.\nColaboración Remota: Espacio centralizado para equipos distribuidos, con asistentes de IA para agilizar flujos de trabajo.",
+        "long_description": "Frame es una plataforma integral de productividad diseñada para equipos, que centraliza diversas aplicaciones de trabajo en un solo espacio. Ofrece herramientas como gestión de productos, ventas, colaboración remota y centralización del conocimiento de la empresa. Además, incorpora empleados virtuales impulsados por inteligencia artificial, capaces de interactuar en tiempo real con los datos de la empresa, recordar información histórica y comunicarse a través de múltiples canales como Slack y Google Meet.",
+        "release_date": "Septiembre 2023",
+        "developer": "Dockee Technologies, Inc. (dba Frame)",
+        "main_model": "No disponible",
+        "pricing_plans": "Frame ofrece una prueba gratuita para nuevos usuarios. Para detalles específicos sobre los planes de suscripción y precios, se recomienda visitar su sitio web oficial.",
+        "license": "Propietaria",
+        "security_privacy": "Frame destaca su compromiso con altos estándares de seguridad para proteger los datos de sus usuarios. Para información detallada sobre sus prácticas de seguridad y privacidad, se puede consultar la sección correspondiente en su sitio web.",
+        "integration": "Frame permite la conexión con más de 100 aplicaciones de trabajo, facilitando la búsqueda de datos y la inserción de enlaces entre aplicaciones de manera eficiente."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/frame"
+        },
+        {
+          "source_url": "https://www.frame.so/?via=aitoolsdirectory-com"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/frame-08932ad6-ffc3-464b-943a-112cdf23e991"
+        }
+      ]
+    },
+    "644": {
+      "app": {
+        "id": "644",
+        "name": "Foto AI",
+        "url": "https://www.fotoai.ai/",
+        "short_description": "Transforma o elimina el fondo de tu imagen en cuestión de segundos con IA.",
+        "category": "Edición de imágenes",
+        "main_functionality": "Mejora y restaura fotografías mediante inteligencia artificial, permitiendo la mejora de la calidad de imagen, eliminación de desenfoques y restauración de fotos antiguas o dañadas.",
+        "tags": "#EdiciónDeFotos #RestauraciónDeImágenes #InteligenciaArtificial",
+        "logo_filename": "id_644_fotoai",
+        "what_is": "Foto AI es una aplicación de edición fotográfica que utiliza inteligencia artificial avanzada para mejorar y restaurar imágenes. Está diseñada para facilitar a los usuarios la mejora de la calidad de sus fotos, eliminando desenfoques y restaurando fotografías antiguas o dañadas.",
+        "purpose": "La aplicación permite a los usuarios mejorar la calidad de sus imágenes de manera sencilla y eficiente. Con Foto AI, es posible:\n\nAumentar la resolución de fotos antiguas o de baja calidad.\nEliminar el desenfoque de imágenes borrosas.\nRestaurar fotografías dañadas o deterioradas por el tiempo.",
+        "use_cases": "Restauración de Fotos Familiares Antiguas: Los usuarios pueden revitalizar fotografías familiares antiguas, mejorando su claridad y detalle, preservando así recuerdos valiosos.\n\nMejora de Imágenes para Profesionales Creativos: Fotógrafos y diseñadores pueden utilizar Foto AI para mejorar la calidad de imágenes que requieren alta resolución y nitidez.\n\nOptimización de Fotos para Redes Sociales: Personas que desean compartir imágenes de alta calidad en plataformas sociales pueden utilizar la aplicación para mejorar sus fotos antes de publicarlas.\n\nDigitalización de Archivos Físicos: Empresas o individuos que digitalizan documentos o fotos físicas pueden utilizar Foto AI para mejorar la calidad de las imágenes escaneadas.",
+        "main_advantages": "Facilidad de Uso: Interfaz intuitiva que permite a usuarios de todos los niveles mejorar sus fotos sin necesidad de conocimientos técnicos avanzados.\n\nResultados Rápidos: Procesamiento rápido que ofrece mejoras en cuestión de segundos.\n\nTecnología Avanzada: Utiliza algoritmos de inteligencia artificial de última generación para ofrecer mejoras significativas en la calidad de las imágenes.\n\nVersatilidad: Adecuada para una amplia gama de aplicaciones, desde la restauración de fotos antiguas hasta la mejora de imágenes para uso profesional o personal.",
+        "long_description": "Foto AI es una aplicación de edición fotográfica que emplea algoritmos avanzados de inteligencia artificial para mejorar y restaurar imágenes de manera eficiente. La aplicación ofrece una variedad de herramientas que permiten a los usuarios aumentar la resolución de fotos de baja calidad, eliminar el desenfoque y restaurar fotografías antiguas o dañadas. Su interfaz intuitiva está diseñada para facilitar la experiencia del usuario, haciendo que procesos de edición complejos sean accesibles para todos, sin necesidad de conocimientos técnicos avanzados.",
+        "release_date": "Septiembre 2024",
+        "developer": "QLian I.O.T US LLC,",
+        "main_model": "Foto AI utiliza algoritmos avanzados de inteligencia artificial para el procesamiento y mejora de imágenes. Sin embargo, los detalles específicos sobre el modelo o algoritmo principal empleado no se han proporcionado públicamente.",
+        "pricing_plans": "No disponible",
+        "license": "No disponible",
+        "security_privacy": "La política de privacidad de Foto AI detalla cómo se recopila, utiliza y protege la información de los usuarios. Al utilizar sus servicios, los usuarios aceptan los términos establecidos en esta política. Se recomienda leerla detenidamente para comprender las prácticas de manejo de datos de la aplicación.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.fotoai.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=an-ai-app-builder-for-non-coders"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/fotoai/launches"
+        }
+      ]
+    },
+    "645": {
+      "app": {
+        "id": "645",
+        "name": "Format Magic",
+        "url": "https://formatmagic.ai/",
+        "short_description": "Format Magic es una herramienta impulsada por inteligencia artificial que transforma texto sin formato en documentos bellamente diseñados de manera automática. Ofrece una amplia variedad de plantillas para crear informes, presentaciones y otros documentos profesionales con solo unos clics.",
+        "category": "Redacción",
+        "main_functionality": "Convierte texto sin formato en documentos formateados profesionalmente utilizando plantillas predefinidas y estilos aplicados por inteligencia artificial.",
+        "tags": "#ProcesamientoDeLenguajeNatural #FormatoDeDocumentos #InteligenciaArtificial",
+        "logo_filename": "id_645_format_magic",
+        "what_is": "Format Magic es una plataforma de formateo impulsada por inteligencia artificial que permite a los usuarios transformar texto sin formato en documentos profesionalmente diseñados de manera automática. Ofrece una amplia variedad de plantillas para crear informes, presentaciones y otros documentos con solo unos clics.",
+        "purpose": "Sirve para simplificar y agilizar el proceso de formateo de documentos, permitiendo a los usuarios centrarse en el contenido sin preocuparse por el diseño. Es útil para estudiantes, profesionales y cualquier persona que necesite crear documentos bien formateados de manera eficiente.",
+        "use_cases": "Creación de Informes Profesionales: Generación de informes con formato profesional para presentaciones empresariales o académicas.\n\nElaboración de Presentaciones: Transformación de texto en presentaciones visualmente atractivas para reuniones o conferencias.\n\nDiseño de Materiales de Marketing: Creación de folletos, propuestas y otros materiales promocionales con diseño profesional.\n\nPreparación de Documentos Educativos: Formateo de apuntes, guías de estudio y otros recursos educativos para estudiantes y educadores.\n\nDesarrollo de Currículums Vitae: Diseño de CVs atractivos y bien estructurados para postulaciones laborales.",
+        "main_advantages": "Ahorro de Tiempo: Automatiza el proceso de formateo, reduciendo significativamente el tiempo dedicado al diseño de documentos.\n\nFacilidad de Uso: Interfaz intuitiva que no requiere habilidades técnicas o de diseño avanzadas.\n\nVariedad de Plantillas: Amplia selección de plantillas personalizables para adaptarse a diferentes necesidades y estilos.\n\nResultados Profesionales: Genera documentos con apariencia profesional, mejorando la presentación y eficacia de la comunicación escrita.\n\nAccesibilidad: Disponible en línea, lo que permite su uso desde cualquier dispositivo con acceso a internet.",
+        "long_description": "Format Magic es una herramienta innovadora impulsada por inteligencia artificial que transforma texto sin formato en documentos profesionalmente diseñados en cuestión de segundos. Con una amplia variedad de plantillas personalizables, los usuarios pueden crear informes, presentaciones y otros documentos de alta calidad sin necesidad de habilidades avanzadas en diseño. La plataforma está diseñada para ser intuitiva y eficiente, permitiendo a los usuarios centrarse en el contenido mientras la inteligencia artificial se encarga del formateo y la estética del documento.",
+        "release_date": "Septiembre 2024",
+        "developer": "Format Magic Pty Ltd",
+        "main_model": "Format Magic utiliza inteligencia artificial para aplicar automáticamente estilos y formatos adecuados al texto proporcionado por el usuario. Su IA contextual es capaz de entender la estructura del contenido para aplicar encabezados, estilos y formateos apropiados, asegurando que el documento final sea coherente y profesional.",
+        "pricing_plans": "Format Magic ofrece un plan gratuito que incluye un límite mensual de 30,000 tokens y permite hasta 10,000 tokens por solicitud, lo que es suficiente para formatear aproximadamente cuatro páginas de texto. Para usuarios con necesidades de formateo más extensas, existen planes de pago a partir de $4.95 USD por mes, que ofrecen límites de tokens más altos y mayores capacidades de salida de páginas.",
+        "license": "No disponible",
+        "security_privacy": "Format Magic asegura que no altera el contenido original del usuario, enfocándose únicamente en aplicar el formato deseado. Aunque no se proporciona información detallada sobre las políticas de seguridad y privacidad, la empresa enfatiza que el contenido del usuario permanece sin cambios en términos de gramática y puntuación, lo que sugiere un enfoque en la integridad y confidencialidad de los datos.",
+        "integration": "Actualmente, Format Magic permite a los usuarios ingresar texto sin formato directamente en la plataforma y ofrece los documentos formateados en formato PDF. En el futuro, la empresa planea expandir las opciones de entrada para incluir formatos de archivo populares como .docx, .txt y PDF, permitiendo a los usuarios cargar documentos existentes directamente para su formateo."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://formatmagic.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=an-ai-app-builder-for-non-coders"
+        },
+        {
+          "source_url": "https://creati.ai/ai-tools/format-magic/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/format-magic"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/format-magic"
+        }
+      ]
+    },
+    "814": {
+      "app": {
+        "id": "814",
+        "name": "Flora",
+        "url": "https://www.florafauna.ai/",
+        "short_description": "Un lienzo infinito impulsado por IA con todas las herramientas creativas, cuidadosamente conectadas.",
+        "category": "Generación de diseño",
+        "main_functionality": "Creación y edición de contenido visual y textual mediante flujos de trabajo personalizados utilizando modelos de IA.",
+        "tags": "#GeneraciónDeContenido #IA #Colaboración #FlujosDeTrabajo #Creatividad​",
+        "logo_filename": "id_814_flora",
+        "what_is": "Flora es una plataforma que combina múltiples modelos de inteligencia artificial para facilitar la creación de contenido visual y textual en un entorno colaborativo.\n\n",
+        "purpose": "Permite a equipos creativos diseñar, iterar y explorar ideas utilizando herramientas de IA en un lienzo compartido, optimizando el proceso de creación de contenido.",
+        "use_cases": "Diseño de campañas publicitarias con contenido generado por IA.\n\nCreación de storyboards para producciones audiovisuales.\n\nDesarrollo de contenido visual para redes sociales.\n\nGeneración de textos creativos para marketing y comunicación.",
+        "main_advantages": "Integración de múltiples modelos de IA en una sola plataforma.\n\nEntorno colaborativo en tiempo real.\n\nFlujos de trabajo personalizables según las necesidades del proyecto.\n\nInterfaz intuitiva que facilita la adopción por parte de equipos creativos.",
+        "long_description": "Flora es una plataforma que integra diversos modelos de inteligencia artificial para facilitar la creación de contenido visual y textual en un entorno colaborativo. Los usuarios pueden diseñar flujos de trabajo personalizados, combinando herramientas de generación de texto, imágenes y video, adaptándose a las necesidades específicas de cada proyecto. La interfaz de Flora permite a los equipos colaborar en tiempo real, optimizando el proceso creativo y reduciendo los tiempos de producción.",
+        "release_date": "2024",
+        "developer": "Flora",
+        "main_model": "Utiliza múltiples modelos de inteligencia artificial para generación de texto, imágenes y video.",
+        "pricing_plans": "Starter: Gratuito, incluye 500 créditos mensuales y acceso a todas las herramientas básicas.\n\nProfessional: $16 USD/mes (facturado anualmente), incluye 10,000 créditos mensuales, 50 proyectos y almacenamiento personalizado.\n\nAgency: $48 USD/mes (facturado anualmente), incluye 60,000 créditos mensuales y proyectos ilimitados.\n\nAI Partner: Precio personalizado, incluye flujos de trabajo personalizados y soporte dedicado.",
+        "license": "Propietaria",
+        "security_privacy": "No se especifica información detallada sobre políticas de seguridad y privacidad en la documentación disponible.",
+        "integration": "Permite la integración de múltiples modelos de IA para generación de contenido, adaptándose a las necesidades del usuario."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.florafauna.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=startup-drops-manus-beating-agent"
+        },
+        {
+          "source_url": "https://creati.ai/ai-tools/flora-ai/"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/flora"
+        },
+        {
+          "source_url": "https://medium.com/design-bootcamp/exploring-creative-flow-leonardo-ai-vs-florafauna-ai-3de38e8c771c"
+        },
+        {
+          "source_url": "https://techcrunch.com/2025/03/02/flora-is-building-an-ai-powered-infinite-canvas-for-creative-professionals/"
+        },
+        {
+          "source_url": "https://www.aibase.tech/news/features/flora-ai-node-based-ai-canvas-for-creative-professionals-launches/"
+        },
+        {
+          "source_url": "https://supertools.therundown.ai/content/flora-ai"
+        }
+      ]
+    },
+    "815": {
+      "app": {
+        "id": "815",
+        "name": "Focal",
+        "url": "https://focalml.com/",
+        "short_description": "Crea tus propios programas de TV y películas con IA.",
+        "category": "Generación de video",
+        "main_functionality": "Transformación de ideas o guiones en videos completos mediante la integración de modelos de IA para generación de video, imagen y voz, facilitando la creación de contenido audiovisual de manera intuitiva.",
+        "tags": "#GeneraciónDeVideo #IA #CreaciónDeContenido #ProducciónAudiovisual #NarrativaVisual​",
+        "logo_filename": "id_815_focal",
+        "what_is": "Focal es una plataforma en línea que utiliza inteligencia artificial para convertir ideas, guiones o conceptos en videos completos, permitiendo a los usuarios crear contenido audiovisual de manera eficiente y sin necesidad de conocimientos técnicos avanzados.",
+        "purpose": "Sirve para facilitar la creación de videos personalizados, ya sea para entretenimiento, marketing, educación o redes sociales, automatizando procesos como la escritura de guiones, generación de escenas, voces y edición.",
+        "use_cases": "Producción de cortometrajes o series independientes.\n\nCreación de videos explicativos o educativos.\n\nGeneración de contenido para redes sociales o campañas publicitarias.\n\nDesarrollo de presentaciones audiovisuales para empresas.",
+        "main_advantages": "Integración de múltiples modelos de IA líderes en video, imagen y voz.\n\nInterfaz intuitiva que permite la creación y edición de contenido sin experiencia previa.\n\nCapacidad para mantener coherencia en personajes y escenarios a lo largo del video.\n\nOpciones de personalización y control detallado sobre el contenido generado.",
+        "long_description": "Focal es una herramienta de creación de videos basada en inteligencia artificial que permite a los usuarios transformar ideas, guiones o conceptos en contenido audiovisual completo. La plataforma integra modelos avanzados de IA para generar escenas visuales, voces realistas y efectos de sonido, facilitando la producción de videos de alta calidad sin necesidad de conocimientos técnicos. Los usuarios pueden escribir o importar guiones, personalizar personajes y escenarios, y editar el contenido mediante una línea de tiempo intuitiva. Focal también ofrece la posibilidad de mantener coherencia en personajes y ubicaciones a lo largo del video, y permite la exportación del contenido para su uso en diversas plataformas.",
+        "release_date": "2023",
+        "developer": "Fluorescent Labs, Inc.",
+        "main_model": "Integra múltiples modelos de IA líderes, incluyendo Minimax, Kling, Luma y Runway para video; Flux1.1 Pro, Flux Dev y Flux Schnell para imágenes; y ElevenLabs para voces y efectos de sonido.",
+        "pricing_plans": "Free: Plan gratuito con funcionalidades limitadas y uso personal.\n\nStarter: $10 USD/mes, incluye 1,000 créditos mensuales y uso comercial.\n\nStandard: $30 USD/mes, incluye 3,900 créditos mensuales y uso comercial.\n\nPro: $100 USD/mes, incluye 15,000 créditos mensuales y uso comercial.",
+        "license": "Propietaria",
+        "security_privacy": "No se especifica información detallada sobre políticas de seguridad y privacidad en la documentación disponible.",
+        "integration": "Permite la integración de múltiples modelos de IA para generación de video, imagen y voz, adaptándose a las necesidades del usuario."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://focalml.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=startup-drops-manus-beating-agent"
+        },
+        {
+          "source_url": "https://www.reddit.com/r/aipromptprogramming/comments/1jb4d1t/focal_ml_is_awesome/"
+        },
+        {
+          "source_url": "https://www.youtube.com/watch?v=A2gjoL159m8"
+        },
+        {
+          "source_url": "https://www.ycombinator.com/companies/focal"
+        },
+        {
+          "source_url": "https://www.f6s.com/company/focalml.com"
+        }
+      ]
+    },
+    "851": {
+      "app": {
+        "id": "851",
+        "name": "FreePik",
+        "url": "https://www.freepik.com/",
+        "short_description": "Explora y crea elementos visuales únicos y acordes con la marca, como imágenes, vídeos, audio y mucho más.",
+        "category": "Generación de diseño",
+        "main_functionality": "Generación y edición de contenido visual mediante inteligencia artificial, permitiendo transformar descripciones textuales en imágenes y videos, así como mejorar y personalizar recursos gráficos existentes.",
+        "tags": "#GeneraciónDeImágenes #GeneraciónDeVideos #EdiciónDeImágenes #IACreativa #ContenidoMultimedia #TextoaImagen #TextoaVideo​",
+        "logo_filename": "id_851_freepik",
+        "what_is": "Freepik es una plataforma digital que combina una extensa biblioteca de recursos gráficos con herramientas de inteligencia artificial para la creación y edición de contenido visual. Ofrece funcionalidades que permiten a los usuarios generar imágenes y videos a partir de descripciones textuales, editar y mejorar recursos existentes, y acceder a una amplia gama de elementos gráficos para proyectos creativos.",
+        "purpose": "Está diseñada para facilitar la creación de contenido visual de alta calidad, permitiendo a diseñadores, creadores de contenido, educadores y profesionales del marketing generar y personalizar imágenes, videos y otros recursos gráficos de manera eficiente, sin necesidad de habilidades técnicas avanzadas.",
+        "use_cases": "Creación de materiales promocionales y publicitarios.\n\nDiseño de contenido para redes sociales y sitios web.\n\nElaboración de presentaciones educativas y corporativas.\n\nProducción de videos cortos para campañas de marketing.\n\nGeneración de ilustraciones y gráficos personalizados para proyectos editoriales.",
+        "main_advantages": "Interfaz intuitiva y accesible para usuarios de todos los niveles.\n\nAmplia variedad de herramientas basadas en inteligencia artificial para generación y edición de contenido.\n\nAcceso a una vasta biblioteca de recursos gráficos y multimedia.\n\nPosibilidad de personalizar y adaptar contenido según necesidades específicas.\n\nIntegración con otras plataformas y herramientas de diseño.",
+        "long_description": "Freepik es una plataforma integral que combina una extensa biblioteca de recursos gráficos con avanzadas herramientas de inteligencia artificial para la creación y edición de contenido visual. Entre sus principales funcionalidades se encuentran el generador de imágenes con IA, que transforma descripciones textuales en imágenes de alta calidad en estilos como fotorealismo, ilustración o anime; el generador de videos con IA, que permite crear videos cortos a partir de texto o imágenes; un editor de imágenes con opciones de mejora, eliminación de fondos y aumento de resolución; un asistente de IA que guía creativamente en el proceso de generación de contenido; y una vasta biblioteca con millones de vectores, fotos, ilustraciones, iconos y plantillas para diversos proyectos.",
+        "release_date": "2010",
+        "developer": "Freepik Company",
+        "main_model": "Utiliza modelos propios como Mystic y Flux, además de integrar tecnologías avanzadas como Google Veo 2 y herramientas de edición basadas en Gemini de Google.",
+        "pricing_plans": "Gratis: Acceso limitado a recursos y herramientas básicas.\n\nPremium: Acceso completo a la biblioteca y herramientas avanzadas, con opciones de suscripción mensual o anual.\n\nPremium+: Incluye funcionalidades adicionales como generación ilimitada de contenido con IA y acceso prioritario a nuevas herramientas.",
+        "license": "Propietaria, con opciones de uso gratuito y suscripciones de pago que ofrecen derechos ampliados sobre los recursos.",
+        "security_privacy": "Freepik cumple con las normativas de protección de datos y privacidad, ofreciendo políticas claras sobre el uso y almacenamiento de la información del usuario.",
+        "integration": "Ofrece integraciones con plataformas como Figma y dispone de aplicaciones móviles para iOS y Android, facilitando el acceso y uso de sus herramientas en diversos entornos.​"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.freepik.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=anthropic-peers-into-ai-s-black-box"
+        },
+        {
+          "source_url": "https://medium.com/%40macaipiotr/freepik-ai-suite-is-the-best-all-in-one-best-ai-platform-47bd89bf96ad"
+        },
+        {
+          "source_url": "https://www.toolsforhumans.ai/ai-tools/freepik-ai-image-generator"
+        }
+      ]
+    },
+    "881": {
+      "app": {
+        "id": "881",
+        "name": "Freebeat",
+        "url": "https://freebeat.ai/",
+        "short_description": "Convierte música e ideas en videos virales con un solo clic.",
+        "category": "Generación de video",
+        "main_functionality": "Transformar pistas musicales en videos con coreografías, letras animadas y efectos visuales, sincronizados automáticamente con el ritmo de la música.",
+        "tags": "#GeneraciónDeVideo #IA #Música #Coreografía #ContenidoViral #CreaciónDeContenido",
+        "logo_filename": "id_881_freebeat",
+        "what_is": "Freebeat AI es una plataforma basada en inteligencia artificial que permite a los usuarios crear videos musicales, de baile y con letras animadas a partir de cualquier canción, sincronizando automáticamente los elementos visuales con el ritmo y la energía de la música.",
+        "purpose": "Facilita la creación de contenido visual atractivo para músicos, creadores de contenido y aficionados, permitiendo generar videos que pueden ser compartidos en redes sociales o utilizados en presentaciones artísticas.",
+        "use_cases": "Creación de videos musicales para promoción de canciones.\n\nGeneración de contenido visual para redes sociales como TikTok o Instagram.\n\nProducción de videos con letras animadas para karaoke o presentaciones.\n\nDesarrollo de material visual para clases de baile o presentaciones en vivo.",
+        "main_advantages": "Interfaz intuitiva y fácil de usar.\n\nSincronización automática de elementos visuales con la música.\n\nCompatibilidad con múltiples fuentes de música.\n\nOpciones de personalización, incluyendo creación de avatares 3D.\n\nAcceso gratuito con opciones premium.",
+        "long_description": "Freebeat AI es una plataforma innovadora que utiliza inteligencia artificial para transformar canciones en contenido visual dinámico. Al analizar el ritmo y la energía de una pista musical, la plataforma genera automáticamente coreografías, animaciones de letras y efectos visuales que se sincronizan perfectamente con la música. Los usuarios pueden personalizar sus videos seleccionando estilos de baile, creando avatares 3D y eligiendo entre una variedad de efectos visuales. La plataforma es compatible con múltiples fuentes de música y ofrece herramientas adicionales para la creación de contenido, como generación de videos a partir de texto y efectos mágicos para fotos.",
+        "release_date": "Abril de 2024",
+        "developer": "Freebeat",
+        "main_model": "No disponible",
+        "pricing_plans": "Modelo freemium; acceso gratuito con opciones premium para funciones avanzadas.",
+        "license": "Propietaria.",
+        "security_privacy": "No se especifica información detallada sobre políticas de seguridad y privacidad en la documentación disponible.",
+        "integration": "Compatible con múltiples plataformas de música, incluyendo Spotify, SoundCloud, YouTube, TikTok, entre otras."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://freebeat.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=claude-s-new-connections"
+        },
+        {
+          "source_url": "https://www.aixploria.com/en/freebeat-ai-music-video-generator/"
+        },
+        {
+          "source_url": "https://dessign.net/freebeat-ai/"
+        },
+        {
+          "source_url": "https://opentools.ai/tools/freebeatai"
+        },
+        {
+          "source_url": "https://www.eliteai.tools/tool/freebeatai"
+        }
+      ]
+    },
+    "901": {
+      "app": {
+        "id": "901",
+        "name": "Framer",
+        "url": "https://www.framer.com/",
+        "short_description": "Cree sitios web responsivos en minutos sin escribir ningún código.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Generación y personalización de sitios web responsivos a través de IA, incluyendo traducción automática, reescritura de contenido y mantenimiento del estilo de marca.",
+        "tags": "#ConstructorDeSitiosWeb #NoCode #DiseñoWeb #TraducciónAutomática #GestiónDeContenido",
+        "logo_filename": "id_901_framerai",
+        "what_is": "Framer es una plataforma de desarrollo web que utiliza inteligencia artificial para facilitar la creación de sitios web interactivos y personalizados sin necesidad de conocimientos de programación.",
+        "purpose": "Permite a diseñadores y creadores construir sitios web profesionales de manera rápida, ofreciendo herramientas de diseño, traducción y gestión de contenido integradas.",
+        "use_cases": "Creación de portafolios personales o sitios de presentación para profesionales.\n\nDesarrollo de páginas de aterrizaje para startups o productos.\n\nGeneración de sitios multilingües para alcanzar audiencias globales.",
+        "main_advantages": "Interfaz intuitiva y sin necesidad de programación.\n\nHerramientas de IA para traducción y reescritura de contenido.\n\nIntegración con sistemas de gestión de contenido y herramientas de diseño.\n\nOptimización automática para dispositivos móviles y SEO.",
+        "long_description": "Framer es una plataforma de desarrollo web que combina herramientas de diseño avanzadas con capacidades de inteligencia artificial para facilitar la creación de sitios web interactivos y personalizados. Los usuarios pueden generar sitios completos a partir de indicaciones textuales, personalizar el diseño y contenido, y gestionar múltiples idiomas mediante traducción automática. La plataforma también ofrece integración con sistemas de gestión de contenido y herramientas de diseño, permitiendo una experiencia de desarrollo web completa sin necesidad de programación.",
+        "release_date": "Junio 2023",
+        "developer": "Framer B.V.",
+        "main_model": "Utiliza GPT-4 Turbo para funciones de traducción y reescritura de contenido.",
+        "pricing_plans": "Plan Gratuito: Ideal para uso no comercial.\n\nPlan Mini: €5/mes, adecuado para páginas de aterrizaje.\n\nPlan Básico: €15/mes, para sitios pequeños.\n\nPlan Pro: €30/mes, diseñado para equipos en agencias y startups.\n\nPlan Empresarial: Personalizado, con soporte dedicado y límites ajustables.",
+        "license": "Propietaria",
+        "security_privacy": "Cumple con el RGPD y cuenta con certificaciones SOC 2 e ISO 27001:2022. Utiliza cifrado SSL y estándares de seguridad de nivel bancario.",
+        "integration": "Integración con herramientas populares de diseño y desarrollo, así como con sistemas de gestión de contenido y APIs externas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.framer.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=baidu-s-gpt-4-5-killer"
+        },
+        {
+          "source_url": "https://designcode.io/framer-web-design-ai/"
+        },
+        {
+          "source_url": "https://www.numi.tech/post/framer-website-builder"
+        },
+        {
+          "source_url": "https://tracxn.com/d/companies/framer/__WwABy6r40KPszbW9ZaEHR6v4BX_MP8437KgHYLns7fo"
+        },
+        {
+          "source_url": "https://www.flow.ninja/blog/framer-vs-webflow"
+        },
+        {
+          "source_url": "https://www.techradar.com/reviews/framer-website-builder"
+        },
+        {
+          "source_url": "https://10web.io/ai-tools/framer-ai/"
+        }
+      ]
+    },
+    "917": {
+      "app": {
+        "id": "917",
+        "name": "Future Desk",
+        "url": "https://www.futuredesk.io/",
+        "short_description": "Interfaz avanzada para ChatGPT que mejora la experiencia del usuario mediante herramientas de organización, colaboración y personalización.",
+        "category": "Chat",
+        "main_functionality": "Proporciona una plataforma enriquecida para interactuar con modelos de lenguaje, ofreciendo funcionalidades como carpetas de chat, entrada/salida de voz y colaboración en equipo.",
+        "tags": "#AsistenteVirtual #ChatGPT #OrganizaciónDeChats #Colaboración #EntradaDeVoz #SalidaDeVoz #IA",
+        "logo_filename": "id_917_futuredesk",
+        "what_is": "FutureDesk es una interfaz de usuario mejorada para interactuar con modelos de lenguaje como ChatGPT, diseñada para optimizar la productividad y la gestión de conversaciones.",
+        "purpose": "Facilita la organización de chats, permite la colaboración en tiempo real y ofrece herramientas avanzadas para personalizar la experiencia de interacción con modelos de lenguaje.",
+        "use_cases": "Gestión de múltiples conversaciones con clientes o proyectos.\n\nColaboración en equipo para desarrollo de contenidos o soluciones.\n\nPersonalización de asistentes virtuales para tareas específicas.",
+        "main_advantages": "Organización eficiente mediante carpetas y búsqueda de chats.\n\nSoporte para entrada y salida de voz, mejorando la accesibilidad.\n\nCapacidad de colaboración en tiempo real entre usuarios.\n\nPersonalización de la experiencia mediante ajustes avanzados.",
+        "long_description": "FutureDesk es una plataforma que mejora la interacción con modelos de lenguaje como ChatGPT, ofreciendo una experiencia de usuario más rica y personalizada. Entre sus características destacan la organización de conversaciones mediante carpetas, la capacidad de búsqueda y marcado de chats favoritos, y la posibilidad de realizar copias de seguridad de los datos. Además, permite la entrada y salida de voz, la carga y edición de documentos, y la colaboración en tiempo real con otros usuarios. FutureDesk también ofrece opciones de personalización avanzadas, incluyendo la creación de personajes de IA y la integración de API personalizadas, adaptándose a las necesidades específicas de cada usuario o equipo.",
+        "release_date": "No disponible",
+        "developer": "FutureDesk.io",
+        "main_model": "Utiliza modelos de lenguaje como ChatGPT; no se especifica un modelo propio.",
+        "pricing_plans": "Modelo freemium: acceso gratuito con funcionalidades básicas.\n\nPlanes de pago con características avanzadas y mayor capacidad de integración.",
+        "license": "Propietaria",
+        "security_privacy": "No se especifican detalles sobre políticas de seguridad y privacidad en la información disponible.",
+        "integration": "Permite la integración de API personalizadas y la carga de documentos para su edición y análisis dentro de la plataforma."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/future-desk"
+        },
+        {
+          "source_url": "https://www.futuredesk.io/welcome?via=aitoolsdirectory-com"
+        },
+        {
+          "source_url": "https://aivalley.ai/futuredesk-3/"
+        },
+        {
+          "source_url": "https://ca.pinterest.com/pin/pins-by-you-in-2024--975592338030606650/"
+        },
+        {
+          "source_url": "https://www.futuretools.io/"
+        },
+        {
+          "source_url": "https://creati.ai/ai-tools/furedesk-io/"
+        }
+      ]
+    },
+    "947": {
+      "app": {
+        "id": "947",
+        "name": "Fluig AI",
+        "url": "https://www.fluig.cc/",
+        "short_description": "Convierte instantáneamente cualquier documento e idea en cualquier diagrama con IA.",
+        "category": "Generación de diseño",
+        "main_functionality": "Generación automática de diagramas (mapas mentales, flujogramas, tablas, etc.) a partir de texto, documentos o enlaces, con conversión entre formatos y colaboración en tiempo real.",
+        "tags": "#DiagramaciónAI #VisualizaciónDeDatos #MindMap #Flowchart #Productividad #Colaboración",
+        "logo_filename": "id_947_fluigai",
+        "what_is": "Fluig AI es una herramienta de inteligencia artificial diseñada para convertir texto, documentos o enlaces en diagramas visuales de manera automática y eficiente.",
+        "purpose": "Facilita la creación de diagramas como mapas mentales, flujogramas, tablas y más, a partir de diversas fuentes de información, permitiendo una comprensión visual rápida y colaborativa.",
+        "use_cases": "Educadores que desean representar conceptos complejos de forma visual.\n\nProfesionales de negocios que necesitan diagramar procesos o estrategias.\n\nEstudiantes que buscan organizar información para estudios o proyectos.\n\nEquipos que requieren colaborar en la creación y edición de diagramas en tiempo real.",
+        "main_advantages": "Transformación rápida de información en diagramas visuales.\n\nInterfaz intuitiva sin necesidad de habilidades técnicas.\n\nConversión entre diferentes formatos de diagramas con un solo clic.\n\nColaboración en tiempo real con comentarios y notas adhesivas.",
+        "long_description": "Fluig AI es una plataforma de diagramación impulsada por inteligencia artificial que permite a los usuarios transformar texto, documentos o enlaces en diagramas visuales de manera automática. Soporta la creación de mapas mentales, flujogramas, tablas, tarjetas tipo kanban, líneas de tiempo y más. La herramienta ofrece conversión entre diferentes formatos de diagramas con un solo clic y facilita la colaboración en tiempo real mediante comentarios y notas adhesivas. Su interfaz intuitiva elimina la necesidad de habilidades técnicas, haciendo que la diagramación sea accesible para todos.",
+        "release_date": "No disponible",
+        "developer": "Mockplus Technology Co., Ltd. ",
+        "main_model": "No disponible",
+        "pricing_plans": "Gratuito: $0/mes\n\nPro (Mensual): $19/mes\n\nPro (Anual): $19/mes",
+        "license": "Propietaria",
+        "security_privacy": "La Política de Privacidad de Fluig explica cómo se recopilan y usan datos personales como nombre, correo e IP para operar y mejorar sus servicios. Estos datos pueden obtenerse directamente del usuario, de terceros o mediante cookies, y se comparten solo con afiliados o cuando lo exige la ley. La empresa puede transferir la información internacionalmente y ofrece derechos adicionales a los usuarios de la UE bajo el GDPR. Fluig asegura su compromiso con la protección de la privacidad y la seguridad de los datos.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.fluig.cc/home?utm_source=superhuman&utm_medium=referral&utm_campaign=tiktok-gets-video-gen"
+        },
+        {
+          "source_url": "https://www.fluig.cc/privacy"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/fluig-ai"
+        },
+        {
+          "source_url": "https://www.aixploria.com/en/fluig-ai/"
+        },
+        {
+          "source_url": "https://www.futuretools.io/tools/fluig"
+        }
+      ]
+    },
+    "986": {
+      "app": {
+        "id": "986",
+        "name": "Flux AI",
+        "url": "https://flux1.ai/",
+        "short_description": "Genera imágenes y videos con varios modelos y herramientas para contenido creativo.",
+        "category": "Edición de imágenes",
+        "main_functionality": "Conversión de texto a imagen mediante modelos de IA avanzados, permitiendo la creación de imágenes de alta calidad en diversos estilos y resoluciones.",
+        "tags": "#IA #GeneraciónDeImágenes #TextoAImagen #ModelosDeDifusión #ArteDigital",
+        "logo_filename": "id_986_fluxai",
+        "what_is": "Flux AI es una plataforma de generación de imágenes impulsada por inteligencia artificial, desarrollada por Black Forest Labs, que permite crear imágenes detalladas a partir de descripciones textuales utilizando modelos avanzados de difusión.",
+        "purpose": "Facilita la creación de imágenes para diversos fines, como arte digital, diseño gráfico, ilustraciones y contenido visual para medios, sin necesidad de habilidades técnicas avanzadas.",
+        "use_cases": "Creación de ilustraciones personalizadas para libros y medios digitales.\n\nDiseño de personajes y escenarios para videojuegos.\n\nGeneración de contenido visual para campañas publicitarias y redes sociales.\n\nProducción de arte conceptual y prototipos visuales para proyectos creativos.",
+        "main_advantages": "Interfaz intuitiva que permite a usuarios sin experiencia técnica generar imágenes de alta calidad.\n\nVariedad de modelos que se adaptan a diferentes necesidades de velocidad y detalle.\n\nCapacidad para manejar descripciones complejas y generar imágenes coherentes y estilizadas.\n\nOpciones de generación por lotes y ajustes personalizables para mayor control creativo.",
+        "long_description": "Flux AI es una plataforma de generación de imágenes por inteligencia artificial que utiliza modelos avanzados de difusión para transformar descripciones textuales en imágenes detalladas y estilizadas. Desarrollada por Black Forest Labs, la plataforma ofrece varios modelos, como Flux.1 Pro, Flux.1 Dev y Flux.1 Schnell, que se adaptan a diferentes necesidades de velocidad y calidad. Los usuarios pueden generar imágenes de alta resolución en diversos estilos, desde fotorealistas hasta artísticos, con una interfaz fácil de usar y opciones de personalización avanzadas.",
+        "release_date": "2024",
+        "developer": "Black Forest Labs",
+        "main_model": "Modelos de difusión avanzados desarrollados por Black Forest Labs, incluyendo variantes como Flux.1 Pro, Flux.1 Dev y Flux.1 Schnell.",
+        "pricing_plans": "Plan Gratuito: Incluye 10 créditos gratuitos al registrarse, acceso al modelo Flux.1 Schnell.\n\nPlanes de Pago: Ofrecen acceso a modelos avanzados como Flux.1 Pro y Flux.1 Dev, con opciones de compra de créditos adicionales.",
+        "license": "Propietaria, con algunos modelos disponibles bajo licencia Apache 2.0 para uso no comercial.",
+        "security_privacy": "La plataforma no especifica detalles sobre políticas de privacidad o medidas de seguridad en la información disponible.",
+        "integration": "Ofrece acceso a través de API y es compatible con plataformas como Replicate y fal.ai"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://flux1.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=veo-wows-the-internet"
+        },
+        {
+          "source_url": "https://www.datacamp.com/es/tutorial/flux-a"
+        },
+        {
+          "source_url": "https://serinteligenciaartificial.com/flux-ai-conoce-el-nuevo-generador-de-imagenes-de-ia/"
+        },
+        {
+          "source_url": "https://flux-ai.org/es"
+        },
+        {
+          "source_url": "https://fluxai.pro/es"
+        }
+      ]
+    },
+    "1016": {
+      "app": {
+        "id": "1016",
+        "name": "FLUX Kontext",
+        "url": "https://kontextflux.com/",
+        "short_description": "Editor generativo de imágenes que combina instrucciones de texto y referencias visuales para realizar ediciones contextuales precisas y coherentes.",
+        "category": "Edición de imágenes",
+        "main_functionality": "Edición localizada, transferencia de estilo, preservación de consistencia de personajes y generación de imágenes a partir de texto e imagen.",
+        "tags": "#GeneraciónDeImágenes #EdiciónDeImágenes #Multimodal #ConsistenciaVisual #TransferenciaDeEstilo",
+        "logo_filename": "id_1016_fluxcontext",
+        "what_is": "FLUX Kontext es una familia de modelos generativos desarrollados por Black Forest Labs (Flux.1 Kontext), que permite generar y editar imágenes mediante instrucciones textuales y uso de imágenes de referencia.",
+        "purpose": "Facilita la creación y edición precisa de imágenes para diseño gráfico, marketing, storytelling visual, branding, entre otros.",
+        "use_cases": "Cambiar color o eliminar objetos específicos conservando el resto de la imagen intacta. \n\nGenerar series de retratos coherentes y consistentes.\n\nTransferir estilos visuales referenciando otra imagen.\n\nEliminación de marcas de agua o texto. ",
+        "main_advantages": "Precisión quirúrgica en regiones seleccionadas. \nkontextflux.com\n\nConservación de estilo, proporciones y características visuales clave.\n\nAlta velocidad de procesamiento, hasta 8 veces más rápido que modelos comparables.",
+        "long_description": "FLUX Kontext es una plataforma de edición y generación de imágenes que integra tres variantes de modelos: Pro, enfocado en ediciones rápidas con alta consistencia; Max, que ofrece calidad superior y mejor adherencia al texto y tipografía; y Dev, una versión de código abierto en beta para investigación. La herramienta permite flujos de trabajo contextuales, procesamiento en tiempo real, transferencia de estilo, generación a partir de texto o imagen, y ediciones localizadas con alta precisión.",
+        "release_date": "Agosto 2024",
+        "developer": "Black Forest Labs, con sede en Freiburg, Alemania.",
+        "main_model": "Modelo multimodal de flow matching generativo. Incluye variantes pro, max y dev (12B diffusion transformer). ",
+        "pricing_plans": "Gratis: Registro inicial con créditos limitados y marca de agua en salida. \n\nPlanes (Basic/Pro/Max) con más créditos y acceso a modelos superiores (sin detalles públicos completos). ",
+        "license": "Pro/Max: Propietaria.\n\nDev: código abierto (Apache licenciado).",
+        "security_privacy": "No recopila datos personales identificables según política de privacidad. Ads contextuales no personalizados, compatibles COPPA. \nTérminos de servicio regulan uso, enlaces, gravámenes. ",
+        "integration": "Disponible vía API/integraciones con KreaAI, Freepik, Lightricks, OpenArt, LeonardoAI, TogetherAI, Replicate, Runware y otros proveedores."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://kontextflux.com/"
+        },
+        {
+          "source_url": "https://bfl.ai/announcements/flux-1-kontext"
+        },
+        {
+          "source_url": "https://www.fluxpro.ai/im-tools/flux-kontext"
+        },
+        {
+          "source_url": "https://kontextart.com/"
+        },
+        {
+          "source_url": "https://docs.together.ai/docs/quickstart-flux-kontext"
+        }
+      ]
+    },
+    "1042": {
+      "app": {
+        "id": "1042",
+        "name": "Funblocks",
+        "url": "https://www.funblocks.net/",
+        "short_description": "Transforme la página web, PDF, video de YouTube en mapas mentales al instante.",
+        "category": "Productividad",
+        "main_functionality": "Generación automática de mapas mentales e infografías a partir de ideas o textos y transformación visual del contenido para facilitar el aprendizaje y la creatividad.",
+        "tags": "#MindMapping #Brainstorming #CriticalThinking #CreativeThinking #LLM #VisualAI",
+        "logo_filename": "id_1042_funblocks",
+        "what_is": "Es un entorno de trabajo integral basado en IA que combina un lienzo infinito con herramientas visuales (mapas mentales, nodos, brainstorming) integradas con modelos LLM avanzados (como GPT‑4o, Claude‑3.7, Gemini).",
+        "purpose": "Facilita la generación, organización y visualización de ideas complejas, potenciando el pensamiento creativo, crítico y analítico de forma colaborativa o individual.",
+        "use_cases": "Estudiantes y docentes: creación de mapas mentales para aprendizaje estructurado y visualización de conceptos complejos.\n\nEquipos profesionales: planificación estratégica, generación de ideas, desarrollo de propuestas visuales.\n\nCreadores de contenido: transformación de textos, videos o lecturas en infografías, presentaciones o guiones.\n\nLectores digitales: uso de extensiones para convertir artículos, PDFs o videos en visualizaciones para análisis más profundo.",
+        "main_advantages": "Interfaz visual intuitiva y lienzo infinito para creación sin límites.\n\nIntegración con modelos de IA diversos en una sola plataforma.\n\nGeneración automática en formatos útiles (infografías, slides, documentos).\n\nEstímulo al pensamiento crítico y creativo mediante frameworks clásicos como SCAMPER, SWOT, Six Thinking Hats.",
+        "long_description": "FunBlocks AIFlow es una plataforma de pensamiento visual potenciada por IA que permite crear mapas mentales, implementar técnicas de pensamiento crítico y generar productos finales como presentaciones, infografías y documentos con un solo clic. Admite múltiples modelos LLM y frameworks clásicos de pensamiento; permite colaboración en tiempo real y exportación en distintos formatos.",
+        "release_date": "Julio 2025",
+        "developer": "FunBlocks AI, bajo la dirección de su creador Wood Peng (según el artículo de Product Hunt) ",
+        "main_model": "Se integra con múltiples modelos de lenguaje como GPT‑4o, Claude‑3.7, Gemini‑2.5 Pro, DeepSeek AI. No se especifica un modelo propio exclusivo; usa LLM externos integrados",
+        "pricing_plans": "Ofrece plan gratuito (10 solicitudes de IA por día al iniciar sesión), además de planes premium con acceso ilimitado, procesamiento prioritario y funciones avanzadas",
+        "license": "Licencia propietaria basada en suscripción. No es software de código abierto.",
+        "security_privacy": "Transmisión de datos cifrada con protocolos estándar; contenido procesado no se utiliza para entrenar modelos sin consentimiento explícito; políticas de eliminación de datos y privacidad claramente indicadas.",
+        "integration": "Compatible con navegador vía extensión contextual, exportación a formatos de documentos, presentaciones e infografías, colaboración en equipo dentro de su propio workspace; permite uso de claves API propias para modelos externos (OpenAI, Claude, Gemini), facilitando integración con otros servicios con API compatibles."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.funblocks.net/aiflow"
+        },
+        {
+          "source_url": "https://www.producthunt.com/posts/funblocks-aiflow"
+        },
+        {
+          "source_url": "https://www.funblocks.net/docs/aiflow-tricks-and-tips/Prompts"
+        },
+        {
+          "source_url": "https://microsoftedge.microsoft.com/addons/detail/lmmlojdklhcdiefaniakpkhhdmamnigk"
+        }
+      ]
+    },
+    "1350": {
+      "app": {
+        "id": "1350",
+        "name": "Fluents",
+        "url": "https://www.fluents.ai/",
+        "short_description": "Agentes virtuales inteligentes diseñados para interacciones de voz de nivel humano a escala empresarial.",
+        "category": "Automatización",
+        "main_functionality": "Automatización de operaciones telefónicas con agentes de voz (inbound/outbound), campañas, ruteo/transferencias, analítica y sincronización con CRMs; configurable por dashboard y API/webhooks.",
+        "tags": "#VoiceAI #CallCenter #Inbound #Outbound #Automatización #CRM #Integraciones #API",
+        "logo_filename": "id_1350_fluentsai",
+        "what_is": "Es una plataforma “AI-first” de automatización de voz para operar llamadas entrantes y salientes, con módulos para marcación outbound, recepción inbound, asistentes de ventas y agente web, además de un fundamento API-first para desarrolladores.",
+        "purpose": "Para reemplazar o complementar operación humana/IVRs con agentes de voz que atienden, califican, enrutan, agendan y registran resultados (transcripciones, disposiciones, reservas) en herramientas como CRM/calendarios, escalando por concurrencia.",
+        "use_cases": "Recepción 24/7: contestar, enrutar y agendar llamadas entrantes (multilingüe).\n\nOutbound a escala: campañas, seguimientos y encuestas con cumplimiento (mencionan salvaguardas como TCPA/STIR/SHAKEN en el stack).\n\nVentas: calificación y agendamiento en tiempo real, con sincronización a CRM.\n\nAgente en sitio web: habilitar interacción por voz en el website para resolver dudas/capturar leads.\n\nIntegración con herramientas: conectar con CRMs, calendarios y automatizadores (p. ej., Salesforce/HubSpot/ActiveCampaign, Zapier/Make).",
+        "main_advantages": "Unificación del “call stack” (inbound, outbound, analítica e integraciones) en una sola plataforma.\n\nFlexibilidad de implementación: lanzamiento con herramientas no-code o control profundo mediante API, webhooks y mapeo de variables.\n\nIntegraciones: afirman compatibilidad con 1500+ integraciones y conectores nativos + terceros.\n\nEconomía y escalado predecible: posicionan precios por concurrencia y planes con límites claros.\n\nOrientación a cumplimiento/operación: mencionan salvaguardas (p. ej., TCPA/STIR/SHAKEN) como parte de su propuesta.",
+        "long_description": "Plataforma de voz con IA para operación de call center inbound/outbound. Incluye módulos como: Front Desk (recepción/atención y ruteo), Dialer Pro (marcación outbound a escala), Sales Assistant (calificación/agenda), Web Agent (voz en sitio web) y un pilar para desarrolladores con API y webhooks para programar llamadas, campañas, números y eventos. También promueve sincronización de resultados con CRMs y despliegue con opciones no-code y API-first.",
+        "release_date": "Abril 2025",
+        "developer": "Fluents.ai, Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "Starter: US$49 / 120 minutos / Concurrencia 5 / Números 2 / Overage US$0.45/min\n\nSMB: US$299 / 2,500 minutos / Concurrencia 10 / Números 10 / Overage US$0.14/min\n\nGrowth: US$749 / 7,000 minutos / Concurrencia 15 / Números 25 / Overage US$0.12/min\n\nEnterprise: US$1499+ / 15,000 minutos\n\nIndican que todos los planes mensuales incluyen “unlimited agents, users, workflows, and integrations”.",
+        "license": "Propietario / SaaS",
+        "security_privacy": "Publican Privacy Policy y Terms of Service. La política describe recolección/uso/compartición de datos, retención, medidas de seguridad (aclaran que ningún método es 100% seguro), notificación ante solicitudes de autoridades (cuando aplique), y restricción de uso para menores (no orientado a <18).",
+        "integration": "Indican 1500+ integraciones, con conectores “plug-and-play” (mencionan Salesforce, HubSpot, ActiveCampaign, Google Sheets, Gmail) y compatibilidad vía terceros (Zapier, Make.com) además de integraciones a medida mediante API/webhooks."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.fluents.ai/"
+        },
+        {
+          "source_url": "https://www.fluents.ai/features"
+        },
+        {
+          "source_url": "https://www.fluents.ai/pricing"
+        },
+        {
+          "source_url": "https://www.fluents.ai/privacy-policy"
+        },
+        {
+          "source_url": "https://www.fluents.ai/about"
+        },
+        {
+          "source_url": "https://www.fluents.ai/integrations"
+        },
+        {
+          "source_url": "https://www.voiceaispace.com/tool/fluentsai"
+        }
+      ]
+    },
+    "1398": {
+      "app": {
+        "id": "1398",
+        "name": "FluxGen",
+        "url": "https://app.fluxtech.pro/",
+        "short_description": "Genera imágenes de IA sin romper tu flujo de código.",
+        "category": "Generación de arte",
+        "main_functionality": "Generación de imágenes “in-editor” mediante Flux (Black Forest Labs) para producir visuales sin interrumpir el flujo de programación; orientado a desarrolladores y equipos técnicos.",
+        "tags": "#GeneraciónDeArte #GeneraciónDeImágenes #DevTools #Cursor #VSCode #Extensión #FlujoDeTrabajo",
+        "logo_filename": "id_1398_fluxgenai",
+        "what_is": "Una herramienta de generación de imágenes con IA integrada al editor de código (en el ecosistema compatible con Visual Studio Code) para crear imágenes sin salir del entorno de desarrollo.",
+        "purpose": "Para producir visuales (imágenes para interfaces, assets, recursos para páginas/productos, etc.) mientras se programa, reduciendo el “context switching” entre editor y herramientas de diseño.",
+        "use_cases": "Crear imágenes/recursos visuales desde el editor para proyectos web sin cambiar de app.\n\nEquipos técnicos que necesitan generar visuales rápidos durante el desarrollo (prototipos, documentación, assets).\n\nUso en editores compatibles con VS Code (mencionan Cursor, VS Code y Windsurf).",
+        "main_advantages": "Mantiene el flujo de trabajo: se centra en generar imágenes sin salir del editor.\n\nEnfoque para devs: mensaje y posicionamiento orientados a productividad en entornos de desarrollo.\n\nCompatibilidad declarada: no solo Cursor; también herramientas compatibles con VS Code.",
+        "long_description": "Herramienta enfocada en generar imágenes con IA dentro del editor de código, evitando alternar entre apps. Se presenta como un generador integrado (Cursor/VS Code y editores compatibles) para crear visuales e incorporarlos al flujo de desarrollo. En Product Hunt se especifica que genera imágenes usando Flux de Black Forest Labs.",
+        "release_date": "2025",
+        "developer": "Maker (creador): Mizael Galvez (listado como “Maker” en Product Hunt).\n\nCompañía/branding del sitio: FluxTech Labs (nombre mostrado por el sitio, pero el contenido textual no fue extraíble).",
+        "main_model": "Flux (Black Forest Labs)",
+        "pricing_plans": "No disponible",
+        "license": "Propietario / SaaS",
+        "security_privacy": "No disponible",
+        "integration": "Cursor y herramientas compatibles con Visual Studio Code (se mencionan Cursor, VS Code y Windsurf)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://app.fluxtech.pro/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/fluxgen-ai-image-generator-for-cursor?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-fluxgen-for-cursor&launch=fluxgen-for-cursor"
+        },
+        {
+          "source_url": "https://app.fluxtech.pro/privacy"
+        },
+        {
+          "source_url": "https://app.fluxtech.pro/terms"
+        },
+        {
+          "source_url": "https://aisharenet.com/en/fluxgen/"
+        },
+        {
+          "source_url": "https://aichief.com/ai-coding-tools/fluxtech-pro"
+        }
+      ]
+    },
+    "1411": {
+      "app": {
+        "id": "1411",
+        "name": "Flyne",
+        "url": "https://flyne.ai/",
+        "short_description": "Crea imágenes y vídeos todo en uno con IA.",
+        "category": "Generación de video",
+        "main_functionality": "Generación de contenido visual (texto→imagen, imagen→imagen, texto→video, imagen→video) y herramientas especializadas (p. ej., avatar, headshots, restauración, fondo, try-on), con selección de modelos (p. ej., Veo/Kling/Vidu/Runway, etc.) y sistema de créditos.",
+        "tags": "#GeneraciónDeVideo #GeneraciónDeArte #TextoAVideo #ImagenAVideo #TextoAImagen #ImagenAImagen #Avatares #ProductividadCreativa",
+        "logo_filename": "id_1411_flyneai",
+        "what_is": "Una plataforma web (“flyne.ai”) para creación de imágenes y videos con IA, que reúne varias herramientas creativas y modelos de terceros en un mismo panel, operando con un esquema de créditos.",
+        "purpose": "Para producir recursos visuales (imágenes y clips de video) a partir de prompts o imágenes de referencia, y resolver tareas comunes de creación/edición (p. ej., avatar/headshot, restauración, fondo, producto), con opciones de uso comercial según plan.",
+        "use_cases": "Crear videos desde una imagen o desde texto (p. ej., clips para redes sociales).\nGenerar imágenes por texto, transformar imágenes (image-to-image) y estilos (p. ej., anime/realismo).\nGenerar headshots/avatares y creatividades para producto (p. ej., fotografía de producto/try-on).\nUsar un asistente de prompt (“Smart Prompt Assistant / Optimize Prompt”) para mejorar indicaciones antes de generar.",
+        "main_advantages": "Todo-en-uno: agrupa muchas herramientas (imagen/video y utilidades) en un solo sitio.\nMultimodelo: declara/incluye procesamiento con varios proveedores/modelos (p. ej., Google Vertex AI/Veo, KlingAI, Vidu, Runway, etc.).\nSistema de créditos + plan gratis: créditos por registro y check-in; planes mensuales y paquetes de créditos.\nUso comercial indicado: los términos señalan uso personal y comercial bajo licencia limitada (sujeto a condiciones).",
+        "long_description": "Flyne AI ofrece generación de imágenes y videos (y menciona “music AI”) mediante una interfaz web con herramientas específicas (p. ej., generador de imagen, image-to-image, anime, avatar, headshot, restauración de fotos, cambio de fondo, try-on, generadores temáticos y utilidades). Incluye selección de modelos para diferentes tareas, controles de generación y un sistema de créditos (con historial y colas según plan), además de recursos/artículos dentro del sitio.",
+        "release_date": "Marzo 2026",
+        "developer": "Hey Dream Tech Limited",
+        "main_model": "No disponible como un único modelo; opera como plataforma multimodelo. La política de privacidad enumera procesadores/partners (p. ej., Google/Vertex AI, KlingAI, Vidu, Runway, Alibaba Wan, ByteDance Seed, OpenAI; y menciona BlackForestLabs o Replicate).",
+        "pricing_plans": "Free: 40 créditos al registrarse; 20 créditos por check-in diario; cola compartida; 15 días de historial; limitaciones (p. ej., baja calidad / funciones premium no incluidas).\nMonthly – Standard: US$9.99/mes; 5000 créditos/mes; cola rápida; historial 365 días; generaciones privadas; derecho comercial.\nMonthly – Popular: US$19.99/mes; 13000 créditos/mes; cola rápida; “unlimited free tools usage” (según página/dir.).\nMonthly – Professional: US$29.99/mes; 21000 créditos/mes; mayor prioridad.\nOne-time credits: packs (p. ej., Basic 4000; Ultra 10000; More 26000; Max 56000 créditos).",
+        "license": "Propietario / SaaS",
+        "security_privacy": "Consentimiento de transferencia a terceros para procesar entradas en generación (menciona explícitamente proveedores/partners).\nIndica (en su política) una “garantía” de que partners mantendrán un nivel de protección y que estarían contractualmente impedidos de usar datos para sus propios fines o entrenamiento sin consentimiento explícito.",
+        "integration": "Integración principalmente vía proveedores/modelos de IA usados como procesadores: Google (Vertex AI/Veo), KlingAI, Vidu, Runway, Alibaba Wan, ByteDance Seed, OpenAI, y referencia a BlackForestLabs/Replicate. No se describen integraciones tipo Zapier/Slack/API pública en las fuentes revisadas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://flyne.ai/"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/flyne-ai/?ref=embed"
+        },
+        {
+          "source_url": "https://theresanaiforthat.com/ai/flyne-ai/?ref=featured&v=7228003"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/compare/Flyne-AI-vs-World-Model-Hub/"
+        }
+      ]
+    },
+    "1469": {
+      "app": {
+        "id": "1469",
+        "name": "Fonic",
+        "url": "https://fonic.ai/",
+        "short_description": "Convierte insumos de trabajo dispersos (notas, correos, tickets, transcripciones y archivos) en reportes interactivos y compartibles por enlace, con borradores estructurados que se pueden ajustar en chat y con retroalimentación dentro del propio reporte.",
+        "category": "Productividad",
+        "main_functionality": "Generación de reportes interactivos a partir de entradas no estructuradas (vía pegado/carga o conexiones), con edición conversacional y publicación como enlace alojado para que receptores comenten, pregunten y respondan a elementos accionables dentro del reporte.",
+        "tags": "#Productividad #Automatización #Reportes #Colaboración #DocumentosInteractivos #MCP",
+        "logo_filename": "id_1469_fonicai",
+        "what_is": "Una plataforma de “AI for work reporting” que toma información desordenada proveniente de herramientas y archivos (o pegada manualmente) y la organiza en un reporte estructurado e interactivo, listo para compartirse como link y colaborar sobre él.",
+        "purpose": "Para acelerar la elaboración y distribución de reportes (p. ej., estatus de proyecto, actualizaciones a clientes, resúmenes ejecutivos), reduciendo el trabajo manual de “armar el reporte” y concentrando preguntas/comentarios y seguimiento en un único documento compartible.",
+        "use_cases": "Actualizaciones a clientes y reportes semanales (client updates / weekly updates).\nReportes de estado de proyecto y “leadership briefs” para decisiones/seguimiento.\nReportes de ventas, “account snapshots” y memos (p. ej., investment memos).",
+        "main_advantages": "Ahorro de tiempo en la redacción/ensamble: plantea que lo que tomaba ~1 hora puede pasar a minutos de input, revisión y aprobación.\n“Grounded in your inputs”: orientado a trabajar con lo que el usuario aporta y a señalar gaps/contradicciones antes de compartir.\nColaboración más rápida: el reporte se comparte por enlace y los receptores pueden preguntar, comentar y responder dentro del mismo reporte.\nConexiones vía MCP: se presenta como servidor MCP para integrarse con asistentes/automatización (p. ej., Claude; y menciona Make, Zapier, n8n).",
+        "long_description": "Fonic es una herramienta de generación de reportes interactivos orientada a “work reporting”. Permite reunir insumos como notas, emails, tickets, transcripciones y archivos, ya sea conectando herramientas o pegando/cargando material, para producir un borrador estructurado y presentable. El usuario puede refinar el reporte en una interfaz conversacional (ajustando estructura, contenido, tono o elementos) y luego publicarlo para compartirlo mediante un enlace alojado. Los receptores pueden interactuar con el reporte para hacer preguntas, dejar comentarios y responder a elementos de seguimiento dentro del mismo documento, buscando reducir el “ida y vuelta” por correo o hilos.",
+        "release_date": "Abril 2026",
+        "developer": "Noloco Limited (Irlanda), operando como “Fonic”.",
+        "main_model": "No disponible",
+        "pricing_plans": "Gratis mientras está en beta (“Free while we’re in beta”).\nLos Términos contemplan que algunas funciones puedan requerir suscripción según la página de precios (sin detallar aquí niveles específicos).",
+        "license": "Propietaria (SaaS).",
+        "security_privacy": "Política de privacidad indica que el responsable es Noloco Limited (Irlanda) y que la política está alineada con GDPR.\nSeñala protección con TLS (256-bit keys) en tránsito y cifrado en reposo.\nMenciona uso de subprocesadores (hosting, almacenamiento, analítica, pagos y herramientas de IA) bajo acuerdos y obligaciones de protección de datos.\nIndica uso de IA (Anthropic y potencialmente OpenAI) para funcionalidades del servicio.\nRestringe el uso para procesar ciertas categorías sensibles (p. ej., “special categories” de GDPR) y credenciales/identificadores, según Términos.",
+        "integration": "Funciona como servidor MCP, con instrucciones para conectarlo a Claude (Claude.ai/Claude Desktop).\nSe menciona conexión con herramientas de automatización como Make, Zapier y n8n (vía Fonic MCP)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://fonic.ai/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/fonic"
+        },
+        {
+          "source_url": "https://fonic.ai/integrations"
+        },
+        {
+          "source_url": "https://fonic.ai/privacy"
+        },
+        {
+          "source_url": "https://fonic.ai/terms"
+        },
+        {
+          "source_url": "https://fonic.ai/home#pricing"
+        },
+        {
+          "source_url": "https://fonic.ai/home#features"
+        }
+      ]
+    },
+    "1485": {
+      "app": {
+        "id": "1485",
+        "name": "Floto",
+        "url": "https://floto.ai/",
+        "short_description": "Plugin para Figma que entrega retroalimentación accionable sobre diseños y prototipos mediante auditorías con IA, pruebas con “personas” sintéticas y entrevistas a usuarios, sin salir del lienzo.",
+        "category": "Diseño gráfico",
+        "main_functionality": "Obtener feedback de diseño dentro de Figma (auditorías de UI/UX), evaluar flujos completos de prototipos, simular feedback por tipos de usuario (personas) y solicitar insights vía entrevistas.",
+        "tags": "#UX #UI #Figma #DesignAudit #PersonaTesting #FlowTesting #UserResearch",
+        "logo_filename": "id_1485_flotoai",
+        "what_is": "Un plugin de Figma orientado a “feedback de producto” que integra auditorías con IA, pruebas con personas sintéticas y entrevistas a usuarios para validar decisiones de diseño directamente en el archivo de trabajo.",
+        "purpose": "Para detectar problemas de usabilidad, accesibilidad, jerarquía visual y fricciones en flujos de prototipos antes de desarrollo o lanzamiento, acelerando iteraciones con recomendaciones accionables.",
+        "use_cases": "Ejecutar una auditoría rápida de una pantalla (UI/UX) y recibir “qué está mal” y “por qué”.\nProbar un journey completo (onboarding, checkout, etc.) con Flow Testing desde un frame inicial y una tarea objetivo.\nCorrer Persona Testing para simular feedback desde distintos perfiles de usuario.\nUsar Design Diff para detectar discrepancias entre lo diseñado y lo implementado (según la propuesta del producto).",
+        "main_advantages": "Feedback “in-context” (dentro de Figma), reduciendo saltos entre herramientas.\nValidación temprana de flujos y fricciones antes de que lleguen a usuarios finales.\nModelo por créditos (flexible por uso), con plan gratuito y opción Pro.",
+        "long_description": "Floto integra en Figma un conjunto de funciones para obtener retroalimentación y validar diseño: Design Audit (crítica de pantallas con explicación de hallazgos), Persona Testing (feedback simulado por perfiles), Flow Testing (recorre prototipos con un objetivo para detectar puntos de fricción) y Design Diff (comparación para detectar diferencias). Opera con un sistema de créditos por acción y ofrece plan gratuito y Pro.",
+        "release_date": "2025",
+        "developer": "Floto, Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "Free: $0; 200 créditos/semana; incluye Design Audit, Persona Testing, Flow Testing y Design Diff.\nPro: $10/mes; 1,500 créditos/mes; “no rate limits”; incluye lo de Free; permite comprar paquetes de recarga.\nTeam: Plan para equipos (pool de créditos compartidos, contexto compartido y personalización); se gestiona vía contacto.\nCostos por acción (créditos): Audit 20 / Persona Test 50 / Flow (max) 200 / Diff 25.",
+        "license": "Propietaria (SaaS).",
+        "security_privacy": "Política de privacidad actualizada Aug 15, 2025; declara que no venden datos, describe datos recolectados (info de cuenta de Figma, uso, contenido/feedback, pagos vía procesador, mensajes) y finalidades (operación, soporte, prevención de abuso, etc.).\nFAQ: indica cifrado en tránsito y en reposo, procesamiento en servidores seguros y que no comparten archivos/feedback sin consentimiento explícito; menciona que podrían añadir residencia de datos por región en el futuro.",
+        "integration": "Figma: se entrega como plugin de Figma (instalación desde Figma).\nSe menciona disponibilidad en Chrome Extension Store además de Figma Community (según el sitio)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://floto.ai/"
+        },
+        {
+          "source_url": "https://floto.ai/about"
+        },
+        {
+          "source_url": "https://floto.ai/frequently-asked-questions"
+        },
+        {
+          "source_url": "https://floto.ai/privacy-policy"
+        },
+        {
+          "source_url": "https://floto.ai/terms-of-service"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/floto"
+        },
+        {
+          "source_url": "https://webcatalog.io/en/apps/floto"
+        }
+      ]
+    },
+    "1563": {
+      "app": {
+        "id": "1563",
+        "name": "Forage Mail",
+        "url": "https://foragemail.com",
+        "short_description": "Funciona como asistente personal de correo electrónico para responder, resumir y gestionar mensajes.",
+        "category": "Productividad",
+        "main_functionality": "Asistencia personal para gestión de correo electrónico.",
+        "tags": "#IA #Productividad #Email #AsistenteIA",
+        "logo_filename": "id_1563_forage_mail",
+        "what_is": "Forage Mail es una herramienta de inteligencia artificial para apoyar la gestión de correos, respuestas, resúmenes y organización de mensajes.",
+        "purpose": "Apoyar la gestión de correos electrónicos mediante resúmenes, respuestas y asistencia con IA.",
+        "use_cases": "Gestión de email, resúmenes, respuestas automáticas, productividad personal, organización de mensajes y comunicación profesional.",
+        "main_advantages": "Facilita la administración de correo; puede resumir y responder mensajes; mejora productividad en comunicación diaria.",
+        "long_description": "Forage Mail es una herramienta de inteligencia artificial para gestión de correo electrónico. Ayuda a organizar mensajes, generar respuestas y resumir información para mejorar la productividad.",
+        "release_date": "No especificada",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Prueba gratuita",
+        "license": "No especificada",
+        "security_privacy": "Consultar la política de privacidad del proveedor.",
+        "integration": "Disponible mediante plataforma web del proveedor."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://foragemail.com"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/forage-mail"
+        }
+      ]
+    },
+    "1577": {
+      "app": {
+        "id": "1577",
+        "name": "FluxProWeb — Higgsfield AI Video Generator",
+        "url": "https://fluxproweb.com/model/higgsfield-ai",
+        "short_description": "Generador de video con IA para crear clips dinámicos a partir de texto, imágenes y controles de movimiento. Está orientado a producir contenido visual con movimientos naturales, expresiones realistas y estilo cinematográfico para marketing, redes sociales, prototipos creativos y presentaciones.",
+        "category": "Generación de video",
+        "main_functionality": "Generación de videos mediante IA a partir de prompts, imágenes de referencia y parámetros de movimiento, con énfasis en movimiento fluido, control creativo y calidad cinematográfica.",
+        "tags": "#TextoAVideo,#MarketingVisual,#ContenidoDigital,#VideoIA",
+        "logo_filename": "id_1577_fluxprowebhiggsfieldaivideogenerator",
+        "what_is": "FluxProWeb es una plataforma de creación visual con IA que reúne herramientas para generación y edición de imágenes y videos. Dentro de su catálogo ofrece Higgsfield AI Video Generator, una herramienta/modelo de generación de video orientado a crear contenido dinámico desde texto, imágenes y controles de movimiento. La página lo describe como un modelo avanzado para crear videos de alta calidad con movimientos naturales, expresiones realistas y cámara cinematográfica.",
+        "purpose": "Sirve para producir videos cortos o clips visuales para marketing, publicidad, redes sociales, visualización creativa, storyboards, presentaciones y prototipos de conceptos. La herramienta permite introducir un prompt, cargar una imagen de referencia y seleccionar parámetros básicos para generar el video.",
+        "use_cases": "Creación de videos promocionales para campañas digitales; generación de clips para redes sociales; prototipado rápido de ideas visuales para clientes; visualización de conceptos creativos; producción de piezas audiovisuales para presentaciones; transformación de imágenes en videos con movimiento; exploración de estilos visuales con prompts y controles de movimiento.",
+        "main_advantages": "Permite crear videos sin depender de procesos tradicionales de filmación o animación; acepta distintos tipos de entrada como texto, imágenes y controles de movimiento; ofrece un flujo de creación guiado desde prompt o imagen hasta generación del video; está integrado en una plataforma más amplia con herramientas de imagen, video y utilidades gratuitas; cuenta con planes por créditos para usuarios gratuitos y de pago; y permite uso comercial según las condiciones mostradas en su página de precios y términos.",
+        "long_description": "FluxProWeb es una plataforma de generación y edición visual con IA que ofrece herramientas de imagen, video y utilidades gratuitas. Su página principal la presenta como una solución “all-in-one” para creación de imágenes y videos con modelos avanzados. Dentro de sus herramientas de video aparece Higgsfield AI Video Generator, enfocado en crear contenido de video dinámico desde texto, imágenes y controles de movimiento. La herramienta permite cargar imágenes en formatos como JPG, WebP y PNG, escribir prompts de hasta 2,000 caracteres, traducir el prompt y generar videos usando créditos. Sus funciones destacadas incluyen generación de video de alta calidad, síntesis avanzada de movimiento, control creativo flexible y resultados con composición/cámara de estilo cinematográfico.",
+        "release_date": "2024",
+        "developer": "FLAQ AI PTE. LTD.",
+        "main_model": "No disponible",
+        "pricing_plans": "Ofrece un esquema basado en créditos. El plan Free incluye 60 créditos para nuevos usuarios, 20 créditos diarios por check-in, 50 usos diarios de herramientas gratuitas, cola compartida e historial de 15 días. Los planes de pago son de compra única: Basic por USD 9.99 con 4,000 créditos, Ultra por USD 19.99 con 10,000 créditos, More por USD 49.99 con 26,000 créditos y Max por USD 99.99 con 56,000 créditos. Los planes pagados incluyen funciones premium, generación de imagen y video, cola rápida, descargas sin marca de agua, generaciones privadas, derecho comercial e historial de 365 días.",
+        "license": "Propietaria",
+        "security_privacy": "La política de privacidad indica que Flux Pro puede recopilar información personal identificable, datos de registro como IP, información del dispositivo, configuración de la app y estadísticas de uso. También declara uso de cookies y posibles proveedores externos que pueden acceder a información personal para operar o analizar el servicio. En seguridad, afirma usar medios comercialmente aceptables para proteger la información, aunque no garantiza seguridad absoluta. Los términos prohíben contenido ilegal, dañino, pornográfico, deepfakes no autorizados, infracción de propiedad intelectual, malware, fraude, suplantación y otros usos indebidos.",
+        "integration": "La plataforma integra múltiples herramientas/modelos de imagen y video en el mismo sitio, incluyendo Flux AI Image Generator, Flux AI Video Generator, Photo to Video, Image to Video, Video to Video, Kling Motion Control, Runway Act Two, Seedance, Wan AI, Google Veo, Sora 2 y otras herramientas creativas listadas por la plataforma."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://fluxproweb.com/model/higgsfield-ai/"
+        },
+        {
+          "source_url": "https://fluxproweb.com/pricing/"
+        },
+        {
+          "source_url": "https://www.vo3ai.com/blog/higgsfield-marketing-studio-shakes-up-ai-video-ads-seamless-product-to-commercia-2026-04-14"
+        },
+        {
+          "source_url": "https://www.scam-detector.com/validator/higgsfield-ai-review"
+        }
+      ]
+    },
+    "1579": {
+      "app": {
+        "id": "1579",
+        "name": "FocuSee",
+        "url": "https://focusee.imobie.com",
+        "short_description": "Grabador de pantalla con edición automática impulsada por IA: tras grabar, aplica zooms en clics, seguimiento del cursor, resaltado, eliminación de silencios y mejoras de audio para obtener videos listos para compartir en minutos.",
+        "category": "Edición de video",
+        "main_functionality": "Grabar pantalla (y opcionalmente webcam) y “auto-pulir” el video con efectos y mejoras (auto-zoom, tracking del mouse/cursor, subtítulos/atajos, anotaciones, reducción de ruido, y recorte de silencios/rellenos) para reducir la edición manual.",
+        "tags": "#Tutoriales,#CreaciónDeContenido,#DemosDeProducto",
+        "logo_filename": "id_1579_focusee",
+        "what_is": "Es un software de grabación de pantalla para Windows y macOS que incorpora funciones de edición automática “asistidas por IA” (por ejemplo, zooms automáticos y mejoras de audio) para convertir grabaciones en videos más presentables con poco esfuerzo.",
+        "purpose": "Para producir rápidamente videos como demos de producto, tutoriales, walkthroughs, guías de onboarding/capacitación, explicativos de marketing y clips para redes sociales, evitando parte del trabajo de postproducción manual.",
+        "use_cases": "Demos y walkthroughs de software con zoom automático en interacciones.\nTutoriales y capacitación (sesiones largas con simplificación del resultado por auto-edición).\nVideos de marketing/explainers mostrando procesos en pantalla con resaltados y anotaciones.\nGrabación de pantalla + webcam para presentaciones o cursos.\nGrabación de pantallas móviles iOS/Android conectando el dispositivo por USB.",
+        "main_advantages": "Ahorro de tiempo al generar efectos y mejoras al terminar de grabar, reduciendo la edición manual.\nEfectos automáticos orientados a claridad (auto-zoom en clics, seguimiento/realce del cursor, spotlight, anotaciones).\nMejoras de audio (enhancement/ruido) y reducción de silencios/rellenos para videos más concisos.\nPrivacidad operativa: el sitio indica guardado local por defecto, subida a la nube opcional con SSL, y que señales como tracking/click detection se procesan localmente.\nPlanes escalables (suscripción y opción de compra única) con límites por equipo y créditos IA según plan.",
+        "long_description": "Solución de grabación de pantalla con “auto-edición” para crear videos pulidos sin un editor complejo. Tras finalizar la grabación, aplica automáticamente zooms en clics y movimientos del cursor, resalta el puntero, elimina silencios y realiza mejoras de audio; también incluye funciones como layouts dinámicos de cámara, subtítulos/atajos, spotlight y anotaciones. Permite grabar pantalla, webcam o ambos, y contempla grabación de dispositivos iOS/Android conectados por USB. Ofrece prueba gratuita (exporta un video en alta calidad hasta 4K) y funciones avanzadas basadas en créditos IA según el plan.",
+        "release_date": "2024",
+        "developer": "iMobie",
+        "main_model": "No disponible",
+        "pricing_plans": "Standard: mensual (p. ej., 19.99 USD/mes) o anual (p. ej., 49.99 USD/año); 1 computadora, videos ilimitados, duración ilimitada, exportación 4K/60fps, marca de agua personalizada, 5 GB nube.\nAdvanced: mensual (p. ej., 24.99 USD/mes) o anual (p. ej., 79.99 USD/año); hasta 3 computadoras e incluye “Pro Edits” con funciones IA y créditos (p. ej., 300/mes o 3600/año).\nAdvanced (One-Time Purchase): p. ej., 199.99 USD; hasta 5 computadoras, “Pro Edits” con IA y 1000 créditos (vigencia 1 año), acceso “lifetime” a FocuSee 2.x.",
+        "license": "Propietaria",
+        "security_privacy": "Guardado local por defecto; subida a la nube opcional con SSL (según FAQ del sitio de FocuSee).\nLa política de iMobie detalla datos que pueden recopilarse según interacción: analítica de uso, datos del dispositivo, logs/crashes, y para FocuSee metadatos de archivos subidos a la nube (nombre, tamaño, tipo, fecha/hora), enlaces compartidos y estadísticas básicas de acceso; indica que no accede al contenido salvo autorización del usuario o requerimiento legal.\nIndica medidas de protección y que, al usar el “link sharing” de FocuSee, los datos se almacenan en AWS S3; además menciona que no vende datos personales.",
+        "integration": "Grabación móvil: soporta grabar pantallas iOS y Android conectando el dispositivo al equipo por USB.\nNube/compartición: almacenamiento y compartición en la nube (opcional) para FocuSee; la política menciona AWS S3 para el link sharing."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://focusee.imobie.com/"
+        },
+        {
+          "source_url": "https://focusee.imobie.com/pricing.htm"
+        },
+        {
+          "source_url": "https://appsumo.com/products/focusee/?srsltid=AfmBOoq9472yRIpK_sd323yECBXkgx5pvar-WaOMMrw0J9GZB6lzZ532"
+        },
+        {
+          "source_url": "https://www.g2.com/products/focusee/reviews"
+        }
+      ]
+    },
+    "1589": {
+      "app": {
+        "id": "1589",
+        "name": "Forms.app",
+        "url": "https://forms.app",
+        "short_description": "Permite crear formularios, encuestas y cuestionarios de forma sencilla.",
+        "category": "Productividad",
+        "main_functionality": "Creación de formularios, encuestas y cuestionarios.",
+        "tags": "#IA #Productividad #Formularios #Encuestas",
+        "logo_filename": "id_1589_forms_app",
+        "what_is": "Forms.app es una plataforma para crear formularios, encuestas y cuestionarios de forma sencilla, útil para recopilación de datos, registros y procesos de productividad.",
+        "purpose": "Crear formularios, encuestas y cuestionarios para recopilar información.",
+        "use_cases": "Formularios web, encuestas, registros, cuestionarios, recolección de datos, retroalimentación de usuarios y procesos administrativos.",
+        "main_advantages": "Facilita crear formularios rápidamente; apoya recopilación de datos; puede usarse en procesos educativos, comerciales o administrativos.",
+        "long_description": "Forms.app es una plataforma para crear formularios, encuestas y cuestionarios de forma sencilla. Puede utilizarse para recolectar información, registrar usuarios, realizar evaluaciones o administrar procesos digitales.",
+        "release_date": "No especificada",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Freemium",
+        "license": "No especificada",
+        "security_privacy": "Consultar la política de privacidad del proveedor.",
+        "integration": "Disponible mediante plataforma web del proveedor."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://forms.app"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/formsapp"
+        }
+      ]
+    },
+    "1678": {
+      "app": {
+        "id": "1678",
+        "name": "FumeDev",
+        "url": "https://www.fumedev.com/",
+        "short_description": "FumeDev ofrece asistencia con IA para tareas de desarrollo, ayudando a construir, revisar o mejorar código de forma más ágil.",
+        "category": "Codificación",
+        "main_functionality": "Asistencia para construir y mejorar proyectos de software",
+        "tags": "#Código #Desarrollo #Programación",
+        "logo_filename": "id_1678_fumedev",
+        "what_is": "FumeDev es una herramienta de asistencia para desarrollo de software con IA. Ayuda a los usuarios a crear, revisar o mejorar código, reduciendo el tiempo necesario para pasar de una idea técnica a una implementación funcional.",
+        "purpose": "Acelerar tareas de desarrollo mediante asistencia con IA para construir, revisar y mejorar código.",
+        "use_cases": "Construcción de funcionalidades; revisión de código; prototipado técnico; apoyo en tareas repetitivas de desarrollo.",
+        "main_advantages": "Acelera la construcción de software; apoya tareas repetitivas; ayuda a revisar o mejorar código; puede facilitar el paso de idea a implementación.",
+        "long_description": "FumeDev es una herramienta de asistencia para desarrollo de software con inteligencia artificial. Permite apoyar tareas como construcción de funcionalidades, revisión de código y mejora de soluciones técnicas. Su propósito es reducir fricción en el proceso de desarrollo y facilitar que los usuarios pasen de una idea a una implementación funcional.",
+        "release_date": "No disponible",
+        "developer": "fumedev.com",
+        "main_model": "No especificado",
+        "pricing_plans": "Precio bajo consulta",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.fumedev.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/fumedev"
+        }
+      ]
+    },
+    "1685": {
+      "app": {
+        "id": "1685",
+        "name": "Flowblock",
+        "url": "https://www.flowblock.co/",
+        "short_description": "Flowbotic permite crear automatizaciones y flujos de trabajo con IA para conectar procesos, herramientas y tareas operativas.",
+        "category": "Codificación",
+        "main_functionality": "Creación de automatizaciones y flujos de trabajo con IA",
+        "tags": "#Código #Automatización #Desarrollo",
+        "logo_filename": "id_1685_flowblock",
+        "what_is": "Flowbotic es una herramienta para crear automatizaciones y flujos de trabajo con inteligencia artificial. Permite conectar tareas, procesos y herramientas para mejorar la eficiencia operativa.",
+        "purpose": "Crear automatizaciones y flujos de trabajo inteligentes para conectar procesos, herramientas y tareas operativas.",
+        "use_cases": "Automatización de procesos; conexión de herramientas; creación de flujos operativos; tareas repetitivas con IA.",
+        "main_advantages": "Conecta tareas y herramientas; automatiza procesos repetitivos; mejora la eficiencia operativa; permite crear flujos personalizados con IA.",
+        "long_description": "Flowbotic es una herramienta para crear automatizaciones y flujos de trabajo con inteligencia artificial. Permite conectar tareas, procesos y herramientas para mejorar la eficiencia operativa. Su utilidad se encuentra en la automatización de procesos repetitivos, integración de sistemas y diseño de flujos inteligentes para equipos de trabajo.",
+        "release_date": "No disponible",
+        "developer": "flowblock.co",
+        "main_model": "No especificado",
+        "pricing_plans": "Freemium",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.flowblock.co/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/flowblock"
+        }
+      ]
+    },
+    "1738": {
+      "app": {
+        "id": "1738",
+        "name": "Fluq",
+        "url": "https://fluq.ai/",
+        "short_description": "Fluq permite monitorear y controlar operaciones de agentes de IA, facilitando la supervisión de flujos automatizados.",
+        "category": "Automatización",
+        "main_functionality": "Monitoreo y control de operaciones de agentes de IA",
+        "tags": "#Automatización #AgentesIA #Control",
+        "logo_filename": "id_1738_fluq",
+        "what_is": "Fluq es una herramienta para monitorear y controlar operaciones de agentes de IA. Ayuda a supervisar sistemas automatizados, revisar su comportamiento y mantener mayor control sobre flujos basados en agentes.",
+        "purpose": "Supervisar y controlar operaciones de agentes de IA para mejorar la gestión de flujos automatizados.",
+        "use_cases": "Supervisión de agentes; monitoreo operativo; control de flujos automatizados; revisión de comportamiento de IA.",
+        "main_advantages": "Mejora supervisión de agentes; permite mayor control operativo; ayuda a detectar comportamientos; fortalece gestión de flujos automatizados.",
+        "long_description": "Fluq es una herramienta para monitorear y controlar operaciones de agentes de inteligencia artificial. Ayuda a supervisar flujos automatizados, revisar comportamiento de agentes y mantener mayor control sobre sistemas basados en IA. Es útil para equipos que trabajan con automatización avanzada y requieren observabilidad operativa.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://fluq.ai/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/fluq-4hiw4w"
+        }
+      ]
+    },
+    "1831": {
+      "app": {
+        "id": "1831",
+        "name": "Fusedash",
+        "url": "https://fusedash.ai/",
+        "short_description": "Fusedash ayuda a validar ideas, analizar información y generar investigación de mercado con apoyo de inteligencia artificial.",
+        "category": "Productividad",
+        "main_functionality": "Validación de ideas e investigación de mercado con IA",
+        "tags": "#Productividad #Investigación #Validación",
+        "logo_filename": "id_1831_fusedash",
+        "what_is": "Fusedash es una herramienta de investigación que ayuda a validar ideas y analizar información de mercado con inteligencia artificial. Está orientada a generar insights, revisar oportunidades y apoyar decisiones antes de construir o lanzar productos.",
+        "purpose": "Validar ideas y analizar información de mercado para apoyar decisiones de producto, negocio o investigación.",
+        "use_cases": "Validación de ideas; investigación de mercado; análisis de oportunidades; revisión de información para productos.",
+        "main_advantages": "Ayuda a validar ideas; acelera investigación; aporta insights de mercado; apoya decisiones tempranas.",
+        "long_description": "Fusedash es una herramienta de investigación enfocada en validar ideas y analizar información de mercado con inteligencia artificial. Puede ayudar a revisar oportunidades, generar insights y evaluar propuestas antes de construir productos o tomar decisiones de negocio. Es útil para equipos de producto, startups y procesos de investigación temprana.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://fusedash.ai/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/fusedash-w00mc5"
+        }
+      ]
+    },
+    "1903": {
+      "app": {
+        "id": "1903",
+        "name": "FlowGent AI",
+        "url": "https://flowgent.ai/",
+        "short_description": "FlowGent AI permite crear agentes de IA para ventas y soporte, ayudando a automatizar atención y procesos comerciales.",
+        "category": "Automatización",
+        "main_functionality": "Creación de agentes de IA para ventas y soporte",
+        "tags": "#Automatización #AgentesIA #Ventas",
+        "logo_filename": "id_1903_flowgent_ai",
+        "what_is": "FlowGent AI es una herramienta para crear agentes de IA orientados a ventas y soporte. Ayuda a automatizar atención, seguimiento comercial y procesos de interacción con clientes o usuarios.",
+        "purpose": "Crear agentes de IA para automatizar ventas, soporte y atención a usuarios.",
+        "use_cases": "Agentes de ventas; soporte automatizado; atención a usuarios; seguimiento comercial.",
+        "main_advantages": "Automatiza ventas y soporte; mejora atención; facilita seguimiento comercial; reduce carga operativa.",
+        "long_description": "FlowGent AI es una herramienta para crear agentes de IA orientados a ventas y soporte. Ayuda a automatizar atención, seguimiento comercial y procesos de interacción con clientes o usuarios. Su utilidad está en reducir carga operativa y mejorar la capacidad de respuesta en procesos comerciales o de atención.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://futuretools.io/tools/flowgent-ai-qvgbj7"
+        },
+        {
+          "source_url": "https://flowgent.ai/"
+        }
+      ]
+    },
+    "1954": {
+      "app": {
+        "id": "1954",
+        "name": "FurniMesh",
+        "url": "https://furnimesh.com/",
+        "short_description": "FurniMesh ayuda a crear, visualizar y trabajar con muebles o escenas 3D para proyectos de diseño e interiores.",
+        "category": "Generación de diseño",
+        "main_functionality": "Generación y visualización de muebles o escenas 3D para apoyar proyectos de diseño.",
+        "tags": "modelos 3D, diseño de interiores, muebles, visualización",
+        "logo_filename": "id_1954_furnimesh",
+        "what_is": "FurniMesh es una herramienta enfocada en diseño visual y generación 3D, útil para crear o representar muebles, espacios y elementos decorativos en proyectos de interiores o visualización de producto.",
+        "purpose": "Facilitar la creación y visualización de muebles, espacios o elementos 3D para proyectos de diseño e interiores.",
+        "use_cases": "Diseño de interiores; visualización de muebles; prototipado 3D; presentaciones de producto.",
+        "main_advantages": "Facilita la visualización de ideas, acelera prototipos visuales y ayuda a presentar conceptos de diseño con mayor claridad.",
+        "long_description": "FurniMesh es una herramienta creativa enfocada en diseño, muebles y visualización 3D. Permite trabajar con representaciones visuales de productos o espacios, lo que puede ayudar en proyectos de interiores, prototipos, catálogos o presentaciones. Su utilidad está en facilitar la comunicación visual de ideas antes de pasar a una etapa de producción o diseño final.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://furnimesh.com/"
+        }
+      ]
+    },
+    "1958": {
+      "app": {
+        "id": "1958",
+        "name": "FlowHubr",
+        "url": "https://flowhubr.com/",
+        "short_description": "FlowHubr centraliza tareas, proyectos y flujos de trabajo para mejorar la organización y productividad de equipos.",
+        "category": "Productividad",
+        "main_functionality": "Gestión de tareas, proyectos y flujos de trabajo en una plataforma centralizada.",
+        "tags": "CRM, gestión de proyectos, productividad, tareas",
+        "logo_filename": "id_1958_flowhubr",
+        "what_is": "FlowHubr es una herramienta de productividad para centralizar tareas, proyectos y flujos de trabajo, ayudando a equipos a organizar pendientes, responsabilidades y avances desde un mismo espacio.",
+        "purpose": "Centralizar tareas, proyectos y flujos de trabajo para mejorar la organización y seguimiento del equipo.",
+        "use_cases": "Gestión de proyectos; seguimiento de tareas; coordinación de equipos; organización de flujos de trabajo.",
+        "main_advantages": "Centraliza información de trabajo, mejora el seguimiento de tareas y ayuda a mantener claridad en proyectos de equipo.",
+        "long_description": "FlowHubr es una herramienta de productividad diseñada para centralizar tareas, proyectos y flujos de trabajo. Ayuda a organizar pendientes, responsabilidades y avances en un solo espacio, lo que facilita el seguimiento del equipo. Puede ser útil para operaciones, proyectos internos, coordinación de clientes o gestión diaria de trabajo.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://flowhubr.com/"
+        }
+      ]
+    },
+    "1959": {
+      "app": {
+        "id": "1959",
+        "name": "Frontman",
+        "url": "https://frontman.sh/",
+        "short_description": "Frontman ayuda a modificar y generar código a partir de instrucciones en lenguaje natural para acelerar tareas de desarrollo.",
+        "category": "Codificación",
+        "main_functionality": "Generación y edición de código a partir de instrucciones escritas en lenguaje natural.",
+        "tags": "edición de código, instrucciones en lenguaje natural, desarrollo, programación",
+        "logo_filename": "id_1959_frontman",
+        "what_is": "Frontman es una herramienta de desarrollo asistido por IA que permite generar, ajustar o modificar código usando instrucciones en lenguaje natural, facilitando tareas de programación y mantenimiento.",
+        "purpose": "Acelerar tareas de desarrollo permitiendo modificar o generar código con instrucciones en lenguaje natural.",
+        "use_cases": "Edición de código; generación de funciones; mantenimiento de proyectos; apoyo a desarrolladores.",
+        "main_advantages": "Acelera cambios de código, facilita tareas técnicas repetitivas y permite trabajar con instrucciones más naturales.",
+        "long_description": "Frontman es una herramienta de desarrollo asistido por IA que permite modificar o generar código a partir de instrucciones en lenguaje natural. Puede ayudar a desarrolladores a acelerar cambios, crear funciones, revisar fragmentos o mantener proyectos con menos fricción. Su valor está en traducir instrucciones claras en acciones técnicas sobre el código.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://frontman.sh/"
+        }
+      ]
+    },
+    "2040": {
+      "app": {
+        "id": "2040",
+        "name": "Fragments.ai",
+        "url": "https://fragments.ai/es",
+        "short_description": "Fragments.ai permite analizar información, documentos o datos para extraer hallazgos útiles para decisiones de negocio.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Análisis de información y documentos para obtener hallazgos de negocio.",
+        "tags": "análisis, datos, inteligencia de negocios, documentación",
+        "logo_filename": "id_2040_fragments_ai",
+        "what_is": "Fragments.ai es una herramienta de inteligencia de negocios orientada al análisis de información, documentos o datos. Puede ayudar a extraer hallazgos, organizar conocimiento y convertir información dispersa en insumos útiles para tomar decisiones.",
+        "purpose": "Analizar información, documentos o datos para obtener hallazgos útiles para decisiones de negocio.",
+        "use_cases": "Análisis documental; inteligencia de negocios; extracción de hallazgos; apoyo a decisiones.",
+        "main_advantages": "Ayuda a convertir información dispersa en hallazgos, mejora análisis y apoya decisiones de negocio.",
+        "long_description": "Fragments.ai es una herramienta de inteligencia de negocios orientada al análisis de información, documentos o datos. Puede ayudar a extraer hallazgos, organizar conocimiento y convertir información dispersa en insumos útiles para la toma de decisiones. Es útil para equipos que necesitan analizar información con mayor rapidez y claridad.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://fragments.ai/es"
+        }
+      ]
+    },
+    "2050": {
+      "app": {
+        "id": "2050",
+        "name": "FlyPloy",
+        "url": "https://flyploy.com/en",
+        "short_description": "EffyPay apoya la automatización de pagos, procesos operativos y tareas administrativas.",
+        "category": "Automatización",
+        "main_functionality": "Automatización de pagos, tareas administrativas y procesos operativos.",
+        "tags": "pagos, automatización, operaciones, procesos",
+        "logo_filename": "id_2050_effypay",
+        "what_is": "EffyPay es una herramienta de automatización enfocada en pagos, procesos operativos y tareas administrativas. Puede ayudar a reducir trabajo manual en flujos financieros o de operación.",
+        "purpose": "Automatizar pagos, procesos administrativos y tareas operativas.",
+        "use_cases": "Pagos; tareas administrativas; operaciones financieras; automatización de procesos.",
+        "main_advantages": "Reduce carga administrativa, facilita procesos de pago y mejora la eficiencia en tareas operativas.",
+        "long_description": "EffyPay es una herramienta de automatización enfocada en pagos, tareas administrativas y procesos operativos. Puede apoyar flujos financieros o administrativos donde se busca reducir trabajo manual y mejorar control. Su utilidad está en simplificar procesos repetitivos relacionados con pagos y operación.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://flyploy.com/en"
+        }
+      ]
+    },
+    "2067": {
+      "app": {
+        "id": "2067",
+        "name": "Floowed",
+        "url": "https://www.floowed.com/",
+        "short_description": "Flowed permite automatizar flujos de trabajo y procesos operativos para mejorar la productividad.",
+        "category": "Automatización",
+        "main_functionality": "Automatización de flujos de trabajo y procesos operativos.",
+        "tags": "automatización, flujos de trabajo, productividad, procesos",
+        "logo_filename": "id_2067_flowed",
+        "what_is": "Flowed es una herramienta de automatización enfocada en flujos de trabajo y procesos operativos. Puede ayudar a equipos que buscan estructurar tareas, reducir trabajo manual y mejorar eficiencia.",
+        "purpose": "Automatizar flujos de trabajo y procesos operativos para mejorar productividad.",
+        "use_cases": "Flujos de trabajo; automatización de procesos; productividad de equipo; tareas operativas.",
+        "main_advantages": "Mejora la eficiencia operativa, reduce tareas manuales y ayuda a estructurar procesos de trabajo.",
+        "long_description": "Flowed es una herramienta de automatización enfocada en flujos de trabajo y procesos operativos. Puede ayudar a equipos que buscan estructurar tareas, conectar procesos y reducir trabajo manual. Su utilidad está en mejorar productividad y facilitar una ejecución más ordenada de actividades repetitivas.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.floowed.com/"
+        }
+      ]
+    },
+    "2071": {
+      "app": {
+        "id": "2071",
+        "name": "Friday",
+        "url": "https://hellofriday.ai/",
+        "short_description": "Friday permite automatizar tareas, coordinar agentes de IA y apoyar procesos operativos.",
+        "category": "Automatización",
+        "main_functionality": "Automatización de tareas y coordinación de agentes de IA para operación.",
+        "tags": "automatización, agentes de IA, tareas, operación",
+        "logo_filename": "id_2071_friday",
+        "what_is": "Friday es una herramienta de automatización que permite coordinar tareas, agentes de IA y procesos operativos. Puede ayudar a equipos que necesitan delegar actividades repetitivas o mantener seguimiento de flujos de trabajo.",
+        "purpose": "Automatizar tareas y coordinar agentes de IA para apoyar procesos operativos.",
+        "use_cases": "Agentes de IA; automatización de tareas; seguimiento operativo; coordinación de procesos.",
+        "main_advantages": "Permite coordinar agentes de IA, reducir trabajo repetitivo y mantener mejor seguimiento operativo.",
+        "long_description": "Friday es una herramienta de automatización que permite coordinar tareas, agentes de IA y procesos operativos. Puede ayudar a equipos que necesitan delegar actividades repetitivas, dar seguimiento a flujos de trabajo o mantener mayor control sobre procesos asistidos por inteligencia artificial. Su utilidad está en mejorar coordinación y eficiencia.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://hellofriday.ai/"
+        }
+      ]
+    },
+    "2123": {
+      "app": {
+        "id": "2123",
+        "name": "Fudge",
+        "url": "https://www.fudge.ai/",
+        "short_description": "Herramienta que permite crear páginas de Shopify mediante instrucciones en lenguaje natural.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Construir páginas para tiendas Shopify a partir de instrucciones en lenguaje natural.",
+        "tags": "Shopify, creación de páginas, lenguaje natural, comercio electrónico, sin código",
+        "logo_filename": "id_2123_fudge",
+        "what_is": "Fudge es una herramienta sin código para crear páginas de Shopify mediante indicaciones escritas.",
+        "purpose": "Facilitar la creación de páginas para tiendas Shopify sin necesidad de programarlas manualmente.",
+        "use_cases": "Creación de páginas de producto, landing pages, secciones de tienda y prototipos para comercios desarrollados con Shopify.",
+        "main_advantages": "Disminuye la necesidad de conocimientos técnicos y acelera la construcción de páginas para comercio electrónico.",
+        "long_description": "Fudge es una herramienta sin código que permite construir páginas para Shopify mediante instrucciones en lenguaje natural. Puede ayudar a crear secciones, páginas de productos y experiencias comerciales sin escribir manualmente todo el código, acelerando el diseño y la publicación de tiendas en línea.",
+        "release_date": "No disponible",
+        "developer": "Fudge",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.fudge.ai/"
+        }
+      ]
+    },
+    "2304": {
+      "app": {
+        "id": "2304",
+        "name": "Fuser",
+        "url": "https://fuser.studio/",
+        "short_description": "Lienzo visual basado en nodos para conectar y combinar más de 150 modelos de inteligencia artificial.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Conectar y combinar distintos modelos de inteligencia artificial dentro de flujos visuales basados en nodos.",
+        "tags": "canvas visual, modelos de IA, workflows, automatización visual, no-code, inteligencia artificial",
+        "logo_filename": "id_2304_fuser",
+        "what_is": "Fuser es una plataforma visual no-code basada en nodos que permite conectar y combinar múltiples modelos de inteligencia artificial.",
+        "purpose": "Permitir combinar modelos y capacidades de inteligencia artificial dentro de flujos visuales sin necesidad de programar.",
+        "use_cases": "Workflows de IA, combinación de modelos, generación visual, automatización no-code y experimentación con múltiples modelos.",
+        "main_advantages": "Facilita combinar numerosos modelos de IA mediante una interfaz visual basada en nodos.",
+        "long_description": "Fuser es una plataforma visual basada en nodos que permite conectar y combinar múltiples modelos de inteligencia artificial dentro de un mismo flujo. Está orientada a crear workflows y experimentar con distintas capacidades de IA sin depender exclusivamente de programación tradicional.",
+        "release_date": "No disponible",
+        "developer": "Fuser",
+        "main_model": "Multimodelo: Anthropic, OpenAI, OpenRouter, Groq y modelos de imagen, video y 3D",
+        "pricing_plans": "Prueba gratuita de 30 días; Indie: $27 USD/mes; Teams con 10 usuarios incluidos y $8 USD por usuario adicional; Enterprise: personalizado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "Anthropic, OpenAI, OpenRouter y Groq mediante proveedores y claves configurables"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://fuser.studio/"
+        }
+      ]
+    },
+    "2364": {
+      "app": {
+        "id": "2364",
+        "name": "Flowcart AI",
+        "url": "https://www.flowcart.ai/",
+        "short_description": "Plataforma de comercio conversacional que utiliza WhatsApp para recuperar carritos, vender productos y completar pagos dentro del chat.",
+        "category": "Marketing",
+        "main_functionality": "Automatizar ventas y retención dentro de WhatsApp mediante búsqueda de productos, carritos, recuperación de compras abandonadas y checkout en el chat.",
+        "tags": "WhatsApp, ecommerce, ventas, recuperación de carritos, checkout, IA conversacional, CRM, marketing",
+        "logo_filename": "id_2364_flowcart_ai",
+        "what_is": "Flowcart AI es una plataforma de comercio y retención para ecommerce que convierte WhatsApp en un canal completo de ventas mediante agentes y automatizaciones.",
+        "purpose": "Convertir conversaciones de WhatsApp en ventas y reducir pérdidas asociadas con carritos abandonados y fricción durante el checkout.",
+        "use_cases": "Recuperación de carritos, ventas por WhatsApp, recomendaciones de productos, checkout en chat, upselling, campañas y fidelización.",
+        "main_advantages": "Mantiene búsqueda, conversación, carrito y pago dentro de WhatsApp y se conecta con plataformas de ecommerce, ERP y pagos.",
+        "long_description": "Flowcart AI es una plataforma de comercio conversacional y retención para ecommerce centrada en WhatsApp. Permite recuperar carritos abandonados, recomendar productos, crear carritos, realizar checkout y pagos dentro del chat, ejecutar campañas y automatizar interacciones posteriores a la compra. También se conecta con tiendas, sistemas empresariales y múltiples pasarelas de pago.",
+        "release_date": "No disponible",
+        "developer": "Flowcart AI",
+        "main_model": "No especificado",
+        "pricing_plans": "Growth, Pro, Advanced y Enterprise: precio mediante cotización",
+        "license": "No especificado",
+        "security_privacy": "Los datos enviados a funciones de IA son tratados como contenido del cliente y pueden procesarse mediante proveedores de IA para prestar el servicio.",
+        "integration": "WhatsApp y plataformas de comercio electrónico y pagos"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.flowcart.ai/"
+        }
+      ]
+    },
+    "2442": {
+      "app": {
+        "id": "2442",
+        "name": "Form3D",
+        "url": "https://www.form3d.ai/",
+        "short_description": "Herramienta que convierte enlaces y referencias de muebles en recursos 3D para procesos de diseño.",
+        "category": "Generación de diseño",
+        "main_functionality": "Convertir referencias de muebles y objetos en recursos 3D utilizables dentro de procesos de diseño y modelado.",
+        "tags": "3D, muebles, SketchUp, diseño, modelado, interiores, generación de diseño, arquitectura",
+        "logo_filename": "id_2442_form3d",
+        "what_is": "Form3D es una herramienta de generación de diseño que convierte referencias de muebles y objetos en recursos 3D para procesos de modelado.",
+        "purpose": "Agilizar la incorporación de muebles y objetos a proyectos de diseño mediante la generación de recursos tridimensionales.",
+        "use_cases": "Modelado de muebles, diseño de interiores, arquitectura, creación de recursos 3D, visualización de espacios y proyectos de SketchUp.",
+        "main_advantages": "Acelera la creación de recursos tridimensionales a partir de referencias de productos y muebles disponibles online.",
+        "long_description": "Form3D es una herramienta de generación de diseño orientada a convertir referencias de muebles y objetos en recursos tridimensionales. Puede utilizarse dentro de procesos de arquitectura, diseño de interiores y modelado para reducir el tiempo necesario para crear manualmente determinados elementos 3D.",
+        "release_date": "No disponible",
+        "developer": "FORM3D",
+        "main_model": "No especificado",
+        "pricing_plans": "Prueba gratuita de 3 días; después $19 USD según el flujo de suscripción consultado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "SketchUp y workflows de modelado 3D"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.form3d.ai/"
+        }
+      ]
+    },
+    "2472": {
+      "app": {
+        "id": "2472",
+        "name": "FlowSpeech",
+        "url": "https://flowspeech.io/",
+        "short_description": "Plataforma de texto a voz que genera narraciones con voces naturales, control de emociones, pausas y múltiples hablantes.",
+        "category": "Texto a voz",
+        "main_functionality": "Convierte texto y documentos en audio con voces sintéticas expresivas y controles sobre estilo, emoción, pausas y hablantes.",
+        "tags": "texto a voz, documentos a audio, voz expresiva, narración, accesibilidad",
+        "logo_filename": "id_2472_flowspeech",
+        "what_is": "FlowSpeech es una plataforma de generación de voz que convierte contenido escrito en narraciones producidas mediante inteligencia artificial.",
+        "purpose": "Transformar contenido escrito en narraciones naturales y configurables para distintos tipos de proyectos y audiencias.",
+        "use_cases": "Narrar artículos; convertir documentos en audio; crear voiceovers; producir material educativo; generar contenido accesible mediante texto a voz.",
+        "main_advantages": "Permite controlar características de la narración y generar audio sin necesidad de grabar manualmente cada pieza de contenido.",
+        "long_description": "FlowSpeech es una plataforma de texto a voz orientada a generar narraciones mediante inteligencia artificial. Permite transformar contenido escrito en audio y ajustar características de la interpretación como estilo, emoción, pausas o participación de distintos hablantes. Puede utilizarse para narraciones, videos, contenido educativo, accesibilidad y producción de material sonoro sin realizar cada grabación manualmente.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Plan gratuito. Basic USD 15/mes, Pro USD 45/mes y Scale USD 159/mes; existen descuentos con facturación anual.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://flowspeech.io/"
+        }
+      ]
+    }
+  }
+}

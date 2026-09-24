@@ -1,0 +1,2277 @@
+{
+  "schemaVersion": 1,
+  "apps": {
+    "42": {
+      "app": {
+        "id": "42",
+        "name": "Argil",
+        "url": "https://www.argil.ai",
+        "short_description": "Transforma artículos en vídeos atractivos en cuestión de minutos.",
+        "category": "Generación de video",
+        "main_functionality": "Genera videos cortos personalizados mediante clones de IA, incorporando edición dinámica, subtítulos y guiones generados por inteligencia artificial, sin requerir grabaciones en cámara.",
+        "tags": "#GeneraciónDeVideo #ContenidoDigital #ClonesDeIA",
+        "logo_filename": "id_42_argil",
+        "what_is": "Argil es una plataforma de inteligencia artificial que permite a los usuarios generar videos cortos personalizados utilizando clones de IA. La plataforma facilita la creación de contenido atractivo sin necesidad de grabaciones en cámara, ofreciendo herramientas de edición dinámica y generación de guiones mediante IA.",
+        "purpose": "Argil está diseñada para simplificar y acelerar el proceso de creación de videos, permitiendo a individuos y empresas producir contenido de alta calidad de manera eficiente. Es especialmente útil para marketing, educación y entretenimiento, donde la producción rápida y efectiva de videos es esencial.",
+        "use_cases": "Marketing y Publicidad: Empresas pueden crear anuncios personalizados y contenido promocional utilizando clones de IA que representen a su marca, reduciendo costos y tiempo de producción. \n\nEducación: Instituciones educativas y creadores de contenido pueden generar videos instructivos y tutoriales de manera rápida, manteniendo la atención de los estudiantes con presentaciones dinámicas. \n\nCreación de Contenido en Redes Sociales: Influencers y creadores de contenido pueden producir videos atractivos para plataformas como TikTok y YouTube, aprovechando las capacidades de edición y personalización de Argil.",
+        "main_advantages": "Rapidez en la Producción: Genera videos en cuestión de minutos, acelerando significativamente el proceso de creación de contenido. \n\nPersonalización: Permite la creación de clones de IA personalizados que pueden adaptarse a diferentes estilos y audiencias. \n\nEdición Dinámica: Ofrece herramientas de edición que incluyen selección de ángulos de cámara, control de lenguaje corporal y generación automática de subtítulos, mejorando la calidad y atractivo del video final. \n\nAhorro de Costos: Elimina la necesidad de equipos de grabación y producción costosos, haciendo accesible la creación de videos de alta calidad para una amplia gama de usuarios.",
+        "long_description": "Argil es una plataforma de inteligencia artificial que permite a los usuarios crear videos cortos personalizados utilizando clones de IA. La plataforma facilita la generación de contenido atractivo sin necesidad de grabaciones en cámara, ofreciendo herramientas de edición dinámica, generación automática de subtítulos y guiones mediante IA. Los usuarios pueden entrenar modelos de IA con conjuntos de datos específicos, lo que les permite crear contenido a medida rápidamente.",
+        "release_date": "Julio de 2024",
+        "developer": "Y Combinator",
+        "main_model": "Argil utiliza modelos de IA avanzados para gestionar flujos de trabajo de cámaras, lenguaje corporal y edición de video sin esfuerzo.",
+        "pricing_plans": "Gratuito: $0/mes - 5 minutos de video\nAcceso a avatares básicos\nSin avatares personalizados                                Básico: $39/mes - 25 minutos de vídeo\n5 avatares\nAccede a avatares premium\nGestión de voz                                                        PRO: $149/mes - 100 minutos de video\n10 avatares\nAcceso a avatares premium\nSoporte prioritario\nAcceso a la API                                       ENTERPRISE: $ Contacte con la empresa - Videos ilimitados\nAvatares ilimitados\nAvatares exclusivos\nSoporte prioritario\nAcceso a la API",
+        "license": "Propietaria de Y Combinator",
+        "security_privacy": "Argil asegura que los datos de los usuarios están seguros y no se utilizan para alimentar sus algoritmos.",
+        "integration": "Argil ofrece integraciones con diversas plataformas y herramientas, facilitando la incorporación de sus funcionalidades en flujos de trabajo existentes."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.argil.ai/article-to-video?utm_source=superhuman&utm_medium=newsletter&utm_campaign=openai-s-agent-nears-release&_bhlid=1f00bd4535b9ef68639257d51d1666a3a2c2ded8"
+        },
+        {
+          "source_url": "https://www.argil.ai/blog/4-use-cases-on-argil-ai-with-your-ai-clone"
+        },
+        {
+          "source_url": "https://vivevirtual.es/inteligencia-artificial/argil-automatizacion-de-ia-sin-codigo-en-sus-datos/"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/argil/"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/compare/argil-vs-opencord-ai"
+        },
+        {
+          "source_url": "https://www.ycombinator.com/companies/argil"
+        },
+        {
+          "source_url": "https://docs.argil.ai/pages/get-started/introduction"
+        }
+      ]
+    },
+    "137": {
+      "app": {
+        "id": "137",
+        "name": "Averi",
+        "url": "https://www.averi.ai/",
+        "short_description": "Utiliza una plataforma para elaborar una estrategia de marketing, crear contenido y crear un equipo que se adapte perfectamente.",
+        "category": "Marketing",
+        "main_functionality": "Proporciona herramientas para desarrollar estrategias de marketing, generar contenido de manera eficiente y conectar con especialistas en marketing, integrando inteligencia artificial con experiencia humana para mejorar el rendimiento y la eficiencia en campañas de marketing.",
+        "tags": "#MarketingDigital #InteligenciaArtificial #GeneraciónDeContenido #EstrategiaDeMarketing",
+        "logo_filename": "id_137_averi",
+        "what_is": "Averi es una plataforma de gestión de marketing que utiliza inteligencia artificial para automatizar y optimizar estrategias, contenido y conexiones con expertos en marketing. Combina tecnología avanzada con el conocimiento de especialistas verificados para maximizar el impacto de las campañas digitales.",
+        "purpose": "Sirve para ayudar a empresas y profesionales a desarrollar campañas de marketing efectivas, generar contenido relevante de manera automatizada y conectar con una red de expertos en marketing que pueden proporcionar orientación estratégica. Es ideal para empresas que buscan mejorar su presencia digital y optimizar sus recursos.",
+        "use_cases": "Estrategias de Marketing: Diseñar y automatizar campañas publicitarias basadas en datos y tendencias actuales.\nGeneración de Contenido: Crear publicaciones, anuncios y artículos alineados con las necesidades específicas de una audiencia.\nGestión de Campañas: Supervisar y ajustar campañas en tiempo real para mejorar su rendimiento.\nColaboración con Expertos: Acceder a una red de profesionales que brindan asesoramiento estratégico para mejorar las iniciativas de marketing.\nPymes: Empresas con recursos limitados pueden acceder a herramientas de nivel profesional sin necesidad de grandes inversiones.",
+        "main_advantages": "Automatización Inteligente: Reduce el tiempo dedicado a tareas repetitivas, como la generación de contenido o el análisis de datos.\nPersonalización Avanzada: Adapta las estrategias y contenido a las necesidades específicas de cada cliente o audiencia.\nResultados Basados en Datos: Mejora la precisión en la toma de decisiones mediante el análisis de tendencias y datos en tiempo real.\nAccesibilidad: Ofrece soluciones asequibles para empresas de todos los tamaños.\nEcosistema Integral: Integra tecnología y experiencia humana en una sola plataforma.",
+        "long_description": "Averi es una plataforma integral de gestión de marketing impulsada por inteligencia artificial que combina tecnología avanzada con la experiencia de una red de expertos verificados. Diseñada para optimizar las operaciones de marketing, Averi ofrece soluciones automatizadas para el desarrollo de estrategias, creación de contenido y formación de equipos. Utiliza modelos de IA internos entrenados por especialistas en marketing para generar contenido instantáneo, como publicaciones de blog, correos electrónicos, documentos técnicos, anuncios y publicaciones en redes sociales. Además, proporciona acceso a una red de más de 2,500 profesionales de marketing verificados, permitiendo a las empresas obtener experiencia especializada según sea necesario. La plataforma también permite el entrenamiento personalizado de la IA en documentos y datos específicos de la empresa, facilitando cargas de documentos y conexiones de cuentas para una adaptación precisa a las necesidades del negocio.",
+        "release_date": "2024",
+        "developer": "SelectFew Co.",
+        "main_model": "Averi utiliza modelos de inteligencia artificial internos desarrollados y entrenados por expertos en marketing para ofrecer soluciones automatizadas y personalizadas en estrategias y creación de contenido.",
+        "pricing_plans": "Plan Básico Gratuito: Incluye acceso a las funciones principales de la plataforma, limitado a un solo usuario.\nPlanes Premium: Ofrecen características avanzadas y capacidades ampliadas, con detalles específicos disponibles en el sitio web oficial. ",
+        "license": "Propietaria",
+        "security_privacy": "Averi se compromete a proteger la privacidad de los usuarios y la seguridad de los datos, implementando medidas de seguridad avanzadas y cumpliendo con las regulaciones vigentes en materia de protección de datos.",
+        "integration": "La plataforma permite la integración con diversas herramientas y servicios de marketing, facilitando la incorporación de Averi en los flujos de trabajo existentes de las empresas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.averi.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=apple-intelligence-is-here"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/averi/features"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/averi"
+        },
+        {
+          "source_url": "https://www.averi.ai/blog/smb-customer-story"
+        },
+        {
+          "source_url": "https://www.producthunt.com/posts/averi"
+        },
+        {
+          "source_url": "https://www.averi.ai/integrations"
+        },
+        {
+          "source_url": "https://www.averi.ai/pricing"
+        },
+        {
+          "source_url": " "
+        }
+      ]
+    },
+    "144": {
+      "app": {
+        "id": "144",
+        "name": "AssemblyAI",
+        "url": "https://www.assemblyai.com/",
+        "short_description": "Capacidades avanzadas de voz a texto que capturan la complejidad del habla humana más allá de las métricas tradicionales.",
+        "category": "Audio",
+        "main_functionality": "Transcripción de audio a texto con precisión superior al 90%, detección de entidades, análisis de sentimientos y otras herramientas avanzadas para analizar contenido de audio.",
+        "tags": "#Transcripción #AnálisisDeAudio #InteligenciaArtificial #ProcesamientoDelLenguajeNatural #DetecciónDeEntidades",
+        "logo_filename": "id_144_assembly_ai",
+        "what_is": "AssemblyAI es una plataforma de inteligencia artificial especializada en la transcripción y análisis de audio. Utiliza modelos avanzados de IA para convertir grabaciones de voz en texto con alta precisión y ofrece herramientas para detectar entidades, identificar idiomas y analizar sentimientos en el contenido de audio.",
+        "purpose": "Su propósito principal es facilitar a profesionales y empresas la extracción de información valiosa de grabaciones de voz, permitiendo transcribir, analizar y comprender el contenido de audio de manera eficiente.",
+        "use_cases": "Periodistas: Transcriben entrevistas en minutos, asegurando que no se pierda ninguna cita importante. \n\nEstudiantes: Convierten grabaciones de conferencias en notas detalladas, facilitando el estudio y la revisión. \n\nInvestigadores: Transcriben entrevistas y grabaciones de campo, permitiendo un análisis más profundo del contenido. \n\nProfesionales de marketing: Analizan el sentimiento en grabaciones de grupos focales para entender mejor las reacciones del cliente. \n\nDesarrolladores: Integran capacidades de transcripción en nuevas aplicaciones, mejorando la funcionalidad y la experiencia del usuario. ",
+        "main_advantages": "Transcripción de alta precisión: AssemblyAI transcribe audio con una precisión superior al 90%, garantizando resultados cercanos al nivel humano. \n\nDetección automática de idioma: Puede identificar automáticamente entre más de 17 idiomas y transcribir con precisión. \n\nFiltrado de palabras de relleno: Elimina palabras innecesarias de las transcripciones, como \"eh\" o \"um\", garantizando un texto limpio y fácil de leer. \n\nDetección de entidades: Identifica y resalta nombres, lugares o fechas mencionados en el audio, facilitando la revisión y el análisis posterior. \n\nAnálisis de sentimientos: Evalúa el tono del audio, indicando si el hablante suena feliz, triste, enojado o neutral",
+        "long_description": "AssemblyAI es una plataforma de inteligencia artificial que ofrece modelos avanzados para transcribir y comprender el habla humana. Utiliza tecnologías de vanguardia para convertir audio en texto con alta precisión, permitiendo a las empresas y desarrolladores integrar capacidades de transcripción y análisis de audio en sus aplicaciones y servicios. Además de la transcripción, AssemblyAI proporciona funcionalidades como identificación de hablantes, análisis de sentimientos y detección de entidades, facilitando una comprensión más profunda del contenido de audio.",
+        "release_date": "No disponible.",
+        "developer": "AssemblyAI.",
+        "main_model": "AssemblyAI utiliza modelos avanzados de inteligencia artificial para el reconocimiento y análisis de voz, incluyendo su modelo más reciente, Universal-1, basado en 12.5 millones de horas de datos de audio multilingüe, brindando análisis semántico y detección de hablantes.",
+        "pricing_plans": "Gratuito: Hasta 416 horas de audio.\nPago por Uso: Costos por hora según servicio.\nPersonalizado: Descuentos hasta 50%, soporte avanzado.",
+        "license": "Propietaria",
+        "security_privacy": "AssemblyAI implementa prácticas de seguridad de nivel empresarial para garantizar la seguridad y privacidad de los datos de los usuarios. Además, incluye funcionalidades para detectar y redactar automáticamente información personal sensible en las transcripciones, ayudando a cumplir con las normativas de privacidad y seguridad de datos",
+        "integration": "AssemblyAI proporciona una API sencilla que permite a los usuarios acceder a modelos de inteligencia artificial listos para producción para transcripción y comprensión del lenguaje hablado. Además, ofrece SDKs amigables para desarrolladores, facilitando la integración con múltiples lenguajes de programación, incluyendo Python, JavaScript, Ruby, Java y C#."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Cómo CallRail duplicó sus clientes con ayuda de IA",
+          "description": "CallRail, especializada en inteligencia de leads, se asoció con AssemblyAI para mejorar su producto de inteligencia conversacional. Integraron funciones como transcripción de audio a texto, anonimización de datos y resúmenes automáticos de llamadas. Esto aumentó la precisión de las transcripciones en un 23% y duplicó el número de usuarios del producto. También lanzaron “Call Summaries”, una herramienta que resume conversaciones en puntos clave, facilitando su revisión a gran escala.",
+          "url": "https://www.assemblyai.com/blog/how-callrail-doubled-its-conversation-intelligence-customers-by-building-with-a-trusted-ai-partner/"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Screenloop reduce 90 % del trabajo manual con transcripción por IA",
+          "description": "Screenloop automatizó la grabación y transcripción de entrevistas al integrar modelos de AssemblyAI. Esto permitió reducir en un 90 % el tiempo dedicado a tareas manuales, agilizando la contratación y mejorando la experiencia para reclutadores y candidatos.",
+          "url": "https://www.assemblyai.com/blog/how-ai-powered-transcription-helped-a-hiring-intelligence-platform-cut-time-spent-on-manual-tasks-by-90-for-its-customers/"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Aloware ahorra tiempo a sus clientes con IA en solo 6 semanas",
+          "description": "Aloware integró modelos de AssemblyAI para transcribir llamadas con alta precisión y automatizar el control de calidad. En solo seis semanas, mejoraron la revisión de llamadas, redujeron errores humanos y añadieron análisis de sentimiento y desempeño de ventas, optimizando la experiencia del cliente.",
+          "url": "https://www.assemblyai.com/blog/aloware-shipped-ai-powered-smart-transcription-qa-6-weeks/"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.assemblyai.com/products/speech-to-text?utm_source=superhuman&utm_medium=newsletter_sponsor&utm_campaign=toptools&utm_content=112724"
+        },
+        {
+          "source_url": "https://mistercontenidos.com/directorio/assemblyai/"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/assemblyai?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/assemblyai/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://www.assemblyai.com/blog/tag/case-studies/"
+        },
+        {
+          "source_url": "https://aitoolly.com/es/product/assemblyai?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://www.assemblyai.com/pricing"
+        },
+        {
+          "source_url": "https://www.assemblyai.com/security"
+        }
+      ]
+    },
+    "158": {
+      "app": {
+        "id": "158",
+        "name": "Audeus",
+        "url": "https://www.audeus.com/",
+        "short_description": "Lea en voz alta cualquier documento, correo electrónico, página web o artículo con una extensión de texto a voz de Chrome que le ahorra tiempo y aumenta la productividad.",
+        "category": "Texto a voz",
+        "main_functionality": "Transformación de texto escrito en audio hablado para facilitar la lectura y comprensión de diversos documentos.",
+        "tags": "#TextoAVoz #Productividad #Accesibilidad",
+        "logo_filename": "id_158_audeus",
+        "what_is": "Audeus es una herramienta de conversión de texto a voz que permite transformar contenido escrito, como documentos PDF, Word y páginas web, en audio claro y natural. Está diseñada para mejorar la accesibilidad y la experiencia de diversos tipos de usuarios, incluidos aquellos con discapacidades visuales o dificultades para leer.",
+        "purpose": "Audeus ofrece una experiencia de lectura auditiva para aumentar la productividad, mejorar la comprensión y permitir a los usuarios  aprovechar el contenido de manera más cómoda, ya sea mientras realizan otras tareas, o en situaciones donde leerno es práctico.",
+        "use_cases": "Educación: Lectura de material académico o de investigación.\n\nProfesionales: Consumo de reportes extensos o documentos mientras se realizan otras tareas.\n\nAccesibilidad: Asistencia a personas con discapacidades visuales o dislexia.\n\nEstilo de vida: Escuchar artículos, libros o noticias durante desplazamientos o actividades físicas.\n",
+        "main_advantages": "Facilidad de uso: Interfaz intuitiva y sencilla.\n\nCompatibilidad: Soporte para diferentes tipos de archivo y plataformas.\n\nAccesibilidad mejorada: Ideal para usuarios con neceisdades específicas.\n\nAhorro de tiempo: Permite consumir contenido en formato de audio mientras se realizan otras tareas.\n\nCalidad de voz: Ofrece voces naturales que mejoran la experiencia auditiva.",
+        "long_description": "Audeus es una herramienta avanzada de conversión de texto a voz diseñada para transformar documentos escritos, como archivos PDF, Word, artículos en línea y contenido web, en audio de alta calidad. Su enfoque principal es brindar accesibilidad y productividad, permitiendo que los usuarios escuchen información mientras realizan otras actividades. La aplicación ofrece voces naturales y una experiencia auditiva fluida, ideal tanto para necesidades personales como profesionales.",
+        "release_date": "No disponible.",
+        "developer": "No disponible.",
+        "main_model": "No disponible.",
+        "pricing_plans": "PRO:$9.92/mes| ENTERPRISE $Contactanos",
+        "license": "Propietaria",
+        "security_privacy": "Audeus probablemente maneja políticas estándar de protección de datos y privacidad para procesar texto cargado por el usuario. Sin embargo, detalles específicos sobre la seguridad de los datos no se encontraron.",
+        "integration": "No seecontró información específica sobre la compatibilidad o integración con otros servicios o plataformas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.audeus.com/text-to-speech-chrome-extension?utm_source=superhuman&utm_medium=referral&utm_campaign=apple-rolls-out-chatgpt-integration"
+        },
+        {
+          "source_url": "https://www.audeus.com/pricing"
+        },
+        {
+          "source_url": "https://www.audeus.com/about"
+        },
+        {
+          "source_url": "https://www.audeus.com/privacy"
+        }
+      ]
+    },
+    "178": {
+      "app": {
+        "id": "178",
+        "name": "Audioscribe",
+        "url": "https://www.audioscribe.io/es",
+        "short_description": "Transforma tus conversaciones en información con un servicio de transcripción de última generación impulsado por IA.",
+        "category": "Productividad",
+        "main_functionality": "Convierte contenido de audio y video en transcripciones de texto precisas, facilitando la búsqueda y comprensión de información clave.",
+        "tags": "#Transcripción #InteligenciaArtificial #Audio #Video #Productividad",
+        "logo_filename": "id_178_audioscribe",
+        "what_is": "AudioScribe.io es una plataforma de transcripción impulsada por inteligencia artificial diseñada para convertir grabaciones de audio y video en texto de manera rápida y precisa.\n\n",
+        "purpose": "El propósito de AudioScribe es facilitar la creación de transcripciones organizadas y editables, ahorrando tiempo en la documentación y mejorando la accesibilidad a información clave en múltiples contextos.",
+        "use_cases": "Documentación de Reuniones: Captura y organiza el contenido de reuniones empresariales o académicas para referencia futura.\nEntrevistas y Podcasting: Transcribe entrevistas y episodios de podcast para publicaciones o análisis.\nCreación de Contenido: Genera texto a partir de grabaciones de video o audio para artículos, publicaciones o presentaciones.\nAccesibilidad: Proporciona subtítulos o transcripciones para contenido multimedia, haciéndolo accesible a más audiencias.\nAnálisis de Conversaciones: Facilita el análisis de tendencias y temas clave en grandes volúmenes de datos de audio.",
+        "main_advantages": "Alta Precisión: Transcripciones exactas incluso en grabaciones con ruido de fondo moderado.\nSoporte Multilingüe: Compatible con varios idiomas, ampliando su aplicabilidad global.\nRapidez: Proporciona transcripciones en minutos, reduciendo el tiempo de espera.\nEdición Sencilla: Permite a los usuarios editar las transcripciones directamente en la plataforma.\nAhorro de Tiempo: Automatiza tareas que normalmente requerirían largos procesos manuales",
+        "long_description": "AudioScribe.io es una plataforma de transcripción impulsada por inteligencia artificial que convierte grabaciones de audio y video en texto preciso y organizado. Diseñada para una amplia gama de usuarios, desde freelancers hasta grandes corporaciones, la herramienta facilita la documentación de reuniones, entrevistas y otros eventos, mejorando la accesibilidad y la eficiencia en la gestión de información. Su interfaz intuitiva permite a los usuarios cargar archivos de audio o video, que luego son procesados por algoritmos avanzados de IA para generar transcripciones editables y fácilmente compartibles.",
+        "release_date": "No disponible",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "Individual\nIdeal para usuarios con necesidades de transcripción ocasionales\nGRATIS\nCaracterísticas clave\n3 archivos gratis por día\nResúmenes generados por IA\nPotente función de chat con IA\nBúsqueda con índice completo\nSoporte para contenido de audio y video\nExportación en múltiples formatos (TXT, SRT, VTT)\nArchivos limitados a 25 minutos\nPrioridad de procesamiento más baja\nRegístrate GRATIS\n\nEstándar\nIdeal para freelancers y pequeñas empresas.\nSolo $19.99\nPor mes\nCaracterísticas clave\nNúmero ilimitado de transcripciones\nHasta 10 horas de transcripción por archivo\nMáxima prioridad de procesamiento\nExportación en múltiples formatos (TXT, SRT, VTT)\nBúsqueda con índice completo\nResúmenes generados por IA\nPotente función de chat con IA\nIdentificación de hablantes\nSoporte para 12 idiomas\nRegístrate GRATIS\nEmpresarial\nSoluciones personalizadas con implementación local para empresas que requieren un nivel superior de seguridad y control. Contáctanos para una cotización personalizada.\nCaracterísticas clave\nTodas las características del plan Estándar\nIntegración de SSO\nDespliegue privado",
+        "license": "No disponible.",
+        "security_privacy": "La política de privacidad de AudioScribe.io detalla cómo la empresa recopila, utiliza y protege la información personal de los usuarios. Al interactuar con sus servicios, se pueden recopilar datos como nombre, dirección de correo electrónico, números de teléfono, dirección física, direcciones IP y otra información técnica relacionada con el uso del sitio web. Esta información se utiliza para proporcionar y mejorar los servicios ofrecidos, así como para analizar tendencias y administrar el sitio. AudioScribe.io implementa medidas de seguridad para proteger los datos personales y recomienda a los usuarios revisar las políticas de privacidad de cualquier sitio web externo vinculado desde su plataforma.",
+        "integration": "No disponible."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.audioscribe.io/es?utm_source=superhuman&utm_medium=referral&utm_campaign=microsoft-and-openai-s-brewing-rivalry"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/audioscribe-io/features"
+        },
+        {
+          "source_url": "https://topai.tools/alternatives/audioscribe"
+        },
+        {
+          "source_url": "https://www.audioscribe.io/es/privacy-policy"
+        },
+        {
+          "source_url": "https://www.audioscribe.io/es?utm_source=superhuman&utm_medium=referral&utm_campaign=microsoft-and-openai-s-brewing-rivalry#pricing"
+        },
+        {
+          "source_url": "https://www.audioscribe.io/es#feature"
+        }
+      ]
+    },
+    "212": {
+      "app": {
+        "id": "212",
+        "name": "AutoShorts",
+        "url": "https://autoshorts.ai/",
+        "short_description": "AutoShorts.ai es una plataforma impulsada por inteligencia artificial que automatiza la creación y publicación de videos sin rostro en redes sociales como TikTok y YouTube. Permite a los usuarios generar contenido único y programar su publicación, facilitando el mantenimiento de una presencia en línea constante sin necesidad de habilidades avanzadas de edición de video.",
+        "category": "Generación de video",
+        "main_functionality": "Automatiza la creación y programación de videos sin rostro basados en temas específicos proporcionados por el usuario.",
+        "tags": "#GeneraciónDeVideo #AutomatizaciónDeContenido #RedesSociales",
+        "logo_filename": "id_212_auto_shorts",
+        "what_is": "AutoShorts.ai es una plataforma innovadora que utiliza inteligencia artificial para automatizar la creación y publicación de videos sin rostro en redes sociales como TikTok y YouTube. Permite a los usuarios generar contenido único diariamente sin necesidad de intervención manual.",
+        "purpose": "La herramienta está diseñada para facilitar la producción de videos atractivos y mantener una presencia constante en redes sociales, especialmente para aquellos que prefieren no aparecer en cámara. Es ideal para creadores de contenido, especialistas en marketing y educadores que buscan simplificar y agilizar su proceso de creación de contenido.",
+        "use_cases": "Marketing en Redes Sociales: Genera contenido atractivo para campañas en plataformas como TikTok y YouTube, aumentando la participación de la audiencia y ampliando el alcance. \n\nContenido para Influencers: Permite a los influencers producir videos de alta calidad sin necesidad de mostrarse en cámara, manteniendo la relevancia y frescura de su contenido. \nEducación en Línea: Facilita la creación de videos educativos y tutoriales, proporcionando material didáctico accesible y atractivo para los estudiantes.",
+        "main_advantages": "Automatización Completa: Desde la generación hasta la publicación de videos, el proceso es totalmente automatizado, ahorrando tiempo y esfuerzo. \n\nContenido Único: Cada video creado es único, con guiones y elementos visuales personalizados, evitando la repetición de contenido. \n\nInterfaz Intuitiva: La plataforma es fácil de usar, permitiendo a los usuarios seleccionar temas o personalizar los suyos propios, con opciones de previsualización y edición antes de la publicación. \n\nProgramación de Publicaciones: Permite programar la publicación automática de videos en las plataformas deseadas, asegurando una presencia constante en línea. ",
+        "long_description": "AutoShorts.ai es una plataforma innovadora que utiliza inteligencia artificial para automatizar la creación y publicación de videos sin rostro en redes sociales como TikTok y YouTube. Los usuarios pueden seleccionar un tema de una lista predefinida o crear un mensaje personalizado, y la IA genera videos únicos con narraciones en múltiples idiomas y voces. La plataforma también permite programar publicaciones automáticas, facilitando una presencia constante en línea sin necesidad de intervención manual. \n",
+        "release_date": "No disponible",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "Gratis: Permite la creación de un video con marca de agua.\n\nStarter ($19/mes): Publicación de hasta 3 videos por semana, sin marca de agua, con resolución HD y publicación automática en canales.\n\nDaily ($39/mes): Publicación diaria de videos, incluye todas las características del plan Starter.\n\nHardcore ($69/mes): Permite la publicación de 2 videos por día, con todas las características del plan Starter. \n",
+        "license": "Propietario",
+        "security_privacy": "No disponible",
+        "integration": "AutoShorts.ai se integra directamente con plataformas de redes sociales como TikTok y YouTube, permitiendo la publicación automática de videos generados."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/autoshorts"
+        },
+        {
+          "source_url": "https://autoshorts.ai/?ref=aitoolsdirectory"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/autoshorts-ai/launches"
+        },
+        {
+          "source_url": "https://easywithai.com/ai-video-generators/autoshorts-ai/"
+        },
+        {
+          "source_url": "https://toolspedia.io/ai-tool/autoshorts-ai/"
+        },
+        {
+          "source_url": "https://iuu.ai/es/tool/autoshorts-ai"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/autoshorts-ai"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/autoshorts-ai/features"
+        },
+        {
+          "source_url": "https://ahy.ai/es/tool/autoshorts-ai/introduction/"
+        }
+      ]
+    },
+    "276": {
+      "app": {
+        "id": "276",
+        "name": "Athena AI",
+        "url": "https://www.athena.study/",
+        "short_description": "Transforma tu experiencia de estudio con herramientas impulsadas por IA diseñadas para ayudarte a dominar cualquier tema con facilidad.",
+        "category": "Automatización",
+        "main_functionality": "Proporciona un compañero de estudio disponible las 24 horas, que genera materiales de estudio personalizados y facilita el aprendizaje interactivo mediante desafíos y recompensas.",
+        "tags": "#AsistenteDeEstudio #Productividad #InteligenciaArtificial #AprendizajeInteractivo #Gamificación",
+        "logo_filename": "id_276_athena",
+        "what_is": "Su propósito principal es mejorar el aprendizaje, la productividad y la toma de decisiones en diversos ámbitos, actuando como un socio de IA disponible las 24 horas del día. Athena AI puede ser desplegada para fines educativos, operaciones comerciales, ciberseguridad, aplicaciones militares y desarrollo personal.",
+        "purpose": "Aprendizaje Académico: Los estudiantes pueden utilizar Athena AI para escribir ensayos, crear materiales de estudio y obtener respuestas instantáneas a preguntas académicas. \n\nSoporte a la Decisión Militar: Proporciona a las fuerzas militares herramientas de visión de IA y análisis geoespacial para la toma de decisiones tácticas. \n\nDesarrollo Personal: Funciona como un consejero o terapeuta de IA y entrenador de vida, ofreciendo consejos y manteniendo un diario con un compañero de IA. \n\nAnálisis de Ciberseguridad: Ayuda a los equipos de seguridad a realizar investigaciones, responder a alertas y proteger datos de manera más eficiente. ",
+        "use_cases": "Aprendizaje Académico: Los estudiantes pueden utilizar Athena AI para escribir ensayos, crear materiales de estudio y obtener respuestas instantáneas a preguntas académicas. \n\nSoporte a la Decisión Militar: Proporciona a las fuerzas militares herramientas de visión de IA y análisis geoespacial para la toma de decisiones tácticas. \n\nDesarrollo Personal: Funciona como un consejero o terapeuta de IA y entrenador de vida, ofreciendo consejos y manteniendo un diario con un compañero de IA. \n\nAnálisis de Ciberseguridad: Ayuda a los equipos de seguridad a realizar investigaciones, responder a alertas y proteger datos de manera más eficiente.",
+        "main_advantages": "Versatilidad: Soporta múltiples formatos de archivo y casos de uso, adaptándose a diversas necesidades de los usuarios. \n\nSeguridad: Ofrece características de seguridad para implementaciones empresariales, garantizando la protección de datos. \n\nExperiencia de Aprendizaje Interactiva: A través de la gamificación, proporciona una experiencia de aprendizaje atractiva y motivadora. \n\nAsistencia 24/7: Actúa como un compañero de estudio y herramienta de productividad disponible en todo momento para los usuarios. \n",
+        "long_description": "Athena AI es una plataforma integral impulsada por inteligencia artificial que ofrece asistencia personalizada en el estudio, soluciones comerciales y coaching de vida. Sus funcionalidades incluyen análisis de documentos, generación automática de cuestionarios y tarjetas de memoria, así como capacidades de chat interactivas que permiten a los usuarios interactuar con diversos formatos de archivo, como PDFs, documentos de Word, presentaciones, imágenes y archivos de código. Además, proporciona seguimiento del progreso mediante gamificación, manteniendo a los usuarios motivados y comprometidos en su proceso de aprendizaje.",
+        "release_date": "No disponible",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "Básico (Gratuito): Acceso limitado a funcionalidades esenciales.\nPremium (Pago): Acceso completo a todas las características avanzadas de la plataforma.",
+        "license": "Propietario",
+        "security_privacy": "Athena AI ofrece características de seguridad para implementaciones empresariales, incluyendo la posibilidad de despliegue en una Nube Privada Virtual (VPC) de la empresa, registros completos de auditoría y cumplimiento de normativas de seguridad, garantizando la protección de los datos de los usuarios.",
+        "integration": "La plataforma soporta múltiples formatos de archivo y casos de uso, permitiendo a los usuarios subir e interactuar con diversos tipos de documentos, como PDFs, documentos de Word, presentaciones, imágenes y archivos de código, facilitando su incorporación en diferentes flujos de trabajo y sistemas existentes."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.athena.study/?utm_source=superhuman&utm_medium=referral&utm_campaign=ai-pioneer-earns-nobel-prize"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/athena-ai?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/athena-global"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/athena-intelligence/"
+        },
+        {
+          "source_url": "https://www.aitoolnet.com/es/compare/athena-vs-athena-ai"
+        }
+      ]
+    },
+    "317": {
+      "app": {
+        "id": "317",
+        "name": "Audioread",
+        "url": "https://audioread.com/",
+        "short_description": "Convierte artículos, PDFs y otros textos en audio con voces generadas por inteligencia artificial, permitiendo escucharlos en cualquier momento como un podcast.",
+        "category": "Texto a voz",
+        "main_functionality": "Transforma contenido escrito, como artículos, correos electrónicos y documentos, en archivos de audio de alta calidad para facilitar su consumo en formato auditivo.",
+        "tags": "#TextoAVoz #Audiolibros #Productividad #TTS",
+        "logo_filename": "id_317_audioread",
+        "what_is": "Audioread es una herramienta basada en inteligencia artificial que convierte cualquier contenido escrito, como artículos, correos electrónicos, documentos PDF y páginas web, en archivos de audio. Utiliza tecnología avanzada de conversión de texto a voz (TTS) para ofrecer voces realistas y naturales, facilitando el consumo de información en formato auditivo.",
+        "purpose": "Audioread sirve para transformar textos en contenido audible, permitiendo a los usuarios escuchar artículos, libros, correos electrónicos o cualquier material escrito mientras realizan otras actividades. Es ideal para quienes prefieren aprender o consumir información mediante el oído, mejorando la productividad y el acceso al contenido.",
+        "use_cases": "Lectura de Artículos: Convertir artículos largos de blogs y páginas web en audio para escucharlos como podcasts.\nEstudio y Educación: Transformar apuntes, materiales de clase y documentos PDF en archivos de audio.\nProductividad Profesional: Escuchar correos electrónicos y documentos de trabajo durante desplazamientos o multitarea.\nAccesibilidad: Ayudar a personas con dificultades de lectura o discapacidades visuales a acceder al contenido escrito de manera eficiente.\nConsumo de Información en Movimiento: Aprovechar momentos como viajes en coche, paseos o ejercicios para escuchar contenidos educativos o de interés.",
+        "main_advantages": "Conversión Rápida: Transforma textos en archivos de audio de manera eficiente.\nVoces Realistas: Utiliza voces naturales generadas por inteligencia artificial que mejoran la experiencia auditiva.\nMultidispositivo: Permite escuchar los audios en navegadores, aplicaciones de podcasts o reproductores de audio.\nAhorro de Tiempo: Facilita consumir contenido escrito mientras se realizan otras actividades, mejorando la productividad.\nAmplia Compatibilidad: Soporta artículos, PDFs, correos electrónicos y otros formatos de texto.\nAccesibilidad Mejorada: Beneficia a personas con discapacidades visuales o dificultades de lectura.",
+        "long_description": "Audioread es una herramienta impulsada por inteligencia artificial que facilita la conversión de contenido escrito en archivos de audio de alta calidad. Está diseñada para transformar artículos, PDFs, correos electrónicos y páginas web en voces naturales, permitiendo que el contenido pueda escucharse como si se tratara de un podcast. Audioread proporciona una solución práctica para quienes desean consumir información mientras realizan otras tareas, mejorando la productividad y la accesibilidad.",
+        "release_date": "Febrero 2021",
+        "developer": "Unreal Speech Text-to-Speech API",
+        "main_model": "No especificado; utiliza tecnología avanzada de conversión de texto a voz (TTS).",
+        "pricing_plans": "Audioread Mensual\n$9.99/mes\n✅ 100.000 palabras por conversión\n✅ 500.000 palabras al día\n✅ 77 Idiomas",
+        "license": "Propietaria",
+        "security_privacy": "Garantiza que los datos del usuario se procesen con seguridad durante las conversiones.\nNo se especifican políticas detalladas de privacidad en el sitio web.",
+        "integration": "Compatible con aplicaciones de podcasts y reproductores de audio estándar.\nPermite escuchar audios en dispositivos móviles, computadoras y navegadores."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolslist.io/best-ai-tools/"
+        },
+        {
+          "source_url": "https://audioread.com/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/audioread-formerly-audiblogs"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/audioread/"
+        },
+        {
+          "source_url": "https://inteligenciaartificialai.com/app/audioread-herramienta-de-ia/"
+        },
+        {
+          "source_url": "https://iaboxtool.es/audioread-escucha-tus-articulos-y-pdfs-en-espanol-con-ia/"
+        },
+        {
+          "source_url": "https://ageofai.tools/tools/audioread/"
+        },
+        {
+          "source_url": "https://www.skillademia.com/tools/audioread/"
+        },
+        {
+          "source_url": "https://aitoolsexplorer.com/ai-tools/audioread-text-to-podcast-conversion-tool/"
+        }
+      ]
+    },
+    "322": {
+      "app": {
+        "id": "322",
+        "name": "Athina",
+        "url": "https://www.athina.ai/",
+        "short_description": "Una plataforma colaborativa de desarrollo de IA diseñada para que su equipo cree, pruebe y supervise las funciones de IA.",
+        "category": "Productividad",
+        "main_functionality": "Proporciona un entorno integral para la creación, evaluación y supervisión de aplicaciones impulsadas por modelos de lenguaje de gran escala (LLMs), permitiendo la colaboración entre equipos técnicos y no técnicos en el desarrollo de soluciones de IA.",
+        "tags": "#DesarrolloDeIA #LLM #PlataformaColaborativa",
+        "logo_filename": "id_322_athina",
+        "what_is": "Athina es una plataforma colaborativa de desarrollo y monitoreo de inteligencia artificial que permite a los equipos construir, probar, evaluar y supervisar aplicaciones impulsadas por modelos de lenguaje de gran escala (LLMs). Proporciona un entorno integral con herramientas para la gestión de prompts, métricas de evaluación, comparación de conjuntos de datos y capacidades de monitoreo en producción. \n",
+        "purpose": "Su propósito principal es acelerar el ciclo de vida del desarrollo de aplicaciones de IA, facilitando la colaboración entre equipos técnicos y no técnicos. Athina permite la creación rápida de prototipos, la ejecución de experimentos, la detección y corrección de errores, y el monitoreo en tiempo real del rendimiento de los modelos de IA en producción, asegurando soluciones robustas y eficientes.",
+        "use_cases": "Desarrollo de Chatbots: Los desarrolladores pueden utilizar Athina para crear y monitorear chatbots impulsados por LLMs, asegurando respuestas precisas y confiables. \n\nGeneración de Contenido: La plataforma facilita la supervisión y mejora del rendimiento de sistemas de generación de contenido basados en LLMs, optimizando la precisión y relevancia del material producido. \n\nEvaluación de Modelos: Athina permite a los equipos comparar diferentes modelos y prompts, realizando experimentos que posibilitan la selección de las mejores configuraciones para aplicaciones específicas. ",
+        "main_advantages": "Ciclos de Desarrollo Más Rápidos: Athina agiliza el proceso de creación y despliegue de aplicaciones de IA, permitiendo a los equipos iterar y lanzar soluciones con mayor rapidez. \n\nMayor Precisión del Modelo: Ofrece herramientas avanzadas para evaluar y optimizar modelos de IA, mejorando la precisión y efectividad de las aplicaciones desarrolladas. \n\nColaboración Mejorada: Su entorno colaborativo permite que tanto usuarios técnicos como no técnicos trabajen juntos de manera eficiente en proyectos de IA.\nMonitoreo en Tiempo Real: Proporciona capacidades de supervisión en tiempo real, permitiendo la detección y corrección inmediata de errores o desviaciones en el rendimiento del modelo. \n\nGestión Integral de Errores: Athina facilita la identificación y resolución de errores, asegurando la robustez y confiabilidad de las aplicaciones de IA en producción. ",
+        "long_description": "Athina es una plataforma colaborativa diseñada para que los equipos construyan, prueben y monitoreen aplicaciones de inteligencia artificial de calidad de producción. Ofrece un entorno integral que facilita el prototipado, la experimentación, la evaluación y la supervisión de aplicaciones impulsadas por modelos de lenguaje de gran escala (LLMs). La plataforma proporciona más de 50 métricas de evaluación preestablecidas y capacidades de evaluación personalizadas para detectar alucinaciones y medir el rendimiento de la IA, con monitoreo continuo de implementaciones en producción. Además, cuenta con una interfaz similar a una hoja de cálculo que permite a los equipos prototipar, experimentar y probar flujos de IA, siendo accesible tanto para usuarios técnicos como no técnicos. \n",
+        "release_date": "Marzo 2024",
+        "developer": "Athina AI.",
+        "main_model": "Athina no especifica un modelo propio, pero permite la integración y evaluación de diversos modelos de lenguaje de gran escala (LLMs).",
+        "pricing_plans": "Athina ofrece diferentes planes de suscripción adaptados a las necesidades de los usuarios, incluyendo opciones gratuitas y de pago.",
+        "license": "Propietaria",
+        "security_privacy": "Athina cumple con la certificación SOC-2 Tipo 2, asegurando la privacidad y seguridad de los datos a través de controles de acceso granulares y opciones de implementación autoalojadas.",
+        "integration": "Athina se integra con diversas bibliotecas de evaluación de código abierto y ofrece soporte para evaluaciones personalizadas, permitiendo una adaptación flexible a diferentes flujos de trabajo y necesidades específicas de los equipos de desarrollo."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.athina.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=alphabet-drops-sora-challenger"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/athina-ai/"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/athina-ai/howto"
+        },
+        {
+          "source_url": "https://aimresearch.co/ai-startups/y-combinator-backed-athina-ai-just-raised-3m-to-make-ai-apps-10x-faster"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/athina-ai/launches"
+        },
+        {
+          "source_url": "https://www.athina.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=alphabet-drops-sora-challenger#pricing"
+        },
+        {
+          "source_url": "https://info.athina.ai/privacy"
+        },
+        {
+          "source_url": "https://gptzone.net/aplicaciones-ia/athina-ai/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/athina-ai"
+        }
+      ]
+    },
+    "350": {
+      "app": {
+        "id": "350",
+        "name": "Autodraw",
+        "url": "https://autodraw.com/",
+        "short_description": "AutoDraw es una herramienta de dibujo en línea que combina el aprendizaje automático con ilustraciones de artistas talentosos para ayudar a los usuarios a crear dibujos de manera rápida y sencilla.",
+        "category": "Diseño gráfico",
+        "main_functionality": "AutoDraw sugiere ilustraciones basadas en los trazos iniciales del usuario, permitiendo la creación rápida de dibujos refinados sin necesidad de habilidades artísticas avanzadas.",
+        "tags": "#GeneraciónDeImágenes #DibujoAsistido #AprendizajeAutomático",
+        "logo_filename": "id_350_autodraw",
+        "what_is": "AutoDraw es una herramienta de dibujo en línea gratuita desarrollada por Google Creative Lab que utiliza inteligencia artificial para ayudar a los usuarios a crear ilustraciones de manera rápida y sencilla. Al interpretar los bocetos del usuario, sugiere dibujos prediseñados que se asemejan a lo que se intenta dibujar, facilitando la creación de gráficos de aspecto profesional sin necesidad de habilidades artísticas avanzadas.",
+        "purpose": "AutoDraw está diseñada para transformar bocetos simples en ilustraciones refinadas, siendo útil para:\n\nCrear gráficos para presentaciones.\nDiseñar contenido visual para redes sociales.\nElaborar materiales educativos.\nGenerar prototipos rápidos de diseños.",
+        "use_cases": "Educación: Docentes y estudiantes pueden utilizar AutoDraw para crear ilustraciones que complementen materiales didácticos, facilitando la comprensión de conceptos a través de representaciones visuales. \n\nMarketing en redes sociales: Creadores de contenido pueden diseñar rápidamente imágenes atractivas para publicaciones, mejorando el engagement con su audiencia. \n\nDiseño de prototipos: Diseñadores pueden esbozar ideas de interfaces o productos de manera ágil, permitiendo una rápida iteración en las fases iniciales de desarrollo.",
+        "main_advantages": "Facilidad de uso: Su interfaz intuitiva permite que cualquier persona, independientemente de su habilidad artística, pueda crear dibujos de calidad. \n\nAccesibilidad: Al ser una herramienta basada en la web, no requiere descargas ni instalaciones, estando disponible desde cualquier dispositivo con acceso a internet. \n\nRapidez: La función de sugerencias automáticas permite transformar bocetos en ilustraciones refinadas en cuestión de segundos, ahorrando tiempo en la creación de contenido visual.",
+        "long_description": "AutoDraw es una herramienta de dibujo en línea gratuita desarrollada por Google Creative Lab. Combina el aprendizaje automático con ilustraciones de artistas para ayudar a los usuarios a crear dibujos de manera rápida y sencilla. Al comenzar un boceto, AutoDraw sugiere ilustraciones prediseñadas que coinciden con lo que el usuario intenta dibujar, facilitando la creación de gráficos de aspecto profesional sin necesidad de habilidades artísticas avanzadas. La aplicación es accesible desde cualquier dispositivo con conexión a internet y un navegador web, sin necesidad de descargas ni instalaciones.",
+        "release_date": "Abril 2017",
+        "developer": "Google Creative Lab.",
+        "main_model": "AutoDraw utiliza algoritmos de aprendizaje automático para reconocer los bocetos de los usuarios y sus prediseñadas que coincidan con sus dibujos.",
+        "pricing_plans": "AutoDraw es completamente gratuito y no requiere suscripción.",
+        "license": "Es de uso gratuito; sin embargo, las ilustraciones generadas pueden estar sujetas a licencias específicas.Se recomienda revisar los términos de uso en el sitio oficial para obtener detalles sobre las restricciones y permisos relacionados con las ilustraciones.",
+        "security_privacy": "AutoDraw es una aplicación web que no requiere la creación de cuentas ni la provisión de informa su uso. Sin embargo, al ser un servicio de Google, está sujeto a las políticas de privacidad de la compañía. Se recomienda revisar la política de privacidad de Google para comprender cómo se manejan los datos durante el uso de la herramienta.",
+        "integration": "AutoDraw es una aplicación independiente y no ofrece integraciones directas con otras herramien Sin embargo, permite descargar las ilustraciones en formato PNG, lo que facilita su uso en otras aplicaciones o plataformas según las necesidades del usuario."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolslist.io/best-ai-design-tools/"
+        },
+        {
+          "source_url": "https://autodraw.com/"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/autodraw/"
+        },
+        {
+          "source_url": "https://experiments.withgoogle.com/autodraw"
+        },
+        {
+          "source_url": "https://easywithai.com/fun-ai-tools/autodraw/"
+        },
+        {
+          "source_url": "https://aplicaciones.ai/autodraw/"
+        },
+        {
+          "source_url": "https://todointeligenciaartificial.com/ai/autodraw/"
+        },
+        {
+          "source_url": "https://www.creativosonline.org/autodraw.html?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://www.eltiempo.com/tecnosfera/novedades-tecnologia/autodraw-herramienta-de-dibujo-de-google-que-usa-inteligencia-artificial-78584?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/autodraw"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/ai-news-es/descubre-autodraw-la-herramienta-de-dibujo-inteligente-que-te-sorprender-505606?utm_source=chatgpt.com"
+        }
+      ]
+    },
+    "565": {
+      "app": {
+        "id": "565",
+        "name": "Astria",
+        "url": "https://www.astria.ai/",
+        "short_description": "Astria es una plataforma que permite la generación de imágenes personalizadas de alta calidad mediante inteligencia artificial, facilitando la creación de fotografías profesionales, avatares y otros contenidos visuales adaptados a necesidades específicas.",
+        "category": "Generación de diseño",
+        "main_functionality": "Facilita la creación de modelos de imágenes generativas personalizados a través de técnicas de fine-tuning, permitiendo a los usuarios generar imágenes de estudio de alta calidad adaptadas a sus necesidades específicas.",
+        "tags": "#GeneraciónDeImágenes #InteligenciaArtificial #FineTuning",
+        "logo_filename": "id_565_astria",
+        "what_is": "Astria es una plataforma avanzada que utiliza inteligencia artificial para generar imágenes y videos personalizados de alta calidad. Ofrece ajuste fino de modelos preentrenados, permitiendo a los usuarios crear contenido visual único basado en indicaciones de texto.",
+        "purpose": "Astria está diseñada para facilitar la creación de contenido visual personalizado, automatizando tareas complejas como la gestión de GPUs y scripts. Esto permite a los usuarios generar imágenes y videos de calidad profesional de manera eficiente, sin necesidad de conocimientos técnicos avanzados. \n",
+        "use_cases": "Sesiones Fotográficas con IA: Genera retratos profesionales y avatares personalizados utilizando modelos de IA ajustados finamente. \n\nPruebas Virtuales: Permite a los usuarios visualizar cómo se verían con diferentes prendas o accesorios, facilitando decisiones de compra en línea. \n\nFotografía de Productos: Crea imágenes de productos con fondos y configuraciones personalizadas, mejorando la presentación en plataformas de comercio electrónico. \n\nDiseño de Interiores: Ayuda en la visualización de espacios interiores con diferentes estilos y decoraciones, asistiendo a diseñadores y clientes en la planificación de proyectos.",
+        "main_advantages": "Personalización Avanzada: Ofrece ajuste fino de modelos de IA para generar imágenes y videos que se adaptan a necesidades específicas de los usuarios. \n\nAutomatización de Procesos Complejos: Simplifica tareas técnicas como la gestión de hardware y software especializado, permitiendo a los usuarios centrarse en la creatividad. \n\nCalidad Profesional: Produce contenido visual de alta calidad, adecuado para aplicaciones profesionales en diversas industrias. \n\nVersatilidad de Aplicaciones: Es útil en múltiples campos, incluyendo comercio electrónico, marketing, diseño y producción de contenido digital. \n",
+        "long_description": "Astria es una plataforma avanzada que permite a los usuarios crear imágenes y videos personalizados de alta calidad mediante inteligencia artificial. Ofrece herramientas para el ajuste fino de modelos generativos preentrenados, como Stable Diffusion, facilitando la generación de contenido visual único basado en indicaciones de texto.",
+        "release_date": "2022",
+        "developer": "Astria es desarrollada por Black Forest Labs. \n",
+        "main_model": "Astria utiliza modelos generativos de imágenes, incluyendo su propia familia de modelos llamada Flux, así como Stable Diffusion 1.5 (SD1.5) y Stable Diffusion XL (SDXL). Estos modelos permiten un nuevo nivel de generación de imágenes a partir de texto, ofreciendo resultados personalizados y de alta calidad.",
+        "pricing_plans": "Ajuste Fino de Modelos: $1.50 por cada proceso de ajuste fino, que genera un nuevo modelo de aproximadamente 4GB.\n\nGeneración de Imágenes: $0.10 por cada \"prompt\" que produce un conjunto de 8 imágenes.\n\nGeneración de Videos: $0.40 por cada 100 fotogramas en un video a 24 cuadros por segundo.\n\nAlmacenamiento de Modelos: Los modelos se almacenan durante 30 días; para extender este período, se cobra $0.50 por modelo por mes.",
+        "license": "Los clientes pueden utilizar los servicios de la interfaz gráfica y la API de Astria sin requisitos adicionales de licencia.",
+        "security_privacy": "Astria recopila información personal proporcionada por los usuarios, datos de uso y técnicos, así como información de redes sociales para mejorar sus servicios. Utiliza cookies y tecnologías de seguimiento para análisis y optimización. La información puede compartirse con proveedores de servicios, afiliados y durante transacciones comerciales. Astria garantiza medidas de seguridad y permite a los usuarios ejercer derechos sobre sus datos.",
+        "integration": "Astria proporciona una API de ajuste fino que permite a los desarrolladores integrar sus capacidades en aplicaciones móviles, servicios de fotografía de IA, pruebas virtuales y más. La plataforma facilita la creación de servicios personalizados de generación de imágenes y videos, adaptándose a diversas necesidades profesionales y creativas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolslist.io/best-ai-image-editing-tools/"
+        },
+        {
+          "source_url": "https://www.astria.ai/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/astria"
+        },
+        {
+          "source_url": "https://aifindy.com/directorio-en-lista/astria"
+        },
+        {
+          "source_url": "https://deepgram.com/ai-apps/astria-ai"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/astria/features?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/astria/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://aplicaciones.ai/astria-ai/"
+        }
+      ]
+    },
+    "630": {
+      "app": {
+        "id": "630",
+        "name": "Audio writer",
+        "url": "https://audiowriter.app/?via=aitoolsdirectory-com#home",
+        "short_description": "Audio Writer es una aplicación impulsada por inteligencia artificial que convierte grabaciones de voz en texto bien estructurado. Transcribe, refina y organiza las ideas habladas, eliminando muletillas y mejorando la gramática y puntuación. Ofrece la capacidad de reescribir el texto en diferentes estilos y tonos, admite más de 15 idiomas y permite generar diversos formatos de contenido, como correos electrónicos, publicaciones en redes sociales y borradores de blogs.",
+        "category": "Generación de texto",
+        "main_functionality": "Transcripción de voz a texto con refinamiento y estructuración automáticos, y generación de contenido en diversos formatos.",
+        "tags": "#ProcesamientoDelLenguajeNatural #TranscripciónDeVoz #GeneraciónDeContenido",
+        "logo_filename": "id_630_audio_writer",
+        "what_is": "Audio Writer es una aplicación de inteligencia artificial que convierte grabaciones de voz en texto bien estructurado, listo para usar. La herramienta mejora la transcripción al refinar la gramática, eliminar muletillas y estructurar las ideas habladas.",
+        "purpose": "Está diseñada para ayudar a los usuarios a transcribir ideas habladas y convertirlas en contenido textual organizado. Es útil para crear borradores de blogs, correos electrónicos, publicaciones en redes sociales o cualquier formato de texto a partir de grabaciones de voz.",
+        "use_cases": "Escritores y creadores de contenido: Transcribe ideas habladas y las convierte en textos claros y concisos para blogs o redes sociales.\nProfesionales de negocios: Facilita la redacción de correos electrónicos, propuestas o informes a partir de notas de voz.\nEstudiantes: Transcribe grabaciones de clases o notas de estudio, organizándolas para una consulta fácil.\nPodcasters: Convierte grabaciones de episodios en texto para transcripciones o resúmenes publicables.\nMultilingüismo: Apoya a personas que trabajan en más de 15 idiomas, transcribiendo y generando contenido en diferentes estilos y tonos.",
+        "main_advantages": "Ahorro de tiempo: Transforma rápidamente ideas habladas en texto sin necesidad de escribir manualmente.\nVersatilidad: Permite generar contenido en distintos formatos, como correos, publicaciones y más.\nCalidad: Refina automáticamente la gramática, elimina errores comunes y organiza las ideas en un formato coherente.\nMultilingüe: Soporta más de 15 idiomas para una mayor accesibilidad.\nIntegración: Compatible con aplicaciones como Voice Memos y Notion, ampliando las posibilidades de uso.",
+        "long_description": "Audio Writer es una aplicación impulsada por inteligencia artificial que convierte grabaciones de voz en texto bien estructurado. La aplicación transcribe, refina y organiza las ideas habladas, eliminando muletillas y mejorando la gramática y puntuación. Además, permite reescribir el texto en diferentes estilos y tonos, admite más de 15 idiomas y facilita la generación de diversos formatos de contenido, como correos electrónicos, publicaciones en redes sociales y borradores de blogs. Se integra con aplicaciones como Voice Memos y Files para importar grabaciones y exportar transcripciones a herramientas como Reflect, Typefully y Notion.",
+        "release_date": "Marzo 2024",
+        "developer": "Pradeep Burugu.",
+        "main_model": "La aplicación utiliza modelos de inteligencia artificial para transcribir y refinar grabaciones de voz, pero no se dispone de detalles específicos sobre el modelo o algoritmo empleado.",
+        "pricing_plans": "Audio Writer requiere que los usuarios proporcionen su propia clave de OpenAI para funcionar. La aplicación es gratuita para descargar, pero el uso de la API de OpenAI puede conllevar costos adicionales según el plan del usuario con OpenAI.",
+        "license": "No disponible",
+        "security_privacy": "El desarrollador, Pradeep Burugu, ha indicado que las prácticas de privacidad de la aplicación pueden incluir el manejo de datos según se describe en su política de privacidad. Los datos vinculados al usuario pueden incluir información de contacto y contenido del usuario. \n",
+        "integration": "Audio Writer se integra con aplicaciones como Voice Memos y Files para facilitar la importación de grabaciones y la exportación de transcripciones a herramientas como Reflect, Typefully y Notion. \n"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/audio-writer"
+        },
+        {
+          "source_url": "https://audiowriter.app/?via=aitoolsdirectory-com"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/audio-writer-ios"
+        },
+        {
+          "source_url": "https://www.futuretools.io/tools/audio-writer"
+        },
+        {
+          "source_url": "https://audio-writer.tenereteam.com/"
+        }
+      ]
+    },
+    "673": {
+      "app": {
+        "id": "673",
+        "name": "Aura AI",
+        "url": "https://auraai.app/",
+        "short_description": "Generador de imágenes y videos impulsado por inteligencia artificial que transforma texto e imágenes en contenido visual impresionante.",
+        "category": "Generación de diseño",
+        "main_functionality": "Convierte descripciones de texto en imágenes artísticas y transforma imágenes estáticas en videos dinámicos, optimizados para plataformas de redes sociales.",
+        "tags": "#GeneraciónDeImágenes #GeneraciónDeVideos #InteligenciaArtificial #ContenidoVisual",
+        "logo_filename": "id_673_aura",
+        "what_is": "Aura AI es una herramienta basada en inteligencia artificial que permite la generación de imágenes y videos a partir de texto o imágenes existentes. Su tecnología avanzada de IA permite a los usuarios crear contenido visual atractivo con facilidad, optimizado para redes sociales, marketing digital y otros usos creativos.",
+        "purpose": "El propósito principal de Aura AI es facilitar la creación de imágenes y videos mediante inteligencia artificial, permitiendo a los usuarios generar contenido atractivo sin necesidad de conocimientos avanzados en diseño gráfico o edición de video.",
+        "use_cases": "Creadores de contenido: Generación de imágenes y videos personalizados para redes sociales como Instagram, TikTok y YouTube.\nMarketing y publicidad: Creación de contenido visual atractivo para campañas publicitarias y anuncios digitales.\nDiseñadores y artistas: Transformación de ideas en ilustraciones digitales con IA.\nEducación y capacitación: Producción de materiales visuales para presentaciones y aprendizaje interactivo.\nEmpresas y marcas: Creación rápida de contenido visual para mejorar la identidad de marca y la comunicación con clientes.",
+        "main_advantages": "Conversión de texto a imagen y video sin necesidad de habilidades avanzadas en diseño.\nOptimización para redes sociales, facilitando la creación de contenido viral.\nInterfaz intuitiva que permite a cualquier usuario generar contenido con facilidad.\nVariedad de estilos visuales para adaptarse a diferentes necesidades creativas.\nAutomatización del proceso creativo, reduciendo tiempo y esfuerzo en la producción de contenido.",
+        "long_description": "Aura AI es una aplicación innovadora que utiliza inteligencia artificial avanzada para transformar imágenes en videos verticales cautivadores. Diseñada para facilitar la creación de contenido visual atractivo, Aura AI permite a los usuarios generar videos de alta calidad a partir de imágenes estáticas, optimizados para plataformas de redes sociales como TikTok, Instagram Reels y YouTube Shorts. La aplicación ofrece una interfaz intuitiva que simplifica el proceso creativo, permitiendo a los usuarios cargar una imagen o generar una a través de descripciones de texto, y luego convertirla en un video dinámico mediante instrucciones personalizadas.",
+        "release_date": "Noviembre 2024",
+        "developer": "Aura AI",
+        "main_model": "Aura AI emplea modelos avanzados de inteligencia artificial para la generación de imágenes y videos, aunque los detalles específicos sobre los algoritmos utilizados no se han divulgado públicamente.",
+        "pricing_plans": "La aplicación está disponible de forma gratuita en Google Play Store y Apple App Store, con opciones de compras dentro de la aplicación para acceder a funciones premium.",
+        "license": "Propietaria",
+        "security_privacy": "Aura AI recopila datos del usuario, incluyendo información de contacto y contenido generado por el usuario, para mejorar la experiencia de la aplicación. La política de privacidad detalla las prácticas de manejo de datos y está disponible para consulta en las tiendas de aplicaciones correspondientes.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/aura-ai"
+        },
+        {
+          "source_url": "https://auraai.app/?via=aitoolsdirectory-com"
+        }
+      ]
+    },
+    "674": {
+      "app": {
+        "id": "674",
+        "name": "Avanty",
+        "url": "https://avanty.app/",
+        "short_description": "Extensión de Chrome impulsada por inteligencia artificial que asiste a los analistas de datos en Metabase, facilitando la generación, edición y comprensión de consultas SQL de manera más eficiente.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Generación de consultas SQL a partir de lenguaje natural, edición automatizada de consultas existentes y formateo inteligente para mejorar la legibilidad y comprensión del código.",
+        "tags": "#SQL #InteligenciaArtificial #Metabase #AnálisisDeDatos #ExtensiónDeChrome",
+        "logo_filename": "id_674_avanty",
+        "what_is": "Avanty es una extensión de Chrome potenciada por inteligencia artificial, diseñada para ayudar a los analistas de datos a escribir, modificar y comprender consultas SQL dentro de la plataforma Metabase. Actúa como un asistente inteligente que simplifica la interacción con bases de datos al convertir lenguaje natural en consultas SQL estructuradas.",
+        "purpose": "Su propósito principal es facilitar el trabajo con SQL en Metabase, permitiendo a los usuarios generar consultas a partir de lenguaje natural, optimizar código SQL existente y mejorar la comprensión de los datos sin necesidad de conocimientos avanzados en programación.",
+        "use_cases": "Analistas de datos: Agiliza la creación y modificación de consultas SQL sin escribir código manualmente.\nEquipos de negocio: Permite a usuarios sin experiencia en SQL obtener información de bases de datos mediante lenguaje natural.\nIngenieros de datos: Mejora la eficiencia en la limpieza y estructuración de consultas SQL complejas.\nEmpresas que usan Metabase: Optimiza la generación de reportes y análisis de datos dentro de la plataforma.",
+        "main_advantages": "Conversión de lenguaje natural a SQL para facilitar la generación de consultas.\nCorrección y optimización automática de consultas SQL para mejorar rendimiento y legibilidad.\nExtensión integrada en Chrome, lo que permite su uso sin salir de Metabase.\nAhorro de tiempo en la escritura y depuración de consultas SQL.\nAccesibilidad para usuarios sin experiencia en SQL, democratizando el análisis de datos.",
+        "long_description": "Avanty es una extensión de Chrome potenciada por inteligencia artificial, diseñada para asistir a analistas de datos en la plataforma Metabase. Su objetivo es simplificar la interacción con bases de datos, permitiendo a los usuarios generar, editar y comprender consultas SQL de manera más eficiente. Con Avanty, los analistas pueden convertir lenguaje natural en consultas SQL estructuradas, optimizar y corregir código SQL existente, y mejorar la legibilidad del código mediante formateo inteligente.",
+        "release_date": "No disponible",
+        "developer": "No disponible",
+        "main_model": "Avanty utiliza modelos de inteligencia artificial para procesar lenguaje natural y generar consultas SQL, aunque los detalles específicos sobre los algoritmos empleados no se han divulgado públicamente.",
+        "pricing_plans": "No disponible",
+        "license": "No disponible",
+        "security_privacy": "No disponible",
+        "integration": "Avanty se integra directamente con Metabase a través de su extensión de Chrome, facilitando la generación y edición de consultas SQL dentro de esta plataforma de análisis de datos."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.aitoolist.com/tool/avanty"
+        },
+        {
+          "source_url": "https://avanty.app/"
+        },
+        {
+          "source_url": "https://aifindy.com/directorio-en-lista/avanty"
+        },
+        {
+          "source_url": "https://deepgram.com/ai-apps/avanty\n\n"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/product/Avanty/"
+        }
+      ]
+    },
+    "699": {
+      "app": {
+        "id": "699",
+        "name": "Artbreeder",
+        "url": "https://www.artbreeder.com/",
+        "short_description": "Plataforma en línea que utiliza inteligencia artificial para permitir a los usuarios crear y explorar arte generativo mediante la combinación y modificación de imágenes existentes.​",
+        "category": "Generación de arte",
+        "main_functionality": "Permite a los usuarios combinar (\"cruzar\") imágenes y ajustar atributos específicos mediante controles deslizantes, facilitando la creación colaborativa de retratos, paisajes y otros tipos de arte.",
+        "tags": "#ArteGenerativo #IA #CombinaciónDeImágenes #CreatividadColaborativa #RetratosAI​",
+        "logo_filename": "id_699_artbreeder",
+        "what_is": "Artbreeder es una plataforma de arte generativo basada en inteligencia artificial que permite a los usuarios crear, modificar y combinar imágenes utilizando algoritmos de mezcla genética visual.",
+        "purpose": "Sirve para generar arte visual único como retratos, paisajes, personajes y más, a través de la manipulación colaborativa de imágenes, ideal para artistas, diseñadores y creadores de contenido.",
+        "use_cases": "Diseño de personajes para videojuegos o animaciones.\nExploración visual de conceptos artísticos.\nCreación de imágenes para proyectos creativos y redes sociales.\nHerramienta de inspiración para ilustradores y escritores.",
+        "main_advantages": "Interfaz intuitiva basada en control de atributos.\nAmplia biblioteca comunitaria de imágenes modificables.\nProceso colaborativo donde los usuarios pueden mezclar creaciones.\nPosibilidad de descargar imágenes en alta resolución (según el plan).",
+        "long_description": "Artbreeder es una plataforma en línea que utiliza redes generativas antagónicas (GANs) para permitir a los usuarios crear, editar y combinar imágenes de manera colaborativa. Originalmente conocida como Ganbreeder, esta herramienta facilita la exploración de espacios visuales complejos mediante la mezcla y modificación de imágenes existentes. Los usuarios pueden ajustar atributos específicos de las imágenes, como edad, género o colores, utilizando controles deslizantes intuitivos, lo que resulta en la generación de retratos, paisajes y otros tipos de arte visual. ​",
+        "release_date": "2019",
+        "developer": "Joel Simon y Studio Morphogen.",
+        "main_model": "Artbreeder utiliza modelos de redes generativas antagónicas (GANs), específicamente BigGAN y StyleGAN, para la generación y edición de imágenes. ",
+        "pricing_plans": "Artbreeder ofrece una versión gratuita con funcionalidades básicas y 10 créditos mensuales. Para acceder a características avanzadas y mayor cantidad de créditos, dispone de planes de suscripción que van desde $9 hasta $40 USD mensuales, incluyendo opciones como Starter, Advanced y Champion. ​",
+        "license": "Propietaria",
+        "security_privacy": "Artbreeder se compromete a proteger la privacidad de sus usuarios y la propiedad intelectual de las imágenes generadas. La plataforma ofrece controles de privacidad que permiten a los usuarios gestionar la visibilidad y uso de sus creaciones.",
+        "integration": "Actualmente, no se dispone de información sobre integraciones directas de Artbreeder con otras herramientas o plataformas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.artbreeder.com/"
+        },
+        {
+          "source_url": "https://forosdeia.com/directorio-ia/artbreeder.84/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://listaia.com/artbreeder/?utm_source=chatgpt.com"
+        }
+      ]
+    },
+    "742": {
+      "app": {
+        "id": "742",
+        "name": "Arold",
+        "url": "https://arold.app/",
+        "short_description": "Usa la IA para responder a los huéspedes dentro de tu bandeja de entrada de Airbnb con un solo toque.",
+        "category": "Automatización",
+        "main_functionality": "Generación de respuestas automáticas y personalizadas a mensajes de huéspedes en Airbnb, aprendiendo de las interacciones previas para mejorar la comunicación.",
+        "tags": "#AsistenteVirtual #Airbnb #Hospitalidad #AutomatizaciónDeRespuestas #IA​\n\n",
+        "logo_filename": "id_742_arold",
+        "what_is": "Arold es una aplicación diseñada para anfitriones de Airbnb que utiliza inteligencia artificial para generar respuestas automáticas y personalizadas a las consultas de los huéspedes, integrándose directamente en la bandeja de entrada de Airbnb.",
+        "purpose": "Sirve para agilizar la comunicación con los huéspedes, proporcionando respuestas rápidas y coherentes que pueden ser revisadas o editadas antes de enviarse, mejorando así la eficiencia y la experiencia del cliente.",
+        "use_cases": "Anfitriones que gestionan múltiples propiedades y necesitan automatizar la comunicación con los huéspedes.​\n\nUsuarios que desean mantener un tono profesional y coherente en sus respuestas sin dedicar tiempo adicional.​\n\nSituaciones en las que se requiere una respuesta rápida a preguntas frecuentes o repetitivas de los huéspedes.",
+        "main_advantages": "Ahorro de tiempo al automatizar respuestas comunes.​\n\nPersonalización de respuestas basadas en el contexto y la información específica del alojamiento.​\n\nMejora en la satisfacción del huésped al proporcionar respuestas rápidas y precisas.",
+        "long_description": "Arold es una herramienta diseñada para mejorar la comunicación entre anfitriones de Airbnb y sus huéspedes mediante el uso de inteligencia artificial. La aplicación se integra directamente en la bandeja de entrada de Airbnb, proporcionando sugerencias de respuestas automáticas que pueden ser personalizadas y enviadas con un solo clic. Arold aprende de las interacciones previas y permite a los usuarios ajustar las respuestas según las necesidades específicas de su alojamiento, lo que resulta en una comunicación más eficiente y una mejor experiencia para los huéspedes.",
+        "release_date": "No disponible",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "La aplicación está disponible para descarga gratuita.",
+        "license": "Propietario",
+        "security_privacy": "No disponible",
+        "integration": "Se integra directamente con la bandeja de entrada de Airbnb, permitiendo una gestión centralizada de la comunicación con los huéspedes."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://arold.app/?utm_source=superhuman&utm_medium=referral&utm_campaign=cerebras-unveils-faster-way-to-deploy-ai"
+        },
+        {
+          "source_url": "https://play.google.com/store/apps/details?hl=en_US&id=app.arold.android"
+        },
+        {
+          "source_url": "https://apps.apple.com/us/app/arnold-sports-festival-25/id1672882727"
+        }
+      ]
+    },
+    "765": {
+      "app": {
+        "id": "765",
+        "name": "Autonomy",
+        "url": "https://autonomyai.io/",
+        "short_description": "Automatice el desarrollo de software con agentes de IA sensibles al contexto que gestionan las tareas de front-end y entregan código listo para la producción.",
+        "category": "Codificación",
+        "main_functionality": "Generación de código frontend de calidad de producción mediante agentes de IA que comprenden el contexto del proyecto, integrándose en el flujo de trabajo del equipo y adaptándose a los estándares y bibliotecas existentes.",
+        "tags": "#AIFrontendDevelopment #CodeGeneration #AgenticAI #ProductivityBoost #SoftwareDevelopment​",
+        "logo_filename": "id_765_autonomy",
+        "what_is": "Autonomy AI es una plataforma que utiliza inteligencia artificial para integrarse en el proceso de desarrollo frontend, actuando como un miembro más del equipo al generar código de alta calidad que se adapta a las necesidades y estándares específicos de cada proyecto.",
+        "purpose": "Sirve para optimizar y acelerar el desarrollo frontend, reduciendo el tiempo dedicado a tareas repetitivas y permitiendo a los desarrolladores centrarse en aspectos más estratégicos del proyecto.​",
+        "use_cases": "Equipos de desarrollo que buscan acelerar la entrega de interfaces de usuario sin comprometer la calidad.\n\nProyectos que requieren integración rápida de diseños desde herramientas como Figma al código funcional.\n\nOrganizaciones que desean mantener coherencia en el código y reducir la deuda técnica mediante generación automatizada de componentes reutilizables.",
+        "main_advantages": "Integración directa en el código y flujos de trabajo existentes, comprendiendo bibliotecas y configuraciones específicas.\n\nGeneración de código limpio y reutilizable, alineado con los estándares del equipo.\n\nReducción significativa del tiempo de desarrollo y aumento de la productividad del equipo.\n\nCapacidad para adaptarse y aprender de la retroalimentación, mejorando continuamente su desempeño.",
+        "long_description": "Autonomy AI es una solución de inteligencia artificial diseñada para integrarse en el proceso de desarrollo frontend, actuando como un miembro más del equipo. Utiliza su motor ACE (Agentic Contextual Engine) para comprender el contexto del proyecto, incluyendo el código existente, bibliotecas utilizadas y estándares de la organización. Esto le permite generar código de alta calidad que se adapta perfectamente a las necesidades específicas del equipo. Además, Autonomy AI se integra con herramientas de diseño como Figma, permitiendo una transición fluida del diseño al código funcional. Su capacidad para aprender y adaptarse a la retroalimentación garantiza una mejora continua en su desempeño, contribuyendo a una mayor eficiencia y coherencia en el desarrollo de interfaces de usuario.",
+        "release_date": "No disponible",
+        "developer": "AutonomyAI",
+        "main_model": "ACE (Agentic Contextual Engine)​",
+        "pricing_plans": "No disponible​",
+        "license": "Propietaria",
+        "security_privacy": "Autonomy AI implementa un marco de seguridad y cumplimiento que garantiza la integridad, confidencialidad y disponibilidad de los datos. Se están tomando medidas para cumplir con el GDPR, incluyendo la minimización de datos, cifrado seguro y controles de acceso estrictos. Además, se están realizando esfuerzos para obtener la certificación SOC 2 Tipo 2 y ofrecer opciones de residencia de datos para clientes empresariales.​",
+        "integration": "Autonomy AI se integra con herramientas de diseño como Figma y se adapta a las bibliotecas y configuraciones específicas del proyecto, permitiendo una transición fluida del diseño al código funcional."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://autonomyai.io/?utm_source=superhuman&utm_medium=referral&utm_campaign=chinese-llms-close-the-distance"
+        }
+      ]
+    },
+    "772": {
+      "app": {
+        "id": "772",
+        "name": "Askplexbot",
+        "url": "https://t.me/askplexbot",
+        "short_description": "El nuevo canal de Telegram de Perplexity te permite preguntar lo que quieras tanto en chats individuales como grupales.",
+        "category": "Chat",
+        "main_functionality": "Proporcionar respuestas fundamentadas en fuentes confiables, generación de texto, traducción, explicación de conceptos y asistencia en programación, todo dentro de la plataforma de mensajería Telegram.",
+        "tags": "#IAConversacional #AsistenteVirtual #ProcesamientoLenguajeNatural #TelegramBot​",
+        "logo_filename": "id_772_askplexbot",
+        "what_is": "Askplexbot es un bot de inteligencia artificial integrado en Telegram que permite a los usuarios realizar consultas y obtener respuestas detalladas y fundamentadas en tiempo real. Desarrollado por Perplexity AI, este asistente se destaca por su capacidad para interactuar tanto en chats individuales como en grupos, facilitando el acceso a información precisa directamente desde la aplicación de mensajería.",
+        "purpose": "Su propósito principal es ofrecer a los usuarios una herramienta de búsqueda y asistencia conversacional dentro de Telegram, permitiendo obtener información, realizar traducciones, generar textos y recibir ayuda en tareas de programación sin necesidad de salir de la plataforma.",
+        "use_cases": "Estudiantes que requieren explicaciones detalladas sobre conceptos académicos.\n\nProfesionales que necesitan asistencia rápida en la generación de contenido o traducciones.\n\nDesarrolladores que buscan ayuda en la escritura de código o comprensión de algoritmos.\n\nGrupos de discusión que desean validar información o enriquecer conversaciones con datos precisos.",
+        "main_advantages": "Integración directa en Telegram, eliminando la necesidad de cambiar de aplicación para realizar consultas.\n\nCapacidad para proporcionar respuestas fundamentadas con enlaces a fuentes confiables.\n\nVersatilidad en funciones, abarcando desde generación de texto hasta asistencia en programación.\n\nFacilidad de uso tanto en chats individuales como en grupos, adaptándose a diversas necesidades de los usuarios.",
+        "long_description": "Askplexbot es una herramienta de inteligencia artificial desarrollada por Perplexity AI, diseñada para integrarse en la plataforma de mensajería Telegram. Su funcionalidad abarca la provisión de respuestas detalladas y fundamentadas, generación de contenido textual, traducción de idiomas, explicación de conceptos complejos y asistencia en tareas de programación. Al operar dentro de Telegram, ofrece a los usuarios la conveniencia de acceder a estas capacidades sin necesidad de cambiar de aplicación, facilitando tanto consultas individuales como colaborativas en grupos.",
+        "release_date": "Abril 2025​",
+        "developer": "Perplexity AI\n\n",
+        "main_model": "No disponible. La información específica sobre el modelo de inteligencia artificial utilizado por Askplexbot no ha sido divulgada públicamente.",
+        "pricing_plans": "Gratuito. Askplexbot está disponible para todos los usuarios de Telegram sin costo alguno.",
+        "license": "Propietario. El software es de propiedad de Perplexity AI y no es de código abierto.",
+        "security_privacy": "No disponible. No se ha encontrado información específica sobre las políticas de seguridad y privacidad implementadas en Askplexbot.",
+        "integration": "Actualmente, Askplexbot está diseñado para operar exclusivamente dentro de la plataforma Telegram y no se ha reportado integración con otras herramientas o servicios externos."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://t.me/askplexbot?utm_source=superhuman&utm_medium=referral&utm_campaign=chatgpt-could-get-a-social-feed"
+        },
+        {
+          "source_url": "https://ukrtecho.com/en/news/telegrams-ai-revolution-unveiled-meet-the-perplexity-search-bot-more/"
+        }
+      ]
+    },
+    "956": {
+      "app": {
+        "id": "956",
+        "name": "Arize AI",
+        "url": "https://github.com/Arize-ai/phoenix",
+        "short_description": "Herramienta de código abierto Phoenix para la experimentación, evaluación y resolución de problemas de agentes de IA y aplicaciones LLM. ",
+        "category": "Detección",
+        "main_functionality": "Trazado de llamadas y pasos de LLM con OpenTelemetry.\n\nEvaluación automática de respuestas y retrieval usando LLMs.\n\nGestión de datasets y experimentos para comparar versiones de prompts y modelos.\n\nPlayground de prompts para ajustar y comparar en tiempo real. ",
+        "tags": "#AIObservability #LLMEvaluation #Tracing\n#PromptEngineering #OpenSource",
+        "logo_filename": "id_956_arizeaiphoenix",
+        "what_is": "Plataforma open‑source para experimentación, evaluación y troubleshooting de aplicaciones de LLM, independiente de proveedor o framework, con componentes de trazado, evals, datasets y playground.",
+        "purpose": "Visualizar el flujo interno de sus LLM (trazas y spans).\n\nEjecutar evaluaciones automáticas (relevancia, toxicidad, RAG).\n\nGestionar y versionar datasets de ejemplos para pruebas y fine‑tuning.\n\nProbar y comparar prompts y modelos en un entorno interactivo. ",
+        "use_cases": "Debugging de pipelines LLM: identificar en qué paso falla la recuperación o el modelo.\n\nBenchmark de respuestas: comparar distintas versiones de prompts o proveedores LLM.\n\nOptimización de RAG: analizar y mejorar procesos de retrieval.\n\nExperimentación continua: llevar un historial de cambios en prompts, modelos y parámetros para validar mejoras. ",
+        "main_advantages": "Vendor agnostic: funciona con OpenAI, Bedrock, Mistral, VertexAI, etc.\n\nOpen Source: sin costo de licencia, con comunidad activa (5.7 k stars, 422 forks).\n\nCompleto: abarca tracing, evals, datasets y playground en un único paquete.\n\nFlexible despliegue: corre localmente, en contenedor Docker/K8s, o en la nube.",
+        "long_description": "Phoenix es una plataforma open-source de tipo platform-as-code que permite trazar, evaluar y gestionar experimentos con LLMs de forma agnóstica al proveedor. Ofrece instrumentación con OTEL, evaluación de tareas como RAG y toxicidad, versionado de datasets, pruebas reproducibles y un playground para prompts. Incluye SDKs en Python y TypeScript, y se integra con múltiples herramientas del ecosistema como LangChain, OpenAI y VertexAI.",
+        "release_date": "Mayo 2025",
+        "developer": "Arize AI, Inc. – empresa especializada en observabilidad y evaluación de IA.",
+        "main_model": "No aplica: es una plataforma de observabilidad y evaluación, no un modelo de IA específico. No disponible.",
+        "pricing_plans": "Como proyecto open‑source, el código es gratuito. Arize AI ofrece servicios empresariales en su plataforma hosted (Arize AX) con planes de pago, pero Phoenix en sí no tiene costo de licencia.",
+        "license": "Elastic License 2.0 (ELv2).",
+        "security_privacy": "Al ser open‑source, la seguridad depende de la configuración del despliegue (local, contenedor o nube).\n\nNo recopila datos externos por sí mismo; toda la telemetría queda en tu infraestructura o tu instancia.\n\nNo hay políticas de privacidad propias: se recomienda revisar prácticas de OpenTelemetry y tu entorno de despliegue.",
+        "integration": "Frameworks y librerías: LlamaIndex, LangChain, Haystack, DSPy, smolagents.\n\nProveedores de LLM: OpenAI, AWS Bedrock, MistralAI, VertexAI, LiteLLM, Google GenAI, etc.\n\nDespliegue: Docker, Kubernetes, Jupyter Notebooks, local.\n\nSDKs: Python client, TypeScript client, Phoenix Evals, Phoenix Otel. "
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://github.com/Arize-ai/phoenix?utm_source=superhuman&utm_medium=referral&utm_campaign=gpt-4-1-is-the-new-4o"
+        },
+        {
+          "source_url": "https://docs.arize.com/phoenix"
+        },
+        {
+          "source_url": "https://langfuse.com/faq/all/best-phoenix-arize-alternatives"
+        },
+        {
+          "source_url": "https://docs.rafay.co/aiml/mlops-kubeflow/user/model_monitoring/phoenix_arize/"
+        }
+      ]
+    },
+    "1004": {
+      "app": {
+        "id": "1004",
+        "name": "AssistLoop",
+        "url": "https://assistloop.ai/",
+        "short_description": "Cree un chatbot de IA personalizado para su sitio web en minutos.",
+        "category": "Automatización",
+        "main_functionality": "Proporcionar soporte al cliente mediante agentes de inteligencia artificial personalizados que responden consultas en tiempo real, entrenados con la información específica de cada empresa.",
+        "tags": "#ChatbotIA #SoporteAlCliente #Automatización #AgenteVirtual #IAConversacional",
+        "logo_filename": "id_1004_assistloopai",
+        "what_is": "AssistLoop es una plataforma que permite a las empresas crear agentes de inteligencia artificial personalizados para brindar soporte al cliente. Estos agentes pueden integrarse fácilmente en sitios web y están diseñados para responder consultas utilizando la información específica de cada negocio.",
+        "purpose": "Su propósito es automatizar el soporte al cliente, proporcionando respuestas instantáneas y precisas a las consultas de los usuarios, reduciendo la carga de trabajo del equipo de soporte y mejorando la experiencia del cliente.",
+        "use_cases": "Empresas que desean ofrecer soporte al cliente 24/7 sin aumentar su equipo de atención.\n\nNegocios que buscan integrar un chatbot personalizado en su sitio web para responder preguntas frecuentes.\n\nOrganizaciones que quieren entrenar un agente de IA con su propia base de conocimientos, documentos o enlaces web.",
+        "main_advantages": "Fácil integración en sitios web mediante una sola línea de código.\n\nPersonalización del aspecto del widget para alinearse con la marca de la empresa.\n\nCapacidad de entrenar al agente de IA con datos específicos del negocio, como documentos y enlaces.\n\nDisponibilidad de soporte al cliente automatizado las 24 horas del día.\n\nPlanes de precios flexibles, incluyendo una opción gratuita para proyectos pequeños.",
+        "long_description": "AssistLoop es una solución de atención al cliente basada en inteligencia artificial que permite a las empresas crear agentes personalizados para interactuar con los usuarios en tiempo real. La plataforma ofrece una integración sencilla en sitios web mediante una sola línea de código y permite personalizar el aspecto del widget para que coincida con la marca de la empresa. Los agentes pueden ser entrenados con datos específicos del negocio, como documentos, enlaces web y bases de conocimiento, lo que garantiza respuestas precisas y contextuales. Además, AssistLoop proporciona herramientas de análisis y revisión de conversaciones para mejorar continuamente el rendimiento del agente.",
+        "release_date": "2025",
+        "developer": "AssistLoop",
+        "main_model": "No disponible",
+        "pricing_plans": "Free: $0/mes – 150 créditos de mensajes/mes, 1 agente de IA, personalización del widget, soporte prioritario, 1MB de documentos de entrenamiento, 10 enlaces por agente.\n\nBasic: $29/mes – 3,000 créditos de mensajes/mes, 1 agente de IA, personalización del widget, soporte prioritario, 50MB de documentos de entrenamiento, 50 enlaces por agente, recopilación de leads desde el widget de chat, eliminación de la marca \"Powered by\".\n\nPro: $130/mes – 15,000 créditos de mensajes/mes, 2 agentes de IA, personalización del widget, soporte prioritario, 50MB de documentos de entrenamiento, enlaces ilimitados por agente, recopilación de leads desde el widget de chat, eliminación de la marca \"Powered by\".\n\nBusiness: $390/mes – 50,000 créditos de mensajes, 5 agentes de IA, personalización del widget, soporte prioritario, 50MB de documentos de entrenamiento, enlaces ilimitados por agente, recopilación de leads desde el widget de chat, eliminación de la marca \"Powered by\".",
+        "license": "Propietaria",
+        "security_privacy": "El plugin de AssistLoop para WordPress se conecta a servidores externos de AssistLoop para proporcionar funcionalidad de chatbot de IA. Se transmiten datos como el ID del agente, mensajes de los visitantes e interacciones de chat. Se recomienda revisar la política de privacidad y los términos de servicio para obtener información detallada sobre el manejo de datos.",
+        "integration": "AssistLoop ofrece integraciones con plataformas como WordPress, Webflow, Framer, Wix y Bubble. Además, están en desarrollo integraciones con canales de comunicación como WhatsApp, Telegram, Instagram, Messenger, Slack, Discord, correo electrónico y SMS a través de Twilio."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://assistloop.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=the-ai-workforce-has-arrived"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/product/AssistLoop.ai"
+        },
+        {
+          "source_url": "https://www.f6s.com/company/assistloop1"
+        }
+      ]
+    },
+    "1045": {
+      "app": {
+        "id": "1045",
+        "name": "AvatarTalk",
+        "url": "https://avatartalk.ai/",
+        "short_description": "La a API de voz parlante más asequible y confiable que transmite avatares realistas en 17 idiomas y cobra solo por los segundos que usas. ",
+        "category": "Chat",
+        "main_functionality": "Crear videos con avatares que hablan (lip‑sync) a partir de texto, en tiempo real con GPT‑4 y múltiples idiomas.",
+        "tags": "#AvatarAI #Chatbot #VideoRealTime #TTS #Multilingüe",
+        "logo_filename": "id_1045_avatartalk",
+        "what_is": "Es una plataforma web/API que permite integrar avatares realistas que responden con video usando texto o audio como entrada. Basada en GPT‑4 para respuestas conversacionales. ",
+        "purpose": "Para generar clips de video personalizados y dinámicos que representen un agente conversacional o asistente virtual, útil en chatbots, atención al cliente, marketing y tutoriales. ",
+        "use_cases": "Asistentes virtuales con video en tiempo real\n\nOnboarding personalizado y respuestas FAQ visuales\n\nMarketing y demostraciones dinámicas\n\nContenido multilingüe con sincronización labial precisa ",
+        "main_advantages": "Generación de video en menos de 2 s (tiempo de retardo mínimo). \n\nNo requiere suscripción mensual, solo se paga por segundos utilizados. \n\nSoporta 17 idiomas, ideal para localización instantánea.",
+        "long_description": "AvatarTalk ofrece un único endpoint API REST para generar videos con avatares realistas que hablan. El desarrollador envía un texto o audio, elige avatar, idioma y emoción, y recibe un video sincronizado. El servicio funciona en tiempo real y está basado en GPT‑4. Permite integrar dentro de minutos en proyectos web o móviles.",
+        "release_date": "2025",
+        "developer": "No disponible",
+        "main_model": "Usa GPT‑4 para generación de contenido conversacional y lip‑sync sincronizado para video. → GPT-4.",
+        "pricing_plans": "Registro gratuito con 600 segundos de video gratis (10 min).\n\nLuego se paga por segundo generado sin suscripción fija.",
+        "license": "Propietaria.",
+        "security_privacy": "No disponible",
+        "integration": "Se integra mediante una sola llamada API REST; incluye SDKs, código de ejemplo, demostraciones en vivo y compatibilidad para integrarse en apps, chatbots o productos web rápidamente."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://avatartalk.ai"
+        },
+        {
+          "source_url": "https://www.talkingavatar.ai/"
+        },
+        {
+          "source_url": "https://www.revid.ai/tools/talking-avatar"
+        }
+      ]
+    },
+    "1097": {
+      "app": {
+        "id": "1097",
+        "name": "Asteroid",
+        "url": "https://asteroid.ai/",
+        "short_description": "Automatice las tareas del navegador en minutos, sin necesidad de conocimientos técnicos.",
+        "category": "Automatización",
+        "main_functionality": "Creación visual de agentes que automatizan tareas de navegador complejas (como formularios, portales sin APIs, extracción de datos), supervisables y desplegables vía API.",
+        "tags": "#AutomatizaciónIA  #AgentesDeNavegador\n#NoCode #IAConSupervisión\n#EnterpriseAutomation",
+        "logo_filename": "id_1097_asteroid",
+        "what_is": "Es una plataforma visual que permite construir, supervisar y escalar agentes inteligentes que automatizan tareas en navegadores en sectores regulados como seguros, salud y cadena de suministro.",
+        "purpose": "Su propósito es eliminar el trabajo manual repetitivo en sistemas sin APIs, como cotizaciones en portales de seguros, ingreso de datos clínicos o reporte en Google Sheets, mejorando eficiencia y reduciendo costos operativos.",
+        "use_cases": "Brokers de seguros automatizando cotizaciones en portales legacy.\n\nAdministradores de salud ingresando datos de pacientes y actualizando sistemas EHR.\n\nAutomatización de reportes (ej. rellenar Google Sheets desde portales).\n\nIntegración de agentes de voz con sistemas backend sin APIs.",
+        "main_advantages": "Accesible para usuarios no técnicos (no se requiere programación para construir agentes).\n\nSupervisión en tiempo real y control humano (“human‑in‑the‑loop”).\n\nGuardrails inteligentes que previenen acciones riesgosas (p. ej. “no hacer clic en esto”).\n\nAhorro significativo de tiempo y costos operativos (miles de horas al año).\n\nCertificaciones de seguridad relevantes (HIPAA, SOC 2 en proceso).",
+        "long_description": "Asteroid facilita la creación y despliegue de agentes visuales que operan dentro del navegador para automatizar tareas complejas como llenado de formularios, extracción de datos y flujos legacy. Dispone de constructor visual basado en grafo, soporte para variables y salidas estructuradas, manejo encriptado de credenciales, lógica con Playwright y guardrails robustos. Se puede supervisar en vivo con chat, desplegar mediante API y escalar con seguridad corporativa.",
+        "release_date": "2024",
+        "developer": "Entropy Systems, Inc. — equipo fundado por David Mlcoch (CEO) y Joe Hewett (CTO), graduados de YC.",
+        "main_model": "No disponible",
+        "pricing_plans": "Individual: US$30/mes; incluye constructor de agentes, 300 minutos de agente, acceso API y supervisión.\n\nStartup: US$300/mes; 6.000 minutos, colaboración en equipo, características avanzadas, soporte prioritario.\n\nPro: US$3.000/mes; hasta 3 agentes personalizados con ingeniería dedicada, 120.000 minutos y SLAs.\n\nEnterprise: Plan personalizado con descuentos, integraciones, soporte y onboarding completo.",
+        "license": "Propietaria.",
+        "security_privacy": "Cumple con HIPAA y está en proceso de certificación SOC 2 Tipo II. Ha superado pruebas de penetración de terceros y gestiona credenciales de manera encriptada.",
+        "integration": "Permite despliegue vía API, integración con agentes de voz, exportación de reportes a Google Sheets, y uso de LLMs y herramientas de terceros como OpenAI y Hugging Face."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://asteroid.ai/"
+        },
+        {
+          "source_url": "https://www.ycombinator.com/companies/asteroid"
+        },
+        {
+          "source_url": "https://www.saasworthy.com/product/asteroid-ai"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/asteroid-3"
+        },
+        {
+          "source_url": "https://aipure.ai/products/asteroid-3"
+        },
+        {
+          "source_url": "https://asteroid.ai/privacy"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/compare/Asteroid-AI-vs-Writer/"
+        }
+      ]
+    },
+    "1102": {
+      "app": {
+        "id": "1102",
+        "name": "Async",
+        "url": "https://async.ai/?",
+        "short_description": "texto a voz de alta calidad para desarrolladores.",
+        "category": "Audio",
+        "main_functionality": "Generación de voz de alta fidelidad a través de API para textos, incluyendo clonación instantánea de voz, baja latencia (<200 ms), multilingüe y variados estilos.",
+        "tags": "#TTS #TextToSpeech #VoiceCloning #API #AudioAI #Multilingüe",
+        "logo_filename": "id_1102_async",
+        "what_is": "Una plataforma que ofrece APIs de texto a voz de calidad profesional, con voces realistas, emocionadas y multilingües, accesibles para desarrolladores desde prototipos hasta implementaciones empresariales.",
+        "purpose": "Permite a los desarrolladores incorporar capacidades avanzadas de generación de voz en sus aplicaciones, como lectura de texto, asistentes virtuales, narraciones automatizadas, clonación de voz, soporte multilingüe y más.",
+        "use_cases": "Creación de narraciones o audiolibros automatizados.\n\nAsistentes de voz o chatbots con tono humano.\n\nClonación instantánea de voz para personalización.\n\nImplementación en kioscos accesibles, IVR o recordatorios hablados.",
+        "main_advantages": "Calidad premium de voz (broadcast-quality).\n\nBaja latencia (<200 ms).\n\nClonación de voz desde solo 3 segundos de audio.\n\nAPI adaptable desde proyectos individuales a escala empresarial.\n\nPrecios transparentes y diseñados para desarrolladores.",
+        "long_description": "Async ofrece una API sencilla de implementar para generar voz a partir de texto con gran naturalidad y precisión emocional. Con modelos como asyncFlow v1.0, ofrece expresividad en ritmo, entonación y soporte multilingüe, garantizando experiencia auditiva auténtica y envolvente.",
+        "release_date": "Mayo 2025",
+        "developer": "Creado por el equipo detrás de Podcastle AI, quienes han decidido compartir su tecnología de voz con desarrolladores.",
+        "main_model": "Utiliza el modelo asyncFlow v1.0 como su solución de voz principal.",
+        "pricing_plans": "Plan Free-forever con características básicas.\n\nPlan Pay as you go desde USD $1 por hora, con clonación ilimitada, streaming TTS y soporte técnico.\n\nPlan Custom para grandes volúmenes, con SLA dedicados, soporte prioritario y acceso a nuevos modelos.",
+        "license": "No disponible",
+        "security_privacy": "No disponible",
+        "integration": "Funciona mediante una API REST, facilitando su integración en aplicaciones web, móviles o sistemas existentes mediante código (ej. Python, JavaScript, cURL)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.saasworthy.com/product/async-ai"
+        },
+        {
+          "source_url": "https://async.ai/"
+        },
+        {
+          "source_url": "https://medium.com/async-ai"
+        },
+        {
+          "source_url": "https://www.asyncgts.com/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/async-premium-voice-ai-api"
+        }
+      ]
+    },
+    "1236": {
+      "app": {
+        "id": "1236",
+        "name": "Articos",
+        "url": "https://www.articos.com/",
+        "short_description": "Convierte tus ideas, páginas de destino y mensajes en conversaciones estructuradas para la audiencia.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Transformación automática de contenido en pruebas conversacionales con usuarios para extraer retroalimentación clara, sin necesidad de encuestas, programación o reclutamiento.",
+        "tags": "#InteligenciaDeNegocios #UserInsights #ConversacionesAI #ValidaciónDeIdeas #UXTesting",
+        "logo_filename": "id_1236_articos",
+        "what_is": "Articos es una herramienta de inteligencia artificial que transforma contenido (como ideas, páginas de aterrizaje o mensajes) en conversaciones automatizadas y estructuradas con audiencias. Su enfoque está en reemplazar métodos tradicionales de validación como encuestas o entrevistas, permitiendo obtener retroalimentación clara de forma rápida y sin intermediarios. La plataforma convierte el texto en simulaciones conversacionales que recopilan respuestas de usuarios, facilitando el análisis de percepciones y la toma de decisiones con datos reales.",
+        "purpose": "Sirve para validar ideas, mensajes o conceptos directamente con audiencias objetivo sin necesidad de realizar encuestas tradicionales, agendar entrevistas o contratar servicios de reclutamiento. El propósito es que empresas, equipos de producto o marketing puedan obtener insights en minutos, automatizando pruebas y evaluaciones de contenido antes de lanzar al mercado.",
+        "use_cases": "Validación temprana de ideas de negocio o productos digitales.\n\nPruebas rápidas de mensajes publicitarios o copywriting.\n\nAnálisis de landing pages para mejorar conversiones.\n\nEvaluación de UX sin necesidad de investigación cualitativa manual.\n\nAceleración de ciclos de toma de decisiones para startups o equipos ágiles.",
+        "main_advantages": "Elimina la necesidad de encuestas, entrevistas o sesiones en vivo.\n\nOfrece resultados inmediatos gracias a pruebas automáticas con usuarios reales o simulados.\n\nConvierte cualquier contenido en una conversación estructurada en segundos.\n\nAyuda a entender cómo percibe la audiencia un mensaje, producto o interfaz.\n\nNo requiere conocimientos técnicos para su uso.\n\nInterfaz moderna e intuitiva.\n\nIdeal para marketing, UX, producto e innovación.\n\nReduce significativamente tiempos y costos en validación de ideas.",
+        "long_description": "Articos es una plataforma de inteligencia artificial diseñada para transformar ideas, landing pages o mensajes en conversaciones automatizadas que permiten obtener retroalimentación estructurada de audiencias reales o simuladas. A diferencia de encuestas tradicionales o entrevistas, Articos agiliza el proceso de validación y descubrimiento de insights, convirtiendo cualquier contenido en una simulación conversacional desde donde se pueden recolectar datos clave en cuestión de minutos. La herramienta permite visualizar cómo interpreta el público los mensajes presentados, ayudando a tomar decisiones con mayor claridad, rapidez y menor costo. Está orientada a equipos de producto, diseño, UX, marketing y startups que necesitan validar conceptos de manera ágil y sin depender de procesos de investigación largos o costosos.",
+        "release_date": "2023",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "La plataforma se encuentra en fase beta.\n\nOpción de comenzar gratis (\"Start Free\").\n\nOfrece un plan de pago anticipado con descuento Early Bird del 30%.\n\nEl precio regular o estructura de planes no está detallado públicamente.",
+        "license": "Propietaria.",
+        "security_privacy": "Recoge datos como identificadores de dispositivo, cookies, comportamiento del usuario, dirección IP y geolocalización.\n\nUtiliza estos datos para personalizar la experiencia, realizar análisis y mejorar el producto.\n\nInforma sobre almacenamiento y uso seguro de datos, aunque no especifica si se utilizan los datos de entrada para entrenamiento adicional.\n\nCumple con requerimientos generales de privacidad, aunque no menciona certificaciones específicas (como GDPR o SOC2).",
+        "integration": "Actualmente no se indican integraciones externas.\n\nLa plataforma funciona de forma autónoma dentro de su propio entorno web.\n\nNo se menciona API pública ni conexión directa con CRM, herramientas de marketing o suites de análisis."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.articos.com/"
+        },
+        {
+          "source_url": "https://www.articos.com/blog/"
+        },
+        {
+          "source_url": "https://www.articos.com/privacy-policy"
+        }
+      ]
+    },
+    "1281": {
+      "app": {
+        "id": "1281",
+        "name": "Atoms.dev",
+        "url": "https://atoms.dev/",
+        "short_description": "Convertir ideas en productos que se venden.",
+        "category": "Codificación",
+        "main_functionality": "Entorno/plataforma en la nube para trabajar con proyectos (incluye edición de código, gestión de proyectos, almacenamiento y opciones de despliegue), con límites por plan basados en créditos y recursos.",
+        "tags": "#Codificación #CloudIDE #DevTools #Hosting #Productividad #Proyectos",
+        "logo_filename": "id_1281_atomsdev",
+        "what_is": "Es una plataforma (Servicios) de Atoms para gestionar proyectos en la nube, con funcionalidades mostradas en planes como edición de código, proyectos privados, descarga de proyectos, dominio personalizado y opciones tipo Atoms Cloud/Atoms Production Cloud.",
+        "purpose": "Para crear, editar, alojar y administrar proyectos en un entorno cloud, habilitando colaboración/compartición y, según el plan, privacidad, descarga, mayor almacenamiento, recursos y despliegue en entornos de producción.",
+        "use_cases": "Prototipar y mantener proyectos en la nube (Atoms Cloud).\n\nEditar código desde el navegador y gestionar versiones/archivos del proyecto.\n\nCompartir proyectos sin límites (según plan).\n\nConfigurar proyectos privados y descargar proyectos (Pro/Max).\n\nPublicar con dominio personalizado y usar “Production Cloud” (Pro/Max).",
+        "main_advantages": "Plan gratuito para comenzar y escalar por créditos/recursos.\n\nCapacidades orientadas a flujo de desarrollo cloud: edición de código, almacenamiento, proyectos privados, descarga y despliegue.\n\nControles de privacidad y derechos del usuario descritos en su política (acceso, eliminación, corrección, portabilidad, etc., según jurisdicción).",
+        "long_description": "Atoms.dev (MetaGPT LLC) ofrece “Services” para trabajar con proyectos en la nube mediante un modelo por créditos y recursos. En la página de precios se muestran planes con asignación mensual de créditos, créditos diarios, espacio en disco y funciones como compartir proyectos, crear proyectos privados, descargar proyectos, eliminar insignia, editar código, créditos “reportados/rollover”, proyectos “Atoms Cloud” (incluyendo ilimitados en planes superiores), “Atoms Production Cloud” y dominio personalizado; el plan Max añade “2x recursos informáticos (versus Pro)” y un “Modo carrera”. La política de privacidad detalla que recopila datos de cuenta (usuario y email), pagos (tarjeta y dirección de facturación), comunicaciones (contenido que el usuario publica/envía/recibe/compartе, archivos y links), datos de uso (funciones usadas, enlaces clicados, metadatos de adjuntos, patrones de interacción), datos del dispositivo/conexión (tipo de dispositivo, SO, navegador, ID del dispositivo, IP, registros de fallos) y geolocalización aproximada (p. ej., por IP), además de cookies (de sesión y persistentes).",
+        "release_date": "2024",
+        "developer": "MetaGPT LLC (Atoms).",
+        "main_model": "No disponible",
+        "pricing_plans": "Free: $0/mes; “25 créditos/mes”; “15 créditos diarios (hasta 25/mes)”; 2GB espacio en disco; compartir proyectos sin límites; 2 proyectos de Atoms Cloud.\n\nPro: $15.8/mes (aparece $20 tachado); “100 créditos/mes”; “15 créditos diarios (hasta 25/mes)”; 10GB espacio en disco; proyectos privados; descargar proyectos; eliminar insignia Atoms; editar código; créditos reportados/rollover; proyectos Atoms Cloud ilimitados; Atoms Production Cloud; dominio personalizado.\n\nMax (Recomendado): $79/mes (aparece $100 tachado); “500 créditos/mes”; “15 créditos diarios (hasta 25/mes)”; 100GB espacio en disco; proyectos privados; descargar proyectos; eliminar insignia; editar código; créditos reportados/rollover; proyectos Atoms Cloud ilimitados; Atoms Production Cloud; 2x recursos informáticos (vs Pro); “Modo carrera”; dominio personalizado.",
+        "license": "Propietaria (SaaS).",
+        "security_privacy": "La política establece consentimiento por uso, describe categorías de datos recopilados (cuenta, pago, comunicaciones/contenido dentro del producto, uso, dispositivo/conexión, geolocalización aproximada y cookies), y permite obtener información de otras fuentes (usuarios, partners, terceros, redes sociales y bases públicas). Indica usos por bases legales (contrato/interés legítimo/consentimiento/obligación legal) para operar y mejorar servicios, personalización, analítica, soporte, prevención de fraude/abuso, marketing (opt-out) y cumplimiento. Puede divulgar datos a proveedores (hosting, cloud, CDNs, soporte/monitoreo, email, analítica, procesadores de pago, etc.), en transferencias corporativas y por mandatos legales. Señala que el servicio está alojado en EE. UU. y que el uso implica transferencia internacional de datos a EE. UU. Implementa medidas “comercialmente razonables” (técnicas/administrativas/organizativas), sin garantizar seguridad absoluta. Retención: conserva datos el tiempo necesario para prestar el servicio y otros fines legítimos; al desactivar cuenta o dejar de usar, elimina o anonimiza; si no puede borrarse (p. ej., respaldos), lo aísla y protege hasta poder eliminarlo. Derechos: acceso, eliminación, corrección, portabilidad, restricción, retiro de consentimiento, objeción y queja; contacto: service@atoms.dev\n.",
+        "integration": "La política menciona interacción del usuario con Atoms en plataformas como GitHub, Twitter y WeChat (como parte de “Interaction Data”) y el uso de terceros proveedores (hosting, cloud, analítica, procesadores de pago, etc.). No se detallan integraciones específicas (API/plugins) adicionales en el material proporcionado."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://atoms.dev/"
+        },
+        {
+          "source_url": "https://atoms.dev/blog"
+        },
+        {
+          "source_url": "https://atoms.dev/privacy-policy"
+        },
+        {
+          "source_url": "https://atoms.dev/es/usecases"
+        },
+        {
+          "source_url": "https://atoms.dev/pricing"
+        }
+      ]
+    },
+    "1358": {
+      "app": {
+        "id": "1358",
+        "name": "Ava",
+        "url": "https://editwithava.com/",
+        "short_description": "Edita tu propio metraje en bruto en vídeos pulidos usando prompts de texto.\n\n",
+        "category": "Edición de video",
+        "main_functionality": "Edición automática “chat-to-edit” que comprende semánticamente el contenido para seleccionar tomas, eliminar retomas y ensamblar versiones finales alineadas a la intención creativa (p. ej., b-roll, captions, voiceovers).",
+        "tags": "#EdiciónDeVideo #Video #AsistenteIA #Automatización #ShortForm #Subtítulos #Voiceover",
+        "logo_filename": "id_1358_avaaivideos",
+        "what_is": "Una plataforma de edición de video con IA (orientada a trabajar con tu propio metraje) que permite describir en lenguaje natural el video deseado y obtener un primer armado/edición sin usar una línea de tiempo tradicional.",
+        "purpose": "Para acelerar la producción de videos (especialmente short-form) automatizando tareas repetitivas de ensamblaje: selección de escenas, recortes, limpieza/ajustes y generación de elementos auxiliares como subtítulos y voiceovers, manteniendo iteración por instrucciones.",
+        "use_cases": "Creadores y canales: transformar talking-head y bibliotecas de clips en piezas listas para redes mediante briefing por chat.\n\nEquipos de marketing/UGC: generar múltiples variantes (p. ej., ganchos/ediciones alternativas) a partir de un mismo material.\n\nAgencias: producir lotes de entregables desde un solo rodaje (múltiples assets) reduciendo el tiempo de “assembly work”.",
+        "main_advantages": "Interfaz conversacional: solicitar cambios y variaciones con instrucciones en lenguaje natural.\n\nEdición basada en comprensión del contenido (no solo recorte/keywords): selección de escenas y retakes alineadas al brief.\n\nEnfoque en metraje real (footage propio), orientado a workflows de alto volumen/unscripted según el posicionamiento del equipo.\n\nCompatibilidad/continuidad con flujos profesionales: se menciona integración/compatibilidad con NLEs (p. ej., Premiere/Resolve/Final Cut) en materiales públicos.",
+        "long_description": "Plataforma de edición de video asistida por IA enfocada en convertir metraje propio en piezas listas para publicar. Opera mediante un enfoque “chat-to-edit”: el usuario describe el objetivo/brief y el sistema ensambla un primer corte, selecciona escenas, recorta retomas y agrega elementos como b-roll, subtítulos y voiceovers, con capacidad de iteración por feedback. En publicaciones y fichas públicas también se describe conexión con Google Drive para insumos y orientación a short-form (p. ej., hasta ~2 min mencionado en materiales del lanzamiento).",
+        "release_date": "Febrero 2026",
+        "developer": "Avlana AG (Suiza).",
+        "main_model": "No disponible",
+        "pricing_plans": "Se indica disponibilidad Free en Product Hunt.\n\nSe menciona un modelo de precios por créditos basado en la duración (runtime) del video renderizado; también se mencionan acuerdos corporativos/custom en comentarios públicos. No se encontraron tablas públicas completas de precios/tiers en las fuentes revisadas.",
+        "license": "Propietario / SaaS",
+        "security_privacy": "Existe Privacy Policy de Avlana AG (controlador de datos), con información de contacto para derechos GDPR y solicitud de eliminación de datos.\n\nSeñala condiciones de divulgación a terceros (p. ej., pasarela de pago, Mailchimp si hay consentimiento), uso de Google Analytics (IP anonimizada) y almacenamiento indicado (Países Bajos), además de menciones de TLS en servidores de correo.",
+        "integration": "Se menciona conexión con Google Drive en comunicaciones públicas del equipo/lanzamiento.\n\nEn una fuente periodística se menciona compatibilidad/integración con NLEs como Adobe Premiere, DaVinci Resolve y Final Cut Pro (para refinamiento posterior)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Cómo EditWithAva está capacitando a los editores de vídeo para que el vídeo real sea tan sencillo como el vídeo con IA",
+          "description": "Describe un piloto temprano donde socialbnb convirtió carpetas de metraje en Meta ads con voiceover, sin un flujo tradicional de edición.",
+          "url": "https://www.menlotimes.com/post/how-editwithava-is-empowering-video-editors-to-make-real-video-as-effortless-as-ai-video"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://editwithava.com/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/editwithava"
+        },
+        {
+          "source_url": "https://www.menlotimes.com/post/how-editwithava-is-empowering-video-editors-to-make-real-video-as-effortless-as-ai-video"
+        },
+        {
+          "source_url": "https://www.avlana.co/privacy-policy"
+        }
+      ]
+    },
+    "1391": {
+      "app": {
+        "id": "1391",
+        "name": "Autohive",
+        "url": "https://www.autohive.com/",
+        "short_description": "Imagina un agente de IA para cada tarea que tengas en la mano. Descríbelo, constrúyelo, hecho. Sin código, sin curva de aprendizaje, sin límites.\n\n",
+        "category": "Plataformas sin código",
+        "main_functionality": "Construcción visual de agentes y flujos multi-paso para automatizar trabajo (marketing, analítica, soporte, operaciones), con ejecución programada y capacidad de integrarse con apps (p. ej., Slack, HubSpot, Gmail).",
+        "tags": "#PlataformasSinCódigo #Automatización #AgentesIA #Productividad #Workflows #Integraciones #Orquestación",
+        "logo_filename": "id_1391_autohive",
+        "what_is": "Una plataforma de automatización con agentes de IA orientada a equipos no técnicos: permite crear agentes (y equipos de agentes) mediante una interfaz no-code, conectarlos a herramientas y datos del negocio, y ejecutar tareas para producir resultados (resúmenes, reportes, borradores, acciones en herramientas conectadas, etc.).",
+        "purpose": "Sirve para reducir trabajo manual y acelerar procesos internos mediante agentes que operan en flujos repetibles (p. ej., reportes recurrentes, análisis de campañas, soporte con base en documentación), sin requerir desarrollo tradicional.",
+        "use_cases": "Generación de reportes y análisis semanales conectando herramientas (ej., Looker/HubSpot) y entregando resultados en Slack.\n\nSoporte al cliente: agentes que consultan documentación y ayudan a redactar respuestas, reduciendo escalaciones.\n\nMarketing: transcripción/resumen de podcasts y borradores de contenido para redes.\n\nCatálogo amplio de “use cases” no-code por industria y función (100+).",
+        "main_advantages": "No-code para equipos no técnicos: despliegue sin programación, orientado a adopción por áreas de negocio.\n\nColaboración y automatización: agentes que trabajan en chat, y posibilidad de programar ejecuciones/Workflows (según descripción del producto).\n\nIntegración con herramientas comunes: catálogo de integraciones (p. ej., Slack, HubSpot, Gmail, Google Drive/Docs/Sheets, Microsoft 365, Stripe, etc.).\n\nEnfoque en seguridad empresarial (según sitio): cifrado (TLS 1.2+ en tránsito, AES-256 en reposo), aislamiento por “workspace” y controles de acceso/roles.",
+        "long_description": "Plataforma para crear “AI teammates” (agentes) y automatizar trabajo mediante flujos no-code. Permite diseñar agentes para tareas como análisis y reportes, generación de contenido, y soporte basado en documentación; además puede coordinar varios agentes y conectar herramientas del negocio mediante integraciones. A nivel de infraestructura, AWS documenta que corre en AWS y usa Amazon Bedrock (con acceso multi-modelo) y servicios como Lambda/RDS/S3 para ejecutar herramientas y almacenar artefactos. En el sitio se destaca enfoque de seguridad (cifrado, aislamiento por workspace, roles) y se ofrece un catálogo amplio de casos de uso.",
+        "release_date": "Junio 2025",
+        "developer": "Autohive (spinoff de la empresa neozelandesa Raygun; cofundador/CEO: John-Daniel Trask). Razón social exacta: No encontrada en las fuentes consultadas.",
+        "main_model": "Acceso a modelos de IA mediante Amazon Bedrock (multi-modelo; el caso menciona modelos de proveedores como Anthropic/Claude).",
+        "pricing_plans": "Free: USD $0/mes; asientos ilimitados; 350K créditos/mes; 1GB storage.\n\nStarter: USD $99/mes; asientos ilimitados; 3M créditos/mes; 10GB storage.\n\nTeam: USD $499/mes; asientos ilimitados; 18M créditos/mes; 100GB storage (con “usage-based billing” si excede créditos, según FAQ en la misma página).\n\nOnboarding: USD $3000 (costo único) para servicio de acompañamiento.",
+        "license": "Propietario / SaaS",
+        "security_privacy": "Cifrado y aislamiento: TLS 1.2+ en tránsito; AES-256 en reposo; aislamiento por workspace y controles de acceso/roles.\n\nUso de datos para entrenamiento: el sitio de seguridad declara que los datos del cliente no se usan para entrenar modelos de terceros.\n\nArquitectura “zero-knowledge” (según sitio de seguridad): indica que administradores de Autohive no tienen acceso al contenido “raw” (chats, datos de integraciones, archivos).\n\nPrivacidad (policy): describe recolección/uso para login, facturación, soporte, prevención de fraude; divulgación a proveedores; y transferencias internacionales (incluye referencia a cláusulas contractuales estándar para transferencias bajo GDPR).\n\nUbicación/retención (página GDPR): indica almacenamiento en AWS US-EAST-1.",
+        "integration": "Página de integraciones lista múltiples conectores, por ejemplo: Slack, HubSpot, Gmail, Google Ads/Analytics/Drive/Docs/Sheets/Slides/Calendar, Microsoft 365/Teams/Power BI, Notion, Stripe, Zoom, Xero, Trello, GitHub, Mailchimp, Looker, entre otros."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Autohive Accelerates No-Code AI Agent Creation using Amazon Bedrock (AWS Case Study)",
+          "description": "Caso de estudio técnico donde AWS documenta a Autohive como plataforma no-code de “agentic AI” construida en AWS/Amazon Bedrock; reporta 800+ usuarios incorporados desde el lanzamiento y 100% despliegue no-code para equipos no técnicos. Incluye ejemplos de adopción temprana (p. ej., community management, prospecting, firma de educación en IA).",
+          "url": "https://aws.amazon.com/solutions/case-studies/autohive-case-study/"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.autohive.com/"
+        },
+        {
+          "source_url": "https://www.autohive.com/pricing"
+        },
+        {
+          "source_url": "https://www.autohive.com/use-cases"
+        },
+        {
+          "source_url": "https://www.autohive.com/integrations"
+        },
+        {
+          "source_url": "https://www.autohive.com/privacy"
+        },
+        {
+          "source_url": "https://blog.autohive.com/?_gl=1*aaw6j8*_ga*NDU1MzQyNjgyLjE3NzM4NTMwMzc.*_ga_JML99ZWL2E*czE3NzQwMzY2NDUkbzIkZzEkdDE3NzQwMzY2NjIkajQzJGwwJGgw*_gcl_au*MTA1NDU3NTI3LjE3NzM4NTMwMzQ."
+        }
+      ]
+    },
+    "1456": {
+      "app": {
+        "id": "1456",
+        "name": "Artlist AI Toolkit (Image & Video Generator)",
+        "url": "https://toolkit.artlist.io/image-video-generator?mode=video&modelGroupID=349&utm_source=google&utm_medium=cpc&utm_campaign=23488639912&utm_content=191986412077&utm_term=higgsfield%20ai&keyword=higgsfield%20ai&ad=793744496343&matchtype=e&device=m&gad_source=1&gad_campaignid=23488639912&gbraid=0AAAAACuwFJ18yHdoAPo4K_xW6oYgRpLD6&gclid=Cj0KCQjwyr3OBhD0ARIsALlo-OmEj0-SSuXhCNKw074YMyDOMt2wIK7A1rhxUe31N6XvXLcgcFYouz8aAgszEALw_wcB",
+        "short_description": "Generador de video e imagen con modelos de IA seleccionados para crear clips cortos a partir de texto y/o imágenes de referencia, con controles para refinar escenas y uso comercial bajo la licencia de Artlist.",
+        "category": "Generación de video",
+        "main_functionality": "Crear videos cortos mediante texto-a-video, imagen-a-video y (según modelo) video-a-video, eligiendo entre varios modelos de IA dentro del AI Toolkit y ajustando parámetros como frames de inicio/fin y regeneración por variaciones.",
+        "tags": "#GeneracionDeVideo #TextToVideo #ImageToVideo #VideoToVideo #GenerativeAI #CreacionDeContenido #LicenciaComercial",
+        "logo_filename": "id_1456_artlisttoolkit",
+        "what_is": "Es un entorno de creación dentro de Artlist que reúne herramientas generativas (video e imagen, y también voz/música según el plan) en una interfaz unificada (“AI Toolkit”), permitiendo seleccionar modelos de terceros y modelos propios de Artlist para producir contenido listo para flujos de trabajo creativos.",
+        "purpose": "Sirve para generar y prototipar material visual (clips cortos y/o imágenes) para campañas, storyboards, contenido social, conceptos, pitches y piezas de marketing, reduciendo fricción al centralizar modelos, controles y descarga en un solo lugar con cobertura de licencia.",
+        "use_cases": "Storyboards y previsualización de escenas a partir de prompts.\nAnimación de una imagen fija (imagen-a-video) con movimiento y cámara.\nVariantes rápidas de creatividades para anuncios y redes sociales.\nExploración de estilos/ambientaciones (según modelo) para contenido creativo.",
+        "main_advantages": "Centralización de modelos y flujo de trabajo (menos “cambio de pestañas” entre herramientas).\nOpciones de control (p. ej., uso de frames de inicio/fin donde aplique) para mayor consistencia visual.\nLicenciamiento comercial para los outputs dentro del marco de la licencia de Artlist.\nModelo de créditos para planear consumo por duración, resolución y características (p. ej., audio).\nPropiedad/uso del contenido generado indicado por Artlist (derechos sobre outputs) y postura de no entrenar con tus prompts/outputs según sus materiales.",
+        "long_description": "Plataforma de generación dentro de Artlist para crear clips cortos con IA a partir de texto y/o imágenes, eligiendo modelos disponibles (p. ej., Kling y otros que Artlist va incorporando). Permite guiar resultados con prompts, regenerar variaciones y, cuando el modelo lo soporta, usar controles como frames de inicio/fin para mayor continuidad. Se integra al ecosistema de Artlist (licenciamiento y, según plan, acceso a más herramientas/activos).",
+        "release_date": "Abril 2025",
+        "developer": "Artlist (Artlist Ltd.).",
+        "main_model": "No disponible como “un solo modelo”. El Toolkit funciona como un hub que da acceso a múltiples modelos (por ejemplo, Kling 3.0 y otros modelos listados por Artlist) y también incluye modelos propios como “Artlist Original 1.0” para imagen.",
+        "pricing_plans": "Basado en planes con créditos mensuales (p. ej., AI Starter, AI Professional y opciones Max/Enterprise según necesidades), con posibilidad de cubrir varias herramientas (video/imagen/voz/música) dependiendo del plan.",
+        "license": "Propietaria (SaaS).",
+        "security_privacy": "Artlist indica que no usa prompts/inputs/outputs para entrenar o afinar modelos (según sus páginas de AI/Enterprise) y que los datos/proyectos se almacenan en entornos cifrados; su política de privacidad describe el tratamiento de datos personales. En materiales de Enterprise menciona estándares/certificaciones (p. ej., ISO 27001).",
+        "integration": "Artlist menciona integración/extensiones para software de edición (por ejemplo, extensiones para Premiere Pro en su contenido de planes/precios) y un ecosistema que combina herramientas AI con catálogo de recursos."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://toolkit.artlist.io/image-video-generator?mode=video&modelGroupID=349&utm_source=google&utm_medium=cpc&utm_campaign=23488639912&utm_content=191986412077&utm_term=higgsfield%20ai&keyword=higgsfield%20ai&ad=793744496343&matchtype=e&device=m&gad_source=1&gad_campaignid=23488639912&gbraid=0AAAAACuwFJ18yHdoAPo4K_xW6oYgRpLD6&gclid=Cj0KCQjwyr3OBhD0ARIsALlo-OmEj0-SSuXhCNKw074YMyDOMt2wIK7A1rhxUe31N6XvXLcgcFYouz8aAgszEALw_wcB"
+        },
+        {
+          "source_url": "https://www.cined.com/artlist-ai-video-generator-introduced-built-for-video-creators/"
+        },
+        {
+          "source_url": "https://artlist.io/blog/how-to-use-artlist-ai-toolkit/"
+        },
+        {
+          "source_url": "https://artlist.io/help-center/privacy-terms/artlist-license/"
+        }
+      ]
+    },
+    "1511": {
+      "app": {
+        "id": "1511",
+        "name": "AutoRegex",
+        "url": "https://www.autoregex.xyz",
+        "short_description": "Genera y explica expresiones regulares a partir de lenguaje natural para facilitar tareas de programación.",
+        "category": "Codificación",
+        "main_functionality": "Generación y explicación de expresiones regulares.",
+        "tags": "#IA #Codificación #Desarrollo #Programación",
+        "logo_filename": "id_1511_autoregex",
+        "what_is": "AutoRegex es una herramienta que permite crear y entender expresiones regulares a partir de lenguaje natural, facilitando tareas técnicas de programación.",
+        "purpose": "Simplificar la creación y comprensión de expresiones regulares mediante lenguaje natural.",
+        "use_cases": "Generación de regex, explicación de patrones, validación de texto, filtrado de datos, programación y automatización de tareas técnicas.",
+        "main_advantages": "Reduce la dificultad de crear expresiones regulares; explica patrones complejos; ahorra tiempo en tareas técnicas de validación y búsqueda.",
+        "long_description": "AutoRegex es una herramienta que permite generar y entender expresiones regulares a partir de instrucciones en lenguaje natural. Es útil para programadores, analistas y usuarios técnicos que trabajan con validación, búsqueda o procesamiento de texto.",
+        "release_date": "No especificada",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Gratis",
+        "license": "No especificada",
+        "security_privacy": "Consultar la política de privacidad del proveedor.",
+        "integration": "Disponible mediante plataforma web del proveedor."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.autoregex.xyz"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/autoregex"
+        }
+      ]
+    },
+    "1553": {
+      "app": {
+        "id": "1553",
+        "name": "Arya.ai",
+        "url": "https://arya.ai",
+        "short_description": "Permite crear agentes de IA aplicados a finanzas, atención al cliente y procesos empresariales.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Automatización con IA para finanzas, seguros y atención empresarial.",
+        "tags": "#IA #Finanzas #Automatización #Negocios",
+        "logo_filename": "id_1553_arya_ai",
+        "what_is": "Arya.ai es una plataforma de inteligencia artificial orientada a procesos financieros, seguros, atención al cliente y automatización empresarial.",
+        "purpose": "Automatizar procesos empresariales en finanzas, seguros y atención al cliente mediante IA.",
+        "use_cases": "Finanzas, seguros, atención al cliente, automatización empresarial, análisis de procesos y soporte operativo.",
+        "main_advantages": "Apoya procesos financieros y de seguros; automatiza tareas empresariales; puede mejorar eficiencia operativa y atención al cliente.",
+        "long_description": "Arya.ai es una plataforma de inteligencia artificial orientada a empresas, especialmente en sectores como finanzas, seguros y atención al cliente. Su enfoque es apoyar la automatización de procesos y operaciones.",
+        "release_date": "No especificada",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Consultar precio",
+        "license": "No especificada",
+        "security_privacy": "Consultar la política de privacidad del proveedor.",
+        "integration": "Disponible mediante plataforma web del proveedor."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://arya.ai"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/arya-ai"
+        }
+      ]
+    },
+    "1591": {
+      "app": {
+        "id": "1591",
+        "name": "Astrocade",
+        "url": "https://www.astrocade.com",
+        "short_description": "Facilita la creación de juegos con diseño, desarrollo rápido y colaboración asistida por IA.",
+        "category": "Generación de diseño",
+        "main_functionality": "Creación de juegos con asistencia de inteligencia artificial.",
+        "tags": "#IA #Gaming #Diseño #Educación",
+        "logo_filename": "id_1591_astrocade",
+        "what_is": "Astrocade es una plataforma que facilita la creación de juegos mediante herramientas de diseño, desarrollo rápido y colaboración apoyadas por inteligencia artificial.",
+        "purpose": "Facilitar la creación de juegos y experiencias interactivas mediante IA.",
+        "use_cases": "Diseño de juegos, prototipado, educación, experiencias interactivas, gaming, desarrollo rápido y colaboración creativa.",
+        "main_advantages": "Reduce barreras para crear juegos; permite prototipar rápido; combina diseño, desarrollo y colaboración con asistencia de IA.",
+        "long_description": "Astrocade es una plataforma para crear juegos con apoyo de inteligencia artificial. Está orientada a facilitar el diseño, desarrollo rápido y colaboración en experiencias interactivas.",
+        "release_date": "No especificada",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Consultar precio",
+        "license": "No especificada",
+        "security_privacy": "Consultar la política de privacidad del proveedor.",
+        "integration": "Disponible mediante plataforma web del proveedor."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.astrocade.com"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/astrocade"
+        }
+      ]
+    },
+    "1636": {
+      "app": {
+        "id": "1636",
+        "name": "ArkDesign",
+        "url": "https://arkdesign.ai/",
+        "short_description": "Optimiza diseños y conceptos visuales mediante una plataforma de diseño impulsada por inteligencia artificial.",
+        "category": "Generación de diseño",
+        "main_functionality": "Optimización de diseños y conceptos visuales con inteligencia artificial.",
+        "tags": "#IA #Diseño #Optimización #Creatividad",
+        "logo_filename": "id_1636_arkdesign",
+        "what_is": "ArkDesign es una herramienta de diseño impulsada por inteligencia artificial que ayuda a optimizar conceptos visuales, diseños y propuestas creativas.",
+        "purpose": "Apoyar la creación y optimización de diseños visuales mediante inteligencia artificial.",
+        "use_cases": "Diseño visual, generación de conceptos, optimización de propuestas creativas, branding, prototipos y presentaciones.",
+        "main_advantages": "Facilita crear conceptos visuales; puede acelerar procesos creativos; ayuda a optimizar propuestas de diseño.",
+        "long_description": "ArkDesign es una herramienta de diseño impulsada por inteligencia artificial. Está orientada a apoyar la creación, optimización y mejora de conceptos visuales para proyectos creativos, branding, presentaciones y propuestas de diseño.",
+        "release_date": "No disponible",
+        "developer": "arkdesign.ai",
+        "main_model": "No especificado",
+        "pricing_plans": "Consultar precio",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://arkdesign.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/arkdesign"
+        }
+      ]
+    },
+    "1668": {
+      "app": {
+        "id": "1668",
+        "name": "Avaturn",
+        "url": "https://avaturn.me/",
+        "short_description": "Avaturn permite crear avatares 3D personalizados mediante inteligencia artificial, útiles para juegos, experiencias virtuales, metaverso y aplicaciones interactivas.",
+        "category": "Generación de diseño",
+        "main_functionality": "Creación de avatares 3D personalizados",
+        "tags": "#3D#Avatares#Modelado3D",
+        "logo_filename": "id_1668_avaturn",
+        "what_is": "Avaturn es una plataforma de inteligencia artificial para generar avatares 3D personalizados. Permite transformar información visual o de usuario en personajes digitales utilizables en experiencias interactivas, videojuegos, metaverso y aplicaciones inmersivas.",
+        "purpose": "Permitir la creación rápida de avatares 3D personalizados para experiencias digitales, videojuegos, plataformas inmersivas y aplicaciones interactivas.",
+        "use_cases": "Creación de avatares para videojuegos; perfiles digitales para metaverso; experiencias inmersivas; personajes personalizados para aplicaciones interactivas.",
+        "main_advantages": "Facilita la creación de avatares personalizados; puede integrarse en experiencias digitales; reduce barreras técnicas para generar personajes 3D; es útil para entornos inmersivos.",
+        "long_description": "Avaturn es una plataforma para crear avatares 3D personalizados con ayuda de inteligencia artificial. Su enfoque está en transformar información visual o de usuario en personajes digitales que pueden utilizarse en videojuegos, experiencias inmersivas, aplicaciones interactivas y entornos virtuales. Es una solución útil para proyectos que requieren identidad digital, personalización visual o representación de usuarios en espacios digitales.",
+        "release_date": "No disponible",
+        "developer": "avaturn.me",
+        "main_model": "No especificado",
+        "pricing_plans": "Freemium",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://avaturn.me/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/avaturn"
+        }
+      ]
+    },
+    "1681": {
+      "app": {
+        "id": "1681",
+        "name": "Autosana",
+        "url": "https://autosana.ai/",
+        "short_description": "Autosana es una herramienta de asistencia para desarrollo que ayuda a automatizar tareas relacionadas con código y flujos técnicos.",
+        "category": "Codificación",
+        "main_functionality": "Automatización de tareas técnicas relacionadas con desarrollo",
+        "tags": "#Código #Automatización #Desarrollo",
+        "logo_filename": "id_1681_autosana",
+        "what_is": "Autosana es una herramienta de asistencia para desarrollo que utiliza IA para automatizar tareas técnicas. Está orientada a apoyar flujos de programación, revisión y operación dentro de equipos de software.",
+        "purpose": "Automatizar tareas técnicas y flujos de desarrollo para mejorar la productividad de equipos de software.",
+        "use_cases": "Automatización de flujos técnicos; apoyo en programación; revisión de tareas de desarrollo; mejora de productividad de equipos.",
+        "main_advantages": "Automatiza tareas técnicas; puede reducir trabajo manual; mejora la eficiencia en flujos de desarrollo; apoya a equipos de software.",
+        "long_description": "Autosana es una herramienta de asistencia para desarrollo que utiliza inteligencia artificial para automatizar tareas técnicas. Está orientada a apoyar flujos de programación, revisión y operación dentro de equipos de software. Su valor se encuentra en reducir trabajo manual y mejorar la eficiencia de procesos técnicos cotidianos.",
+        "release_date": "No disponible",
+        "developer": "autosana.ai",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://autosana.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/autosana"
+        }
+      ]
+    },
+    "1682": {
+      "app": {
+        "id": "1682",
+        "name": "Augment Code",
+        "url": "https://www.augmentcode.com/",
+        "short_description": "Augment Code es un asistente de programación con IA diseñado para ayudar a los desarrolladores a entender, escribir y modificar código dentro de sus proyectos.",
+        "category": "Codificación",
+        "main_functionality": "Asistencia contextual para entender, escribir y modificar código",
+        "tags": "#Código #AsistenteDeCódigo #Programación",
+        "logo_filename": "id_1682_augment_code",
+        "what_is": "Augment Code es un asistente de programación con IA diseñado para trabajar con contexto del proyecto. Ayuda a entender repositorios, escribir código, modificar archivos y acelerar tareas habituales de desarrollo.",
+        "purpose": "Ayudar a desarrolladores a trabajar con mayor contexto sobre sus proyectos para escribir, entender y modificar código con más eficiencia.",
+        "use_cases": "Asistencia dentro del repositorio; edición de archivos; generación de código; explicación de proyectos; apoyo a desarrolladores en tareas diarias.",
+        "main_advantages": "Trabaja con contexto del proyecto; ayuda a modificar código con mayor precisión; mejora la productividad del desarrollador; facilita entender repositorios existentes.",
+        "long_description": "Augment Code es un asistente de programación con inteligencia artificial diseñado para trabajar con el contexto del proyecto. Ayuda a entender repositorios, escribir código, modificar archivos y resolver tareas técnicas dentro del flujo habitual de desarrollo. Es útil para programadores que buscan aumentar productividad sin perder contexto sobre la base de código.",
+        "release_date": "No disponible",
+        "developer": "augmentcode.com",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.augmentcode.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/augment-code"
+        }
+      ]
+    },
+    "1736": {
+      "app": {
+        "id": "1736",
+        "name": "AutoScaled",
+        "url": "https://autoscaled.com/",
+        "short_description": "AutoScaled permite generar y actualizar presentaciones a partir de información base, facilitando la creación de materiales ejecutivos o comerciales.",
+        "category": "Productividad",
+        "main_functionality": "Generación y actualización de presentaciones con IA",
+        "tags": "#Productividad #Presentaciones #Actualización",
+        "logo_filename": "id_1736_autoscaled",
+        "what_is": "AutoScaled es una herramienta de productividad que ayuda a generar y actualizar presentaciones con inteligencia artificial. Puede transformar información base en materiales visuales útiles para comunicación ejecutiva, ventas o reportes.",
+        "purpose": "Generar y actualizar presentaciones de forma automática a partir de información base.",
+        "use_cases": "Presentaciones comerciales; reportes ejecutivos; actualización de materiales; comunicación visual con datos.",
+        "main_advantages": "Ahorra tiempo creando presentaciones; facilita actualizaciones; mejora comunicación visual; apoya materiales ejecutivos.",
+        "long_description": "AutoScaled es una herramienta de productividad que ayuda a generar y actualizar presentaciones mediante inteligencia artificial. Su función principal es transformar información base en materiales visuales útiles para ventas, reportes, comunicación ejecutiva o presentaciones internas. Puede reducir el tiempo dedicado a preparar documentos visuales.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://autoscaled.com/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/autoscaled-vunxvb"
+        }
+      ]
+    },
+    "1743": {
+      "app": {
+        "id": "1743",
+        "name": "Autosubbed",
+        "url": "https://autosubbed.com/",
+        "short_description": "Autosubbed transcribe audio y genera subtítulos estilizados, facilitando la edición y publicación de contenido audiovisual.",
+        "category": "Edición de video",
+        "main_functionality": "Transcripción de audio y generación de subtítulos",
+        "tags": "#EdiciónDeVideo #Subtítulos #Audio",
+        "logo_filename": "id_1743_autosubbed",
+        "what_is": "Autosubbed es una herramienta de edición audiovisual enfocada en transcripción y subtítulos. Permite convertir audio en texto y generar subtítulos estilizados para videos o contenido multimedia.",
+        "purpose": "Facilitar la transcripción de audio y creación de subtítulos para contenido audiovisual.",
+        "use_cases": "Subtítulos para video; transcripción de audio; edición de clips; preparación de contenido para redes.",
+        "main_advantages": "Acelera subtitulado; facilita transcripción; mejora accesibilidad del contenido; apoya producción audiovisual.",
+        "long_description": "Autosubbed es una herramienta de edición audiovisual enfocada en transcripción y subtitulado. Permite convertir audio en texto y generar subtítulos estilizados para videos o contenido multimedia. Es útil para creadores, equipos de contenido y usuarios que necesitan preparar material audiovisual de forma más rápida.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://autosubbed.com/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/autosubbed-ubhwat"
+        }
+      ]
+    },
+    "1747": {
+      "app": {
+        "id": "1747",
+        "name": "asqav",
+        "url": "https://www.asqav.com/",
+        "short_description": "asqav ayuda a monitorear y gobernar el comportamiento de agentes de IA, con enfoque en seguridad y control operativo.",
+        "category": "Automatización",
+        "main_functionality": "Monitoreo y gobernanza de agentes de IA",
+        "tags": "#Automatización #AgentesIA #Seguridad",
+        "logo_filename": "id_1747_asqav",
+        "what_is": "asqav es una herramienta para monitorear y gobernar agentes de IA. Su enfoque está en observar comportamiento, controlar riesgos y mantener mayor supervisión sobre sistemas automatizados.",
+        "purpose": "Monitorear y gobernar agentes de IA para mejorar seguridad, control y supervisión operativa.",
+        "use_cases": "Gobernanza de agentes; monitoreo de comportamiento; seguridad operativa; control de sistemas automatizados.",
+        "main_advantages": "Aporta control sobre agentes; mejora monitoreo; ayuda a reducir riesgos; fortalece seguridad operativa.",
+        "long_description": "asqav es una herramienta para monitorear y gobernar agentes de inteligencia artificial. Su enfoque está en observar el comportamiento de agentes, controlar riesgos y mantener supervisión sobre sistemas automatizados. Es útil para equipos que buscan usar agentes de IA con mayor control, seguridad y trazabilidad.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.asqav.com/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/asqav-4fx6xy"
+        }
+      ]
+    },
+    "1842": {
+      "app": {
+        "id": "1842",
+        "name": "AtTheRate.ai",
+        "url": "https://attherate.ai/",
+        "short_description": "AtTheRate.ai ayuda a administrar campañas de marketing y generar contenido o activos comerciales con inteligencia artificial.",
+        "category": "Marketing",
+        "main_functionality": "Gestión de campañas de marketing con IA",
+        "tags": "#Marketing #Campañas #Automatización",
+        "logo_filename": "id_1842_attherate_ai",
+        "what_is": "AtTheRate.ai es una herramienta de marketing para administrar campañas y generar contenido o activos comerciales con IA. Está orientada a mejorar la operación de campañas y automatizar tareas de marketing.",
+        "purpose": "Administrar campañas de marketing y generar activos comerciales con apoyo de IA.",
+        "use_cases": "Campañas de marketing; generación de contenido; activos comerciales; automatización de procesos de marketing.",
+        "main_advantages": "Automatiza marketing; genera activos comerciales; facilita gestión de campañas; reduce trabajo manual.",
+        "long_description": "AtTheRate.ai es una herramienta de marketing para administrar campañas y generar contenido o activos comerciales con inteligencia artificial. Está orientada a automatizar tareas de marketing, apoyar campañas y facilitar producción de materiales comerciales. Puede ser útil para equipos de crecimiento, ventas y comunicación.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://attherate.ai/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/attherate-ai-gl8g8y"
+        }
+      ]
+    },
+    "1935": {
+      "app": {
+        "id": "1935",
+        "name": "Autype",
+        "url": "https://autype.com/es",
+        "short_description": "Autype permite generar y automatizar documentos, ayudando a reducir trabajo manual en redacción y tareas administrativas.",
+        "category": "Productividad",
+        "main_functionality": "Generación y automatización de documentos",
+        "tags": "#Productividad #Documentos #Automatización",
+        "logo_filename": "id_1935_autype",
+        "what_is": "Autype es una herramienta de productividad para generar y automatizar documentos. Permite reducir trabajo manual en redacción, documentación y tareas administrativas.",
+        "purpose": "Generar y automatizar documentos para reducir trabajo manual en redacción y tareas administrativas.",
+        "use_cases": "Documentos automáticos; redacción administrativa; generación de texto; automatización documental.",
+        "main_advantages": "Genera documentos rápido; reduce redacción manual; automatiza tareas administrativas; mejora productividad.",
+        "long_description": "Autype es una herramienta de productividad para generar y automatizar documentos. Permite reducir trabajo manual en redacción, documentación y tareas administrativas. Puede apoyar a usuarios o equipos que generan textos repetitivos, reportes o documentos operativos de forma frecuente.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://autype.com/es"
+        }
+      ]
+    },
+    "1936": {
+      "app": {
+        "id": "1936",
+        "name": "Auzora",
+        "url": "https://auzora.ai/",
+        "short_description": "Auzora permite automatizar workflows de negocio mediante agentes de IA, facilitando procesos internos y tareas operativas.",
+        "category": "Automatización",
+        "main_functionality": "Automatización de workflows de negocio con agentes de IA",
+        "tags": "#Automatización #AgentesIA #Workflows",
+        "logo_filename": "id_1936_auzora",
+        "what_is": "Auzora es una herramienta de automatización para crear workflows de negocio con agentes de IA. Ayuda a organizar procesos internos y ejecutar tareas operativas con menor intervención manual.",
+        "purpose": "Automatizar workflows de negocio con agentes de IA para mejorar procesos internos y ejecución operativa.",
+        "use_cases": "Workflows de negocio; agentes de IA; procesos internos; automatización operativa.",
+        "main_advantages": "Automatiza workflows; coordina agentes; reduce intervención manual; mejora operación interna.",
+        "long_description": "Auzora es una herramienta de automatización para crear workflows de negocio con agentes de IA. Ayuda a organizar procesos internos y ejecutar tareas operativas con menor intervención manual. Puede ser útil para empresas que buscan automatizar flujos repetitivos o coordinar tareas mediante agentes.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://auzora.ai/"
+        }
+      ]
+    },
+    "1938": {
+      "app": {
+        "id": "1938",
+        "name": "AutomaSnap",
+        "url": "https://automasnap.com/",
+        "short_description": "AutomaSnap extrae datos de producto desde fotos de etiquetas, facilitando captura y organización de información visual.",
+        "category": "Productividad",
+        "main_functionality": "Extracción de datos de producto desde imágenes",
+        "tags": "#Productividad #Imágenes #ExtracciónDeDatos",
+        "logo_filename": "id_1938_automasnap",
+        "what_is": "AutomaSnap es una herramienta que extrae datos de producto desde fotos de etiquetas. Ayuda a convertir información visual en datos organizados para captura, inventario o análisis.",
+        "purpose": "Extraer datos de producto desde imágenes para convertir información visual en datos organizados.",
+        "use_cases": "Captura desde etiquetas; extracción de datos de producto; imágenes a datos; inventario visual.",
+        "main_advantages": "Convierte imágenes en datos; facilita captura de productos; reduce errores manuales; apoya inventarios.",
+        "long_description": "AutomaSnap es una herramienta que extrae datos de producto desde fotos de etiquetas. Ayuda a convertir información visual en datos organizados para captura, inventario o análisis. Puede ser útil para equipos que trabajan con productos físicos y necesitan digitalizar información desde imágenes.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://automasnap.com/"
+        }
+      ]
+    },
+    "2095": {
+      "app": {
+        "id": "2095",
+        "name": "ASPR AI",
+        "url": "https://www.aspr.ai/",
+        "short_description": "ASPR AI apoya actividades de marketing, ventas y crecimiento mediante automatización e inteligencia artificial.",
+        "category": "Marketing",
+        "main_functionality": "Apoyo a marketing, ventas y crecimiento mediante automatización e inteligencia artificial.",
+        "tags": "marketing, ventas, contenido, crecimiento",
+        "logo_filename": "id_2095_aspr_ai",
+        "what_is": "ASPR AI es una herramienta de marketing que apoya actividades de ventas, contenido y crecimiento mediante automatización e inteligencia artificial. Puede ayudar a mejorar procesos comerciales y crear materiales orientados a adquisición o conversión.",
+        "purpose": "Apoyar actividades de marketing, ventas y crecimiento mediante automatización e IA.",
+        "use_cases": "Marketing; ventas; contenido comercial; crecimiento y adquisición.",
+        "main_advantages": "Mejora procesos comerciales, apoya generación de contenido y facilita iniciativas de ventas y crecimiento.",
+        "long_description": "ASPR AI es una herramienta de marketing que apoya actividades de ventas, contenido y crecimiento mediante automatización e inteligencia artificial. Puede ayudar a mejorar procesos comerciales, preparar materiales orientados a adquisición o conversión y acelerar acciones de marketing. Su valor está en apoyar iniciativas comerciales con IA.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.aspr.ai/"
+        }
+      ]
+    },
+    "2132": {
+      "app": {
+        "id": "2132",
+        "name": "Arka",
+        "url": "https://www.arka.so/",
+        "short_description": "Herramienta para consultar y analizar fuentes de datos mediante preguntas en lenguaje natural.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Permitir consultas en lenguaje natural sobre diferentes fuentes de datos.",
+        "tags": "consulta de datos, lenguaje natural, análisis empresarial, inteligencia de datos",
+        "logo_filename": "id_2132_arka",
+        "what_is": "Arka es una herramienta de inteligencia de negocios que facilita la consulta de datos mediante lenguaje natural.",
+        "purpose": "Facilitar el acceso a información empresarial mediante consultas formuladas en lenguaje natural.",
+        "use_cases": "Análisis empresarial, exploración de bases de datos, elaboración de consultas y obtención de respuestas sin escribir código.",
+        "main_advantages": "Hace más accesible el análisis de datos para usuarios que no dominan lenguajes de consulta.",
+        "long_description": "Arka es una herramienta de inteligencia de negocios que permite consultar fuentes de datos utilizando lenguaje natural. Los usuarios pueden formular preguntas sin escribir consultas técnicas complejas, facilitando la exploración de información y la obtención de respuestas para análisis empresariales.",
+        "release_date": "No disponible",
+        "developer": "Arka",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.arka.so/"
+        }
+      ]
+    },
+    "2224": {
+      "app": {
+        "id": "2224",
+        "name": "AutoSend",
+        "url": "https://autosend.com/",
+        "short_description": "Herramienta y API para enviar y dar seguimiento a comunicaciones transaccionales.",
+        "category": "Marketing",
+        "main_functionality": "Enviar y dar seguimiento a comunicaciones transaccionales mediante una herramienta y API.",
+        "tags": "mensajería transaccional, seguimiento de mensajes, API, marketing, comunicaciones empresariales",
+        "logo_filename": "id_2224_autosend",
+        "what_is": "AutoSend es una herramienta de marketing y API para enviar y rastrear comunicaciones transaccionales.",
+        "purpose": "Facilitar el envío y seguimiento de comunicaciones transaccionales mediante una herramienta y API.",
+        "use_cases": "Mensajes transaccionales, notificaciones, seguimiento de comunicaciones e integración de envíos mediante API.",
+        "main_advantages": "Combina envío, seguimiento e integración mediante API para comunicaciones transaccionales.",
+        "long_description": "AutoSend es una herramienta y API orientada al envío y seguimiento de comunicaciones transaccionales. Permite integrar mensajes y notificaciones dentro de procesos digitales y mantener seguimiento sobre las comunicaciones realizadas.",
+        "release_date": "No disponible",
+        "developer": "AutoSend",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://autosend.com/"
+        }
+      ]
+    },
+    "2228": {
+      "app": {
+        "id": "2228",
+        "name": "AutEng",
+        "url": "https://auteng.ai/",
+        "short_description": "Editor técnico en línea que combina Markdown, Mermaid, KaTeX y otras herramientas.",
+        "category": "Productividad",
+        "main_functionality": "Editar y organizar documentación técnica utilizando Markdown, Mermaid, KaTeX y otras herramientas.",
+        "tags": "Markdown, Mermaid, KaTeX, editor técnico, documentación, productividad",
+        "logo_filename": "id_2228_auteng",
+        "what_is": "AutEng es un editor técnico en línea que integra Markdown, Mermaid, KaTeX y otras funciones de documentación.",
+        "purpose": "Centralizar la edición de documentación técnica utilizando distintos formatos y herramientas.",
+        "use_cases": "Documentación técnica, diagramas con Mermaid, contenido matemático con KaTeX y edición de documentos en Markdown.",
+        "main_advantages": "Integra varias herramientas de documentación técnica dentro de un mismo editor.",
+        "long_description": "AutEng es un editor técnico en línea que combina herramientas como Markdown, Mermaid y KaTeX. Permite preparar documentación con texto estructurado, diagramas y contenido matemático dentro de un mismo espacio de trabajo.",
+        "release_date": "No disponible",
+        "developer": "AutEng",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://auteng.ai/"
+        }
+      ]
+    },
+    "2276": {
+      "app": {
+        "id": "2276",
+        "name": "Astron Agent",
+        "url": "https://iflytek.github.io/astron-agent/",
+        "short_description": "Plataforma open source para crear y orquestar agentes, workflows de IA, herramientas MCP y automatizaciones RPA.",
+        "category": "Automatización",
+        "main_functionality": "Diseñar, ejecutar e integrar workflows y agentes de inteligencia artificial con modelos, herramientas, MCP y RPA.",
+        "tags": "agentes de IA, workflows, RPA, MCP, automatización empresarial, orquestación, iFLYTEK",
+        "logo_filename": "id_2276_astron_agent",
+        "what_is": "Astron Agent es una plataforma empresarial open source de iFLYTEK para desarrollar y operar workflows y agentes de inteligencia artificial.",
+        "purpose": "Facilitar la creación de automatizaciones y agentes empresariales capaces de conectar modelos de IA con herramientas y sistemas externos.",
+        "use_cases": "Agentes empresariales, workflows de IA, automatización RPA, integración vía API, MCP, herramientas y orquestación multimodelo.",
+        "main_advantages": "Combina workflows, administración de modelos, herramientas MCP, RPA e integración mediante API dentro de una plataforma open source.",
+        "long_description": "Astron Agent es una plataforma empresarial open source desarrollada por iFLYTEK para construir aplicaciones basadas en agentes de inteligencia artificial. Integra orquestación de workflows, gestión de modelos, herramientas de IA y MCP, automatización RPA, colaboración y publicación de workflows mediante API.",
+        "release_date": "No disponible",
+        "developer": "iFLYTEK",
+        "main_model": "Compatible con OpenAI, Azure OpenAI, modelos locales e iFLYTEK",
+        "pricing_plans": "Código abierto gratuito (Apache 2.0); Astron Cloud: precio no disponible públicamente",
+        "license": "Apache 2.0",
+        "security_privacy": "No especificado",
+        "integration": "API, MCP, RPA, OpenAI, Azure OpenAI, modelos locales e iFLYTEK"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://iflytek.github.io/astron-agent/"
+        }
+      ]
+    },
+    "2278": {
+      "app": {
+        "id": "2278",
+        "name": "Atono",
+        "url": "https://atono.io/",
+        "short_description": "Plataforma que integra roadmaps, historias y procesos de gestión de producto en un mismo espacio.",
+        "category": "Gestión",
+        "main_functionality": "Organizar roadmaps, historias y procesos de gestión de producto dentro de un mismo entorno.",
+        "tags": "roadmap, gestión de producto, planificación, historias de usuario, gestión de proyectos",
+        "logo_filename": "id_2278_atono",
+        "what_is": "Atono es una plataforma de gestión que reúne roadmaps, historias y otros procesos relacionados con la planificación de producto.",
+        "purpose": "Centralizar la planificación y gestión de producto mediante roadmaps, historias y procesos relacionados.",
+        "use_cases": "Roadmaps de producto, historias de usuario, planificación, seguimiento de iniciativas y gestión de proyectos.",
+        "main_advantages": "Reúne distintos elementos de planificación de producto dentro de una sola plataforma.",
+        "long_description": "Atono es una plataforma de gestión orientada a centralizar roadmaps, historias y otros elementos relacionados con la planificación de producto. Permite organizar información del proyecto y facilitar el seguimiento de iniciativas dentro de un mismo espacio.",
+        "release_date": "No disponible",
+        "developer": "Atono",
+        "main_model": "No especificado",
+        "pricing_plans": "Free: $0 hasta 25 usuarios; Starter: $19 USD/usuario/mes; Growth: $39 USD/usuario/mes",
+        "license": "No especificado",
+        "security_privacy": "SAML y SSO disponibles para entornos empresariales.",
+        "integration": "MCP, Claude, Cursor y GitHub Copilot"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://atono.io/"
+        }
+      ]
+    },
+    "2400": {
+      "app": {
+        "id": "2400",
+        "name": "Arist",
+        "url": "https://arist.com/",
+        "short_description": "Plataforma empresarial que identifica brechas de habilidades y procesos mediante entrevistas con IA y ejecuta intervenciones para corregirlas.",
+        "category": "Gestión",
+        "main_functionality": "Entrevistar empleados mediante IA, combinar sus respuestas con datos empresariales, identificar brechas y ejecutar intervenciones medibles.",
+        "tags": "talento, workforce, brechas de habilidades, entrevistas, capacitación, coaching, Teams, Slack, gestión, IA",
+        "logo_filename": "id_2400_arist",
+        "what_is": "Arist es una plataforma empresarial de talento que utiliza un consultor de IA para entrevistar empleados, identificar brechas de conocimiento, habilidades y procesos y ejecutar acciones para corregirlas.",
+        "purpose": "Detectar las causas de problemas de desempeño y convertir los hallazgos en capacitación, comunicación, coaching u otras intervenciones medibles.",
+        "use_cases": "Diagnóstico de desempeño, AI upskilling, capacitación, retail operations, sales enablement, coaching y análisis de brechas de talento.",
+        "main_advantages": "Conecta entrevistas de empleados con datos empresariales y permite pasar del diagnóstico a intervenciones y medición de resultados.",
+        "long_description": "Arist es una plataforma empresarial orientada a identificar y resolver brechas de desempeño, habilidades, conocimiento y procesos. Su consultor de IA entrevista empleados por voz o mensajería, relaciona sus respuestas con información empresarial y genera recomendaciones basadas en evidencia. Posteriormente puede entregar capacitación, comunicaciones, coaching u otras intervenciones mediante Teams, Slack o SMS y medir su impacto.",
+        "release_date": "No disponible",
+        "developer": "Arist",
+        "main_model": "No especificado",
+        "pricing_plans": "Precio empresarial mediante cotización y orden comercial; solicitar demo",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "Microsoft Teams, Slack y SMS"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://arist.com/"
+        }
+      ]
+    },
+    "2460": {
+      "app": {
+        "id": "2460",
+        "name": "Autocalls",
+        "url": "https://autocalls.ai/",
+        "short_description": "Plataforma para crear agentes de voz con IA capaces de automatizar llamadas, campañas y conversaciones de atención al cliente.",
+        "category": "Automatización",
+        "main_functionality": "Permite crear y operar agentes de voz con IA para realizar y recibir llamadas, automatizar conversaciones y ejecutar flujos comerciales.",
+        "tags": "agentes de voz, llamadas automáticas, WhatsApp, atención al cliente, CRM",
+        "logo_filename": "id_2460_autocalls",
+        "what_is": "Autocalls es una plataforma de automatización de llamadas que permite crear agentes conversacionales de voz impulsados por inteligencia artificial.",
+        "purpose": "Automatizar conversaciones telefónicas repetitivas mediante agentes de voz capaces de atender clientes, realizar seguimientos y ejecutar campañas.",
+        "use_cases": "Atender llamadas entrantes; realizar llamadas de seguimiento; calificar prospectos; gestionar recordatorios; automatizar campañas telefónicas y conversaciones de servicio al cliente.",
+        "main_advantages": "Permite escalar operaciones telefónicas sin depender exclusivamente de agentes humanos y automatiza conversaciones repetitivas durante todo el día.",
+        "long_description": "Autocalls es una plataforma para desarrollar agentes de voz con inteligencia artificial capaces de participar en conversaciones telefónicas. Puede utilizarse para automatizar llamadas entrantes y salientes, seguimiento de clientes, campañas comerciales, recordatorios y soporte. La herramienta busca permitir que organizaciones escalen procesos telefónicos mediante flujos automatizados e integraciones con sus sistemas comerciales.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Planes desde aproximadamente USD 27/mes, con niveles Pro, Agency y White Label; el precio depende también del volumen de minutos.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://autocalls.ai/"
+        }
+      ]
+    }
+  }
+}

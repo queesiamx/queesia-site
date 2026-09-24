@@ -1,0 +1,1740 @@
+{
+  "schemaVersion": 1,
+  "apps": {
+    "51": {
+      "app": {
+        "id": "51",
+        "name": "ZappitAI",
+        "url": "https://zappit.ai/",
+        "short_description": "Utiliza escuadrones de agentes de IA entrenados específicamente para corregir errores técnicos y generar contenido de alto rango.",
+        "category": "SEO",
+        "main_functionality": "Automatización de tareas de SEO mediante análisis de sitios web, identificación de problemas técnicos, investigación de palabras clave y generación de recomendaciones prácticas para mejorar el rendimiento en motores de búsqueda.",
+        "tags": "#SEO #OptimizaciónWeb #MarketingDigital",
+        "logo_filename": "id_51_zappit_ai",
+        "what_is": "ZappitAI es una herramienta de optimización para motores de búsqueda (SEO) que utiliza inteligencia artificial para automatizar tareas complejas, facilitando la mejora del posicionamiento web sin requerir conocimientos profundos en SEO.",
+        "purpose": "Su propósito principal es analizar sitios web, realizar investigaciones de palabras clave, identificar problemas técnicos y proporcionar pasos prácticos para mejorar las clasificaciones en los motores de búsqueda, aumentando así la presencia en línea de empresas e individuos.",
+        "use_cases": "Pequeñas empresas: Propietarios de negocios con conocimientos limitados en SEO pueden utilizar ZappitAI para mejorar la visibilidad de su sitio web y atraer más clientes. \n\nProfesionales de marketing: Especialistas en marketing pueden aprovechar ZappitAI para optimizar tareas de SEO, ahorrando tiempo y recursos en sus estrategias digitales. \n\nBlogueros: Creadores de contenido pueden utilizar ZappitAI para optimizar sus publicaciones y aumentar el tráfico orgánico hacia sus blogs.",
+        "main_advantages": "Auditoría Técnica: Realiza una auditoría exhaustiva del sitio web, descubriendo problemas técnicos ocultos que afectan el rendimiento del SEO y proporcionando instrucciones claras para resolverlos. \n\nInvestigación de Palabras Clave: Explora diversas fuentes como Reddit, Quora y \"Preguntas Relacionadas\" para identificar oportunidades de palabras clave de alto tráfico. \n\nAcciones Paso a Paso™: Desglosa tareas complejas de SEO en pasos manejables y personalizados llamados \"Acciones\", guiando a los usuarios a través del proceso de optimización. \n\nAccesibilidad: Empodera a usuarios sin experiencia técnica en SEO para mejorar su presencia en línea de manera efectiva. ",
+        "long_description": "ZappitAI es una plataforma de optimización para motores de búsqueda (SEO) que emplea inteligencia artificial para automatizar y simplificar procesos complejos de SEO. La herramienta realiza auditorías técnicas detalladas de sitios web, identificando y proporcionando soluciones a problemas que puedan afectar el rendimiento en los motores de búsqueda. Además, lleva a cabo investigaciones exhaustivas de palabras clave, analizando múltiples fuentes como Reddit, Quora y \"People Also Ask\" para descubrir oportunidades de alto tráfico. ZappitAI ofrece \"Acciones Paso a Paso\", desglosando tareas complejas en pasos manejables y personalizados, facilitando la implementación de estrategias efectivas de SEO sin necesidad de conocimientos técnicos profundos.",
+        "release_date": "No disponible.",
+        "developer": "ZappitAI.",
+        "main_model": "No disponible.\n\n",
+        "pricing_plans": "Gratuito: $0 - 1 dominio (sin actualización)\n\nAuditoría Técnica de 15 páginas\nInvestigación de palabras clave universales\nTodas las acciones técnicas de™ Zappit\n2 Acciones de contenido de™ Zappit                                                                                                                        STARTUP: $59/mes - 1 dominio (posibilidad de añadir más)\nAuditoría técnica de 50 páginas\nInvestigación de palabras clave universales\nTodas las acciones técnicas de™ Zappit\n5 Acciones de Zappit de™ contenido\n\n$59 por cada dominio adicional",
+        "license": "Propietaria de ZappitAI.",
+        "security_privacy": "ZappitAI se compromete a proteger la información de sus usuarios, implementando medidas de seguridad para salvaguardar los datos recopilados. Para consultas o inquietudes sobre estas políticas, se recomienda contactar a ZappitAI a través del correo electrónico.",
+        "integration": "No disponible."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://zappit.ai/?utm_source=superhuman&utm_medium=newsletter&utm_campaign=a-peek-at-gemini-2-0&_bhlid=47a1228ee25b69db8ab8aaad00516dba6fff860e"
+        },
+        {
+          "source_url": "https://www.aitoolnet.com/es/zappit-ai"
+        },
+        {
+          "source_url": "https://slashdot.org/software/p/Zappit-AI/"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/product/Zappit-AI/"
+        }
+      ]
+    },
+    "205": {
+      "app": {
+        "id": "205",
+        "name": "Zaplify",
+        "url": "https://www.andsend.com/",
+        "short_description": "Encuentre a los responsables de la toma de decisiones clave, comuníquese automáticamente y obtenga información procesable, eliminando los procesos de ventas manuales y repetitivos",
+        "category": "Automatización",
+        "main_functionality": "Automatiza la prospección de ventas y el contacto personalizado a través de múltiples canales, como LinkedIn y correo electrónico, permitiendo una comunicación eficiente con los tomadores de decisiones clave",
+        "tags": "#AutomatizaciónDeVentas #Prospección #CRM #AnálisisDeVentas",
+        "logo_filename": "id_205_zaplify",
+        "what_is": "Zaplify es una plataforma de automatización de ventas impulsada por inteligencia artificial que permite a los equipos de ventas B2B identificar y contactar automáticamente a los tomadores de decisiones clave a través de canales como LinkedIn y correo electrónico. La herramienta integra análisis avanzados y se conecta con sistemas CRM para optimizar el proceso de generación de leads y la gestión de relaciones con los clientes.",
+        "purpose": "Zaplify está diseñada para automatizar la prospección de ventas y facilitar el contacto personalizado con clientes potenciales, permitiendo a los profesionales de ventas y marketing B2B aumentar la eficiencia en la generación de leads y mejorar la comunicación con los tomadores de decisiones.",
+        "use_cases": "Generación de Leads: Identificación y contacto automatizado con clientes potenciales a través de campañas personalizadas en LinkedIn y correo electrónico. \n\nAutomatización de Ventas: Implementación de secuencias de alcance automatizadas para nutrir leads y avanzar en el embudo de ventas de manera eficiente. \n\nIntegración con CRM: Sincronización de datos de clientes y actividades de ventas con sistemas CRM existentes para una gestión centralizada.",
+        "main_advantages": "Eficiencia Mejorada: Automatiza tareas repetitivas de prospección, liberando tiempo para que los equipos de ventas se enfoquen en actividades estratégicas. \n\nAlcance Multicanal: Permite contactar a clientes potenciales a través de múltiples canales, aumentando las oportunidades de interacción efectiva. \n\nAnálisis Avanzados: Proporciona información detallada sobre el rendimiento de las campañas, facilitando la toma de decisiones basada en datos. \n\nPersonalización a Escala: Utiliza IA para crear mensajes personalizados, mejorando la relevancia y efectividad de las comunicaciones. ",
+        "long_description": "Zaplify es una plataforma de automatización de ventas impulsada por inteligencia artificial, diseñada para optimizar la prospección y el contacto personalizado en entornos B2B. La herramienta permite a los equipos de ventas identificar y conectar automáticamente con tomadores de decisiones clave a través de canales como LinkedIn y correo electrónico. Ofrece funcionalidades como la calificación de prospectos, integración con sistemas CRM y colaboración en equipo, facilitando la gestión eficiente del proceso de ventas. Además, proporciona análisis de rendimiento detallados y secuencias de mensajes personalizables, permitiendo a los usuarios ajustar sus estrategias de alcance para maximizar la efectividad de sus campañas.",
+        "release_date": "No disponible",
+        "developer": "Zaplify Group AB",
+        "main_model": "Zaplify utiliza algoritmos de inteligencia artificial para automatizar la prospección y el contacto personalizado en ventas. Los detalles específicos sobre el modelo de IA empleado no se encuentran disponibles en las fuentes consultadas.",
+        "pricing_plans": "Plan Gratuito: Incluye funciones básicas con un alcance limitado de prospectos por mes.\n\nPlan Starter: A partir de €89/mes (o €67/mes con facturación anual), ofrece acceso a 100 prospectos, 2 usuarios activos y características adicionales como mayor velocidad de alcance y colaboración en equipo.\n\nPlan Premium: Dirigido a equipos de ventas empresariales, con precios personalizados y soluciones adaptadas a las necesidades específicas de la empresa.",
+        "license": "No disponible.",
+        "security_privacy": "Zaplify asegura el cumplimiento total del Reglamento General de Protección de Datos (RGPD), garantizando la protección de los datos personales de los usuarios y clientes.",
+        "integration": "Zaplify se integra con diversas aplicaciones, incluyendo:\n\nHubSpot CRM\n\nHubSpot Sales Hub\n\nPipedrive\n\nUpsales CRM\n\nWebhook Relay \nGETAPP\n\nEstas integraciones permiten una gestión centralizada y eficiente del proceso de ventas, facilitando la sincronización de datos y la optimización de las estrategias de alcance."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.andsend.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=adobe-s-ai-powered-future"
+        },
+        {
+          "source_url": "https://aihungry.com/tools/zaplify"
+        },
+        {
+          "source_url": "https://www.capterra.com/p/250115/Zaplify/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/zaplify/reviews"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/zaplify/"
+        },
+        {
+          "source_url": "https://www.andsend.com/pricing"
+        },
+        {
+          "source_url": "https://app.andsend.com/privacy-policy"
+        }
+      ]
+    },
+    "246": {
+      "app": {
+        "id": "246",
+        "name": "Zencoder",
+        "url": "https://zencoder.ai/",
+        "short_description": "Un agente que permite a los desarrolladores enviar productos más rápido mediante una comprensión profunda de su base de código y la automatización de tareas de varios pasos.",
+        "category": "Automatización",
+        "main_functionality": "Conversión y optimización de archivos de video para su distribución en diferentes dispositivos y plataformas mediante una API escalable y eficiente.",
+        "tags": "#TranscodificaciónDeVideo #API #ProcesamientoDeVideo #VideoEnLaNube",
+        "logo_filename": "id_246_zencoder",
+        "what_is": "Zencoder es una plataforma de transcodificación de video en la nube que permite convertir archivos de video en diversos formatos, asegurando que puedan reproducirse en múltiples dispositivos y plataformas. Esta solución está diseñada para facilitar la distribución de contenido multimedia a través de una API potente y fácil de integrar.",
+        "purpose": "El propósito principal de Zencoder es optimizar y convertir archivos de video para garantizar su compatibilidad con diferentes formatos, dispositivos y redes. Es una herramienta ideal para empresas y desarrolladores que necesitan entregar contenido multimedia de alta calidad a su audiencia de manera eficiente.",
+        "use_cases": "Servicios de transmisión de video: Plataformas de streaming que requieren codificar contenido multimedia para diferentes calidades y dispositivos.\nDistribución de contenido en redes sociales: Creadores de contenido que optimizan videos para su publicación en plataformas como YouTube o Instagram.\nAplicaciones móviles y sitios web: Empresas que desean garantizar que sus videos sean compatibles con reproductores integrados en diferentes sistemas operativos.\nEducación y formación en línea: Plataformas eLearning que requieren formatos compatibles para cursos en video.",
+        "main_advantages": "Escalabilidad: Capacidad para manejar grandes volúmenes de procesamiento de video de forma rápida y eficiente.\nAutomatización: API que permite una integración sencilla y automatización del flujo de trabajo de transcodificación.\nCalidad optimizada: Ofrece configuraciones avanzadas para garantizar una alta calidad en la salida del video.\nCompatibilidad: Transcodifica videos para cumplir con los requisitos de reproducción en múltiples dispositivos, incluyendo móviles, tablets y computadoras.\nSoporte técnico: Documentación detallada y soporte confiable para resolver dudas o problemas durante la implementación.",
+        "long_description": "Zencoder es una plataforma de transcodificación de video en la nube que permite a los usuarios convertir archivos de video a diversos formatos, garantizando su compatibilidad con múltiples dispositivos y plataformas. Ofrece una API robusta que facilita la integración y automatización de procesos de codificación, asegurando rapidez y confiabilidad en la entrega de contenido multimedia.",
+        "release_date": "Noviembre 2024",
+        "developer": "Brightcove Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "Prueba Gratuita: Permite realizar trabajos de codificación de prueba con salidas limitadas a 5 segundos y marcas de agua.\nPay-as-you-go: Sin costo mensual fijo; se paga $0.05 por minuto de video de salida.\nLaunch: $40 mensuales, incluye 1,000 minutos de video de salida; minutos adicionales a $0.04 cada uno.\nTraction: $300 mensuales, incluye 10,000 minutos de video de salida; minutos adicionales a $0.03 cada uno.\nGrowth: $2,000 mensuales, incluye 100,000 minutos de video de salida; minutos adicionales a $0.02 cada uno.\nEnterprise: Planes personalizados según las necesidades del cliente.",
+        "license": "Propietario",
+        "security_privacy": "Zencoder recopila y utiliza datos personales de empleados de clientes, socios y proveedores para gestionar relaciones comerciales, mejorar servicios y cumplir con obligaciones legales. Los datos pueden compartirse con afiliados, proveedores y autoridades legales bajo estrictas medidas de seguridad. Garantizan protección de la información, derechos de los usuarios (como acceso y corrección), y cumplen con normativas internacionales. Retienen los datos solo mientras sea necesario para su propósito o requerido por la ley.",
+        "integration": "Zencoder ofrece una API bien documentada que permite una integración sencilla con diversas aplicaciones y servicios, facilitando la automatización de flujos de trabajo de codificación y la compatibilidad con múltiples formatos de entrada y salida."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://zencoder.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=alphabet-and-meta-clap-back"
+        },
+        {
+          "source_url": "https://huntscreens.com/es/products/zencoder-714"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/zencoder"
+        },
+        {
+          "source_url": "https://www.brightcove.com/es/products/zencoder/"
+        },
+        {
+          "source_url": "https://zencoder.ai/privacy-policy"
+        },
+        {
+          "source_url": "https://zencoder.ai/pricing"
+        },
+        {
+          "source_url": "https://zencoder.ai/product"
+        },
+        {
+          "source_url": "https://zencoder.ai/about"
+        }
+      ]
+    },
+    "270": {
+      "app": {
+        "id": "270",
+        "name": "Zebracat",
+        "url": "https://www.zebracat.ai/",
+        "short_description": "Convierta texto sin formato o audio en videos de tendencia en las redes sociales con solo unos pocos clics.",
+        "category": "Texto a video",
+        "main_functionality": "Transformación de texto en videos con voces generadas por IA y efectos visuales.",
+        "tags": "#GeneraciónDeVideo #TextoaVideo #AIVoiceover",
+        "logo_filename": "id_270_zebracat",
+        "what_is": "Zebracat es una plataforma impulsada por inteligencia artificial que automatiza la creación de videos, permitiendo a los usuarios convertir texto, guiones o publicaciones de blog en contenido audiovisual atractivo de manera rápida y eficiente.",
+        "purpose": "Su principal función es facilitar la producción de videos de alta calidad para estrategias de marketing, redes sociales y otros fines comunicativos, sin necesidad de habilidades avanzadas en edición de video.",
+        "use_cases": "Marketing de Productos: Presentación de nuevos productos mediante videos promocionales que destacan sus características y beneficios.\n\nEducación y Formación: Creación de videos educativos o tutoriales que explican conceptos o procedimientos de manera visual y auditiva.\n\nContenido para Redes Sociales: Generación de videos atractivos para plataformas como Instagram, TikTok o YouTube, aumentando el compromiso y la interacción con la audiencia.\n\nComunicación Interna: Elaboración de videos informativos para empleados, facilitando la difusión de políticas, noticias o actualizaciones dentro de una organización.",
+        "main_advantages": "Ahorro de Tiempo: Automatiza tareas que tradicionalmente requerían horas de edición, reduciendo significativamente el tiempo de producción. \n\nReducción de Costos: Disminuye la necesidad de contratar servicios externos de producción de video, optimizando el presupuesto destinado a marketing y comunicación. \n\nFacilidad de Uso: Su interfaz intuitiva permite a usuarios sin experiencia en edición de video crear contenido profesional. \n\nPersonalización: Ofrece opciones para ajustar voces, estilos visuales y otros elementos, asegurando que el video se alinee con la identidad de la marca o las preferencias del usuario. \n\nVersatilidad: Capaz de producir diversos tipos de contenido, desde anuncios hasta videos educativos, adaptándose a múltiples necesidades y sectores. ",
+        "long_description": "Zebracat es una plataforma de inteligencia artificial diseñada para transformar texto en videos de alta calidad de manera eficiente. Permite a los usuarios convertir indicaciones de texto, guiones o publicaciones de blog en contenido audiovisual atractivo, incorporando voces generadas por IA, música y efectos visuales. La herramienta ofrece una interfaz intuitiva que facilita la personalización de elementos como voces, estilos visuales y efectos, adaptándose a las necesidades específicas de marketing, educación y comunicación en redes sociales.",
+        "release_date": "Mayo 2024.",
+        "developer": "La plataforma fue desarrollada por un equipo de expertos en inteligencia artificial y edición de video, aunque la información específica sobre la compañía no está disponible.",
+        "main_model": "Zebracat utiliza modelos avanzados de inteligencia artificial para la generación de video y síntesis de voz, aunque los detalles específicos sobre los algoritmos empleados no se han divulgado públicamente.",
+        "pricing_plans": "Plan gratuito\nExplora la creación básica de videos sin costo, solo creatividad.\n$\n0\n/ por mes\nComenzar\nGeneración de video\n• 5 créditos/semana\n• ∼1 min/semana\n• Exporta hasta 720p\nIncluye\n\nDuración del vídeo de hasta 30 segundos\n\nVoces Al estándar\n\n+80 idiomas\n\nMillones de clips de vídeo y activos musicales de stock\n\nContiene marca de agua Zebracat\n\nModo Gato\nAcceda a voces de IA ultrarrealistas, imágenes de IA premium y sin marcas de agua.\n$\n19.5\n\n/ por mes\n*Facturado $234 al año\nComenzar\nGeneración de video\n• 120 créditos/mes\n• ∼30 min/mes\n• Exporta hasta 1080p\nIncluye\n\nTodo en Gratis\n\nSin marca de agua\n\nVoces de IA ultrarrealistas\n\nImágenes premium de Al\n\nDuración del vídeo de hasta 2 minutos\n\nProcesamientos de vídeo rápidos\n\n1 Kit de Marca\n\nSúper Gato\nDesbloquea la IA más avanzada con avatares, clonación de voz y personalización precisa.\n$\n49\n\n/ por mes\n*Facturado $588 al año\n300 créditos/mes (∼ 70 min)\n300\n\n700\n1500\nComenzar\nGeneración de video\n• 300 créditos/mes\n• ∼70 min/mes\n• Exporta hasta 1080p\nIncluye\n\nTodo en modo gato\n\nAvatares de IA\n\nClonación de voz\n\nEstilos de IA personalizados\n\nConsistencia de caracteres\n\nDuración del vídeo de hasta 5 minutos\n\nProcesamiento de vídeo más rápido\n\n10 Kits de Marca",
+        "license": "La plataforma opera bajo una licencia propietaria, lo que significa que el software no es de código abierto y su uso está sujeto a los términos y condiciones establecidos por los desarrolladores.",
+        "security_privacy": "Zebracat cumple con las normativas de protección de datos aplicables, incluyendo el Reglamento General de Protección de Datos (GDPR) de la Unión Europea, garantizando la privacidad y seguridad de la información de los usuarios. \n",
+        "integration": "La plataforma permite la importación de contenido propio y la utilización de material de archivo, facilitando la integración con otras herramientas de creación y edición de contenido. Sin embargo, no se especifica compatibilidad directa con aplicaciones o servicios externos."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.zebracat.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=gpt-4o-lands-on-smart-glasses"
+        },
+        {
+          "source_url": "https://appsumo.com/products/zebracat/"
+        },
+        {
+          "source_url": "https://easywithai.com/ai-video-tools/zebracat/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/zebracat-ai/makers"
+        },
+        {
+          "source_url": "https://www.zebracat.ai/pricing"
+        },
+        {
+          "source_url": "https://www.capterra.com/p/10020732/Zebracat/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://www.thataicollection.com/es/application/zebracat/"
+        }
+      ]
+    },
+    "530": {
+      "app": {
+        "id": "530",
+        "name": "YourMove AI",
+        "url": "https://www.yourmove.ai/",
+        "short_description": "Asistente de inteligencia artificial que optimiza perfiles y conversaciones en aplicaciones de citas, mejorando la calidad de las interacciones y aumentando las posibilidades de éxito en plataformas como Tinder, Bumble y Hinge.",
+        "category": "Citas",
+        "main_functionality": "Genera perfiles de citas personalizados y sugerencias de mensajes basados en las características y preferencias del usuario, facilitando la creación de perfiles atractivos y conversaciones efectivas en aplicaciones de citas.",
+        "tags": "#AsistenteDeCitas #GeneradorDePerfiles #MensajesPersonalizados #OptimizaciónDeCitas #IAEnCitas",
+        "logo_filename": "id_530_your_move",
+        "what_is": "YourMove AI es una innovadora aplicación web diseñada para agilizar la experiencia de citas en línea mediante el uso de inteligencia artificial. Ofrece herramientas como un asistente de chat que genera mensajes y respuestas personalizadas, facilitando a los usuarios iniciar y mantener conversaciones atractivas.",
+        "purpose": "La plataforma está diseñada para mejorar la experiencia de citas en línea, ayudando a los usuarios a crear perfiles más atractivos y a mantener conversaciones más interesantes y personalizadas.",
+        "use_cases": "Asistente de Chat: Genera respuestas personalizadas y coquetas a los mensajes recibidos, ayudando a mantener conversaciones interesantes sin esfuerzo. \n\nRedactor de Perfiles: Ayuda a crear un perfil de citas ingenioso y atractivo al resaltar las mejores características del usuario, haciendo que el perfil se destaque entre los posibles matches. \n\nRevisión de Perfiles: Proporciona comentarios instantáneos sobre el perfil con sugerencias para mejorarlo, incluyendo el análisis de fotos y la mejora de la biografía. \n\nFotos Mejoradas por IA: Optimiza las fotos de perfil para resaltar las características más atractivas, aumentando el atractivo en las plataformas de citas. \n",
+        "main_advantages": "Mejora de la Eficiencia en las Citas en Línea: Al automatizar la generación de mensajes y la creación de perfiles, los usuarios pueden dedicar menos tiempo a la preparación y más tiempo a las interacciones reales. \n\nAumento de las Posibilidades de Éxito: Perfiles y mensajes optimizados incrementan la probabilidad de obtener más coincidencias y citas exitosas. \n\nPersonalización y Adaptabilidad: Las herramientas de IA permiten adaptar las respuestas y los perfiles a las preferencias individuales, creando una experiencia más personalizada y auténtica. \n\nReducción del Estrés Asociado a las Citas en Línea: Al proporcionar asistencia en la creación de perfiles y en la comunicación, YourMove AI ayuda a disminuir la ansiedad y el agotamiento que pueden surgir en las plataformas de citas.",
+        "long_description": "YourMove AI es una aplicación diseñada para optimizar la experiencia en las citas en línea mediante inteligencia artificial. Ofrece herramientas como un asistente de chat que genera respuestas personalizadas, un redactor de perfiles que ayuda a crear biografías atractivas y una función de mejora de fotos para optimizar las imágenes de perfil.",
+        "release_date": "No disponible",
+        "developer": "YourMove AI.",
+        "main_model": "Utiliza modelos avanzados de procesamiento de lenguaje natural para generar contenido personalizado y relevante en el contexto de las citas en línea.",
+        "pricing_plans": "Plan Freemium: Acceso gratuito con funcionalidades básicas.\n\nPlan Premium:\n\nMensual: $9.99 por mes.\nAnual: $49.99 por año.\nSemanal: $4.99 por semana.\nPaquetes Adicionales:\n\nProfile Poet: Crea perfiles de citas personalizados por $9.99.\nMejoras de Fotos de Tinder: Optimiza fotos de perfil con hasta 90 imágenes generadas en más de 15 estilos diferentes por $34.",
+        "license": "No disponible",
+        "security_privacy": "YourMove AI implementa protocolos de seguridad para proteger la información de los usuarios y mantener la confidencialidad de las conversaciones. Se recomienda revisar las políticas de privacidad en su sitio web para obtener detalles específicos.",
+        "integration": "YourMove AI se integra con diversas aplicaciones de citas y mensajería, facilitando la generación de contenido personalizado directamente en las plataformas utilizadas por el usuario."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/yourmove-ai"
+        },
+        {
+          "source_url": "https://www.yourmove.ai/dating-profile-generator"
+        },
+        {
+          "source_url": "https://theresanaiforthat.com/ai/yourmove/"
+        },
+        {
+          "source_url": "https://medium.com/@eddiehernandez/yourmove-ai-review-ai-dating-assistant-54de486fddf3"
+        },
+        {
+          "source_url": "https://aitoptools.com/tool/yourmove/\n\n"
+        },
+        {
+          "source_url": "https://www.aitooljunction.com/tool/yourmove/"
+        },
+        {
+          "source_url": "https://aipromptly.com/tool/yourmove/"
+        },
+        {
+          "source_url": "https://aidoks.com/tools/yourmove/"
+        }
+      ]
+    },
+    "546": {
+      "app": {
+        "id": "546",
+        "name": "You.com",
+        "url": "https://you.com/",
+        "short_description": "Consigue seis meses gratis de you.com Pro, lo mejor de la IA. Acceda a +20 modelos de IA en una plataforma de chat de IA centralizada y fácil de usar, incluidos los últimos modelos de OpenAI, Anthropic, Google y más\n",
+        "category": "Chat",
+        "main_functionality": "Ofrece resultados de búsqueda personalizados y permite interacciones conversacionales a través de un chatbot integrado, facilitando la obtención de información y la realización de tareas como redacción de correos electrónicos, generación de código y resúmenes de artículos.",
+        "tags": "#IA #MotorDeBúsqueda #Chatbot #Productividad",
+        "logo_filename": "id_546_youcom",
+        "what_is": "You.com es un motor de búsqueda impulsado por inteligencia artificial que ofrece una experiencia de búsqueda personalizada y centrada en la privacidad del usuario. Integra diversas herramientas de IA, como chatbots y generadores de contenido, para proporcionar resultados más relevantes y adaptados a las preferencias individuales.",
+        "purpose": "You.com está diseñado para mejorar la productividad en el lugar de trabajo al proporcionar respuestas rápidas y precisas a las consultas de los usuarios. Además, permite la creación de contenido asistida por IA, como redacción de textos y generación de imágenes, facilitando tareas cotidianas y profesionales.",
+        "use_cases": "Investigación Académica: Estudiantes y académicos pueden utilizar You.com para acceder a información precisa y relevante de manera eficiente.\nCreación de Contenido: Escritores y creadores de contenido pueden aprovechar las herramientas de generación de texto e imágenes para desarrollar sus proyectos.\nProductividad Empresarial: Profesionales pueden utilizar You.com para obtener respuestas rápidas y asistencia en tareas como redacción de correos electrónicos y generación de código.",
+        "main_advantages": "Privacidad del Usuario: You.com prioriza la privacidad, ofreciendo modos de búsqueda que no rastrean ni almacenan datos personales. \n\nResultados Personalizados: El motor de búsqueda se adapta a las preferencias del usuario, proporcionando resultados más relevantes y útiles. \n\nIntegración de Herramientas de IA: Incluye funcionalidades como chatbots y generadores de contenido que mejoran la experiencia del usuario y aumentan la productividad. \n\nInterfaz Intuitiva: Ofrece una interfaz organizada y fácil de usar, facilitando la navegación y el acceso a la información",
+        "long_description": "You.com es un motor de búsqueda impulsado por inteligencia artificial que ofrece una experiencia de búsqueda personalizada y centrada en la privacidad del usuario. Además de proporcionar resultados de búsqueda tradicionales, integra herramientas como YouChat, un chatbot conversacional, y YouImagine, un generador de imágenes AI, para mejorar la productividad y la interacción del usuario.",
+        "release_date": "2020",
+        "developer": "SuSea Inc., fundada por Richard Socher y Bryan McCann.",
+        "main_model": "You.com utiliza modelos avanzados de lenguaje natural y aprendizaje automático para ofrecer respuestas precisas y personalizadas. Integra modelos de IA como GPT-4 y Claude 3.5 Sonnet en sus planes de suscripción.",
+        "pricing_plans": "Plan Gratuito: Acceso limitado a consultas básicas y respuestas en tiempo real.\n\nPlan Pro: Por $15 al mes (facturado anualmente), brinda acceso a todos los modelos de IA, cargas de archivos de hasta 25 MB por consulta y una ventana de contexto de hasta 64k.\n\nPlan para Equipos: Por $25 al mes (facturado anualmente), ofrece consultas ilimitadas, cargas de archivos de hasta 50 MB y una ventana de contexto de hasta 200k, además de no retener datos ni utilizarlos para entrenar modelos.\n\nPlan Empresarial: Soluciones personalizadas para organizaciones con acceso ilimitado a agentes de IA. \n",
+        "license": "Propietaria",
+        "security_privacy": "You.com prioriza la privacidad del usuario, no almacenando datos confidenciales ni permitiendo el rastreo por parte de anuncios o sitios web. Ofrece modos de búsqueda que no rastrean ni almacenan datos personales, garantizando una experiencia de búsqueda segura y privada.",
+        "integration": "You.com se integra con diversas aplicaciones y servicios para enriquecer los resultados de búsqueda, permitiendo a los usuarios priorizar fuentes y personalizar su experiencia. Además, ofrece herramientas como YouCode para desarrolladores y YouImagine para la generación de imágenes AI."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://you.com/superhuman?utm_source=superhuman&utm_medium=referral&utm_campaign=ai-complicates-centuries-old-language-puzzle"
+        },
+        {
+          "source_url": "https://play.google.com/store/apps/details?id=com.you.browser&hl=es_EC"
+        },
+        {
+          "source_url": "https://medium.com/@MeteCevik/you-com-ai-powered-personalised-search-experience-efabd13add02"
+        },
+        {
+          "source_url": "https://www.crunchbase.com/organization/you-com-523e"
+        },
+        {
+          "source_url": "https://www.filehorse.com/es/descargar-you-com/"
+        },
+        {
+          "source_url": "https://www.elgrupoinformatico.com/web/youcom-buscador-ia-competir-google-chatgpt/"
+        },
+        {
+          "source_url": "https://inteligencias.es/ia/motor-de-busqueda/you-com/"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/you/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://you.com/plans"
+        },
+        {
+          "source_url": "https://you.com/privacy"
+        }
+      ]
+    },
+    "646": {
+      "app": {
+        "id": "646",
+        "name": "Yapz",
+        "url": "https://yapz.app/",
+        "short_description": "Un creador de formularios impulsado por IA diseñado para que las personas digan lo que piensan en tiempo real, para que cualquiera pueda hacer preguntas y ver el panorama completo.",
+        "category": "Productividad",
+        "main_functionality": "Facilita la creación de formularios interactivos que simulan conversaciones amistosas, incentivando a los usuarios a compartir sus opiniones y proporcionando información instantánea.",
+        "tags": "#FormulariosConversacionales #InteracciónEnTiempoReal #GeneraciónDeContenido",
+        "logo_filename": "id_646_yapz",
+        "what_is": "Yapz es una plataforma en línea gratuita que permite a los usuarios crear formularios interactivos que simulan conversaciones amistosas. Diseñada para ser intuitiva y divertida, facilita la recopilación de opiniones en tiempo real, ofreciendo una visión completa de las respuestas obtenidas.",
+        "purpose": "Yapz sirve para transformar preguntas y formularios tradicionales en experiencias conversacionales personalizadas. Esto permite obtener información instantánea de los participantes y convertir sus respuestas en contenido viral, ampliando el alcance y la interacción con el público objetivo.",
+        "use_cases": "Investigación de Mercado: Empresas pueden utilizar Yapz para recopilar comentarios de clientes sobre nuevos productos o servicios, obteniendo información valiosa para análisis de mercado.\n\nGeneración de Contenido Viral: Creadores de contenido pueden diseñar encuestas interactivas que, al ser compartidas, generan contenido atractivo y aumentan la participación de la audiencia.\n\nEducación: Educadores pueden emplear Yapz para crear cuestionarios interactivos que evalúen el conocimiento de los estudiantes de manera dinámica y atractiva.\n\nEventos y Conferencias: Organizadores pueden interactuar con los asistentes mediante formularios conversacionales, recopilando opiniones y sugerencias en tiempo real para mejorar la experiencia del evento.",
+        "main_advantages": "Interactividad Mejorada: Convierte formularios estáticos en conversaciones dinámicas, aumentando la tasa de participación de los usuarios.\n\nRecopilación de Datos en Tiempo Real: Permite obtener y analizar respuestas de manera instantánea, facilitando la toma de decisiones informadas.\n\nGeneración de Contenido Atractivo: Las respuestas recopiladas pueden transformarse en contenido viral, ampliando el alcance y la visibilidad.\n\nFacilidad de Uso: Su diseño intuitivo permite que cualquier persona, sin necesidad de conocimientos técnicos, pueda crear formularios conversacionales personalizados.\n\nCompromiso con la Privacidad: Yapz asegura la protección de los datos de los usuarios, garantizando la confidencialidad de la información recopilada. ",
+        "long_description": "Yapz es una plataforma en línea gratuita que permite a los usuarios crear formularios interactivos que simulan conversaciones amistosas. Diseñada para ser intuitiva y divertida, facilita la recopilación de opiniones en tiempo real, ofreciendo una visión completa de las respuestas obtenidas. Yapz transforma preguntas y formularios tradicionales en experiencias conversacionales personalizadas, permitiendo obtener información instantánea de los participantes y convertir sus respuestas en contenido viral, ampliando el alcance y la interacción con el público objetivo.",
+        "release_date": "Enero 2025",
+        "developer": "Yapz.app",
+        "main_model": "No disponible",
+        "pricing_plans": "Yapz es una herramienta gratuita que permite a los usuarios crear formularios conversacionales personalizados sin costo alguno.",
+        "license": "No se ha encontrado información específica sobre el tipo de licencia bajo la cual opera Yapz.",
+        "security_privacy": "Yapz recopila información proporcionada por el usuario, datos del dispositivo y utiliza cookies para mejorar la funcionalidad del sitio. La información se emplea para mantener y mejorar los servicios, comunicarse con los usuarios y analizar el uso del sitio. Yapz comparte datos con proveedores de servicios de confianza y puede divulgarlos por razones legales. Los usuarios tienen derechos sobre sus datos personales y pueden contactarlos para ejercerlos. La política de privacidad puede actualizarse, y la versión más reciente estará disponible en su sitio web.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://yapz.app/?utm_source=superhuman&utm_medium=referral&utm_campaign=deepseek-s-r1-rocks-the-economy"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/yapz"
+        },
+        {
+          "source_url": "https://www.aibase.com/tool/35902"
+        },
+        {
+          "source_url": "https://huntscreens.com/en/products/yapz"
+        }
+      ]
+    },
+    "695": {
+      "app": {
+        "id": "695",
+        "name": "YesChat",
+        "url": "https://www.yeschat.ai/",
+        "short_description": "Plataforma de chat impulsada por inteligencia artificial que ofrece conversaciones dinámicas y asistencia en tiempo real en diversos temas.",
+        "category": "Chat",
+        "main_functionality": "Proporciona interacciones conversacionales inteligentes utilizando modelos avanzados de IA para responder preguntas, generar contenido y asistir en tareas variadas.",
+        "tags": "#AsistenteVirtual #Chatbot #IAConversacional #AtenciónAlCliente #GeneraciónDeContenido",
+        "logo_filename": "id_695_yeschat",
+        "what_is": "YesChat es una plataforma de conversación basada en inteligencia artificial que ofrece interacciones dinámicas, precisas y atractivas para una amplia variedad de temas, funcionando como asistente virtual, tutor, creador de contenido y más.",
+        "purpose": "Está diseñada para proporcionar respuestas informativas, resolver problemas, generar contenido creativo y apoyar el aprendizaje continuo en múltiples ámbitos, desde tareas escolares hasta proyectos personales.",
+        "use_cases": "Asistencia académica para estudiantes y educadores.\nSoporte técnico y resolución de problemas.\nGeneración de contenido creativo como historias o poesía.\nConsejos sobre viajes, salud, estilo de vida y más.",
+        "main_advantages": "Interfaz accesible sin necesidad de iniciar sesión ni suscripción.\nDisponible las 24 horas.\nSoporte para múltiples temas con capacidad adaptativa.\nRespuestas informativas y contextuales.\nHerramienta gratuita impulsada por tecnología ChatGPT-4o.",
+        "long_description": "YesChat es una plataforma de IA que mejora la productividad y creatividad mediante herramientas como chat inteligente, generador de música y videos desde texto, y una plataforma de bots personalizables, todo impulsado por modelos avanzados como GPT-4o, Claude 3 y DeepSeek-R1.",
+        "release_date": "No disponible",
+        "developer": "No disponible",
+        "main_model": "YesChat integra múltiples modelos de IA de última generación, incluyendo DeepSeek-R1, GPT-o1, GPT-4o, Claude 3.5 Sonnet y Claude 3 Opus, para ofrecer una amplia gama de funcionalidades avanzadas.",
+        "pricing_plans": "YesChat ofrece planes Ultra ($16/mes) y Unlimited ($40/mes), que incluyen acceso a múltiples modelos de IA (GPT-4, Claude 3), generación de música y video con IA, uso en 2 dispositivos, licencia comercial y soporte prioritario, con el plan Unlimited brindando acceso ilimitado a varias funciones.",
+        "license": "No disponible",
+        "security_privacy": "No se proporciona información específica sobre las medidas de seguridad y privacidad implementadas por YesChat en las fuentes disponibles.",
+        "integration": "YesChat ofrece una plataforma de bots que permite a los usuarios acceder y personalizar modelos de IA especializados para diversas tareas e industrias, facilitando la integración con diferentes flujos de trabajo y necesidades empresariales. ​"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.yeschat.ai/"
+        },
+        {
+          "source_url": "https://allthingsai.com/tool/yeschat"
+        },
+        {
+          "source_url": "https://10web.io/ai-tools/yeschat/"
+        },
+        {
+          "source_url": "https://deepgram.com/ai-apps/yeschat-ai"
+        }
+      ]
+    },
+    "852": {
+      "app": {
+        "id": "852",
+        "name": "Zendesk",
+        "url": "https://www.zendesk.com/",
+        "short_description": "Plataforma de CRM de ventas y servicio al cliente que ayuda a tu empresa a brindar experiencias excepcionales a los clientes mediante el uso de IA.",
+        "category": "Chat",
+        "main_functionality": "Automatización de servicios de atención al cliente mediante agentes de IA, chat en vivo, centro de ayuda, y análisis de datos para optimizar la experiencia del usuario.",
+        "tags": "#AtenciónAlCliente #IA #Automatización #Chatbot #AnálisisDeDatos #Omnicanal​\n",
+        "logo_filename": "id_852_zendesk",
+        "what_is": "Zendesk es una plataforma de atención al cliente que integra herramientas de inteligencia artificial para automatizar y mejorar las interacciones con los usuarios. Ofrece soluciones como agentes de IA, chat en vivo, sistemas de tickets y análisis de datos para proporcionar un servicio eficiente y personalizado.",
+        "purpose": "Está diseñada para ayudar a las empresas a gestionar y optimizar sus servicios de atención al cliente, permitiendo respuestas rápidas, resolución eficiente de problemas y una experiencia coherente en todos los canales de comunicación.",
+        "use_cases": "Automatización de respuestas a consultas frecuentes mediante chatbots.\n\nGestión de tickets de soporte técnico y seguimiento de incidencias.\n\nAnálisis de datos para identificar tendencias y mejorar la satisfacción del cliente.\n\nIntegración de múltiples canales de comunicación (correo electrónico, chat, redes sociales) en una sola plataforma.​",
+        "main_advantages": "Reducción del tiempo de respuesta y resolución de problemas.\n\nMejora de la eficiencia operativa mediante automatización.\n\nExperiencia de usuario coherente y personalizada en todos los canales.\n\nEscalabilidad para adaptarse a empresas de diferentes tamaños y sectores.​\n\n",
+        "long_description": "Zendesk es una plataforma de atención al cliente que combina inteligencia artificial y funcionalidades tradicionales para ofrecer un servicio completo y eficiente. Sus características incluyen agentes de IA que automatizan interacciones, chat en vivo y mensajería en tiempo real, un centro de ayuda para autoservicio, herramientas de análisis y reportes para evaluar el desempeño, e integraciones con plataformas como Jira y Slack.",
+        "release_date": "2007",
+        "developer": "Zendesk Inc.",
+        "main_model": "Utiliza una combinación de modelos de IA propios y tecnologías de aprendizaje automático para potenciar sus funcionalidades.",
+        "pricing_plans": "Support Team: Desde $19 por agente/mes.\n\nSuite Team: Desde $55 por agente/mes.\n\nSuite Professional: Desde $115 por agente/mes.\n\nSuite Enterprise: Precio personalizado según necesidades.",
+        "license": "Propietaria",
+        "security_privacy": "Zendesk cumple con normativas como GDPR, ofreciendo funciones de privacidad y seguridad integradas en el diseño de sus productos.",
+        "integration": "Ofrece integraciones con plataformas como Jira, Slack, Salesforce, y más, facilitando la conexión con diversas herramientas empresariales."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.zendesk.co.uk/?utm_source=superhuman&utm_medium=referral&utm_campaign=anthropic-peers-into-ai-s-black-box"
+        },
+        {
+          "source_url": "https://www.elevatiq.com/post/zendesk-acquisition-local-measure/"
+        },
+        {
+          "source_url": "https://www.techcircle.in/2025/03/27/zendesk-unveils-ai-powered-resolution-platform-to-improve-customer-service/"
+        },
+        {
+          "source_url": "https://www.zendesk.com/newsroom/press-releases/relate-2025-resolution-platform/"
+        },
+        {
+          "source_url": "https://www.cmswire.com/the-wire/zendesk-revolutionizes-customer-experience-with-the-launch-of-agentic-ai-powered-zendesk-resolution-platform/"
+        }
+      ]
+    },
+    "861": {
+      "app": {
+        "id": "861",
+        "name": "Ztalk.ai",
+        "url": "https://ztalk.ai/",
+        "short_description": "Rompe las barreras lingüísticas en las videollamadas con la traducción en tiempo real impulsada por IA.",
+        "category": "Traducción",
+        "main_functionality": "Traducción instantánea de voz a voz en videollamadas, integrándose con plataformas como Zoom, Google Meet y Microsoft Teams.",
+        "tags": "#TraducciónAutomática #TraducciónVozAVoz #ComunicaciónMultilingüe #IntegraciónVideollamadas #IA​",
+        "logo_filename": "id_861_ztalkai",
+        "what_is": "Ztalk.ai es una aplicación de escritorio que utiliza inteligencia artificial para proporcionar traducción de voz en tiempo real durante videollamadas. Su objetivo es eliminar las barreras lingüísticas, facilitando la comunicación fluida entre personas que hablan diferentes idiomas.",
+        "purpose": "Permite a los usuarios mantener conversaciones naturales en su idioma nativo durante videollamadas, mientras la aplicación traduce y transmite la voz en el idioma del interlocutor, en tiempo real.",
+        "use_cases": "Reuniones de negocios internacionales.\n\nColaboración entre equipos multilingües.\n\nEntrevistas o sesiones de soporte técnico con clientes de diferentes regiones.\n\nEventos virtuales con participantes de diversos países.",
+        "main_advantages": "Traducción de voz en tiempo real sin necesidad de subtítulos.\n\nIntegración sencilla con plataformas de videollamadas populares.\n\nFacilita la comunicación efectiva en entornos multilingües.\n\nMejora la inclusión y participación en reuniones virtuales.",
+        "long_description": "Ztalk.ai es una innovadora aplicación de escritorio diseñada para facilitar la comunicación multilingüe en tiempo real durante videollamadas. Utilizando tecnologías avanzadas de inteligencia artificial, la aplicación traduce la voz del hablante y la transmite en el idioma del oyente casi instantáneamente. Compatible con plataformas como Zoom, Google Meet y Microsoft Teams, Ztalk.ai elimina la necesidad de intérpretes humanos o subtítulos, permitiendo conversaciones más naturales y fluidas. Su interfaz intuitiva y su capacidad para integrarse sin complicaciones la convierten en una herramienta valiosa para empresas y equipos internacionales que buscan mejorar la colaboración y la eficiencia en entornos diversos.",
+        "release_date": "Abril 2025",
+        "developer": "Zeo (YC W20)",
+        "main_model": "Utiliza servicios de OpenAI y Azure OpenAI Service para procesamiento de lenguaje natural y traducción.",
+        "pricing_plans": "Actualmente, Ztalk.ai se ofrece de forma gratuita.",
+        "license": "Propietaria",
+        "security_privacy": "No se encontró información específica sobre políticas de privacidad o medidas de seguridad implementadas por Ztalk.ai.",
+        "integration": "Se integra con plataformas de videollamadas como Zoom, Google Meet y Microsoft Teams."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://ztalk.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=meta-launches-all-in-one-ai-app"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/ztalk-ai/reviews?review=1260180&utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://hunted.space/product/ztalk-ai"
+        },
+        {
+          "source_url": "https://www.curatifyai.com/ztalk-ai/"
+        },
+        {
+          "source_url": "https://oncely.com/products/ztalk-ai-discount"
+        }
+      ]
+    },
+    "934": {
+      "app": {
+        "id": "934",
+        "name": "Zeda",
+        "url": "https://zeda.io/",
+        "short_description": "Una herramienta de gestión de productos impulsada por IA para transformar los comentarios de los clientes en información procesable, lo que le ayuda a crear los productos que los clientes desean.",
+        "category": "Marketing",
+        "main_functionality": "Recopilación y análisis automatizado de feedback del cliente para generar insights que guíen la estrategia de producto y priorización de características.",
+        "tags": "#GestiónDeProductos #IA #DescubrimientoDeProductos #VozDelCliente #AnálisisDeFeedback",
+        "logo_filename": "id_934_zedaio",
+        "what_is": "Zeda.io es una plataforma de gestión de productos que utiliza inteligencia artificial para centralizar y analizar el feedback de clientes, transformándolo en insights que permiten a los equipos de producto tomar decisiones informadas sobre qué construir a continuación.",
+        "purpose": "Ayuda a los equipos de producto a identificar problemas relevantes para los clientes, decidir qué construir a continuación basándose en inteligencia de producto accionable y crear estrategias de producto que impulsen resultados empresariales.",
+        "use_cases": "Recopilación automatizada de feedback desde múltiples canales como Slack, Intercom y encuestas.\n\nAnálisis de sentimientos y categorización de feedback para identificar áreas de mejora.\n\nPriorización de características basada en el impacto potencial en ingresos y satisfacción del cliente.",
+        "main_advantages": "Integración con más de 5000 aplicaciones para una recopilación de feedback integral.\n\nGeneración de insights personalizados para áreas clave del producto.\n\nAnálisis en tiempo real del impacto en ingresos para una planificación de producto proactiva.\n\nAutomatización de tareas operativas, liberando tiempo para la estrategia de producto.",
+        "long_description": "Zeda.io es una plataforma de descubrimiento y estrategia de productos impulsada por inteligencia artificial que permite a los equipos de producto centralizar y analizar el feedback de clientes desde múltiples fuentes. Utiliza modelos de aprendizaje automático para transformar este feedback en insights accionables, facilitando la identificación de problemas relevantes, la priorización de características y la creación de estrategias de producto alineadas con los objetivos empresariales. Con integraciones con más de 5000 aplicaciones, Zeda.io automatiza la recopilación de feedback y proporciona herramientas para medir el impacto en ingresos y satisfacción del cliente.",
+        "release_date": "2021",
+        "developer": "Zeda.io",
+        "main_model": "Modelos de aprendizaje automático para análisis de feedback y generación de insights.",
+        "pricing_plans": "Ofrece planes PRO y personalizados. El plan PRO tiene un costo de $99/mes o $799 por creador/año.",
+        "license": "Propietaria",
+        "security_privacy": "Zeda.io prioriza la seguridad de los datos, utilizando cifrado de nivel empresarial y garantizando que la información del usuario no se utilice para entrenar modelos de IA ni se comparta con terceros.",
+        "integration": "Compatible con más de 5000 aplicaciones, incluyendo Salesforce, HubSpot, Slack, entre otras, facilitando la sincronización de datos y la automatización de flujos de trabajo."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Sprinque reunió a todas sus partes interesadas en un solo lugar y mejoró la calidad del trabajo con Zeda.io",
+          "description": "Sprinque, especializada en pagos B2B, adoptó Zeda.io para centralizar la colaboración entre equipos y reemplazar documentación dispersa. Esto mejoró la alineación estratégica, facilitó su expansión a Alemania y elevó la calidad general del trabajo al permitir una visión unificada de objetivos y prioridades.",
+          "url": "https://zeda.io/case-studies/sprinque?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-drops-new-agentic-tools-for-developers"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Stellapps mejora un 60% la ejecución de funcionalidades con Zeda.io",
+          "description": "Stellapps, una Agrotech enfocada en la cadena de valor láctea, optimizó su gestión de productos SaaS al implementar Zeda.io. Esta solución permitió centralizar feedback, organizar documentación y planificar hojas de ruta, lo que resultó en una mejora del 60% en la ejecución de funcionalidades y una mayor alineación estratégica en su innovación tecnológica.",
+          "url": "https://zeda.io/case-studies/stellapps?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-drops-new-agentic-tools-for-developers"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Nimble centraliza la planificación de productos y mejora la calidad del trabajo con Zeda.io",
+          "description": "Nimble, especializada en soluciones IoT como Waggle, enfrentaba dificultades por la dispersión de datos en herramientas como Google Sheets y Jira. Con Zeda.io, logró centralizar la planificación, mejorar la visibilidad de iniciativas y fortalecer la toma de decisiones con retroalimentación consolidada, elevando la calidad del trabajo y la colaboración entre equipos.",
+          "url": "https://zeda.io/case-studies/nimble?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-drops-new-agentic-tools-for-developers"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://zeda.io/?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-drops-new-agentic-tools-for-developers"
+        },
+        {
+          "source_url": "https://www.navto.ai/zeda-io"
+        },
+        {
+          "source_url": "https://www.demandgenreport.com/industry-news/zeda-io-unveils-new-ai-feature-that-harnesses-customer-feedback/47020/"
+        },
+        {
+          "source_url": "https://blog.buildbetter.ai/zeda-io-is-shutting-down-what-happened-top-alternatives-for-product-teams/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/zeda-io"
+        },
+        {
+          "source_url": "https://webflow.com/made-in-webflow/website/zeda-new"
+        }
+      ]
+    },
+    "961": {
+      "app": {
+        "id": "961",
+        "name": "Zinc",
+        "url": "https://zinc.com/",
+        "short_description": "Potencie a sus agentes de IA con datos minoristas de alta calidad y automatización de pedidos para que pueda escalar más rápido.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Proporcionar datos en vivo de catálogo y precios, y automatizar la realización de pedidos a través de llamadas RESTful para alimentar a agentes y aplicaciones de IA.",
+        "tags": "#AIAgents #RetailAPI #OrderAutomation #LiveProductData #DevTools #EcommerceIntegration",
+        "logo_filename": "id_961_zincai",
+        "what_is": "Es una plataforma de API REST que centraliza el acceso a datos de productos, precios, disponibilidad y procesamiento de pedidos de múltiples retailers, diseñada específicamente para alimentar agentes y aplicaciones de IA.",
+        "purpose": "Permite a desarrolladores y empresas incorporar de manera rápida y sencilla capacidades de búsqueda de productos, comparativa de precios y ejecución de compras dentro de workflows de IA, sin gestionar cuentas ni integraciones individuales con cada retailer.",
+        "use_cases": "Asistentes de compras basados en IA: Búsqueda y compra automática de productos según criterios del usuario.\n\nAutomatización de comercio electrónico: Integrar pedidos programáticos en sistemas de logística y supply chain.\n\nHerramientas de análisis de mercado: Recopilar datos de precios en vivo para modelado y comparativas.\n\nChatbots transaccionales: Permitir a un chatbot realizar compras o tracking de pedidos directamente.",
+        "main_advantages": "Reducción de complejidad: No necesita gestionar múltiples credenciales y límites de cuenta de retailers.\n\nEscalabilidad: ZMA (Zinc Managed Accounts) permite altos volúmenes de pedidos sin cierres o restricciones.\n\nFlexibilidad: ZincWorks ofrece extensiones y adaptaciones a medida para nuevos retailers o flujos específicos.\n\nRapidez de integración: Documentación robusta y ejemplos listos para usar.",
+        "long_description": "Zinc ofrece un conjunto de endpoints que cubren: búsqueda de productos, obtención de detalles (imágenes, descripciones, precios, stock), creación y gestión de pedidos, seguimiento y devoluciones. Su servicio ZMA gestiona de forma centralizada cuentas de retailer para evitar límites de API o cierres de cuenta. Además, ZincWorks permite a clientes extender la plataforma con nuevas integraciones o características específicas. Todo se accede vía REST con autenticación segura, ejemplos de código en varios lenguajes, y un dashboard para monitorizar el rendimiento y métricas de uso.",
+        "release_date": "Febrero 2025",
+        "developer": "Zinc Technologies, Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "Prueba / Demo: Solicitud gratuita de demo o trial.\n\nEnterprise / Custom: Planes de pago personalizados según volumen de pedidos y necesidades de cuentas gestionadas.",
+        "license": "Servicio propietario SaaS.",
+        "security_privacy": "Conexiones seguras por HTTPS.\n\nGestión centralizada de credenciales de retailers en ZMA, evitando exponer cuentas del cliente.\n\nPolítica de privacidad disponible en el sitio, aunque sin detalle técnico pormenorizado.",
+        "integration": "API RESTful con ejemplos en varios SDKs.\n\nDashboard web para monitorización.\n\nSoporte para Webhooks o callbacks tras eventos de pedido o tracking.\n\nPotencial integración con pipelines de ML / LLM tool-calling gracias a endpoints optimizados para IA."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://zinc.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=decoding-model-context-protocol"
+        },
+        {
+          "source_url": "https://www.producthunt.com/posts/zinc-5\n"
+        },
+        {
+          "source_url": "https://www.eliteai.tools/tool/zinc"
+        },
+        {
+          "source_url": "https://zinc.com/features"
+        }
+      ]
+    },
+    "1021": {
+      "app": {
+        "id": "1021",
+        "name": "Zeno",
+        "url": "https://youzeno.com/",
+        "short_description": "Convierte los videos de YouTube en aprendizaje breve, sabiduría seleccionada y estadísticas prácticas.",
+        "category": "Productividad",
+        "main_functionality": "Convierte vídeos de YouTube en “tarjetas” de aprendizaje que incluyen ideas clave, pasos para aplicar, sugerencias de contenido y más, facilitando la retención y reutilización.",
+        "tags": "#AIYouTubeCurator #VideoSummarizer #LearningCards #ContentCuration #ProductivityAI",
+        "logo_filename": "id_1021_zeno",
+        "what_is": "Una plataforma de IA para analizar vídeos de YouTube, extraer lo esencial y entregar insights claros, con posibilidad de interactuar con un agente de IA que profundice en el contenido.",
+        "purpose": "Facilita el aprendizaje eficiente, la generación de ideas y la creación de contenido derivado (e.g., posts en X o planes de acción), evitando el consumo pasivo de vídeos largos.\n\n",
+        "use_cases": "Estudiantes y profesionales que desean sintetizar vídeos educativos o formativos.\n\nEmprendedores en busca de ideas inspiradas en conferencias, podcasts o charlas.\n\nCreadores que buscan contenido para redes sociales derivado directamente de vídeos.",
+        "main_advantages": "Resume cada vídeo en tarjetas accionables y fácilmente digeribles. \n\nIncluye sugerencias creativas e ideas de contenido automáticamente.\n\nProporciona interactividad mediante conversación con un asistente de IA.",
+        "long_description": "Zeno transforma vídeos de YouTube en aprendizajes estructurados mediante 8 tarjetas que incluyen insights, pasos a seguir, ideas de negocio, clips destacados, sugerencias de posts e incluso listas de lectura recomendada. Permite crear rutas de aprendizaje, interactuar con un agente de IA y ganar tokens por curación de contenido. ",
+        "release_date": "Junio 2025",
+        "developer": "Startup liderada por Marco Borgato, asociado a ikivibelabs.",
+        "main_model": "Emplea algoritmos propietarios de resumen y curación de vídeo basados en IA; no revela detalles técnicos.",
+        "pricing_plans": "Plan diario: aproximadamente $0.11 por acceso.\n\nPrueba gratuita disponible. ",
+        "license": "Propietaria; no hay versión open source.",
+        "security_privacy": "No se han publicado políticas específicas; asume uso estándar de YouTube API y datos del usuario.",
+        "integration": "Importación directa desde YouTube; exportación de ideas, aprendizaje y sugerencias. Integración actual en su propia UI con recompensas de tokens."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://youzeno.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=everything-announced-at-wwdc"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/zeno-2"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/zeno"
+        },
+        {
+          "source_url": "https://www.mozillafoundation.org/en/blog/zeno-an-interactive-tool-for-ai-model-evaluation"
+        },
+        {
+          "source_url": "https://www.zeno.com"
+        }
+      ]
+    },
+    "1066": {
+      "app": {
+        "id": "1066",
+        "name": "YouWare",
+        "url": "https://www.youware.com/",
+        "short_description": "Construye, comparte y obtén comentarios uniéndote a esta comunidad de programación de vibraciones.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Creación de proyectos digitales (apps, webs, juegos) mediante lenguaje natural, con soporte de IA para diseño, depuración y despliegue, todo dentro de una comunidad colaborativa. ",
+        "tags": "#NoCode, #VibeCoding, #AIAppGenerator, #ComunidadCreativa, #PrototipadoRápido",
+        "logo_filename": "id_1066_youware",
+        "what_is": "Una plataforma de desarrollo sin código (no‑code) que introduce el enfoque \"vibe coding\": crear apps digitales mediante texto conversacional con IA, facilitando el proceso para creadores sin conocimientos técnicos.",
+        "purpose": "Para que usuarios como gestores de producto, marketers, diseñadores o creativos puedan construir y prototipar aplicaciones, sitios web o juegos de forma rápida y accesible, con ayuda de una comunidad activa.",
+        "use_cases": "Product managers, creativos y marketing: generación de MVPs, landing pages o prototipos sin esperar a desarrolladores. \n\nDiseñadores: permite convertir diseños de Figma en sitios web funcionales dentro de la plataforma. \n",
+        "main_advantages": "Accesibilidad total, sin necesidad de codificar. \n\nComunidad vibrante (más de 100 000 creadores y 300 000 proyectos disponibles para inspiración). \n\nSoporte de IA continuo para iteración rápida en diseños, depuración y despliegue. ",
+        "long_description": "YouWare es un entorno integral donde los usuarios pueden idear, diseñar, corregir y lanzar proyectos digitales mediante prompts de lenguaje natural, con apoyo de IA. La plataforma combina generación de código sin necesidad de programar, con una comunidad colaborativa que facilita inspiración, retroalimentación y aprendizaje compartido. ",
+        "release_date": "2025",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "No disponible",
+        "license": "No disponible",
+        "security_privacy": "No disponible",
+        "integration": "Se menciona compatibilidad con flujos de diseño como Figma, permitiendo transformar diseños en aplicaciones funcionales, pero no se especifican otras integraciones."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://i.youware.com/"
+        },
+        {
+          "source_url": "https://completeaitraining.com/ai-tools/youware/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/youware?"
+        }
+      ]
+    },
+    "1090": {
+      "app": {
+        "id": "1090",
+        "name": "Zero",
+        "url": "https://0.email/",
+        "short_description": "Un cliente de correo electrónico nativo de IA que administra su bandeja de entrada, para que usted no tenga que hacerlo.",
+        "category": "Redacción",
+        "main_functionality": "Gestiona automaticamente la bandeja de entrada mediante resumen de hilos, redacción de respuestas y organización inteligente.",
+        "tags": "#IA #CorreoElectrónico #OpenSource #Autohost #ResumenAutomático #RedacciónIA #InboxChat",
+        "logo_filename": "id_1090_zeromail",
+        "what_is": "Es un cliente de correo electrónico de código abierto y nativo de IA, diseñado para automatizar y simplificar la gestión del correo.",
+        "purpose": "Reduce la carga de gestionar correos electrónicos al priorizar mensajes importantes, resumir hilos extensos, redactar respuestas automáticamente y proporcionar una interfaz conversacional con la bandeja de entrada.",
+        "use_cases": "Resumen rápido de largas cadenas de correos.\n\nRedacción asistida de respuestas por parte de un agente de IA.\n\nInteracción tipo chat con la bandeja de entrada para buscar, organizar o responder mensajes.\n\nUnificación de múltiples cuentas (Gmail, Outlook) en una sola interfaz.",
+        "main_advantages": "Transparencia y privacidad gracias a su naturaleza de código abierto. \n\nControl total de datos al permitir el auto‑hosting. \n\nFluidez en la gestión del correo mediante IA integrada desde el diseño.",
+        "long_description": "Zero es un sistema de correo completamente abierto y controlable que integra IA desde su núcleo. Construido con tecnologías modernas como Next.js, React y PostgreSQL, permite resumir hilos largos, categorizar correos inteligentes, redactar respuestas contextuales, y convertir la bandeja de entrada en una experiencia conversacional tipo chat. Apoya múltiples proveedores (Gmail, Outlook) y se puede hospedar en tus propios servidores.",
+        "release_date": "2025",
+        "developer": "Fundada por Nizar Abi Zaher y Adam Wazzan, con sede en San Francisco. Apoyada por Y Combinator.",
+        "main_model": "Utiliza agentes e infraestructura de modelos de lenguaje (LLMs), aunque no se especifica el modelo exacto o proveedor. Se puede clasificar como “modelo de IA no especificado o no disponible públicamente”.",
+        "pricing_plans": "Se trata de un proyecto de código abierto y en beta pública; no se mencionan modelos de suscripción (gratuito hasta ahora).",
+        "license": "De código abierto. En el repositorio de GitHub se indica que es open-source (MIT u otro similar, aunque no especificado en la información disponible).",
+        "security_privacy": "Enfoque prioritario en la privacidad. No rastrea ni vende datos de los usuarios. \n\nRequiere integración con servicios externos (como Gmail), cuyos datos siguen bajo control de sus políticas. \n\nSi se auto‑hospeda, el usuario controla completamente la base de datos y la infraestructura.",
+        "integration": "Soporta integración con proveedores de correo externos como Gmail y Outlook. Puede integrarse en infraestructura de servidor propia mediante Docker, Next.js, Node.js, PostgreSQL, etc."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://0.email/"
+        },
+        {
+          "source_url": "https://www.ycombinator.com/companies/zero"
+        },
+        {
+          "source_url": "https://dev.to/ramunarasinga-11/0email-ai-powered-email-built-to-save-you-time-33ic"
+        }
+      ]
+    },
+    "1153": {
+      "app": {
+        "id": "1153",
+        "name": "Zentask",
+        "url": "https://zentask.ai/",
+        "short_description": "Plataforma integral tipo “marketplace” de prompts de IA que permite generar contenido —texto, imágenes, estructuras académicas, código, etc.— mediante plantillas y herramientas colaborativas, pensada para simplificar tareas profesionales.",
+        "category": "Productividad",
+        "main_functionality": "Biblioteca de prompts listos para usar y personalizar; generación de imágenes a partir de texto; redacción de copys, esqueleto de ensayos, código con instrucciones; permite a usuarios diseñar y monetizar sus propios prompts.",
+        "tags": "#PromptMarketplace #AIProductivity\n#TextToImage #PromptEngineering",
+        "logo_filename": "id_1153_zentask",
+        "what_is": "Plataforma que reúne herramientas de IA (desde GPT‑3.5/4 hasta generadores visuales como Stable Diffusion y Midjourney) en una interfaz accesible, orientada a profesionales de diversos sectores.",
+        "purpose": "Facilita la creación rápida de contenido (textos SEO, imágenes promocionales, estructuras académicas, código, etc.) mediante prompts predefinidos o personalizados, y permite monetizar prompts propios.",
+        "use_cases": "Marketeros y bloggers que necesitan contenido SEO-optimizado o ideas visuales atractivas. \n\nIngenieros y desarrolladores que buscan snippets de código o estructuras de trabajo rápidas. \n\nEstudiantes y académicos que requieren esquemas de ensayos, resúmenes y documentación. \n\nPrompt engineers que desean crear y vender prompts en el marketplace.",
+        "main_advantages": "Acceso integrado a modelos de IA avanzados (GPT‑3.5/4, PaLM 2; DALL‑E, Stable Diffusion, Midjourney). \n\nAmplia biblioteca de prompts categorizados y adaptables con lenguaje, tono y formato personalizables. \n\nMonetización para creadores de prompts. \n\nInterfaz intuitiva que centraliza múltiples flujos de creación (texto e imagen).",
+        "long_description": "Zentask se presenta como un entorno integrado para la creación con IA, combinando un marketplace de prompts, soporte para generación de texto e imágenes, y acceso a múltiples modelos (OpenAI, Google, Midjourney, entre otros). Su interfaz está diseñada para aumentar la productividad, ofreciendo prompts para marketing, escritura académica, desarrollo técnico, y permitiendo a los usuarios diseñar y comercializar sus propios recursos.",
+        "release_date": "2023",
+        "developer": "No disponible",
+        "main_model": "No se detalla el modelo exacto, aunque incluye GPT‑3.5/4, PaLM 2, DALL‑E 2 y otros.",
+        "pricing_plans": "Modelo freemium — acceso gratis con ciertas limitaciones.\n\nPlan PRO (desde approx. $5.99/mes) con uso ilimitado, mejores modelos y sin restricciones.\n\nPlanes para equipos disponible (desde ~$59.40/mes para hasta 5 usuarios).",
+        "license": "Propietaria.",
+        "security_privacy": "No disponible",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://toolai.io/en/ai/zentask"
+        },
+        {
+          "source_url": "https://aitools-dev.neilpatel.com/ai_tools/zentask/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/zentask-ai"
+        },
+        {
+          "source_url": "https://10web.io/ai-tools/zentask/"
+        },
+        {
+          "source_url": "https://aitechfy.com/aitool/zentask"
+        },
+        {
+          "source_url": "https://aitoolboard.com/tool/zentask.ai"
+        }
+      ]
+    },
+    "1164": {
+      "app": {
+        "id": "1164",
+        "name": "Zapform",
+        "url": "https://www.zapform.ai/",
+        "short_description": "Califica clientes potenciales y aumenta la conversión con formularios impulsados por IA.",
+        "category": "Marketing",
+        "main_functionality": "Genera formularios conversacionales que califican leads automáticamente, ofrecen insights en tiempo real, puntuación inteligente de leads y sincronización cifrada con más de 100 herramientas integradas.",
+        "tags": "#FormulariosIA #LeadCapture #Conversión #SinCode #InsightsIA #IntegracionesCRM",
+        "logo_filename": "id_1164_zapform",
+        "what_is": "ZapForm es una plataforma SaaS que combina generación de formularios IA, análisis instantáneo de campañas, calificación inteligente de leads y alto nivel de integración sin código.",
+        "purpose": "Ayuda a equipos de marketing, fundadores y gestores de campañas a aumentar la conversión de tráfico en leads cualificados, acelerar procesos de captación y automatizar flujos de datos hacia sus herramientas habituales.",
+        "use_cases": "Creación instantánea de formularios objetivos que se alinean con la campaña.\n\nCaptación en vivo con limpieza de datos automática (evita duplicados y filtrado de leads fuera del ICP).\n\nGeneración de informes con aprendizajes clave y próximos pasos sugeridos.",
+        "main_advantages": "Formulario conversacional inteligente: desde idea a formulario en minutos. \n\nCaptura en tiempo real y limpieza automática de datos. \n\nInformes automáticos que resumen campaña y proponen acciones. \n\nSincronización segura y cifrada con CRMs, Google Suite, calendarios y más.",
+        "long_description": "ZapForm es una solución integral de forms inteligentes impulsada por IA que acelera la conversión de visitantes en clientes. Su motor genera formularios según la campaña, califica leads al instante, proporciona reportes automáticos y se integra con más de 100 servicios (CRMs, herramientas de email, Google Suite), todo con cifrado y sin necesidad de programar. Ideal para equipos que buscan rapidez, precisión y escalabilidad.",
+        "release_date": "No disponible",
+        "developer": "ZapForm es presentado como creado por product managers, líderes de marketing y expertos en campañas dentro de 19Ventures.",
+        "main_model": "Usa IA generativa y scoring inteligente para formularios dinámicos y calificación automática de leads. No se detallan modelos específicos.",
+        "pricing_plans": "Libre: Gratis hasta 1 000 respuestas/mes, incluye integraciones básicas (Sheets, Calendar, Email, Slack, Webhook).\n\nLifetime: Pago único ($100), incluye respuestas ilimitadas, lógica condicional, workflows y futuras funcionalidades.",
+        "license": "Plataforma propietaria SaaS; contenido y datos generados pertenecen al cliente, mientras que la tecnología base es de ZapForm.",
+        "security_privacy": "Política de “privacy by design”; datos cifrados, cumplimiento de privacidad, no venta de datos personales, retención limitada y posibilidad de eliminación.",
+        "integration": "Ofrece integraciones con CRM, Google Suite, calendarios, Slack, Mailchimp, HubSpot, Airtable, Webhooks, Zapier, etc. Más de 100 conexiones en total."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://zapform.ai/"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/zapform"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/compare/Form-n-Go-vs-ZapForm/"
+        }
+      ]
+    },
+    "1274": {
+      "app": {
+        "id": "1274",
+        "name": "Z-Image",
+        "url": "https://www.zimagebase.org/",
+        "short_description": "Genera imágenes de alta calidad a partir de texto al instante.",
+        "category": "Generación de arte",
+        "main_functionality": "Generación de imágenes por IA a partir de prompts de texto (texto→imagen), ofreciendo modos orientados a calidad (Z-Image-Base) y a rapidez (Z-Image-Turbo), con planes por créditos.",
+        "tags": "#GeneraciónDeArte #TextoAImagen #ImagenesIA #Prompting #ModelosIA",
+        "logo_filename": "id_1274_zimage",
+        "what_is": "Z-Image-Base es una plataforma web para generar imágenes con IA a partir de texto. Presenta dos enfoques de generación indicados en su sitio: Z-Image-Base (orientado a calidad) y Z-Image-Turbo (orientado a velocidad).",
+        "purpose": "Sirve para crear imágenes de alta calidad mediante instrucciones en texto (prompts), útil para producción creativa rápida, prototipado visual y experimentación con estilos/variantes.",
+        "use_cases": "Creación de ilustraciones y artes conceptuales desde descripciones.\n\nGeneración de variaciones visuales para ideas creativas y contenido digital.\n\nPrototipado rápido de propuestas visuales (p. ej., conceptos para campañas o contenidos).",
+        "main_advantages": "Generación texto→imagen en línea, con producción “al instante”.\n\nEnfoque diferenciado por modo: calidad (Base) vs. velocidad (Turbo).\n\nEsquema por créditos con planes escalables para distintos niveles de uso.",
+        "long_description": "Z-Image-Base ofrece un generador de imágenes por IA a partir de texto, destacando dos alternativas de generación: Z-Image-Base (enfocado en calidad) y Z-Image-Turbo (enfocado en rapidez). Opera con un sistema de créditos mensuales según plan, y añade beneficios por nivel como acceso a modelos, prioridad de procesamiento y ejecución de tareas en paralelo. También publica una política de privacidad donde describe los tipos de datos que recopila (contacto, uso y dispositivo), su uso (operación, soporte, mejoras y prevención de incidencias) y el empleo de terceros para facilitar/analizar servicios.",
+        "release_date": "2025",
+        "developer": "Z-Image-Base.",
+        "main_model": "No disponible",
+        "pricing_plans": "Inicial: $8.25/mes — 600 créditos/mes; ~3,600 generaciones Z-Image-Base/año; ~7,200 generaciones Z-Image-Turbo/año; acceso a la mayoría de modelos; atención al cliente básica.\n\nProfesional (Más popular): $19.9/mes — 2,400 créditos/mes (+40% bono); ~14,400 generaciones Z-Image-Base/año; ~28,800 generaciones Z-Image-Turbo/mes (tal como aparece en la captura); procesamiento prioritario; tareas en paralelo; acceso a todos los modelos; acceso temprano a modelos avanzados; atención al cliente 24 horas.\n\nTitán (Best value): $59.9/mes — 9,000 créditos/mes (+50% bono); ~54,000 generaciones Z-Image-Base/año; ~108,000 generaciones Z-Image-Turbo/año; todas las tareas con prioridad; más paralelismo; acceso a todos los modelos; acceso temprano; atención 24 horas; 20% de descuento adicional; acceso API (próximamente).",
+        "license": "No disponible",
+        "security_privacy": "Indica que puede recopilar información personal (nombre, email y datos de contacto), datos de uso (páginas visitadas/tiempo) y datos del dispositivo (IP, navegador, sistema operativo). Señala que usa esa información para operar y mantener el servicio, notificar cambios, dar soporte, mejorar el servicio, monitorear uso y detectar/prevenir problemas técnicos. Menciona medidas de seguridad técnicas y organizativas, uso de terceros para facilitar/analizar servicios, posibilidad de actualizar la política y contacto vía support@zimagebase.org\n. (Fecha visible en la captura: 2025/03/10).",
+        "integration": "API (próximamente) (mencionado en el plan Titán). Otras integraciones: No disponible."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.zimagebase.org/"
+        },
+        {
+          "source_url": "https://www.zimagebase.org/es/blog"
+        },
+        {
+          "source_url": "https://www.zimagebase.org/es/pricing"
+        },
+        {
+          "source_url": "https://www.zimagebase.org/es/privacy"
+        },
+        {
+          "source_url": "https://www.zimagebase.org/es/about"
+        }
+      ]
+    },
+    "1275": {
+      "app": {
+        "id": "1275",
+        "name": "YepCode",
+        "url": "https://yepcode.io/?",
+        "short_description": "Plataforma centrada en el desarrollo para construir, ejecutar y escalar integraciones seguras impulsadas por IA.",
+        "category": "Automatización",
+        "main_functionality": "Construcción y ejecución de integraciones/automatizaciones (conexión a APIs, bases de datos y servicios) y ejecución segura de scripts —incluidos generados por IA— en sandboxes con controles operativos (secrets, logs y auditoría).",
+        "tags": "#Automatización #Integraciones #API #DevTools #Sandboxes #AIWorkflows",
+        "logo_filename": "id_1275_yepcode",
+        "what_is": "YepCode es una plataforma “developer-first” para construir, ejecutar y escalar integraciones impulsadas por IA, permitiendo escribir código que se conecta a cualquier API, base de datos o servicio y ejecutarlo de forma segura en sandboxes con capacidades operativas integradas (secrets, dependencias, logs y trazas de auditoría).",
+        "purpose": "Sirve para desarrollar y operar integraciones/automatizaciones basadas en código (incluyendo scripts generados por IA) sin montar infraestructura propia, con control de ejecución, concurrencia, almacenamiento y APIs.",
+        "use_cases": "Automatizaciones que conectan múltiples APIs/servicios (sincronización de datos, pipelines, tareas programadas).\n\nEjecución controlada de scripts para procesos internos (ETL ligero, validaciones, notificaciones).\n\nIntegraciones con trazabilidad (logs/auditoría) y gestión de secretos en ambientes aislados.",
+        "main_advantages": "Entornos aislados (sandboxes) para ejecutar scripts con mayor seguridad operativa.\n\nComponentes operativos integrados: secretos, dependencias, logs e “audit trails”.\n\nEscalabilidad por planes con mayor tiempo de ejecución, RAM y concurrencia.\n\nAPI REST disponible en planes (según la tabla de precios mostrada).",
+        "long_description": "YepCode se presenta como una plataforma para desarrolladores orientada a crear y operar integraciones “AI-powered”, conectando código con APIs, bases de datos y servicios. Destaca la ejecución de scripts (incluidos generados por IA) en sandboxes aislados, con gestión de secrets, dependencias, logs e audit trails. Sus planes escalan límites de ejecución (tiempo total y por ejecución), RAM, concurrencia, almacenamiento, historial de ejecuciones y capacidades de soporte, además de ofrecer acceso a una API REST.",
+        "release_date": "2021",
+        "developer": "YepCode ",
+        "main_model": "No disponible",
+        "pricing_plans": "Developer (Free, no credit card required): incluye 50K Yeps (segundos de tiempo de ejecución); máx. 300 ejecuciones/día; sandboxes con CPU/memoria limitadas; máx. 30 s por ejecución; 1 ejecución concurrente; 1 miembro; 3 días de historial; hasta 5 archivos (máx. 5MB c/u); 5MB de disco local; YepCode REST API; soporte comunitario.\n\nStarter (€119/mes): incluye 15M Yeps; +€0.00001 por “yep” extra; sandboxes con 300MB RAM; máx. 1 hora por ejecución; 10 ejecuciones concurrentes; hasta 10 miembros; 1 semana de historial; hasta 100 archivos; 250MB de disco local; YepCode REST API; 1,000 entradas en Datastore; soporte por email.\n\nGrowth (€599/mes): incluye 150M Yeps; +€0.000005 por “yep” extra; sandboxes con 600MB RAM; máx. 12 horas por ejecución; 50 ejecuciones concurrentes; miembros ilimitados; 1 mes de historial; hasta 1,000 archivos; 5GB de disco local; YepCode REST API; 20,000 entradas en Datastore; módulo de auditoría; opciones on-premise con límites aumentados; soporte por email y teléfono.",
+        "license": "No disponible",
+        "security_privacy": "No disponible",
+        "integration": "Conecta con APIs, bases de datos y servicios (mencionado en la página principal) y ofrece YepCode REST API (mencionado en planes). Integraciones específicas: No disponible en las fuentes aportadas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://yepcode.io/?"
+        },
+        {
+          "source_url": "https://yepcode.io/pricing/"
+        },
+        {
+          "source_url": "https://yepcode.io/blog/"
+        },
+        {
+          "source_url": "https://yepcode.io/privacy/"
+        }
+      ]
+    },
+    "1318": {
+      "app": {
+        "id": "1318",
+        "name": "ZeroRank",
+        "url": "https://zerorank.ai/",
+        "short_description": "Crea impresionantes vídeos e imágenes generados por IA en minutos.",
+        "category": "SEO",
+        "main_functionality": "Monitoreo y analítica de “AI search visibility”: identifica prompts relevantes, rastrea rankings/menciones en modelos (p. ej., ChatGPT, Gemini, Perplexity, Claude), y permite comparar contra competidores con métricas como visibilidad y sentimiento.",
+        "tags": "#SEO #AIMarketing #BrandMonitoring #CompetitorAnalysis #SentimentAnalysis",
+        "logo_filename": "id_1318_zerorank",
+        "what_is": "Un software tipo SaaS de analítica para entender cómo “hablan” los sistemas de IA sobre una marca y cómo aparece (o no) en respuestas generadas por modelos, con un panel centralizado para visibilidad, menciones, citas y sentimiento.",
+        "purpose": "Para detectar oportunidades de visibilidad en búsquedas asistidas por IA, monitorear el desempeño de una marca frente a competidores y orientar acciones (contenido/estrategia) para mejorar presencia en respuestas de IA.",
+        "use_cases": "Descubrir preguntas/prompts donde una marca debería aparecer y detectar “gaps” de visibilidad.\n\nMonitorear diariamente posiciones/menciones/citas y cambios en el tiempo.\n\nSeguimiento de sentimiento/tono con respecto a la marca.\n\nBenchmarking competitivo (comparación contra competidores).",
+        "main_advantages": "Cobertura multi-plataforma/modelo (menciona soporte/seguimiento en ChatGPT, Gemini, Perplexity, Claude, entre otros).\n\nPanel centralizado para visibilidad, menciones, citas y sentimiento.\n\nEnfoque accionable: orientado a detectar oportunidades (prompts) y movimientos de mercado antes que competidores.\n\nComparación competitiva con métricas de visibilidad/ranking/menciones.",
+        "long_description": "Plataforma de analítica para visibilidad de marca en búsqueda con IA. Permite: (1) descubrir los prompts/preguntas relevantes donde la marca debería aparecer; (2) rastrear rankings/menciones en múltiples modelos/plataformas con actualización diaria; (3) analizar visibilidad y sentimiento/tono de cómo la IA describe a la marca; (4) comparar desempeño frente a competidores (benchmarking) y apoyar la toma de decisiones para optimizar la presencia en respuestas generadas por IA.",
+        "release_date": "2024",
+        "developer": "ZeroRank AI",
+        "main_model": "No disponible",
+        "pricing_plans": "Free trial: “7-Day Free Trial” en el sitio y política de prueba gratuita (sin requerir información de pago durante el trial, según la política).\n\nStarter: USD $76/mes (desde $89), hasta 25 prompts, hasta 2250 respuestas analizadas/mes, países y asientos ilimitados, soporte por email (entre otros ítems listados).\n\nPro: USD $169/mes (desde $199), hasta 100 prompts, hasta 9000 respuestas analizadas/mes, soporte email + Slack, etc.\n\nEnterprise: Precio “Custom”, 300+ prompts, 27000+ respuestas analizadas/mes, etc.",
+        "license": "Propietario / SaaS",
+        "security_privacy": "Indica que no vende/alquila información personal; puede compartir con proveedores de servicio bajo confidencialidad y por requerimiento legal.\n\nMedidas de seguridad declaradas: cifrado en tránsito y en reposo, evaluaciones de seguridad y controles de acceso (sin garantizar seguridad absoluta).\n\nDatos recolectados (ejemplos): nombre/email, empresa/puesto, pagos (procesados por proveedores), info de marca/competidores, comunicaciones; y datos técnicos/uso (IP, navegador, SO).\n\nContacto de privacidad: support@zerorank.ai",
+        "integration": "En el sitio se menciona una sección de “Integrations / Works with Your Favorite Tools”, pero no se listan integraciones específicas en texto accesible (parece presentarse como contenido visual/imagen)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://zerorank.ai/"
+        },
+        {
+          "source_url": "https://zerorank.ai/privacy"
+        },
+        {
+          "source_url": "https://slashdot.org/software/comparison/Temso-AI-vs-ZeroRank/"
+        },
+        {
+          "source_url": "https://zerorank.ai/#features"
+        },
+        {
+          "source_url": "https://zerorank.ai/#pricing"
+        },
+        {
+          "source_url": "https://zerorank.ai/#integrations"
+        },
+        {
+          "source_url": "https://zerorank.ai/refund"
+        },
+        {
+          "source_url": "https://zerorank.ai/about"
+        }
+      ]
+    },
+    "1415": {
+      "app": {
+        "id": "1415",
+        "name": "Zeus",
+        "url": "https://zeus.rocks/",
+        "short_description": "Agente altamente autónomo para completar tareas complejas y largas.",
+        "category": "Automatización",
+        "main_functionality": "Automatiza tareas de largo alcance (investigar, redactar, operar software leyendo pantalla y haciendo clic), se integra con herramientas del equipo y prioriza ejecución “local-first”; ofrece edición Enterprise con controles (aislamiento, RBAC, revisión de automatizaciones).",
+        "tags": "#Automatizacion #AgentesIA #Productividad #LocalFirst #RPA #AsistenteDeTrabajo #Seguridad",
+        "logo_filename": "id_1415_zeusai",
+        "what_is": "Es una plataforma de agentes de IA orientada a “hacer trabajo real” (no solo chat). Se presenta como un “AI employee” capaz de operar herramientas y software, mantener contexto organizacional y completar tareas complejas con mínima supervisión. Su producto de escritorio se denomina ZeusClaw.",
+        "purpose": "Sirve para delegar tareas operativas y de conocimiento (p. ej., preparación de reuniones, investigación y prospección comercial, seguimiento y reportes) a un agente que puede actuar por sí mismo, conectándose a herramientas de trabajo y ejecutando acciones dentro de aplicaciones.",
+        "use_cases": "Ventas/prospección: investigar empresas, calificar leads y redactar/envíar acercamientos (ejemplos ilustrativos en el sitio).\nSoporte a reuniones: pedir documentos, crear agenda, tomar notas y registrar acciones posteriores (ejemplos ilustrativos en el sitio).\nOperación interna: leer historial/documentación (Slack/docs/código) para entender contexto y ejecutar tareas con menos “ramp-up”.",
+        "main_advantages": "Autonomía para tareas largas: plantea completar tareas “hour-long” con alta tasa de éxito (según el sitio).\nEjecución real en software: no solo llamadas a API; también “lee la pantalla y hace clic” (orientación tipo RPA).\nEnfoque local-first: prioriza ejecución en el dispositivo, con énfasis en privacidad/seguridad.\nControles Enterprise: aislamiento (VM), control de acceso por roles y revisión/aprobación de automatizaciones (“scanned skills”).\nCompatibilidad declarada con múltiples modelos: menciona uso de GPT, Claude, Gemini, DeepSeek “y más” desde el cliente de escritorio.",
+        "long_description": "Zeus se posiciona como un “AI employee” que trabaja de forma autónoma y se integra con herramientas del equipo. En su propuesta, el agente: (1) se conecta a herramientas y obtiene identidad propia (nombre/email), (2) se auto-onboardea leyendo documentos e historial (p. ej., Slack/código) para adquirir contexto, y (3) ejecuta tareas completas pidiendo ayuda solo cuando está bloqueado. En escritorio, ZeusClaw ofrece automatización de navegador y archivos, compatibilidad con varios modelos (GPT/Claude/Gemini/DeepSeek) y ejecución local-first. Para empresas, ofrece controles como aislamiento por VM, acceso basado en roles y un esquema de aprobación/revisión de automatizaciones antes de “producción”.",
+        "release_date": "2026",
+        "developer": "Zeus AI, Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "En publicación pública de Product Hunt (comentario del “maker”) se mencionan precios orientativos: US$1,000/mes (bring your own API key) y US$2,000/mes (fully managed), además de una “early preview”.",
+        "license": "Propietario / SaaS",
+        "security_privacy": "No disponible",
+        "integration": "Declara integración con email, calendario, Slack y CRM, además de lectura de documentos/historial para contextualización; en escritorio automatiza navegador y archivos e incluye “skills” y MCP para automatización personalizada."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://zeus.rocks/"
+        },
+        {
+          "source_url": "https://zeus.rocks/#privacy"
+        },
+        {
+          "source_url": "https://zeus.rocks/#terms"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/your-ai-colleague-is-online-meet-zeus"
+        }
+      ]
+    },
+    "1494": {
+      "app": {
+        "id": "1494",
+        "name": "ZenCreator",
+        "url": "https://zencreator.pro/",
+        "short_description": "Suite web para generar y editar imágenes y videos con IA: texto→imagen, imagen→imagen, imagen→video, video→video, face swap, upscaling y “photoshoots”. Opera por créditos (con prueba gratuita) y exporta contenido orientado a creadores y marketing.",
+        "category": "Generación de diseño",
+        "main_functionality": "Plataforma “todo en uno” para creación audiovisual con IA: generación y transformación de video e imagen (incluye face swap, upscaler/editor/combiner y generación tipo photoshoot), con consumo por créditos y acceso desde navegador.",
+        "tags": "#GeneracionDeVideo #EdicionDeImagenes #GeneracionDeArte #TextoAVideo #TextoAImagen #Automatizacion #Marketing #RedesSociales",
+        "logo_filename": "id_1494_zencreatorai",
+        "what_is": "Es una plataforma web de creación de contenido con IA orientada a creadores, que integra herramientas para generar y transformar imágenes y videos, incluyendo módulos como Video Generator, Video-to-Video, Editor/Combiner, Photo Shoot, Text-to-Image, Image-to-Image y Upscaler.",
+        "purpose": "Sirve para producir contenido visual (imágenes y clips) de forma rápida para redes sociales, campañas creativas y proyectos audiovisuales, reduciendo el trabajo manual al centralizar generación, edición y mejoras (p. ej., upscaling y swaps) en un solo flujo.",
+        "use_cases": "Crear videos a partir de imágenes (animación/imagen→video).\nTransformar un video a otro estilo (video→video).\nGenerar imágenes por prompt (texto→imagen) y variaciones (imagen→imagen).\nFace swap para campañas, personajes o consistencia visual.\nMejorar calidad con upscaler para uso comercial/publicación.",
+        "main_advantages": "Suite integrada: varias herramientas (video, edición, generación de imagen) en un solo entorno.\nModelo de créditos: pagas por lo que generas; existen paquetes y costos por herramienta documentados.\nPrueba gratuita: “Start Free up to 30 credits” (según Help/Plataforma).\nEnfoque en flujo de trabajo: el proyecto se posiciona para reducir tiempo de producción (p. ej., en su caso de estudio reportan reducción de 6h→2h).",
+        "long_description": "ZenCreator se presenta como una suite web de creación audiovisual con IA que incluye generación de video, transformación video→video, edición (Editor/Combiner), generación de imágenes por prompt y por referencia, “photoshoots” y herramientas de mejora como upscaler. Funciona por créditos: hay paquetes y se documentan costos por herramienta y políticas como reembolsos por fallos de generación. También publica guías y “AI University” con tutoriales y casos de estudio.",
+        "release_date": "2024",
+        "developer": "ZenCreator, LLC (EE. UU.), operando en partnership con Dimeris Ltd (Chipre), según Términos.",
+        "main_model": "El producto indica que usa múltiples “engines”/familias de generación de video (Kling, WAN, Seedance y Grok) dentro de su ecosistema.",
+        "pricing_plans": "Modelo por créditos (paquetes). En el Help Center se listan “Credit Packs (Current Plans)”:\n\nStarter: 200 créditos — $19.99\nCreator (Popular): 550 créditos — $49.99\nInfluencer: 1,200 créditos — $99\nProfessional: 6,300 créditos — $499\nPago con tarjeta (Stripe) y también cripto (USDT/USDC, ERC-20/TRC-20/Polygon).\nAdemás, se menciona prueba gratuita “Start Free up to 30 credits”.",
+        "license": "Propietaria (SaaS).",
+        "security_privacy": "La política de privacidad indica recolección de datos personales (nombre, email, teléfono, empresa, datos de pago), datos técnicos (IP, navegador, dispositivo, cookies) y posible información de terceros (redes sociales, analítica, procesadores de pago). Declara que no vende datos personales y que puede compartir con proveedores (pagos/hosting/analítica), por cumplimiento legal o transferencias de negocio.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://zencreator.pro/"
+        },
+        {
+          "source_url": "https://help.zencreator.pro/en/articles/12068902-pricing-credits-plans-payment-methods-and-tool-costs"
+        },
+        {
+          "source_url": "https://zencreator.pro/about-us"
+        },
+        {
+          "source_url": "https://zencreator.pro/terms-and-conditions"
+        },
+        {
+          "source_url": "https://zencreator.pro/privacy-policy"
+        },
+        {
+          "source_url": "https://www.trustpilot.com/review/zencreator.pro"
+        }
+      ]
+    },
+    "1625": {
+      "app": {
+        "id": "1625",
+        "name": "Zoom IQ",
+        "url": "https://blog.zoom.us/zoom-iq-smart-companion",
+        "short_description": "Apoya reuniones en Zoom con resúmenes, automatización de tareas y asistencia en tiempo real.",
+        "category": "Productividad",
+        "main_functionality": "Resumen y asistencia para reuniones en Zoom.",
+        "tags": "#IA #Productividad #Reuniones #Resumen",
+        "logo_filename": "id_1625_zoom_iq",
+        "what_is": "Zoom IQ es una función de asistencia con inteligencia artificial para reuniones, orientada a generar resúmenes, tareas y apoyo en tiempo real.",
+        "purpose": "Apoyar reuniones en Zoom mediante resúmenes, tareas y asistencia en tiempo real.",
+        "use_cases": "Reuniones virtuales, resúmenes de juntas, seguimiento de tareas, colaboración remota, productividad y comunicación empresarial.",
+        "main_advantages": "Resume reuniones automáticamente; ayuda a dar seguimiento a tareas; puede mejorar productividad en equipos remotos.",
+        "long_description": "Zoom IQ es una función de asistencia con inteligencia artificial para reuniones en Zoom. Ayuda a generar resúmenes, identificar tareas y apoyar la colaboración durante reuniones virtuales.",
+        "release_date": "No especificada",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Consultar precio",
+        "license": "No especificada",
+        "security_privacy": "Consultar la política de privacidad del proveedor.",
+        "integration": "Disponible mediante plataforma web del proveedor."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://blog.zoom.us/zoom-iq-smart-companion"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/zoom-iq"
+        }
+      ]
+    },
+    "1698": {
+      "app": {
+        "id": "1698",
+        "name": "ZOOOP",
+        "url": "https://zooop.ai/",
+        "short_description": "Plataforma creativa en el navegador para generar y editar imagen, video y audio con múltiples modelos de IA, trabajando en un lienzo/canvas central o en generadores puntuales; incluye plantillas listas para usar y opciones de colaboración con créditos compartidos.",
+        "category": "Generación de diseño",
+        "main_functionality": "Creación y edición multimedia (imagen, video y audio) en un flujo unificado con “Generative Canvas”, cambio de modelos por tarea, herramientas especializadas (p. ej., edición, upscaling, background removal) y plantillas reutilizables.",
+        "tags": "#TextoAVideo,#Audio,#GeneracionDeVideo,#EdicionDeVideo,#TextoAImagen",
+        "logo_filename": "id_1698_zooop",
+        "what_is": "Es una plataforma creativa “AI-native” (centrada en IA desde su diseño) que ofrece un canvas generativo en el navegador para producir y organizar contenido de imagen, video y audio, integrando diversos modelos y flujos (generación, iteración y edición) dentro de un mismo espacio de trabajo.",
+        "purpose": "Para crear, iterar y editar piezas multimedia con IA (por ejemplo, clips de video, imágenes editadas, voces/locuciones, música o efectos) y administrarlas en proyectos/canvases, incluyendo el uso de plantillas y colaboración en equipo con créditos compartidos.",
+        "use_cases": "Video IA: texto-a-video / imagen-a-video, interpolación de cuadros, extensión/edición de clips, control de movimiento de cámara, lip-sync.\nImagen IA: texto-a-imagen / imagen-a-imagen, inpainting, edición por instrucción, background removal, upscale/outpaint.\nAudio IA: texto a voz, clonación de voz, generación de música y efectos sonoros.\nProducción creativa con plantillas: ejecución “one-click” de flujos (p. ej., estilos, avatares, variantes) mediante templates.\nFlujo con agentes: ejecutar tareas de generación desde herramientas tipo Claude Code/Cursor/Codex y sincronizar resultados al proyecto.",
+        "main_advantages": "Flujo unificado (imagen, video, audio) en un mismo espacio de trabajo.\nModelos intercambiables dentro del mismo flujo (manteniendo prompts/activos en el canvas).\nSin suscripción y esquema de créditos; el sitio indica que los créditos no expiran.\nColaboración en equipo en tiempo real en el canvas y pool de créditos compartidos.\nPlantillas para acelerar resultados repetibles.\nEcosistema de modelos: página de “AI Models” lista múltiples marcas/proveedores integrados.",
+        "long_description": "Plataforma creativa web para trabajo multimodal con IA. Ofrece un Generative Canvas donde cada generación se gestiona como “tarjetas” dentro del canvas, permitiendo iterar con prompts, referencias y ediciones sin salir del flujo. Incluye herramientas de video IA (texto/imágen a video, interpolación, extensión/edición, control de cámara, lip-sync), imagen IA (generación, inpainting, edición por instrucción, background removal, upscale/outpaint) y audio IA (texto a voz, clonación de voz, música y efectos). Incorpora plantillas reutilizables y un Creator/Template Center para publicar templates. También dispone de un enfoque de equipos con colaboración en tiempo real y créditos compartidos, además de integración para ejecutar generaciones mediante un “skill” para agentes (p. ej., Claude Code/Cursor/Codex) que sincroniza resultados al proyecto.",
+        "release_date": "Abril 2026",
+        "developer": "ZOOOP.",
+        "main_model": "No disponible como “un solo modelo”: la plataforma integra múltiples modelos de terceros.",
+        "pricing_plans": "Sin suscripción (modelo “Pay As You Go”).\nSistema por créditos (menciona compras vía Stripe; créditos no reembolsables una vez comprados).\nIndica que los créditos no expiran.",
+        "license": "Aplicación/servicio: Propietario (regido por “Terms of Service”). Componente open-source: el blog menciona un “ZOOOP Agent Skill” con licencia MIT (para el skill, no para la plataforma completa).",
+        "security_privacy": "Recopila datos de cuenta, uso, contenido del usuario, datos técnicos (p. ej., IP, cookies) y pagos procesados por Stripe (indica que no almacena directamente números de tarjeta).\nIndica no vender información personal; comparte con proveedores necesarios (Stripe, proveedores de login, proveedores de modelos) y por requerimientos legales.\nMenciona almacenamiento en servidores cloud y cifrado/medidas estándar, y que el contenido se guarda en almacenamiento tipo S3.\nDescribe eliminación de cuenta con “cooling-off” de 7 días y retención anonimizada de ciertos registros financieros por 7 años (según su política).",
+        "integration": "“Skill” para agentes/herramientas tipo Claude Code, Cursor, Codex (y otras compatibles) para generar contenido desde chat y sincronizarlo a ZOOOP.\nInicio de sesión mediante proveedores (Google, Microsoft, X) o magic link.\nPagos vía Stripe."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://zooop.ai/"
+        },
+        {
+          "source_url": "https://zooop.ai/blog/hello-zooop"
+        },
+        {
+          "source_url": "https://zooop.ai/pricing"
+        },
+        {
+          "source_url": "https://zooop.ai/pt/privacy-policy"
+        },
+        {
+          "source_url": "https://zooop.ai/templates"
+        }
+      ]
+    },
+    "1803": {
+      "app": {
+        "id": "1803",
+        "name": "Ziggle",
+        "url": "https://ziggle.art/",
+        "short_description": "Ziggle permite generar personajes animados a partir de texto, facilitando la creación de avatares y recursos visuales.",
+        "category": "Generación de diseño",
+        "main_functionality": "Generación de personajes animados a partir de texto",
+        "tags": "#GeneraciónDeDiseño #Avatar #Animación",
+        "logo_filename": "id_1803_ziggle",
+        "what_is": "Ziggle es una herramienta de generación visual que permite crear personajes animados a partir de texto. Puede utilizarse para avatares, contenido visual, prototipos creativos o recursos digitales.",
+        "purpose": "Crear personajes animados a partir de texto para proyectos visuales, avatares y contenido creativo.",
+        "use_cases": "Personajes animados; avatares; recursos visuales; contenido creativo generado desde texto.",
+        "main_advantages": "Genera personajes desde texto; facilita contenido visual; reduce barreras creativas; apoya prototipado.",
+        "long_description": "Ziggle es una herramienta de generación visual que permite crear personajes animados a partir de texto. Puede apoyar proyectos creativos, avatares, prototipos visuales y contenido digital. Su utilidad está en reducir barreras para producir personajes animados sin depender completamente de procesos manuales de ilustración o animación.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://ziggle.art/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/ziggle-0otg7c"
+        }
+      ]
+    },
+    "1810": {
+      "app": {
+        "id": "1810",
+        "name": "Zealos",
+        "url": "https://www.zealos.io/",
+        "short_description": "Zealos ayuda a automatizar flujos de trabajo y tareas empresariales mediante agentes de IA.",
+        "category": "Automatización",
+        "main_functionality": "Automatización de workflows y tareas empresariales",
+        "tags": "#Automatización #AgentesIA #Procesos",
+        "logo_filename": "id_1810_zealos",
+        "what_is": "Zealos es una herramienta de automatización que ayuda a construir flujos de trabajo y tareas empresariales mediante agentes de IA.",
+        "purpose": "Automatizar procesos empresariales y workflows mediante agentes de IA.",
+        "use_cases": "Procesos empresariales; workflows automatizados; tareas internas; agentes de operación.",
+        "main_advantages": "Automatiza workflows empresariales; reduce tareas repetitivas; coordina agentes; mejora operación interna.",
+        "long_description": "Zealos es una herramienta de automatización que ayuda a construir flujos de trabajo y tareas empresariales mediante agentes de inteligencia artificial. Su enfoque está en reducir trabajo manual y coordinar procesos internos. Puede apoyar operaciones, administración y flujos repetitivos dentro de equipos.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.zealos.io/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/zealos-nza7gz"
+        }
+      ]
+    },
+    "1898": {
+      "app": {
+        "id": "1898",
+        "name": "ZooClaw",
+        "url": "https://zooclaw.ai/",
+        "short_description": "Plataforma de productividad con agentes de IA especializados que permite convertir tareas, flujos de trabajo y conocimiento profesional en asistentes accionables. Funciona desde web, app móvil y canales de mensajería, sin configuración técnica, despliegues ni gestión de API keys.",
+        "category": "Productividad",
+        "main_functionality": "Orquestación de agentes de IA especializados para ejecutar tareas de investigación, marketing, contenido, análisis, operaciones, productividad, atención al cliente y automatización de flujos de trabajo.",
+        "tags": "#AgentesIA,#Multimodal,#Chat",
+        "logo_filename": "id_1898_zooclaw",
+        "what_is": "ZooClaw es una plataforma SaaS de agentes de IA en la nube desarrollada por Serendipity One Inc. La herramienta se presenta como un “equipo” de especialistas de IA capaces de recibir instrucciones en lenguaje natural, seleccionar el agente adecuado y producir resultados orientados a tareas concretas, no solo respuestas conversacionales.",
+        "purpose": "Sirve para delegar tareas repetitivas o especializadas a agentes de IA: ordenar correos por prioridad, preparar reportes, resumir reuniones, generar contenido, analizar gastos, crear presentaciones, monitorear precios, buscar leads, preparar campañas, redactar mensajes y convertir conocimiento profesional en flujos reutilizables.",
+        "use_cases": "Priorización de emails, extracción de acuerdos y tareas desde notas de reunión, resúmenes de texto, generación de calendarios de contenido, creación de emails personalizados en volumen, monitoreo de marca, optimización de listados de Amazon, análisis de gastos, comparación de ofertas laborales, seguimiento de precios, planificación de viajes, recordatorios de regalos y creación de agentes propios mediante Agent Builder.",
+        "main_advantages": "No requiere configuración técnica, línea de comandos, despliegue ni API keys; permite trabajar desde web, app y canales como Telegram, Feishu/Lark, Discord y Slack; mantiene contexto y preferencias del usuario; ejecuta tareas en segundo plano; permite crear especialistas personalizados; y concentra modelos de texto, imagen, video, audio y comprensión multimodal en un espacio de trabajo único.",
+        "long_description": "ZooClaw funciona como una plataforma de agentes especializados. El usuario plantea una tarea en lenguaje natural y la plataforma la dirige al especialista más adecuado. Su propuesta cubre productividad personal y flujos profesionales: investigación, redacción, análisis, marketing, presentaciones, contenido, finanzas personales, operaciones, monitoreo y tareas programadas. La guía oficial indica que los especialistas incluyen conocimiento y workflows por dominio, que el usuario puede añadir especialistas desde onboarding o desde la barra lateral, y que también puede crear agentes propios mediante Agent Builder. Además, permite ejecutar tareas en segundo plano, conservar contexto entre canales y trabajar desde web, app, voz o mensajería.",
+        "release_date": "Abril 2026",
+        "developer": "Serendipity One Inc. Product Hunt lista a Ning Hu como maker/fundador de ZooClaw.",
+        "main_model": "La guía oficial afirma que ZooClaw preintegra Claude Sonnet 4.6, GPT-5.4, Gemini 3.1 Pro, Grok y otros modelos, y que el sistema enruta automáticamente cada tarea al modelo más adecuado.",
+        "pricing_plans": "Tiene inicio gratuito/prueba de 7 días. El plan Starter aparece con modelo gratuito ilimitado, 4,800 créditos/mes, 2 núcleos, 4 GB RAM, 40 GB de almacenamiento, generación de imagen, video y audio, app ZooClaw, SMS y correo. El plan Pro cuesta $83/mes facturado anualmente, con 20,000 créditos/mes, 4 núcleos, 8 GB RAM, 200 GB y todos los canales. Ultra cuesta $167/mes facturado anualmente, con 40,000 créditos/mes, 8 núcleos, 16 GB RAM y 1 TB de almacenamiento.",
+        "license": "Propietaria / SaaS.",
+        "security_privacy": "La política de privacidad indica que Serendipity One Inc. puede recolectar datos de soporte, email, nombre y foto de Google en inicio de sesión, información de facturación, prompts, archivos, texto, imágenes, outputs y feedback. También recopila datos técnicos como IP, navegador, sistema operativo, ubicación aproximada y uso del servicio. Los pagos pueden procesarse mediante proveedores externos. App Store señala que pueden manejarse identificadores, datos de uso, ubicación aproximada, email y contenido del usuario, según las funciones utilizadas.",
+        "integration": "Documenta uso desde web, app, voz y canales de mensajería. La guía oficial menciona integración con Telegram, Feishu/Lark, Discord y Slack; el plan Starter incluye app ZooClaw, SMS y correo; y el plan Pro incluye todos los canales. No encontré documentación pública de API empresarial abierta o conectores específicos a CRM/ERP."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://zooclaw.ai/help/en/2026-03-16/openclaw-cost-tracking-case-study/"
+        },
+        {
+          "source_url": "https://zooclaw.ai/es/pricing"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/zooclaw"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/product/ZooClaw/"
+        },
+        {
+          "source_url": "https://apps.apple.com/mx/app/zooclaw-build-your-work-buddy/id6760897889?l=en-GB"
+        },
+        {
+          "source_url": "https://zooclaw.ai/userguide"
+        }
+      ]
+    },
+    "1941": {
+      "app": {
+        "id": "1941",
+        "name": "Zoronal",
+        "url": "https://zoronal.com/",
+        "short_description": "Zoronal ayuda a organizar y automatizar flujos de trabajo, facilitando productividad y seguimiento de tareas.",
+        "category": "Productividad",
+        "main_functionality": "Organización y automatización de flujos de trabajo",
+        "tags": "#Productividad #Automatización #Organización",
+        "logo_filename": "id_1941_zoronal",
+        "what_is": "Zoronal es una herramienta de productividad orientada a organizar y automatizar flujos de trabajo. Puede apoyar seguimiento de tareas, coordinación y ejecución de procesos.",
+        "purpose": "Organizar y automatizar flujos de trabajo para mejorar productividad y seguimiento de tareas.",
+        "use_cases": "Organización de tareas; automatización de procesos; productividad personal; seguimiento de flujos.",
+        "main_advantages": "Ordena flujos de trabajo; automatiza tareas; mejora seguimiento; apoya productividad diaria.",
+        "long_description": "Zoronal es una herramienta de productividad orientada a organizar y automatizar flujos de trabajo. Puede apoyar seguimiento de tareas, coordinación y ejecución de procesos. Su valor está en facilitar la organización de actividades y reducir fricción en flujos de trabajo recurrentes.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://zoronal.com/"
+        }
+      ]
+    },
+    "2122": {
+      "app": {
+        "id": "2122",
+        "name": "Xpoz MCP",
+        "url": "https://www.xpoz.ai/",
+        "short_description": "Servidor MCP para consultar y analizar información procedente de redes sociales.",
+        "category": "Redes sociales",
+        "main_functionality": "Consultar y analizar información de redes sociales mediante un servidor MCP.",
+        "tags": "análisis de redes sociales, consulta de datos sociales, monitoreo social, MCP",
+        "logo_filename": "id_2122_xpoz_mcp",
+        "what_is": "Xpoz MCP es un servidor MCP orientado a la consulta y el análisis de datos procedentes de redes sociales.",
+        "purpose": "Simplificar la consulta y el análisis de información procedente de distintas redes sociales.",
+        "use_cases": "Consulta de publicaciones, análisis de actividad social, investigación de tendencias y recuperación de información desde redes sociales.",
+        "main_advantages": "Centraliza el acceso a datos sociales y permite consultarlos mediante herramientas compatibles con MCP.",
+        "long_description": "Xpoz MCP es un servidor compatible con el protocolo MCP que permite consultar y analizar información procedente de redes sociales. Está orientado a usuarios y sistemas que necesitan acceder a datos sociales, investigar actividad en diferentes plataformas o integrar ese contenido dentro de flujos de análisis asistidos por inteligencia artificial.",
+        "release_date": "No disponible",
+        "developer": "Xpoz MCP",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.xpoz.ai/"
+        }
+      ]
+    },
+    "2157": {
+      "app": {
+        "id": "2157",
+        "name": "Xurrent",
+        "url": "https://www.xurrent.com/",
+        "short_description": "Plataforma que integra y automatiza procesos de ITSM, ESM e ITOM.",
+        "category": "Automatización",
+        "main_functionality": "Unificar y automatizar procesos de gestión de servicios empresariales y tecnológicos.",
+        "tags": "ITSM, ESM, ITOM, gestión de servicios, automatización empresarial",
+        "logo_filename": "id_2157_xurrent",
+        "what_is": "Xurrent es una plataforma de automatización que integra procesos de ITSM, ESM e ITOM.",
+        "purpose": "Unificar y automatizar procesos de gestión de servicios tecnológicos y empresariales.",
+        "use_cases": "Gestión de servicios de TI, automatización empresarial, operaciones tecnológicas y coordinación de solicitudes.",
+        "main_advantages": "Integra diferentes áreas de gestión de servicios y reduce procesos operativos fragmentados.",
+        "long_description": "Xurrent es una plataforma que unifica procesos de ITSM, ESM e ITOM y permite automatizar actividades de gestión de servicios. Está orientada a centralizar operaciones tecnológicas y empresariales que normalmente se administran mediante sistemas separados.",
+        "release_date": "No disponible",
+        "developer": "Xurrent",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.xurrent.com/"
+        }
+      ]
+    },
+    "2235": {
+      "app": {
+        "id": "2235",
+        "name": "Zest",
+        "url": "https://meetzest.com/",
+        "short_description": "Extensión para VS Code que analiza sesiones de programación y actividad de desarrollo.",
+        "category": "Codificación",
+        "main_functionality": "Analizar sesiones de programación realizadas desde VS Code para aportar contexto sobre la actividad de desarrollo.",
+        "tags": "VS Code, análisis de programación, sesiones de desarrollo, productividad de desarrolladores, codificación",
+        "logo_filename": "id_2235_zest",
+        "what_is": "Zest es una herramienta de codificación integrada con VS Code que analiza sesiones y actividad de desarrollo.",
+        "purpose": "Aportar contexto sobre la actividad de desarrollo mediante el análisis de sesiones de programación en VS Code.",
+        "use_cases": "Análisis de sesiones de programación, seguimiento de actividad en VS Code y revisión de procesos de desarrollo.",
+        "main_advantages": "Añade contexto sobre sesiones de desarrollo directamente desde el entorno de VS Code.",
+        "long_description": "Zest es una herramienta integrada con VS Code orientada a analizar sesiones de programación y actividad de desarrollo. Su función es aportar contexto sobre el trabajo realizado dentro del entorno de codificación y facilitar la revisión de las sesiones de desarrollo.",
+        "release_date": "No disponible",
+        "developer": "Zest",
+        "main_model": "Anthropic y OpenAI vía OpenRouter; Vercel AI Gateway como respaldo",
+        "pricing_plans": "Starter: gratis; Pro: $49 USD/espacio/mes; Max: $149 USD/espacio/mes; Enterprise: personalizado",
+        "license": "No especificado",
+        "security_privacy": "Los datos de clientes no se usan para entrenar modelos; secretos cifrados y servicios de infraestructura protegidos.",
+        "integration": "GitHub, Claude Code, Cursor, Codex, Hermes y Grok"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://meetzest.com/"
+        }
+      ]
+    },
+    "2243": {
+      "app": {
+        "id": "2243",
+        "name": "ZeroThreat",
+        "url": "https://zerothreat.ai/",
+        "short_description": "Plataforma que ejecuta pruebas continuas de seguridad sobre aplicaciones web.",
+        "category": "Detección",
+        "main_functionality": "Ejecutar pruebas continuas de seguridad para detectar problemas en aplicaciones web.",
+        "tags": "seguridad web, detección de vulnerabilidades, pruebas continuas, monitoreo de seguridad, aplicaciones web",
+        "logo_filename": "id_2243_zerothreat",
+        "what_is": "ZeroThreat es una herramienta de detección enfocada en realizar pruebas continuas de seguridad sobre aplicaciones web.",
+        "purpose": "Detectar de forma continua posibles problemas de seguridad en aplicaciones web.",
+        "use_cases": "Pruebas de seguridad web, monitoreo continuo, detección de vulnerabilidades y revisión de aplicaciones.",
+        "main_advantages": "Permite mantener una revisión continua de seguridad sobre aplicaciones web.",
+        "long_description": "ZeroThreat es una plataforma enfocada en realizar pruebas continuas de seguridad sobre aplicaciones web. Su función principal es ayudar a detectar posibles problemas de seguridad mediante una revisión recurrente de los sistemas.",
+        "release_date": "No disponible",
+        "developer": "ZeroThreat",
+        "main_model": "Motor de IA propio; modelo base no especificado",
+        "pricing_plans": "Professional: $100 USD/objetivo/mes; objetivos adicionales: $75 USD; modalidad por escaneos disponible",
+        "license": "No especificado",
+        "security_privacy": "Almacenamiento regional, controles de acceso y cobertura declarada de GDPR, ISO 27001, PCI-DSS y HIPAA.",
+        "integration": "APIs REST, GraphQL, SOAP y gRPC"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://zerothreat.ai/"
+        }
+      ]
+    },
+    "2318": {
+      "app": {
+        "id": "2318",
+        "name": "Yorph AI",
+        "url": "https://yorph.ai/features",
+        "short_description": "Plataforma de datos y analítica con IA para transformar, conectar y visualizar información sin necesidad de escribir código.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Conectar fuentes de datos, transformarlas y analizarlas mediante agentes y flujos visuales asistidos por inteligencia artificial.",
+        "tags": "analítica de datos, inteligencia de negocios, pipelines, visualización, transformación de datos, agentes de IA",
+        "logo_filename": "id_2318_yorph_ai",
+        "what_is": "Yorph AI es una plataforma de datos y analítica asistida por inteligencia artificial para usuarios empresariales y equipos de datos.",
+        "purpose": "Permitir que usuarios y equipos analicen y transformen datos mediante interfaces visuales y lenguaje natural.",
+        "use_cases": "Analítica empresarial, transformación de datos, pipelines, dashboards, visualización y consultas sobre información.",
+        "main_advantages": "Permite trabajar con datos empresariales sin SQL y mantiene controles orientados a privacidad y gobernanza.",
+        "long_description": "Yorph AI es una plataforma de datos y analítica asistida por inteligencia artificial. Permite conectar archivos y fuentes de datos, construir transformaciones y pipelines visualmente, generar análisis y visualizaciones y facilitar que usuarios de negocio trabajen con información gobernada sin necesidad de escribir SQL.",
+        "release_date": "No disponible",
+        "developer": "YORPH AI INC",
+        "main_model": "Google y Anthropic",
+        "pricing_plans": "Free: gratis; Basic: $29.99 USD/usuario/mes; Teams y Enterprise: próximamente / consultar",
+        "license": "No especificado",
+        "security_privacy": "Cifrado en tránsito y reposo, controles de acceso, aislamiento entre clientes y no utilización de datos de clientes para entrenamiento.",
+        "integration": "Google Cloud Platform, Supabase, Fastn y fuentes de datos conectadas"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://yorph.ai/features"
+        }
+      ]
+    },
+    "2535": {
+      "app": {
+        "id": "2535",
+        "name": "Yonoo",
+        "url": "https://yonoo.ai/",
+        "short_description": "Plataforma de IA que reúne múltiples modelos y selecciona capacidades para conversar, investigar, generar contenido y resolver diferentes tareas.",
+        "category": "Chat",
+        "main_functionality": "Centraliza múltiples modelos de inteligencia artificial y selecciona capacidades para tareas de conversación, investigación, generación y resolución de problemas.",
+        "tags": "asistente de IA, múltiples modelos, enrutamiento de modelos, chat, investigación, generación",
+        "logo_filename": "id_2535_yonoo",
+        "what_is": "Yonoo es una plataforma de inteligencia artificial que reúne distintos modelos y herramientas dentro de una misma experiencia de uso.",
+        "purpose": "Ofrecer acceso centralizado a diferentes modelos de inteligencia artificial y facilitar la selección de capacidades según cada tarea.",
+        "use_cases": "Conversar con distintos modelos; realizar investigación; generar contenido; comparar respuestas; seleccionar modelos según el tipo de tarea.",
+        "main_advantages": "Ofrece acceso centralizado a diferentes modelos y evita que el usuario tenga que cambiar constantemente entre distintas plataformas.",
+        "long_description": "Yonoo es una plataforma que reúne diferentes modelos y capacidades de inteligencia artificial dentro de una misma interfaz. Puede utilizarse para conversar, investigar, generar contenido y resolver diferentes tipos de tareas sin cambiar constantemente de servicio. La plataforma busca facilitar el acceso a múltiples modelos y seleccionar herramientas adecuadas según las necesidades del usuario.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Plan gratuito. Student desde EUR 5.99/mes, Pro desde EUR 19.99/mes y Family desde EUR 29.99/mes; Business con precio personalizado.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://yonoo.ai/"
+        }
+      ]
+    },
+    "2591": {
+      "app": {
+        "id": "2591",
+        "name": "Zams",
+        "url": "https://zams.com/",
+        "short_description": "Plataforma de automatización empresarial mediante trabajadores de IA capaces de investigar, actualizar CRM, preparar reportes y ejecutar tareas comerciales.",
+        "category": "Automatización",
+        "main_functionality": "Permite desplegar trabajadores de inteligencia artificial que ejecutan tareas empresariales como investigación, actualización de CRM, preparación de reportes y seguimiento comercial.",
+        "tags": "agentes de IA, automatización empresarial, CRM, email, investigación, reporting, integraciones",
+        "logo_filename": "id_2591_zams",
+        "what_is": "Zams es una plataforma de automatización empresarial mediante trabajadores de inteligencia artificial capaces de ejecutar procesos operativos y comerciales.",
+        "purpose": "Delegar procesos empresariales repetitivos a trabajadores de inteligencia artificial capaces de ejecutar tareas operativas y comerciales.",
+        "use_cases": "Investigar cuentas; actualizar CRM; preparar reportes; procesar información; ejecutar seguimientos; automatizar tareas operativas y comerciales.",
+        "main_advantages": "Permite delegar tareas completas a trabajadores de IA en lugar de automatizar únicamente acciones individuales.",
+        "long_description": "Zams es una plataforma de automatización empresarial basada en trabajadores de inteligencia artificial. Estos agentes pueden ejecutar tareas relacionadas con investigación, CRM, preparación de reportes, procesamiento de información y seguimiento comercial. Su enfoque consiste en delegar procesos completos y repetitivos a trabajadores digitales que pueden integrarse con las herramientas utilizadas por una organización.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Trabajadores de IA desde USD 50/mes. La plataforma de automatización utiliza precios según volumen de tareas y capacidad contratada.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://zams.com/"
+        }
+      ]
+    },
+    "2621": {
+      "app": {
+        "id": "2621",
+        "name": "Zoviz",
+        "url": "https://zoviz.com/",
+        "short_description": "Suite de branding y marketing con IA para crear identidades visuales, contenido promocional, sitios web y materiales coherentes para una marca.",
+        "category": "Generación de diseño",
+        "main_functionality": "Genera identidad visual y extiende la marca hacia anuncios, publicaciones, contenido de marketing, sitios web y otros recursos mediante herramientas de IA.",
+        "tags": "logos, branding, identidad visual, kit de marca, marketing con IA, creador de sitios web, redes sociales, diseño gráfico",
+        "logo_filename": "id_2621_zoviz",
+        "what_is": "Zoviz es una plataforma integral de branding y marketing con inteligencia artificial que combina identidad visual, herramientas creativas y presencia digital.",
+        "purpose": "Permitir que organizaciones creen y mantengan una identidad de marca coherente y automaticen parte de su producción de contenido y marketing digital.",
+        "use_cases": "Crear logos; administrar branding; generar anuncios y publicaciones; producir contenido visual; diseñar sitios web; desarrollar materiales de marketing.",
+        "main_advantages": "Mantiene consistencia de marca mientras reúne diseño, marketing con IA, contenido y presencia web en una sola plataforma.",
+        "long_description": "Zoviz evolucionó hacia una suite integral de branding y marketing con inteligencia artificial. Además de generar logotipos y sistemas visuales, ofrece herramientas para crear anuncios, publicaciones, imágenes, presentaciones y sitios web manteniendo el estilo de la marca. Sus planes también incluyen almacenamiento, espacios de trabajo y créditos para automatización de marketing.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Starter USD 29/mes o USD 199/año; Professional USD 49/mes o USD 339/año; Business USD 99/mes o USD 699/año.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://zoviz.com/"
+        }
+      ]
+    },
+    "2657": {
+      "app": {
+        "id": "2657",
+        "name": "Zenity",
+        "url": "https://www.zenity.io/",
+        "short_description": "Plataforma de seguridad y gobernanza para agentes de IA que descubre exposición, aplica políticas y protege acciones en tiempo real.",
+        "category": "Detección",
+        "main_functionality": "Descubre superficies de riesgo de IA, aplica controles antes de que los agentes actúen y protege frente a amenazas y comportamientos no autorizados.",
+        "tags": "seguridad de IA, agentes IA, gobernanza, Surface, Enforce, Protect, prompt injection, políticas, riesgo",
+        "logo_filename": "id_2657_zenity",
+        "what_is": "Zenity es una plataforma de seguridad y gobernanza especializada en aplicaciones y agentes empresariales de inteligencia artificial.",
+        "purpose": "Permitir el uso empresarial de agentes de IA manteniendo visibilidad, políticas, seguridad y control sobre sus decisiones.",
+        "use_cases": "Descubrir agentes; evaluar exposición; aplicar políticas; bloquear acciones riesgosas; detectar prompt injection; investigar incidentes de IA.",
+        "main_advantages": "Une descubrimiento, enforcement y protección en una misma capa de seguridad especializada en autonomía de agentes.",
+        "long_description": "Zenity es una plataforma de seguridad y gobernanza para aplicaciones y agentes de inteligencia artificial. Su enfoque actual integra Surface para descubrir exposición y riesgos, Enforce para aplicar políticas en el punto de decisión y Protect para prevenir amenazas y comportamientos peligrosos. Está diseñada para controlar agentes autónomos sin depender únicamente de filtros de entrada y salida.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado públicamente; contratación empresarial y ofertas privadas mediante cotización.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.zenity.io/"
+        }
+      ]
+    }
+  }
+}

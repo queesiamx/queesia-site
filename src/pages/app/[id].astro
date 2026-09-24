@@ -1,4 +1,7 @@
 ---
+import { createHash } from "node:crypto";
+import { readFile } from "node:fs/promises";
+import path from "node:path";
 import BaseLayout from "../../layouts/BaseLayout.astro";
 import Comments from "../../components/Comments.jsx";
 import RatingStars from "../../components/RatingStars.jsx";
@@ -7,12 +10,30 @@ import type { App, News, Source } from "../../types";
 const LOGO_BASE_URL = "https://queesia.com/logos";
 const DEFAULT_LOGO_URL = `${LOGO_BASE_URL}/default-logo.png`;
 
-type AppDetailPayload = {
-  success?: boolean;
-  app?: App | null;
+type SnapshotApp = Omit<App, "id" | "tags"> & {
+  id: string | number;
+  tags: App["tags"] | string | null;
+};
+
+type SnapshotEntry = {
+  app?: SnapshotApp | null;
   news?: News[];
   sources?: Source[];
-  message?: string;
+};
+
+type SnapshotManifest = {
+  schemaVersion?: number;
+  count?: number;
+  batches?: Array<{
+    file?: string;
+    count?: number;
+    sha256?: string;
+  }>;
+};
+
+type SnapshotBatch = {
+  schemaVersion?: number;
+  apps?: Record<string, SnapshotEntry>;
 };
 
 function cleanText(value?: string | null) {
@@ -31,7 +52,7 @@ function truncateMeta(value?: string | null, maxLength = 155) {
   return cleanSlice.replace(/[.,;:!?-]+$/g, "") + "...";
 }
 
-function getMetaDescription(app: App) {
+function getMetaDescription(app: SnapshotApp) {
   return (
     truncateMeta(app.short_description) ||
     truncateMeta(app.purpose) ||
@@ -40,7 +61,7 @@ function getMetaDescription(app: App) {
   );
 }
 
-function getTags(tags: App["tags"]) {
+function getTags(tags: SnapshotApp["tags"]) {
   if (!tags) return [];
 
   const rawTags = Array.isArray(tags)
@@ -79,30 +100,113 @@ function getValidNews(news: News[]) {
     : [];
 }
 
-// TEMPORAL / PROTOTIPO: limitar deliberadamente a 3 apps reales.
-// La implementación final deberá reemplazar esta lista por la enumeración completa.
 export async function getStaticPaths() {
-  const prototypeAppIds = ["361", "1706", "1055"];
+  const snapshotBaseDir = path.join(process.cwd(), "src", "data", "apps-snapshot");
+  const snapshotSchemaVersion = 1;
 
-  const entries = await Promise.all(
-    prototypeAppIds.map(async (id) => {
-      const response = await fetch(`https://queesia.com/api/obtener_app.php?id=${id}`);
-      const data: AppDetailPayload = await response.json();
+  async function readSnapshotFile<T>(fileName: string) {
+    const filePath = path.join(snapshotBaseDir, fileName);
+    let content = "";
 
-      if (!response.ok || !data.success || !data.app) {
-        throw new Error(data.message || `No se pudo obtener la aplicación ${id}.`);
+    try {
+      content = await readFile(filePath, "utf8");
+    } catch (error) {
+      throw new Error(`Snapshot invalido: no se pudo leer ${fileName}. ${(error as Error).message}`);
+    }
+
+    try {
+      return {
+        content,
+        data: JSON.parse(content) as T,
+      };
+    } catch (error) {
+      throw new Error(`Snapshot invalido: ${fileName} no contiene JSON valido. ${(error as Error).message}`);
+    }
+  }
+
+  function getContentHash(content: string) {
+    return createHash("sha256").update(content).digest("hex");
+  }
+
+  const { data: manifest } = await readSnapshotFile<SnapshotManifest>("manifest.json");
+
+  if (manifest.schemaVersion !== snapshotSchemaVersion) {
+    throw new Error(`Snapshot invalido: schemaVersion de manifest no compatible (${manifest.schemaVersion}).`);
+  }
+
+  if (!Array.isArray(manifest.batches) || manifest.batches.length === 0) {
+    throw new Error("Snapshot invalido: manifest no declara batches.");
+  }
+
+  const entries: Array<{ id: string; detail: Required<SnapshotEntry> }> = [];
+  const seenIds = new Set<string>();
+
+  for (const batchRef of manifest.batches) {
+    if (!batchRef.file) {
+      throw new Error("Snapshot invalido: un batch no declara archivo.");
+    }
+
+    const { content, data: batch } = await readSnapshotFile<SnapshotBatch>(batchRef.file);
+
+    if (batchRef.sha256 && getContentHash(content) !== batchRef.sha256) {
+      throw new Error(`Snapshot invalido: sha256 no coincide para ${batchRef.file}.`);
+    }
+
+    if (batch.schemaVersion !== snapshotSchemaVersion) {
+      throw new Error(`Snapshot invalido: schemaVersion de ${batchRef.file} no compatible.`);
+    }
+
+    if (!batch.apps || typeof batch.apps !== "object" || Array.isArray(batch.apps)) {
+      throw new Error(`Snapshot invalido: ${batchRef.file} no contiene apps validas.`);
+    }
+
+    const batchEntries = Object.entries(batch.apps);
+
+    if (typeof batchRef.count === "number" && batchEntries.length !== batchRef.count) {
+      throw new Error(`Snapshot invalido: count no coincide en ${batchRef.file}.`);
+    }
+
+    for (const [id, detail] of batchEntries) {
+      const app = detail?.app;
+
+      if (!app) {
+        throw new Error(`Snapshot invalido: app ausente para ${id}.`);
       }
 
-      return {
+      const appId = String(app.id ?? "").trim();
+      const appName = String(app.name ?? "").replace(/\s+/g, " ").trim();
+
+      if (!appId) {
+        throw new Error(`Snapshot invalido: id ausente para ${id}.`);
+      }
+
+      if (!appName) {
+        throw new Error(`Snapshot invalido: name ausente para ${id}.`);
+      }
+
+      if (appId !== id) {
+        throw new Error(`Snapshot invalido: id interno ${appId} no coincide con clave ${id}.`);
+      }
+
+      if (seenIds.has(id)) {
+        throw new Error(`Snapshot invalido: id duplicado ${id}.`);
+      }
+
+      seenIds.add(id);
+      entries.push({
         id,
         detail: {
-          app: data.app,
-          news: Array.isArray(data.news) ? data.news : [],
-          sources: Array.isArray(data.sources) ? data.sources : [],
+          app,
+          news: Array.isArray(detail.news) ? detail.news : [],
+          sources: Array.isArray(detail.sources) ? detail.sources : [],
         },
-      };
-    })
-  );
+      });
+    }
+  }
+
+  if (typeof manifest.count === "number" && entries.length !== manifest.count) {
+    throw new Error("Snapshot invalido: count total del manifest no coincide con las apps cargadas.");
+  }
 
   return entries.map(({ id, detail }) => ({
     params: { id },
@@ -111,7 +215,7 @@ export async function getStaticPaths() {
 }
 
 const { app, news = [], sources = [] } = Astro.props as {
-  app: App;
+  app: SnapshotApp;
   news: News[];
   sources: Source[];
 };

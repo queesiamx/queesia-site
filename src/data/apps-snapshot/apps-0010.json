@@ -1,0 +1,2429 @@
+{
+  "schemaVersion": 1,
+  "apps": {
+    "17": {
+      "app": {
+        "id": "17",
+        "name": "DataBot",
+        "url": "https://databot.us/",
+        "short_description": "Asistente virtual impulsado por inteligencia artificial que responde a consultas, proporciona información y realiza tareas mediante comandos de voz.",
+        "category": "Generación de texto",
+        "main_functionality": "Ofrece respuestas a preguntas específicas, crea presentaciones multimedia y proporciona información sobre diversos temas utilizando tecnologías de procesamiento de lenguaje natural.",
+        "tags": "#GeneraciónDeTexto #LLM #Transcripción",
+        "logo_filename": "id_17_data_bot",
+        "what_is": "DataBot es un asistente virtual impulsado por inteligencia artificial que interactúa con los usuarios mediante comandos de voz, proporcionando información y realizando diversas tareas.",
+        "purpose": "Su propósito principal es asistir a los usuarios en la obtención de información, gestión de agendas, creación de presentaciones multimedia y respuesta a consultas específicas, facilitando la interacción con dispositivos y optimizando tareas cotidianas.",
+        "use_cases": "Información General: Responde a preguntas sobre diversos temas, como datos históricos, definiciones y hechos actuales.\nGestión Personal: Ayuda en la organización de listas de compras, recordatorios, citas y alarmas.\nEntretenimiento: Cuenta chistes, reproduce sonidos y ofrece citas motivacionales.\nEducación: Proporciona definiciones y explicaciones sobre conceptos específicos, apoyando el aprendizaje.",
+        "main_advantages": "Interacción por Voz: Permite una comunicación natural y fluida con el usuario.\nPersonalización: Se adapta a las preferencias del usuario en cuanto a idioma, voz y comportamiento.\nMultiplataforma: Disponible en smartphones, tablets y portátiles, facilitando su uso en diversos dispositivos.\nActualizaciones Constantes: Mejora sus capacidades mediante actualizaciones gratuitas o de pago, ampliando sus funcionalidades. ",
+        "long_description": "DataBot es un asistente virtual basado en inteligencia artificial que interactúa con los usuarios a través de comandos de voz, proporcionando respuestas a consultas específicas, creando presentaciones multimedia y ofreciendo información sobre una amplia gama de temas. La aplicación integra servicios como búsqueda en Google, Wikipedia y fuentes RSS para brindar contenido actualizado y relevante. Además, permite la personalización según las preferencias del usuario, incluyendo idioma, voz y comportamiento, y es capaz de aprender nuevas palabras y mejorar su conocimiento con cada interacción.",
+        "release_date": "2016",
+        "developer": "RoboBot Studio",
+        "main_model": "DataBot utiliza tecnologías de procesamiento de lenguaje natural y reconocimiento de voz para comprender y responder a las consultas de los usuarios. Aunque no se especifica un modelo de IA particular, la aplicación integra servicios de búsqueda y bases de datos en línea para generar sus respuestas. \n",
+        "pricing_plans": "DataBot es una aplicación gratuita que ofrece compras dentro de la aplicación para acceder a funciones adicionales o mejoras específicas. Estas compras permiten al usuario ampliar las capacidades del asistente según sus necesidades.",
+        "license": "Propietaria de RoboBot Studio",
+        "security_privacy": "DataBot implementa medidas de seguridad para proteger la información y los datos de los usuarios. La política de privacidad detalla cómo se manejan los datos personales y garantiza que la información no se comparte con terceros sin el consentimiento del usuario.",
+        "integration": "DataBot se integra con diversas aplicaciones y servicios, permitiendo compartir resultados a través de la agenda, SMS, correo electrónico y redes sociales. Además, es compatible con múltiples plataformas, incluyendo smartphones, tablets y portátiles, facilitando su uso en diferentes dispositivos."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://databot.us/"
+        },
+        {
+          "source_url": "https://appparapc.com/apk/60532/"
+        },
+        {
+          "source_url": "https://play.google.com/store/apps/details?hl=es&id=com.testa.databot"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/ai-news-es/descubre-databot-tu-nuevo-asistente-personal-con-increbles-funciones-sorteo-2287482"
+        },
+        {
+          "source_url": "https://depor.com/depor-play/tecnologia/que-saber-de-databot-la-solucion-inteligente-para-la-atencion-al-cliente-via-online-inteligencia-artificial-ia-mexico-mx-espana-noticia/"
+        },
+        {
+          "source_url": "https://apps.apple.com/mx/app/databot-asistente-personal-ia/id1079315953"
+        }
+      ]
+    },
+    "69": {
+      "app": {
+        "id": "69",
+        "name": "Decktopus",
+        "url": "https://www.decktopus.com/",
+        "short_description": "Plataforma de generación de presentaciones impulsada por IA que permite crear presentaciones profesionales de manera rápida y sencilla.",
+        "category": "Generación de diseño",
+        "main_functionality": "Ofrece herramientas basadas en inteligencia artificial para diseñar y personalizar presentaciones, incluyendo sugerencias de imágenes, notas de presentación y ajustes automáticos de diseño.",
+        "tags": "#Educación #GeneraciónDeDiseño #Productividad",
+        "logo_filename": "id_69_decktopus",
+        "what_is": "Decktopus es una plataforma en línea que utiliza inteligencia artificial para facilitar la creación de presentaciones profesionales de manera rápida y eficiente. Ofrece una amplia gama de plantillas y herramientas de diseño que permiten a los usuarios generar presentaciones visualmente atractivas sin necesidad de habilidades avanzadas en diseño.",
+        "purpose": "Su propósito principal es simplificar el proceso de elaboración de presentaciones, proporcionando recursos que automatizan tareas como la selección de temas, el diseño de diapositivas y la incorporación de elementos visuales. Esto permite a los usuarios enfocarse en el contenido y la entrega de su mensaje.",
+        "use_cases": "Propuestas de Negocios: Creación de presentaciones persuasivas para clientes potenciales o socios comerciales.\n\nEducación: Desarrollo de materiales didácticos y presentaciones para clases o seminarios.\n\nMarketing: Diseño de presentaciones para campañas de marketing, lanzamientos de productos o informes de resultados.\n\nConferencias y Webinars: Preparación de diapositivas para ponencias, talleres o sesiones en línea.",
+        "main_advantages": "Ahorro de Tiempo: Automatiza múltiples aspectos del diseño de presentaciones, reduciendo significativamente el tiempo de creación.\n\nFacilidad de Uso: Interfaz intuitiva que no requiere experiencia previa en diseño gráfico.\n\nPersonalización: Ofrece diversas plantillas y opciones de personalización para adaptarse a las necesidades específicas de cada usuario.\n\nIntegración de IA: Utiliza inteligencia artificial para sugerir contenido, imágenes y estructuras de presentación óptimas.",
+        "long_description": "Decktopus es una plataforma en línea que utiliza inteligencia artificial para simplificar la creación de presentaciones profesionales. Con una interfaz intuitiva y herramientas avanzadas, permite a los usuarios generar presentaciones atractivas en cuestión de minutos. La plataforma ofrece una amplia variedad de plantillas personalizables, edición mediante arrastrar y soltar, y funciones como generación automática de contenido, sugerencias de diseño y coaching para presentadores. Además, Decktopus facilita la integración de elementos multimedia y proporciona análisis para mejorar la efectividad de las presentaciones.",
+        "release_date": "2019",
+        "developer": "Decktopus, Inc.",
+        "main_model": "Algoritmos de inteligencia artificial avanzados para generación de contenido y diseño automatizado.",
+        "pricing_plans": "Plan Gratuito: Acceso limitado a funciones básicas.\n\nPlan Pro: $14.99 al mes, con acceso a funciones avanzadas y personalización.\n\nPlan Empresarial: $34.99 al mes por usuario, incluye todas las funciones Pro más herramientas de colaboración y análisis detallados.",
+        "license": "Propietaria de Decktopus, Inc.",
+        "security_privacy": "Privacidad en Decktopus:\n\nDatos recopilados: Información personal (nombre, email) y técnica.\nUso: Mejorar servicios, personalizar experiencias y cumplir leyes.\nCompartición: Solo con proveedores de confianza; no se venden datos.\nSeguridad: Medidas para proteger la información.\nDerechos: Acceso, corrección y eliminación de datos personales.",
+        "integration": "Decktopus permite la integración de elementos multimedia como videos y sitios web en vivo en las presentaciones. Además, ofrece opciones para compartir presentaciones en línea y colaborar con otros usuarios en tiempo real."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/decktopus"
+        },
+        {
+          "source_url": "https://www.decktopus.com/about"
+        },
+        {
+          "source_url": "https://www.decktopus.com/pricing"
+        },
+        {
+          "source_url": "https://www.decktopus.com/privacy"
+        },
+        {
+          "source_url": "https://intelarter.com/decktopus-ai-presentaciones-gratis-ia/"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/decktopus-ai/"
+        },
+        {
+          "source_url": "https://iaboxtool.es/decktopus-ai-crea-presentaciones-profesionales/"
+        }
+      ]
+    },
+    "114": {
+      "app": {
+        "id": "114",
+        "name": "Dante",
+        "url": "https://www.dante-ai.com/",
+        "short_description": "Plataforma que permite crear y desplegar chatbots personalizados impulsados por inteligencia artificial, sin necesidad de programación, para mejorar la interacción con los clientes.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Facilita la creación de chatbots personalizados entrenados con datos específicos del usuario, ofreciendo interacciones hiperpersonalizadas y mejorando la experiencia del cliente.",
+        "tags": "#Chatbot #Productividad #Automatización",
+        "logo_filename": "id_114_dante",
+        "what_is": "Dante AI es una herramienta basada en inteligencia artificial diseñada para crear y gestionar chatbots personalizados que se ajusten a las necesidades de los usuarios. La plataforma utiliza modelos avanzados de procesamiento del lenguaje natural para comprender y responder preguntas de manera efectiva.",
+        "purpose": "Dante AI permite a empresas y organizaciones automatizar la atención al cliente, responder consultas frecuentes, y ofrecer soporte personalizado a través de chatbots. Además, facilita la creación de bots especializados sin necesidad de conocimientos técnicos.",
+        "use_cases": "Atención al Cliente: Automatización de respuestas para consultas comunes en e-commerce, servicios financieros, y más.\nSoporte Técnico: Asistencia a usuarios con preguntas frecuentes sobre productos o servicios.\nEducación: Chatbots que guían a estudiantes o visitantes de sitios educativos para acceder a información relevante.\nMarketing: Bots interactivos que recopilan datos del usuario y personalizan ofertas de productos.\nReclutamiento: Automatización de interacciones iniciales con candidatos para agilizar procesos de selección.",
+        "main_advantages": "No requiere conocimientos de programación para crear y personalizar chatbots.\nPermite entrenar bots con datos específicos del negocio para interacciones más precisas.\nMejora la experiencia del cliente al brindar respuestas rápidas y relevantes.\nCompatible con múltiples plataformas y canales de comunicación.\nAumenta la eficiencia operativa al reducir la carga del equipo humano en tareas repetitivas.",
+        "long_description": "Dante AI es una plataforma avanzada que permite a los usuarios crear, entrenar e implementar chatbots personalizados de manera rápida y sin necesidad de conocimientos de programación. Utilizando modelos de lenguaje de última generación, como GPT-4, Dante AI facilita la creación de chatbots que pueden comprender y responder a consultas de manera conversacional y precisa. \n\nLa plataforma ofrece una variedad de opciones de personalización, desde establecer el tono del chatbot hasta adaptar su apariencia con elementos de marca. Además, Dante AI proporciona una potente API que facilita una integración perfecta con otras aplicaciones, y sus capacidades multilingües garantizan que el chatbot pueda interactuar con los usuarios en su idioma preferido. \n\nEl panel de análisis de Dante AI proporciona información detallada sobre el rendimiento del chatbot, permitiendo a los usuarios tomar decisiones basadas en datos para optimizar las interacciones con los clientes.",
+        "release_date": "2022",
+        "developer": "Dante AI Inc.",
+        "main_model": "GPT-4.",
+        "pricing_plans": "Plan Gratuito: Permite crear un chatbot de IA con funcionalidades básicas. \n\nPlan de Entrada: Ideal para individuos y empresas que desean experimentar las funciones avanzadas de IA. \n\nPlan Premium: Diseñado para empresas en crecimiento que buscan experiencias de IA completamente personalizadas y sin marca de Dante AI.",
+        "license": "Propietaria",
+        "security_privacy": "Dante AI prioriza la privacidad del usuario y la seguridad de los datos, implementando medidas estrictas para proteger la información confidencial y garantizar el cumplimiento de las regulaciones globales de protección de datos.",
+        "integration": "La plataforma ofrece capacidades de integración con más de 5,000 aplicaciones a través de Zapier, facilitando la optimización de los flujos de trabajo y la mejora de la productividad."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/dante"
+        },
+        {
+          "source_url": "https://www.dante-ai.com/"
+        },
+        {
+          "source_url": "https://aplicaciones.ai/dante-ai/"
+        },
+        {
+          "source_url": "https://recursos.ai/dante-ai-crea-tu-propio-chatbot-personalizado-con-gpt-4/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://www.toolpilot.ai/products/dante-ai"
+        },
+        {
+          "source_url": "https://morningdough.com/es/ai-tools/dante-ai/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://iaboxtool.es/dante-ai-chatbots-inteligentes/"
+        },
+        {
+          "source_url": "https://aitools.fyi/es/dante-ai"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/ai-news-es/descubre-dante-ai-el-futuro-del-servicio-al-cliente-2724198"
+        },
+        {
+          "source_url": "https://www.dante-ai.com/privacy-policy"
+        }
+      ]
+    },
+    "117": {
+      "app": {
+        "id": "117",
+        "name": "Databutton",
+        "url": "https://databutton.com/",
+        "short_description": "Sigue siendo el mejor creador de aplicaciones de IA del mundo.",
+        "category": "Codificación",
+        "main_functionality": "Generación de aplicaciones web de pila completa mediante comandos en lenguaje natural, integrando interfaces de usuario y APIs con React y Python.",
+        "tags": "#Programación #Automatización #Productividad",
+        "logo_filename": "id_117_databutton",
+        "what_is": "Databutton es una plataforma impulsada por inteligencia artificial que permite a los usuarios construir aplicaciones web full-stack y productos SaaS a través de indicaciones en lenguaje natural, sin requerir habilidades de codificación extensas.",
+        "purpose": "Su propósito principal es facilitar y acelerar el desarrollo de aplicaciones web, permitiendo a emprendedores y empresas convertir sus ideas en aplicaciones funcionales en días en lugar de semanas, sin necesidad de conocimientos avanzados de programación.",
+        "use_cases": "Prototipado rápido para startups: Los emprendedores pueden construir y probar rápidamente versiones MVP (Producto Mínimo Viable) de sus ideas SaaS sin recursos de desarrollo extensos. \nHerramientas de marketing dirigidas por IA: Las agencias de marketing pueden desarrollar herramientas personalizadas impulsadas por IA para generación de contenido, análisis y gestión de campañas. \nAplicaciones de ciencia de datos: Los investigadores y científicos de datos pueden crear aplicaciones web interactivas para visualizar y compartir sus hallazgos sin conocimientos extensos de desarrollo web. ",
+        "main_advantages": "Desarrollo asistido por IA: La plataforma genera código para interfaces de usuario y APIs basándose en descripciones en lenguaje natural, facilitando el proceso de desarrollo. \nCapacidades full-stack: Permite construir tanto componentes frontend como backend de aplicaciones web, ofreciendo un entorno integral de desarrollo. \nIntegración de APIs y modelos: Los usuarios pueden conectar sus aplicaciones a diversas APIs y modelos de IA externos para mejorar la funcionalidad y realizar ideas complejas. \nDespliegue con un solo clic: Ofrece opciones de despliegue simples, incluyendo despliegue con un solo clic a un subdominio de Databutton o dominio personalizado, gestionando preocupaciones de seguridad e infraestructura. ",
+        "long_description": "Databutton es una plataforma que permite a los usuarios crear aplicaciones web completas utilizando inteligencia artificial. Ofrece una interfaz intuitiva donde los usuarios pueden describir su aplicación en lenguaje natural, y la IA genera automáticamente el código necesario para interfaces de usuario y APIs, utilizando tecnologías como React y Python. Además, proporciona asistencia experta y soporte continuo para garantizar el éxito en el desarrollo y lanzamiento de aplicaciones.",
+        "release_date": "No disponible.",
+        "developer": "Databutton AS",
+        "main_model": "No disponible.",
+        "pricing_plans": "Launch: 200 créditos por mes, ideal para lanzar un MVP con dominio personalizado. Precio: $50/mes.\nScale: 1000 créditos por mes, adecuado para escalar la funcionalidad y alcance de la aplicación. Precio: $200/mes.\nUnlimited: Créditos ilimitados para construir, iterar y lanzar sin restricciones. Precio: $500/mes. Cada generación de código asistida por IA consume 1 crédito.",
+        "license": "Propietaria",
+        "security_privacy": "Databutton AS recopila, utiliza y protege la información personal de sus usuarios. Se aplica al visitar el sitio web oficial, interactuar a través de sus servicios, o participar en actividades relacionadas como ventas y eventos.",
+        "integration": "Databutton permite la integración de APIs y modelos de IA externos, lo que facilita la ampliación de la funcionalidad de las aplicaciones desarrolladas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://databutton.com/?utm_source=superhuman2511"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/databutton"
+        },
+        {
+          "source_url": "https://databutton.com/docs"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/databutton"
+        },
+        {
+          "source_url": "https://app.termly.io/policy-viewer/policy.html?policyUUID=ccfc682c-75d1-4c85-b43b-f6809a125e37"
+        },
+        {
+          "source_url": "https://databutton.com/#pricing"
+        },
+        {
+          "source_url": "https://blog.databutton.com/"
+        }
+      ]
+    },
+    "195": {
+      "app": {
+        "id": "195",
+        "name": "Dazzle",
+        "url": "https://www.dazzleai.com/",
+        "short_description": "Una plataforma interactiva de relaciones públicas que aprovecha la IA de vanguardia para ayudarlo a obtener una cobertura mediática de primer nivel.",
+        "category": "Publicidad",
+        "main_functionality": "Dazzle AI automatiza la investigación de medios, permitiendo a los profesionales de relaciones públicas identificar periodistas, obtener perfiles de publicaciones y encontrar oportunidades en podcasts, optimizando así las campañas de comunicación.",
+        "tags": "#RelacionesPúblicas #Automatización #IA #InvestigaciónDeMedios",
+        "logo_filename": "id_195_dazzle",
+        "what_is": "Dazzle AI es una plataforma de inteligencia artificial diseñada para facilitar la creación de imágenes a partir de descripciones textuales. Utiliza modelos avanzados de aprendizaje profundo para transformar indicaciones escritas en representaciones visuales de alta calidad, permitiendo a los usuarios generar obras de arte originales de manera sencilla y eficiente.",
+        "purpose": "La plataforma está orientada a ayudar a diseñadores gráficos, artistas digitales, profesionales de marketing y creadores de contenido a producir imágenes atractivas sin necesidad de habilidades técnicas avanzadas. Al proporcionar una descripción textual, los usuarios pueden obtener rápidamente imágenes que se ajusten a sus necesidades específicas, optimizando procesos creativos y de comunicación visual.",
+        "use_cases": "Marketing y Publicidad: Creación de imágenes personalizadas para campañas publicitarias, materiales promocionales y contenido en redes sociales, mejorando la atracción y el compromiso del público objetivo.\nDiseño Gráfico: Generación de elementos visuales únicos para proyectos de diseño, facilitando la experimentación y la innovación en la creación artística.\nProducción de Contenido Digital: Elaboración de ilustraciones y gráficos para blogs, sitios web y plataformas digitales, enriqueciendo la experiencia del usuario y complementando el contenido textual.",
+        "main_advantages": "Facilidad de Uso: Interfaz intuitiva que permite a usuarios de diversos niveles de habilidad crear imágenes de calidad profesional sin necesidad de conocimientos técnicos especializados.\nEficiencia en la Producción: Acelera el proceso de creación de imágenes, reduciendo el tiempo y los recursos necesarios para obtener resultados visuales atractivos.\nPersonalización y Flexibilidad: Ofrece opciones para ajustar configuraciones y preferencias, permitiendo a los usuarios adaptar las imágenes generadas a sus necesidades y estilos específicos.\nAccesibilidad Multiplataforma: Disponible en Web, Windows, Mac y Linux, facilitando su uso en diferentes entornos y dispositivos.",
+        "long_description": "Dazzle AI es una plataforma de inteligencia artificial diseñada para optimizar las campañas de relaciones públicas. Automatiza la investigación de medios, permitiendo a los profesionales identificar periodistas relevantes, obtener perfiles detallados de publicaciones y descubrir oportunidades en podcasts. Con su asistente de IA, Dazz, los usuarios pueden realizar consultas específicas para encontrar contactos y obtener información clave, facilitando la creación de listas de medios y la colaboración en equipo. La plataforma ofrece datos actualizados en tiempo real, asegurando que las campañas se dirijan a los medios y periodistas más pertinentes.",
+        "release_date": "No disponible",
+        "developer": "Dazzle AG",
+        "main_model": "No especificado",
+        "pricing_plans": "Gratis\n$0\nAcceso a:\n\n2 puestos de usuario (limitados)\nAsistente de chat Dazzle AI (limitado)\nGestión inteligente de listas de medios\n3 recomendaciones semanales de IA por usuario\nLo más popular\nProfesional\n$175\npor mes facturado anualmente\n\nAcceso a todo en Gratis, más:\n2 puestos de usuario de acceso completo, 35 $/mes por cada puesto adicional\nConsultas de chat ilimitadas y recomendaciones de IA\nDatos de contacto ilimitados\nPuestos de usuario de solo lectura ilimitados\nSesión de incorporación en línea y soporte de chat ilimitado\nEmpresa\n* Precio disponible bajo petición\nPóngase en contacto con el departamento de\nAcceso a todo en Professional, más:\n\n10+ asientos de usuario de acceso completo\nConsultas de chat ilimitadas y recomendaciones de IA\nDatos de contacto ilimitados\nAcuerdo de nivel de servicio\nSoporte premium",
+        "license": "Propietario",
+        "security_privacy": "Dazzle AI se compromete a proteger la información de sus usuarios, implementando medidas de seguridad para garantizar la confidencialidad y privacidad de los datos. Para obtener información detallada sobre sus políticas de privacidad, se recomienda consultar la sección correspondiente en su sitio web oficial.",
+        "integration": "No se especifica información sobre integraciones de Dazzle AI con otras herramientas o servicios en las fuentes disponibles."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.dazzleai.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=a-new-ai-first-web-browser"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/dazzle-ai/"
+        },
+        {
+          "source_url": "https://aitoolguru.com/tools/dazzle-ai"
+        },
+        {
+          "source_url": "https://topai.tools/t/dazzle-ai"
+        },
+        {
+          "source_url": "https://www.dazzleai.com/pricing"
+        },
+        {
+          "source_url": "https://www.dazzleai.com/about"
+        },
+        {
+          "source_url": "https://www.dazzleai.com/privacy-policy"
+        },
+        {
+          "source_url": "https://www.aitoolnet.com/es/dazzle"
+        }
+      ]
+    },
+    "272": {
+      "app": {
+        "id": "272",
+        "name": "Dashworks",
+        "url": "https://www.dashworks.ai/",
+        "short_description": "Empodere a sus equipos para obtener respuestas instantáneas y precisas en toda la base de conocimientos de su organización con asistentes de IA personalizados.\n",
+        "category": "Productividad",
+        "main_functionality": "Unificación de bases de conocimiento dispares dentro de una organización, permitiendo a los usuarios encontrar respuestas de manera rápida y eficiente",
+        "tags": "#AsistenteDeConocimiento #IA #Productividad #GestiónDelConocimiento #IntegraciónDeAplicaciones",
+        "logo_filename": "id_272_dashworks",
+        "what_is": "Dashworks es un asistente de conocimiento impulsado por inteligencia artificial diseñado para empresas. Unifica diversas fuentes de información internas, permitiendo a los empleados acceder rápidamente a datos y respuestas precisas mediante consultas en lenguaje natural.",
+        "purpose": "Su principal función es centralizar el conocimiento disperso en múltiples aplicaciones y documentos corporativos, facilitando la búsqueda y recuperación de información esencial para las operaciones diarias. Esto optimiza la productividad y mejora la eficiencia en la toma de decisiones. \n",
+        "use_cases": "Soporte al Cliente: Equipos de atención pueden acceder rápidamente a información sobre productos y políticas para resolver consultas de clientes de manera más efectiva.\n\nIncorporación de Nuevos Empleados: Facilita el proceso de onboarding al proporcionar acceso inmediato a políticas de la empresa, procedimientos y documentación relevante.\n\nDesarrollo de Software: Los ingenieros pueden buscar y depurar código, así como acceder a documentación técnica necesaria para sus proyectos.\n\nVentas y Marketing: Permite la generación de contenido y la obtención de información actualizada sobre productos y clientes, mejorando las estrategias de ventas y campañas de marketing. ",
+        "main_advantages": "Aumento de la Productividad: Al reducir el tiempo dedicado a buscar información, los empleados pueden enfocarse en tareas más estratégicas.\n\nMejora en la Colaboración: Al centralizar el conocimiento, se facilita el intercambio de información entre equipos y departamentos.\n\nRespuestas Instantáneas: Proporciona respuestas rápidas y precisas a consultas, mejorando la eficiencia operativa.\n\nIntegración Sencilla: Se conecta con múltiples aplicaciones y herramientas utilizadas en la empresa, consolidando la información en una sola plataforma. \n",
+        "long_description": "Dashworks es un asistente de conocimiento empresarial impulsado por inteligencia artificial que integra diversas aplicaciones corporativas para proporcionar respuestas en tiempo real, crear contenido y gestionar documentos. Al consolidar el conocimiento disperso en una plataforma unificada, permite a los equipos acceder rápidamente a información relevante, mejorando la productividad y optimizando los flujos de trabajo. Su capacidad para conectarse con múltiples herramientas y bases de datos empresariales facilita la recuperación de datos y la colaboración entre departamentos.",
+        "release_date": "Abril 2023",
+        "developer": "Dashworks Technologies, Inc.",
+        "main_model": "No disponible.",
+        "pricing_plans": "Plan de equipo\n$12 por asiento al mes\nSin asientos mínimos\n\nUso ilimitado\n\nIntegraciones principales\n\nCarga de archivos\n\nSlackbot (en inglés)\n\nFlujos de trabajo\n\nExtensión del navegador\n\nTemas compartidos\nPlan de Negocios\n$15 por asiento por mes\nMínimo 10 plazas\n\nTodo bajo el Plan de Equipo\n\nBots personalizados\n\nElige entre los mejores LLM\n\nIntegraciones en toda la organización\n\nPersonalización de la IA\n\nMúltiples cuentas para integraciones\n\nSoporte prioritario\nPlan Empresarial\nContáctenos\n\nTodo bajo el Plan de Negocios\n\nSSO y SCIM\n\nAcceso a la API\n\nRetención de datos personalizada\n\nAnálisis e información\n\nIntegraciones de HRIS\n\nNuevas solicitudes de integración priorizadas",
+        "license": "Propietario",
+        "security_privacy": "Dashworks cumple con estándares de seguridad de nivel empresarial, incluyendo certificaciones SOC-2 Tipo 2, GDPR y HIPAA Tipo 2. Utiliza modelos de IA que no requieren la indexación de datos, lo que minimiza el riesgo de brechas de seguridad al evitar la duplicación de información organizacional. Además, las actualizaciones de permisos se aplican instantáneamente, garantizando que los usuarios accedan únicamente a la información autorizada.",
+        "integration": "Dashworks se integra con una amplia variedad de aplicaciones empresariales, unificando todas las aplicaciones y bases de conocimiento de la empresa. Esto permite a los usuarios obtener respuestas actualizadas con citas y crear y personalizar asistentes de IA para diferentes casos de uso, desde la incorporación de nuevos empleados hasta preguntas sobre productos. Además, ofrece respuestas automáticas en Slack y puede configurarse como la página de inicio del navegador del equipo, facilitando el acceso a la información desde múltiples plataformas. \n"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.dashworks.ai/bots?utm_source=superhuman&utm_medium=referral&utm_campaign=ai-pioneer-earns-nobel-prize"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/dashworks-ai/"
+        },
+        {
+          "source_url": "https://easywithai.com/ai-business-tools/dashworks/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/dashworks"
+        },
+        {
+          "source_url": "https://www.dashworks.ai/pricing"
+        },
+        {
+          "source_url": "https://www.dashworks.ai/legal/privacy-policy"
+        },
+        {
+          "source_url": "https://www.dashworks.ai/integrations"
+        },
+        {
+          "source_url": "https://www.dashworks.ai/security"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/dashworks-ai?utm_source=chatgpt.com"
+        }
+      ]
+    },
+    "413": {
+      "app": {
+        "id": "413",
+        "name": "Deciphr",
+        "url": "https://deciphr.ai/",
+        "short_description": "Plataforma impulsada por inteligencia artificial que automatiza la creación de contenido a partir de archivos de audio, video o texto, generando transcripciones, resúmenes, notas de programas y más en minutos.\n\n",
+        "category": "Automatización",
+        "main_functionality": "Transforma archivos multimedia en una suite completa de contenido, incluyendo transcripciones precisas, resúmenes concisos, notas de programas, artículos, citas destacadas y más, optimizando el flujo de trabajo de creadores de contenido.",
+        "tags": "#TranscripciónAutomática #GeneraciónDeContenido #InteligenciaArtificial #Automatización #ProcesamientoDeLenguajeNatural",
+        "logo_filename": "id_413_deciphr",
+        "what_is": "Deciphr es una herramienta basada en inteligencia artificial diseñada para automatizar la creación de contenido a partir de archivos multimedia. Permite a los usuarios transformar audios, videos y textos en transcripciones, resúmenes, notas, citas destacadas y más, en cuestión de minutos.",
+        "purpose": "Ayuda a creadores de contenido, podcasters, periodistas, educadores y empresas a ahorrar tiempo en la producción de contenido derivado de sus grabaciones o textos, facilitando el uso de los datos generados en diferentes formatos y plataformas.\n\n",
+        "use_cases": "Transcripción de entrevistas, conferencias o podcasts.\nCreación de resúmenes ejecutivos de videos o documentos extensos.\nGeneración de notas detalladas para programas de audio o video.\nIdentificación de citas destacadas para uso en redes sociales o presentaciones.\nRedacción automática de artículos o entradas de blogs a partir de grabaciones.\n",
+        "main_advantages": "Ahorro significativo de tiempo en tareas de transcripción y resumen manual.\nResultados precisos gracias al procesamiento de lenguaje natural avanzado.\nAdaptación a diferentes necesidades, desde notas detalladas hasta publicaciones cortas.\nInterfaz intuitiva que simplifica el flujo de trabajo de los usuarios.\nCompatibilidad con múltiples formatos de entrada y salida.",
+        "long_description": "Deciphr es una plataforma impulsada por inteligencia artificial que automatiza la creación de contenido a partir de archivos de audio, video o texto. Permite generar transcripciones precisas, resúmenes concisos, notas de programas, artículos, citas destacadas y más en minutos, optimizando el flujo de trabajo de creadores de contenido como podcasters, educadores y profesionales del marketing.",
+        "release_date": "No disponible",
+        "developer": "No disponible",
+        "main_model": "Deciphr utiliza modelos avanzados de procesamiento de lenguaje natural y aprendizaje automático para analizar archivos multimedia y generar contenido relevante de manera eficiente.",
+        "pricing_plans": "Deciphr ofrece una versión gratuita que permite a los usuarios generar contenido sin costo. Para obtener información detallada sobre planes de suscripción y características adicionales, se recomienda visitar su sitio web oficial.",
+        "license": "Propietaria",
+        "security_privacy": "Deciphr implementa medidas de seguridad estándar para proteger la información de los usuarios y garantizar la confidencialidad de los datos procesados. Para detalles específicos sobre sus políticas de privacidad y prácticas de seguridad, se recomienda consultar la política de privacidad disponible en su sitio web oficial.",
+        "integration": "Deciphr permite la carga directa de archivos de audio y video, facilitando la integración con diversas plataformas de contenido. Además, ofrece funcionalidades para editar y exportar el contenido generado, adaptándose a diferentes flujos de trabajo y necesidades de publicación. \n"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/deciphr"
+        },
+        {
+          "source_url": "https://app.deciphr.ai/auth/signup/?ref=ffmedia"
+        },
+        {
+          "source_url": "https://deepgram.com/ai-apps/deciphr-ai?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://aitoolly.com/es/product/deciphr-ai"
+        },
+        {
+          "source_url": "https://theresanaiforthat.com/ai/deciphr-ai/"
+        },
+        {
+          "source_url": "https://aitools.neilpatel.com/ai_tools/deciphr-ai/"
+        },
+        {
+          "source_url": "https://aplicaciones.ai/deciphr/"
+        },
+        {
+          "source_url": "https://cerebrosintetico.com/resumen/deciphr-ai/"
+        },
+        {
+          "source_url": "https://iasensei.net/deciphr-ai/"
+        },
+        {
+          "source_url": "https://help.deciphr.ai/en/articles/7990282-what-is-deciphr-ai?utm_source=chatgpt.com"
+        }
+      ]
+    },
+    "426": {
+      "app": {
+        "id": "426",
+        "name": "Cursor",
+        "url": "https://www.cursor.com/",
+        "short_description": "Un asistente de codificación que ayuda a los desarrolladores a escribir y depurar código de manera eficiente, mejorando la productividad a través de sugerencias inteligentes y comentarios en tiempo real.",
+        "category": "Codificación",
+        "main_functionality": "Proporciona asistencia en la escritura y edición de código mediante inteligencia artificial, incluyendo autocompletado, generación de código y corrección de errores en tiempo real.",
+        "tags": "#AI #EditorDeCódigo #DesarrolloDeSoftware",
+        "logo_filename": "id_426_cursor",
+        "what_is": "Cursor es un editor de código impulsado por inteligencia artificial diseñado para ayudar a los desarrolladores a escribir, depurar y editar código de manera más eficiente. Con herramientas avanzadas como autocompletado inteligente, edición en lenguaje natural y corrección de errores en tiempo real, facilita el flujo de trabajo y mejora la productividad.",
+        "purpose": "Cursor está diseñado para optimizar el proceso de desarrollo de software. Sirve como asistente programático para escribir código más rápido, solucionar errores automáticamente y aprender mejores prácticas de desarrollo mediante recomendaciones inteligentes.",
+        "use_cases": "Desarrollo de Software: Simplifica la escritura de código, sugiriendo fragmentos optimizados y completando líneas de manera automática.\nAprendizaje: Es una herramienta útil para principiantes que buscan entender estructuras complejas o aprender nuevas tecnologías.\nDepuración: Identifica y corrige errores en tiempo real, lo que resulta útil para proyectos con plazos ajustados.\nPrototipado Rápido: Ayuda a generar borradores de código para nuevos proyectos, permitiendo a los equipos enfocarse en tareas más críticas.",
+        "main_advantages": "Eficiencia Mejorada: Acelera la escritura de código mediante predicciones precisas y personalizadas.\nProductividad Incrementada: Permite a los desarrolladores centrarse en resolver problemas en lugar de luchar con errores sintácticos o tareas repetitivas.\nCompatibilidad Multilenguaje: Funciona con múltiples lenguajes de programación, lo que lo hace versátil.\nInterfaz Intuitiva: Su diseño es amigable y fácil de integrar en el flujo de trabajo existente.",
+        "long_description": "Cursor es un editor de código impulsado por inteligencia artificial (IA) que busca revolucionar el desarrollo de software al integrar capacidades avanzadas de IA directamente en el entorno de programación. Basado en una bifurcación de Visual Studio Code, Cursor ofrece una interfaz familiar para los desarrolladores, permitiendo la importación de extensiones, temas y configuraciones existentes con facilidad.",
+        "release_date": "2023",
+        "developer": "Cursor es desarrollado por Anysphere, una startup fundada en 2022 por Michael Truell, Sualeh Asif, Arvid Lunnemark y Aman Sanger, quienes se conocieron en el Instituto Tecnológico de Massachusetts (MIT).",
+        "main_model": "Cursor utiliza modelos avanzados de IA, incluyendo GPT-3.5 y GPT-4 de OpenAI, así como modelos de Anthropic, para proporcionar asistencia en la codificación. Además, ofrece su propio modelo denominado \"cursor pequeño\" para tareas de edición rápida. \n",
+        "pricing_plans": "Plan Básico (Gratuito): Incluye 50 usos lentos de GPT-4 y 200 usos de GPT-3.5 por mes, además de un editor de código con asistencia de IA y controles de datos privados.\n\nPlan Pro ($20 al mes): Ofrece 500 usos rápidos de GPT-4 por mes, usos ilimitados de GPT-3.5, y controles de datos privados. \n\nPlan Enterprise (Personalizado): Proporciona usos ilimitados de GPT-4 rápidos, soporte empresarial y seguridad de datos adaptada a las necesidades de la organización. \n",
+        "license": "Cursor se ofrece bajo un modelo freemium, combinando opciones gratuitas con funcionalidades premium de pago.",
+        "security_privacy": "Cursor prioriza la seguridad y privacidad de los datos de los usuarios. Ofrece un modo de privacidad donde ningún código es almacenado por la aplicación y cuenta con la certificación SOC 2 para garantizar la protección de datos.",
+        "integration": "Al estar basado en Visual Studio Code, Cursor permite la importación de extensiones, temas y configuraciones existentes, facilitando una integración fluida con herramientas y flujos de trabajo ya establecidos por los desarrolladores. \n"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.cursor.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=the-biggest-ai-stories-of-2024"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/cursor/launches"
+        },
+        {
+          "source_url": "https://codigoencasa.com/conozca-cursor-ai-la-herramienta-de-codificacion-de-ia-que-esta-redefiniendo-el-desarrollo-de-software/"
+        },
+        {
+          "source_url": "https://creati.ai/ai-tools/cursor/"
+        },
+        {
+          "source_url": "https://www.cursor.com/features"
+        },
+        {
+          "source_url": "https://www.cursor.com/pricing"
+        },
+        {
+          "source_url": "https://www.cursor.com/blog"
+        },
+        {
+          "source_url": "https://www.cursor.com/security"
+        }
+      ]
+    },
+    "460": {
+      "app": {
+        "id": "460",
+        "name": "DataMorf",
+        "url": "https://datamorf.io/",
+        "short_description": "Optimice los flujos de trabajo de datos y automatice las canalizaciones sin esfuerzo con transformaciones en tiempo real impulsadas por IA.\n",
+        "category": "Plataformas sin código",
+        "main_functionality": "Automatización de flujos de trabajo y canalizaciones de datos con transformaciones en tiempo real impulsadas por IA, sin requerir conocimientos de codificación.",
+        "tags": "#AutomatizaciónDeDatos #IntegraciónDeDatos #TransformaciónDeDatos #IA #NoCode",
+        "logo_filename": "id_460_datamorf",
+        "what_is": "DataMorf es una plataforma en la nube diseñada para automatizar y simplificar la integración, transformación y enriquecimiento de datos en tiempo real, utilizando herramientas impulsadas por inteligencia artificial.",
+        "purpose": "Su propósito es ayudar a las empresas a automatizar tareas relacionadas con la gestión de datos, reduciendo procesos manuales y mejorando la eficiencia operativa mediante la integración fluida de datos y la automatización de flujos de trabajo.",
+        "use_cases": "Automatización de la creación de contenido y segmentación de audiencia para equipos de marketing.\nSincronización de datos entre CRMs y otras plataformas para equipos de ventas, facilitando seguimientos sin interrupciones.\nCreación de canalizaciones de datos escalables y automatizadas con monitoreo en tiempo real para equipos de desarrollo y TI. ",
+        "main_advantages": "Interfaz intuitiva que permite a usuarios sin conocimientos técnicos diseñar flujos de trabajo complejos sin necesidad de codificación.\nProcesamiento y transformación de datos en tiempo real, asegurando información actualizada y precisa.\nIntegración fluida con diversas herramientas y plataformas, incluyendo CRMs y almacenes de datos.\nCapacidades impulsadas por IA para la generación de contenido y toma de decisiones automatizadas. \n",
+        "long_description": "DataMorf es una plataforma de automatización de flujos de trabajo basada en la nube que permite a las empresas conectar, transformar y enriquecer datos de múltiples fuentes sin necesidad de codificación compleja. Ofrece procesamiento de datos en tiempo real, transformaciones impulsadas por inteligencia artificial y una interfaz intuitiva para construir canalizaciones de datos automatizadas",
+        "release_date": "Septiembre 2023",
+        "developer": "The Coding Company SL (DataMorf)",
+        "main_model": "No disponible",
+        "pricing_plans": "DataMorf ofrece varios planes de precios para adaptarse a las necesidades de diferentes empresas:\n\nExplorer: Gratuito, incluye 200 ejecuciones de flujo de trabajo al mes, 2 flujos de trabajo, 2 asientos y 2 integraciones.\n\nGrowth: $49/mes, ofrece 10,000 ejecuciones mensuales, 10 flujos de trabajo, 5 asientos y 5 integraciones.\n\nEnterprise: $95/mes, proporciona 50,000 ejecuciones mensuales, flujos de trabajo e integraciones ilimitadas, y 15 asientos.\n\nCustom: Plan personalizado adaptado a necesidades específicas; se recomienda contactar a DataMorf para más detalles.",
+        "license": "Propietaria",
+        "security_privacy": "DataMorf protege la privacidad mediante la recopilación de datos personales solo para operar y mejorar sus servicios. No vende información a terceros, aunque puede compartirla con socios bajo acuerdos de confidencialidad. Implementa medidas de seguridad avanzadas y permite a los usuarios acceder, corregir o eliminar sus datos. Cambios en su política de privacidad se comunican oportunamente.",
+        "integration": "DataMorf se integra sin problemas con diversas herramientas, incluyendo APIs, CRMs y bases de datos, permitiendo una sincronización y transformación de datos eficiente en tiempo real."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://datamorf.io/?utm_source=superhuman&utm_medium=referral&utm_campaign=what-to-expect-at-ces-2025"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/datamorf/makers"
+        },
+        {
+          "source_url": "https://appsumo.com/products/datamorf/?srsltid=AfmBOooWz84vTJqKMQsKXk9i26ykWVXjAoED-NoJZF75DuqlbB31Rzw1"
+        },
+        {
+          "source_url": "https://huntscreens.com/en/products/datamorf"
+        },
+        {
+          "source_url": "https://www.aibase.com/tool/35484"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/datamorf"
+        },
+        {
+          "source_url": "https://datamorf.io/es/product"
+        },
+        {
+          "source_url": "https://datamorf.io/es/integrations"
+        },
+        {
+          "source_url": "https://huntscreens.com/es/products/datamorf"
+        }
+      ]
+    },
+    "540": {
+      "app": {
+        "id": "540",
+        "name": "Cubby",
+        "url": "https://cubby.nyc/",
+        "short_description": "Un espacio de trabajo privado para almacenar archivos y enlaces, anotar tu contenido y sintetizarlo con IA.",
+        "category": "Productividad",
+        "main_functionality": "Proporciona un espacio de trabajo privado para almacenar archivos y enlaces, anotar contenido en su formato original, transcribir automáticamente audio y video, y sintetizar información mediante herramientas impulsadas por IA.",
+        "tags": "#IA #InvestigaciónColaborativa #GestiónDeContenido #Productividad",
+        "logo_filename": "id_540_cubby",
+        "what_is": "Cubby es una plataforma de investigación colaborativa que proporciona un espacio de trabajo privado para almacenar, anotar y sintetizar contenido con la ayuda de inteligencia artificial. Permite a los usuarios gestionar diversos tipos de información, como artículos, archivos PDF, videos de YouTube, podcasts y más, facilitando la organización y el análisis de datos en su formato original.",
+        "purpose": "Cubby está diseñada para optimizar la gestión de información en proyectos de investigación y colaboración. Ofrece herramientas para almacenar enlaces y archivos, realizar anotaciones directamente sobre el contenido, transcribir automáticamente audio y video, y sintetizar información mediante inteligencia artificial.",
+        "use_cases": "Investigación Académica: Investigadores pueden utilizar Cubby para recopilar y anotar artículos científicos, documentos y otros recursos relevantes, manteniendo todas las referencias organizadas en un solo lugar.\nGestión de Proyectos: Equipos de trabajo pueden almacenar y anotar documentos, presentaciones y enlaces relacionados con sus proyectos, facilitando la colaboración y el seguimiento de avances.\nCreación de Contenido: Creadores de contenido pueden utilizar Cubby para organizar y anotar fuentes de información, videos y podcasts, ayudando en la planificación y desarrollo de nuevos materiales.\nAnálisis de Medios: Profesionales de medios pueden transcribir y anotar entrevistas en audio o video, permitiendo una revisión y edición más eficiente del contenido.",
+        "main_advantages": "Almacenamiento Centralizado: Permite guardar una variedad de contenidos en un solo espacio de trabajo, facilitando el acceso y la organización de la información.\nAnotaciones en Formato Original: Ofrece la capacidad de realizar anotaciones directamente sobre el contenido en su formato original, preservando el contexto y la estructura del material.\nTranscripción Automática: Convierte automáticamente contenido de audio y video en texto, facilitando la revisión y análisis de información multimedia.\nSíntesis con Inteligencia Artificial: Genera resúmenes automáticos y permite realizar consultas asistidas por IA, proporcionando insights valiosos y ahorrando tiempo en el procesamiento de datos.\nInterfaz Intuitiva: Diseñada para ser fácil de usar, lo que permite a los usuarios centrarse en su trabajo sin complicaciones técnicas.",
+        "long_description": "Cubby es una herramienta de investigación colaborativa que proporciona un espacio de trabajo privado para almacenar archivos y enlaces, anotar contenido y sintetizar información con la ayuda de inteligencia artificial. Permite a los usuarios agregar diversos tipos de contenido, como artículos, archivos PDF, videos de YouTube, podcasts, documentos y más, desde cualquier lugar. Las anotaciones se realizan directamente sobre el contenido en su formato original, preservando el contexto y la estructura del material.",
+        "release_date": "No disponible",
+        "developer": "CUBBY NYC Inc.",
+        "main_model": "Cubby utiliza inteligencia artificial para la transcripción de audio y video, así como para la generación de resúmenes y respuestas a consultas. Está impulsado por OpenAI.",
+        "pricing_plans": "Cubby ofrece una extensión gratuita para Google Chrome que permite a los usuarios guardar artículos y destacados en su cuenta para futuras referencias. No se especifican otros planes de suscripción en la información disponible.",
+        "license": "Cubby es una aplicación web gratuita.",
+        "security_privacy": "Cubby recopila y utiliza información personal como datos de cuenta, contactos, actividad de uso y datos de dispositivos para mejorar y proteger sus servicios. Emplea cookies y tecnologías similares para optimizar la experiencia del usuario. La plataforma comparte datos con terceros de confianza para brindar soporte técnico y prevenir abusos, pero no los vende a terceros.",
+        "integration": "Cubby permite agregar contenido desde diversas fuentes, incluyendo artículos, PDFs, YouTube, podcasts, videos, audios, documentos, tweets, PowerPoints y ePubs, facilitando la integración con flujos de trabajo de investigación y colaboración."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://cubby.nyc/?utm_source=superhuman&utm_medium=referral&utm_campaign=chatgpt-sparks-school-ai-debate"
+        },
+        {
+          "source_url": "https://cubby.ai/"
+        },
+        {
+          "source_url": "https://www.deviantart.com/cubby-ai"
+        },
+        {
+          "source_url": "https://www.comparebiztech.com/ai-tools/cubby/"
+        },
+        {
+          "source_url": "https://www.aitoolnet.com/cubby"
+        },
+        {
+          "source_url": "https://cubby.nyc/pricing"
+        },
+        {
+          "source_url": "https://supertools.therundown.ai/content/cubby"
+        },
+        {
+          "source_url": "https://openfuture.ai/tool/cubby"
+        },
+        {
+          "source_url": "https://genai.works/applications/cubby"
+        },
+        {
+          "source_url": "https://toole.ai/ai-tools-research/cubby/"
+        },
+        {
+          "source_url": "https://www.aitoolnet.com/es/cubby"
+        },
+        {
+          "source_url": "https://cubby.nyc/security"
+        },
+        {
+          "source_url": "https://cubby.nyc/privacy"
+        }
+      ]
+    },
+    "563": {
+      "app": {
+        "id": "563",
+        "name": "Cuppa",
+        "url": "https://cuppa.ai/",
+        "short_description": "Plataforma de marketing de contenidos impulsada por inteligencia artificial que permite generar artículos y publicaciones optimizadas para SEO de manera eficiente.",
+        "category": "Marketing de contenidos",
+        "main_functionality": "Facilita la creación de contenido optimizado para blogs, noticias y sitios web, incluyendo guías de compra, publicaciones en redes sociales, boletines informativos y páginas de servicios locales, todo potenciado por inteligencia artificial",
+        "tags": "#GeneraciónDeContenido #MarketingDigital #InteligenciaArtificial",
+        "logo_filename": "id_563_cuppa",
+        "what_is": "Cuppa es una plataforma de creación de contenido impulsada por inteligencia artificial diseñada para transformar y modernizar las estrategias y operaciones de contenido. Facilita la redacción de artículos de blog, optimización SEO, creación de clusters temáticos, publicación de SEO programático y generación de ideas creativas para diversas necesidades de marketing",
+        "purpose": "Su propósito principal es agilizar y optimizar la creación de contenido de alta calidad, permitiendo a los usuarios generar artículos, guías de compra, publicaciones en redes sociales, boletines informativos y páginas de servicios locales de manera eficiente y efectiva. Cuppa está diseñada para ayudar a los creadores de contenido a construir artículos optimizados que generen tráfico en cuestión de minutos.",
+        "use_cases": "Generación de Artículos y Blogs: Cuppa permite generar publicaciones optimizadas y persuasivas para blogs, noticias o cualquier sitio web, excelentemente adaptadas para este propósito.\n\nCreación de Guías de Compra: Facilita la elaboración de resúmenes completos para clasificar productos propios o ganar comisiones, con integración fluida de APIs de comerciantes.\n\nPublicaciones en Redes Sociales: Importa publicaciones anteriores y permite que Cuppa AI reaccione instantáneamente a las últimas tendencias, noticias, lanzamientos o incluso respuestas de usuarios.\n\nBoletines Informativos: Cuppa AI maneja la investigación, optimización y formato de tus boletines, permitiéndote publicar más de lo que podrías escribir por tu cuenta.\n\nSEO Programático sin Código: Genera cientos o incluso miles de páginas SEO con solo un clic, utilizando una herramienta diseñada para cualquier persona, independientemente de su experiencia en codificación.",
+        "main_advantages": "Ahorro de Tiempo: Permite la creación rápida de contenido optimizado, reduciendo significativamente el tiempo dedicado a la redacción y edición.\n\nOptimización SEO Integrada: Genera contenido que cumple con las mejores prácticas de SEO, mejorando la visibilidad en motores de búsqueda.\n\nInterfaz Intuitiva: Ofrece una plataforma fácil de usar que facilita la generación y gestión de contenido, incluso para usuarios sin experiencia técnica.\n\nSoporte Multilingüe: Admite la creación de contenido en 33 idiomas diferentes, ampliando el alcance a audiencias globales. \n\nIntegraciones Flexibles: Se integra con herramientas como WordPress, Google Docs y Zapier, facilitando la publicación y distribución del contenido.",
+        "long_description": "Cuppa es una plataforma de marketing de contenidos impulsada por inteligencia artificial que permite a los usuarios generar artículos y publicaciones optimizadas para SEO de manera eficiente. La herramienta facilita la creación de diversos tipos de contenido, incluyendo artículos de blog, guías de compra, publicaciones en redes sociales, boletines informativos y páginas de servicios locales. Cuppa está diseñada para ayudar a los creadores de contenido a construir artículos optimizados que generen tráfico en cuestión de minutos.",
+        "release_date": "Abril 2023",
+        "developer": "Acme LLC",
+        "main_model": "Cuppa utiliza modelos avanzados de inteligencia artificial para generar contenido optimizado y persuasivo. Los usuarios deben ingresar sus propias claves API de OpenAI para acceder a las funcionalidades de generación de contenido.",
+        "pricing_plans": "Hobby: $25/mes, incluye palabras y generaciones ilimitadas, acceso a todas las plantillas de generación de contenido, integración con WordPress, Google Docs y Zapier, entre otras características.\n\nPower User: $60/mes, incluye todas las características del plan Hobby, además de acceso a modelos de imagen como Midjourney y Flux, scraping web en vivo, análisis de los 20 principales competidores por palabra clave, y más.",
+        "license": "No disponible",
+        "security_privacy": "Cuppa es una plataforma de generación de contenido impulsada por inteligencia artificial que permite crear artículos, blogs y publicaciones optimizadas para SEO de forma rápida y eficiente. Ofrece integraciones con WordPress, Google Docs y Zapier, y cuenta con planes de suscripción adaptados a diferentes necesidades de marketing digital.",
+        "integration": "Cuppa se integra con varias herramientas y plataformas para mejorar la eficiencia en la creación y gestión de contenido:\n\nWordPress: Permite la publicación directa de contenido generado en sitios web de WordPress.\n\nGoogle Docs: Facilita la exportación y edición de contenido en Google Docs.\n\nZapier: Ofrece automatizaciones que conectan Cuppa con diversas aplicaciones y servicios para optimizar flujos de trabajo."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/cuppa"
+        },
+        {
+          "source_url": "https://cuppa.ai/?via=aitools"
+        },
+        {
+          "source_url": "https://originality.ai/blog/cuppa-ai-review"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/cuppa-ai-blog-post-generator"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/cuppa/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://www.aitoolnet.com/es/cuppa"
+        },
+        {
+          "source_url": "https://aimojo.io/es/tools/cuppa/"
+        },
+        {
+          "source_url": "https://sayhi2.ai/es/product/cuppa_sh"
+        }
+      ]
+    },
+    "745": {
+      "app": {
+        "id": "745",
+        "name": "D-iD AI Video Translate",
+        "url": "https://www.d-id.com/video-translate",
+        "short_description": "Traduzca automáticamente videos masivos a varios idiomas con solo unos pocos clics.",
+        "category": "Traducción",
+        "main_functionality": "Traducción automática de videos con clonación de voz y sincronización labial para generar versiones multilingües realistas.",
+        "tags": "#TraducciónDeVideo #IA #ClonaciónDeVoz #SincronizaciónLabial #LocalizaciónMultilingüe",
+        "logo_filename": "id_745_d-idvideo",
+        "what_is": "D-ID AI Video Translate es una solución basada en inteligencia artificial que permite traducir videos a múltiples idiomas, manteniendo la voz original del hablante y adaptando sus movimientos labiales para una experiencia visual y auditiva coherente.​",
+        "purpose": "Facilita la creación de contenido audiovisual multilingüe, permitiendo a empresas y creadores de contenido ampliar su alcance global sin necesidad de regrabar o realizar doblajes tradicionales.",
+        "use_cases": "Empresas que desean localizar sus materiales de marketing y formación para diferentes mercados internacionales.​\n\nEducadores que buscan ofrecer contenido en varios idiomas para estudiantes de distintas regiones.​\n\nCreadores de contenido que desean ampliar su audiencia global sin incurrir en altos costos de producción.",
+        "main_advantages": "Automatización del proceso de traducción de videos, reduciendo tiempo y costos.​\n\nClonación de voz y sincronización labial que mantienen la naturalidad del video original.​\n\nInterfaz intuitiva y opciones de integración mediante API para adaptarse a diferentes flujos de trabajo.​",
+        "long_description": "D-ID AI Video Translate es una herramienta avanzada que permite traducir videos a múltiples idiomas de manera automática, manteniendo la autenticidad del hablante original mediante la clonación de voz y la adaptación de movimientos labiales. Esta solución es ideal para empresas y creadores de contenido que buscan ampliar su alcance global sin incurrir en los altos costos y tiempos asociados con la producción de videos multilingües tradicionales. Con una interfaz fácil de usar y opciones de integración mediante API, D-ID AI Video Translate se adapta a diversas necesidades y flujos de trabajo, facilitando la localización de contenido audiovisual de manera eficiente y efectiva.​\n",
+        "release_date": "Agosto 2024",
+        "developer": "D-ID",
+        "main_model": "Modelo propietario Rosetta-1, desarrollado por D-ID",
+        "pricing_plans": "Ofrece una prueba gratuita limitada y planes de suscripción que varían desde $56 USD hasta $1,293 USD anuales, con opciones empresariales disponibles.",
+        "license": "Propietario",
+        "security_privacy": "D-ID procesa los videos en sus servidores, y se recomienda a los usuarios revisar las políticas de privacidad y términos de servicio para comprender cómo se manejan sus datos.",
+        "integration": "Disponible a través de la plataforma web D-ID Studio, con opciones de integración mediante API y una aplicación móvil para traducción de videos sobre la marcha.​"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.d-id.com/video-translate/?utm_source=superhuman&utm_medium=referral&utm_campaign=nvidia-s-new-tool-is-a-recipe-for-ai-success"
+        },
+        {
+          "source_url": "https://techcrunch.com/2024/08/21/d-id-launches-an-ai-video-translation-tool-that-includes-voice-cloning-and-lip-sync/"
+        },
+        {
+          "source_url": "https://www.youtube.com/watch?v=IEQdxiId1Nk"
+        }
+      ]
+    },
+    "805": {
+      "app": {
+        "id": "805",
+        "name": "Cynthia AI",
+        "url": "https://cynthia-ai.andromeda-intelligence.com/",
+        "short_description": "Un complemento de investigación de productos que te ayuda a comprender los comentarios de tus clientes, los tickets y otros datos cualitativos a escala.",
+        "category": "Chat",
+        "main_functionality": "Análisis automatizado de comentarios de clientes provenientes de múltiples fuentes para generar informes detallados sobre tendencias, sentimientos y áreas de mejora.",
+        "tags": "#AnálisisDeFeedback #IA #Automatización #InvestigaciónDeProducto #Multilingüe​",
+        "logo_filename": "id_805_cynthia",
+        "what_is": "Cynthia AI es una plataforma de análisis de datos cualitativos que utiliza inteligencia artificial para procesar y comprender comentarios de clientes a gran escala, proporcionando insights accionables para equipos de producto y experiencia del cliente.",
+        "purpose": "Ayuda a las empresas a identificar tendencias, problemas y oportunidades en los comentarios de clientes, permitiendo tomar decisiones informadas para mejorar productos y servicios.",
+        "use_cases": "Análisis de tickets de soporte, reseñas de productos, comentarios en redes sociales y encuestas de satisfacción para detectar patrones y áreas de mejora.",
+        "main_advantages": "Automatización del análisis de datos cualitativos, integración con múltiples fuentes de datos, generación de informes detallados y comprensión multilingüe de comentarios.​",
+        "long_description": "Cynthia AI es una herramienta avanzada de análisis de datos cualitativos que permite a las empresas comprender profundamente los comentarios de sus clientes. Mediante la integración con diversas fuentes como Zendesk, reseñas de productos y redes sociales, Cynthia AI recopila y analiza datos para identificar tendencias, sentimientos y áreas de mejora. Su tecnología de búsqueda profunda permite obtener respuestas rápidas y precisas a preguntas específicas, facilitando la toma de decisiones estratégicas. Además, ofrece informes automatizados que resumen los hallazgos clave, y su capacidad multilingüe asegura una comprensión precisa de comentarios en diferentes idiomas y dialectos.",
+        "release_date": "Agosto 2024",
+        "developer": "Andromeda Intelligence Pvt Ltd.",
+        "main_model": "No disponible",
+        "pricing_plans": "Prueba Gratuita de 14 días: Acceso completo a las funcionalidades sin necesidad de tarjeta de crédito.\n\nPlanes de Suscripción: A partir de $25 mensuales, con opciones escalables según las necesidades del cliente.",
+        "license": "Propietaria",
+        "security_privacy": "No disponible",
+        "integration": "Integración con plataformas como Zendesk, reseñas de productos y redes sociales para la recopilación y análisis de datos.​"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://cynthia-ai.andromeda-intelligence.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-unlocks-gpt-4o"
+        },
+        {
+          "source_url": "https://www.trendhunter.com/trends/cynthia-ai"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/cynthia-ai"
+        },
+        {
+          "source_url": "https://bestofai.com/tool/cynthia-ai"
+        },
+        {
+          "source_url": "https://www.aibase.com/tool/32442"
+        },
+        {
+          "source_url": "https://cynthia-ai.tenereteam.com/"
+        },
+        {
+          "source_url": "https://slashdot.org/software/p/Cynthia-AI/"
+        },
+        {
+          "source_url": "https://cynthiasystems.com/"
+        }
+      ]
+    },
+    "856": {
+      "app": {
+        "id": "856",
+        "name": "Datadog",
+        "url": "https://www.datadoghq.com/monitoring/observability-platform/",
+        "short_description": "Comience a monitorear toda su pila en una plataforma de observabilidad en tiempo real y obtenga una visibilidad completa en minutos.",
+        "category": "Detección",
+        "main_functionality": "Monitoreo integral de infraestructura, aplicaciones y servicios en la nube mediante la recopilación y análisis de métricas, registros y trazas.",
+        "tags": "#Observabilidad #MonitoreoDeInfraestructura #APM #Logs #Métricas #Trazas #DevOps #Seguridad​",
+        "logo_filename": "id_856_datadog",
+        "what_is": "Datadog es una plataforma de monitoreo y análisis basada en la nube que proporciona observabilidad de pila completa para entornos dinámicos y nativos de la nube. Permite a las organizaciones recopilar, correlacionar y visualizar datos de diversas fuentes, ofreciendo información sobre el rendimiento, disponibilidad y estado de aplicaciones, infraestructura y redes.",
+        "purpose": "Está diseñada para ayudar a los equipos de TI, DevOps y seguridad a supervisar y optimizar el rendimiento de sistemas, detectar y resolver incidentes, mejorar la experiencia del desarrollador y fortalecer la postura de seguridad en entornos híbridos y multinube.",
+        "use_cases": "Monitoreo y optimización del rendimiento de sistemas y aplicaciones.\n\nDetección y resolución de incidentes en tiempo real.\n\nMejora de la experiencia del desarrollador mediante la visibilidad de código a producción.\n\nFortalecimiento de la seguridad mediante la detección de amenazas y cumplimiento de normativas.",
+        "main_advantages": "Visibilidad unificada de infraestructura, aplicaciones y servicios.\n\nMás de 850 integraciones con tecnologías de terceros.\n\nInterfaz intuitiva con paneles personalizables y alertas en tiempo real.\n\nCapacidades de aprendizaje automático para detección de anomalías.\n\nEscalabilidad y adaptabilidad a entornos complejos y en crecimiento.​",
+        "long_description": "Datadog es una plataforma de monitoreo y análisis basada en la nube que proporciona observabilidad de pila completa para entornos dinámicos y nativos de la nube. Permite a las organizaciones recopilar, correlacionar y visualizar datos de diversas fuentes, ofreciendo información sobre el rendimiento, disponibilidad y estado de aplicaciones, infraestructura y redes. La plataforma integra métricas, registros y trazas en una única interfaz, facilitando la detección y resolución de problemas, optimización de rendimiento y fortalecimiento de la seguridad.",
+        "release_date": "2010",
+        "developer": "Datadog, Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "Prueba gratuita: 14 días.\n\nPlanes de pago: Varían según las necesidades, incluyendo monitoreo de infraestructura, APM, gestión de registros, seguridad y más.",
+        "license": "Propietaria",
+        "security_privacy": "Datadog cumple con estándares de seguridad y privacidad, ofreciendo capacidades para detectar riesgos y amenazas en infraestructuras y aplicaciones a lo largo del ciclo de vida del desarrollo de software, permitiendo a las organizaciones adoptar una cultura DevSecOps.",
+        "integration": "Más de 850 integraciones con tecnologías de terceros, incluyendo AWS, Azure, Google Cloud, Kubernetes, Docker, y muchas más."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Forbes democratiza el acceso a datos de observabilidad mediante ampliación sin restricciones de costos",
+          "description": "Forbes amplió el acceso a sus datos de observabilidad de un grupo reducido de operaciones a toda su organización tecnológica, pasando de 5 a 88 usuarios. Esta expansión se logró sin restricciones de precios por usuario, facilitando la toma de decisiones informadas y mejorando la colaboración técnica en toda la empresa.",
+          "url": "https://www.datadoghq.com/case-studies/forbes/"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Compass escala su infraestructura técnica mediante prácticas de monitoreo repetibles y sostenibles",
+          "description": "Compass implementó prácticas de monitoreo escalables y estandarizadas, facilitando su transición de startup a una organización de ingeniería de nivel empresarial. Esta evolución fortaleció su capacidad operativa y permitió mantener altos niveles de rendimiento y fiabilidad en sus sistemas.",
+          "url": "https://www.datadoghq.com/case-studies/compass"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Go1 mejora la estabilidad del servicio mediante mayor observabilidad con datos y trazas de APM",
+          "description": "Go1 logró reducir significativamente las interrupciones del servicio al implementar un enfoque mejorado de observabilidad, que integró datos y trazas de APM. Esta estrategia fortaleció el monitoreo del sistema a medida que la empresa escalaba, garantizando mayor estabilidad y rendimiento.",
+          "url": "https://www.datadoghq.com/case-studies/go1"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "CircleCI previene problemas técnicos mediante centralización de alertas y métricas",
+          "description": "CircleCI implementó una estrategia de observabilidad que centraliza alertas, eventos y métricas, lo que permitió anticipar y prevenir problemas técnicos antes de que impactaran a los usuarios. Esta centralización mejoró la eficiencia operativa y la capacidad de respuesta del equipo técnico.",
+          "url": "https://www.datadoghq.com/case-studies/circleci"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.datadoghq.com/dg/monitor/observability/?utm_source=superhumanai&utm_medium=newsletter&utm_campaign=dg-coreplatform-ww-observability-free-trial"
+        },
+        {
+          "source_url": "https://www.datadoghq.com/case-studies/"
+        },
+        {
+          "source_url": "https://www.devopsschool.com/blog/what-is-datadog-and-use-cases-of-datadog/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://www.techtarget.com/searchitoperations/tip/Top-observability-tools"
+        },
+        {
+          "source_url": "https://alexalvess.medium.com/maximizing-observability-and-monitoring-with-datadog-6d48d660fb66"
+        },
+        {
+          "source_url": "https://www.trustradius.com/products/datadog/reviews?qs=product-usage"
+        }
+      ]
+    },
+    "858": {
+      "app": {
+        "id": "858",
+        "name": "CustomGPT",
+        "url": "https://customgpt.ai/",
+        "short_description": "Plataforma sin necesidad de programación que permite crear agentes de inteligencia artificial personalizados, entrenados con los propios datos empresariales para ofrecer respuestas precisas y seguras.",
+        "category": "Chat",
+        "main_functionality": "Desarrollo de chatbots personalizados mediante modelos de lenguaje avanzados, utilizando datos propios de la empresa sin requerir conocimientos técnicos.",
+        "tags": "#NoCode #ChatbotPersonalizado #IAEmpresarial #ProcesamientoDeLenguajeNatural #SeguridadDeDatos #Multilenguaje​",
+        "logo_filename": "id_858_customgpt",
+        "what_is": "CustomGPT.ai es una plataforma que permite a las empresas crear chatbots personalizados utilizando sus propios datos, sin necesidad de programación. Utiliza modelos de lenguaje avanzados para proporcionar respuestas precisas y relevantes basadas en la información proporcionada por la empresa.",
+        "purpose": "Está diseñada para mejorar la eficiencia operativa y la experiencia del cliente, permitiendo a las empresas automatizar respuestas a consultas frecuentes, proporcionar soporte interno y externo, y facilitar el acceso a la información corporativa de manera rápida y segura.",
+        "use_cases": "Automatización del soporte al cliente mediante chatbots entrenados con documentación interna.\n\nAsistencia en la formación y onboarding de empleados proporcionando respuestas basadas en manuales y políticas internas.\n\nMejora de la búsqueda interna de información en grandes bases de datos corporativas.\n\nAnálisis y respuesta a consultas legales o financieras utilizando documentos específicos de la empresa.",
+        "main_advantages": "Interfaz sin necesidad de programación, accesible para usuarios sin conocimientos técnicos.\n\nIntegración con más de 100 fuentes de datos, incluyendo documentos, sitios web y plataformas como Google Drive y Shopify.\n\nCumplimiento con estándares de seguridad como SOC2 Tipo 2 y GDPR.\n\nSoporte para más de 90 idiomas, facilitando la comunicación global.\n\nCapacidad de personalización y marca blanca en planes avanzados.​",
+        "long_description": "CustomGPT.ai es una plataforma de inteligencia artificial que permite a las empresas crear chatbots personalizados utilizando sus propios datos, sin necesidad de programación. La plataforma admite más de 1,400 formatos de documentos y se integra con diversas fuentes de datos, como sitios web, videos de YouTube, podcasts y plataformas como Google Drive y Shopify. Utiliza tecnología de Recuperación Aumentada por Generación (RAG) para proporcionar respuestas precisas basadas en los datos proporcionados, evitando la generación de información no verificada. Además, ofrece opciones de personalización y marca blanca, así como cumplimiento con estándares de seguridad como SOC2 Tipo 2 y GDPR.",
+        "release_date": "2023",
+        "developer": "CustomGPT.ai (Privately Held, Needham, MA)",
+        "main_model": "Modelos de Lenguaje de Gran Escala (LLMs) avanzados con tecnología de Recuperación Aumentada por Generación (RAG)",
+        "pricing_plans": "Standard: $99/mes – Incluye 10 agentes, 1,000 consultas mensuales, almacenamiento de 60 millones de palabras y acceso a la API.\n\nPremium: $499/mes – Incluye 100 agentes, 5,000 consultas mensuales, almacenamiento de 300 millones de palabras, sincronización automática de contenido web y opciones de marca blanca.\n\nEnterprise: Precio personalizado – Incluye características avanzadas como seguridad de nivel empresarial, inicio de sesión único personalizado y soporte prioritario.",
+        "license": "Propietaria",
+        "security_privacy": "Cumplimiento con SOC2 Tipo 2 y GDPR, con medidas de seguridad avanzadas para proteger los datos empresariales y garantizar la privacidad.",
+        "integration": "Integración con más de 100 plataformas y fuentes de datos, incluyendo Google Drive, HubSpot, WordPress, Shopify, Wix y más."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "Condado de Bernalillo mejora la atención al cliente mediante automatización de respuestas con CustomGPT.ai",
+          "description": "El condado de Bernalillo, en Nuevo México, implementó CustomGPT.ai para optimizar la eficiencia en su servicio al cliente. La solución permitió ofrecer respuestas precisas de forma automatizada, lo que redujo significativamente la carga de trabajo del personal y mejoró la experiencia de los ciudadanos en sus interacciones con la administración.",
+          "url": "https://customgpt.ai/customers/"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Martin Trust Center consolida conocimientos y mejora el soporte a emprendedores mediante CustomGPT.ai",
+          "description": "El Martin Trust Center for MIT Entrepreneurship implementó CustomGPT.ai para unificar su base de conocimientos empresariales y ofrecer respuestas rápidas y precisas a estudiantes y emprendedores. Esta solución mejoró significativamente el acceso a información clave, facilitando el aprendizaje y el desarrollo de nuevos proyectos.",
+          "url": "https://customgpt.ai/customers/"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Dlubal Software optimiza la atención técnica al cliente mediante asistencia automatizada con CustomGPT.ai",
+          "description": "Dlubal Software adoptó CustomGPT.ai para fortalecer su servicio al cliente, permitiendo ofrecer información técnica precisa y detallada sobre sus soluciones de ingeniería estructural. Esta implementación mejoró la eficiencia en la atención y facilitó el acceso rápido a documentación especializada.",
+          "url": "https://customgpt.ai/customers/"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/customgpt"
+        },
+        {
+          "source_url": "https://customgpt.ai/?fpr=ffmedia"
+        },
+        {
+          "source_url": "https://customgpt.ai/customers/"
+        },
+        {
+          "source_url": "https://www.navto.ai/es/customgpt-ai"
+        },
+        {
+          "source_url": "https://ia-tools.com/customgpt-login-ferramenta-ia-low-code-no-code/"
+        },
+        {
+          "source_url": "https://lumenalta.com/insights/what-is-a-custom-gpt-key-features-benefits"
+        },
+        {
+          "source_url": "https://www.capterra.com/p/10004844/CustomGPT-ai/"
+        }
+      ]
+    },
+    "862": {
+      "app": {
+        "id": "862",
+        "name": "Daytona",
+        "url": "https://www.daytona.io/",
+        "short_description": "Cree, controle e implemente agentes de IA con una velocidad y flexibilidad sin precedentes.",
+        "category": "Codificación",
+        "main_functionality": "Provisión rápida de entornos de desarrollo aislados para ejecutar y gestionar código generado por agentes de inteligencia artificial, con soporte para operaciones programáticas y persistencia de estado.",
+        "tags": "#InfraestructuraIA #EntornosAislados #AgentesIA #EjecuciónSegura #DesarrolloProgramático",
+        "logo_filename": "id_862_daytona",
+        "what_is": "Daytona es una plataforma de infraestructura diseñada específicamente para facilitar la ejecución segura y escalable de código generado por inteligencia artificial. Proporciona entornos de desarrollo aislados que permiten a los agentes de IA operar de manera autónoma sin comprometer la seguridad del sistema principal.",
+        "purpose": "Sirve para crear y gestionar entornos de desarrollo que permiten ejecutar código generado por IA de forma segura, facilitando la integración de agentes de inteligencia artificial en flujos de trabajo de desarrollo y producción.\n\n",
+        "use_cases": "Desarrollo y prueba de agentes de IA en entornos controlados.\n\nEjecución de código generado por modelos de lenguaje grande (LLM) sin riesgos para la infraestructura principal.\n\nAnálisis de datos y visualización mediante agentes de IA en entornos aislados.\n\nImplementación de flujos de trabajo paralelos para evaluar múltiples versiones de código generado por IA.",
+        "main_advantages": "Creación de entornos en menos de 200 ms, optimizando la eficiencia del desarrollo.\n\nAislamiento completo de los entornos para garantizar la seguridad de la infraestructura.\n\nCompatibilidad con múltiples lenguajes de programación y herramientas de desarrollo.\n\nSoporte para operaciones programáticas, incluyendo control de versiones y ejecución de comandos.​\n",
+        "long_description": "Daytona es una plataforma de infraestructura diseñada para facilitar el desarrollo y la ejecución de código generado por inteligencia artificial en entornos seguros y escalables. Proporciona entornos de desarrollo aislados que se crean en menos de 200 milisegundos, permitiendo a los desarrolladores y agentes de IA ejecutar código sin comprometer la seguridad de la infraestructura principal. La plataforma ofrece soporte para operaciones programáticas, incluyendo control de versiones, ejecución de comandos y gestión de archivos, y es compatible con múltiples lenguajes de programación y herramientas de desarrollo.",
+        "release_date": "2024",
+        "developer": "Daytona Platform Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "Ofrece créditos gratuitos para startups y programas de socios; detalles específicos no disponibles públicamente.",
+        "license": "Propietaria",
+        "security_privacy": "Proporciona entornos de ejecución completamente aislados para garantizar la seguridad de la infraestructura y la privacidad de los datos.",
+        "integration": "Compatible con sistemas de control de versiones como Git, servidores de lenguaje (LSP) y proporciona APIs para operaciones programáticas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.daytona.io/?utm_source=superhuman&utm_medium=referral&utm_campaign=meta-launches-all-in-one-ai-app"
+        },
+        {
+          "source_url": "https://dev.to/jaysaadana/building-ai-ready-development-environments-how-daytona-powers-code-agents-460g"
+        },
+        {
+          "source_url": "https://openhands.daytona.io/"
+        },
+        {
+          "source_url": "https://github.com/daytonaio/daytona"
+        }
+      ]
+    },
+    "910": {
+      "app": {
+        "id": "910",
+        "name": "CSSPicker",
+        "url": "https://www.csspicker.dev/",
+        "short_description": "Convierte cualquier diseño de interfaz de usuario existente en código con IA.",
+        "category": "Codificación",
+        "main_functionality": "Extracción y conversión de código HTML y CSS desde sitios web existentes, con opciones para transformar el código a diferentes frameworks y mejorar su mantenibilidad utilizando IA.",
+        "tags": "#DesarrolloWeb #IA #ExtensiónDeNavegador #React #TailwindCSS",
+        "logo_filename": "id_910_csspickerai",
+        "what_is": "CSSPicker es una herramienta que permite a desarrolladores y diseñadores web copiar y adaptar estilos de sitios existentes, optimizando el proceso de desarrollo frontend mediante inteligencia artificial.",
+        "purpose": "Sirve para agilizar la creación de interfaces web al permitir la reutilización de estilos existentes, facilitando su adaptación a diferentes frameworks y mejorando la eficiencia en el desarrollo.",
+        "use_cases": "Desarrolladores que desean replicar estilos de sitios existentes en sus proyectos.\n\nDiseñadores que buscan inspiración y desean adaptar elementos visuales de otras páginas.\n\nEquipos que necesitan convertir rápidamente diseños en código funcional.",
+        "main_advantages": "Ahorro de tiempo en la codificación de estilos desde cero.\n\nFacilidad para adaptar estilos a diferentes frameworks.\n\nMejora en la mantenibilidad y legibilidad del código generado.",
+        "long_description": "CSSPicker es una extensión de navegador que permite a los usuarios copiar estilos CSS y HTML de cualquier sitio web con un solo clic. La herramienta facilita la conversión de estos estilos a frameworks populares como React y Tailwind, y ofrece funcionalidades adicionales como la generación de código a partir de imágenes o descripciones en lenguaje natural. Con el apoyo de inteligencia artificial, CSSPicker optimiza el código generado para mejorar su legibilidad y mantenibilidad, siendo una solución eficiente para desarrolladores y diseñadores que buscan agilizar el proceso de creación de interfaces web.",
+        "release_date": "No disponible",
+        "developer": "Christianhappygo",
+        "main_model": "No disponible",
+        "pricing_plans": "Versión gratuita con funcionalidades básicas.\n\nPlanes de pago con características avanzadas; detalles específicos disponibles en el sitio oficial.",
+        "license": "Propietaria",
+        "security_privacy": "El desarrollador ha declarado que no se recopilan ni utilizan datos de los usuarios.",
+        "integration": "Soporte para frameworks como React y Tailwind CSS.\n\nConversión de HTML a JSX."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.csspicker.dev/?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-s-stunning-reversal"
+        },
+        {
+          "source_url": "https://csspicker.en.softonic.com/"
+        },
+        {
+          "source_url": "https://chromewebstore.google.com/detail/csspicker-copy-css-from-w/laooinkgdapbcbjchpmihliljfnakkdh?hl=en"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/css-picker/?ref=embed"
+        },
+        {
+          "source_url": "https://devhunt.org/tool/csspicker"
+        }
+      ]
+    },
+    "945": {
+      "app": {
+        "id": "945",
+        "name": "DeckSpeed",
+        "url": "https://www.deckspeed.com/en",
+        "short_description": "Crea diapositivas profesionales y personalizadas basadas en tus conversaciones, sin plantillas.",
+        "category": "Generación de diseño",
+        "main_functionality": "Generación de presentaciones mediante interacción conversacional, con ajustes en tiempo real y visualizaciones de datos automáticas.",
+        "tags": "#IAenProductividad #GeneraciónDePresentaciones #VisualizaciónDeDatos #InterfazConversacional",
+        "logo_filename": "id_945_deckspeed",
+        "what_is": "DeckSpeed es una plataforma de inteligencia artificial que transforma la manera de crear presentaciones, permitiendo a los usuarios generar diapositivas profesionales a través de conversaciones naturales, sin depender de plantillas estándar.",
+        "purpose": "Facilita la creación de presentaciones personalizadas para diversos fines, como reuniones de negocios, clases educativas o propuestas de marketing, optimizando el tiempo y mejorando la calidad visual y estructural de las diapositivas.",
+        "use_cases": "Elaboración de presentaciones corporativas para reuniones o conferencias.\n\nCreación de material educativo para clases o seminarios.\n\nDiseño de propuestas de marketing o ventas para clientes.",
+        "main_advantages": "Ahorro significativo de tiempo en la creación de presentaciones.\n\nPersonalización completa sin restricciones de plantillas.\n\nCapacidad de realizar ajustes en tiempo real según el feedback del usuario.",
+        "long_description": "DeckSpeed es una innovadora herramienta de inteligencia artificial que revoluciona la creación de presentaciones al permitir a los usuarios generar diapositivas profesionales mediante conversaciones naturales. Al eliminar la dependencia de plantillas predefinidas, ofrece una experiencia personalizada donde cada presentación se adapta a las necesidades específicas del usuario. La plataforma permite describir el tipo de presentación requerida, revisar un borrador generado por la IA y proporcionar retroalimentación para ajustes inmediatos. Entre sus características destacadas se incluyen la generación de modelos 3D, visualizaciones de datos instantáneas y gráficos profesionales con un solo clic.",
+        "release_date": "2025",
+        "developer": "CoreSpeed Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "No disponible",
+        "license": "Propietaria",
+        "security_privacy": "No disponible",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.deckspeed.com/en?utm_source=superhuman&utm_medium=referral&utm_campaign=ai-reads-health-clues-in-your-face"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/deckspeed"
+        },
+        {
+          "source_url": "https://www.saasworthy.com/product/deckspeed"
+        },
+        {
+          "source_url": "https://www.producthunt.com/posts/deckspeed"
+        }
+      ]
+    },
+    "973": {
+      "app": {
+        "id": "973",
+        "name": "Cutout",
+        "url": "https://www.cutout.pro/es",
+        "short_description": "Edita fotos y genera contenido de alta calidad con la plataforma de diseño visual de IA.",
+        "category": "Edición de imágenes",
+        "main_functionality": "Automatización de tareas de edición visual mediante inteligencia artificial, incluyendo eliminación de fondos, mejora de calidad, restauración de fotos antiguas y generación de arte digital.",
+        "tags": "#EdiciónVisual #IA #EliminaciónDeFondo #MejoraDeImágenes #GeneraciónDeContenido #RestauraciónDeFotos",
+        "logo_filename": "id_973_cutoutpro",
+        "what_is": "Cutout.pro es una plataforma basada en inteligencia artificial que proporciona herramientas automatizadas para la edición de imágenes y videos, facilitando tareas como la eliminación de fondos, mejora de calidad y creación de contenido visual.",
+        "purpose": "Sirve para simplificar y agilizar procesos de edición visual, permitiendo a usuarios sin experiencia técnica obtener resultados profesionales en la edición de fotos y videos.",
+        "use_cases": "Creación de imágenes de productos para comercio electrónico.\n\nRestauración de fotografías familiares antiguas.\n\nGeneración de contenido visual para redes sociales y marketing.\n\nProducción de fotos de pasaporte y documentos oficiales.",
+        "main_advantages": "Interfaz intuitiva y fácil de usar.\n\nAmplia gama de herramientas automatizadas basadas en IA.\n\nProcesamiento rápido y eficiente de imágenes y videos.\n\nOpciones de integración mediante API para desarrolladores.",
+        "long_description": "Cutout.pro es una plataforma de edición visual impulsada por inteligencia artificial que ofrece una variedad de herramientas para la edición automatizada de imágenes y videos. Sus funcionalidades incluyen eliminación de fondos, mejora de calidad, restauración de fotos antiguas, generación de arte digital, creación de fotos de pasaporte y más. La plataforma está diseñada para ser accesible tanto para usuarios individuales como para empresas, y ofrece opciones de integración mediante API para desarrolladores.",
+        "release_date": "2018",
+        "developer": "Cutout.pro",
+        "main_model": "No disponible",
+        "pricing_plans": "Gratis: 5 créditos gratuitos al registrarse.\n\nSuscripción mensual: Desde $5 por 40 créditos al mes.\n\nPago por uso: Desde $2.99 por 3 créditos.\n\nPlanes personalizados: Disponibles bajo consulta.",
+        "license": "Propietaria",
+        "security_privacy": "Cutout.pro implementa cifrado SSL/TLS para la transferencia de datos y elimina automáticamente las imágenes y videos subidos después del procesamiento. Sin embargo, en marzo de 2024, la plataforma sufrió una violación de datos que expuso información personal de aproximadamente 20 millones de usuarios.",
+        "integration": "Cutout.pro ofrece una API que permite a los desarrolladores integrar sus herramientas de edición visual en aplicaciones y flujos de trabajo existentes. "
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.cutout.pro/es?utm_source=superhuman&utm_medium=referral&utm_campaign=microsoft-s-new-agent-stack"
+        },
+        {
+          "source_url": "https://siteefy.com/ai-tools/cutout-pro/"
+        },
+        {
+          "source_url": "https://yeswelab.com/blogs/aplicaciones-de-la-inteligencia-artificial/cutout-pro-plataforma-diseno-visual-ia"
+        },
+        {
+          "source_url": "https://www.toolify.ai/ai-news/cutoutpro-the-ultimate-ai-photo-editing-platform-3326787"
+        },
+        {
+          "source_url": "https://www.saasworthy.com/product/cutout-pro/pricing"
+        },
+        {
+          "source_url": "https://www.eliteai.tools/comparison/cutoutpro/vs/pic-craft-ai"
+        }
+      ]
+    },
+    "1036": {
+      "app": {
+        "id": "1036",
+        "name": "D5 Render",
+        "url": "https://www.d5render.com/es",
+        "short_description": "Solución de visualización 3D en tiempo real con IA integrada, ideal para arquitectura, interiorismo y diseño paisajístico.",
+        "category": "Generación de diseño",
+        "main_functionality": "Renderizado fotorrealista en tiempo real con trazado de rayos, biblioteca de activos, herramientas AI para materiales, atmósferas, paisajismo y post‑producción automática.",
+        "tags": "#RealTimeRendering #AI‑Rendering #Archviz #LandscapeDesign #InteriorVisualization #MaterialAI",
+        "logo_filename": "id_1036_d5render",
+        "what_is": "Software de renderizado en tiempo real que integra IA para optimizar materiales, atmósferas y paisajismo directamente desde modelos arquitectónicos.",
+        "purpose": "Para crear imágenes y animaciones fotorrealistas de proyectos arquitectónicos, interiores y exteriores de manera rápida, sin depender de renderizados externos costosos.",
+        "use_cases": "Presentaciones arquitectónicas y de diseño interior en tiempo real.\n\nIteraciones de diseño rápidas visualizadas directamente con clientes.\n\nVisualización de paisajismo con distribución automática de vegetación.",
+        "main_advantages": "Reducción de hasta el 50 % en los tiempos de entrega. \n\nAlta fidelidad visual comparable a motores más complejos pero más fácil de usar. \n\nHerramientas IA como SmartPlanting, AI Enhancer, Material Snap, Atmosphere Match integradas.",
+        "long_description": "D5 Render es un software de renderizado 3D en tiempo real que integra trazado de rayos y herramientas basadas en IA—como SmartPlanting, AI PBR Material Snap, AI Atmosphere Match y AI Enhancer—para acelerar y automatizar flujos de visualización arquitectónica. Su amplia biblioteca de activos, compatibilidad con herramientas como SketchUp, Revit, Rhino, Archicad, Blender o 3ds Max, y soporte para colaboración en tiempo real permiten crear renders y animaciones hiperrealistas sin depender de procesos externos. ",
+        "release_date": "2021",
+        "developer": "D5 Techs, Inc. (empresa responsable del software D5 Render).",
+        "main_model": "Utiliza trazado de rayos en tiempo real (path tracing acelerado por GPU) junto con módulos IA propietarios para generación de materiales, atmósferas, textura y paisajismo; no se especifican modelos concretos.",
+        "pricing_plans": "No disponible",
+        "license": "Propietaria.",
+        "security_privacy": "No disponible",
+        "integration": "Compatible mediante LiveSync con plataformas como SketchUp, Revit, Rhino, Archicad, Blender y 3ds Max. Exporta animaciones e imágenes directamente. Soporte multiusuario en esquema Teams y flujo colaborativo."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Mejoraron visualización hotelera y tiempos de entrega",
+          "description": "El estudio croata TISSA & Partners utilizó D5 Render para diseñar el proyecto “Beach Club” en Poreč. Gracias a las herramientas de renderizado en tiempo real, lograron visualizaciones internas de alta calidad en menor tiempo, aumentando la satisfacción del cliente y reduciendo los tiempos de producción.",
+          "url": "https://www.d5render.com/es/posts/case-study-tissa"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Entregaron cinco proyectos en solo dos semanas",
+          "description": "El estudio DSN Intervention, con sede en Yakarta, aceleró significativamente sus tiempos de entrega en el proyecto Congo Bar utilizando D5 Render. Lograron completar la primera iteración en solo 1.5 semanas y finalizar cinco proyectos en apenas dos semanas, mejorando la aprobación del cliente.",
+          "url": "https://www.d5render.com/es/posts/dsn-intervention-case-study"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Productividad aumentó un 500 % con colaboración en equipo",
+          "description": "Kimmel Design Studio implementó D5 Render en su flujo de trabajo logrando un aumento de productividad del 500 %. La capacidad de manejar escenas grandes y colaborar en tiempo real facilitó la aprobación de proyectos por parte de los clientes.",
+          "url": "https://www.d5render.com/es/posts/kimmel-studio-case-study"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.d5render.com/es?utm_campaign=googlebrandsearchAMXd5render&utm_source=google&utm_medium=cpc&gad_source=1&gad_campaignid=22472646711&gclid=Cj0KCQjwnJfEBhCzARIsAIMtfKLAdUp-eeEKYFDrOYD-Oxit9aoCBcBCKRsN3O7xcab7A0fg52eBcFgaAqWoEALw_wcB"
+        },
+        {
+          "source_url": "https://www.reddit.com/r/archviz/comments/1fywuta/d5_render_2hr_exercise_thoughts/"
+        }
+      ]
+    },
+    "1145": {
+      "app": {
+        "id": "1145",
+        "name": "Dabe",
+        "url": "https://dabe.io/",
+        "short_description": "Crea agentes de IA para cualquier tarea en 1 minuto con IA.",
+        "category": "Automatización",
+        "main_functionality": "Permite generar flujos de trabajo automatizados mediante IA, usando solo texto en lenguaje natural, integrándose con numerosas apps sin requerir código.",
+        "tags": "#NoCode #AIAgents #Automatización #AgentesDeIA #FlujosIA #Workflow",
+        "logo_filename": "id_1145_dabeai",
+        "what_is": "Plataforma de automatización sin código basada en IA, que permite crear agentes digitales capaces de ejecutar tareas repetitivas en línea con instrucciones en lenguaje natural.",
+        "purpose": "Para que equipos ocupados o propietarios de negocios configuren automatizaciones desde cero, sin programación, conectando con múltiples herramientas (Gmail, Slack, Notion, CRM, etc.) y gestionando procesos operativos de forma autónoma.",
+        "use_cases": "Gestión de CRM (automatizar registros de nuevos leads)\n\nPublicación de contenido\n\nAtención al cliente (clasificar consultas, asignar tickets)\n\nPreparación de reuniones\n\nProcesamiento de pagos, actualización de inventarios, etc.",
+        "main_advantages": "Creación rápida de agentes mediante lenguaje natural\n\nConexiones con más de 250–350 aplicaciones populares\n\nOperación autónoma 24/7\n\nUsuarios ilimitados en todos los planes\n\nReejecución automática de tareas si fallan, manteniendo al usuario informado",
+        "long_description": "Dabe es una avanzada plataforma de automatización IA sin código que permite crear \"agentes inteligentes\" describiendo tareas en lenguaje natural. Estos agentes se integran con más de 250–350 apps, ejecutan flujos multitarea de forma independiente, gestionan errores y operan las 24 horas, sin intervención técnica.",
+        "release_date": "2025",
+        "developer": "La entidad responsable es Dabe AI. Co-fundador identificado: Arlan Lim (ubicado en San Francisco).",
+        "main_model": "No disponible",
+        "pricing_plans": "Starter – $15–18/mes: ~2,000 créditos, usuarios ilimitados, librería de plantillas. \n\nGrowth – $39–99/mes: ~10,000 créditos, usuarios ilimitados, librería de plantillas. \n\nEnterprise – Precio personalizado: 100,000+ créditos, usuarios ilimitados.",
+        "license": "Modelo propietario y por suscripción (SaaS).",
+        "security_privacy": "Dabe solo accede a los datos que el usuario explícitamente permite, no almacena datos privados y utiliza medidas estándar de privacidad.",
+        "integration": "Compatible con más de 250–350 apps, incluidas Gmail, Slack, Notion, CRM, herramientas de gestión de tareas, etc."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://dabe.io/"
+        },
+        {
+          "source_url": "https://chatgate.ai/post/dabe/"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/dabe-agents"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/dabe-agents"
+        },
+        {
+          "source_url": "https://www.saasworthy.com/product/dabe-io/pricing"
+        }
+      ]
+    },
+    "1201": {
+      "app": {
+        "id": "1201",
+        "name": "Datastripes",
+        "url": "https://datastripes.com/",
+        "short_description": "Herramienta de IA para crear, personalizar y compartir perfiles profesionales dinámicos a partir de datos verificados, organizada para maximizar impacto en presentaciones laborales y networking.",
+        "category": "Productividad",
+        "main_functionality": "Generación automática de perfiles profesionales con IA, integrando datos verificados, diseño personalizado y herramientas para compartir y presentar tu experiencia.",
+        "tags": "#Productividad #PerfilProfesional #Automatización #IA #CurrículumInteligente #Networking",
+        "logo_filename": "id_1201_datastripes",
+        "what_is": "Datastripes es una plataforma que utiliza inteligencia artificial para construir perfiles profesionales visuales, estructurados y ricos en información verificable, enfocados en mejorar cómo las personas presentan su experiencia y trayectoria profesional.",
+        "purpose": "Está diseñada para ayudar a usuarios (especialmente profesionales del conocimiento y del sector tecnológico) a crear una presentación más potente y clara de su experiencia laboral, utilizando IA para estructurar, optimizar y compartir su perfil como alternativa a un CV tradicional.",
+        "use_cases": "Crear un perfil profesional dinámico con diseño visual atractivo.\n\nCompartir tu experiencia profesional mediante un enlace en vez de enviar un PDF.\n\nMostrar habilidades, trayectoria, publicaciones o portafolio en una sola vista clara.\n\nPreparar una “carta de presentación digital” de alto impacto para entrevistas o eventos de networking.",
+        "main_advantages": "Mejora la forma en que presentas tu historia profesional.\nAlternativa moderna y visual al CV tradicional.\nPermite control total sobre los datos que compartes.\n Personalización y diseño pensados para destacar ante reclutadores o socios.",
+        "long_description": "Datastripes transforma la manera en que los profesionales presentan su experiencia utilizando inteligencia artificial para crear perfiles personales visuales, interactivos y personalizados. En lugar de enviar un currículum tradicional, los usuarios generan un perfil online que combina diseño atractivo, narrativa profesional clara y secciones que destacan habilidades, trayectoria, logros e incluso publicaciones. Permite mantener los datos actualizados y compartirlos fácilmente mediante un enlace, con foco en control, personalización y presentación visual.",
+        "release_date": "No disponible",
+        "developer": "Datastripes Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "No disponible",
+        "license": "Propietario",
+        "security_privacy": "No disponible",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://datastripes.com/"
+        }
+      ]
+    },
+    "1234": {
+      "app": {
+        "id": "1234",
+        "name": "Crevid",
+        "url": "https://crevid.ai/",
+        "short_description": "Genera vídeos e imágenes a partir de texto o imágenes con IA.",
+        "category": "Generación de video",
+        "main_functionality": "Generación automatizada de videos e imágenes utilizando modelos de IA como Veo, Sora, Runway, Midjourney, entre otros. Ofrece una interfaz unificada para crear contenido visual sin necesidad de conocimientos técnicos.",
+        "tags": "#GeneraciónDeVideo #GeneraciónDeImágenes #TextToVideo #TextToImage #MultimodalAI #IAVisual",
+        "logo_filename": "id_1234_crevid",
+        "what_is": "Crevid es una plataforma todo-en-uno basada en inteligencia artificial que permite generar videos e imágenes de alta calidad a partir de texto u otras entradas simples. Actúa como una interfaz centralizada que integra múltiples modelos de IA avanzados como Sora, Veo3, Runway, Midjourney y GPT-4o, permitiendo a los usuarios acceder a diversas tecnologías de generación visual desde un solo lugar.",
+        "purpose": "Su objetivo es facilitar la creación de contenido visual —video e imagen— de manera rápida, accesible y sin necesidad de experiencia en edición o animación. Es ideal tanto para creadores de contenido como para equipos de marketing, diseñadores, desarrolladores de productos, docentes o cualquier persona que requiera material gráfico o audiovisual para distintos fines.",
+        "use_cases": "Producción de videos publicitarios a partir de ideas o scripts escritos.\n\nGeneración de imágenes para redes sociales, presentaciones o campañas visuales.\n\nCreación de prototipos de contenido para marketing digital.\n\nVideos explicativos o educativos basados en texto.\n\nMaterial gráfico para startups, empresas creativas o freelancers que buscan reducir tiempos y costos.",
+        "main_advantages": "Compatible con múltiples modelos de IA líderes del mercado desde una misma interfaz.\n\nGeneración rápida de contenido visual en pocos pasos.\n\nPrecios accesibles por video generado, con niveles desde $0.86 USD.\n\nSoporte tanto para generación de imágenes como de video, facilitando flujos de trabajo creativos completos.\n\nInterfaz web intuitiva sin necesidad de descargas ni conocimientos técnicos.\n\nIdeal para uso individual o empresarial.\n\nOfrece previsualizaciones y ejemplos para inspirar a los usuarios.\n\nPermite personalización a través de prompts, modelos específicos y parámetros de estilo.",
+        "long_description": "Crevid es una herramienta todo-en-uno para la creación automatizada de videos e imágenes mediante inteligencia artificial. Funciona como un agregador inteligente que reúne múltiples modelos IA de última generación —incluyendo Sora, Veo3, Hailuo 02, Runway, Midjourney y GPT-4o— para ofrecer a los usuarios una plataforma versátil desde la que pueden generar contenido visual de manera sencilla. El sistema permite seleccionar entre distintos modelos para personalizar la creación de imágenes o vídeos según el estilo, detalle o velocidad deseada. El usuario simplemente ingresa un texto o prompt, elige el modelo a utilizar, y en pocos minutos obtiene una imagen o un video final, sin necesidad de conocimientos técnicos ni procesos complejos de edición. El sitio también informa sobre precios diferenciados por modelo, lo que permite optimizar los costos según necesidades específicas.",
+        "release_date": "2023",
+        "developer": "No disponible",
+        "main_model": "No utiliza un único modelo propio. Integra varios modelos externos de IA visual, incluyendo:\n\nSora 2, Veo3 / Veo3.1, Hailuo 02, Runway, Kling V2.1, Midjourney, y GPT-4o (como backend de texto/estructura)\n\nLa plataforma funciona como agregador de modelos multimodales",
+        "pricing_plans": "Modelo de pago por uso: el usuario paga por cada video o imagen generada\n\nPrecios por video:\n\nVeo3 desde $0.86 USD\n\nVeo3.1 desde $1.03 USD\n\nNo se especifica un plan gratuito o de suscripción mensual",
+        "license": "Propietaria.",
+        "security_privacy": "Se recopila información del usuario como dirección IP, tipo de dispositivo, sistema operativo y datos de navegación\n\nLas imágenes generadas pueden almacenarse temporalmente\n\nUso de cookies para análisis y experiencia del usuario\n\nNo se indica explícitamente cómo se gestionan los prompts de entrada o propiedad intelectual de las imágenes generadas\n\nNo se comparte información personal con terceros sin consentimiento explícito\n\nNo queda claro si el contenido generado puede ser reutilizado para entrenamiento de modelos",
+        "integration": "No se ofrecen integraciones directas con plataformas externas como editores, redes sociales o herramientas empresariales\n\nFunciona como un sistema autónomo desde navegador web\n\nLas imágenes y videos generados pueden descargarse localmente para ser usados en otras plataformas manualmente"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://crevid.ai/"
+        },
+        {
+          "source_url": "https://crevid.ai/price"
+        },
+        {
+          "source_url": "https://crevid.ai/privacy-policy"
+        },
+        {
+          "source_url": "https://crevid.ai/blog"
+        }
+      ]
+    },
+    "1273": {
+      "app": {
+        "id": "1273",
+        "name": "Decopy",
+        "url": "https://decopy.ai/es/ai-humanizer/",
+        "short_description": "Plataforma con herramientas de texto con IA para reescribir y “humanizar” contenido, además de utilidades como detector de IA, resúmenes y otras herramientas orientadas a escritura y productividad.",
+        "category": "Redacción",
+        "main_functionality": "Humanización y reescritura de texto generado por IA para que suene más natural, junto con herramientas complementarias como detector de IA y generadores/ayudantes de texto.",
+        "tags": "#Redacción #HumanizadorDeTexto #DetectorDeIA #Parafraseo #Productividad #GeneraciónDeTexto",
+        "logo_filename": "id_1273_decopy",
+        "what_is": "Decopy es una plataforma web que ofrece herramientas basadas en IA para trabajar con texto, destacando un humanizador de IA (convertidor de “texto IA a humano”) y otras utilidades disponibles desde su apartado de herramientas.",
+        "purpose": "Sirve para reescribir/humanizar contenido y ajustar su estilo para que se perciba más natural; además, incluye herramientas adicionales relacionadas con análisis y producción de texto (por ejemplo, detector de IA y funciones tipo resumen, según el menú visible).",
+        "use_cases": "Reescritura de textos generados por IA para hacerlos más naturales.\n\nAjuste de tono/longitud/propósito del texto (opciones visibles en la interfaz del humanizador).\n\nValidación o revisión rápida con herramientas complementarias (p. ej., detector de IA, resúmenes), según el conjunto disponible en “Tools”.",
+        "main_advantages": "Enfoque directo en humanización de texto con controles de salida (p. ej., longitud/tono/propósito).\n\nPlataforma tipo “suite” con varias herramientas relacionadas con texto en un mismo sitio.\n\nAcceso mediante interfaz web (flujo simple: pegar contenido y procesar).",
+        "long_description": "Decopy ofrece un conjunto de herramientas enfocadas en el trabajo con texto mediante IA, con énfasis en un Humanizador IA que reescribe contenido para que se perciba más natural. La interfaz del humanizador muestra controles para configurar la salida (por ejemplo, longitud, tono y propósito), y el sitio incluye un menú de herramientas relacionadas (como detector de IA y funciones de resumen, según lo visible). También cuenta con una sección de precios y un blog informativo.",
+        "release_date": "2024",
+        "developer": "Decopy AI.",
+        "main_model": "No disponible",
+        "pricing_plans": "Gratis — $0/mes\n\n50 cuotas/mes\n30 créditos premium/mes\nFunciones básicas limitadas + algunas pruebas de funciones premium\n\nLite — $6.99/mes\n\n800 cuotas/mes\n800 créditos premium/mes (tasa: $0.0087/crédito)\nMás funciones básicas, más acceso a funciones premium\nCompra de créditos premium (no expiran)\n\nBásico — $14.99/mes\n\n3000 cuotas/mes\n2000 créditos premium/mes (tasa: $0.0075/crédito)\nMás funciones básicas, más acceso a funciones premium\nCompra de créditos premium (no expiran)\n\nPremium — $29.99/mes\n\nUso mensual ilimitado\n5000 créditos premium/mes (tasa: $0.006/crédito)\nFunciones básicas ilimitadas + más acceso a funciones premium\nCompra de créditos premium (no expiran)\nAlmacenamiento ilimitado (próximamente)",
+        "license": "No disponible",
+        "security_privacy": "El sitio recopila información personal cuando el usuario la proporciona (por ejemplo, al registrarse o contactar soporte) y también datos técnicos como logs, cookies/local storage; usa estos datos para operar y mejorar el servicio, analizar el uso, comunicarse (incluido marketing), y prevenir fraude. Indica que puede compartir datos en escenarios como transferencias comerciales (p. ej., fusión/venta) y que, si se usa inicio de sesión social, puede recibir información de perfil del proveedor. Señala medidas de seguridad razonables (sin garantizar seguridad total), una retención generalmente limitada (no más de 3 meses tras cerrar la cuenta, salvo obligación legal), y reconoce derechos de privacidad bajo GDPR y CCPA, además de que no recopila intencionalmente datos de menores de 18 y ofrece contacto en support@decopy.ai\n para solicitudes de acceso/actualización/eliminación.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://decopy.ai/es/ai-humanizer/"
+        },
+        {
+          "source_url": "https://decopy.ai/tools/"
+        },
+        {
+          "source_url": "https://decopy.ai/es/pricing/"
+        },
+        {
+          "source_url": "https://decopy.ai/es/blog/"
+        },
+        {
+          "source_url": "https://decopy.ai/privacy-policy/"
+        }
+      ]
+    },
+    "1324": {
+      "app": {
+        "id": "1324",
+        "name": "DAIVIO",
+        "url": "https://app.daivio.com/",
+        "short_description": "Transforma conjuntos de datos complejos en conocimientos accionables con una plataforma de análisis impulsada por IA.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Subida y perfilado de datasets; visualizaciones automáticas; chat/consultas en lenguaje natural para análisis y transformaciones; generación de visualizaciones y resúmenes; capacidad de construir modelos y predicciones (según la descripción del producto).",
+        "tags": "#InteligenciaDeNegocios #AnalíticaDeDatos #VisualizaciónDeDatos #Automatización #NoCode #Chat #MachineLearning",
+        "logo_filename": "id_1324_daivio",
+        "what_is": "Un servicio en la nube (“SaaS”) de análisis de datos y asistencia con IA que permite cargar datasets y obtener análisis, visualizaciones y resúmenes, así como realizar preguntas sobre los datos usando lenguaje natural.",
+        "purpose": "Para transformar datos “en bruto” en información accionable con exploración, limpieza/transformación (según el sitio principal), visualización y consultas conversacionales, reduciendo el tiempo para obtener conclusiones.",
+        "use_cases": "Exploración inicial de datasets (perfilado/insights) tras carga de archivos.\n\nCreación rápida de visualizaciones y tableros/insights para negocio.\n\nPreguntas y análisis ad-hoc en lenguaje natural (chat con datos).\n\nExportación de resultados (datos limpios/visualizaciones/análisis) a formatos comunes (CSV/Excel/JSON).",
+        "main_advantages": "Interfaz de análisis asistido por IA (preguntas en lenguaje natural) para acelerar análisis y reportes.\n\nVisualizaciones automáticas y recomendaciones de limpieza/calidad (en el sitio principal).\n\nEntorno con trazabilidad/historial de acciones y enfoque en reproducibilidad (sitio principal).\n\nExportación de resultados a varios formatos.",
+        "long_description": "Plataforma de analítica con IA que permite cargar datasets (p. ej., CSV/Excel), obtener perfilado y visualizaciones automáticas, y ejecutar análisis/transformaciones mediante interacción en lenguaje natural (“Ask AI / chat”). También contempla capacidades de modelado/predicción (según la app) y exportación de resultados en formatos como CSV/Excel/JSON.",
+        "release_date": "No disponible",
+        "developer": "DAIVIO Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "En el sitio principal se describe un esquema “pay-as-you-go” para “Pro” de $0.01/minuto, sin cuotas de suscripción, y también se menciona que existe plan gratuito (“Free forever plan available”).\n\nLímites de carga según soporte: gratis hasta 10MB, planes de pago hasta 100MB (según centro de soporte).",
+        "license": "Propietaria.",
+        "security_privacy": "Política indica que el servicio está hosteado en Microsoft Azure.\n\nMedidas declaradas: cifrado en tránsito y en reposo, controles de acceso basados en roles, monitoreo/logging y políticas de mínimo privilegio.\n\nPropiedad/retención: el cliente mantiene propiedad; borrado al terminar cuenta o por solicitud verificada, sujeto a retención legal.\n\nDeclara no usar datos del cliente para publicidad.\n\nDPA: DAIVIO como “Processor” y cliente como “Controller”; subprocesador de infraestructura/hosting: Microsoft Azure.",
+        "integration": "Exportación de resultados en CSV/Excel/JSON (según soporte).\n\nRoadmap/“coming soon”: integraciones con AWS y Snowflake (importación) y Power BI (sitio principal)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://app.daivio.com/"
+        },
+        {
+          "source_url": "https://app.daivio.com/privacy"
+        },
+        {
+          "source_url": "https://app.daivio.com/terms"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/compare/Daivio-vs-Plexe-AI/"
+        }
+      ]
+    },
+    "1326": {
+      "app": {
+        "id": "1326",
+        "name": "Deckary",
+        "url": "https://deckary.com/",
+        "short_description": "Crea diapositivas de consultoría en segundos con IA.",
+        "category": "Generación de diseño",
+        "main_functionality": "Generación de diapositivas en PowerPoint con IA (estructura, visuales y texto), con soporte para adjuntar datos (CSV/PDF/pegado), investigación web con citas, gráficos “consulting-grade” vinculados a Excel, librería de iconos y herramientas de productividad (atajos).",
+        "tags": "#GeneraciónDeDiseño #Productividad #Automatización #Presentaciones #PowerPoint #GeneraciónDeTexto #VisualizaciónDeDatos #Iconos",
+        "logo_filename": "id_1326_deckary",
+        "what_is": "Un complemento (“add-in”) para PowerPoint orientado a crear presentaciones de nivel consultoría sin salir de PowerPoint, combinando generación asistida por IA, gráficos avanzados, iconografía y atajos de formato.",
+        "purpose": "Para construir diapositivas más rápido (incluyendo estructura de contenido y visuales), generar/editar gráficos profesionales vinculados a Excel y estandarizar el formato con herramientas y atajos dentro del flujo habitual de PowerPoint.",
+        "use_cases": "Generar una diapositiva a partir de una descripción del problema y datos adjuntos (CSV/PDF/pegado) y obtener una propuesta ya formateada.\n\nCrear gráficos de consultoría (p. ej., waterfall, mekko, gantt/timelines) y vincularlos a Excel para actualizaciones automáticas.\n\nInsertar iconos/flags rápidamente desde una librería integrada y recibir sugerencias automáticas.\n\nAplicar atajos para alinear, distribuir y estandarizar formato con rapidez.",
+        "main_advantages": "Flujo “PowerPoint-native”: evita exportar a otras plataformas y mantiene control total de edición en PPT.\n\nAdjunta datos de varias formas (CSV/PDF/pegado) y permite investigación web con citas (según la descripción del AI Slide Builder).\n\nToolkit unificado (IA + gráficos + iconos + atajos) para velocidad y consistencia visual.",
+        "long_description": "Add-in para PowerPoint que integra un “AI Slide Builder” para generar diapositivas a partir de una descripción, con soporte para adjuntar datos (CSV/PDF/pegado) e investigación web con citas. Incluye gráficos avanzados (waterfall, mekko, gantt/timelines, etc.) con posibilidad de vinculación a Excel para actualización automática, además de librería de iconos/flags e indicadores visuales, y atajos para tareas comunes de formato (alineación, distribución, selección, etc.).",
+        "release_date": "No disponible",
+        "developer": "Orven Labs (Deckary se presenta como “an Orven Labs company”; registro KVK: 98850083).",
+        "main_model": "No disponible como modelo propio. La política de privacidad indica que para el procesamiento de funciones de IA utiliza OpenAI como proveedor de procesamiento de IA; y el sitio menciona generación de imágenes “powered by Nano Banana” (sin detallar arquitectura).",
+        "pricing_plans": "Starter: USD $4/mes (o $49/año).\n\nPremium: USD $10/mes (o $119/año).\n\nEnterprise: precio “Custom” para equipos de 5+ usuarios.\n\nSe menciona free trial de 14 días.",
+        "license": "Propietario / SaaS",
+        "security_privacy": "Basada en Países Bajos y declara cumplimiento con GDPR.\n\nIndica que no usa datos personales para publicidad ni los vende.\n\nDatos compartidos con procesadores: Stripe (pagos) y OpenAI (procesamiento de IA); además de hosting/infraestructura (CDN/email, sin detallar nombres).\n\nRetención: conserva datos solo el tiempo necesario; aplica límites a logs/diagnósticos y elimina o anonimiza cuando ya no es necesario.",
+        "integration": "Integración principal: PowerPoint como add-in (trabajo dentro de PPT).\n\nVinculación con Excel para actualización automática de gráficos.\n\nProcesamiento de IA vía proveedor externo (OpenAI) para las funciones de IA."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://deckary.com/"
+        },
+        {
+          "source_url": "https://deckary.com/features"
+        },
+        {
+          "source_url": "https://deckary.com/blog"
+        },
+        {
+          "source_url": "https://deckary.com/privacy"
+        },
+        {
+          "source_url": "https://deckary.com/pricing"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/compare/AI-PowerPoint-Maker-vs-Deckary/"
+        },
+        {
+          "source_url": "https://somi.ai/products/deckary"
+        }
+      ]
+    },
+    "1345": {
+      "app": {
+        "id": "1345",
+        "name": "Cuto",
+        "url": "https://cuto.video/",
+        "short_description": "Crear y editar vídeos comerciales de alta calidad con IA.",
+        "category": "Edición de video",
+        "main_functionality": "Genera un “plan de edición” con IA a partir del objetivo del usuario, permite refinar en una línea de tiempo visual (o parámetros/JSON), añade subtítulos/resaltados/marca de agua y exporta con copy para múltiples plataformas.",
+        "tags": "#EdiciónDeVideo #Automatización #Subtítulos #Marketing #RedesSociales #VideoShorts #Watermark #AIEditing",
+        "logo_filename": "id_1345_cutoai",
+        "what_is": "Una plataforma de “smart editing workspace” orientada a edición de video asistida por IA: el usuario sube clips (y opcionalmente archivos de subtítulos) y describe el objetivo; el sistema propone una estructura editable (clips/transiciones/ritmo) y ofrece herramientas para mejoras visuales y exportación.",
+        "purpose": "Para acelerar la creación de videos “commercial-grade” (p. ej., contenido para Shorts/Reels/TikTok) sin empezar desde una línea de tiempo en blanco, estandarizando subtítulos, resaltados, branding y copy de publicación durante la exportación.",
+        "use_cases": "Crear un primer corte rápido a partir de varios clips subidos (hasta 12 por ejecución).\n\nGenerar un plan de edición con IA (clips, transiciones y ritmo) y luego ajustarlo manualmente.\n\nAñadir subtítulos (incluyendo importación .srt/.vtt), resaltados y marca de agua en un solo flujo.\n\nExportar el video y generar títulos/descripciones/hashtags listos para plataformas (Shorts/Reels/TikTok, etc.) con soporte bilingüe/multilenguaje.",
+        "main_advantages": "Ahorro de tiempo: la IA propone un plan editable para no iniciar desde cero.\n\nFlujo integrado: subtítulos + resaltados + watermark en un mismo panel.\n\nSalida para redes: genera copy (títulos/descripciones/hashtags) al exportar para múltiples plataformas.\n\nFlexibilidad de edición: línea de tiempo visual, parámetros o edición vía JSON.",
+        "long_description": "Cuto ofrece un flujo de 4 pasos: (1) subir hasta 12 clips y opcionalmente subtítulos .srt/.vtt; (2) describir el objetivo para que la IA genere un plan de edición (selección de clips/transiciones/ritmo); (3) refinar visualmente en una línea de tiempo y ajustar subtítulos, resaltados y watermark en tiempo real; (4) exportar y distribuir, incluyendo generación de títulos/descripciones/hashtags optimizados para plataformas (Shorts/Reels/TikTok, etc.) con soporte bilingüe/multilenguaje. Incluye “presets” de escenas (p. ej., talking head, unboxing, educación, live clips, etc.) y tres modos de edición (timeline, formularios de parámetros y JSON).",
+        "release_date": "Noviembre 2025",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "Lite (Light Creator): USD $19/mes, 380 créditos/mes.\n\nPro (Core Commercial): USD $39/mes, 780 créditos/mes (render “priority fast”).\n\nUltra (Team Scale): USD $79/mes, 1580 créditos/mes.\n\nConsumo de créditos: se cobran por tamaño del material al subir y un monto fijo al exportar; la planeación con IA y acciones de edición visual no añaden costo extra.",
+        "license": "Propietario / SaaS",
+        "security_privacy": "Indica recolección de datos de cuenta y uso; pagos procesados por PayPal (sin almacenar tarjetas); cifrado en transmisión y almacenamiento; opción de eliminar contenido; y retención (p. ej., datos eliminados “within 30 days”).\n\nNota: la página de Términos describe el servicio como “AI-powered image generation platform”, lo cual no coincide con la página principal (enfocada en edición de video). No se encontró una aclaración pública adicional.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://cuto.video/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/cuto"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/compare/AutoPod-vs-Cuto"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/cuto"
+        },
+        {
+          "source_url": "https://www.productcool.com/product/cuto"
+        }
+      ]
+    },
+    "1366": {
+      "app": {
+        "id": "1366",
+        "name": "Daily Stack",
+        "url": "https://dailystack.ai/",
+        "short_description": "Resume correos electrónicos, tareas y calendarios en una única sesión informativa diaria con IA.",
+        "category": "Productividad",
+        "main_functionality": "Generar un resumen diario accionable a partir de integraciones (email, calendario, gestión de tareas/proyectos), con entrega programada y opción de digest en audio.",
+        "tags": "#Productividad #AsistenteIA #ResumenAutomático #Email #Calendario #GestiónDeTareas #Integraciones #Audio",
+        "logo_filename": "id_1366_dailystack",
+        "what_is": "Una plataforma que se conecta a tus herramientas (p. ej., Gmail/Outlook, calendar, Linear, Todoist, Asana, Notion; también menciona Slack y Jira) y genera un “morning briefing” con IA para concentrar lo relevante del día en un solo resumen.",
+        "purpose": "Para empezar el día con una vista consolidada de pendientes, reuniones, decisiones y solicitudes importantes, reduciendo tiempo de revisión manual entre múltiples apps.",
+        "use_cases": "Resumen diario de tickets/pendientes (p. ej., Linear) y tareas asignadas recientemente.\n\nIdentificación de correos “decision-required” o que requieren respuesta.\n\nDetección de contexto faltante para reuniones (p. ej., “deck no compartido”).\n\nDigest en audio para consumir el resumen en movilidad (HD audio en Pro).",
+        "main_advantages": "Integraciones “one-click” y configuración rápida (“under 3 minutes”).\n\nFiltrado de notificaciones automatizadas para priorizar solicitudes, deadlines y decisiones (“signal over noise”).\n\nEntrega programada según horario preferido (zona horaria).\n\nEnfoque de acceso de lectura para fuentes conectadas (no enviar emails ni modificar eventos, según la política).",
+        "long_description": "Conecta herramientas de trabajo y realiza un “pull” programado una vez al día para generar un resumen con IA que prioriza señales (solicitudes directas, decisiones y fechas límite). Incluye integraciones rápidas, entrega programada y digest en audio (HD en Pro), además de analítica avanzada en planes superiores.",
+        "release_date": "2026",
+        "developer": "Dailystack",
+        "main_model": "No disponible",
+        "pricing_plans": "Trial: 7 días gratis, sin tarjeta.\n\nBasic: USD $6.58 por usuario/mes (facturado anual) = $79/año. Incluye integraciones, múltiples cuentas Google/Outlook, hasta 5 integraciones, 100 ítems por integración/día, scheduling por zona horaria, audio estándar y soporte por email.\n\nPro: USD $20.75 por usuario/mes (facturado anual) = $249/año. Incluye integraciones e ítems ilimitados, “priority AI assistance”, analítica avanzada y HD audio digest.\n\nEnterprise: Precio personalizado. Incluye dashboard de equipo/colaboración, SSO/SAML, security review y success manager dedicado.",
+        "license": "Propietario / SaaS",
+        "security_privacy": "Acceso read-only a fuentes conectadas (no puede enviar emails ni modificar calendarios).\n\nDeclara que no almacena datos crudos de las integraciones tras procesar; conserva los “Daily Briefings” generados, y el usuario puede eliminarlos.\n\nDeclara: no usa datos del usuario para entrenar modelos (propios o de terceros) y que proveedores de IA están contractualmente prohibidos de usar datos para training.\n\nMedidas declaradas: cifrado en tránsito (TLS/SSL) y en reposo (AES-256), controles de acceso, monitoreo y auditorías.\n\nProcesa pagos con Stripe (no almacena tarjetas completas).",
+        "integration": "Gmail, Outlook, Calendar, Todoist, Linear, Asana, Notion; además menciona Slack y Jira como integraciones."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://dailystack.ai/"
+        },
+        {
+          "source_url": "https://dailystack.ai/#features"
+        },
+        {
+          "source_url": "https://dailystack.ai/#pricing"
+        },
+        {
+          "source_url": "https://dailystack.ai/legal"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/dailystack"
+        }
+      ]
+    },
+    "1422": {
+      "app": {
+        "id": "1422",
+        "name": "Decksy",
+        "url": "https://decksy.com/",
+        "short_description": "Crea diapositivas profesionales y investigadas a partir de temas, texto o documentos subidos.",
+        "category": "Generación de diseño",
+        "main_functionality": "Creación automática de presentaciones y conversión de contenido (tema/texto/archivos) en diapositivas con diseño consistente, selección de estilo/tono y exportación a PowerPoint para edición posterior.",
+        "tags": "#Presentaciones #Productividad #GeneraciónDeDiseño #PPTX #Plantillas #DocumentToSlides #DeepResearch",
+        "logo_filename": "id_1422_deksyai",
+        "what_is": "Una herramienta web de generación de presentaciones asistida por IA que transforma un tema, texto o documentos (p. ej., PDF/Word) en un deck estructurado con diseño y plantillas, listo para descargarse en formato editable. También ofrece “Deep Research” para incorporar fuentes verificadas y citas.",
+        "purpose": "Para reducir el tiempo de creación y formateo de diapositivas, automatizando estructura, estilo visual y organización del contenido, y permitiendo descargar el resultado para presentarlo o ajustarlo en herramientas como PowerPoint o Google Slides.",
+        "use_cases": "Convertir un tema en una presentación completa (definiendo número de diapositivas y detalles).\nPasar texto (notas, outline, párrafos) a PPT con tono/estilo seleccionable.\nConvertir PDF a PPT (manteniendo jerarquía y permitiendo edición posterior).\nPreparar decks para contextos como negocios, marketing, ventas, educación, estudiantes y startups (según la segmentación del sitio).",
+        "main_advantages": "Flujo rápido de generación (de contenido a slides descargables en pocos pasos).\nEntrada flexible: tema, texto o múltiples formatos de archivo (en el sitio se mencionan formatos como Word, PDF, PowerPoint, Excel, TXT).\nPlantillas y estilos: biblioteca de plantillas y estilos (p. ej., Professional/Creative/Minimal/Corporate/Academic/Startup Pitch) y tonos (Formal/Casual/Persuasive/Educational).\nExportación editable: descarga en PPTX para editar en PowerPoint o abrir en Google Slides.\nDeep Research: motor que “gathers verified sources, adds citations, and cross-checks insights” usando modelos como ChatGPT, Gemini y DeepSeek (según el sitio).\nEnfoque de seguridad declarado: el sitio describe uso de cifrado para proteger contenido; ver detalles en Parte 5 (seguridad/privacidad).",
+        "long_description": "Plataforma web para generar presentaciones con IA a partir de un tema, texto o documentos. El flujo típico incluye: ingresar tema o subir archivo, elegir estilo/tono y número de diapositivas (se mencionan rangos como 5–25), seleccionar plantilla y descargar el PPTX final para presentarlo o editarlo en PowerPoint/Google Slides. Incluye una función de “Built-in Deep Research” que recopila fuentes verificadas, añade citas y contrasta información usando modelos como ChatGPT, Gemini y DeepSeek (según el sitio).",
+        "release_date": "Octubre 2025",
+        "developer": "Clarketic OÜ (Estonia).",
+        "main_model": "No disponible",
+        "pricing_plans": "Inicio gratuito: el sitio promociona generación “for FREE” y “No credit card required” (para comenzar).\nSuscripción/pagos: las políticas describen compras, trials, suscripciones y facturación, pero no se encontró en las URLs proporcionadas un listado completo de planes y precios.\nReferencia externa (no oficial): un sitio de comparación indica que el precio “starts at $6.99/month annually”, pero no es una fuente del propietario del producto.",
+        "license": "Propietario / SaaS",
+        "security_privacy": "Declara uso de cifrado (TLS en tránsito) y hosting en AWS como medidas de seguridad.\nLa política indica recolección de datos de cuenta, contenido del usuario (prompts/documentos) y datos de uso.\nIndica que el contenido del usuario puede transmitirse a proveedores terceros de IA (menciona OpenAI y Gemini como ejemplo).\nRetención: posibilidad de eliminar cuenta/prompts/presentaciones si la cuenta permanece inactiva 12 meses o expira la suscripción sin renovación.\nPagos: no almacenan tarjeta completa; se procesan con terceros (p. ej., Solidgate/PayPal) y reciben confirmaciones limitadas.",
+        "integration": "Exporta a PPTX y se menciona apertura/edición en Microsoft PowerPoint o Google Slides.\nSoporta carga de múltiples tipos de archivo para conversión a presentación (en páginas del producto se listan formatos como Word, PDF, PPT/PPTX, Excel, TXT)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://decksy.com/"
+        },
+        {
+          "source_url": "https://decksy.com/privacy-policy/"
+        },
+        {
+          "source_url": "https://www.trustpilot.com/review/decksy.com"
+        },
+        {
+          "source_url": "https://decksy.com/about/"
+        },
+        {
+          "source_url": "https://autogpt.net/ai-tool/decksy-ai"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/product/Decksy/"
+        }
+      ]
+    },
+    "1461": {
+      "app": {
+        "id": "1461",
+        "name": "Databox",
+        "url": "https://databox.com/?",
+        "short_description": "Convierte los datos de rendimiento empresarial en información clara.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Conectar múltiples fuentes de datos, definir métricas/KPIs y visualizarlos en dashboards/reportes automatizados; además, consultar métricas en lenguaje natural con Genie (AI Analyst) para explicar cambios y encontrar insights.",
+        "tags": "#InteligenciaDeNegocios #Analytics #Dashboards #KPIs #Reporting #AIAssistant #Genie",
+        "logo_filename": "id_1461_databoxai",
+        "what_is": "Es un software de inteligencia de negocios y analítica que centraliza datos de distintas herramientas (marketing, ventas, finanzas, etc.), permite construir métricas y dashboards, y agrega capacidades de IA (Genie) para preguntar y obtener respuestas sobre el rendimiento.",
+        "purpose": "Para monitorear desempeño en tiempo real, automatizar reportes, estandarizar KPIs y habilitar análisis rápido (incluido Q&A con IA) sin depender de flujos manuales o analistas para cada pregunta.",
+        "use_cases": "Consolidar métricas de marketing/ventas/finanzas en un panel único.\nAutomatizar reportes recurrentes (envío programado/links compartibles).\nSeguimiento de objetivos y desempeño por equipo/miembro.\nPreguntar a Genie “qué cambió y por qué” en métricas clave (análisis en lenguaje natural).",
+        "main_advantages": "Reduce tiempo de reporting manual (casos documentan reducciones de tiempo).\nMejora visibilidad y alineación con KPIs/objetivos (seguimiento de Goals).\nPermite “self-serve analytics” y respuestas rápidas con IA (Genie).\nOfrece plan gratuito y escalamiento por planes/recursos.",
+        "long_description": "Databox centraliza datos de múltiples herramientas para crear métricas/KPIs, dashboards y reportes automatizados (compartibles por link, programados, etc.). Integra una capa de IA (Genie – AI Analyst) para hacer preguntas en lenguaje natural, obtener respuestas contextuales, analizar tendencias y explicar variaciones. Está orientado a equipos que requieren visibilidad rápida y “self-serve” sin fricción.",
+        "release_date": "No disponible",
+        "developer": "Databox Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "Free: $0/mes; incluye 3 data sources, 1 dashboard, 3 usuarios, hasta 10 métricas personalizadas (según página de pricing).\nPro: $159/mes (facturado anual), 3 data sources incluidos; incluye AI Analyst y sync horario (según plan).\nGrowth: $399/mes (facturado anual).\nPremium: $799/mes (facturado anual), 50 data sources incluidos (según plan).",
+        "license": "Propietaria (SaaS).",
+        "security_privacy": "La Privacy Policy describe prácticas de seguridad “comercialmente razonables” (menciona cifrado, firewalls y SSL 256-bit) y retención; también incluye apartados de derechos de privacidad (p. ej., CCPA/EEA/UK) y transferencia internacional de datos (procesamiento en EE. UU.).",
+        "integration": "Soporta integraciones con múltiples fuentes (la página de pricing menciona 130+ cloud services y conectores como hojas de cálculo, API, Zapier/Make; además existe documentación de API)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://databox.com/?"
+        },
+        {
+          "source_url": "https://databox.com/pricing"
+        },
+        {
+          "source_url": "https://databox.com/privacy-policy"
+        },
+        {
+          "source_url": "https://databox.com/ai-analyst"
+        },
+        {
+          "source_url": "https://databox.com/terms-of-service"
+        }
+      ]
+    },
+    "1507": {
+      "app": {
+        "id": "1507",
+        "name": "CSM",
+        "url": "https://csm.ai",
+        "short_description": "Genera modelos y activos 3D mediante inteligencia artificial para flujos de trabajo creativos.",
+        "category": "Generación de diseño",
+        "main_functionality": "Generación de activos 3D mediante inteligencia artificial.",
+        "tags": "#IA #Diseño #Generación3D #Creatividad",
+        "logo_filename": "id_1507_csm",
+        "what_is": "CSM es una herramienta enfocada en generar modelos y contenido 3D a partir de imágenes, texto o bocetos, apoyando procesos creativos digitales.",
+        "purpose": "Apoyar la generación de contenido 3D a partir de imágenes, texto o bocetos.",
+        "use_cases": "Creación de modelos 3D, recursos para entornos digitales, diseño visual, producción de activos creativos y experimentación con contenido tridimensional.",
+        "main_advantages": "Acelera la creación de activos 3D; permite experimentar con distintas referencias; puede integrarse en flujos creativos digitales.",
+        "long_description": "CSM es una herramienta enfocada en generar contenido 3D mediante inteligencia artificial. Puede ser útil para transformar ideas, imágenes o instrucciones en recursos tridimensionales aplicables a diseño, producción visual y proyectos digitales.",
+        "release_date": "No especificada",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Freemium",
+        "license": "No especificada",
+        "security_privacy": "Consultar la política de privacidad del proveedor.",
+        "integration": "Disponible mediante plataforma web del proveedor."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://csm.ai"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/csm"
+        }
+      ]
+    },
+    "1715": {
+      "app": {
+        "id": "1715",
+        "name": "DataGrout",
+        "url": "https://datagrout.ai/",
+        "short_description": "DataGrout permite orquestar agentes de IA y automatizar flujos de trabajo, conectando tareas, datos y procesos operativos.",
+        "category": "Automatización",
+        "main_functionality": "Orquestación de agentes de IA y automatización de flujos de trabajo",
+        "tags": "#Automatización #AgentesIA #Datos",
+        "logo_filename": "id_1715_datagrout",
+        "what_is": "DataGrout es una herramienta para orquestar agentes de IA y automatizar flujos de trabajo. Permite conectar tareas, procesos y datos para crear operaciones más eficientes.",
+        "purpose": "Orquestar agentes de IA y flujos automatizados para conectar tareas, datos y procesos.",
+        "use_cases": "Orquestación de agentes; automatización de workflows; conexión de datos y tareas; procesos operativos inteligentes.",
+        "main_advantages": "Coordina agentes y tareas; conecta procesos; reduce trabajo manual; permite construir flujos automatizados más complejos.",
+        "long_description": "DataGrout es una herramienta para orquestar agentes de IA y automatizar flujos de trabajo. Permite conectar tareas, datos y procesos para construir operaciones más eficientes. Su utilidad se encuentra en la coordinación de agentes, automatización de actividades repetitivas y diseño de workflows inteligentes.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://datagrout.ai/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/datagrout-9vawhe"
+        }
+      ]
+    },
+    "1742": {
+      "app": {
+        "id": "1742",
+        "name": "DADOOO",
+        "url": "https://dadooo.ai/",
+        "short_description": "DADOOO permite gestionar operaciones de negocio y generar contenido o procesos internos con apoyo de IA.",
+        "category": "Productividad",
+        "main_functionality": "Gestión de operaciones de negocio con asistencia de IA",
+        "tags": "#Productividad #Negocios #Operaciones",
+        "logo_filename": "id_1742_dadooo",
+        "what_is": "DADOOO es una herramienta orientada a operaciones de negocio con asistencia de IA. Permite gestionar procesos internos, generar contenido operativo y apoyar tareas empresariales.",
+        "purpose": "Apoyar operaciones de negocio mediante asistencia de IA para procesos internos y generación de contenido.",
+        "use_cases": "Operaciones de negocio; generación de contenido interno; automatización administrativa; apoyo a procesos empresariales.",
+        "main_advantages": "Apoya operaciones internas; automatiza tareas empresariales; facilita generación de contenido; reduce carga administrativa.",
+        "long_description": "DADOOO es una herramienta orientada a operaciones de negocio con asistencia de inteligencia artificial. Permite gestionar procesos internos, apoyar tareas empresariales y generar contenido operativo. Su valor está en reducir trabajo manual y facilitar la ejecución de actividades administrativas o de negocio.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://dadooo.ai/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/dadooo-1cdrke"
+        }
+      ]
+    },
+    "1771": {
+      "app": {
+        "id": "1771",
+        "name": "Cycles",
+        "url": "https://runcycles.io/",
+        "short_description": "Cycles ayuda a controlar costos y acciones de agentes de IA, aportando visibilidad sobre procesos automatizados.",
+        "category": "Automatización",
+        "main_functionality": "Control de costos y acciones de agentes de IA",
+        "tags": "#Automatización #AgentesIA #Costos",
+        "logo_filename": "id_1771_cycles",
+        "what_is": "Cycles es una herramienta para controlar costos y acciones de agentes de IA. Ayuda a monitorear el uso, el gasto y el comportamiento de sistemas automatizados basados en agentes.",
+        "purpose": "Controlar costos y acciones de agentes de IA para mejorar visibilidad y administración de automatizaciones.",
+        "use_cases": "Control de costos de agentes; seguimiento de acciones automatizadas; monitoreo operativo; administración de uso de IA.",
+        "main_advantages": "Aporta visibilidad sobre costos; controla acciones de agentes; mejora supervisión; ayuda a gestionar automatizaciones.",
+        "long_description": "Cycles es una herramienta orientada al control de costos y acciones de agentes de inteligencia artificial. Ayuda a monitorear el comportamiento de sistemas automatizados, revisar uso y mantener mayor visibilidad sobre procesos basados en agentes. Puede ser útil para equipos que requieren control operativo y financiero sobre automatizaciones.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://runcycles.io/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/cycles-g4q1kc"
+        }
+      ]
+    },
+    "1784": {
+      "app": {
+        "id": "1784",
+        "name": "Crowbert",
+        "url": "https://www.crowbert.com/",
+        "short_description": "Crowbert ayuda a crear, programar y analizar contenido para redes sociales desde una sola herramienta.",
+        "category": "Redes sociales",
+        "main_functionality": "Creación, programación y análisis de contenido para redes sociales",
+        "tags": "#RedesSociales #Contenido #Programación",
+        "logo_filename": "id_1784_crowbert",
+        "what_is": "Crowbert es una herramienta para crear, programar y analizar contenido en redes sociales. Ayuda a gestionar publicaciones y medir desempeño desde un flujo centralizado.",
+        "purpose": "Crear, programar y analizar contenido para redes sociales desde un flujo centralizado.",
+        "use_cases": "Publicaciones sociales; calendario de contenido; análisis de redes; programación de posts.",
+        "main_advantages": "Centraliza redes sociales; facilita programación; ayuda a analizar contenido; ahorra tiempo en gestión social.",
+        "long_description": "Crowbert es una herramienta para crear, programar y analizar contenido en redes sociales. Ayuda a centralizar publicaciones, organizar calendarios y revisar desempeño de contenido. Es útil para creadores, marcas y equipos de marketing que administran presencia social en varios canales.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.crowbert.com/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/crowbert-zy7cqv"
+        }
+      ]
+    },
+    "1805": {
+      "app": {
+        "id": "1805",
+        "name": "Cust",
+        "url": "https://cust.co/",
+        "short_description": "Cust permite analizar cuentas de clientes y administrar datos de usuario, apoyando procesos de atención, ventas y seguimiento.",
+        "category": "Automatización",
+        "main_functionality": "Análisis de cuentas de clientes y datos de usuario",
+        "tags": "#Automatización #Analítica #Clientes",
+        "logo_filename": "id_1805_cust",
+        "what_is": "Cust es una herramienta para analizar cuentas de clientes y administrar datos de usuario. Puede apoyar procesos de seguimiento, atención, ventas y análisis operativo centrado en clientes.",
+        "purpose": "Analizar cuentas de clientes y datos de usuario para mejorar seguimiento, ventas y atención.",
+        "use_cases": "Análisis de clientes; seguimiento de cuentas; soporte comercial; gestión de datos de usuario.",
+        "main_advantages": "Ayuda a entender clientes; centraliza datos de cuentas; apoya ventas y soporte; mejora seguimiento.",
+        "long_description": "Cust es una herramienta para analizar cuentas de clientes y administrar datos de usuario. Puede apoyar procesos de ventas, atención, seguimiento y análisis operativo centrado en clientes. Su valor está en facilitar la comprensión de cuentas y mejorar la gestión de información relacionada con usuarios o clientes.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://cust.co/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/cust-918dbi"
+        }
+      ]
+    },
+    "1873": {
+      "app": {
+        "id": "1873",
+        "name": "Dashtera",
+        "url": "https://dashtera.com/",
+        "short_description": "Dashtera permite visualizar y analizar datos en tiempo real, facilitando monitoreo, reportes y toma de decisiones.",
+        "category": "Productividad",
+        "main_functionality": "Visualización y análisis de datos en tiempo real",
+        "tags": "#Productividad #Datos #Visualización",
+        "logo_filename": "id_1873_dashtera",
+        "what_is": "Dashtera es una herramienta de productividad para visualizar y analizar datos en tiempo real. Permite crear reportes, monitorear información y convertir datos en visualizaciones útiles.",
+        "purpose": "Visualizar y analizar datos en tiempo real para facilitar monitoreo, reportes y toma de decisiones.",
+        "use_cases": "Visualización de datos; monitoreo en tiempo real; dashboards; reportes operativos.",
+        "main_advantages": "Visualiza datos en tiempo real; facilita monitoreo; mejora reportes; apoya toma de decisiones.",
+        "long_description": "Dashtera es una herramienta de productividad para visualizar y analizar datos en tiempo real. Permite crear reportes, monitorear información y convertir datos en visualizaciones útiles. Puede apoyar operaciones, análisis de negocio y seguimiento de indicadores.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://dashtera.com/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/dashtera-3jh7jz"
+        }
+      ]
+    },
+    "1895": {
+      "app": {
+        "id": "1895",
+        "name": "Cubic",
+        "url": "https://www.cubic.dev/",
+        "short_description": "Plataforma de revisión de código con IA para equipos de desarrollo que necesitan detectar bugs difíciles, revisar pull requests, analizar codebases complejos, generar resúmenes de PR, crear wikis de código y acelerar revisiones sin perder calidad.",
+        "category": "Codificación",
+        "main_functionality": "Revisión automática de pull requests y codebases mediante agentes de IA que detectan bugs, riesgos de seguridad, problemas entre archivos, inconsistencias de arquitectura y patrones específicos del equipo.",
+        "tags": "#CodeReview,#CalidadDeCódigo,#PullRequests",
+        "logo_filename": "id_1895_cubic",
+        "what_is": "Cubic es una plataforma de revisión de código impulsada por IA. Revisa pull requests automáticamente, aprende patrones del codebase, detecta bugs, sugiere mejoras y ayuda a reviewers humanos a revisar cambios complejos con más contexto. Está orientada a equipos que trabajan con GitHub y codebases grandes o en crecimiento.",
+        "purpose": "Sirve para reducir cuellos de botella en code review, detectar errores antes de producción, revisar PRs generados por humanos o por agentes de código, crear descripciones automáticas de pull requests, mantener documentación tipo AI Wiki y escanear repositorios completos en busca de bugs, vulnerabilidades y riesgos de integridad.",
+        "use_cases": "Revisión automática de PRs, detección de bugs difíciles entre múltiples archivos, revisión de seguridad, generación de descripciones de PR, priorización lógica de diffs, escaneo de codebase completo, creación de wikis de repositorios, conexión con Jira, Linear, Asana, Notion, Confluence, Slack y email, y automatización de PRs de corrección.",
+        "main_advantages": "Ayuda a revisar código más rápido, reduce carga manual en reviewers senior, detecta errores que pueden pasar desapercibidos, da contexto sobre cambios complejos, permite reglas personalizadas del equipo, trabaja directamente con GitHub y ofrece medidas de seguridad como procesamiento temporal del código, cifrado y eliminación del código fuente tras completar la revisión.",
+        "long_description": "Cubic es una plataforma de revisión de código con IA diseñada para codebases complejos. Revisa automáticamente pull requests, detecta bugs, analiza dependencias entre archivos, genera descripciones de PR, permite crear agentes personalizados, aplica contexto del equipo, ordena diffs de forma lógica, ofrece CLI, crea wikis de código y puede ejecutar escaneos del repositorio completo. Sus codebase scans despliegan agentes para buscar bugs, vulnerabilidades, riesgos de seguridad, problemas de integridad de datos y edge cases en segundo plano. También incluye funciones para crear PRs de corrección, enviar notificaciones, integrarse con herramientas de gestión y usar MCP para codebase scans o AI Wiki.",
+        "release_date": "2025",
+        "developer": "Cubic. Fundador y CEO: Paul Sanglé-Ferrière.",
+        "main_model": "No disponible",
+        "pricing_plans": "Starter gratuito: 20 revisiones de PR al mes, hasta 5 agentes personalizados, descripciones automáticas de PR, contexto personalizado, conexión con Jira, Linear, Asana y Notion, y AI Wiki ilimitada. Team: USD $30/mes anual o USD $40 mensual por desarrollador, con revisiones de código, 20k líneas revisadas por desarrollador, CLI, Ultrareview, AI Wiki y analítica. Pro: USD $79/mes anual o USD $99 mensual por desarrollador, con soporte premium, revisiones más rápidas, hasta 10 agentes, Confluence, codebase scans, notificaciones Slack/email, MCP y seguimiento de uso de IA. Enterprise: precio personalizado, soporte premium, SSO/SAML, GitHub Enterprise, MSA/DPA personalizados, más agentes y más escaneos. También indica gratuidad para equipos open source.",
+        "license": "Propietaria / SaaS comercial.",
+        "security_privacy": "Cubic indica que no almacena permanentemente el código fuente del repositorio: lo procesa en un sandbox aislado y temporal durante la revisión y lo elimina al terminar. También declara cifrado en tránsito con TLS 1.2+, cifrado en reposo AES-256, acceso con mínimos privilegios mediante GitHub App y operaciones transparentes documentadas. Además, anunció cumplimiento SOC 2 Type 1 y afirma que el código no se usa para entrenar modelos.",
+        "integration": "Cubic se integra con GitHub y ofrece conexión con Jira, Linear, Asana, Notion, Confluence, Slack y email. También incluye cubic CLI, AI Wiki MCP y Codebase Scan MCP en planes avanzados."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.cubic.dev/"
+        },
+        {
+          "source_url": "https://www.ycombinator.com/companies/cubic"
+        },
+        {
+          "source_url": "https://docs.cubic.dev/account/privacy-security"
+        }
+      ]
+    },
+    "1966": {
+      "app": {
+        "id": "1966",
+        "name": "CroPilot",
+        "url": "https://cropilot.ai/",
+        "short_description": "CroPilot ayuda a optimizar sitios web y campañas mediante pruebas, análisis y mejoras enfocadas en conversión.",
+        "category": "Marketing",
+        "main_functionality": "Optimización de conversiones mediante análisis, pruebas y mejoras en sitios web.",
+        "tags": "optimización web, conversiones, pruebas A/B, marketing",
+        "logo_filename": "id_1966_cropilot",
+        "what_is": "CroPilot es una herramienta de optimización enfocada en mejorar conversiones mediante análisis, pruebas y ajustes en sitios web o campañas digitales.",
+        "purpose": "Mejorar conversiones mediante análisis, pruebas y optimización de sitios web o campañas digitales.",
+        "use_cases": "Optimización de sitios web; pruebas A/B; análisis de conversión; mejora de landing pages.",
+        "main_advantages": "Ayuda a identificar oportunidades de mejora, optimiza conversiones y facilita experimentos en sitios o campañas.",
+        "long_description": "CroPilot es una herramienta enfocada en optimización de conversiones. Puede apoyar el análisis de sitios web, pruebas A/B y ajustes orientados a mejorar resultados comerciales. Su utilidad está en ayudar a identificar oportunidades de mejora en landing pages, campañas o experiencias digitales que influyen en la conversión.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://cropilot.ai/"
+        }
+      ]
+    },
+    "2182": {
+      "app": {
+        "id": "2182",
+        "name": "Dafthunk",
+        "url": "https://www.dafthunk.com/",
+        "short_description": "Constructor visual basado en navegador para crear y automatizar flujos de trabajo.",
+        "category": "Automatización",
+        "main_functionality": "Crear y automatizar flujos de trabajo mediante un constructor visual en el navegador.",
+        "tags": "automatización de flujos, constructor visual, workflows, procesos empresariales, automatización",
+        "logo_filename": "id_2182_dafthunk",
+        "what_is": "Datthunk es un constructor visual basado en navegador para diseñar y automatizar flujos de trabajo.",
+        "purpose": "Facilitar la creación y automatización visual de flujos de trabajo desde el navegador.",
+        "use_cases": "Automatización de procesos internos, conexión de tareas, diseño de workflows y creación de flujos visuales.",
+        "main_advantages": "Permite diseñar automatizaciones visualmente y facilita la comprensión y modificación de los flujos.",
+        "long_description": "Datthunk es un constructor visual basado en navegador para crear y automatizar flujos de trabajo. Está diseñado para representar procesos de manera gráfica y facilitar la configuración de tareas conectadas, permitiendo organizar automatizaciones sin depender exclusivamente de configuraciones manuales complejas.",
+        "release_date": "No disponible",
+        "developer": "Dafthunk",
+        "main_model": "No especificado",
+        "pricing_plans": "No disponible",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.dafthunk.com/"
+        }
+      ]
+    },
+    "2197": {
+      "app": {
+        "id": "2197",
+        "name": "Cruxi",
+        "url": "https://cruxi.ai/",
+        "short_description": "Plataforma para gestionar presentaciones regulatorias relacionadas con dispositivos médicos.",
+        "category": "Gestión",
+        "main_functionality": "Gestionar documentación y presentaciones regulatorias para dispositivos médicos.",
+        "tags": "regulación médica, dispositivos médicos, presentaciones regulatorias, cumplimiento, gestión documental",
+        "logo_filename": "id_2197_cruxi",
+        "what_is": "Cruxi es una plataforma de gestión regulatoria enfocada en presentaciones relacionadas con dispositivos médicos.",
+        "purpose": "Organizar y gestionar procesos de presentación regulatoria relacionados con dispositivos médicos.",
+        "use_cases": "Gestión de documentación regulatoria, seguimiento de presentaciones y organización de procesos para dispositivos médicos.",
+        "main_advantages": "Centraliza información y tareas de procesos regulatorios especializados en dispositivos médicos.",
+        "long_description": "Cruxi es una plataforma enfocada en la gestión de presentaciones regulatorias para dispositivos médicos. Su función es organizar información y procesos relacionados con este tipo de documentación especializada y facilitar su seguimiento.",
+        "release_date": "No disponible",
+        "developer": "Cruxi",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://cruxi.ai/"
+        }
+      ]
+    },
+    "2223": {
+      "app": {
+        "id": "2223",
+        "name": "Crops",
+        "url": "https://crops.is/",
+        "short_description": "Plataforma que etiqueta y organiza automáticamente recursos y materiales creativos.",
+        "category": "Productividad",
+        "main_functionality": "Etiquetar, clasificar y organizar automáticamente recursos creativos.",
+        "tags": "organización de recursos, etiquetado automático, activos creativos, productividad, gestión de contenido",
+        "logo_filename": "id_2223_crops",
+        "what_is": "Crops es una plataforma de productividad que etiqueta y organiza automáticamente recursos creativos.",
+        "purpose": "Reducir el trabajo manual necesario para etiquetar y organizar recursos creativos.",
+        "use_cases": "Clasificación de recursos, etiquetado automático, organización de activos creativos y gestión de bibliotecas de contenido.",
+        "main_advantages": "Automatiza el etiquetado y la organización de activos, reduciendo trabajo manual de clasificación.",
+        "long_description": "Crops es una plataforma de productividad enfocada en organizar recursos creativos. Automatiza tareas de etiquetado y clasificación para facilitar la gestión de bibliotecas de imágenes, materiales y otros activos utilizados por equipos creativos.",
+        "release_date": "No disponible",
+        "developer": "Crops",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://crops.is/"
+        }
+      ]
+    },
+    "2240": {
+      "app": {
+        "id": "2240",
+        "name": "DebuggAI",
+        "url": "https://debugg.ai/",
+        "short_description": "Herramienta que automatiza pruebas de navegador relacionadas con pull requests.",
+        "category": "Codificación",
+        "main_functionality": "Automatizar pruebas de navegador vinculadas con pull requests y cambios de software.",
+        "tags": "pruebas de navegador, testing automático, pull requests, QA, desarrollo de software",
+        "logo_filename": "id_2240_debuggai",
+        "what_is": "DebuggAI es una herramienta de desarrollo que automatiza pruebas de navegador relacionadas con pull requests.",
+        "purpose": "Automatizar pruebas de navegador asociadas con cambios de software y pull requests.",
+        "use_cases": "Pruebas de navegador, validación de cambios, testing asociado a PRs y automatización de QA.",
+        "main_advantages": "Reduce el trabajo manual de pruebas de navegador asociado con cambios de software.",
+        "long_description": "DebuggAI es una herramienta de desarrollo que automatiza pruebas de navegador relacionadas con pull requests. Puede apoyar procesos de validación de cambios y reducir el esfuerzo manual necesario para comprobar el comportamiento de una aplicación.",
+        "release_date": "No disponible",
+        "developer": "DebuggAI",
+        "main_model": "IA propia; compatible con Claude, Cursor y Codex vía MCP",
+        "pricing_plans": "Gratis; Pro: $20 USD/mes; Grow: $40 USD/mes; Enterprise: personalizado",
+        "license": "No especificado",
+        "security_privacy": "Acceso al código cifrado, aislado y temporal.",
+        "integration": "GitHub, MCP, VS Code y Playwright"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://debugg.ai/"
+        }
+      ]
+    },
+    "2313": {
+      "app": {
+        "id": "2313",
+        "name": "Daisy.so",
+        "url": "https://daisy.so/",
+        "short_description": "Plataforma creativa de IA para entrenar modelos visuales personalizados y generar o animar imágenes y videos.",
+        "category": "Generación de arte",
+        "main_functionality": "Entrenar modelos visuales personalizados y utilizarlos para generar, editar y animar imágenes y videos.",
+        "tags": "modelos personalizados, generación de imágenes, generación de video, animación, IA visual, contenido creativo",
+        "logo_filename": "id_2313_daisy_so",
+        "what_is": "Daisy es una plataforma creativa desarrollada por Liqhtworks que permite entrenar modelos visuales personalizados y generar imágenes y videos.",
+        "purpose": "Facilitar la creación de contenido visual personalizado mediante modelos de IA entrenados con referencias del propio usuario.",
+        "use_cases": "Generación de imágenes, modelos visuales personalizados, animación, videos, estilos creativos y producción de contenido.",
+        "main_advantages": "Permite crear modelos personalizados con contenido del usuario y emplearlos después en generación y animación visual.",
+        "long_description": "Daisy es una plataforma creativa de inteligencia artificial desarrollada por Liqhtworks. Permite entrenar modelos visuales personalizados a partir de imágenes y utilizarlos posteriormente para generar nuevos contenidos, realizar ediciones y crear animaciones o videos mediante distintos modelos generativos.",
+        "release_date": "No disponible",
+        "developer": "Liqhtworks, Inc.",
+        "main_model": "Modelos visuales personalizados; modelos generativos no especificados",
+        "pricing_plans": "Free: $0 con 100 créditos/mes; Pro: $39 USD/mes con 4,000 créditos; Ultra: $99 USD/mes con 12,000 créditos",
+        "license": "No especificado",
+        "security_privacy": "Cuenta con política de privacidad y derechos CCPA/CPRA; certificaciones técnicas no especificadas.",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://daisy.so/"
+        }
+      ]
+    },
+    "2347": {
+      "app": {
+        "id": "2347",
+        "name": "Crunchbase",
+        "url": "https://www.crunchbase.com/",
+        "short_description": "Plataforma de inteligencia empresarial que proporciona información y datos sobre compañías, mercados y organizaciones.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Proporcionar información empresarial y de mercado sobre compañías, industrias y organizaciones.",
+        "tags": "datos empresariales, empresas, inteligencia de mercado, investigación, análisis comercial, inteligencia de negocios",
+        "logo_filename": "id_2347_crunchbase",
+        "what_is": "Crunchbase es una plataforma de inteligencia de negocios que proporciona datos e información sobre empresas, mercados e industrias.",
+        "purpose": "Proporcionar información empresarial y de mercado para apoyar investigación, análisis y toma de decisiones.",
+        "use_cases": "Investigación de empresas, análisis competitivo, inteligencia de mercado, búsqueda de compañías y evaluación de oportunidades.",
+        "main_advantages": "Centraliza información empresarial y de mercado utilizada en procesos de investigación y análisis comercial.",
+        "long_description": "Crunchbase es una plataforma de inteligencia de negocios que proporciona información sobre empresas, mercados, industrias y organizaciones. Es utilizada para investigación empresarial, análisis competitivo, identificación de oportunidades y consulta de información comercial.",
+        "release_date": "No disponible",
+        "developer": "Crunchbase, Inc.",
+        "main_model": "No especificado",
+        "pricing_plans": "Cuenta gratuita disponible; Crunchbase Pro: $99 USD/mes; Crunchbase Business: precio mediante ventas",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "REST API y acceso para integraciones empresariales según licencia"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.crunchbase.com/"
+        }
+      ]
+    },
+    "2365": {
+      "app": {
+        "id": "2365",
+        "name": "Cubeo AI",
+        "url": "https://www.cubeo.ai/",
+        "short_description": "Plataforma no-code para crear, configurar y desplegar agentes personalizados de inteligencia artificial.",
+        "category": "Automatización",
+        "main_functionality": "Crear, configurar y desplegar agentes personalizados de inteligencia artificial mediante herramientas no-code.",
+        "tags": "agentes de IA, no-code, automatización, creación de agentes, despliegue, workflows",
+        "logo_filename": "id_2365_cubeo_ai",
+        "what_is": "Cubeo AI es una plataforma no-code que permite crear, configurar y desplegar agentes personalizados de inteligencia artificial.",
+        "purpose": "Facilitar la creación y despliegue de agentes personalizados de inteligencia artificial sin necesidad de desarrollar toda la infraestructura desde cero.",
+        "use_cases": "Agentes personalizados, automatización de tareas, asistentes internos, workflows y despliegue de soluciones de IA.",
+        "main_advantages": "Reduce la complejidad técnica de crear y desplegar agentes personalizados mediante herramientas no-code.",
+        "long_description": "Cubeo AI es una plataforma no-code para crear y desplegar agentes personalizados de inteligencia artificial. Está orientada a permitir que usuarios y equipos construyan asistentes y automatizaciones sin necesidad de desarrollar manualmente toda la infraestructura técnica.",
+        "release_date": "No disponible",
+        "developer": "CUBEO INNOVATION SRL",
+        "main_model": "Multimodelo: GPT-4o, GPT-4o mini, Claude Haiku, Claude Sonnet y otros",
+        "pricing_plans": "Free: €0; Starter: €17/mes; Plus: €47/mes; Premium: €97/mes; descuentos con facturación anual",
+        "license": "No especificado",
+        "security_privacy": "ISO 27001, cumplimiento GDPR, cifrado de datos en reposo, control de acceso, evaluaciones de seguridad y monitoreo continuo.",
+        "integration": "Sitios web, PDF, DOCX, YouTube, audio, video y herramientas de agentes de IA"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.cubeo.ai/"
+        }
+      ]
+    },
+    "2435": {
+      "app": {
+        "id": "2435",
+        "name": "DealerAI",
+        "url": "https://dealerai.com/",
+        "short_description": "Plataforma con inteligencia artificial para apoyar ventas, atención y operaciones de concesionarios automotrices.",
+        "category": "Marketing",
+        "main_functionality": "Automatizar y apoyar procesos comerciales, de atención y operación dentro de concesionarios automotrices mediante agentes de IA.",
+        "tags": "concesionarios, automotriz, ventas, leads, atención al cliente, marketing, agentes de IA, operaciones",
+        "logo_filename": "id_2435_dealerai",
+        "what_is": "DealerAI es una plataforma de inteligencia artificial para concesionarios automotrices que apoya procesos de ventas, marketing, atención y operaciones.",
+        "purpose": "Mejorar ventas, atención y operaciones de concesionarios mediante automatización y agentes de inteligencia artificial.",
+        "use_cases": "Seguimiento de leads, atención a compradores, ventas automotrices, marketing, operaciones de concesionarios y comunicación con clientes.",
+        "main_advantages": "Integra agentes de IA con procesos específicos del sector automotriz y de concesionarios.",
+        "long_description": "DealerAI es una plataforma de inteligencia artificial diseñada para concesionarios automotrices. Utiliza agentes y automatización para apoyar procesos relacionados con ventas, marketing, atención a clientes y operaciones, buscando mejorar la gestión de leads y las interacciones comerciales.",
+        "release_date": "No disponible",
+        "developer": "Idea Notion Development Inc.",
+        "main_model": "No especificado",
+        "pricing_plans": "Basic: $599 USD/mes por concesionario; Reach: $1,499 USD/mes; All-in-One: $2,299 USD/mes; descuentos para múltiples ubicaciones",
+        "license": "No especificado",
+        "security_privacy": "DealerAI declara cumplimiento SOC 2 y PIPEDA y mantiene una política de privacidad para el tratamiento de información de clientes.",
+        "integration": "CRM de concesionarios, ventas, servicio, partes, finanzas, voz y canales de atención"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://dealerai.com/"
+        }
+      ]
+    },
+    "2569": {
+      "app": {
+        "id": "2569",
+        "name": "CursorClip",
+        "url": "https://cursorclip.com/",
+        "short_description": "Grabador de pantalla nativo para macOS que aplica zoom automático sobre el cursor y facilita producir demos y tutoriales editados.",
+        "category": "Edición de video",
+        "main_functionality": "Graba la pantalla en macOS, aplica zoom automático siguiendo el cursor y permite editar y exportar demostraciones y tutoriales.",
+        "tags": "grabación de pantalla, macOS, zoom automático, cursor, tutoriales, demos, edición de video",
+        "logo_filename": "id_2569_cursorclip",
+        "what_is": "CursorClip es una aplicación nativa para macOS diseñada para grabar y editar la pantalla con zoom automático centrado en el cursor.",
+        "purpose": "Facilitar la creación de demostraciones y tutoriales de pantalla profesionales mediante grabación, zoom automático y edición simplificada en macOS.",
+        "use_cases": "Grabar demos de software; crear tutoriales; producir walkthroughs; grabar presentaciones; generar videos de producto; editar grabaciones de pantalla en macOS.",
+        "main_advantages": "Automatiza efectos visuales como zoom sobre el cursor y facilita producir grabaciones de pantalla más presentables con menos edición manual.",
+        "long_description": "CursorClip es una aplicación nativa para macOS enfocada en grabación y edición de pantalla. Durante la grabación puede aplicar zoom automático siguiendo el cursor y las acciones del usuario, ayudando a producir demos y tutoriales más claros. Está orientada a creadores, equipos de producto y profesionales que necesitan generar videos explicativos de software con menor trabajo de edición posterior.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Grabación y edición gratuitas; exportación requiere plan de pago. La página anuncia desde el 15 de septiembre precios de USD 9/mes, USD 29/año o USD 70 de pago único Lifetime.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://cursorclip.com/"
+        }
+      ]
+    },
+    "2595": {
+      "app": {
+        "id": "2595",
+        "name": "Crossfade",
+        "url": "https://usecrossfade.com/",
+        "short_description": "Editor de video con IA que combina edición basada en transcripción, eliminación de fondos, generación de imágenes y herramientas para trabajar directamente sobre la línea de tiempo.",
+        "category": "Edición de video",
+        "main_functionality": "Permite editar video mediante transcripción con precisión a nivel de palabra, eliminar fondos, generar imágenes y recursos visuales e integrar esos elementos directamente dentro de la línea de tiempo.",
+        "tags": "edición de video, transcripción, edición por texto, eliminación de fondo, imágenes generativas, captions, clips",
+        "logo_filename": "id_2595_crossfade",
+        "what_is": "Crossfade es un editor de video asistido por inteligencia artificial que integra edición basada en lenguaje, transcripción y herramientas generativas dentro de una misma línea de tiempo.",
+        "purpose": "Reducir el trabajo manual de edición y permitir que creadores manipulen video, voz, fondos y recursos visuales desde un flujo asistido por inteligencia artificial.",
+        "use_cases": "Editar videos mediante texto; crear captions; eliminar fondos; generar imágenes para una edición; ajustar elementos visuales; reutilizar material audiovisual.",
+        "main_advantages": "Integra herramientas de edición tradicional y generativa dentro de una misma línea de tiempo y permite trabajar directamente sobre la transcripción del contenido.",
+        "long_description": "Crossfade es un editor de video asistido por inteligencia artificial que permite trabajar directamente con la transcripción del contenido y realizar ajustes con precisión a nivel de palabra. También incorpora eliminación de fondos, generación de imágenes y recursos visuales dentro de la línea de tiempo. Su enfoque combina herramientas de edición audiovisual con funciones generativas para reducir operaciones manuales y facilitar la creación de contenido.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://usecrossfade.com/"
+        }
+      ]
+    },
+    "2633": {
+      "app": {
+        "id": "2633",
+        "name": "Datamatics",
+        "url": "https://www.datamatics.com/",
+        "short_description": "Empresa de automatización e IA empresarial que desarrolla agentes, sistemas multiagente, RPA y soluciones para procesos corporativos complejos.",
+        "category": "Automatización",
+        "main_functionality": "Diseña e implementa soluciones empresariales con agentes autónomos, sistemas multiagente, RPA, procesamiento documental y automatización de workflows.",
+        "tags": "automatización empresarial, Agentic AI, agentes IA, multiagente, RPA, procesamiento documental, workflows, operaciones",
+        "logo_filename": "id_2633_datamatics",
+        "what_is": "Datamatics es una empresa de tecnologías digitales que ofrece automatización, inteligencia artificial y soluciones de Agentic AI para procesos empresariales.",
+        "purpose": "Ayudar a empresas a pasar de tareas automatizadas a procesos más autónomos mediante agentes de IA y sistemas multiagente integrados con sus operaciones.",
+        "use_cases": "Automatizar procesos; desarrollar agentes; crear sistemas multiagente; modernizar aplicaciones; procesar documentos; automatizar operaciones de finanzas, seguros, logística y otras áreas.",
+        "main_advantages": "Combina experiencia en procesos empresariales con RPA, IA generativa y arquitecturas de agentes para automatizar workflows complejos.",
+        "long_description": "Datamatics ofrece soluciones de automatización e inteligencia artificial para grandes organizaciones. Su oferta actual incluye servicios de Agentic AI para diseñar, desarrollar y desplegar agentes individuales y sistemas multiagente capaces de integrarse con aplicaciones, APIs y procesos existentes. También mantiene capacidades de RPA, procesamiento documental, analítica y automatización de operaciones corporativas.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado; soluciones empresariales mediante cotización.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.datamatics.com/"
+        }
+      ]
+    }
+  }
+}

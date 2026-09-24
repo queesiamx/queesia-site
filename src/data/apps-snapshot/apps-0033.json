@@ -1,0 +1,2436 @@
+{
+  "schemaVersion": 1,
+  "apps": {
+    "157": {
+      "app": {
+        "id": "157",
+        "name": "Reiden",
+        "url": "https://reiden.ai/",
+        "short_description": "Utilice la IA para encontrar áreas en las que es lento y sugerir atajos de teclado para mejorar la eficiencia.",
+        "category": "Productividad",
+        "main_functionality": "Análisis en tiempo real del flujo de trabajo y sugerencias de atajo de teclado personalizados para mejorar la eficiencia.",
+        "tags": "#Productividad #AsistenteIA #Atajos de teclado",
+        "logo_filename": "id_157_reiden",
+        "what_is": "Reiden es un asistente de productividad impulsado por IA que sugiere atajos de teclado personalizados para optimizar el flujo de trabajo del usuario. Funciona en segundo plano, analizando en tiempo real las acciones del usuario y proporcionando recomendaciones específicas para aumentar la eficiencia en diversas aplicaciones.",
+        "purpose": "El propósito de Reiden es identificar áreas donde el usuario puede acelerar su trabajo mediante el uso de atajos de teclado, reduciendo la dependencia del ratón y minimizando el riesgo de lesiones por esfuerzo repetitivo. Al implementar estos atajos, los usuarios pueden ahorrar tiempo significativo en sus tareas diarias.",
+        "use_cases": "Profesionales de software: Desarrolladores que buscan agilizar su decodificación mediante atajos en entornos de desarrollo integrados.\n\nDiseñadores gráficos. uso eficiente de herramientas de diseño como Adobe Photoshop o Ilustrator.\n\nAnalistas de datos: Navegación rápida en hojas de cálculo y herramientas de análisis de datos.",
+        "main_advantages": "Ahorro de tiempo: implementando solo 5 atajos diarios, se puede ahorrar hasta una hora al año.\n\nMejora la eficiencia: Personaliza sugerencias de atajos basadas en el flujo del trabajo individual.\n\nReducción de la fatiga: Disminuye la dependencia del ratón, lo que puede reducir el riesgo de lesiones por esfuerzo repetitivo.",
+        "long_description": "Reiden es un asistente de productividad impulsado por inteligencia artificial que sugiere atajos de teclado personalizados para optimizar el flujo de trabajo del usuario. Funciona en segundo plano, analizando en tiempo real las acciones del usuario y proporcionando recomendaciones específicas para aumentar la eficiencia en diversas aplicaciones. Al reducir la dependencia del ratón, Reiden también contribuye a minimizar el riesgo de lesiones por esfuerzo repetitivo. Además, ofrece soporte para más de 20 aplicaciones populares, lo que lo convierte en una herramienta versátil para mejorar la productividad en múltiples entornos de trabajo.",
+        "release_date": "Octubre 2024",
+        "developer": "Reiden.",
+        "main_model": "No disponible.",
+        "pricing_plans": "Actualmente, Reiden está disponible como una descarga gratuita en su fase previa al lanzamiento. Se podrían introducir planes de precios futuros a medida que el producto se desarrolle.",
+        "license": "Propietaria",
+        "security_privacy": "Reiden esá diseñado con un enfoque en la privacidad del usuario. Los datos permanecen en el dispositivo del usuario y no se recopilan datos personales sin consentimiento. Existe la opción de compartir datos de uso anonimizados para ayudar a mejorar el producto, pero esta siempre es una elección del usuario.",
+        "integration": "Reiden es compatible con más de 20 aplicaciones populares, incluyendo Figma, VS Code, Chrome, Gmail, Notion y Slack, entre otras. Esta amplia compatibilidad permite a los usuarios mejorar su productividad en diversos entornos de trabajo."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://reiden.ai/"
+        },
+        {
+          "source_url": "https://www.aitoolnet.com/es/reiden-ai"
+        },
+        {
+          "source_url": "https://iuu.ai/es/tool/reiden-ai?utm_source=chatgpt.com"
+        }
+      ]
+    },
+    "181": {
+      "app": {
+        "id": "181",
+        "name": "Quso",
+        "url": "https://quso.ai/",
+        "short_description": "Crea contenido impactante, gestiona tu presencia en redes sociales e impulsa el crecimiento, todo ello impulsado por la IA.",
+        "category": "Marketing de contenidos",
+        "main_functionality": "Automatiza la creación y edición de videos cortos a partir de contenido extenso, adaptándolos a los requisitos específicos de diversas plataformas sociales para maximizar el alcance y la interacción.",
+        "tags": "#MarketingDigital #EdiciónDeVideo #RedesSociales #InteligenciaArtificial",
+        "logo_filename": "id_181_quso",
+        "what_is": "Quso.ai es una plataforma impulsada por inteligencia artificial que ayuda a las empresas y creadores de contenido a reutilizar material de formato largo, transformándolo en videos cortos y atractivos diseñados específicamente para redes sociales como TikTok, Instagram Reels y YouTube Shorts.",
+        "purpose": "La herramienta permite a los usuarios:\n\nReducir el tiempo y esfuerzo necesario para editar y recortar videos largos.\nAumentar la visibilidad y el impacto del contenido en plataformas sociales.\nOptimizar el contenido para audiencias en diversos formatos digitales.",
+        "use_cases": "Creadores de contenido: Transformación de grabaciones largas como entrevistas o tutoriales en clips breves y virales.\nEmpresas de marketing: Generación automatizada de videos promocionales diseñados para captar la atención en redes sociales.\nEducadores: Dividir conferencias largas en segmentos fáciles de digerir para su distribución en plataformas digitales.\nMarcas: Incrementar la participación del público adaptando contenido existente a formatos más cortos y atractivos.",
+        "main_advantages": "Automatización: Reduce significativamente el tiempo requerido para editar videos.\nOptimización para redes sociales: Genera contenido alineado con las tendencias y especificaciones de plataformas populares.\nAumento del alcance: Mejora la interacción y alcance de las publicaciones al adaptar el contenido a formatos más digeribles y visualmente atractivos.\nFácil de usar: No se necesitan habilidades técnicas avanzadas para aprovechar sus beneficios.",
+        "long_description": "Quso.ai es una herramienta de inteligencia artificial diseñada para optimizar el proceso de creación de contenido para redes sociales. Permite convertir videos largos, como entrevistas, podcasts, o tutoriales, en clips más cortos y atractivos que cumplen con los estándares de plataformas como TikTok, Instagram Reels, y YouTube Shorts. Con su tecnología de automatización, ayuda a empresas, creadores de contenido y marcas a maximizar el impacto de su material original, reduciendo significativamente los tiempos de edición y aumentando el alcance en medios digitales.",
+        "release_date": "No disponible",
+        "developer": "Quso.AI",
+        "main_model": "No disponible",
+        "pricing_plans": "Quso ofrece cuatro planes de precios: Lite por $16/mes, Essential por $39/mes, Growth por $41/mes y Free. Los usuarios pagan por los créditos de carga, con planes anuales que ofrecen ahorros. Todos los planes incluyen varias funciones, almacenamiento y soporte de IA.",
+        "license": "Propietaria",
+        "security_privacy": "Quso.ai recopila y utiliza información personal de sus usuarios para proporcionar y mejorar sus servicios. La empresa se compromete a proteger la privacidad de los datos recopilados y a utilizarlos de acuerdo con las leyes y regulaciones aplicables. Los usuarios tienen derechos sobre sus datos personales, incluyendo el acceso, rectificación y eliminación de los mismos. Quso.ai implementa medidas de seguridad para proteger la información de accesos no autorizados y se compromete a notificar a los usuarios en caso de cambios significativos en su política de privacidad.",
+        "integration": "Quso.ai está diseñado para adaptarse a plataformas de redes sociales y se enfoca en optimizar el contenido según los requisitos de cada una, facilitando la publicación directa o la descarga para su uso en diversos entornos."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://quso.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-s-new-legal-troubles"
+        },
+        {
+          "source_url": "https://www.aibase.com/tool/34719"
+        },
+        {
+          "source_url": "https://dynamicbusiness.com/ai-tools/quso-social-media-ai-for-business-growth.html"
+        },
+        {
+          "source_url": "https://bestofai.com/article/ai-powered-content-repurposing-qusoai"
+        },
+        {
+          "source_url": "https://quso.ai/privacy-policy?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-s-new-legal-troubles"
+        },
+        {
+          "source_url": "https://quso.ai/pricing?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-s-new-legal-troubles"
+        },
+        {
+          "source_url": "https://quso.ai/customer-stories?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-s-new-legal-troubles"
+        }
+      ]
+    },
+    "283": {
+      "app": {
+        "id": "283",
+        "name": "Quizdom",
+        "url": "https://www.getquizdom.com/",
+        "short_description": "Crea, personaliza y califica fácilmente evaluaciones, cuestionarios y pruebas de alta calidad con precisión impulsada por IA.",
+        "category": "Automatización",
+        "main_functionality": "Automatiza la generación y calificación de evaluaciones a partir de documentos y recursos proporcionados por el usuario, facilitando la creación de contenido educativo de alta calidad.",
+        "tags": "#Educación #EvaluaciónAutomatizada #InteligenciaArtificial",
+        "logo_filename": "id_283_quizdom",
+        "what_is": "Quizdom es una plataforma educativa que permite a los usuarios crear, personalizar y calificar evaluaciones de manera eficiente.",
+        "purpose": "Facilita la creación y gestión de evaluaciones, permitiendo a educadores y profesionales medir el conocimiento y progreso de los estudiantes de forma efectiva.",
+        "use_cases": "Instituciones Educativas: Implementación de exámenes y cuestionarios en línea para evaluar el rendimiento académico.\n\nEmpresas: Capacitación y evaluación de empleados mediante pruebas personalizadas.\n\nFormación en Línea: Cursos virtuales que requieren evaluaciones interactivas para certificar competencias.",
+        "main_advantages": "Eficiencia en la Creación de Evaluaciones: Herramientas intuitivas que agilizan el diseño de pruebas.\n\nPersonalización: Adaptación de evaluaciones según las necesidades específicas de cada grupo o individuo.\n\nAutomatización de la Calificación: Reducción del tiempo dedicado a corregir, permitiendo un feedback inmediato.\n\nAccesibilidad: Disponibilidad en línea que facilita el acceso desde cualquier dispositivo con conexión a internet.",
+        "long_description": "Quizdom utiliza inteligencia artificial para analizar profundamente los recursos proporcionados por el usuario, como notas, documentos y archivos PDF, extrayendo conceptos clave y temas relevantes. A partir de este análisis, genera de manera instantánea preguntas y respuestas bien formuladas, que pueden ser editadas y personalizadas según las necesidades específicas del usuario. La plataforma permite la exportación de las evaluaciones en múltiples formatos, como PDF y DOCX, facilitando su distribución y compartición. Además, ofrece opciones de calificación asistida por IA, agilizando el proceso de evaluación y garantizando precisión en los resultados.",
+        "release_date": "No disponible",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "Gratis\n\n$0\n\nEmpieza con 50 créditos gratis para explorar todas nuestras funciones\n\n• 50 créditos\n• No se requiere tarjeta de crédito\nEmpieza de forma gratuita\nPopular\nMás\n\n$5\n\nHaz más cosas con créditos adicionales\n\n• 200 créditos\nComenzar\nPro\n\n$7\n\nLleva tu productividad al siguiente nivel con aún más créditos\n\n• 350 créditos\nComenzar",
+        "license": "No disponible",
+        "security_privacy": "La plataforma está diseñada para manejar de manera segura los datos y recursos proporcionados por los usuarios. Sin embargo, no se especifican detalles sobre las políticas de privacidad o las medidas de seguridad implementadas. Se recomienda a los usuarios consultar directamente con la empresa para obtener información detallada sobre cómo se protegen sus datos.",
+        "integration": "Quizdom permite la importación de diversos tipos de archivos, como notas, documentos y PDFs, para la generación de evaluaciones. Sin embargo, no se especifica información sobre integraciones directas con otras herramientas o plataformas educativas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.getquizdom.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=gemini-goes-multimodal"
+        },
+        {
+          "source_url": "https://www.getquizdom.com/#features"
+        },
+        {
+          "source_url": "https://www.getquizdom.com/#use-cases"
+        },
+        {
+          "source_url": "https://www.getquizdom.com/pricing"
+        },
+        {
+          "source_url": "https://www.getquizdom.com/#how-it-works"
+        }
+      ]
+    },
+    "314": {
+      "app": {
+        "id": "314",
+        "name": "Ranked",
+        "url": "https://www.ranked.ai/",
+        "short_description": "Ofrece servicios de SEO y PPC asequibles, combinando inteligencia artificial con un equipo creativo para proporcionar resultados medibles en marketing digital.",
+        "category": "SEO",
+        "main_functionality": "Proporciona soluciones integrales de SEO y PPC, incluyendo creación de contenido, optimización, generación de backlinks y análisis, potenciadas por inteligencia artificial para mejorar la presencia en línea de las empresas.",
+        "tags": "#SEO #PPC #MarketingDigital #InteligenciaArtificial",
+        "logo_filename": "id_314_ranked",
+        "what_is": "Ranked AI es una plataforma de marketing digital que utiliza inteligencia artificial para ofrecer servicios de optimización de motores de búsqueda (SEO) y publicidad de pago por clic (PPC). Combina herramientas basadas en IA con un equipo humano especializado para optimizar estrategias de marketing digital y aumentar la visibilidad de las marcas.",
+        "purpose": "La plataforma está diseñada para ayudar a empresas y negocios a mejorar su posicionamiento en buscadores como Google, incrementar el tráfico web de calidad y maximizar el retorno de inversión en campañas publicitarias digitales mediante técnicas automatizadas y estrategias personalizadas.",
+        "use_cases": "Pequeñas y medianas empresas (PYMES): Mejoran su posicionamiento en línea con servicios asequibles de SEO y PPC.\nTiendas de comercio electrónico: Incrementan el tráfico web y las ventas mediante estrategias avanzadas de palabras clave y generación de backlinks.\nAgencias de marketing digital: Subcontratan estrategias optimizadas basadas en IA para ampliar sus servicios sin aumentar costos internos.\nStartups: Aceleran su presencia en línea con campañas de bajo costo y resultados rápidos.",
+        "main_advantages": "Automatización eficiente: El uso de inteligencia artificial optimiza procesos como investigación de palabras clave y análisis de competencia.\nEnfoque integral: Ofrece un paquete completo de servicios que incluye creación de contenido, construcción de enlaces y optimización técnica.\nResultados medibles: Las métricas y reportes detallados permiten a los clientes evaluar el impacto de las estrategias implementadas.\nCosto accesible: Los planes de precios están diseñados para ajustarse a presupuestos de pequeñas empresas y emprendedores.",
+        "long_description": "Ranked AI es una plataforma que ofrece servicios completos de SEO (Optimización de Motores de Búsqueda) y PPC (Publicidad de Pago por Clic) diseñados para mejorar la visibilidad en línea de las empresas. Utiliza inteligencia artificial, específicamente integrada con Google Gemini, para optimizar procesos de investigación de contenido, optimización y difusión, lo que permite ofrecer soluciones basadas en datos de manera eficiente. La plataforma combina estas capacidades tecnológicas con un equipo creativo humano para proporcionar contenido de alta calidad y estrategias de marketing digital adaptadas a las necesidades específicas de cada cliente.",
+        "release_date": "No disponible",
+        "developer": "Ranked Pte. Ltd.",
+        "main_model": "Ranked AI integra Google Gemini en sus flujos de trabajo para mejorar la productividad y la eficacia de sus servicios de SEO y PPC.",
+        "pricing_plans": "Estándar\nPara negocios locales y de nicho que buscan comenzar.\n\n$99/mes por sitio web.\n\n25 palabras clave objetivo\n\n1 artículo de blog por semana\n\nOptimización en la página\n\nBacklinks de alta calidad\n\nSoftware líder en SEO\nIniciar prueba gratuita\nMás\nPara empresas competitivas en un mercado saturado o con múltiples ubicaciones.\n\n$198/mes por sitio web.\n\n50 palabras clave objetivo\n\n2 artículos de blog por semana\n\nOptimización en la página\n\nBacklinks de alta calidad\n\nSoftware líder en SEO\nIniciar prueba gratuita\nEmpresa\nPara empresas que se dirigen a todo el país o que desean expandirse.\n\n$349/mes por sitio web.\n\n100 palabras clave objetivo\n\n4 artículos de blog por semana\n\nOptimización en la página\n\nBacklinks de alta calidad\n\nSoftware líder en SEO\nIniciar prueba gratuita",
+        "license": "Propietaria",
+        "security_privacy": "La Política de Privacidad de Ranked AI establece que recopilan datos personales como nombre, dirección, correo electrónico y dirección IP para completar transacciones y mejorar la experiencia del usuario. Los datos se usan con consentimiento explícito y pueden ser divulgados si la ley lo requiere o se violan los términos de servicio. Implementan medidas de seguridad avanzadas como cifrado SSL y AES-256 para proteger la información, aunque reconocen que ningún sistema es completamente seguro.",
+        "integration": "Ranked AI utiliza Google Gemini para potenciar sus capacidades de investigación y análisis en SEO y PPC, mejorando la productividad y la precisión de sus servicios."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolslist.io/best-ai-tools/"
+        },
+        {
+          "source_url": "https://www.ranked.ai/"
+        },
+        {
+          "source_url": "https://medium.com/@williamtlat_36616/ranked-ai-review-everything-you-need-for-seo-10a5488bf22e"
+        },
+        {
+          "source_url": "https://skynetlist.com/ai/ranked-ai-seo-made-simple-affordable/"
+        },
+        {
+          "source_url": "https://www.visualcapitalist.com/ranked-the-most-popular-generative-ai-tools-in-2024/"
+        },
+        {
+          "source_url": "https://www.ranked.ai/legal/privacy"
+        },
+        {
+          "source_url": "https://www.ranked.ai/pricing"
+        },
+        {
+          "source_url": "https://www.ranked.ai/about"
+        },
+        {
+          "source_url": "https://www.ranked.ai/case-studies"
+        }
+      ]
+    },
+    "326": {
+      "app": {
+        "id": "326",
+        "name": "Redcar",
+        "url": "https://www.redcar.io/",
+        "short_description": "Plataforma de ventas B2B impulsada por inteligencia artificial que convierte visitantes anónimos del sitio web en clientes potenciales calificados y realiza prospección en frío de manera autónoma.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Actúa como un representante de ventas autónomo que identifica y califica leads, personaliza el alcance a clientes potenciales y programa reuniones de ventas, optimizando el proceso de generación de leads y aumentando la eficiencia del equipo de ventas.",
+        "tags": "#IA #AutomatizaciónDeVentas #GeneraciónDeLeads #VentasB2B",
+        "logo_filename": "id_326_redcar",
+        "what_is": "Redcar es una plataforma de ventas B2B impulsada por inteligencia artificial que automatiza la generación de leads y la prospección en frío, actuando como un representante de ventas autónomo para empresas que buscan optimizar sus procesos de ventas.\n\n",
+        "purpose": "Su propósito principal es identificar y calificar clientes potenciales, personalizar el alcance a estos leads y programar reuniones de ventas, mejorando la eficiencia y efectividad de los equipos de ventas B2B.",
+        "use_cases": "Conversión de Visitantes Anónimos: Redcar identifica visitantes anónimos del sitio web y los convierte en leads calificados, permitiendo a las empresas aprovechar el tráfico web existente para generar oportunidades de ventas.\nProspección en Frío Automatizada: La plataforma realiza prospección en frío de manera autónoma, contactando a nuevos clientes potenciales y ampliando la base de prospectos sin intervención manual.\nCalificación y Personalización de Leads: Redcar lleva a cabo una investigación profunda y calificación de cada lead, proporcionando interacciones altamente personalizadas que aumentan la probabilidad de conversión.",
+        "main_advantages": "Automatización Completa: Redcar opera de manera autónoma, reduciendo la necesidad de intervención manual en la generación y calificación de leads, lo que permite a los equipos de ventas centrarse en cerrar negocios.\nAcceso a Amplia Base de Datos: La plataforma cuenta con acceso a más de 275 millones de contactos y 70 millones de empresas, ampliando significativamente el alcance de prospección.\nIntegración Todo en Uno: Redcar combina múltiples herramientas de ventas en una sola plataforma, ofreciendo una solución cohesiva que facilita la gestión de leads y la comunicación con clientes potenciales.",
+        "long_description": "Redcar es una plataforma de ventas B2B impulsada por inteligencia artificial que automatiza la generación y calificación de leads, así como la prospección en frío. Funciona como un representante de ventas autónomo, identificando visitantes anónimos del sitio web y convirtiéndolos en clientes potenciales calificados. Además, accede a una amplia base de datos de más de 270 millones de contactos y 70 millones de empresas para ampliar el alcance de prospección. La plataforma ofrece funcionalidades como calificación profunda de leads, personalización en el compromiso con clientes potenciales y programación automatizada de reuniones, todo integrado en una solución cohesiva que optimiza el flujo de trabajo de ventas.",
+        "release_date": "Octubre 2024",
+        "developer": "Turbolayer Inc.",
+        "main_model": "Redcar está construido sobre su plataforma propietaria de agentes de IA, AgentExpress, que minimiza errores y alucinaciones, superando en precisión a modelos como GPT-4.",
+        "pricing_plans": "Grow: $999 al mes. Incluye hasta 3 usuarios, 2,000 visitantes del sitio web revelados por mes, 5,000 calificaciones de leads personalizadas por mes, 3,000 correos electrónicos personalizados por mes, y otras funcionalidades avanzadas. \n\nScale: $2,999 al mes. Incluye todo en el plan Grow, pero con hasta 9 usuarios, 6,000 visitantes del sitio web revelados por mes, 15,000 calificaciones de leads personalizadas por mes, 9,000 correos electrónicos personalizados por mes, y soporte adicional. \n\nCustom: Planes personalizados para equipos grandes con necesidades específicas. \n",
+        "license": "Propietaria",
+        "security_privacy": "Gestión de Datos: Redcar maneja datos de contacto y empresas de manera confidencial, asegurando que la información utilizada para la generación de leads y prospección se maneje de acuerdo con las regulaciones de privacidad aplicables.\nOpciones de Supervisión: Aunque opera de manera autónoma, ofrece configuraciones opcionales de aprobación para que los usuarios mantengan control sobre las interacciones realizadas por la IA.",
+        "integration": "Redcar está diseñado para integrarse sin problemas con los sistemas existentes de las empresas, facilitando la incorporación en los flujos de trabajo actuales sin necesidad de múltiples herramientas adicionales."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.redcar.io/?utm_source=superhuman&utm_medium=referral&utm_campaign=a-new-video-model-is-coming-to-instagram"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/redcar"
+        },
+        {
+          "source_url": "https://aipure.ai/es/articles/redcar-review-ai-powered-b2b-sales-platform-or-lead-gen"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/redcar/launches"
+        },
+        {
+          "source_url": "https://huntscreens.com/es/products/redcar"
+        },
+        {
+          "source_url": "https://www.saasworthy.com/product/redcar-io"
+        },
+        {
+          "source_url": "https://bestofai.com/tool/redcar"
+        }
+      ]
+    },
+    "358": {
+      "app": {
+        "id": "358",
+        "name": "Rabbit Hole",
+        "url": "https://www.findrabbithole.com/",
+        "short_description": "Comienza desde un tema y sigue aprendiendo sobre temas adyacentes para expandir tus conocimientos y satisfacer tu curiosidad con IA",
+        "category": "Educación",
+        "main_functionality": "Proporciona un lienzo infinito para mantener múltiples conversaciones con modelos de IA, permitiendo a los usuarios explorar temas en profundidad y de manera no lineal.",
+        "tags": "#Educación #AprendizajeAsistidoPorIA #LienzoInfinito #ExploraciónInteractiva",
+        "logo_filename": "id_358_rabbit_hole",
+        "what_is": "Rabbit Hole es una aplicación educativa impulsada por inteligencia artificial que ofrece a los usuarios la capacidad de explorar una amplia gama de temas, como ciencia, tecnología, inteligencia artificial, noticias, historia y arte. Utiliza un lienzo infinito donde cada nodo representa una conversación separada con modelos de IA, facilitando una experiencia de aprendizaje interactiva y personalizada.",
+        "purpose": "Su propósito principal es facilitar el aprendizaje profundo y la exploración de temas de interés de manera no lineal, permitiendo a los usuarios mantener múltiples conversaciones con diferentes modelos de IA en un solo espacio interactivo. \n",
+        "use_cases": "Estudiantes que desean profundizar en temas académicos específicos.\nProfesionales que buscan mantenerse actualizados en su campo de especialización.\nIndividuos curiosos que desean explorar diversos temas de manera interactiva.",
+        "main_advantages": "Permite conversaciones largas y exploratorias con modelos de IA sin pérdida de contexto.\nFacilita el pensamiento espacial y la organización de ideas en un lienzo visual.\nOfrece la posibilidad de cambiar entre diferentes modelos de IA según las necesidades del usuario.\nNo requiere suscripciones mensuales; se adquiere con un pago único.",
+        "long_description": "Rabbit Hole es una aplicación diseñada para transformar las interacciones con la inteligencia artificial mediante un lienzo infinito donde cada nodo representa una conversación separada. A diferencia de los chats lineales tradicionales, esta plataforma permite mantener múltiples conversaciones con diferentes modelos de IA simultáneamente, conectándolas y explorándolas en profundidad. Los usuarios pueden cambiar entre modelos de IA como ChatGPT, Claude, Perplexity, Gemini y Grok, utilizando sus propias claves API, lo que garantiza que los datos permanezcan privados y almacenados localmente en su dispositivo. La aplicación es ideal para desarrolladores, estudiantes, investigadores y cualquier persona interesada en explorar temas de manera profunda y organizada.",
+        "release_date": "Diciembre 2024",
+        "developer": "Lokus, LLC",
+        "main_model": "No disponible",
+        "pricing_plans": "Pago único de $49 por una licencia de por vida.",
+        "license": "Propietaria",
+        "security_privacy": "Los datos se almacenan localmente en el dispositivo del usuario, y la aplicación utiliza las claves API proporcionadas por el usuario, lo que garantiza la privacidad de los datos.",
+        "integration": "Permite la integración con modelos de IA como ChatGPT, Claude, Perplexity, Gemini y Grok mediante el uso de claves API proporcionadas por el usuario."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.findrabbithole.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=researchers-build-4d-world-generator"
+        },
+        {
+          "source_url": "https://aitools.neilpatel.com/ai_tools/rabbitholes/"
+        },
+        {
+          "source_url": "https://devpost.com/software/rabbit-hole-jwz9bm"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/rabbit-hole/launches"
+        },
+        {
+          "source_url": "https://www.findrabbithole.com/privacy-policy"
+        },
+        {
+          "source_url": "https://www.eyko.io/eyko-blog/rabbit-holes-versus-generative-artificial-intelligence"
+        }
+      ]
+    },
+    "402": {
+      "app": {
+        "id": "402",
+        "name": "Recensia",
+        "url": "https://www.recensia.io/",
+        "short_description": "Obtén un resumen de las reseñas de los usuarios en la App Store en segundos, lo que te ayudará a obtener información, realizar un seguimiento de las tendencias y mejorar el rendimiento de tu aplicación.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Proporciona resúmenes y análisis de las reseñas de usuarios de aplicaciones móviles, identificando tendencias, problemas comunes y oportunidades de mejora para optimizar el rendimiento de las aplicaciones.",
+        "tags": "#AnálisisDeOpiniones #InteligenciaArtificial #AppStore #GooglePlay #OptimizaciónDeAplicaciones",
+        "logo_filename": "id_402_recensia",
+        "what_is": "Recensia es una herramienta que utiliza inteligencia artificial para analizar y resumir las opiniones y reseñas de usuarios de aplicaciones móviles provenientes de plataformas como App Store y Google Play.",
+        "purpose": "La aplicación está diseñada para ayudar a desarrolladores, equipos de producto y especialistas en marketing a comprender las necesidades, inquietudes y expectativas de los usuarios, optimizando así el rendimiento y la experiencia de sus aplicaciones.",
+        "use_cases": "Identificación de problemas recurrentes en aplicaciones móviles.\nDetección de tendencias y funcionalidades más valoradas por los usuarios.\nPriorizar actualizaciones o mejoras basadas en datos concretos.\nGenerar reportes claros para compartir con stakeholders o equipos internos.",
+        "main_advantages": "Automatización: Ahorra tiempo al procesar grandes volúmenes de comentarios de forma rápida y precisa.\nAnálisis Profundo: Identifica patrones y categorías dentro de las opiniones de los usuarios.\nFácil de Usar: Proporciona resultados claros y fáciles de interpretar sin necesidad de conocimientos técnicos avanzados.\nEstrategia Basada en Datos: Ayuda a priorizar acciones para mejorar las aplicaciones según las opiniones de los usuarios.",
+        "long_description": "Recensia es una herramienta en línea que utiliza inteligencia artificial para analizar y resumir las reseñas de usuarios de aplicaciones móviles en las plataformas App Store y Google Play. Permite a desarrolladores y equipos de producto obtener información valiosa sobre las opiniones de los usuarios, identificar tendencias, problemas comunes y oportunidades de mejora, facilitando la optimización y el rendimiento de sus aplicaciones.",
+        "release_date": "Diciembre 2024",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "Package        Requests        Price\n\nStart        10        0.95 $\n\nBasic        75        4.75 $\n\nOptimal        200        9.75 $",
+        "license": "No especificado",
+        "security_privacy": "Recensia recopila información personal de los usuarios, incluyendo datos de contacto y detalles de uso de la aplicación, con el propósito de mejorar sus servicios y proporcionar una experiencia personalizada. La empresa se compromete a proteger esta información, implementando medidas de seguridad adecuadas y no compartiéndola con terceros sin el consentimiento del usuario, excepto cuando sea necesario para cumplir con obligaciones legales o mejorar la funcionalidad del servicio. Para obtener detalles específicos sobre cómo se manejan los datos personales, se recomienda revisar la política de privacidad completa en su sitio web.",
+        "integration": "No especificado"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.recensia.io/?utm_source=superhuman&utm_medium=referral&utm_campaign=jailbreaking-ai-models"
+        },
+        {
+          "source_url": "https://bots.babble-ai.com/recensia"
+        },
+        {
+          "source_url": "https://steemhunt.com/author/@markym/recensia-ai-summary-of-user-reviews-from-app-store-and-google-play"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/recensia/launches"
+        },
+        {
+          "source_url": "https://www.recensia.io/pricing"
+        },
+        {
+          "source_url": "https://www.recensia.io/privacy-policy"
+        }
+      ]
+    },
+    "409": {
+      "app": {
+        "id": "409",
+        "name": "Recut",
+        "url": "https://www.mridul.tech/tools/ai/recut",
+        "short_description": "Aplicación que automatiza la eliminación de silencios en videos y podcasts, facilitando la edición y optimizando el flujo de trabajo de creadores de contenido.",
+        "category": "Edición de video",
+        "main_functionality": "Detecta y elimina automáticamente las partes silenciosas en archivos de video y audio, permitiendo ajustes personalizados y exportaciones compatibles con editores profesionales.",
+        "tags": "#EdiciónVideo #InteligenciaArtificial #Automatización #Podcasts",
+        "logo_filename": "id_409_recut",
+        "what_is": "Recut es una herramienta de inteligencia artificial diseñada para simplificar y acelerar el proceso de edición de videos y podcasts, eliminando automáticamente los segmentos de silencio en los archivos.",
+        "purpose": "Su principal propósito es ayudar a creadores de contenido, podcasters y editores de video a optimizar su tiempo al eliminar silencios no deseados de sus grabaciones, dejando solo las partes relevantes del material.",
+        "use_cases": "Edición rápida de entrevistas y grabaciones largas eliminando pausas y silencios.\nOptimización de podcasts para mantener la atención de los oyentes.\nCreación de videos más dinámicos y fluidos eliminando tiempos muertos.\nExportación de archivos editados para trabajarlos en software profesional como Adobe Premiere o Final Cut Pro.",
+        "main_advantages": "Ahorro significativo de tiempo en la edición manual de silencios.\nInterfaz fácil de usar, adecuada tanto para principiantes como para profesionales.\nExportación compatible con formatos y herramientas de edición populares.\nPermite ajustes personalizados para un control más preciso sobre el contenido final.",
+        "long_description": "Recut es una aplicación diseñada para agilizar el proceso de edición de videos y podcasts mediante la eliminación automática de silencios. Permite a los creadores de contenido importar múltiples archivos de audio y video, detectar pausas silenciosas y ajustarlas según las preferencias del usuario. La herramienta ofrece una vista previa instantánea de los cambios y facilita la exportación de los proyectos editados a editores profesionales como Adobe Premiere, DaVinci Resolve, Final Cut Pro y ScreenFlow, manteniendo la sincronización perfecta entre múltiples pistas y formatos.",
+        "release_date": "Marzo 2022",
+        "developer": "Recut es desarrollado por Daniel Ceddia. (Tiny Wins LLC)",
+        "main_model": "No disponible",
+        "pricing_plans": "Pago único: $129 USD por una licencia perpetua.\nSuscripción anual: $79 USD por año.\nSuscripción mensual: $15 USD por mes. Además, proporciona una versión de prueba gratuita con todas las funciones desbloqueadas y hasta cinco exportaciones.\n",
+        "license": "Propietaria",
+        "security_privacy": "Recut, desarrollado por Tiny Wins LLC, recopila información personal (como nombre, correo y datos del dispositivo) para validar licencias, analizar fallos y mejorar el software. Se utiliza Sentry para informes de errores y Posthog para análisis de uso, con opción de exclusión voluntaria en la app.\n\nLa información se comparte con proveedores de servicios externos y puede divulgarse por razones legales o comerciales (como fusiones). Se implementan medidas de seguridad, aunque no se garantiza protección absoluta. Los usuarios son notificados de cambios en la política a través del sitio web.",
+        "integration": "Recut es compatible con varios editores de video profesionales, permitiendo la exportación de proyectos editados para una mayor edición y refinamiento. Los editores compatibles incluyen:\n\nAdobe Premiere\nDaVinci Resolve\nFinal Cut Pro\nScreenFlow Esta compatibilidad facilita la incorporación de Recut en flujos de trabajo existentes, mejorando la eficiencia en la edición de contenido multimedia."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/recut"
+        },
+        {
+          "source_url": "https://getrecut.com/?ref=aitools"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/recut"
+        },
+        {
+          "source_url": "https://aitools.neilpatel.com/ai_tools/recut-remove-silence-from-your-videos-automatically/"
+        },
+        {
+          "source_url": "https://www.atomicgains.com/recut"
+        },
+        {
+          "source_url": "https://www.futuretools.io/tools/recut"
+        },
+        {
+          "source_url": "https://aitoolpicker.com/products/recut"
+        },
+        {
+          "source_url": "https://www.mridul.tech/tools/ai/recut"
+        },
+        {
+          "source_url": "https://reviews.getrecut.com/"
+        },
+        {
+          "source_url": "https://getrecut.com/privacy-policy/"
+        }
+      ]
+    },
+    "425": {
+      "app": {
+        "id": "425",
+        "name": "Rask",
+        "url": "https://www.rask.ai/",
+        "short_description": "Herramienta impulsada por inteligencia artificial que permite la localización y el doblaje de videos en más de 130 idiomas, facilitando la expansión global de contenido multimedia.",
+        "category": "Audio",
+        "main_functionality": "Traducción y doblaje automatizado de videos, incluyendo características como clonación de voz, sincronización labial y detección de múltiples hablantes.",
+        "tags": "#VideoLocalization #AIDubbing #VoiceCloning #LipSync #MultilingualContent",
+        "logo_filename": "id_425_rask",
+        "what_is": "Rask AI es una plataforma que utiliza inteligencia artificial para traducir y doblar contenido de video y audio, permitiendo a creadores, educadores y empresas adaptar su contenido a una audiencia global.",
+        "purpose": "Facilita la localización de videos al traducir y doblar automáticamente el contenido en múltiples idiomas, mejorando el alcance y la accesibilidad del material multimedia.",
+        "use_cases": "Educación: Traducción de cursos en línea para estudiantes de diferentes regiones.\nMarketing: Adaptación de campañas publicitarias para mercados internacionales.\nEntretenimiento: Doblaje de películas y series para audiencias multilingües.",
+        "main_advantages": "Automatiza el proceso de traducción y doblaje, ahorrando tiempo y costos.\nMantiene la calidad y naturalidad de las voces mediante la clonación de voz.\nSoporta más de 130 idiomas, ampliando significativamente el alcance del contenido.",
+        "long_description": "Rask AI es una solución integral para la localización de videos que emplea inteligencia artificial para traducir y doblar contenido multimedia en más de 130 idiomas. Ofrece funcionalidades avanzadas como clonación de voz, que permite mantener la voz original del hablante en diferentes idiomas; sincronización labial, asegurando que el audio traducido coincida perfectamente con los movimientos labiales; y detección de múltiples hablantes, identificando y gestionando eficazmente videos con varios interlocutores. Además, Rask AI proporciona una API robusta para integrar sus capacidades en flujos de trabajo existentes, facilitando la automatización del proceso de localización a gran escala",
+        "release_date": "Abril 2023",
+        "developer": "Brask Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "Prueba gratuita disponible.\nPlanes de suscripción desde $49 al mes. \n",
+        "license": "Propietaria",
+        "security_privacy": "No disponible",
+        "integration": "Ofrece una API para integración con plataformas existentes, facilitando la automatización de procesos de localización."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/rask"
+        },
+        {
+          "source_url": "https://app.rask.ai/auth"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/ai-video-localization-dubbing-tool/launches"
+        },
+        {
+          "source_url": "https://es.rask.ai/customers"
+        },
+        {
+          "source_url": "https://es.rask.ai/pricing"
+        },
+        {
+          "source_url": "https://www.toolpilot.ai/products/rask-ai-1?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://tooldirectory.ai/tools/rask-ai-video-localization"
+        }
+      ]
+    },
+    "492": {
+      "app": {
+        "id": "492",
+        "name": "REimagineHome",
+        "url": "https://www.reimaginehome.ai/",
+        "short_description": "Aplicación de diseño de interiores impulsada por inteligencia artificial que permite a los usuarios transformar y visualizar sus espacios con conceptos personalizados de manera rápida y sencilla.",
+        "category": "Generación de diseño",
+        "main_functionality": "Generación de ideas de diseño de interiores personalizadas mediante IA, permitiendo la visualización de espacios rediseñados, escenificación virtual y paisajismo.",
+        "tags": "#GeneraciónDeImágenes #DiseñoDeInteriores #IA",
+        "logo_filename": "id_492_reimagine",
+        "what_is": "REimagineHome es una plataforma de diseño de interiores impulsada por inteligencia artificial que permite a los usuarios generar conceptos de diseño personalizados y visualizaciones fotorrealistas para rediseñar sus hogares.",
+        "purpose": "Sirve para transformar espacios interiores y exteriores mediante la generación de ideas de diseño personalizadas, facilitando la puesta en escena virtual, el rediseño de habitaciones amuebladas, el paisajismo y la renderización de estructuras exteriores. \n",
+        "use_cases": "Marketing Inmobiliario: Agentes inmobiliarios pueden utilizar REimagineHome para crear puestas en escena virtuales de propiedades vacías, aumentando su atractivo para posibles compradores. \n\nDiseño de Interiores: Diseñadores pueden generar y presentar rápidamente múltiples conceptos de diseño a los clientes, agilizando el proceso creativo. \n\nPlanificación de Renovaciones: Propietarios pueden explorar diversas opciones de rediseño para sus espacios sin necesidad de consultas costosas o maquetas manuales. ",
+        "main_advantages": "Generación Rápida: Produce ideas de diseño y visualizaciones en segundos, eliminando la necesidad de procesos manuales prolongados. \n\nRentabilidad: Ofrece una alternativa económica a los servicios tradicionales de diseño y puesta en escena. \n\nPersonalización: Permite adaptar los diseños a las preferencias y necesidades específicas de cada usuario. \n\nAccesibilidad: Interfaz intuitiva que no requiere experiencia técnica, facilitando su uso por parte de diversos profesionales y propietarios. ",
+        "long_description": "REimagineHome es una plataforma de diseño de interiores impulsada por inteligencia artificial que permite a los usuarios transformar y visualizar sus espacios con conceptos personalizados de manera rápida y sencilla. Ofrece servicios como puesta en escena virtual, rediseño de habitaciones amuebladas, paisajismo y renderizado de estructuras exteriores. La herramienta genera visualizaciones fotorrealistas en segundos, facilitando la creación de ambientes únicos y adaptados a las preferencias individuales.",
+        "release_date": "No disponible",
+        "developer": "Styldod, Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "Starter Pack: $8 USD al mes por 30 créditos, ideal para aproximadamente 5 fotos de anuncios.\n\nAgents: $17 USD al mes por 200 créditos, adecuado para alrededor de 30 fotos de anuncios.\n\nProducers: $29 USD al mes por 500 créditos, pensado para aproximadamente 80 fotos de anuncios.\n\nBusiness: $59 USD al mes por 1,200 créditos, ideal para alrededor de 200 fotos de anuncios.",
+        "license": "No disponible",
+        "security_privacy": "REimagineHome se compromete a proteger la privacidad de sus usuarios, aunque no se especifican detalles sobre las políticas de seguridad y manejo de datos en la información disponible.",
+        "integration": "REimagineHome ofrece una API que permite integrar sus capacidades de diseño de interiores impulsadas por IA en otras aplicaciones o sitios web, facilitando su uso en diversos entornos profesionales."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/reimaginehome"
+        },
+        {
+          "source_url": "https://www.reimaginehome.ai/?ref=aitoolsdirectory"
+        },
+        {
+          "source_url": "https://vivevirtual.es/inteligencia-artificial/diseno-interior-y-arquitectura-ia/reimagine-home-redisena-tu-espacio-con-creatividad-impulsada-por-ia/"
+        },
+        {
+          "source_url": "https://lasmejoresia.com/herramienta/reimagine-home/"
+        },
+        {
+          "source_url": "https://aimojo.io/es/tools/reimaginehome-ai/"
+        },
+        {
+          "source_url": "https://todointeligenciaartificial.com/ai/reimagine-home/"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/reimagine-home/features?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://www.directorioia.com/herramientas-ia/diseno-y-arte/diseno-de-interiores-y-habitaciones-con-ia/reimagine-home/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://ahy.ai/es/tool/reimagine-home/"
+        },
+        {
+          "source_url": "https://www.baveling.com/post/reimagine-home-ai"
+        }
+      ]
+    },
+    "544": {
+      "app": {
+        "id": "544",
+        "name": "Reachy",
+        "url": "https://www.reachy.ai/",
+        "short_description": "Un agente de divulgación que amplía continuamente su red y adquiere nuevos clientes.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Automatiza la búsqueda de contactos clave, el envío de solicitudes de conexión y la personalización de mensajes en LinkedIn, optimizando el proceso de generación de leads y networking.",
+        "tags": "#IA #Automatización #LinkedIn #GeneraciónDeLeads",
+        "logo_filename": "id_544_reachy",
+        "what_is": "Reachy es una herramienta impulsada por inteligencia artificial diseñada para automatizar y optimizar las actividades de prospección y generación de leads en LinkedIn. Facilita la expansión de redes profesionales al automatizar solicitudes de conexión y mensajes personalizados, permitiendo a los usuarios conectar con clientes potenciales, socios y talentos de manera eficiente.",
+        "purpose": "La aplicación está orientada a profesionales, equipos de ventas y agencias de generación de leads que buscan mejorar su alcance en LinkedIn. Automatiza el proceso de identificación de prospectos, envío de solicitudes de conexión y seguimiento, permitiendo a los usuarios centrarse en construir relaciones significativas y cerrar acuerdos comerciales.",
+        "use_cases": "Agencias de Generación de Leads: Automatizan la prospección en LinkedIn para identificar y conectar con clientes potenciales de manera eficiente.\nEquipos de Ventas: Expanden su red de contactos y mejoran la tasa de respuesta mediante mensajes personalizados y seguimiento automatizado.\nReclutadores: Identifican y se conectan con candidatos potenciales, optimizando el proceso de contratación.",
+        "main_advantages": "Automatización Segura: Opera localmente en el escritorio del usuario, reduciendo riesgos de restricciones en LinkedIn y garantizando la privacidad de los datos. \n\nPersonalización de Mensajes: Utiliza inteligencia artificial para crear mensajes adaptados a cada prospecto, aumentando las tasas de respuesta. \n\nGestión de Múltiples Cuentas: Permite integrar varias cuentas de LinkedIn en una sola campaña, facilitando la gestión de múltiples perfiles. \n\nIdentificación Inteligente de Prospectos: Detecta contactos potenciales basándose en actividades específicas en LinkedIn, como participación en eventos o interacciones con publicaciones. ",
+        "long_description": "Reachy es una aplicación impulsada por inteligencia artificial diseñada para automatizar y optimizar las actividades de prospección y generación de leads en LinkedIn. Permite a los usuarios ampliar su red profesional de manera eficiente, facilitando la conexión con clientes potenciales y socios comerciales. La herramienta automatiza la búsqueda de contactos clave, el envío de solicitudes de conexión y la personalización de mensajes, optimizando el proceso de generación de leads y networking.",
+        "release_date": "Enero 2025",
+        "developer": "Reachy.io",
+        "main_model": "No disponible",
+        "pricing_plans": "Reachy ofrece una versión gratuita con funcionalidades básicas y opciones de suscripción premium que proporcionan características adicionales para mejorar la prospección en LinkedIn.\n\n",
+        "license": "Propietaria",
+        "security_privacy": "Reachy opera localmente en el escritorio del usuario, lo que reduce los riesgos asociados con extensiones de navegador y garantiza la privacidad de los datos. Además, está certificado por Microsoft y notarizado por Apple, lo que refuerza su compromiso con la seguridad y la protección de la información del usuario.",
+        "integration": "Reachy se integra principalmente con LinkedIn para automatizar las actividades de prospección y generación de leads. No se dispone de información sobre integraciones con otras herramientas o plataformas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.reachy.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=ai-complicates-centuries-old-language-puzzle"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/reachy-ai"
+        },
+        {
+          "source_url": "https://huntscreens.com/en/products/reachyai"
+        },
+        {
+          "source_url": "https://www.toolpilot.ai/products/reachy?srsltid=AfmBOoqp8MNrL28j9LC56PolLFyAw0EjsHboxtn_1hOnT2iqvOmm7uF3"
+        },
+        {
+          "source_url": "https://aplicaciones.ai/en/reachy/?srsltid=AfmBOorlg_bqD7DH9sYH-piJNLETpbhCFgljAGVtv3P5WsLAbIS6LMoi"
+        },
+        {
+          "source_url": "https://www.reachy.ai/pricing"
+        },
+        {
+          "source_url": "https://aplicaciones.ai/reachy/"
+        },
+        {
+          "source_url": "https://www.softwareadvice.com/product/524452-Reachy/"
+        },
+        {
+          "source_url": "https://www.getapp.com/sales-software/a/reachy/"
+        },
+        {
+          "source_url": "https://www.reachy.ai/privacy-policy"
+        }
+      ]
+    },
+    "580": {
+      "app": {
+        "id": "580",
+        "name": "Raphael AI",
+        "url": "https://raphael.app/es",
+        "short_description": "Cree impresionantes imágenes generadas por IA en segundos, con generaciones ilimitadas y sin necesidad de iniciar sesión.\n",
+        "category": "Generación de arte",
+        "main_functionality": "Transformar descripciones de texto en imágenes de alta calidad utilizando el modelo FLUX.1-Dev, ofreciendo resultados fotorrealistas con detalles excepcionales y control sobre el estilo artístico.",
+        "tags": "#GeneraciónDeImágenes #InteligenciaArtificial #FLUX1Dev",
+        "logo_filename": "id_580_raphael_ai",
+        "what_is": "Raphael es un generador de imágenes impulsado por inteligencia artificial que transforma descripciones de texto en imágenes de alta calidad. Utiliza el modelo FLUX.1-Dev para producir resultados fotorrealistas con detalles excepcionales y control sobre el estilo artístico. No requiere registro y ofrece generaciones ilimitadas de imágenes.",
+        "purpose": "La plataforma permite a los usuarios crear imágenes personalizadas para diversos fines, como diseño gráfico, marketing, arte digital y contenido para redes sociales, facilitando la generación rápida y gratuita de imágenes de alta calidad.",
+        "use_cases": "Diseño Gráfico: Creación de elementos visuales personalizados para proyectos creativos.\n\nMarketing y Publicidad: Generación de imágenes atractivas para campañas promocionales.\n\nArte Digital: Producción de obras de arte digitales sin necesidad de habilidades avanzadas de dibujo.\n\nContenido para Redes Sociales: Elaboración de imágenes llamativas para publicaciones y anuncios en plataformas sociales.",
+        "main_advantages": "Acceso Gratuito e Ilimitado: Permite generar imágenes sin costo y sin restricciones de uso.\n\nAlta Calidad de Imagen: Produce resultados fotorrealistas con detalles precisos y control artístico.\n\nFacilidad de Uso: No requiere registro y ofrece una interfaz sencilla para generar imágenes rápidamente.\n\nPrivacidad Mejorada: No almacena las indicaciones ni las imágenes generadas en sus servidores, garantizando la privacidad del usuario.",
+        "long_description": "Raphael es un generador de imágenes impulsado por inteligencia artificial que transforma descripciones de texto en imágenes de alta calidad. Utiliza el modelo FLUX.1-Dev para producir resultados fotorrealistas con detalles excepcionales y control sobre el estilo artístico. La plataforma es completamente gratuita, no requiere registro y ofrece generaciones ilimitadas de imágenes. Además, Raphael prioriza la privacidad del usuario, ya que no almacena las indicaciones ni las imágenes generadas en sus servidores.\n\n",
+        "release_date": "Enero 2025",
+        "developer": "Raphael",
+        "main_model": "FLUX.1-Dev",
+        "pricing_plans": "Gratuito",
+        "license": "No disponible",
+        "security_privacy": "Raphael no almacena las indicaciones ni las imágenes generadas en sus servidores, garantizando la privacidad del usuario.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://raphael.app/es?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-s-potentially-life-extending-model"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/raphael"
+        },
+        {
+          "source_url": "https://raphael.app/es#feature"
+        },
+        {
+          "source_url": "https://raphael.app/es/privacy"
+        }
+      ]
+    },
+    "605": {
+      "app": {
+        "id": "605",
+        "name": "Recast",
+        "url": "https://letsrecast.ai/",
+        "short_description": "Convierte artículos en línea, blogs y ensayos en resúmenes de audio concisos y fáciles de entender, permitiendo a los usuarios mantenerse informados mientras realizan otras actividades.",
+        "category": "Texto a voz",
+        "main_functionality": "Transforma contenido escrito en explicaciones de audio en formato de conversación, facilitando el consumo de información sin necesidad de lectura directa.",
+        "tags": "#TextToSpeech #AudioSummaries #AI #Productivity",
+        "logo_filename": "id_605_recast",
+        "what_is": "Recast es una aplicación impulsada por inteligencia artificial que convierte artículos en línea, blogs y ensayos en resúmenes de audio concisos y fáciles de entender, permitiendo a los usuarios mantenerse informados mientras realizan otras actividades. \n",
+        "purpose": "Su propósito principal es facilitar el consumo de contenido escrito en formato de audio, permitiendo a los usuarios ahorrar tiempo y reducir el tiempo de pantalla al escuchar resúmenes de artículos durante sus desplazamientos, ejercicios o tareas diarias.",
+        "use_cases": "Profesionales Ocupados: Pueden escuchar resúmenes de artículos relevantes mientras se desplazan o realizan otras tareas, optimizando su tiempo.\nEstudiantes: Facilita la comprensión de materiales académicos al ofrecer resúmenes en audio, complementando sus métodos de estudio.\nEntusiastas del Fitness: Permite mantenerse informados sobre diversos temas mientras hacen ejercicio, integrando el aprendizaje en su rutina diaria.",
+        "main_advantages": "Ahorro de Tiempo: Convierte artículos largos en resúmenes de audio breves, permitiendo a los usuarios obtener la información esencial rápidamente.\nMultitarea Eficiente: Facilita el consumo de contenido mientras se realizan otras actividades, mejorando la productividad.\nAccesibilidad: Disponible como aplicación móvil y extensión de Google Chrome, ofreciendo flexibilidad en su uso. \n",
+        "long_description": "Recast es una aplicación impulsada por inteligencia artificial que transforma artículos en línea, blogs y ensayos en resúmenes de audio concisos y fáciles de entender. Esta herramienta permite a los usuarios mantenerse informados mientras realizan otras actividades, optimizando su tiempo y reduciendo la dependencia de la lectura directa. Disponible como aplicación móvil y extensión de Google Chrome, Recast facilita el consumo de contenido escrito en formato de audio, adaptándose a las necesidades de profesionales ocupados, estudiantes y cualquier persona que busque integrar el aprendizaje en su rutina diaria.",
+        "release_date": "Agosto 2023",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "Recast ofrece una suscripción anual de $99.99, que incluye una prueba gratuita de 7 días.",
+        "license": "No disponible",
+        "security_privacy": "No disponible",
+        "integration": "Recast está disponible como aplicación móvil y como extensión de Google Chrome, facilitando su integración en diferentes plataformas y dispositivos."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/recast"
+        },
+        {
+          "source_url": "https://letsrecast.ai/?via=aitoolsdirectory-com"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/recast-3"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/recast/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/ai-news-es/recast-aprende-ms-en-menos-tiempo-con-la-ayuda-de-ai-1662852"
+        },
+        {
+          "source_url": "https://forosdeia.com/directorio-ia/recast.514/"
+        },
+        {
+          "source_url": "https://iaperfecta.com/recast/?utm_source=chatgpt.com"
+        }
+      ]
+    },
+    "609": {
+      "app": {
+        "id": "609",
+        "name": "Rainbow Weather",
+        "url": "https://www.rainbow.ai/",
+        "short_description": "Notificaciones sobre cambios climáticos para sus ubicaciones precisas, impulsadas por IA.",
+        "category": "Automatización",
+        "main_functionality": "Ofrece pronósticos de lluvia minuto a minuto, alertas de precipitaciones y mapas interactivos de radar, todo potenciado por inteligencia artificial para una precisión óptima.",
+        "tags": "#Meteorología #InteligenciaArtificial #PronósticoDelTiempo #RadarMeteorológico",
+        "logo_filename": "id_609_rainbow_weather",
+        "what_is": "Rainbow Weather es una aplicación meteorológica hiperlocal que utiliza inteligencia artificial para proporcionar pronósticos precisos de lluvia y nieve, así como mapas de radar interactivos. Su objetivo es ayudar a los usuarios a planificar sus actividades diarias evitando sorpresas climáticas.",
+        "purpose": "La aplicación ofrece pronósticos minuto a minuto para ubicaciones específicas, alertando a los usuarios sobre precipitaciones inminentes, desde lloviznas hasta aguaceros intensos. Esto permite ajustar planes en tiempo real y mantenerse seco.",
+        "use_cases": "Planificación de Actividades al Aire Libre: Ya sea para correr, pasear al perro o eventos al aire libre, Rainbow Weather ayuda a evitar condiciones climáticas adversas.\n\nAlertas Personalizadas: Notifica a los usuarios sobre cambios climáticos en su ubicación precisa, permitiendo decisiones informadas.\n\nMapas Interactivos: Proporciona visualizaciones en tiempo real de las condiciones meteorológicas, facilitando la comprensión de patrones climáticos locales.",
+        "main_advantages": "Precisión Mejorada: Utiliza modelos de IA avanzados que integran datos de satélites, estaciones meteorológicas y reportes de usuarios para ofrecer pronósticos altamente precisos. \nActualizaciones en Tiempo Real: Ofrece información actualizada cada minuto, asegurando que los usuarios reciban las alertas más recientes sobre cambios climáticos.\n\nInterfaz Intuitiva: Diseñada para una fácil navegación, permite a los usuarios acceder rápidamente a la información meteorológica relevante.\n\nComparativa de Precisión: Estudios indican que Rainbow Weather supera en precisión a aplicaciones como Apple Weather y AccuWeather, ofreciendo pronósticos más confiables.",
+        "long_description": "Rainbow Weather es una aplicación meteorológica hiperlocal que utiliza inteligencia artificial para proporcionar pronósticos precisos de lluvia y nieve, así como mapas de radar interactivos. Su objetivo es ayudar a los usuarios a planificar sus actividades diarias evitando sorpresas climáticas. La aplicación ofrece pronósticos minuto a minuto para ubicaciones específicas, alertando a los usuarios sobre precipitaciones inminentes, desde lloviznas hasta aguaceros intensos. Esto permite ajustar planes en tiempo real y mantenerse seco. Además, proporciona visualizaciones en tiempo real de las condiciones meteorológicas, facilitando la comprensión de patrones climáticos locales.",
+        "release_date": "Agosto 2023",
+        "developer": "Weather Forecast Technologies Ltd",
+        "main_model": "Utiliza inteligencia artificial para procesar datos de radar, satélite y fuentes colaborativas, ofreciendo pronósticos precisos y actualizados.",
+        "pricing_plans": "No disponible",
+        "license": "Propietaria",
+        "security_privacy": "Rainbow Weather recopila información como la ubicación del usuario, intereses dentro de la aplicación y datos del dispositivo para mejorar la experiencia del usuario. La empresa se compromete a proteger la privacidad de los usuarios y cumple con las normativas aplicables.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.rainbow.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=putting-openai-o1-to-the-test"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/rainbow-ai"
+        },
+        {
+          "source_url": "https://www.futuretools.io/tools/rainbow-ai"
+        },
+        {
+          "source_url": "https://hackernoon.com/rainbow-weather-a-deep-ai-driven-tech-startup-aims-to-take-on-the-tech-giants-with-only-%2415m"
+        }
+      ]
+    },
+    "610": {
+      "app": {
+        "id": "610",
+        "name": "Quist",
+        "url": "https://quist.ai/",
+        "short_description": "Un asistente de investigación impulsado por IA que ofrece informes personalizados que se adaptan a las necesidades únicas de su negocio.",
+        "category": "Automatización",
+        "main_functionality": "Automatiza la investigación documental, generando informes personalizados y proporcionando actualizaciones en tiempo real para facilitar la toma de decisiones informadas.",
+        "tags": "#Investigación #InteligenciaArtificial #Automatización #AnálisisDeDatos",
+        "logo_filename": "id_610_quist_ai",
+        "what_is": "Quist AI es un asistente de investigación impulsado por inteligencia artificial diseñado para liberar a investigadores y analistas de tareas repetitivas, permitiéndoles enfocarse en el descubrimiento, la innovación y el pensamiento estratégico.",
+        "purpose": "Su propósito principal es automatizar la investigación documental, generando informes personalizados, verificando datos y facilitando la investigación multilingüe. Además, ofrece funciones de colaboración en tiempo real para mejorar la productividad de investigadores y analistas en diversos campos.",
+        "use_cases": "Automatización de la Investigación: Quist AI permite a los usuarios generar informes personalizados adaptados a las necesidades específicas de su organización, liberando tiempo para el pensamiento estratégico. \n\nColaboración en Tiempo Real: Facilita la colaboración entre equipos al permitir compartir conocimientos y redactar informes de manera conjunta, mejorando la eficiencia y asegurando que todos estén alineados en los objetivos y hallazgos del proyecto. \n\nSoporte Multilingüe: Ofrece capacidades de investigación en múltiples idiomas, brindando acceso a una amplia gama de fuentes de conocimiento y asegurando precisión y amplitud en los resultados de la investigación. \n",
+        "main_advantages": "Eficiencia Mejorada: Al automatizar tareas repetitivas, Quist AI permite a los investigadores concentrarse en actividades de mayor valor, aumentando la productividad y reduciendo los costos operativos. \n\nInformes Personalizados: Genera informes adaptados a las necesidades específicas de la organización, proporcionando información relevante y procesable para la toma de decisiones. \n\nIntegración Sencilla: Se integra sin problemas con los procesos empresariales existentes, facilitando su adopción y maximizando su utilidad sin interrumpir los flujos de trabajo actuales. \n",
+        "long_description": "Quist AI es un asistente de investigación potenciado por inteligencia artificial que libera a investigadores y analistas de tareas repetitivas, permitiéndoles enfocarse en el descubrimiento, la innovación y el pensamiento estratégico. Al automatizar la recopilación y análisis de datos, Quist AI facilita la generación de informes personalizados y proporciona actualizaciones en tiempo real, optimizando la eficiencia operativa y reduciendo costos.",
+        "release_date": "Septiembre 2024",
+        "developer": "Quist AI.",
+        "main_model": "No disponible",
+        "pricing_plans": "No disponible",
+        "license": "Propietaria",
+        "security_privacy": "Según los Términos de Uso de Quist AI, actualizados el 19 de febrero de 2024, el servicio está destinado únicamente a fines informativos para la generación de informes.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://quist.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=putting-openai-o1-to-the-test"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/quist-ai"
+        },
+        {
+          "source_url": "https://topai.tools/t/quist-ai"
+        },
+        {
+          "source_url": "https://www.f6s.com/company/quist-ai"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/quist-ai"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/quist-ai/"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/quist-ai/features"
+        }
+      ]
+    },
+    "637": {
+      "app": {
+        "id": "637",
+        "name": "RankIQ",
+        "url": "https://www.rankiq.com/",
+        "short_description": "RankIQ es una herramienta de SEO impulsada por inteligencia artificial, diseñada específicamente para bloggers y empresas que gestionan blogs. Su objetivo es ayudar a los usuarios a crear contenido optimizado que pueda posicionarse en la primera página de Google, proporcionando sugerencias sobre qué incluir en las publicaciones y títulos para mejorar su rendimiento en motores de búsqueda.",
+        "category": "SEO",
+        "main_functionality": "Asistir en la creación de contenido de blog optimizado para SEO, incluyendo investigación de palabras clave de baja competencia y alto potencial de tráfico, y optimización de contenido existente para mejorar su clasificación en motores de búsqueda.",
+        "tags": "#SEO #OptimizaciónDeContenido #InvestigaciónDePalabrasClave #Blogging",
+        "logo_filename": "id_637_rankiq",
+        "what_is": "RankIQ es una herramienta de optimización de motores de búsqueda (SEO) basada en inteligencia artificial, diseñada para ayudar a blogueros, creadores de contenido y propietarios de sitios web a mejorar su posicionamiento en los motores de búsqueda. Proporciona una biblioteca de palabras clave de baja competencia y alto potencial de tráfico, así como análisis detallados para optimizar el contenido de las publicaciones.",
+        "purpose": "Su propósito principal es facilitar la creación de contenido optimizado para SEO, permitiendo a los usuarios identificar palabras clave efectivas y estructurar sus publicaciones de manera que aumenten las posibilidades de aparecer en la primera página de resultados de Google. Además, RankIQ ayuda a optimizar publicaciones antiguas para mejorar su rendimiento y tráfico.",
+        "use_cases": "Blogueros: Creación de contenido optimizado para aumentar la visibilidad y el tráfico orgánico.\n\nEmpresas con blogs: Desarrollo de estrategias de contenido que mejoren el posicionamiento en motores de búsqueda y atraigan a clientes potenciales.\n\nCreadores de contenido: Identificación de temas relevantes y palabras clave de baja competencia para generar contenido que se posicione rápidamente.",
+        "main_advantages": "Investigación de palabras clave de baja competencia: Proporciona una lista seleccionada de palabras clave con alto potencial de tráfico, facilitando la identificación de oportunidades para posicionarse rápidamente. \n\nOptimización de contenido basada en IA: Ofrece recomendaciones detalladas para mejorar el contenido, incluyendo sugerencias de palabras clave, estructura y longitud óptima de las publicaciones. \n\nFacilidad de uso: Diseñada para ser intuitiva, permite a usuarios sin experiencia en SEO crear contenido optimizado de manera eficiente. \n\nOptimización de publicaciones antiguas: Permite mejorar el rendimiento de contenido existente, aumentando el tráfico y la relevancia de publicaciones anteriores. \n\nGeneración de títulos efectivos: Analiza las palabras clave más efectivas para crear títulos que maximicen la tasa de clics (CTR). \n",
+        "long_description": "RankIQ es una herramienta de optimización para motores de búsqueda (SEO) que utiliza inteligencia artificial para ayudar a blogueros y creadores de contenido a mejorar su posicionamiento en Google. Ofrece una biblioteca de palabras clave de baja competencia y alto potencial de tráfico, seleccionadas manualmente para facilitar la creación de contenido que se posicione rápidamente. Además, proporciona informes de optimización que indican las palabras clave que deben incluirse y la longitud ideal de las publicaciones para alcanzar una clasificación más alta. La plataforma también sugiere títulos efectivos basados en análisis de palabras clave, con el objetivo de maximizar la tasa de clics (CTR). RankIQ está diseñado para ser intuitivo y accesible, permitiendo a los usuarios sin experiencia en SEO crear contenido optimizado de manera eficiente.",
+        "release_date": "Octubre 2022",
+        "developer": "Gailleon, LLC",
+        "main_model": "No disponible",
+        "pricing_plans": "No disponible",
+        "license": "No disponible",
+        "security_privacy": "La Política de Privacidad de RankIQ explica cómo recopilan, usan y protegen los datos personales y de uso de los usuarios. Estos datos se emplean para mejorar los servicios, cumpliendo con regulaciones como GDPR y CCPA, y garantizando derechos como acceso, corrección y eliminación de información. RankIQ prioriza la privacidad y ofrece soporte para consultas sobre la política.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/rankiq"
+        },
+        {
+          "source_url": "https://www.rankiq.com/?fpr=ffmedia&fp_sid=aitools"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/rankiq"
+        },
+        {
+          "source_url": "https://phillipstemann.com/rankiq-review-this-keyword-library-is-interesting/"
+        },
+        {
+          "source_url": "https://www.getapp.com/marketing-software/a/rankiq/"
+        },
+        {
+          "source_url": "https://www.g2.com/es/products/rankiq/reviews"
+        }
+      ]
+    },
+    "670": {
+      "app": {
+        "id": "670",
+        "name": "Recap",
+        "url": "https://recapall.app/",
+        "short_description": "Transforma cualquier contenido en preguntas que inviten a la reflexión elaboradas a partir de múltiples perspectivas de expertos, luego mejora la participación con mapas mentales, líneas de tiempo, diagramas de flujo y tablas.",
+        "category": "Productividad",
+        "main_functionality": "Generación de resúmenes y visualizaciones de información en tiempo real mediante inteligencia artificial.",
+        "tags": "#ProcesamientoDelLenguajeNatural #ResúmenesAutomatizados #VisualizaciónDeDatos",
+        "logo_filename": "id_670_recap",
+        "what_is": "Recap es una plataforma impulsada por inteligencia artificial que transforma información compleja en resúmenes concisos y visuales intuitivos, como mapas mentales, líneas de tiempo y tablas, mejorando la productividad y la comprensión de los usuarios.",
+        "purpose": "Recap está diseñada para ayudar a estudiantes, investigadores, profesionales y cualquier persona que necesite procesar grandes volúmenes de información, facilitando la comprensión y el análisis de contenido extenso o complejo.",
+        "use_cases": "Estudiantes y Académicos: Resumir artículos académicos y materiales de estudio en formatos visuales para una mejor retención y comprensión.\n\nProfesionales de Negocios: Analizar informes extensos y presentaciones, extrayendo puntos clave y visualizándolos para una toma de decisiones más eficiente.\n\nInvestigadores: Sintetizar hallazgos de múltiples fuentes en resúmenes claros y visuales para facilitar la comparación y el análisis.\n\nCreadores de Contenido: Transformar contenido complejo en representaciones visuales atractivas para su audiencia.",
+        "main_advantages": "Ahorro de Tiempo: Reduce significativamente el tiempo necesario para procesar y comprender información densa.\n\nMejora de la Comprensión: Las visualizaciones facilitan la asimilación de conceptos complejos y mejoran la retención de información.\n\nVersatilidad: Aplicable en diversos campos y para diferentes tipos de usuarios, desde estudiantes hasta profesionales.\n\nInteractividad: Permite interactuar con la información de manera dinámica, adaptándose a las necesidades específicas del usuario.",
+        "long_description": "Recap es una plataforma impulsada por inteligencia artificial que transforma información compleja en resúmenes concisos y visuales intuitivos, como mapas mentales, líneas de tiempo y tablas. Su objetivo es simplificar y enriquecer la experiencia de lectura y aprendizaje de los usuarios, permitiéndoles captar rápidamente los puntos clave y comprender mejor el contenido. Recap está disponible como una extensión para el navegador Chrome, facilitando el acceso directo a sus funciones mientras se navega por la web.",
+        "release_date": "Enero 2025",
+        "developer": "Zero24 LLC",
+        "main_model": "No disponible",
+        "pricing_plans": "No disponible",
+        "license": "No disponible",
+        "security_privacy": "No disponible",
+        "integration": "Recap está disponible como una extensión para el navegador Chrome, lo que permite su integración directa en la experiencia de navegación web. Actualmente, está optimizado para ofrecer resúmenes y perspectivas visuales de videos de YouTube, y se planea soporte futuro para podcasts, redes sociales y más."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://recapall.app/?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-in-line-to-get-funding-boost"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/recap-6"
+        }
+      ]
+    },
+    "675": {
+      "app": {
+        "id": "675",
+        "name": "Reap",
+        "url": "https://www.reap.video/",
+        "short_description": "usa la IA para convertir videos largos en cortos que se pueden compartir y están listos para las redes sociales, perfectamente enmarcados, subtitulados y optimizados para todas las plataformas.",
+        "category": "Edición de video",
+        "main_functionality": "Conversión de contenido de video extenso en clips breves y atractivos, listos para ser compartidos en plataformas sociales.",
+        "tags": "#GeneraciónDeVideo #EdiciónDeVideo #ContenidoParaRedesSociales #InteligenciaArtificial",
+        "logo_filename": "id_675_reap",
+        "what_is": "Reap es una herramienta impulsada por inteligencia artificial diseñada para transformar videos de formato largo en clips cortos y atractivos, optimizados para su difusión en plataformas de redes sociales como Instagram Reels, YouTube Shorts y TikTok. Utiliza tecnología avanzada para identificar automáticamente los momentos más destacados de un video, generando clips que capturan la atención de la audiencia.",
+        "purpose": "La aplicación está orientada a creadores de contenido, profesionales de marketing y empresas que buscan maximizar el impacto de sus videos en redes sociales. Reap facilita la creación de clips breves y atractivos a partir de contenido extenso, ahorrando tiempo en la edición y asegurando que el material sea adecuado para diversas plataformas sociales.",
+        "use_cases": "Creadores de contenido: Transformar videos largos, como podcasts o webinars, en clips cortos y dinámicos para aumentar la presencia en redes sociales.\n\nEmpresas y marcas: Adaptar contenido promocional extenso en fragmentos concisos que resalten productos o servicios, mejorando el alcance y la interacción con la audiencia.\n\nEducadores: Dividir lecciones o seminarios en segmentos más pequeños para facilitar el aprendizaje y la difusión en plataformas educativas o sociales.",
+        "main_advantages": "Eficiencia en la edición: La inteligencia artificial de Reap automatiza la identificación y extracción de los momentos más relevantes de un video, reduciendo significativamente el tiempo dedicado a la edición manual.\n\nOptimización para plataformas sociales: Genera clips en diferentes relaciones de aspecto y formatos, asegurando que el contenido se adapte perfectamente a las especificaciones de cada plataforma.\n\nSubtítulos precisos: Añade subtítulos precisos y atractivos automáticamente, mejorando la accesibilidad y el compromiso de la audiencia.\n\nDetección automática de oradores: La IA de Reap rastrea dinámicamente a los oradores en tiempo real, manteniéndolos perfectamente encuadrados para una presentación profesional.",
+        "long_description": "Reap es una herramienta de inteligencia artificial diseñada para transformar videos de formato largo en clips cortos y atractivos, optimizados para su difusión en plataformas de redes sociales como Instagram Reels, YouTube Shorts y TikTok. Utiliza tecnología avanzada para identificar automáticamente los momentos más destacados de un video, generando clips que capturan la atención de la audiencia. Además, Reap ofrece funciones como generación de subtítulos precisos, detección automática de oradores y ajuste dinámico de encuadres, asegurando que el contenido sea accesible y esté perfectamente adaptado a cada plataforma.",
+        "release_date": "Mayo 2024",
+        "developer": "Está impulsado por tecnologías de OpenAI y Meta.",
+        "main_model": "Reap utiliza modelos de inteligencia artificial avanzados para el análisis de contenido de video, incluyendo técnicas de procesamiento de lenguaje natural para la generación de subtítulos y algoritmos de visión por computadora para la detección de oradores y selección de segmentos relevantes.",
+        "pricing_plans": "No disponible",
+        "license": "No disponible",
+        "security_privacy": "La política de privacidad de Reap, actualizada el 27 de marzo de 2024, detalla cómo se recopila, utiliza y protege la información personal de los usuarios en su sitio web y servicios asociados. Reap valora la privacidad de los usuarios y se compromete a salvaguardarla siguiendo esta política. La información se recopila de manera automática y directa, y los usuarios tienen la opción de no proporcionar datos personales, aunque esto puede limitar el acceso a ciertas funciones del sitio. Además, Reap no solicita información personal de niños menores de 13 años, reconociendo la importancia de proteger su privacidad.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.reap.video/?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-drops-o3-mini"
+        },
+        {
+          "source_url": "https://skillcurb.com/ai_app_locator/reap/"
+        },
+        {
+          "source_url": "https://creati.ai/ai-tools/reap-beta/"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/reap-beta"
+        },
+        {
+          "source_url": "https://genai.works/applications/reapvideo"
+        }
+      ]
+    },
+    "714": {
+      "app": {
+        "id": "714",
+        "name": "Recall",
+        "url": "https://www.getrecall.ai/",
+        "short_description": "Resuma cualquier contenido en línea y guárdelo en su base de conocimientos, donde se organiza automáticamente.",
+        "category": "Productividad",
+        "main_functionality": "Permite resumir, chatear y almacenar contenido en una base de conocimiento autoorganizada, facilitando la gestión y recuperación eficiente de información.​",
+        "tags": "#GestiónDeConocimiento #AsistenteIA #ResúmenesAutomatizados",
+        "logo_filename": "id_714_recall",
+        "what_is": "Recall es una plataforma de inteligencia artificial diseñada para ayudar a los usuarios a resumir, organizar y revisar información de diversas fuentes en línea, creando una base de conocimiento personal que mejora con el tiempo.",
+        "purpose": "Facilita la gestión eficiente del conocimiento personal al transformar contenido disperso en resúmenes concisos y organizados, permitiendo a los usuarios acceder rápidamente a la información relevante y mejorar la retención a largo plazo mediante técnicas como la repetición espaciada.",
+        "use_cases": "Ideal para estudiantes que necesitan resumir y organizar material de estudio, profesionales que gestionan grandes volúmenes de información y cualquier persona interesada en construir una base de conocimiento personal eficiente.",
+        "main_advantages": "horra tiempo al proporcionar resúmenes instantáneos, mejora la retención de información mediante técnicas de aprendizaje respaldadas científicamente y organiza automáticamente el contenido en una estructura lógica y accesible.",
+        "long_description": "Recall es una herramienta de inteligencia artificial que transforma contenido disperso, como videos de YouTube, artículos, podcasts y documentos PDF, en una base de conocimiento autoorganizada y en constante evolución. Ofrece resúmenes instantáneos, permite interactuar con el contenido mediante chat y refuerza el aprendizaje utilizando técnicas como la repetición espaciada y el recuerdo activo. Además, su función de navegación aumentada resalta conexiones relevantes en tiempo real mientras el usuario navega por la web, facilitando el descubrimiento activo de información.",
+        "release_date": "2022",
+        "developer": "Recall",
+        "main_model": "No especificado.",
+        "pricing_plans": "Ofrece un plan gratuito con funcionalidades básicas y un plan premium (\"Recall Plus\") por $7 al mes que incluye resúmenes y chats ilimitados, navegación aumentada y otras características avanzadas.",
+        "license": "Propietario",
+        "security_privacy": "Recall prioriza la privacidad del usuario almacenando la base de conocimiento de forma segura en la nube y garantizando que la navegación aumentada se realice localmente en el dispositivo del usuario.",
+        "integration": "Ofrece extensiones para navegadores como Chrome y Firefox, así como aplicaciones móviles en beta para iOS y Android, permitiendo una experiencia multiplataforma y accesible.​"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.getrecall.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=why-big-tech-is-flocking-to-openai"
+        },
+        {
+          "source_url": "https://pitchbook.com/profiles/company/529839-91"
+        },
+        {
+          "source_url": "https://toolfinder.co/tools/recall-ai"
+        },
+        {
+          "source_url": "https://www.ycombinator.com/companies/recall-ai"
+        }
+      ]
+    },
+    "776": {
+      "app": {
+        "id": "776",
+        "name": "Readdy",
+        "url": "https://readdy.ai/",
+        "short_description": "Crea los sitios web de tus sueños hablando con la IA, sin necesidad de arrastrar y soltar.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Conversión de descripciones en lenguaje natural en diseños de sitios web y aplicaciones, generando código front-end listo para producción y prototipos interactivos, facilitando la creación rápida de productos digitales.",
+        "tags": "#GeneraciónDeInterfaces #DiseñoAsistidoPorIA #ExportaciónAFigma #CódigoListoParaProducción #DiseñoConversacional",
+        "logo_filename": "id_776_readdy",
+        "what_is": "Readdy es una herramienta de inteligencia artificial que permite a los usuarios crear sitios web y aplicaciones mediante descripciones en lenguaje natural. Al interpretar las indicaciones del usuario, genera diseños profesionales y código front-end listo para producción, eliminando la necesidad de habilidades técnicas en diseño o programación.​\n",
+        "purpose": "Facilita la creación rápida de productos digitales, permitiendo a emprendedores, desarrolladores y equipos de producto transformar ideas en interfaces funcionales y estéticamente atractivas sin requerir experiencia previa en diseño o desarrollo web.",
+        "use_cases": "Emprendedores que desean prototipar rápidamente una idea de producto.\n\nDesarrolladores que buscan acelerar la fase de diseño de interfaces.\n\nEquipos de producto que necesitan generar múltiples versiones de diseño para pruebas A/B.\n\nAgencias que requieren entregar diseños personalizados a clientes en plazos reducidos.​",
+        "main_advantages": "Transformación de descripciones en lenguaje natural en diseños profesionales.\n\nGeneración de código front-end listo para producción, alineado con los diseños creados.\n\nExportación de diseños a archivos de Figma para una mayor personalización.\n\nInterfaz intuitiva que permite iterar y refinar diseños mediante conversaciones.\n\nReducción significativa del tiempo y recursos necesarios para desarrollar interfaces digitales.​",
+        "long_description": "Readdy es una plataforma de diseño asistido por inteligencia artificial que permite a los usuarios crear sitios web y aplicaciones describiendo sus ideas en lenguaje natural. La herramienta interpreta estas descripciones y genera diseños profesionales, código front-end listo para producción y prototipos interactivos. Además, ofrece la posibilidad de exportar los diseños a archivos de Figma, facilitando su personalización y colaboración. Con una interfaz conversacional, Readdy simplifica el proceso de diseño y desarrollo, haciendo accesible la creación de productos digitales a personas sin experiencia técnica.​\n",
+        "release_date": "Abril 2025​",
+        "developer": "Readdy Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "Free: $0/mes. Incluye 200 créditos y permite hasta 2 proyectos.\n\nStarter: $20/mes. Incluye 5,000 créditos, hasta 10 proyectos, dominio personalizado, eliminación del logo de Readdy y exportación a Figma.\n\nPro: $40/mes. Incluye 11,000 créditos, proyectos ilimitados, y funciones adicionales como guardado de datos de formularios y localización impulsada por IA (próximamente).",
+        "license": "El software es de propiedad de Readdy Inc. y no es de código abierto.",
+        "security_privacy": "No disponible",
+        "integration": "Permite exportar diseños a archivos de Figma y generar código front-end listo para producción, facilitando su integración en flujos de trabajo de desarrollo existentes."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://readdy.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=llama-4-is-here"
+        },
+        {
+          "source_url": "https://bestaiagents.ai/agent/readdy"
+        },
+        {
+          "source_url": "https://medium.com/%40readdy-ai/readdy-the-ai-revolution-in-digital-product-design-6bb90183c7b6"
+        },
+        {
+          "source_url": "https://www.producthunt.com/posts/readdy"
+        }
+      ]
+    },
+    "810": {
+      "app": {
+        "id": "810",
+        "name": "Reef",
+        "url": "https://app.reef.lat/home/",
+        "short_description": "Analice tendencias, cree visualizaciones y explique sus hallazgos a través de conversaciones de audio y textos interactivos.",
+        "category": "Productividad",
+        "main_functionality": "Análisis automatizado de hojas de cálculo, generación de gráficos y narraciones en texto y audio para facilitar la comprensión de datos.",
+        "tags": "#AnálisisDeDatos #Visualización #NarraciónIA #Automatización #Productividad​",
+        "logo_filename": "id_810_reef",
+        "what_is": "Reef es una plataforma de inteligencia artificial que permite a los usuarios analizar datos complejos, generar visualizaciones y obtener narraciones explicativas en texto y audio, facilitando la comprensión y comunicación de insights.",
+        "purpose": "Facilita el análisis de datos provenientes de hojas de cálculo, transformándolos en gráficos interactivos y narraciones comprensibles, lo que permite a los usuarios identificar tendencias y tomar decisiones informadas.",
+        "use_cases": "Análisis de métricas empresariales, evaluación de campañas de marketing, investigación académica, generación de informes para presentaciones y simplificación de datos complejos para audiencias no técnicas.",
+        "main_advantages": "Automatización del análisis de datos, generación de visualizaciones interactivas, narraciones en texto y audio que explican los insights, y una interfaz intuitiva que no requiere conocimientos técnicos avanzados.​",
+        "long_description": "Reef es una plataforma de inteligencia artificial diseñada para simplificar el análisis de datos y la comunicación de insights. Los usuarios pueden importar hojas de cálculo en formatos como Excel, CSV y JSON, y la plataforma automáticamente analiza los datos, genera gráficos interactivos y proporciona narraciones en texto y audio que explican las tendencias y hallazgos clave. Además, Reef ofrece una función de tablero interactivo donde los usuarios pueden organizar gráficos, notas y pensamientos, facilitando la colaboración y la presentación de resultados. La plataforma está orientada a usuarios que buscan una herramienta intuitiva para transformar datos complejos en información comprensible y accionable.",
+        "release_date": "2024",
+        "developer": "Blankspace",
+        "main_model": "No disponible",
+        "pricing_plans": "Plan Gratuito: Acceso limitado a funcionalidades básicas.\n\nPlanes de Pago: Opciones escalables según las necesidades del usuario, con precios personalizados.",
+        "license": "Propietaria",
+        "security_privacy": "No disponible",
+        "integration": "Soporte para importar datos en formatos Excel, CSV y JSON.​"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://app.reef.lat/home/?utm_source=superhuman&utm_medium=referral&utm_campaign=why-frontier-firms-are-thriving"
+        },
+        {
+          "source_url": "https://crozdesk.com/software/reef"
+        },
+        {
+          "source_url": "https://www.reef2reef.com/threads/ai-blade-setup.990016/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/reef"
+        },
+        {
+          "source_url": "https://slashdot.org/software/comparison/Anly.ai-vs-Reef.lat/"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/compare/Reef.lat-vs-Starseed-AI/"
+        },
+        {
+          "source_url": "https://crozdesk.com/software/reef"
+        }
+      ]
+    },
+    "867": {
+      "app": {
+        "id": "867",
+        "name": "RecordAi",
+        "url": "https://www.recordai.app/",
+        "short_description": "Recibe recordatorios de todo lo importante usando el asistente de WhatsApp y organízate de la manera más fácil y rápida.",
+        "category": "Productividad",
+        "main_functionality": "Gestión de recordatorios y eventos a través de interacciones en lenguaje natural mediante WhatsApp.",
+        "tags": "#AsistenteVirtual #Recordatorios #WhatsApp #Productividad #OrganizaciónPersonal​",
+        "logo_filename": "id_867_recordaiapp",
+        "what_is": "RecordAi es un asistente virtual que opera dentro de WhatsApp, permitiendo a los usuarios establecer recordatorios y eventos mediante mensajes de texto o notas de voz, sin necesidad de descargar aplicaciones adicionales.",
+        "purpose": "Facilita la organización personal al permitir la creación de recordatorios y eventos de manera rápida y natural, utilizando la plataforma de mensajería WhatsApp.",
+        "use_cases": "Establecer recordatorios para tareas diarias o eventos importantes.\n\nOrganizar reuniones o citas mediante comandos de voz o texto.\n\nIntegrar eventos directamente en Google Calendar desde WhatsApp.",
+        "main_advantages": "Interacción sencilla y natural a través de WhatsApp.\n\nNo requiere instalación de aplicaciones adicionales.\n\nPermite el uso de notas de voz para establecer recordatorios.\n\nIntegración con Google Calendar para una mejor gestión de eventos.",
+        "long_description": "RecordAi es una herramienta de productividad que opera como un asistente virtual dentro de WhatsApp. Permite a los usuarios establecer recordatorios y eventos mediante mensajes de texto o notas de voz, interpretando comandos en lenguaje natural para configurar alertas y notificaciones en momentos específicos. Además, ofrece integración con Google Calendar, facilitando la gestión de eventos directamente desde la plataforma de mensajería. Esta solución elimina la necesidad de aplicaciones adicionales, aprovechando la familiaridad y accesibilidad de WhatsApp para mejorar la organización personal.",
+        "release_date": "Marzo 2025",
+        "developer": "No disponible",
+        "main_model": "Utiliza procesamiento de lenguaje natural para interpretar y gestionar comandos de los usuarios.",
+        "pricing_plans": "No disponible",
+        "license": "Propietaria",
+        "security_privacy": "No disponible",
+        "integration": "Integración con Google Calendar para la creación y gestión de eventos directamente desde WhatsApp."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.recordai.app/es?utm_source=superhuman&utm_medium=referral&utm_campaign=gemini-2-5-has-arrived"
+        },
+        {
+          "source_url": "https://www.producthunt.com/posts/recordai"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/recordai"
+        }
+      ]
+    },
+    "937": {
+      "app": {
+        "id": "937",
+        "name": "RapidScan",
+        "url": "https://rapidscan.ai/",
+        "short_description": "Solución de procesamiento de documentos impulsada por inteligencia artificial que automatiza la extracción y organización de datos de facturas y documentos financieros.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Extracción automatizada de datos mediante tecnología OCR y organización estructurada de información financiera.",
+        "tags": "#OCR #AutomatizaciónDocumental #IA #ProcesamientoDeFacturas #IntegraciónWhatsApp #IntegraciónEmail",
+        "logo_filename": "id_937_rapidscan",
+        "what_is": "RapidScan.AI es una plataforma que utiliza inteligencia artificial y tecnología OCR para automatizar el procesamiento de documentos financieros, como facturas y órdenes de compra.",
+        "purpose": "Facilita la extracción precisa de datos clave de documentos, reduciendo la entrada manual y mejorando la eficiencia en la gestión financiera.",
+        "use_cases": "Procesamiento automatizado de facturas recibidas por correo electrónico o WhatsApp.\n\nExtracción de datos de órdenes de compra y recibos para su integración en sistemas contables.\n\nOrganización y almacenamiento estructurado de documentos financieros para su fácil acceso y análisis.",
+        "main_advantages": "Reducción significativa del tiempo y errores asociados a la entrada manual de datos.\n\nIntegración con plataformas comunes como WhatsApp y correo electrónico para la recepción de documentos.\n\nInterfaz intuitiva que permite a los usuarios revisar y gestionar documentos procesados con facilidad.",
+        "long_description": "RapidScan.AI es una solución diseñada para automatizar el procesamiento de documentos financieros mediante el uso de inteligencia artificial y tecnología OCR. Permite a las empresas recibir documentos a través de canales como WhatsApp o correo electrónico, extraer automáticamente datos clave como números de factura, fechas, montos y detalles del proveedor, y organizar esta información en un portal centralizado. La plataforma busca mejorar la eficiencia operativa, reducir errores y facilitar la gestión de documentos financieros.",
+        "release_date": "No disponible",
+        "developer": "RapidScan.AI",
+        "main_model": "Utiliza tecnología OCR avanzada y algoritmos de inteligencia artificial para la extracción y procesamiento de datos.",
+        "pricing_plans": "Ofrece una versión gratuita con funcionalidades básicas; los detalles sobre planes premium no están especificados.",
+        "license": "Propietaria",
+        "security_privacy": "RapidScan.AI implementa medidas de seguridad estándar de la industria, incluyendo cifrado de datos y controles de acceso, para proteger la información del usuario.",
+        "integration": "Compatible con plataformas de comunicación como WhatsApp y servicios de correo electrónico para la recepción de documentos; se menciona una futura integración con sistemas ERP."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://rapidscan.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=meta-explores-super-sensing-glasses"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/rapidscan-ai"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/rapidscan-ai"
+        },
+        {
+          "source_url": "https://www.rapiscan-ase.com/products/software/insight-operator-assist-tools"
+        }
+      ]
+    },
+    "1005": {
+      "app": {
+        "id": "1005",
+        "name": "ReelUp",
+        "url": "https://reelup.io/",
+        "short_description": "Crea videos interactivos que se pueden comprar para impulsar las ventas con IA.",
+        "category": "Redes sociales",
+        "main_functionality": "Permitir a las marcas integrar videos comprables en sus sitios web, importando contenido de plataformas como TikTok e Instagram, y facilitando la compra directa desde el video.",
+        "tags": "#VideoComercio #VideosComprables #MarketingDigital #IntegraciónShopify #OptimizaciónIA",
+        "logo_filename": "id_1005_reelup",
+        "what_is": "ReelUp es una plataforma de video comercio que permite a las marcas transformar videos de redes sociales en experiencias de compra interactivas directamente en sus sitios web.",
+        "purpose": "Su propósito es aumentar las tasas de conversión y el compromiso del cliente al integrar videos comprables que permiten a los usuarios comprar productos directamente desde el contenido visual.",
+        "use_cases": "Marcas de comercio electrónico que desean mejorar la experiencia de compra en línea mediante contenido interactivo.\n\nEmpresas que buscan reutilizar contenido de redes sociales para impulsar ventas en sus plataformas propias.\n\nNegocios que quieren reducir la tasa de abandono del carrito al ofrecer una experiencia de compra más fluida.",
+        "main_advantages": "Integración sencilla con Shopify y otras plataformas de comercio electrónico.\n\nImportación directa de videos desde TikTok e Instagram.\n\nOptimización de videos mediante inteligencia artificial para una carga rápida sin sacrificar calidad.\n\nAnálisis detallado del rendimiento de los videos, incluyendo vistas, clics y conversiones.\n\nCompatibilidad con dispositivos móviles y diseño adaptable.",
+        "long_description": "ReelUp es una solución de video comercio que permite a las marcas integrar videos comprables en sus sitios web, mejorando la experiencia de compra y aumentando las tasas de conversión. La plataforma ofrece herramientas para importar videos desde redes sociales como TikTok e Instagram, etiquetar productos dentro de los videos y permitir compras directas desde el contenido visual. Además, ReelUp utiliza inteligencia artificial para optimizar y comprimir videos, garantizando una carga rápida sin sacrificar calidad. La plataforma también proporciona análisis detallados del rendimiento de los videos, ayudando a las marcas a comprender y mejorar su estrategia de contenido visual.",
+        "release_date": "2025",
+        "developer": "ReelUp Ltd.",
+        "main_model": "Utiliza inteligencia artificial para la optimización y compresión de videos, así como para el análisis del rendimiento del contenido.",
+        "pricing_plans": "Free Forever: Gratuito; incluye 500 impresiones de video, máximo de 4 reels y soporte básico.\n\nPremium: $29.99/mes; incluye 15,000 impresiones de video, todas las características del plan gratuito, máximo de 50 reels y soporte premium.\n\nNuke: $129.99/mes; incluye 100,000 impresiones de video, todas las características del plan Premium, reels ilimitados, análisis detallado y soporte premium.\n\nElite: $399.99/mes; incluye 500,000 impresiones de video, todas las características del plan Nuke, reels ilimitados y soporte dedicado.",
+        "license": "Propietaria",
+        "security_privacy": "ReelUp no recopila datos personales sensibles y cumple con las normativas de privacidad estándar.",
+        "integration": "Integración nativa con Shopify, soporte para múltiples monedas y aplicaciones de geolocalización, compatibilidad con plataformas de marketing por correo electrónico como Klaviyo, y posibilidad de importar videos desde TikTok e Instagram."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Ruby’s Organics",
+          "description": "Logró una tasa de conversión del 16.88% al utilizar ReelUp para transformar visitantes en compradores con cada clic.",
+          "url": "https://reelup.io/?utm_source=chatgpt.com"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "CabinZero",
+          "description": "Experimentó un aumento del 4.80% en el compromiso, generando más de $79,000 en un período de 3 meses.",
+          "url": "https://reelup.io/?utm_source=chatgpt.com"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Dot&Key",
+          "description": "Alcanzó un aumento del 13.3% en su tasa de conversión con ReelUp, generando alrededor de $60,000 en ingresos.",
+          "url": "https://reelup.io/?utm_source=chatgpt.com"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "OutCast",
+          "description": "Generó ingresos de $133,000 utilizando videos comprables de ReelUp en su página de producto y página de inicio.",
+          "url": "https://reelup.io/?utm_source=chatgpt.com"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://reelup.io/?utm_source=superhuman&utm_medium=referral&utm_campaign=the-ai-workforce-has-arrived"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/reelup/?ref=embed"
+        },
+        {
+          "source_url": "https://acquireconvert.com/app/reelup-shoppable-videos-reels/"
+        },
+        {
+          "source_url": "https://apps.shopify.com/reelup/reviews?page=8"
+        }
+      ]
+    },
+    "1108": {
+      "app": {
+        "id": "1108",
+        "name": "Recraft",
+        "url": "https://www.recraft.ai/",
+        "short_description": "Herramienta premium de generación y edición de imágenes asistida por inteligencia artificial, diseñada para diseñadores, ilustradores y equipos de marketing. Permite generar, vectorizar, editar, escalar y transformar visuales con control estilístico preciso.",
+        "category": "Edición de imágenes",
+        "main_functionality": "Creación y edición de imágenes, ilustraciones y gráficos vectoriales a partir de texto o estilos visuales, con herramientas como conversión a vector, eliminación de fondos, mockups, upscaling, borrado inteligente y control de estilo.",
+        "tags": "#AIImageGenerator #AIVectorGenerator #MockupGenerator #ImageUpscaler #BackgroundRemover #AIEraser #DesignIA #VectorArt",
+        "logo_filename": "id_1108_recraft",
+        "what_is": "Plataforma avanzada de diseño asistido por IA para profesionales creativos, que permite generar visuales desde texto o estilos predefinidos, con edición avanzada y colaboración en tiempo real.",
+        "purpose": "Simplificar y potenciar el proceso creativo: generar imágenes, ilustraciones, iconos, mockups y gráficos vectoriales de alta calidad sin necesidad de experiencia técnica compleja.",
+        "use_cases": "Creación de logotipos, íconos, anuncios, imágenes de stock, personajes, ilustraciones y diseños 3D.\n\nGeneración de conjuntos de imágenes con estilo uniforme y patrones repetibles (seamless patterns).\n\n\nEdición avanzada: borrado de fondo, inpainting, outpainting, eliminación de objetos, upscaling, vectorización.",
+        "main_advantages": "Alta calidad de generación (texto largo, posicionamiento preciso, fidelidad anatómica, estética superior).\n\nControl detallado sobre estilo, posición de texto y elementos gráficos.\n\nCompatibilidad con vectores escalables y flujos de trabajo profesionales.\n\nInterfaz intuitiva, colaboración en tiempo real (canvas infinito) y comunidad activa.",
+        "long_description": "Recraft es una potente plataforma de diseño gráfico asistido por IA que destaca por su modelo Recraft V3 basado en \"design language\", capaz de generar imágenes complejas con precisión tipográfica, control posicional, consistencia estética y fidelidad anatómica. Ofrece un conjunto completo de herramientas —generador de imágenes, vectorizador, mockup, remover, eraser, upscaling, inpainting/outpainting, edición detallada— todo accesible en una interfaz colaborativa en tiempo real, con exportación en múltiples formatos (SVG, PNG, JPG, Lottie) e integración vía API.",
+        "release_date": "2023",
+        "developer": "Recraft, Inc., startup con sede en Londres, fundada en 2022 por Anna Veronika Dorogush.",
+        "main_model": "Recraft V3 — modelo avanzado de texto‑a‑imagen con diseño posicional, control de estilo y renderizado de texto; supera benchmarks públicos.",
+        "pricing_plans": "Ofrece plan gratuito (sin tarjeta de crédito, con funcionalidades básicas) y planes pagos (más rápidos, privados). No se especificaron nombres exactos ni precios.",
+        "license": "No disponible",
+        "security_privacy": "Mencionan políticas en el sitio web; no se encontraron detalles específicos sobre protección de datos o privacidad.",
+        "integration": "Integración vía API permitiendo uso en flujos empresariales; exportación en diversos formatos (SVG, PNG, JPG, Lottie); colaboración en tiempo real en interfaz canvas; no se mencionan plugins específicos para software externo."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.recraft.ai/"
+        },
+        {
+          "source_url": "https://deepgram.com/ai-apps/recraft"
+        },
+        {
+          "source_url": "https://education.apple.com/story/250013650"
+        }
+      ]
+    },
+    "1161": {
+      "app": {
+        "id": "1161",
+        "name": "Reeroll",
+        "url": "https://reeroll.com/",
+        "short_description": "Crea videos chateando con IA.",
+        "category": "Generación de video",
+        "main_functionality": "Selecciona una plantilla, agrega tus recursos o enlaces, y a través de una conversación podrás personalizar el video para redes sociales, e-commerce, lanzamientos de productos, animaciones UI, logotipos y más.\n",
+        "tags": "#GeneraciónDeVideo #VideoIA #PlantillasAI #ChatVideo #MarketingDeVideo #AnimaciónUI",
+        "logo_filename": "id_1161_reeroll",
+        "what_is": "Reeroll es un editor de video basado en IA diseñado para producir contenido profesional rápidamente mediante un sistema de chat y plantillas predefinidas.",
+        "purpose": "Ideal para startups, equipos de marketing, creadores de contenido y agencias que buscan generar videos para redes sociales, promociones o demostraciones sin ser expertos en edición.",
+        "use_cases": "Videos promocionales para redes como TikTok, X, Instagram.\n\nDemos de productos o animaciones de interfaces (UI) para aplicaciones fintech, lanzamientos o webs.\n\nPromociones de moda, e-commerce o campañas publicitarias.",
+        "main_advantages": "Interfaz simplificada de chat, sin necesidad de editar en timeline.\n\nAltamente rápido: videos listos en minutos.\n\nPlantillas profesionales personalizables con branding propio.\n\nIdeal para producción ágil y coherente con branding.",
+        "long_description": "Reeroll es un editor de video conversacional impulsado por IA de Concept Studio LLC. Simplifica la creación de contenido audiovisual mediante plantillas adaptables y un sistema de chat fácil de usar. Es ideal para generar videos para marketing, demostraciones de producto y redes sociales sin experiencia técnica.",
+        "release_date": "2025",
+        "developer": "Concept Studio LLC (ubicación en Nueva York, NY).",
+        "main_model": "No disponible",
+        "pricing_plans": "No disponible",
+        "license": "SaaS propietario, no open-source.",
+        "security_privacy": "Implementa cifrado en almacenamiento y tránsito; recoge datos de uso, prompts y videos generados. Permite controlar privacidad de contenido (privado solo en planes de pago).",
+        "integration": "Exportación directa a plataformas sociales (TikTok, X, Discord), enlaces o carga personal de activos; sin APIs documentadas públicamente."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.producthunt.com/products/reeroll"
+        },
+        {
+          "source_url": "https://chatgate.ai/post/reeroll/"
+        },
+        {
+          "source_url": "https://reeroll.com/privacy-policy"
+        },
+        {
+          "source_url": "https://www.reddit.com/r/CompetitiveTFT/comments/uq8yz3/introducing_rerolltools/"
+        }
+      ]
+    },
+    "1168": {
+      "app": {
+        "id": "1168",
+        "name": "ReadyBase",
+        "url": "https://readybase.ai/",
+        "short_description": "Convierta su mensaje en PDF en segundos con IA.",
+        "category": "Productividad",
+        "main_functionality": "Conversión de contenido sin estructura—texto, imágenes, datos, reseñas—en PDFs organizados y adaptados al estilo del usuario, mediante una interfaz tipo chat.",
+        "tags": "#GeneraciónDeDocumentos #PDFAutomatizado #ChatAFormato #Productividad",
+        "logo_filename": "id_1168_readybase",
+        "what_is": "Una herramienta digital que permite transformar rápidamente entradas sin formatear en PDFs profesionales, listos para compartir, mediante un enfoque AI‑native tipo “chat‑to‑PDF”.",
+        "purpose": "Agiliza la creación de documentos ejecutivos, reportes, presentaciones y memorias sin necesidad de aplicar formatos manuales o plantillas fijas, generando resultados estéticamente consistentes y con branding propio.",
+        "use_cases": "Memorias para comité de inversión a partir de borradores de investigación.\n\nActualizaciones para clientes o ejecutivos, como presentaciones de avance o “one‑pagers”.\n\nTranscripción de datos técnicos (como logs en la nube) en documentos accesibles.\n\nManuales de ventas regionales o guías internas con formato refinado.",
+        "main_advantages": "Generación rápida de documentos listos para presentar (en segundos).\n\nFlexibilidad creativa sin plantillas rígidas.\n\nAplicación automática del branding: tipografía, logo, colores, espaciado.\n\nIdeal para profesionales que buscan eficiencia en la creación de entregables.",
+        "long_description": "ReadyBase es una herramienta AI‑native pensada para transformar inteligencia cruda (como notas, imágenes, investigación o salidas generadas por IA) en documentos de alta calidad en cuestión de segundos. Emplea un formato conversacional (\"chat‑to‑PDF\"), organiza contenido automáticamente (secciones, gráficos, imágenes) y aplica la identidad visual del usuario. Produce resultados refinados que evitan tareas manuales de formateo, mejorando la productividad y entrega de entregables profesionales.",
+        "release_date": "2025",
+        "developer": "ReadyBase (con sede en Nueva York) fue fundada en 2025.",
+        "main_model": "No disponible",
+        "pricing_plans": "Basic (gratuito): 2 generaciones de documentos/mes + exportación PDF estándar.\n\nPro ($12/mes): 100 generaciones, acceso anticipado a nuevas funciones, opciones de exportación avanzadas y soporte prioritario.\n\nEnterprise (a medida): incluye personalización de marca, acceso a API, soporte dedicado, analítica avanzada e integraciones personalizadas.",
+        "license": "Comercial y propietario. La distribución es tipo SaaS; no hay menciones de open source.",
+        "security_privacy": "No disponible",
+        "integration": "La versión Enterprise parece contemplar acceso a API e integraciones personalizadas; sin embargo, no se listan plataformas específicas con las que se conecte ReadyBase."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://readybase.ai/"
+        },
+        {
+          "source_url": "https://completeaitraining.com/ai-tools/readybase"
+        },
+        {
+          "source_url": "https://www.saasworthy.com/product/readybase-ai"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/product/ReadyBase/"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/readybase"
+        }
+      ]
+    },
+    "1279": {
+      "app": {
+        "id": "1279",
+        "name": "Rehumanize",
+        "url": "https://rehumanize.io/es/?",
+        "short_description": "Transformar el texto de IA en escritura humana.",
+        "category": "Redacción",
+        "main_functionality": "Reescritura de contenido para “humanizar” textos producidos por modelos de IA, ajustando estilo (tono/longitud/objetivo) para que el resultado suene más natural.",
+        "tags": "#Redacción #Reescritura #Parafraseo #EdiciónDeTexto #Productividad",
+        "logo_filename": "id_1279_rehumanize",
+        "what_is": "Es una aplicación web enfocada en transformar texto generado por IA en escritura más natural, ofreciendo controles de configuración (p. ej., longitud, tono, propósito del resultado e idioma objetivo) para ajustar el estilo del texto final.",
+        "purpose": "Sirve para editar y reformular borradores generados con IA, mejorando su naturalidad y adecuándolos a un tono o propósito específico (p. ej., redacción general), antes de publicarlos o reutilizarlos.",
+        "use_cases": "Reescribir textos de IA para que suenen más naturales en blogs y artículos.\n\nAjustar tono (formal/neutral, etc.) y longitud de contenidos.\n\nAdaptar textos para marketing, correos, descripciones o publicaciones (según el propósito elegido).\n\nRefinar borradores para mejorar claridad y fluidez antes de compartirlos.",
+        "main_advantages": "Permite reformular rápidamente texto generado por IA con controles de estilo (longitud/tono/propósito/idioma).\n\nPuede ayudar a estandarizar la voz editorial y mejorar fluidez sin reescribir desde cero.\n\nEs un servicio web (sin instalación) y contempla inicio de sesión con redes sociales (mencionado en la política).",
+        "long_description": "Rehumanize es una herramienta web de reescritura que transforma texto generado por IA en una redacción más natural. En la interfaz se observan configuraciones para ajustar el resultado, como longitud, tono, propósito del texto e idioma objetivo. Además, su política de privacidad indica que puede recopilar datos proporcionados por el usuario (nombre, correo, datos de contacto, mensajes o adjuntos) y datos de registro de cuenta (incluyendo organización/empresa, dirección y teléfono), y que también obtiene información técnica estándar mediante registros (IP, tipo de navegador, marcas de tiempo, páginas de referencia/salida y clics). Utiliza cookies/almacenamiento local para preferencias y comportamiento de navegación, y puede permitir inicio de sesión con cuentas de terceros (p. ej., Google o Facebook), accediendo a datos de perfil como nombre, email y foto de perfil.",
+        "release_date": "2025",
+        "developer": "Rehumanize AI.",
+        "main_model": "No disponible",
+        "pricing_plans": "No disponible",
+        "license": "Propietaria (SaaS).",
+        "security_privacy": "La política indica: (1) base de consentimiento por uso del sitio; (2) recopilación de datos aportados por el usuario y datos de registro; (3) usos: operar/mejorar el sitio, personalización, analítica, desarrollo de funciones, comunicaciones (incl. marketing) y prevención de fraude/abuso; (4) compartición limitada, incluyendo transacciones corporativas (fusión/adquisición/venta/financiación); (5) login social con terceros (Google/Facebook), con acceso a datos de perfil y aviso de que no controlan el tratamiento de esos terceros; (6) retención: solo el tiempo necesario o por requerimiento legal; luego elimina, anonimiza o almacena de forma segura (p. ej., backups); (7) medidas de seguridad “razonables” técnicas y organizativas, sin garantía absoluta; (8) logs técnicos estándar no vinculados directamente a PII; (9) cookies/almacenamiento local y tecnologías de seguimiento; (10) no recopila intencionalmente datos de menores de 18; (11) derechos CCPA/GDPR con respuesta en 30 días; (12) contacto para acceso/actualización/eliminación vía support@rehumanize.com\n. “Last updated: January 26, 2026”.",
+        "integration": "Inicio de sesión con cuentas de terceros (mencionadas: Google, Facebook) y uso de cookies/tecnologías de seguimiento; no se detallan otras integraciones (API, plugins) en el material proporcionado."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://rehumanize.io/es/?"
+        },
+        {
+          "source_url": "https://rehumanize.io/privacy-policy/"
+        },
+        {
+          "source_url": "https://rehumanize.io/blog/"
+        }
+      ]
+    },
+    "1286": {
+      "app": {
+        "id": "1286",
+        "name": "RED",
+        "url": "https://www.red-ai.app/",
+        "short_description": "Asistente inteligente y flotante de IA que combina análisis de pantalla, automatización y transcripción en tiempo real.",
+        "category": "Automatización",
+        "main_functionality": "Automatización de tareas y flujos de trabajo con un asistente flotante integrado al flujo del usuario, incluyendo chat, workflows agentic, funciones de captura/transcripción y capacidades MCP (servidores preconfigurados o personalizados) con límites y memoria/historial de pantalla según plan.",
+        "tags": "#Automatizacion #Productividad #AgentesIA #Workflows #Chat #MCP #Transcripcion #CapturaDePantalla #AsistenteFlotante",
+        "logo_filename": "id_1286_redmayus",
+        "what_is": "RED es una plataforma de automatización empresarial impulsada por IA (“AI-powered business automation platform”) con servicios relacionados. En el sitio se presenta como un “intelligent floating assistant” que se integra al flujo de trabajo e incluye módulos como chat, workflows, transcribe y MCP.",
+        "purpose": "Sirve para ayudar a usuarios y equipos a automatizar trabajo y operar flujos dentro de una plataforma: gestionar y ejecutar workflows, manejar información y contenido empresarial que el usuario ingresa (documentos, tareas, datos), y conectarse a servicios de terceros (integrations) para automatización.",
+        "use_cases": "Automatizar procesos y tareas de negocio mediante workflows y contenido operativo (documentos/tareas) ingresado a la plataforma.\n\nUsar chat como interfaz para accionar o coordinar flujos.\n\nUtilizar captura de pantalla como parte del trabajo (según plan).\n\nTranscribir audio con límites mensuales (según plan Free).\n\nConectar servicios de terceros a través de integraciones (Integration Data).\n\nUsar MCP servers (preconfigurados o personalizados) para ampliar capacidades (según plan).",
+        "main_advantages": "Ofrece una capa de automatización con IA orientada a negocio y mejora continua del servicio (mantenimiento/mejoras).\n\nContempla integraciones con terceros (Integration Data) y autenticación OAuth (p. ej. Google).\n\nPolítica declara que no vende información personal.\n\nSeguridad descrita con medidas como cifrado en tránsito y en reposo, controles por roles, monitoreo, auditorías y pruebas de penetración.\n\nEn planes, escala de capacidades: límites de mensajes, memoria de pantalla e historial (según plan).",
+        "long_description": "RED es una plataforma de automatización empresarial con IA. Su política de privacidad describe que el servicio recolecta información que el usuario provee (cuenta, perfil, datos de negocio como workflows, documentos, datos de tareas y otros contenidos), comunicaciones, e información de integraciones con servicios de terceros. También recolecta datos automáticamente (uso, dispositivo, logs, cookies/tracking, métricas de rendimiento y uso de API) y puede recibir datos de terceros (OAuth como Google, socios, y fuentes públicas para verificar detalles de negocio).\nEn el sitio, RED se presenta como un asistente flotante de productividad (“Your intelligent Floating Assistant”) e incluye áreas como Chat, Workflows, Transcribe, MCP y Settings (según captura). En precios, ofrece un plan gratuito con acceso limitado a chats, acceso básico a captura de pantalla, “agentic workflows” y minutos de transcripción al mes; y planes de pago enfocados a profesionales/equipos con ampliación de límites, servidores MCP (preconfigurados o personalizados) y funciones de memoria/historial de pantalla.",
+        "release_date": "2025",
+        "developer": "RED",
+        "main_model": "No disponible",
+        "pricing_plans": "Free: “Perfect for trying RED”. Incluye: Limited access to Red chats, Basic access to screen capture, 2 Agentic workflows, 10 mins transcription/month.\n\nSuper: US$439/mes. Incluye: Everything in Free, Preconfigured MCP servers, Extended message limits, Standard screen memory.\n\nUltra (Premium): US$1,039/mes. Incluye: Everything in Super, Custom MCP servers, Maximum message limits, Full screen history.",
+        "license": "Propietaria.",
+        "security_privacy": "Recolección de datos de cuenta/perfil, pagos (procesados por Stripe, sin almacenar números completos), datos de negocio (workflows, documentos, tareas y contenido), comunicaciones e integraciones; y datos automáticos (uso, dispositivo, logs, cookies, performance y API stats). También contempla información de terceros (OAuth como Google, socios y fuentes públicas). Declara que no vende información personal. Comparte información con proveedores (incluye Stripe y mención de infraestructura/hosting y almacenamiento; ejemplo: MongoDB Atlas), analítica y herramientas de comunicación; además por transferencias de negocio, requisitos legales y con consentimiento.\nSeguridad: cifrado en tránsito y en reposo, controles de acceso por rol, monitoreo continuo, auditorías y pruebas de penetración. Retención: mientras la cuenta esté activa y después por razones legales/auditoría; backups por periodo limitado; datos anonimizados retenidos indefinidamente para analítica. Derechos: acceso/portabilidad, corrección, eliminación, restricción, opt-out, retirar consentimiento; contacto support@redai.com\n y privacy@redai.com\n.",
+        "integration": "Stripe como procesador de pagos.\n\nOAuth (Google u otros proveedores OAuth) para inicio de sesión.\n\nConexión con servicios de terceros (Integration Data), sin lista específica en las fuentes compartidas.\n\nMención de infraestructura/almacenamiento con ejemplo MongoDB Atlas (como proveedor)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.red-ai.app/"
+        },
+        {
+          "source_url": "https://www.red-ai.app/blog"
+        },
+        {
+          "source_url": "https://www.red-ai.app/privacy"
+        }
+      ]
+    },
+    "1296": {
+      "app": {
+        "id": "1296",
+        "name": "Rekam",
+        "url": "https://www.rekam.ai/",
+        "short_description": "Publica tus apps de programación de vibra, compártela y véndelas.",
+        "category": "Codificación",
+        "main_functionality": "Permite convertir proyectos de “vibe coding” en herramientas publicables/comercializables y ofrece apps de IA listas (TTS, STT, clonación/diseño de voz, generador de imágenes, podcast generator, audiobooks) dentro de la plataforma.",
+        "tags": "#Codificación #VibeCoding #Marketplace #Audio #TextoAVoz #VozATexto #ClonaciónDeVoz #GeneraciónDeImágenes #Podcasting",
+        "logo_filename": "id_1296_rekam",
+        "what_is": "Es una plataforma web que combina un marketplace para publicar/compartir/vender apps creadas con “vibe coding” y un conjunto de herramientas de generación (principalmente de audio/voz) como texto a voz, voz a texto, clonación/diseño de voz y otras utilidades (imagen, podcasts, audiolibros).",
+        "purpose": "Para que creadores publiquen y distribuyan apps “vibe-coded” como productos vendibles, y para producir contenido con IA (locuciones, transcripciones, voces personalizadas, recursos para podcasts/audiolibros, etc.) desde un mismo sitio.",
+        "use_cases": "Publicar una app creada con “vibe coding” y compartirla o venderla en el marketplace.\n\nGenerar locuciones con Text to Speech (50+ voces, 9 idiomas según la página de TTS).\n\nTranscribir audio con Speech to Text con funciones como timestamps y detección de emociones/eventos de audio.\n\nCrear voces: voice cloning y voice design (generar voces desde descripciones).",
+        "main_advantages": "Enfoque “creator-friendly” para producción de audio (TTS, clonación, multilenguaje).\n\nPlanes con créditos y uso comercial incluido (según la página de precios).\n\nHerramientas gratuitas destacadas (p. ej., TTS/STT “free” en el sitio) para probar sin fricción.\n\nMensaje de privacidad en herramientas gratuitas (p. ej., STT indica que los archivos se procesan y se descartan).",
+        "long_description": "Plataforma que combina (1) un marketplace para “vibe coding” (publicar, compartir y vender apps) y (2) un set de herramientas de generación enfocadas en audio/voz: texto a voz (múltiples voces e idiomas), voz a texto (transcripción con timestamps y funciones como detección de emociones/eventos), clonación de voz y diseño de voz (crear voces con descripciones). Además, el sitio muestra apps adicionales en la galería como generador de imágenes, generador de podcasts y audiolibros.",
+        "release_date": "Diciembre 2025",
+        "developer": "No disponible",
+        "main_model": "Speech-to-Text: indica uso de FunASR SenseVoice en la página de STT.\n\nText-to-Speech/voz: describe “neural TTS” y compara modelos/proveedores (Kokoro, OpenAI TTS-1, ElevenLabs, etc.), pero no declara un único modelo propietario como base.",
+        "pricing_plans": "Gratis: 100 créditos gratis para explorar.\n\nStandard: USD $8.5/mes (facturado anual: $102/año). Incluye 5,000 créditos/mes, hasta 500K caracteres para voces premium/custom, clonación ilimitada, STT gratis e ilimitado, almacenamiento 72h, uso comercial, cola prioritaria.\n\nPremium: USD $19.99/mes (facturado anual: $239/año; el sitio muestra $29.99 tachado). Incluye 20,000 créditos/mes, hasta 2M caracteres, clonación ilimitada, STT gratis e ilimitado, almacenamiento 72h, uso comercial, cola prioritaria.",
+        "license": "Propietario / SaaS",
+        "security_privacy": "La política describe datos recolectados (cuenta, pagos vía procesadores, contenido subido/generado como texto, audio e imágenes, “voice data”), uso para entrega del servicio, analítica y seguridad; indica que no vende datos personales y menciona proveedores (pagos: Stripe/PayPal/Creem; analítica: Google Analytics, Vercel Analytics, Clarity, OpenPanel, Plausible; soporte: Crisp, Tawk). También menciona cifrado en tránsito y en reposo, retención (p. ej., logs 12–24 meses) y derechos de privacidad (CCPA/GDPR).",
+        "integration": "Integración con terceros principalmente para operación del servicio: Stripe, PayPal, Creem (pagos), analítica (Google Analytics, Vercel Analytics, Clarity, OpenPanel, Plausible) y soporte (Crisp, Tawk). No se describen integraciones directas tipo Slack/Notion en las páginas revisadas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.rekam.ai/"
+        },
+        {
+          "source_url": "https://www.rekam.ai/pricing"
+        },
+        {
+          "source_url": "https://www.rekam.ai/about-us"
+        },
+        {
+          "source_url": "https://www.rekam.ai/blog"
+        },
+        {
+          "source_url": "https://www.rekam.ai/privacy-policy"
+        }
+      ]
+    },
+    "1317": {
+      "app": {
+        "id": "1317",
+        "name": "Qwen",
+        "url": "https://qwen.ai/home",
+        "short_description": "Asistente de IA multimodal para chatear, buscar en la web y crear contenido (texto, imágenes y más), con modos de razonamiento y funciones orientadas a productividad y aprendizaje.",
+        "category": "Chat",
+        "main_functionality": "Chatbot basado en la serie de modelos Qwen, con capacidades de razonamiento (“Deep Thinking”), búsqueda web y comprensión multimodal (texto/imagen/audio/video), además de generación creativa (p. ej., escritura e imágenes).",
+        "tags": "#Chatbot #LLM #Multimodal #BusquedaWeb #Productividad #Codificacion #GeneracionDeImagenes",
+        "logo_filename": "id_1317_qwen",
+        "what_is": "Qwen Chat es un asistente de inteligencia artificial “para todos”, impulsado por la serie de modelos Qwen (Tongyi Qianwen) de Alibaba Cloud. Está disponible como experiencia web y app móvil.",
+        "purpose": "Para conversar y resolver tareas de conocimiento, productividad y creatividad: responder preguntas, apoyar en estudio y trabajo, razonar sobre problemas, buscar información en internet, entender contenido multimodal y generar contenido (p. ej., redacción e imágenes).",
+        "use_cases": "Investigación rápida con búsqueda web y respuestas contextualizadas.\n\nResolución de problemas complejos con modo de razonamiento (“Deep Thinking”).\n\nProductividad: ayuda tipo “office/study companion” (organización, redacción, aprendizaje).\n\nComprensión multimodal (analizar texto + imágenes + audio + video) para extraer y explicar información.\n\nGeneración creativa: escritura (artículos/ensayos) y generación de imágenes a partir de descripciones.",
+        "main_advantages": "Asistente multimodal (texto/imagen/audio/video) para tareas más allá del chat tradicional.\n\nRazonamiento avanzado (“Deep Thinking”) y enfoque en resolución de problemas.\n\nBúsqueda web integrada para encontrar recursos y apoyar respuestas.\n\nEcosistema respaldado por Alibaba Cloud y la familia Qwen, con amplia adopción empresarial reportada por terceros.",
+        "long_description": "Qwen Chat es un asistente de IA orientado a productividad, aprendizaje y creatividad. Sus capacidades incluyen modo de razonamiento (“Deep Thinking”), búsqueda web, preguntas y respuestas de conocimiento, comprensión multimodal (procesar texto, imágenes, audio y video) y funciones creativas como escritura asistida y generación de imágenes. Está disponible como app (por ejemplo, en Google Play) y se presenta como “powered by the Qwen series models”.",
+        "release_date": "Septiembre 2023",
+        "developer": "Alibaba Cloud (Alibaba).",
+        "main_model": "Serie de modelos Qwen (Tongyi Qianwen); en Qwen Chat se mencionan capacidades de razonamiento “Powered by QwQ” (para “Deep Thinking”). Detalle técnico del algoritmo/arquitectura no se especifica en las páginas de Qwen Chat y Home proporcionadas.",
+        "pricing_plans": "No se encontró, en las URLs proporcionadas (Home y Privacy Policy) ni en las fuentes abiertas consultadas para Qwen Chat, una tabla oficial de planes/precios. En la descripción pública se indica que Qwen Chat es “free to use” (gratuito).",
+        "license": "Propietaria.",
+        "security_privacy": "Existe una Privacy Policy oficial para Qwen Chat (Qwen.ai) que aplica al uso del servicio. También existe Terms of Service en el dominio del servicio de chat. (Para extracción fina —p. ej., categorías exactas de datos— conviene parsear el texto completo de la política).",
+        "integration": "En la app se describe búsqueda web y capacidades multimodales; no se encontró en las URLs proporcionadas una sección formal de “integraciones” tipo plugins/SDK para Qwen Chat. Para integraciones técnicas suele aplicarse el ecosistema Alibaba Cloud/Qwen como modelos (p. ej., repositorios y herramientas Qwen en GitHub)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://qwen.ai/home"
+        },
+        {
+          "source_url": "https://qwen.ai/qwenchat"
+        },
+        {
+          "source_url": "https://www.wsj.com/articles/alibaba-says-its-qwen-large-language-ai-models-have-90-000-enterprise-clients-5d3c9008"
+        },
+        {
+          "source_url": "https://www.alibabacloud.com/en/customers?_p_lc=1&"
+        },
+        {
+          "source_url": "https://qwen.ai/privacypolicy"
+        }
+      ]
+    },
+    "1341": {
+      "app": {
+        "id": "1341",
+        "name": "Reloop",
+        "url": "https://reloop.so/",
+        "short_description": "Crea anuncios ganadores sin sugerencias ni habilidades.",
+        "category": "Publicidad",
+        "main_functionality": "Crear anuncios UGC end-to-end desde una idea o link del producto: guion + hooks + avatar/voz + visuales/B-roll + edición y exportación, en un solo flujo.",
+        "tags": "#GeneracionDeVideo #UGC #Publicidad #Marketing #VideoAds #AvataresIA #VoiceCloning #VideoEditor #SubtitulosIA",
+        "logo_filename": "id_1341_reloop",
+        "what_is": "Plataforma de IA para generar creatividades publicitarias en video tipo UGC. Incluye generación de anuncios, creación de avatar personalizado, clonación de voz y edición automatizada dentro del mismo producto.\n\n¿Para qué sirve? (≤1024): Para producir rápidamente anuncios en video (p. ej., para TikTok/Reels/Shorts) sin contratar creadores, sin filmación y sin procesos manuales de edición, facilitando iteración y volumen de creatividades.",
+        "purpose": "Generar anuncios UGC para e-commerce pegando el link del producto.\n\nProducir demos y videos de features para SaaS en formato short-video.\n\nProbar variaciones (hooks/CTAs/avatares/captions) para testing creativo.\n\nCrear avatar y voz personalizados con una foto y una muestra de voz (según el sitio).",
+        "use_cases": "Flujo “todo en uno” (guion→assets→edición→export) sin herramientas externas.\n\nPlan gratuito para probar (200 créditos, sin tarjeta).\n\nExporta en 9:16 optimizado para TikTok/Reels/Shorts/Stories (según FAQ).\n\nIncluye editor de video y subtítulos con IA en los planes listados.",
+        "main_advantages": "Flujo “todo en uno” (guion→assets→edición→export) sin herramientas externas.\n\nPlan gratuito para probar (200 créditos, sin tarjeta).\n\nExporta en 9:16 optimizado para TikTok/Reels/Shorts/Stories (según FAQ).\n\nIncluye editor de video y subtítulos con IA en los planes listados.",
+        "long_description": "Reloop genera anuncios en video estilo UGC mediante un “AI Agent” que analiza el producto, propone hooks/guion/CTA, genera assets (avatar/voz/visuales/B-roll) y ensambla un video “publish-ready” con subtítulos, música y transiciones. Incluye editor integrado (captions, B-roll, export), librería de avatares y capacidades de avatar/voz personalizados; se orienta a crear variaciones y acelerar testing creativo.",
+        "release_date": "Febrero 2026",
+        "developer": "Reloop",
+        "main_model": "No disponible",
+        "pricing_plans": "Free: 200 créditos, sin tarjeta (mencionado como “free forever / 200 credits”).\n\nCreator: 50 €/mes, 1000 créditos, 1 seat (incluye video editor, export ilimitado, sin watermark, AI subtitles, mensajes del agent ilimitados; beta: custom avatar/voice).\n\nStudio: 100 €/mes, 2200 créditos, 5 seats (mismas inclusiones base; beta: custom avatar/voice).\n\nEnterprise: 300 €/mes, 8000 créditos, 20 seats (mismas inclusiones base; beta: custom avatar/voice).\n\nCustom plan: créditos/asientos a medida, “premium avatars/voices”, acceso temprano a nuevos modelos y soporte prioritario.",
+        "license": "Propietario / SaaS",
+        "security_privacy": "Datos que recopila: cuenta; pagos (procesados por Stripe); contenido subido (imágenes/texto/brand assets); comunicaciones; datos de uso/dispositivo/logs; “AI-related data” (inputs como voice samples y outputs).\n\nAnalítica: indica uso de Datafast como herramienta “privacy-friendly” que no usa cookies ni recopila datos personales (según la política).\n\nRetención/borrado (según Privacy/DPA): al eliminar cuenta, datos y contenido generado se borran en ~30 días; backups se purgan en ~90 días.\n\nMedidas (DPA): TLS 1.2+ en tránsito, AES-256 en reposo, control de acceso/RBAC y MFA internos; notificación de brecha (objetivo 72h).",
+        "integration": "Exportación orientada a 9:16 para TikTok, Instagram Reels, YouTube Shorts y Stories (según FAQ del sitio).\n\nNo se encontraron integraciones directas confirmadas con plataformas de ads (p. ej., Meta/TikTok Ads) en las fuentes revisadas; en Product Hunt el fundador menciona que están en conversaciones para partnerships."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://reloop.so/"
+        },
+        {
+          "source_url": "https://reloop.so/legal/terms"
+        },
+        {
+          "source_url": "https://reloop.so/pricing/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/reloop"
+        },
+        {
+          "source_url": "https://reloop.so/blog"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/compare/ReelMagic-vs-Reloop"
+        },
+        {
+          "source_url": "https://websites2know.com/reloop-review/"
+        }
+      ]
+    },
+    "1393": {
+      "app": {
+        "id": "1393",
+        "name": "Radiantly",
+        "url": "https://www.radiantly.space/",
+        "short_description": "Construir flujos de trabajo de automatización gestionados por humanos y agentes inteligentes.",
+        "category": "Automatización",
+        "main_functionality": "Auditar SOPs y diseñar un flujo optimizado IA-humano (Consult Mode), conectar herramientas del stack con integraciones OAuth, y crear agentes/automatizaciones para ejecutar tareas repetitivas manteniendo revisión y control humano.",
+        "tags": "#Automatización #AgentesIA #PlataformasSinCódigo #Workflows #SOPs #Integraciones #Productividad #OAuth",
+        "logo_filename": "id_1393_radiantlyai",
+        "what_is": "Una plataforma de productividad y automatización basada en IA para crear y desplegar agentes y flujos de trabajo. Permite conectar cuentas de terceros para que los agentes actúen en nombre del usuario, subir/procesar documentos y mantener registros de ejecución para auditar acciones.",
+        "purpose": "Para transformar procedimientos operativos “humanos” en flujos “AI-native”, reduciendo fricción técnica (integraciones nativas) y manteniendo control humano mediante un enfoque de supervisión, verificación y calidad final.",
+        "use_cases": "Auditoría de SOPs y rediseño de procesos para identificar qué automatizar y qué mantener bajo revisión humana.\n\nCreación de agentes para tareas operativas repetitivas (p. ej., manipulación de datos, ejecución de pasos lógicos) con revisión humana antes de decisiones finales.\n\nAutomatizaciones conectadas a herramientas comunes (ej. Gmail, Slack, Notion, Google Drive/Calendar) mediante OAuth y conexiones “one-click”.",
+        "main_advantages": "Enfoque consultivo: “Consult Mode” no solo ejecuta; asesora y sugiere un flujo eficiente de colaboración humano-IA.\n\nMenos fricción de integraciones: promueve conexiones nativas sin manejo manual de llaves/tokens (OAuth) y presume 900+ integraciones.\n\nSupervisión para tareas críticas: recalca que el usuario debe revisar/verificar salidas de IA y configurar agentes de forma segura.\n\nTrazabilidad: menciona logs de ejecución para auditar acciones de agentes y posibilidad de revocar accesos de terceros.\n\nPropiedad del contenido: indica que el usuario conserva derechos sobre sus datos; y que no se usa data privada para entrenar modelos fundacionales sin consentimiento explícito.",
+        "long_description": "La plataforma propone pasar de SOPs “humanos” a flujos “AI-native”. Incluye un Consult Mode que analiza el proceso y recomienda dónde la IA aporta más y dónde es necesaria supervisión humana; integraciones nativas “one-click” (OAuth) para conectar herramientas (menciona ejemplos como Gmail, Slack, Notion); y un enfoque de agentes gestionados por humanos, donde la IA realiza el trabajo pesado (datos y lógica) y el usuario orquesta, verifica y decide. También ofrece un “AI Strategy Package” (consulta + playbook + arranque) y destaca que mantiene logs de ejecución para auditoría de acciones.",
+        "release_date": "Marzo 2026",
+        "developer": "Radiantly",
+        "main_model": "No disponible",
+        "pricing_plans": "Plan gratuito disponible (sin tarjeta).\n\nMenciona “lifetime pricing” para early adopters (sin detallar niveles o precios en las páginas visibles).\n\n“AI Strategy Package” gratuito (incluye llamada de consulta, playbook y equipo inicial de agentes, según el sitio).",
+        "license": "Propietario / SaaS",
+        "security_privacy": "Indica que los usuarios pueden revocar accesos de terceros y que existen logs de ejecución para auditar acciones.\n\nDeclara medidas de seguridad “industry-standard” y retención limitada a lo necesario para los fines del servicio o cumplimiento legal.\n\nSeñala que el usuario debe revisar/verificar salidas de IA; reconoce naturaleza probabilística y posibles errores/sesgos.\n\n“Customer Content & Data Ownership”: el usuario mantiene propiedad de su contenido; la plataforma lo procesa para prestar el servicio; y declara que no usa data privada para entrenar modelos fundacionales sin consentimiento explícito.",
+        "integration": "Promueve 900+ integraciones y conexiones “one-click”.\n\nMenciona OAuth nativo para herramientas como Gmail, Slack y Notion, entre otras."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.radiantly.space/"
+        },
+        {
+          "source_url": "https://www.radiantly.space/privacy-policy"
+        },
+        {
+          "source_url": "https://www.radiantly.space/terms-of-service"
+        },
+        {
+          "source_url": "https://postyourstartup.co/startup/radiantly"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/radiantly"
+        },
+        {
+          "source_url": "https://slashdot.org/software/p/Radiantly/"
+        }
+      ]
+    },
+    "1433": {
+      "app": {
+        "id": "1433",
+        "name": "Raccoon",
+        "url": "https://raccoonai.tech/es?",
+        "short_description": "Agente de IA colaborativa para convertir tus ideas en acciones.",
+        "category": "Productividad",
+        "main_functionality": "Ejecutar tareas complejas de extremo a extremo (planear, buscar, construir, generar y publicar), con entornos de ejecución tipo “sandbox”, despliegue de aplicaciones, y conectores a servicios externos para usar contexto y automatizar acciones.",
+        "tags": "#Productividad #Automatización #AgentesIA #Presentaciones #Plataforma #Conectores #AppsWeb #AnálisisDeDatos",
+        "logo_filename": "id_1433_racoonai",
+        "what_is": "Plataforma de “AI agent” (agente de IA) operada por Flying Raccoon Private Limited que ofrece ejecución de tareas, conectores con terceros, entornos “sandbox”, despliegue de apps, workspaces de equipo, acceso por API y flujos multi-agente.",
+        "purpose": "Para transformar una instrucción en entregables listos (por ejemplo, una app desplegada a una URL, un deck de diapositivas, análisis con gráficos, documentos o assets de diseño) y automatizar procesos conectando herramientas (correo, calendario, almacenamiento, etc.) cuando el usuario lo autoriza.",
+        "use_cases": "Crear y desplegar apps web full-stack desde un solo prompt.\nDiseñar presentaciones y exportarlas (por ejemplo, a PDF/PPTX/Google Slides según funciones publicadas).\nAnalizar datos y generar insights con visualizaciones.\nGenerar diseños/imagenes/video y documentos; y automatizar flujos conectando herramientas.\nUsar conectores (p. ej., Gmail/Drive/Calendar/Notion/Outlook/Supabase, y otros) para dar contexto y ejecutar acciones bajo instrucción explícita.",
+        "main_advantages": "Enfoque “todo-en-uno”: un mismo agente para apps, presentaciones, análisis, diseño, documentos y automatización.\nConectores con control del usuario: declara acceso a datos de conectores solo cuando el usuario lo indica, almacenando tokens OAuth para mantener conexiones.\nCapacidades de despliegue: soporte para publicar apps generadas (URLs, dominios, metadatos de despliegue).\nEvolución frecuente del producto: registro público de cambios con mejoras continuas (conectores, exportaciones, canvas, integraciones).",
+        "long_description": "Raccoon AI ofrece un agente colaborativo para ejecutar tareas y producir entregables. Según su documentación legal y sitio: permite ejecución de tareas con IA, conectores de terceros (OAuth/API), entornos sandbox donde corren acciones, despliegue de aplicaciones creadas con la plataforma, workspaces de equipo y acceso por API; además mantiene logs/métricas de uso y provee funciones que evolucionan en su changelog (p. ej., exportaciones, integraciones y mejoras de publicación/análisis).",
+        "release_date": "Diciembre 2025",
+        "developer": "Flying Raccoon Private Limited (Karnataka, India).",
+        "main_model": "No disponible",
+        "pricing_plans": "Gratis: $0, 1 tarea concurrente, “ACE Fast”, despliegue a producción, límites estándar.\nPlus: $19 (precio listado) con descuento temporal mostrado; 2x límites, acceso a todos los modos, conectores, “ACE Think y ACE Max”.\nPlus 5x: $39 (listado), 5x límites, 5 tareas concurrentes, dominios personalizados, “mejores modelos y ventanas de contexto más grandes”, acceso anticipado.\nPlus 10x: $79 (listado), 10x límites, 10 tareas concurrentes, modelos SOTA y mayores ventanas de contexto, soporte prioritario/canal Slack con fundadores.\nTeams / Enterprise: planes para equipos y empresa (contacto ventas), con controles de equipo y SAML/SSO (Enterprise).",
+        "license": "Propietaria (SaaS).",
+        "security_privacy": "Datos recopilados: cuenta (nombre/email), prompts/instrucciones, archivos, comandos, logs de ejecución; y datos técnicos/analítica.\nConectores: acceso a datos de servicios conectados solo cuando el usuario lo instruye; guarda tokens OAuth/refresh para mantener conexión; datos de conectores procesados en tiempo real y no almacenados permanentemente salvo que el usuario los guarde.\nApps desplegadas: declara que no monitorea datos que visitantes envían a apps desplegadas por el usuario; el creador es responsable de privacidad de su app.\nPagos: procesados por Lemon Squeezy (merchant of record); indican no almacenar datos de tarjeta.\nUso para mejora/entrenamiento: Términos indican licencia para usar contenido en forma agregada/desidentificada para mejora y “AI training”, con opción de opt-out por correo.",
+        "integration": "Conectores mencionados/mostrados en el sitio: Gmail, Google Drive, Google Calendar, Notion, Outlook, Supabase (y más).\nIntegración/funciones recientes: Slack (conector) y biblioteca de conectores (40+ y opción de conectores custom/MCP según changelog)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://raccoonai.tech/es?"
+        },
+        {
+          "source_url": "https://raccoonai.tech/es/policies/privacy-policy"
+        },
+        {
+          "source_url": "https://raccoonai.tech/es/policies/terms-of-use"
+        },
+        {
+          "source_url": "https://raccoonai.tech/es/pricing"
+        },
+        {
+          "source_url": "https://tracxn.com/d/companies/raccoonai/__uxCFq5skfyuNH0RZy3hPmf290VDlbeJo1-YOLpJqMb8"
+        },
+        {
+          "source_url": "https://www.aimyflow.com/es/ai/raccoonai-tech"
+        }
+      ]
+    },
+    "1557": {
+      "app": {
+        "id": "1557",
+        "name": "Regression",
+        "url": "https://www.regression.gg",
+        "short_description": "Permite realizar pruebas automatizadas en juegos y experiencias digitales mediante agentes de IA.",
+        "category": "Juegos",
+        "main_functionality": "Pruebas automatizadas para juegos y experiencias digitales.",
+        "tags": "#IA#Educación#Gaming#AgentesIA",
+        "logo_filename": "id_1557_regression",
+        "what_is": "Regression es una herramienta que permite realizar pruebas automatizadas en juegos y entornos interactivos mediante agentes de inteligencia artificial.",
+        "purpose": "Automatizar pruebas en juegos y experiencias digitales mediante agentes de IA.",
+        "use_cases": "Pruebas de juegos, QA automatizado, detección de errores, simulaciones, validación de interacciones y desarrollo de videojuegos.",
+        "main_advantages": "Facilita pruebas automatizadas; reduce trabajo manual de QA; puede acelerar ciclos de desarrollo en juegos.",
+        "long_description": "Regression es una herramienta de inteligencia artificial para pruebas automatizadas en videojuegos y experiencias digitales. Permite validar comportamientos, detectar errores y apoyar procesos de QA.",
+        "release_date": "No especificada",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Consultar precio",
+        "license": "No especificada",
+        "security_privacy": "Consultar la política de privacidad del proveedor.",
+        "integration": "Disponible mediante plataforma web del proveedor."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.regression.gg"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/regression"
+        }
+      ]
+    },
+    "1614": {
+      "app": {
+        "id": "1614",
+        "name": "Quilter",
+        "url": "https://www.quilter.ai",
+        "short_description": "Automatiza el diseño de placas PCB mediante inteligencia artificial generativa para prototipado rápido.",
+        "category": "Generación de diseño",
+        "main_functionality": "Diseño automatizado de placas PCB con inteligencia artificial generativa.",
+        "tags": "#IA #Diseño #Prototipado #Ingeniería",
+        "logo_filename": "id_1614_quilter",
+        "what_is": "Quilter es una herramienta enfocada en automatizar el diseño de placas PCB mediante inteligencia artificial, útil para prototipado y procesos de ingeniería.",
+        "purpose": "Automatizar el diseño de placas PCB para acelerar procesos de prototipado electrónico.",
+        "use_cases": "Diseño de PCB, prototipado electrónico, ingeniería, desarrollo de hardware, validación de circuitos y automatización de diseño.",
+        "main_advantages": "Acelera el diseño de placas; reduce trabajo manual; puede apoyar a ingenieros y equipos de hardware en fases de prototipado.",
+        "long_description": "Quilter es una herramienta de inteligencia artificial generativa para diseño de placas PCB. Está orientada a apoyar procesos de ingeniería y prototipado, automatizando parte del flujo de diseño electrónico.",
+        "release_date": "No especificada",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Freemium",
+        "license": "No especificada",
+        "security_privacy": "Consultar la política de privacidad del proveedor.",
+        "integration": "Disponible mediante plataforma web del proveedor."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.quilter.ai"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/quilter"
+        }
+      ]
+    },
+    "1841": {
+      "app": {
+        "id": "1841",
+        "name": "Relia",
+        "url": "https://tryrelia.com/",
+        "short_description": "Relia ayuda a auditar código, detectar problemas de seguridad y revisar lógica técnica con apoyo de IA.",
+        "category": "Codificación",
+        "main_functionality": "Auditoría de código y detección de problemas de seguridad",
+        "tags": "#Codificación #Debugging #Seguridad",
+        "logo_filename": "id_1841_relia",
+        "what_is": "Relia es una herramienta de codificación enfocada en auditar código, detectar problemas de seguridad y revisar lógica técnica. Ayuda a equipos de desarrollo a mejorar calidad y confiabilidad del software.",
+        "purpose": "Auditar código y detectar riesgos técnicos o de seguridad para mejorar calidad de software.",
+        "use_cases": "Auditoría de código; revisión de seguridad; debugging; análisis de lógica técnica.",
+        "main_advantages": "Detecta problemas técnicos; apoya seguridad; mejora revisión de código; ayuda a prevenir errores.",
+        "long_description": "Relia es una herramienta de codificación enfocada en auditar código, detectar problemas de seguridad y revisar lógica técnica. Ayuda a equipos de desarrollo a mejorar calidad, confiabilidad y seguridad del software. Su valor está en apoyar revisiones técnicas y reducir riesgos antes de desplegar cambios.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://tryrelia.com/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/relia-ym6azn"
+        }
+      ]
+    },
+    "1939": {
+      "app": {
+        "id": "1939",
+        "name": "QuiverAI",
+        "url": "https://quiver.ai/",
+        "short_description": "QuiverAI genera y anima gráficos vectoriales, facilitando creación de recursos visuales y contenido gráfico con IA.",
+        "category": "Generación de diseño",
+        "main_functionality": "Generación y animación de gráficos vectoriales",
+        "tags": "#GeneraciónDeDiseño #ArteIA #Gráficos",
+        "logo_filename": "id_1939_quiverai",
+        "what_is": "QuiverAI es una herramienta de generación visual que permite crear y animar gráficos vectoriales. Está orientada a producir recursos gráficos y contenido visual con apoyo de IA.",
+        "purpose": "Generar y animar gráficos vectoriales para crear recursos visuales y contenido gráfico con IA.",
+        "use_cases": "Gráficos vectoriales; animaciones; recursos visuales; diseño generado con IA.",
+        "main_advantages": "Genera gráficos visuales; permite animación; facilita diseño; reduce trabajo creativo manual.",
+        "long_description": "QuiverAI es una herramienta de generación visual que permite crear y animar gráficos vectoriales. Está orientada a producir recursos gráficos y contenido visual con apoyo de IA. Puede ayudar a creadores, diseñadores o equipos de marketing que necesitan generar materiales visuales de forma más rápida.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://quiver.ai/"
+        }
+      ]
+    },
+    "1949": {
+      "app": {
+        "id": "1949",
+        "name": "Reelify",
+        "url": "https://reelifyclips.com/",
+        "short_description": "Reelify permite crear clips verticales desde macOS, facilitando reutilización de video para redes sociales.",
+        "category": "Edición de video",
+        "main_functionality": "Creación de clips verticales para redes sociales",
+        "tags": "#EdiciónDeVideo #Clips #MacOS",
+        "logo_filename": "id_1949_reelify",
+        "what_is": "Reelify es una herramienta de edición de video para crear clips verticales desde macOS. Facilita reutilizar contenido y generar piezas breves para redes sociales.",
+        "purpose": "Crear clips verticales desde macOS para reutilizar contenido en redes sociales.",
+        "use_cases": "Clips verticales; contenido para redes; edición en macOS; reutilización de videos.",
+        "main_advantages": "Crea clips verticales; facilita edición en macOS; reutiliza videos; apoya contenido social.",
+        "long_description": "Reelify es una herramienta de edición de video para crear clips verticales desde macOS. Facilita reutilizar contenido y generar piezas breves para redes sociales. Puede apoyar a creadores y equipos que necesitan transformar videos en formatos verticales de manera rápida.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://reelifyclips.com/"
+        }
+      ]
+    },
+    "1991": {
+      "app": {
+        "id": "1991",
+        "name": "Rectify",
+        "url": "https://www.rectify.so/",
+        "short_description": "Rectify apoya tareas técnicas como depuración, análisis de errores y automatización de correcciones con IA.",
+        "category": "Codificación",
+        "main_functionality": "Depuración, análisis de errores y automatización de correcciones técnicas con IA.",
+        "tags": "debugging, agentes de IA, desarrollo, automatización técnica",
+        "logo_filename": "id_1991_rectify",
+        "what_is": "Rectify es una herramienta técnica orientada a depuración y automatización de correcciones. Ayuda a analizar errores, proponer soluciones y acelerar tareas relacionadas con desarrollo o mantenimiento de software.",
+        "purpose": "Apoyar tareas de depuración, análisis de errores y correcciones técnicas con asistencia de IA.",
+        "use_cases": "Debugging; análisis de errores; correcciones técnicas; automatización para desarrollo.",
+        "main_advantages": "Acelera la detección de errores, apoya correcciones técnicas y mejora flujos de desarrollo.",
+        "long_description": "Rectify es una herramienta técnica orientada a depuración y automatización de correcciones. Ayuda a analizar errores, identificar posibles causas y acelerar tareas de mantenimiento o desarrollo. Puede ser útil para equipos técnicos que necesitan reducir el tiempo dedicado a debugging y mejorar la estabilidad de sus proyectos.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.rectify.so/"
+        }
+      ]
+    },
+    "1996": {
+      "app": {
+        "id": "1996",
+        "name": "RAGFlow",
+        "url": "https://github.com/infiniflow/ragflow",
+        "short_description": "RAGFlow ayuda a construir flujos de búsqueda y respuesta sobre documentos usando técnicas RAG e IA.",
+        "category": "Productividad",
+        "main_functionality": "Construcción de flujos RAG para búsqueda, análisis y respuesta sobre documentos.",
+        "tags": "RAG, documentos, investigación, búsqueda semántica",
+        "logo_filename": "id_1996_ragflow",
+        "what_is": "RAGFlow es una herramienta enfocada en flujos RAG, es decir, búsqueda y generación de respuestas sobre documentos. Puede ayudar a crear sistemas que consultan información propia y responden con base en ella.",
+        "purpose": "Construir flujos RAG para consultar documentos y generar respuestas basadas en información propia.",
+        "use_cases": "Consulta de documentos; RAG; búsqueda semántica; asistentes basados en conocimiento interno.",
+        "main_advantages": "Facilita consultar documentos propios, mejora respuestas basadas en información interna y apoya investigación documental.",
+        "long_description": "RAGFlow es una herramienta enfocada en construir flujos RAG para búsqueda y respuesta sobre documentos. Permite crear sistemas que consultan información propia y generan respuestas basadas en ese contenido. Es útil para investigación documental, bases de conocimiento internas, asistentes empresariales o proyectos donde la precisión depende de documentos específicos.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://github.com/infiniflow/ragflow"
+        }
+      ]
+    },
+    "2002": {
+      "app": {
+        "id": "2002",
+        "name": "QVeris AI",
+        "url": "https://qveris.ai/",
+        "short_description": "QVeris AI ayuda a automatizar tareas de investigación, análisis y verificación de información mediante agentes de IA.",
+        "category": "Automatización",
+        "main_functionality": "Automatización de análisis, verificación e investigación con apoyo de agentes de IA.",
+        "tags": "agentes de IA, automatización, investigación, análisis de información",
+        "logo_filename": "id_2002_qveris_ai",
+        "what_is": "QVeris AI es una herramienta basada en agentes de IA orientada a apoyar tareas de investigación, análisis y verificación de información. Puede ser útil para equipos que necesitan revisar datos, encontrar hallazgos y reducir trabajo manual en procesos de análisis.",
+        "purpose": "Ayudar a automatizar procesos de investigación y análisis mediante agentes de IA que apoyan la revisión y verificación de información.",
+        "use_cases": "Investigación asistida; análisis de información; verificación de datos; automatización de tareas con agentes de IA.",
+        "main_advantages": "Reduce trabajo manual, facilita el análisis de información y permite automatizar tareas de investigación con apoyo de IA.",
+        "long_description": "QVeris AI es una herramienta orientada a automatizar tareas de investigación, análisis y verificación de información mediante agentes de IA. Puede apoyar a usuarios o equipos que necesitan revisar datos, organizar hallazgos y acelerar procesos donde normalmente se requiere búsqueda y análisis manual. Su valor está en facilitar una revisión más eficiente de información y convertirla en insumos útiles para la toma de decisiones.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://qveris.ai/"
+        }
+      ]
+    },
+    "2007": {
+      "app": {
+        "id": "2007",
+        "name": "Recap Flow",
+        "url": "https://recapflow.com/",
+        "short_description": "Recap Flow ayuda a resumir información, organizar pendientes y convertir contenido disperso en flujos de trabajo útiles.",
+        "category": "Productividad",
+        "main_functionality": "Resumen, organización y conversión de información en flujos de trabajo útiles.",
+        "tags": "resúmenes, productividad, organización, flujos de trabajo",
+        "logo_filename": "id_2007_recap_flow",
+        "what_is": "Recap Flow es una herramienta de productividad que ayuda a resumir información, organizar contenido y convertir elementos dispersos en flujos de trabajo más claros.",
+        "purpose": "Resumir y organizar información para convertirla en flujos de trabajo, pendientes o contenido reutilizable.",
+        "use_cases": "Resúmenes; organización de información; seguimiento de pendientes; flujos de trabajo.",
+        "main_advantages": "Reduce desorden de información, facilita resúmenes y ayuda a convertir contenido en tareas accionables.",
+        "long_description": "Recap Flow es una herramienta de productividad que ayuda a resumir información, organizar contenido y convertir elementos dispersos en flujos de trabajo útiles. Puede ser útil después de reuniones, revisiones de documentos o sesiones donde se generan muchos pendientes. Su objetivo es facilitar claridad y seguimiento.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://recapflow.com/"
+        }
+      ]
+    },
+    "2018": {
+      "app": {
+        "id": "2018",
+        "name": "Ref Tools",
+        "url": "https://ref.tools/",
+        "short_description": "Ref Tools ofrece herramientas de referencia y apoyo para desarrolladores que necesitan consultar o trabajar con código.",
+        "category": "Codificación",
+        "main_functionality": "Herramientas de referencia y apoyo técnico para desarrolladores.",
+        "tags": "herramientas de desarrollo, código, referencias técnicas, programación",
+        "logo_filename": "id_2018_ref_tools",
+        "what_is": "Ref Tools es una herramienta para desarrolladores que ofrece apoyo técnico, referencias o utilidades relacionadas con programación y trabajo con código.",
+        "purpose": "Ofrecer herramientas de referencia y apoyo técnico para desarrolladores y tareas de programación.",
+        "use_cases": "Consultas técnicas; referencias de código; herramientas para developers; programación.",
+        "main_advantages": "Centraliza apoyo técnico, facilita referencias para desarrollo y agiliza tareas de programación.",
+        "long_description": "Ref Tools es una herramienta para desarrolladores que ofrece apoyo técnico, referencias o utilidades relacionadas con programación y trabajo con código. Puede ser útil para consultar información, acelerar tareas técnicas o apoyar flujos de desarrollo.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://ref.tools/"
+        }
+      ]
+    },
+    "2130": {
+      "app": {
+        "id": "2130",
+        "name": "Readless",
+        "url": "https://www.readless.app/",
+        "short_description": "Herramienta que resume varios boletines informativos en una sola síntesis organizada.",
+        "category": "Productividad",
+        "main_functionality": "Resumir múltiples boletines informativos en una síntesis centralizada.",
+        "tags": "resumen de boletines, newsletters, síntesis de contenido, gestión de información",
+        "logo_filename": "id_2130_readless",
+        "what_is": "Readless es una herramienta de productividad que concentra y resume boletines informativos.",
+        "purpose": "Disminuir la sobrecarga informativa al condensar varios boletines en un solo resumen.",
+        "use_cases": "Resumen de newsletters, revisión de novedades, seguimiento de publicaciones y consolidación de información recurrente.",
+        "main_advantages": "Concentra información dispersa, ahorra tiempo de lectura y facilita la revisión de múltiples boletines.",
+        "long_description": "Readless es una herramienta de productividad que resume varios boletines informativos en una sola síntesis. Su objetivo es reducir el tiempo dedicado a revisar newsletters por separado, concentrando los contenidos principales en un formato más breve y sencillo de consultar.",
+        "release_date": "No disponible",
+        "developer": "Readless",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.readless.app/"
+        }
+      ]
+    },
+    "2134": {
+      "app": {
+        "id": "2134",
+        "name": "ReelBase",
+        "url": "https://reelbase.io/",
+        "short_description": "Generador de videos para crear contenido dirigido a TikTok, Reels y otras redes sociales.",
+        "category": "Generación de video",
+        "main_functionality": "Crear videos para TikTok, Instagram Reels y otros formatos de redes sociales.",
+        "tags": "generación de videos, TikTok, Instagram Reels, contenido audiovisual",
+        "logo_filename": "id_2134_reelbase",
+        "what_is": "ReelBase es un generador de contenido audiovisual para videos cortos y publicaciones en redes sociales.",
+        "purpose": "Facilitar la producción de videos cortos para redes sociales y campañas de contenido digital.",
+        "use_cases": "Producción de TikToks, Instagram Reels, videos promocionales, contenido de marca y publicaciones audiovisuales breves.",
+        "main_advantages": "Simplifica la creación de contenido audiovisual adaptado al consumo rápido en redes sociales.",
+        "long_description": "ReelBase es un generador de videos enfocado en la creación de contenido para TikTok, Instagram Reels y otros canales sociales. Permite producir piezas audiovisuales breves para publicaciones, campañas y comunicación de marca, simplificando parte del flujo de creación de contenido.",
+        "release_date": "No disponible",
+        "developer": "ReelBase",
+        "main_model": "No especificado",
+        "pricing_plans": "No disponible",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://reelbase.io/"
+        }
+      ]
+    },
+    "2430": {
+      "app": {
+        "id": "2430",
+        "name": "Recallify",
+        "url": "https://recallify.ai/",
+        "short_description": "Aplicación de memoria y productividad para grabar, transcribir, resumir y recuperar información, tareas y recordatorios.",
+        "category": "Productividad",
+        "main_functionality": "Capturar voz, texto y otros contenidos para generar transcripciones, resúmenes, tareas, recordatorios y recursos de memoria asistidos por IA.",
+        "tags": "memoria, grabación, transcripción, resúmenes, tareas, recordatorios, quizzes, productividad, voz, IA",
+        "logo_filename": "id_2430_recallify",
+        "what_is": "Recallify es una aplicación de memoria y productividad desarrollada por TinieAI Ltd que permite capturar información y convertirla en transcripciones, resúmenes, tareas, recordatorios y quizzes.",
+        "purpose": "Ayudar a los usuarios a capturar, organizar y recuperar información importante sin depender exclusivamente de su memoria.",
+        "use_cases": "Grabación de conversaciones, notas, transcripción, resúmenes, tareas, recordatorios, estudio, quizzes y recuperación posterior de información.",
+        "main_advantages": "Combina captura, transcripción, resúmenes, tareas, recordatorios y recuperación de información y mantiene controles de privacidad orientados a datos personales.",
+        "long_description": "Recallify es una aplicación de memoria y productividad desarrollada por TinieAI Ltd. Permite grabar voz, importar contenido y generar transcripciones, resúmenes, tareas, recordatorios y quizzes mediante inteligencia artificial. Puede utilizarse desde web, iOS y Android y está diseñada para facilitar la captura, organización y recuperación posterior de información importante.",
+        "release_date": "No disponible",
+        "developer": "TinieAI Ltd",
+        "main_model": "No especificado",
+        "pricing_plans": "Prueba gratuita de 7 días; Professional: £7.49/mes o £59.99/año; Organisations: precio personalizado",
+        "license": "No especificado",
+        "security_privacy": "Cifrado de datos en tránsito y reposo, cumplimiento UK GDPR, registro ante ICO y certificación Cyber Essentials. El contenido del usuario no se utiliza para entrenar modelos de IA y las grabaciones originales se eliminan después de ser procesadas.",
+        "integration": "Web, iOS, Android, grabaciones, notas, documentos y calendario"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://recallify.ai/"
+        }
+      ]
+    },
+    "2471": {
+      "app": {
+        "id": "2471",
+        "name": "Qwen3-TTS",
+        "url": "https://huggingface.co/spaces/Qwen/Qwen3-TTS",
+        "short_description": "Servicio de síntesis de voz basado en Qwen3-TTS para generar audio, diseñar voces y realizar clonación de voz mediante IA.",
+        "category": "Texto a voz",
+        "main_functionality": "Genera voz sintética a partir de texto mediante modelos Qwen3-TTS, incluyendo funciones de diseño, generación y clonación de voz.",
+        "tags": "texto a voz, síntesis de voz, clonación de voz, diseño de voz, multilingüe",
+        "logo_filename": "id_2471_qwen3_tts",
+        "what_is": "Qwen3-TTS es una solución de síntesis de voz basada en la familia de modelos de generación de audio Qwen.",
+        "purpose": "Permitir la generación programática de voz sintética y la creación de experiencias de audio mediante modelos de texto a voz.",
+        "use_cases": "Generar locuciones; crear voces personalizadas; experimentar con clonación de voz; integrar voz sintética en aplicaciones; producir audio multilingüe.",
+        "main_advantages": "Ofrece capacidades avanzadas de síntesis y personalización de voz que pueden integrarse en productos y flujos automatizados.",
+        "long_description": "Qwen3-TTS es una solución de síntesis de voz basada en modelos de inteligencia artificial de la familia Qwen. Permite convertir texto en audio y trabajar con diferentes características de voz, incluyendo funciones de personalización y clonación según la implementación utilizada. Puede emplearse en aplicaciones conversacionales, asistentes, narración automática y otros productos que requieren generación de voz.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Demo pública gratuita en Hugging Face. Los modelos oficiales Qwen3-TTS se distribuyen bajo licencia Apache 2.0; no se identifica un plan comercial propio de Qwen3-TTS.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://huggingface.co/spaces/Qwen/Qwen3-TTS"
+        }
+      ]
+    },
+    "2475": {
+      "app": {
+        "id": "2475",
+        "name": "Recomaze",
+        "url": "https://recomaze.ai/",
+        "short_description": "Plataforma de agentes de IA para automatizar tareas de marketing, ventas, contenido, comercio electrónico y atención al cliente.",
+        "category": "Marketing",
+        "main_functionality": "Proporciona agentes de IA para ejecutar y automatizar tareas relacionadas con marketing, ventas, contenido y comercio electrónico.",
+        "tags": "marketing, ventas, comercio electrónico, agentes de IA, optimización de contenido",
+        "logo_filename": "id_2475_recomaze",
+        "what_is": "Recomaze es una plataforma de agentes de inteligencia artificial orientada a automatizar actividades comerciales y de marketing.",
+        "purpose": "Automatizar actividades comerciales y de marketing mediante agentes especializados capaces de ejecutar tareas repetitivas.",
+        "use_cases": "Automatizar creación de contenido; apoyar campañas de marketing; ejecutar tareas comerciales; optimizar operaciones de comercio electrónico; utilizar agentes para procesos repetitivos de ventas.",
+        "main_advantages": "Permite delegar tareas repetitivas a agentes especializados y concentrar diferentes procesos comerciales dentro de una misma plataforma.",
+        "long_description": "Recomaze es una plataforma de agentes de inteligencia artificial orientada a procesos comerciales. Sus agentes pueden utilizarse para ejecutar tareas relacionadas con marketing, ventas, comercio electrónico, contenido y atención al cliente. El enfoque consiste en automatizar actividades repetitivas y permitir que distintos agentes especializados participen en los flujos de trabajo de una organización.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Plan gratuito disponible. Starter desde USD 5/mes por agente con facturación anual; niveles superiores según créditos y volumen.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://recomaze.ai/"
+        }
+      ]
+    },
+    "2646": {
+      "app": {
+        "id": "2646",
+        "name": "Refraction AI",
+        "url": "https://www.refraction.dev/",
+        "short_description": "Asistente de programación con IA que ayuda a generar, explicar, refactorizar y documentar código, además de crear pruebas y revisar implementaciones.",
+        "category": "Codificación",
+        "main_functionality": "Ayuda a generar, explicar, refactorizar y documentar código, además de crear pruebas unitarias y apoyar tareas de revisión y desarrollo.",
+        "tags": "generación de código, refactorización, documentación, pruebas unitarias, revisión de código, desarrolladores, IDE, GitHub",
+        "logo_filename": "id_2646_refraction_ai",
+        "what_is": "Refraction AI es un asistente de programación con inteligencia artificial orientado a desarrolladores y equipos de software.",
+        "purpose": "Reducir tiempo en tareas repetitivas de programación y ayudar a desarrolladores a comprender, mejorar, documentar y probar código.",
+        "use_cases": "Generar código; explicar funciones; refactorizar; crear documentación; producir pruebas unitarias; revisar implementaciones; acelerar tareas de desarrollo.",
+        "main_advantages": "Reúne varias tareas de asistencia al desarrollo en una sola herramienta, desde generación hasta explicación, pruebas y documentación.",
+        "long_description": "Refraction AI es un asistente de programación orientado a desarrolladores. Utiliza inteligencia artificial para generar código, explicar implementaciones, refactorizar, producir documentación y crear pruebas unitarias. Busca reducir tareas repetitivas y apoyar el ciclo de desarrollo desde la comprensión inicial de un fragmento hasta su mejora y validación.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Hobby gratuito con 10 generaciones. Pro USD 8/mes o USD 80/año. Team USD 14/usuario/mes o USD 140/usuario/año. Enterprise con precio personalizado.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.refraction.dev/"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,2405 @@
+{
+  "schemaVersion": 1,
+  "apps": {
+    "13": {
+      "app": {
+        "id": "13",
+        "name": "FaceApp",
+        "url": "https://www.faceapp.com/",
+        "short_description": "Aplicación de edición fotográfica que utiliza inteligencia artificial para aplicar filtros y transformaciones realistas a rostros en fotografías.",
+        "category": "Edición de imágenes",
+        "main_functionality": "Transformación de rostros en fotografías mediante filtros de inteligencia artificial que permiten cambios como envejecimiento, cambio de género, adición de sonrisas y otros efectos.",
+        "tags": "#EdiciónFotográfica #InteligenciaArtificial #FiltrosFaciales",
+        "logo_filename": "id_13_face_app",
+        "what_is": "FaceApp es una aplicación de edición fotográfica que utiliza inteligencia artificial para transformar rostros en imágenes, permitiendo aplicar diversos filtros y efectos de manera realista.",
+        "purpose": "Su propósito principal es ofrecer a los usuarios la posibilidad de modificar sus fotografías faciales, aplicando efectos como envejecimiento, rejuvenecimiento, cambio de género, adición de sonrisas, cambios de peinado y color de cabello, entre otros.",
+        "use_cases": "Entretenimiento Personal: Los usuarios pueden divertirse viendo cómo lucirían con diferentes edades, géneros o estilos.\nCreación de Contenido en Redes Sociales: Generar imágenes llamativas y virales para compartir en plataformas como Instagram, Facebook o TikTok.\nPruebas de Estilo: Visualizar posibles cambios de peinado, color de cabello o estilos de barba antes de realizarlos en la vida real.",
+        "main_advantages": "Facilidad de Uso: Interfaz intuitiva que permite aplicar efectos con solo unos toques.\nResultados Realistas: Transformaciones de alta calidad que mantienen la naturalidad del rostro.\nVariedad de Filtros: Amplia gama de opciones para personalizar las imágenes según las preferencias del usuario.",
+        "long_description": "FaceApp es una aplicación de edición fotográfica que utiliza inteligencia artificial para transformar rostros en imágenes, permitiendo aplicar diversos filtros y efectos de manera realista. Entre sus funcionalidades destacan la posibilidad de envejecer o rejuvenecer el rostro, cambiar de género, añadir sonrisas, modificar peinados y colores de cabello, entre otros. La aplicación ha ganado popularidad por su capacidad para generar transformaciones fotorrealistas de manera sencilla e intuitiva.",
+        "release_date": "Diciembre de 2016.",
+        "developer": "FaceApp Technology Limited",
+        "main_model": "FaceApp utiliza redes neuronales basadas en inteligencia artificial para generar transformaciones realistas de rostros en fotografías.",
+        "pricing_plans": "FaceApp ofrece una versión gratuita con funcionalidades básicas y una versión Pro de pago que incluye acceso a todos los filtros y herramientas avanzadas.",
+        "license": "Propietaria de FaceApp Technology Limited.",
+        "security_privacy": "FaceApp ha enfrentado críticas relacionadas con la privacidad de los datos de los usuarios. En respuesta, la compañía ha declarado que las imágenes se procesan en servidores de Google Cloud Platform y Amazon Web Services, y que la mayoría de las imágenes se eliminan de los servidores dentro de las 48 horas posteriores a la carga. Además, la empresa asegura que no vende ni comparte información de los usuarios con terceros.",
+        "integration": "FaceApp permite compartir las imágenes editadas directamente en diversas plataformas de redes sociales, facilitando la difusión del contenido generado por los usuarios."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.faceapp.com/"
+        },
+        {
+          "source_url": "https://play.google.com/store/apps/details?hl=en-US&id=io.faceapp"
+        },
+        {
+          "source_url": "https://apps.apple.com/es/app/faceapp-editor-facial-ideal/id1180884341"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/FaceApp"
+        },
+        {
+          "source_url": "https://apps.apple.com/co/app/faceapp-editor-facial-ideal/id1180884341"
+        }
+      ]
+    },
+    "38": {
+      "app": {
+        "id": "38",
+        "name": "FinetuneDB",
+        "url": "https://finetunedb.com/?utm_source=superhuman&utm_medium=newsletter&utm_campaign=ai-turns-screenshots-into-games&_bhlid=d9c1b157ec324f68275e9ea33a69c0477fb8b5ed",
+        "short_description": "Plataforma integral que facilita la creación, gestión y ajuste fino de modelos de lenguaje de gran tamaño (LLM) mediante datos personalizados, optimizando su rendimiento y reduciendo costos.",
+        "category": "Generación de texto",
+        "main_functionality": "Proporciona herramientas para la recopilación de datos, ajuste fino de modelos, evaluación de resultados y despliegue de modelos personalizados, todo en una sola plataforma.",
+        "tags": "#GeneraciónDeTexto #LLM #Automatización",
+        "logo_filename": "id_38_finetune_db",
+        "what_is": "FinetuneDB es una plataforma especializada en el ajuste fino de modelos de lenguaje de gran tamaño (LLMs). Permite a empresas y desarrolladores personalizar estos modelos usando sus propios datos, mejorando la precisión y adecuación de las respuestas para casos de uso específicos. La plataforma proporciona herramientas para gestionar, ajustar y desplegar modelos de lenguaje de manera eficaz y centralizada.",
+        "purpose": "Sirve para facilitar la creación de modelos de lenguaje adaptados a necesidades concretas de negocios o proyectos, logrando un rendimiento optimizado y una mejor alineación con los requisitos de cada cliente. Su enfoque en el ajuste fino ayuda a reducir los costos y a mejorar la eficacia en aplicaciones específicas, como asistentes virtuales, análisis de texto, o automatización de tareas de lenguaje natural.",
+        "use_cases": "Asistentes Virtuales: Ajuste fino de modelos para proporcionar respuestas específicas y alineadas con el tono y estilo de la empresa.\nAutomatización del Servicio al Cliente: Adaptación de modelos para mejorar la comprensión y respuesta a preguntas frecuentes.\nAnálisis de Texto: Personalización de modelos para identificar y analizar tendencias en texto, especialmente útil en investigaciones de mercado o análisis de redes sociales.\nSistemas de Recomendación: Ajuste de LLMs para mejorar las recomendaciones basadas en el análisis del lenguaje.",
+        "main_advantages": "Centralización y facilidad de uso: Integra en un solo lugar las herramientas necesarias para el ajuste, gestión y despliegue de modelos personalizados.\nOptimización de costos: Permite reducir costos ajustando modelos de gran tamaño para tareas específicas, evitando el uso de modelos demasiado generales.\nFlexibilidad en la personalización: Permite a los usuarios mejorar la precisión de sus modelos en función de sus propios datos y requerimientos específicos.\nEficiencia en la gestión de datos: Simplifica la recopilación y organización de datos para el ajuste fino, facilitando el proceso de configuración de los modelos de lenguaje.",
+        "long_description": "FinetuneDB es una plataforma integral diseñada para simplificar el ajuste fino de modelos de lenguaje de gran tamaño (LLM). Ofrece herramientas para la creación y gestión de conjuntos de datos, entrenamiento de modelos, evaluación y despliegue, permitiendo a las organizaciones personalizar modelos de IA de manera eficiente y rentable.",
+        "release_date": "Octubre 2023.",
+        "developer": "No disponible.",
+        "main_model": "La plataforma permite el ajuste fino de modelos de lenguaje de gran tamaño (LLM) tanto de código abierto como propietarios. No se especifica un modelo o algoritmo principal, ya que es compatible con múltiples modelos.",
+        "pricing_plans": "Básico (Gratuito) $0 1 usuario\n1 proyecto y conjunto de datos\n1000 registros por mes\nCrédito gratis de $10                                                PRO: $50/mes - A partir de 2 usuarios\nProyectos y conjuntos de datos ilimitados\nRegistros ilimitados\nFlujos de trabajo de evaluación personalizados\nIntegraciones personalizadas (p. ej., vLLM)\nTiempo de respuesta de soporte las 24 horas\nCrédito gratis de $100\n",
+        "license": "No disponible.",
+        "security_privacy": "FinetuneDB enfatiza la seguridad y privacidad de los datos, Todos los datos se cifran en tránsito mediante TLS 1.2+ con perfecto Secreto hacia adelante. Los servidores que contienen datos utilizan AES estándar de la industria Encriptación 256.\n\n",
+        "integration": "La plataforma es compatible con modelos de código abierto y propietarios, facilitando la integración con diversas herramientas y servicios de IA."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Qlerify mejora la precisión de LLM con ajustes finos mediante FinetuneDB",
+          "description": "El contenido generado por la IA era inconsistente, lento y de baja calidad para industrias complejas. con la implementación de FinetuneDB se optimizó el ajuste, la evaluación y las pruebas de LLM de Qlerify, mejorando la calidad y la eficiencia de los resultados. Permitiendo a Qlerify implementar un modelo personalizado que es 10 veces más rápido, 3 veces más barato y supera a GPT-4.",
+          "url": "https://finetunedb.com/case-studies/qlerify/"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://finetunedb.com/?utm_source=superhuman&utm_medium=newsletter&utm_campaign=ai-turns-screenshots-into-games&_bhlid=d9c1b157ec324f68275e9ea33a69c0477fb8b5ed"
+        },
+        {
+          "source_url": "https://finetunedb.com"
+        },
+        {
+          "source_url": "https://finetunedb.com/use-cases/"
+        },
+        {
+          "source_url": "https://finetunedb.com/#dataset"
+        },
+        {
+          "source_url": "https://finetunedb.com/#security"
+        },
+        {
+          "source_url": "https://finetunedb.com/pricing/"
+        },
+        {
+          "source_url": "https://docs.finetunedb.com/introduction"
+        },
+        {
+          "source_url": "https://finetunedb.com/case-studies/"
+        },
+        {
+          "source_url": "https://www.aitoolnet.com/es/finetunedb"
+        },
+        {
+          "source_url": "https://pitchbook.com/profiles/company/596756-17#overview"
+        }
+      ]
+    },
+    "82": {
+      "app": {
+        "id": "82",
+        "name": "Fable",
+        "url": "https://www.sharefable.com/",
+        "short_description": "Interactúa con los clientes potenciales, cierra más acuerdos y simplifica la incorporación con demostraciones impulsadas por IA.",
+        "category": "Marketing",
+        "main_functionality": "Facilita la creación de demostraciones interactivas personalizadas mediante IA, optimizando la conversión de clientes potenciales y mejorando la eficiencia en ventas y capacitación.",
+        "tags": "#Automatización #Marketing #BI",
+        "logo_filename": "id_82_fable",
+        "what_is": "Fable es una plataforma basada en inteligencia artificial que permite a empresas crear demostraciones interactivas personalizadas. Estas demostraciones están diseñadas para captar la atención de clientes potenciales, mejorar las conversiones y simplificar la capacitación de equipos.",
+        "purpose": "Sirve para optimizar el proceso de ventas y marketing, ofreciendo una manera interactiva y atractiva de presentar productos o servicios. También es útil para la capacitación interna, ayudando a los equipos a comprender herramientas o procesos a través de demostraciones guiadas.",
+        "use_cases": "Ventas y Marketing: Creación de presentaciones interactivas para mostrar productos o servicios a clientes potenciales.\nCapacitación: Enseñar a equipos internos el uso de software, herramientas o procesos operativos.\nOnboarding: Guiar a nuevos empleados o clientes en los primeros pasos con un producto o servicio.\nSoporte Técnico: Proporcionar tutoriales interactivos para resolver problemas frecuentes.\nPromociones: Mostrar las ventajas de un producto o servicio en campañas publicitarias interactivas.",
+        "main_advantages": "Capta la atención del cliente con experiencias interactivas personalizadas.\nAumenta las tasas de conversión al mostrar productos o servicios de manera atractiva.\nSimplifica la capacitación y el aprendizaje mediante demostraciones guiadas.\nReduce la necesidad de soporte técnico constante con tutoriales accesibles.\nAhorra tiempo al automatizar parte del proceso de ventas y capacitación.",
+        "long_description": "Fable es una plataforma de inteligencia artificial diseñada para que las empresas creen y compartan demostraciones interactivas personalizadas. Sus principales funcionalidades incluyen:\n\nCreación de Demostraciones Interactivas: Permite a los equipos de ventas y marketing desarrollar presentaciones dinámicas que muestran productos o servicios de manera atractiva, mejorando la participación del cliente.\n\nPersonalización de Contenido: Ofrece herramientas para adaptar las demostraciones según las necesidades y preferencias específicas de cada cliente, aumentando la relevancia y efectividad de las presentaciones.\n\nIntegración con Herramientas Existentes: Se conecta con las plataformas y servicios que la empresa ya utiliza, facilitando la adaptación y optimización de flujos de trabajo.\n\nAnálisis y Seguimiento: Proporciona métricas y análisis sobre el rendimiento de las demostraciones, permitiendo a las empresas medir su efectividad y realizar ajustes informados.",
+        "release_date": "No disponible.",
+        "developer": "Fable",
+        "main_model": "No disponible.",
+        "pricing_plans": "Fable ofrece planes de suscripción personalizados según las necesidades específicas de cada negocio, adaptándose a diferentes tamaños y requerimientos empresariales.",
+        "license": "Propietaria",
+        "security_privacy": "Fable implementa medidas de seguridad estándar de la industria para proteger la información y los datos de los usuarios, asegurando la confidencialidad y la integridad de las transacciones.",
+        "integration": "Fable se integra con diversas herramientas y servicios utilizados por las empresas, facilitando la adaptación y optimización de flujos de trabajo existentes."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.sharefable.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=four-person-team-takes-on-voice-mode"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/fable-7"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/fable-7"
+        },
+        {
+          "source_url": "https://topai.tools/t/fable"
+        },
+        {
+          "source_url": "https://www.sharefable.com/pricing?ref=nav_bar"
+        },
+        {
+          "source_url": "https://www.sharefable.com/privacy-policy?ref=footer"
+        }
+      ]
+    },
+    "171": {
+      "app": {
+        "id": "171",
+        "name": "Feta",
+        "url": "https://feta.io/",
+        "short_description": "una plataforma de IA que ayuda a los equipos de producto e ingeniería a realizar reuniones eficientes y documentar debates para obtener información procesable.",
+        "category": "Productividad",
+        "main_functionality": "Feta permite a los equipos de producto e ingeniería realizar reuniones más eficientes al capturar automáticamente las discusiones, transcribir y resumir reuniones, integrar la gestión de tareas con herramientas como Linear, Jira y GitHub, y proporcionar una búsqueda inteligente en el historial de reuniones.",
+        "tags": "#AsistenteDeReuniones #InteligenciaArtificial #GestiónDeTareas #TranscripciónAutomática #IntegraciónConHerramientas",
+        "logo_filename": "id_171_feta",
+        "what_is": "Feta AI es una herramienta de reuniones basada en inteligencia artificial diseñada para ayudar a equipos de producto e ingeniería a mejorar la eficiencia de sus encuentros. Facilita la captura, transcripción y resumen de discusiones, al tiempo que automatiza la gestión de tareas e integra datos con herramientas de productividad.",
+        "purpose": "El propósito principal de Feta AI es transformar las reuniones en espacios más productivos, reduciendo la necesidad de tomar notas manuales y facilitando el seguimiento de acciones clave, decisiones y tareas.",
+        "use_cases": "Transcripción y Resumen de Reuniones: Captura automática del contenido de las reuniones y proporciona resúmenes claros y precisos.\nGestión de Tareas: Automatización del registro y seguimiento de tareas en herramientas como Jira, GitHub y Linear.\nBúsqueda Inteligente: Permite a los equipos buscar rápidamente información relevante en el historial de reuniones.\nSincronización de Equipos: Facilita que los equipos se mantengan alineados al capturar y distribuir información clave de forma rápida y eficiente.\nDocumentación Automatizada: Generación automática de actas y notas de reuniones.",
+        "main_advantages": "Ahorro de Tiempo: Automatiza la toma de notas y el seguimiento de tareas.\nEficiencia: Proporciona resúmenes claros, evitando la necesidad de revisar largas grabaciones.\nIntegración Fluida: Compatible con herramientas de gestión de tareas y proyectos populares.\nBúsqueda Fácil: Acceso rápido y sencillo a información de reuniones anteriores.\nMejora la Productividad: Reduce distracciones durante las reuniones al encargarse de la documentación automáticamente.",
+        "long_description": "Feta AI es una herramienta de reuniones diseñada para equipos de producto e ingeniería, que utiliza inteligencia artificial para mejorar la eficiencia y productividad de las reuniones. Ofrece funcionalidades como la compilación automática de actualizaciones de standup, gestión de tareas, recordatorios en reuniones, agendas inteligentes y acceso a discusiones previas. Además, proporciona transcripciones precisas, resúmenes inteligentes y permite la búsqueda en el historial de reuniones utilizando lenguaje natural. Feta AI se integra con herramientas populares como Linear, Jira y GitHub, facilitando la actualización de las herramientas de gestión de proyectos basándose en las discusiones mantenidas.",
+        "release_date": "No disponible",
+        "developer": "Feta AI fue desarrollada por un equipo de profesionales, incluyendo a Abhishek Kankani, Palash Golecha, Prasad Lingawar, Param Sharma y Aryan Sharma.",
+        "main_model": "No disponible.",
+        "pricing_plans": "Gratis\nMáx. 25 participantes por reunión\nFeta AI\nLimitado a 3 reuniones por mes\nTranscripciones\nResumen\nGrabación\nElementos de acción\nCompilación automática de actualizaciones.                                                                                                       Pro\n$20\n\nGratis en beta\npor usuario/mes\nMáx. 100 participantes por reunión\nFeta AI\nIlimitado\nTodo lo que hay en Gratis, más...\nResumen a través de mensajes de Slack\nSalida de reunión estructurada\nColaboración en documentos de la biblioteca\nRecordatorios durante la reunión                                                                                                            Empresa\nHablemos\nHasta 1000 participantes por reunión\nFeta AI\nImplementación ilimitada y privada\nTodo lo que hay en Pro, más...\nSSO\nIA en las instalaciones\nRetención y residencia de datos\nAnálisis por equipos\nAnálisis de toda la organización\nPersonalización de marca\nAcceso a la API\nSoporte empresarial                                                      ",
+        "license": "No disponible.",
+        "security_privacy": "La política de privacidad de Feta AI, última actualización el 12 de junio de 2024, detalla cómo Dyte, Inc. (\"la Compañía\") recopila, utiliza y protege la información de los usuarios en sus sitios web dyte.io y feta.io. La Compañía se compromete a no vender la información personal de los usuarios ni compartirla con terceros, excepto con subprocesadores que asisten en la prestación de servicios. El sitio no está destinado a menores de 16 años, y no se recopila conscientemente información de ellos. La política también aborda los derechos de privacidad de los residentes de California y otros estados, proporcionando detalles sobre la recopilación y uso de datos personales. Para obtener información completa y actualizada, se recomienda revisar la Política de Privacidad de Feta AI.",
+        "integration": "Feta AI se integra con herramientas de gestión de proyectos y desarrollo como Linear, Jira y GitHub, permitiendo la creación y actualización automática de tareas y comentarios basados en las discusiones de las reuniones. También facilita la planificación diaria al permitir arrastrar y soltar tareas de estas herramientas para una gestión más efectiva."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://feta.io/?utm_source=superhuman&utm_medium=referral&utm_campaign=the-ai-agent-showdown-begins"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/feta/features"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/feta"
+        },
+        {
+          "source_url": "https://right-ai.com/es/ai/feta-io"
+        },
+        {
+          "source_url": "https://www.aibase.com/zh/tool/33828"
+        },
+        {
+          "source_url": "https://feta.io/privacy-policy/"
+        },
+        {
+          "source_url": "https://feta.io/pricing/"
+        },
+        {
+          "source_url": "https://www.goodfirms.co/software/feta"
+        }
+      ]
+    },
+    "226": {
+      "app": {
+        "id": "226",
+        "name": "Fireflies.ai",
+        "url": "https://fireflies.ai/",
+        "short_description": "Asistente de reuniones impulsado por IA que graba, transcribe y analiza automáticamente conversaciones en múltiples plataformas.",
+        "category": "Productividad",
+        "main_functionality": "Captura, transcribe y analiza conversaciones en tiempo real, facilitando la búsqueda y colaboración en reuniones.",
+        "tags": "#IA #AsistenteDeReuniones #Transcripción #AnálisisDeConversaciones",
+        "logo_filename": "id_226_fireflies",
+        "what_is": "Fireflies.ai es una plataforma de inteligencia artificial diseñada como asistente de reuniones. Facilita la captura, transcripción y análisis de conversaciones en tiempo real, mejorando la productividad y colaboración en reuniones virtuales o presenciales.",
+        "purpose": "Su propósito es automatizar el registro de reuniones y hacer más eficientes los flujos de trabajo. Con Fireflies, los usuarios pueden acceder a transcripciones detalladas, buscar información clave dentro de las conversaciones y compartir resúmenes, lo que reduce la necesidad de tomar notas manuales y asegura que todos los detalles importantes queden documentados.",
+        "use_cases": "Reuniones corporativas: Grabar y transcribir juntas para asegurar que no se pierda información.\nEquipos de ventas: Registrar interacciones con clientes para identificar necesidades y realizar seguimientos efectivos.\nInvestigación y desarrollo: Documentar reuniones técnicas para facilitar la colaboración entre equipos.\nEntrevistas: Transcribir y analizar respuestas en entrevistas laborales o de investigación.",
+        "main_advantages": "Automatización: Reduce la necesidad de tomar notas durante reuniones, lo que permite a los participantes concentrarse en la conversación.\nBúsqueda rápida: Permite encontrar información específica en las transcripciones mediante búsqueda por palabras clave.\nColaboración mejorada: Facilita el intercambio de resúmenes y transcripciones con los equipos, asegurando que todos estén alineados.\nCompatibilidad: Se integra con plataformas populares como Zoom, Google Meet, Microsoft Teams, y más.",
+        "long_description": "Fireflies.ai es una plataforma de inteligencia artificial diseñada para capturar, transcribir y analizar conversaciones de manera automatizada. Funciona como un asistente de reuniones que graba audio en tiempo real y produce transcripciones precisas para facilitar la revisión y el análisis posterior. Los usuarios pueden buscar dentro de las transcripciones por palabras clave, resaltar secciones importantes y compartir los resultados con sus equipos. Fireflies.ai se integra fácilmente con herramientas populares como Zoom, Google Meet, Microsoft Teams y Slack, permitiendo una experiencia fluida en el flujo de trabajo.",
+        "release_date": "2019",
+        "developer": "Fireflies.ai Inc.",
+        "main_model": "Utiliza un sistema avanzado de reconocimiento de voz y procesamiento de lenguaje natural (NLP), aunque los detalles específicos del modelo no están disponibles.",
+        "pricing_plans": "Gratis: Funcionalidades básicas como grabación y transcripción limitada.\nPro Plan ($10/usuario/mes): Incluye almacenamiento ilimitado y transcripciones completas.\nBusiness Plan (Precio personalizado): Diseñado para equipos grandes con necesidades avanzadas de colaboración e integraciones adicionales.",
+        "license": "Propietario",
+        "security_privacy": "Fireflies.ai cumple con normativas de seguridad como el GDPR.\nLos datos se almacenan en servidores seguros con cifrado AES-256.\nProporciona opciones para eliminar grabaciones y transcripciones bajo demanda",
+        "integration": "Zoom, Google Meet, Microsoft Teams, Slack, Salesforce, HubSpot, Asana y más.\nAPI disponible para personalizaciones específicas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Cómo Fireflies ayuda a Aventus Ai Limited a centrarse en las tareas empresariales críticas",
+          "description": "Aventus Ai Limited, especializada en geociencia y análisis de ingeniería, enfrentaba desafíos significativos en la gestión de sus reuniones virtuales. La toma manual de notas y su posterior digitalización consumían tiempo valioso, desviando la atención de tareas críticas. Además, confiar en la memoria para recordar detalles clave de las reuniones dificultaba la toma de decisiones informadas.\n\nAl implementar Fireflies.ai, Aventus Ai Limited automatizó la transcripción y el registro de reuniones, obteniendo notas confiables y detalladas. La función de búsqueda inteligente de Fireflies permitió al equipo localizar rápidamente palabras clave, tareas y temas específicos dentro de las transcripciones, asegurando que no se pasaran por alto detalles importantes.\n\nEsta solución tecnológica liberó una cantidad significativa de tiempo, permitiendo al equipo de Aventus Ai Limited enfocarse en tareas empresariales esenciales y mejorar la colaboración interna. La precisión y accesibilidad de las notas de reuniones facilitaron la comunicación efectiva y la innovación dentro de la empresa.\n\nEn resumen, Fireflies.ai transformó la manera en que Aventus Ai Limited gestionaba sus reuniones, optimizando procesos y permitiendo una mayor concentración en objetivos estratégicos.",
+          "url": "https://fireflies.ai/blog/how-fireflies-helps-aventus-ai-limited-focus-on-critical-business-tasks"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Cómo DigitalBull GO aumentó la transparencia empresarial mediante el uso de Fireflies.ai",
+          "description": "DigitalBull GO, una agencia de SEO especializada en optimización local y Google My Business, enfrentaba dificultades para documentar eficazmente las discusiones internas y con clientes, lo que afectaba la transparencia y la gestión de proyectos. La implementación de Fireflies.ai permitió grabar y transcribir automáticamente las reuniones, asegurando que todos los puntos, tanto críticos como menores, fueran registrados con precisión. Esto facilitó la búsqueda de elementos de acción y temas específicos, mejorando la cohesión entre reuniones y permitiendo un seguimiento más efectivo de tareas y problemas discutidos. Como resultado, se incrementó la transparencia con los clientes y el equipo interno, fortaleciendo las relaciones y la eficiencia operativa.",
+          "url": "https://fireflies.ai/blog/how-digitalbull-go-increased-business-transparency-by-using-fireflies"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolslist.io/best-ai-tools/"
+        },
+        {
+          "source_url": "https://fireflies.ai/blog"
+        },
+        {
+          "source_url": "https://appsource.microsoft.com/en-US/product/Office365/WA200002618"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/fireflies-ai/launches"
+        },
+        {
+          "source_url": "https://fireflies.ai/blog/tag/product"
+        },
+        {
+          "source_url": "https://fireflies.ai/blog/tag/customer-story"
+        },
+        {
+          "source_url": "https://fireflies.ai/blog/tags"
+        },
+        {
+          "source_url": "https://aipure.ai/es/articles/firefliesai-review-ai-meeting-assistant-revolutionizes-work"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/ai-news-es/fireflies-ai-la-solucin-innovadora-para-optimizar-tus-llamadas-de-ventas-2763694"
+        }
+      ]
+    },
+    "299": {
+      "app": {
+        "id": "299",
+        "name": "Firebender",
+        "url": "https://firebender.com/",
+        "short_description": "Un asistente de codificación ultrarrápido dentro de Android Studio que tiene comprensión contextual de tu base de código, registros y emulador.",
+        "category": "Codificación",
+        "main_functionality": "Ofrece sugerencias de código en tiempo real, edición rápida de archivos y chat de IA sobre bases de código, registros y emuladores, todo dentro de Android Studio.",
+        "tags": "#AsistenteDeCodificación #InteligenciaArtificial #DesarrolloAndroid",
+        "logo_filename": "id_299_firebender",
+        "what_is": "Firebender es un asistente inteligente integrado en Android Studio que utiliza inteligencia artificial para asistir a desarrolladores de software en la creación y optimización de aplicaciones Android. Proporciona funciones avanzadas para facilitar el trabajo sobre bases de código complejas.",
+        "purpose": "Sirve para mejorar la productividad y eficiencia de los desarrolladores al ofrecer herramientas que simplifican tareas como escribir, revisar, y depurar código, además de proporcionar explicaciones y documentación automatizada.",
+        "use_cases": "Asistencia en Tiempo Real: Proporciona sugerencias de código y completado automático en el editor de Android Studio.\nDepuración Eficiente: Ayuda a identificar errores mediante la interpretación de registros y proporciona soluciones sugeridas.\nOptimización del Flujo de Trabajo: Automatiza tareas repetitivas como la generación de código base y la integración de bibliotecas.\nDocumentación Inteligente: Genera explicaciones claras y documenta automáticamente fragmentos de código.\nColaboración y Aprendizaje: Ideal para equipos de desarrollo que necesitan un soporte continuo o desarrolladores en formación.",
+        "main_advantages": "Eficiencia: Ahorra tiempo al automatizar tareas rutinarias y ofrecer soluciones instantáneas.\nProductividad: Mejora la calidad y consistencia del código escrito.\nCompatibilidad: Se integra directamente en Android Studio, eliminando la necesidad de herramientas adicionales.\nFacilidad de Uso: Permite a desarrolladores de cualquier nivel aprovechar sus capacidades sin una curva de aprendizaje compleja.\nInnovación: Utiliza algoritmos de última generación para interpretar y analizar bases de código complejas.",
+        "long_description": "Firebender es un asistente de inteligencia artificial diseñado para integrarse directamente en Android Studio, proporcionando a los desarrolladores herramientas avanzadas que mejoran la productividad y eficiencia en el desarrollo de aplicaciones Android. Ofrece sugerencias de código en tiempo real, edición rápida de archivos y un chat de IA que interactúa con bases de código, registros y emuladores, todo dentro del entorno de desarrollo.",
+        "release_date": "7 Octubre 2024",
+        "developer": "Firebender Corp.",
+        "main_model": "Utiliza modelos de lenguaje avanzados como GPT-o1 y Claude-3.5-Sonnet para proporcionar sugerencias y asistencia en el desarrollo de código.",
+        "pricing_plans": "Ofrece una versión gratuita con funcionalidades básicas y opciones de suscripción para acceder a características premium.",
+        "license": "Propietario",
+        "security_privacy": "Firebender prioriza la privacidad de los desarrolladores, asegurando que el código y los datos procesados se manejen de manera segura dentro del entorno de Android Studio.",
+        "integration": "Se integra directamente con Android Studio, permitiendo a los desarrolladores utilizar sus funcionalidades sin necesidad de cambiar de entorno o utilizar herramientas adicionales."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://firebender.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=harvard-students-build-ai-spy-glasses"
+        },
+        {
+          "source_url": "https://freshaitools.com/ai-tools/firebender-free-ai-code-assistant-for-android-studio/"
+        },
+        {
+          "source_url": "https://steemhunt.com/@helipad/firebender-android-studio-s-most-powerful-ai-assistant"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/firebender/launches"
+        },
+        {
+          "source_url": "https://firebender.com/about"
+        },
+        {
+          "source_url": "https://firebender.com/privacy"
+        },
+        {
+          "source_url": "https://www.ycombinator.com/launches/LxK-firebender-the-best-ai-assistant-for-android-studio"
+        },
+        {
+          "source_url": "https://aitools.fyi/es/firebender"
+        }
+      ]
+    },
+    "329": {
+      "app": {
+        "id": "329",
+        "name": "Findr",
+        "url": "https://www.usefindr.com/",
+        "short_description": "Usa un segundo cerebro impulsado por IA para guardar, buscar y recordar cualquier cosa importante.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Búsqueda unificada de información a través de múltiples aplicaciones de trabajo, facilitando el acceso rápido a documentos, enlaces y datos relevantes.",
+        "tags": "#GestiónDelConocimiento #IA #BúsquedaEmpresarial #Productividad",
+        "logo_filename": "id_329_findr",
+        "what_is": "Findr es una herramienta basada en inteligencia artificial diseñada para optimizar la búsqueda de información dentro de entornos empresariales. Permite acceder a documentos, enlaces y datos almacenados en diversas plataformas desde un solo lugar.",
+        "purpose": "Su propósito principal es centralizar la búsqueda de información dispersa en diferentes aplicaciones, mejorando la productividad y reduciendo el tiempo necesario para encontrar datos clave.",
+        "use_cases": "Gestión Empresarial: Acceso rápido a datos críticos almacenados en Slack, Notion, Gmail, Jira y más.\nOptimización del Tiempo: Reducción del tiempo invertido en localizar documentos o enlaces importantes.\nEquipos de Trabajo: Mejora la colaboración al facilitar el acceso a información relevante compartida entre miembros del equipo.\nSoporte Técnico: Recuperar datos específicos sobre tickets o consultas en plataformas de gestión como Jira.\nConsultoría y Freelancers: Centralizar información de clientes en múltiples herramientas de gestión y comunicación.",
+        "main_advantages": "Integración Amplia: Compatible con múltiples aplicaciones de uso común en entornos empresariales.\nIA Avanzada: Comprende consultas complejas para entregar resultados precisos.\nCentralización: Unifica la información dispersa en un único panel de control.\nAhorro de Tiempo: Reduce el tiempo necesario para buscar y recuperar información.\nInterfaz Intuitiva: Fácil de usar, adecuada para equipos de todos los tamaños.",
+        "long_description": "Findr es una plataforma de búsqueda interna impulsada por inteligencia artificial que permite a los usuarios localizar rápidamente documentos, enlaces e información dispersa en diversas aplicaciones de trabajo desde una única interfaz unificada. Al integrarse con herramientas como Gmail, Slack, Jira y Google Drive, Findr facilita la búsqueda universal, proporcionando respuestas instantáneas a consultas laborales y generando nuevos documentos con referencias de origen. Su objetivo es optimizar la productividad al consolidar el conocimiento organizacional en un ecosistema accesible y accionable.",
+        "release_date": "Enero 2024",
+        "developer": "SJNUA Infotech Private Limited",
+        "main_model": "Findr utiliza inteligencia artificial para proporcionar capacidades de búsqueda avanzada y respuestas instantáneas, pero no se especifica el modelo o algoritmo exacto empleado.",
+        "pricing_plans": "Plan Pro: $20/mes. Incluye búsqueda universal ilimitada, chat ilimitado con resultados, integraciones múltiples y acceso a todas las integraciones.\n\nPlan Team: $25/miembro/mes. Incluye todo lo del plan Pro, además de roles de administrador, analíticas del lugar de trabajo y SAML/SSO (próximamente).",
+        "license": "Información no disponible.",
+        "security_privacy": "Findr prioriza la seguridad de los datos implementando controles de acceso granulares y cuenta con certificaciones como ISO y SOC2 Tipo 2, asegurando que los datos estén protegidos y gestionados con los más altos estándares. Utiliza APIs de búsqueda para obtener información en tiempo real sin almacenar o indexar datos, garantizando resultados actualizados y la máxima seguridad.",
+        "integration": "Findr se integra con múltiples aplicaciones de trabajo, incluyendo Gmail, Slack, Jira y Google Drive, permitiendo a los usuarios buscar y acceder a información dispersa en estas plataformas desde una única interfaz unificada."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.usefindr.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=palm-sized-supercomputers"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/findr-5/launches"
+        },
+        {
+          "source_url": "https://www.b12.io/ai-directory/findr/"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/findr/"
+        },
+        {
+          "source_url": "https://www.usefindr.com/terms-of-use"
+        },
+        {
+          "source_url": "https://www.usefindr.com/#pricing"
+        },
+        {
+          "source_url": "https://www.usefindr.com/#security"
+        },
+        {
+          "source_url": "https://www.usefindr.com/integrations"
+        }
+      ]
+    },
+    "351": {
+      "app": {
+        "id": "351",
+        "name": "Flair AI",
+        "url": "https://flair.ai/",
+        "short_description": "Herramienta de diseño impulsada por inteligencia artificial que permite crear fotografías de productos de alta calidad de manera rápida y sencilla.",
+        "category": "Generación de diseño",
+        "main_functionality": "Flair AI facilita la creación de sesiones fotográficas de productos mediante una interfaz de arrastrar y soltar, permitiendo a los usuarios generar imágenes profesionales para comercio electrónico y marketing en segundos.",
+        "tags": "#GeneraciónDeImágenes #FotografíaDeProductos #DiseñoAsistidoPorIA",
+        "logo_filename": "id_351_flair",
+        "what_is": "Flair AI es una herramienta de diseño impulsada por inteligencia artificial que facilita la creación de contenido de marca, especialmente fotografías de productos de alta calidad. Su interfaz intuitiva permite a los usuarios generar imágenes atractivas de manera eficiente, sin necesidad de experiencia en diseño.",
+        "purpose": "Flair AI está diseñada para simplificar y acelerar el proceso de creación de contenido visual para marcas y productos. Es particularmente útil para generar fotografías de productos destinadas a tiendas en línea, campañas de marketing y materiales promocionales, mejorando la presentación visual y aumentando el atractivo de los productos.",
+        "use_cases": "Fotografía de Productos para Comercio Electrónico: Permite a los emprendedores y dueños de tiendas en línea crear imágenes profesionales de sus productos sin necesidad de sesiones fotográficas tradicionales, ahorrando tiempo y costos. \n\nDiseño de Materiales Promocionales: Facilita a los equipos de marketing la creación de contenido visual atractivo para campañas publicitarias, ajustando colores, fondos y estilos para alinearse con la identidad de la marca. \n\nCreación Colaborativa para Equipos: Permite a las agencias de marketing y equipos creativos trabajar conjuntamente en el desarrollo de contenido visual, asegurando una colaboración fluida y la unificación de estilos en diversos proyectos. ",
+        "main_advantages": "Facilidad de Uso: Su interfaz de arrastrar y soltar permite a los usuarios, incluso sin experiencia en diseño, crear contenido visualmente atractivo de manera rápida y sencilla. \n\nEficiencia en la Creación de Contenido: La inteligencia artificial integrada proporciona recomendaciones inteligentes y autocompletado, optimizando el flujo de trabajo y reduciendo el tiempo necesario para generar imágenes de calidad. \n\nPersonalización y Flexibilidad: Ofrece una amplia gama de activos de marca y accesorios, permitiendo a los usuarios personalizar las escenas según sus necesidades específicas y mantener la coherencia con la identidad visual de la marca. \n",
+        "long_description": "Flair AI es una herramienta de diseño impulsada por inteligencia artificial que permite a los usuarios crear fotografías de productos de alta calidad de manera rápida y sencilla. Con una interfaz de arrastrar y soltar, los usuarios pueden cargar imágenes de sus productos y construir escenas personalizadas utilizando una variedad de accesorios y plantillas. La plataforma ofrece recomendaciones inteligentes basadas en algoritmos de aprendizaje automático, optimizando la composición y el impacto visual del contenido generado. Flair AI es ideal para emprendedores, diseñadores gráficos y equipos de marketing que buscan mejorar la presentación visual de sus productos sin necesidad de equipos costosos o experiencia en diseño.",
+        "release_date": "Marzo 2023",
+        "developer": "Flair AI.",
+        "main_model": "Flaritmos de aprendizaje automático para analizar y generar recomendaciones inteligentes durante el proceso de diseño, facilitando la creación de contenido visual atractivo.",
+        "pricing_plans": "Plan Básico: Prueba gratuita con acceso limitado a las herramientas de diseño.\nPlan Profesional: Desde $10 al mes, proporciona acceso completo a las funciones de la plataforma y derechos comerciales para creadores individuales.\nPlan Personalizado: Dirigido a equipos, con precios adaptados según las necesidades específicas y soporte prioritario.",
+        "license": "Flair AI sigue un modelo freemium, ofreciendo una combinación de características gratuitas y premium. Los usuarios pueden acceder a una versión básica de la herramienta de manera gratuita, mientras que las funcionalidades avanzadas requieren una suscripción de pago.",
+        "security_privacy": "Al utilizar Flair AI, los usuarios deben aceptar la polí y las condiciones de uso de la plataforma. Se recomienda revisar estos documentos en el sitio web oficial para comprender cómo se manejan los datos y garantizar la protección de la información personal.",
+        "integration": "Flair AI permite la exportación de las imágenes generadauso en diversas plataformas y herramientas de diseño. Sin embargo, no se especifican integraciones directas con otras aplicaciones."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolslist.io/best-ai-design-tools/"
+        },
+        {
+          "source_url": "https://flair.ai/"
+        },
+        {
+          "source_url": "https://intelarter.com/flair-ai/"
+        },
+        {
+          "source_url": "https://www.yeschat.ai/es/t/flair-ai"
+        },
+        {
+          "source_url": "https://todointeligenciaartificial.com/ai/flair-ai/"
+        },
+        {
+          "source_url": "https://aplicaciones.ai/flair-ai/"
+        },
+        {
+          "source_url": "https://app.flair.ai/models"
+        },
+        {
+          "source_url": "https://flair.ai/license"
+        },
+        {
+          "source_url": "https://flair.ai/pricing"
+        },
+        {
+          "source_url": "https://flair.ai/terms-of-service"
+        }
+      ]
+    },
+    "356": {
+      "app": {
+        "id": "356",
+        "name": "Flipboard Surf",
+        "url": "https://about.surf.social/",
+        "short_description": "Una nueva aplicación que entrelaza feeds de redes sociales, podcasts y YouTube para crear un feed personalizado que toca tus fuentes e intereses favoritos.",
+        "category": "Redes sociales",
+        "main_functionality": "Facilita la exploración de contenido de múltiples fuentes en la web social abierta, permitiendo a los usuarios descubrir y curar información de manera personalizada.",
+        "tags": "#NavegaciónSocial #WebDescentralizada #CuraciónDeContenido",
+        "logo_filename": "id_356_flipboard_surf",
+        "what_is": "Flipboard Surf es una aplicación desarrollada por Flipboard que actúa como un navegador para la web social abierta, permitiendo a los usuarios descubrir, explorar y curar contenido de diversas fuentes descentralizadas en un solo lugar.",
+        "purpose": "Su propósito principal es facilitar la navegación y el acceso a contenido proveniente de plataformas como Mastodon, Bluesky, feeds RSS, podcasts y YouTube, ofreciendo una experiencia unificada y personalizada para el usuario.",
+        "use_cases": "Curación de Contenido Personalizado: Los usuarios pueden crear y gestionar sus propios feeds combinando diversas fuentes de información según sus intereses específicos.\n\nExploración de la Web Social Descentralizada: Permite acceder y participar en comunidades y plataformas que operan en la web social abierta, fomentando la interacción y el descubrimiento de nuevo contenido.\n\nConsumo de Multimedia Integrado: Ofrece la posibilidad de visualizar videos, escuchar podcasts y leer artículos dentro de una misma aplicación, mejorando la experiencia de usuario.",
+        "main_advantages": "Integración de Múltiples Fuentes: Reúne contenido de diversas plataformas en un solo lugar, evitando la necesidad de utilizar múltiples aplicaciones.\n\nPersonalización Avanzada: Los usuarios pueden crear feeds personalizados que reflejen sus intereses y preferencias, mejorando la relevancia del contenido consumido.\n\nInterfaz Intuitiva y Atractiva: Diseñada para ofrecer una experiencia de usuario fluida y visualmente agradable, facilitando la navegación y el descubrimiento de contenido.\n\nAcceso a la Web Social Abierta: Facilita la participación en la web social descentralizada, promoviendo la diversidad de contenido y la interacción con comunidades globales.",
+        "long_description": "Flipboard Surf es una aplicación desarrollada por Flipboard que permite a los usuarios explorar y navegar por la web social abierta, integrando contenido de diversas plataformas descentralizadas como Mastodon, Bluesky, feeds RSS, podcasts y YouTube. Ofrece una experiencia de navegación unificada y personalizada, permitiendo la creación de fuentes de información adaptadas a los intereses específicos de cada usuario.",
+        "release_date": "Diciembre 2024",
+        "developer": "Flipboard",
+        "main_model": "La información sobre planes de suscripción específicos para Flipboard Surf no está disponible. Sin embargo, Flipboard ofrece su aplicación principal de forma gratuita.",
+        "pricing_plans": "La información sobre planes de suscripción específicos para Flipboard Surf no está disponible. Sin embargo, Flipboard ofrece su aplicación principal de forma gratuita.",
+        "license": "Propietaria",
+        "security_privacy": "Flipboard se compromete a proteger la privacidad de sus usuarios, implementando medidas de seguridad para salvaguardar la información personal. Se recomienda revisar la política de privacidad de Flipboard para obtener detalles específicos. \n",
+        "integration": "Flipboard Surf se integra con diversas plataformas de la web social abierta, incluyendo Mastodon, Bluesky, feeds RSS, podcasts y YouTube, permitiendo a los usuarios acceder a una amplia gama de contenido desde una única aplicación."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://about.surf.social/?utm_source=superhuman&utm_medium=referral&utm_campaign=researchers-build-4d-world-generator"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/flipboard-surf/launches"
+        },
+        {
+          "source_url": "https://techcrunch.com/2024/12/18/flipboard-launches-surf-a-new-app-for-browsing-the-open-social-web/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuYmluZy5jb20v&guce_referrer_sig=AQAAADd1rq_JNSJrDVZ12YzQwRfBjT-wVJuvUO123xva0qqUb2pvJkM_Xk-XPth-pT7lTg684Q43Ixc-QtGGZBEY3mky6EVEsp51s2HjpOiznVpuKEfYu5HMMmGd6hNzyzGNf4IAT5ct7hCkUdSxWiG-Hjpbtnp6IPmZoK9TA-oNPrkC"
+        },
+        {
+          "source_url": "https://www.theverge.com/2024/12/18/24323903/flipboard-surf-fediverse-social-web-app"
+        },
+        {
+          "source_url": "https://tecnemia.com/a/6224/Flipboard-presenta-Surf-la-nueva-era-de-la-navegacion-social"
+        }
+      ]
+    },
+    "406": {
+      "app": {
+        "id": "406",
+        "name": "Flipner",
+        "url": "https://www.flipner.com/",
+        "short_description": "Asistente de escritura de bolsillo que captura tus ideas y elabora textos con el toque de la IA.",
+        "category": "Redacción",
+        "main_functionality": "Transcripción de audio a texto para crear artículos listos para publicar, ofreciendo múltiples estilos de escritura y soporte para más de 30 idiomas.",
+        "tags": "#IA #VozATexto #GeneraciónDeContenido #Multilingüe #AsistenteDeEscritura",
+        "logo_filename": "id_406_flipner",
+        "what_is": "Flipner es una herramienta de inteligencia artificial que convierte tus ideas habladas en textos estructurados y listos para ser utilizados. Ideal para creadores de contenido, bloggers y profesionales que necesitan redactar documentos de manera eficiente, utiliza tecnología avanzada de reconocimiento de voz y generación de texto.",
+        "purpose": "Sirve para transformar grabaciones de voz o ideas habladas en contenido escrito, como artículos, blogs, correos electrónicos y más. Ofrece soporte para múltiples idiomas y estilos de escritura, optimizando el tiempo y la productividad de los usuarios.",
+        "use_cases": "Blogger y escritores: Redactar publicaciones completas en blogs a partir de notas habladas.\nProfesionales ocupados: Crear documentos, correos electrónicos o informes a partir de dictados de voz.\nMarketing de contenido: Producir textos rápidos para publicaciones en redes sociales o campañas de marketing.\nEducación: Transcribir conferencias, notas o discursos en textos editables.\nMultilingües: Generar contenido en varios idiomas para audiencias globales.",
+        "main_advantages": "Velocidad: Aumenta la rapidez de redacción hasta 10 veces al usar voz en lugar de escritura manual.\nPrecisión: Alta precisión en la conversión de voz a texto, incluso para idiomas complejos.\nVariedad de estilos: Ofrece múltiples estilos de escritura que se pueden adaptar al tono o formato deseado.\nSoporte multilingüe: Compatible con más de 30 idiomas, facilitando la creación de contenido global.\nFacilidad de uso: Interfaz intuitiva que permite a cualquier usuario aprovechar sus beneficios sin curva de aprendizaje significativa.",
+        "long_description": "Flipner es una aplicación impulsada por inteligencia artificial que permite a los usuarios convertir sus ideas habladas en artículos escritos de manera eficiente. Utilizando tecnología avanzada de reconocimiento de voz y procesamiento de lenguaje natural, Flipner transcribe el habla en texto y lo estructura en diferentes estilos de escritura, facilitando la creación de contenido en más de 30 idiomas. Esta herramienta es ideal para bloggers, creadores de contenido y profesionales que buscan optimizar su flujo de trabajo y aumentar su productividad.",
+        "release_date": "Febrero 2024",
+        "developer": "Aleks Ego LLC",
+        "main_model": "Flipner utiliza modelos de inteligencia artificial especializados en reconocimiento de voz y procesamiento de lenguaje natural para transcribir y estructurar el contenido hablado en texto escrito. Los detalles específicos sobre los modelos o algoritmos empleados no han sido divulgados públicamente.",
+        "pricing_plans": "Plan Gratuito: Acceso limitado con funcionalidades básicas.\nPlan Pro: Acceso a características avanzadas y mayor capacidad de uso.\nPlan Empresarial: Soluciones personalizadas para equipos y organizaciones.",
+        "license": "Propietaria",
+        "security_privacy": "Flipner se compromete a proteger la información de sus usuarios mediante la implementación de medidas de seguridad estándar en la industria. Se recomienda revisar la política de privacidad en su sitio web oficial para obtener detalles específicos sobre cómo se manejan los datos de los usuarios.",
+        "integration": "Flipner permite la exportación de los artículos generados en diversos formatos, facilitando su integración con plataformas de publicación, herramientas de edición de texto y sistemas de gestión de contenido. Además, su compatibilidad con múltiples idiomas amplía su utilidad en diversos contextos y mercados."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.flipner.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=copilot-will-soon-see-what-you-see"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/flipner-ai"
+        },
+        {
+          "source_url": "https://www.digitalizelife.com/tools/flipner-ai/"
+        },
+        {
+          "source_url": "https://gptzone.net/aplicaciones-ia/flipner/"
+        },
+        {
+          "source_url": "https://appsumo.com/products/flipner/"
+        },
+        {
+          "source_url": "https://www.aitoolnet.com/es/flipner-ai"
+        },
+        {
+          "source_url": "https://atozaitools.com/ai/flipner-ai/"
+        },
+        {
+          "source_url": "https://www.flipner.com/#use-cases"
+        },
+        {
+          "source_url": "https://www.flipner.com/pricing"
+        },
+        {
+          "source_url": "https://www.flipner.com/privacy-policy"
+        }
+      ]
+    },
+    "493": {
+      "app": {
+        "id": "493",
+        "name": "Filmora\n",
+        "url": "https://filmora.wondershare.com/",
+        "short_description": "Software de edición de video intuitivo y potente que incorpora herramientas basadas en inteligencia artificial para facilitar la creación de contenido audiovisual de alta calidad.",
+        "category": "Edición de video",
+        "main_functionality": "Permite a los usuarios editar y personalizar videos mediante una amplia gama de funciones, incluyendo plantillas prediseñadas, efectos especiales, y herramientas de IA que optimizan el proceso de edición.",
+        "tags": "#EdiciónDeVideo #InteligenciaArtificial #SoftwareMultimedia",
+        "logo_filename": "id_493_filmora",
+        "what_is": "Filmora es un software de edición de video desarrollado por Wondershare, diseñado para ofrecer herramientas avanzadas de edición tanto a principiantes como a profesionales. Su interfaz intuitiva y sus múltiples funciones permiten crear videos de alta calidad de manera eficiente.",
+        "purpose": "Filmora permite a los usuarios editar y personalizar videos mediante una amplia gama de funciones, incluyendo plantillas prediseñadas, efectos especiales y herramientas basadas en inteligencia artificial que optimizan el proceso de edición. \n",
+        "use_cases": "Creación de Contenido para Redes Sociales: Ideal para influencers y creadores de contenido que buscan producir videos atractivos para plataformas como YouTube, Instagram o TikTok.\nProducción de Videos Educativos: Utilizado por educadores para desarrollar material didáctico en formato audiovisual, facilitando el aprendizaje interactivo.\nMarketing y Publicidad: Empresas y profesionales de marketing emplean Filmora para crear anuncios y presentaciones promocionales de alta calidad.",
+        "main_advantages": "Interfaz Intuitiva: Diseño fácil de usar que permite a los usuarios familiarizarse rápidamente con las herramientas de edición.\nFunciones Avanzadas de IA: Incorpora más de 20 herramientas impulsadas por inteligencia artificial que facilitan procesos creativos avanzados con solo un clic. \n\nAmplia Biblioteca de Recursos: Acceso a más de 2.3 millones de recursos creativos, incluyendo plantillas, efectos, música y más. \n\nCompatibilidad Multiplataforma: Disponible para dispositivos con Windows, macOS, iOS y Android, ofreciendo flexibilidad en la edición de proyectos en diferentes entornos. \n",
+        "long_description": "Filmora es un software de edición de video desarrollado por Wondershare, diseñado para ofrecer herramientas avanzadas de edición tanto a principiantes como a profesionales. Su interfaz intuitiva y sus múltiples funciones permiten crear videos de alta calidad de manera eficiente. La versión más reciente, Filmora 14, incorpora más de diez nuevas herramientas impulsadas por inteligencia artificial (IA), como el Corte de Escena Inteligente, la Traducción con IA-Lip-Sync, el Mosaico de Cara con IA y el Efecto de Sonido con IA, que optimizan el proceso de edición y mejoran la calidad del contenido audiovisual.",
+        "release_date": "2015",
+        "developer": "Wondershare Technology.",
+        "main_model": "Filmora incorpora diversas herramientas impulsadas por inteligencia artificial para funciones como mejora de video, mejora de voz, paleta de colores y eliminación de ruido, entre otras.",
+        "pricing_plans": "Plan de Suscripción Anual: Permite el uso de Filmora durante un año, incluyendo todas las actualizaciones y mejoras durante el período de suscripción. \n\nPlan Perpetuo: Ofrece una licencia permanente para la versión actual de Filmora, con actualizaciones incluidas para esa versión, pero no para futuras versiones principales. \n\nPlanes para Equipos (Team): Brindan la flexibilidad de aprovisionar, rastrear y administrar licencias en grupos y equipos, con precios ajustados según el número de usuarios. ",
+        "license": "Propietaria",
+        "security_privacy": "Wondershare, la empresa desarrolladora de Filmora, se compromete a proteger la privacidad de los usuarios y la seguridad de los datos. Aunque no se especifican detalles en las fuentes consultadas, generalmente, las empresas de software implementan medidas de seguridad para proteger la información de los usuarios.",
+        "integration": "Filmora permite la importación y exportación de diversos formatos de archivos de video y audio, facilitando la integración con otras herramientas de edición y plataformas de distribución de contenido. Además, ofrece funciones para compartir directamente en redes sociales y plataformas de video en línea."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/filmora"
+        },
+        {
+          "source_url": "https://filmora.wondershare.com/create-ai-generated-video-with-chatgpt.html?utm_source=article&utm_medium=fxen&sscid=11k9_a9nxv"
+        },
+        {
+          "source_url": "https://www.techspot.com/downloads/7462-wondershare-filmora.html"
+        },
+        {
+          "source_url": "https://www.neuralword.com/es/tecnologia-innovacion/telefonia-accesorios-y-aplicaciones-para-smartphones/como-funciona-filmora-todo-lo-que-necesitas-saber-sobre-este-software-de-edicion-de-videos"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/wondershare-filmora-es/"
+        },
+        {
+          "source_url": "https://www.bolsamania.com/nota-de-prensa/mercados/wondershare-filmora-14-revoluciona-la-edicion-de-video-con-funciones-avanzadas-de-ia--17715102.html"
+        }
+      ]
+    },
+    "537": {
+      "app": {
+        "id": "537",
+        "name": "Faang",
+        "url": "https://www.faangai.com/",
+        "short_description": "Crea experiencias de entrevista personalizadas que se adapten a tu estilo y necesidades únicos, lo que te permite diseñar más rápido que nunca.\n",
+        "category": "Reclutamiento",
+        "main_functionality": "Simulación de entrevistas técnicas con un entrevistador de IA personalizable, proporcionando retroalimentación inmediata para mejorar las habilidades del candidato.",
+        "tags": "#AutomatizaciónDeReclutamiento #EntrevistasTécnicas #PreparaciónDeEntrevistas #IA #SimulaciónDeEntrevistas",
+        "logo_filename": "id_537_faang",
+        "what_is": "FAANG es una plataforma impulsada por inteligencia artificial que ofrece herramientas personalizables para la preparación de entrevistas técnicas. Permite a los usuarios crear un \"Buddy\" de IA adaptado a sus necesidades específicas, facilitando sesiones de práctica interactivas y brindando retroalimentación en tiempo real.",
+        "purpose": "Su propósito principal es ayudar a los candidatos a prepararse eficazmente para entrevistas técnicas, especialmente en empresas tecnológicas de primer nivel, mediante la simulación de entrevistas y la provisión de consejos personalizados.",
+        "use_cases": "Práctica de entrevistas técnicas: Simula entrevistas con un entrevistador de IA para mejorar habilidades en algoritmos, estructuras de datos y diseño de sistemas. \n\nRetroalimentación personalizada: Ofrece análisis detallados de las respuestas del usuario, destacando fortalezas y áreas de mejora. \n\nPreparación para entrevistas en empresas FAANG: Proporciona recursos y simulaciones específicas para entrevistas en empresas como Facebook, Amazon, Apple, Netflix y Google.",
+        "main_advantages": "Personalización: Permite crear un entrevistador de IA adaptado a las necesidades y objetivos específicos del usuario. \n\nAccesibilidad: Ofrece la posibilidad de practicar entrevistas en cualquier momento y lugar, facilitando una preparación flexible.\nEficiencia: Brinda retroalimentación inmediata, lo que permite a los usuarios mejorar rápidamente sus habilidades de entrevista.\nDiversidad de recursos: Incluye plantillas de entrevistadores especializados en diversas áreas, como aprendizaje automático, ciencia de datos y marketing. ",
+        "long_description": "FAANG es una aplicación impulsada por inteligencia artificial diseñada para optimizar la preparación de entrevistas técnicas, especialmente en empresas tecnológicas de primer nivel. Ofrece herramientas personalizables que permiten a los usuarios crear un \"Buddy\" de IA adaptado a sus necesidades específicas, facilitando sesiones de práctica interactivas y brindando retroalimentación en tiempo real.",
+        "release_date": "Noviembre 2024",
+        "developer": "FAANG, Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.faangai.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=ai-slashes-healthcare-waste"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/faang"
+        },
+        {
+          "source_url": "https://medium.com/@jeyadev_needhi/the-evolution-and-application-of-ai-in-faang-companies-494f7f00608e"
+        },
+        {
+          "source_url": "https://huntscreens.com/en/products/faang"
+        },
+        {
+          "source_url": "https://theresanaiforthat-com.webpkgcache.com/doc/-/s/theresanaiforthat.com/gpt/faang-ai/"
+        },
+        {
+          "source_url": "https://www.saasworthy.com/product/faang-ai"
+        },
+        {
+          "source_url": "https://faangm.org/how-faang-is-using-ai-to-make-your-life-easier-and-why-you-should-care/"
+        },
+        {
+          "source_url": "https://www.faang.ai/"
+        },
+        {
+          "source_url": "https://www.faang.ai/faang"
+        },
+        {
+          "source_url": "https://www.aitoolnet.com/faang"
+        }
+      ]
+    },
+    "560": {
+      "app": {
+        "id": "560",
+        "name": "FactSnap",
+        "url": "https://factsnap.nand.io/",
+        "short_description": "Utiliza la IA para verificar rápidamente la información mientras navegas por la web.",
+        "category": "Detección",
+        "main_functionality": "Facilita la comprobación de la veracidad de afirmaciones en línea al resaltar texto y proporcionar resultados inmediatos sobre su precisión, apoyándose en inteligencia artificial para el análisis.",
+        "tags": "#VerificaciónDeDatos #ExtensiónNavegador #InteligenciaArtificial",
+        "logo_filename": "id_560_factsnap",
+        "what_is": "FactSnap es una extensión gratuita para el navegador Chrome que actúa como un asistente de verificación de hechos en tiempo real. Utiliza inteligencia artificial para comparar afirmaciones encontradas en línea con fuentes relevantes, proporcionando al usuario una evaluación inmediata sobre la precisión de la información.",
+        "purpose": "Su propósito principal es combatir la propagación de noticias falsas y fomentar una sociedad más informada. Al ofrecer recursos y contexto necesarios para evaluar afirmaciones, FactSnap promueve el pensamiento crítico sin imponer creencias, permitiendo a los usuarios tomar decisiones basadas en evidencia y razonamiento.",
+        "use_cases": "Verificación de Noticias: Al leer artículos en línea, los usuarios pueden resaltar declaraciones específicas y utilizar FactSnap para confirmar su veracidad.\n\nComprobación de Datos en Redes Sociales: Mientras navegan por plataformas sociales, los usuarios pueden verificar la exactitud de las afirmaciones compartidas.\n\nInvestigación Académica: Estudiantes y académicos pueden validar información encontrada en línea para asegurar la precisión de sus fuentes.",
+        "main_advantages": "Acceso Inmediato a la Verificación: Facilita la comprobación de hechos directamente desde el navegador sin necesidad de herramientas adicionales.\n\nPromoción del Pensamiento Crítico: Proporciona contexto y recursos para que los usuarios evalúen la información de manera informada.\n\nGratuito y Fácil de Usar: Disponible sin costo y con una interfaz sencilla que mejora la experiencia de navegación.",
+        "long_description": "FactSnap es una extensión gratuita para el navegador Chrome que actúa como un asistente de verificación de hechos en tiempo real. Utiliza inteligencia artificial para comparar afirmaciones encontradas en línea con fuentes relevantes, proporcionando al usuario una evaluación inmediata sobre la precisión de la información. Al resaltar el texto de interés y hacer clic en el ícono de FactSnap, los usuarios reciben una indicación sobre la veracidad de la declaración, ya sea precisa, sospechosa o incorrecta, en cuestión de segundos.",
+        "release_date": "Enero 2025",
+        "developer": "Studio NAND.",
+        "main_model": "No disponible",
+        "pricing_plans": "FactSnap es una extensión gratuita para el navegador Chrome.",
+        "license": "No disponible",
+        "security_privacy": "No disponible",
+        "integration": "Actualmente, FactSnap está disponible como una extensión para el navegador Chrome."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://factsnap.nand.io/?utm_source=superhuman&utm_medium=referral&utm_campaign=major-player-enters-the-agi-race"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/factsnap"
+        },
+        {
+          "source_url": "https://factsnap.nand.io/data-privacy"
+        }
+      ]
+    },
+    "594": {
+      "app": {
+        "id": "594",
+        "name": "Fenado AI",
+        "url": "https://fenado.ai/",
+        "short_description": "Una plataforma impulsada por IA que convierte sus ideas en aplicaciones y sitios web completamente funcionales sin código.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Generación de aplicaciones móviles y sitios web a través de interacciones de chat con IA, facilitando el proceso desde el diseño hasta la publicación sin requerir experiencia técnica.",
+        "tags": "#DesarrolloDeAplicaciones #NoCode #InteligenciaArtificial",
+        "logo_filename": "id_594_fenado_ai",
+        "what_is": "Fenado AI es una plataforma que permite a los usuarios crear aplicaciones móviles y sitios web completamente funcionales en cuestión de minutos, sin necesidad de conocimientos de programación.",
+        "purpose": "La plataforma está diseñada para facilitar la transformación de ideas en productos digitales operativos, permitiendo a emprendedores, pequeñas empresas y profesionales independientes desarrollar y lanzar aplicaciones y sitios web de manera rápida y eficiente.",
+        "use_cases": "Emprendedores y Fundadores: Transformar una visión en una aplicación o sitio web funcional en minutos.\nStartups en Etapa Temprana: Prototipar y validar ideas de productos de forma rápida.\nGerentes de Producto: Construir e iterar características sin depender de equipos técnicos.\nDesarrolladores Independientes: Lanzar proyectos paralelos más rápido que nunca.\nDiseñadores: Convertir diseños en aplicaciones o sitios web reales al instante.\nPequeñas Empresas: Crear aplicaciones móviles o sitios web personalizados para servir mejor a sus clientes.",
+        "main_advantages": "Prototipos Instantáneos: Crear y compartir prototipos funcionales con el equipo de forma inmediata.\nCreación Impulsada por IA: Construir sitios web y aplicaciones simplemente describiendo la idea a la IA.\nDiseño con IA: Generar diseños atractivos para sitios web y aplicaciones en minutos.\nPanel de Negocios: Monitorear todos los aspectos del negocio en un solo lugar con análisis integrados.\nEscalabilidad Incorporada: Manejar desde el primer usuario hasta millones, gestionando toda la complejidad técnica.\nLanzamiento Rápido: Pasar de la idea al producto en vivo en días, no meses.\n\n",
+        "long_description": "Fenado AI es una plataforma innovadora que permite a los usuarios crear aplicaciones móviles y sitios web completamente funcionales en minutos, sin necesidad de conocimientos de programación. A través de una interfaz de chat impulsada por inteligencia artificial, los usuarios pueden describir sus ideas y preferencias de diseño, y la plataforma se encarga de transformar esas descripciones en productos digitales operativos.",
+        "release_date": "Enero 2025",
+        "developer": "Fenado AI (anteriormente conocida como Cades). Fenado AI LLC",
+        "main_model": "No disponible",
+        "pricing_plans": "Fenado AI ofrece dos planes de suscripción:\n\nPrototype: $20 USD al mes. Incluye la capacidad de chatear con la IA para crear pantallas de aplicaciones, crear prototipos ilimitados de aplicaciones móviles y sitios web, y compartir fácilmente estos prototipos.\n\nBusiness: $200 USD al mes. Incluye todas las características del plan Prototype, además de la capacidad de crear aplicaciones y sitios web funcionales a partir de prototipos, publicar sitios web en dominios personalizados, APIs personalizadas y alojamiento backend, un gerente de cuenta dedicado y soporte prioritario.",
+        "license": "No disponible",
+        "security_privacy": "No disponible",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://fenado.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=deepseek-drops-a-major-new-reasoning-model-that-rivals-o1"
+        },
+        {
+          "source_url": "https://www.crunchbase.com/organization/cades-7d63"
+        },
+        {
+          "source_url": "https://huntscreens.com/es/products/fenado-ai"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/fenado-ai?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://www.aisharenet.com/en/fenado-ai/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://www.saasworthy.com/product/fenado-ai"
+        }
+      ]
+    },
+    "602": {
+      "app": {
+        "id": "602",
+        "name": "Firecrawl",
+        "url": "https://www.firecrawl.dev/",
+        "short_description": "Extraiga datos estructurados de cualquier sitio web utilizando indicaciones de lenguaje natural.",
+        "category": "Automatización",
+        "main_functionality": "Firecrawl permite a los usuarios transformar sitios web completos en datos estructurados o en formato Markdown adecuado para aplicaciones de IA, manejando contenido dinámico y superando mecanismos anti-scraping.",
+        "tags": "#ExtracciónDeDatos #WebScraping #IA #LLM #Markdown",
+        "logo_filename": "id_602_firecrawl",
+        "what_is": "Firecrawl es una herramienta avanzada diseñada para la extracción de datos web. Permite a los desarrolladores y empresas convertir sitios web en datos estructurados, simplificando la preparación de información para su análisis o uso en modelos de inteligencia artificial.",
+        "purpose": "Firecrawl sirve para automatizar la extracción y estructuración de datos de sitios web, incluyendo aquellos con contenido dinámico o que implementan mecanismos anti-scraping. Es especialmente útil para preparar datos para entrenar modelos de IA, realizar análisis de mercado o alimentar sistemas internos con información actualizada.",
+        "use_cases": "Entrenamiento de modelos de IA: Extraer datos de la web en formatos compatibles con modelos de lenguaje de gran tamaño (LLM).\nAnálisis de mercado: Obtener información de sitios web de competidores o tendencias del sector.\nInvestigación académica: Compilar información relevante de múltiples fuentes en línea.\nGestión de contenido: Convertir sitios web en Markdown para simplificar su integración en plataformas de publicación.\nRastreo de precios: Automatizar la recopilación de precios y productos de plataformas de e-commerce.",
+        "main_advantages": "Supera mecanismos anti-scraping: Diseñado para manejar restricciones comunes en la extracción de datos.\nSoporte para contenido dinámico: Capacidad de procesar sitios web que utilizan JavaScript o frameworks modernos.\nEstructuración optimizada: Convierte contenido web en formatos estructurados o Markdown listos para usar.\nEficiencia y escalabilidad: Ideal para proyectos pequeños o grandes volúmenes de datos.\nIntegración sencilla: Compatible con aplicaciones a través de una única llamada a su API.",
+        "long_description": "Firecrawl es una plataforma diseñada para facilitar la extracción de datos de la web, permitiendo a los desarrolladores convertir URLs en datos estructurados o en formato Markdown listo para modelos de lenguaje de gran tamaño (LLM) mediante una única llamada a su API. La herramienta está diseñada para manejar contenido dinámico y superar mecanismos anti-scraping, ofreciendo una solución robusta para la recopilación de datos en diversos contextos.\n\n",
+        "release_date": "2022",
+        "developer": "Firecrawl es desarrollada por una empresa emergente con sede en San Francisco, fundada por Caleb Peffer (CEO), Eric Ciarla (COO) y Nicolas Silberstein Camara (CTO).",
+        "main_model": "Firecrawl utiliza inteligencia artificial para interpretar y extraer datos de sitios web, transformándolos en formatos estructurados o en Markdown adecuado para su uso en modelos de lenguaje de gran tamaño (LLM).",
+        "pricing_plans": "Firecrawl ofrece planes flexibles para scraping web:\n\nGratuito: 500 créditos gratis; hasta 10 solicitudes/minuto en /scrape.\nHobby ($16/mes): 3,000 créditos/mes, 20 solicitudes/minuto en /scrape.\nStandard ($83/mes): 100,000 créditos/mes, 100 solicitudes/minuto, 3 usuarios.\nGrowth ($333/mes): 500,000 créditos/mes, 1,000 solicitudes/minuto, 5 usuarios.\nEnterprise: Créditos y límites personalizados; precio a consultar.\nCréditos: /scrape consume 1 crédito/página, y 5 si se solicita en JSON; /crawl consume 1 crédito/página. Complementos: recargas a $11 por cada 1,000 créditos.\n\nPlanes adaptables para individuos, equipos y empresas con necesidades avanzadas.",
+        "license": "No disponible",
+        "security_privacy": "Firecrawl no proporciona públicamente detalles específicos sobre sus políticas de seguridad y privacidad. Se recomienda ponerse en contacto directamente con la empresa para obtener información detallada sobre cómo manejan y protegen los datos de los usuarios.",
+        "integration": "Firecrawl ofrece una API que facilita su integración con diversas aplicaciones y flujos de trabajo. Además, proporciona compatibilidad con herramientas de automatización como Zapier, permitiendo a los usuarios incorporar fácilmente las capacidades de extracción de datos de Firecrawl en sus sistemas existentes."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.firecrawl.dev/extract?utm_source=superhuman&utm_medium=referral&utm_campaign=ai-steals-the-show-at-davos"
+        },
+        {
+          "source_url": "https://www.ycombinator.com/companies/firecrawl"
+        },
+        {
+          "source_url": "https://aiagentstore.ai/ai-agent/firecrawl"
+        },
+        {
+          "source_url": "https://www.firecrawl.dev/pricing"
+        },
+        {
+          "source_url": "https://www.firecrawl.dev/privacy-policy"
+        }
+      ]
+    },
+    "720": {
+      "app": {
+        "id": "720",
+        "name": "Fellow",
+        "url": "https://fellow.app/",
+        "short_description": "Mejora la productividad de las reuniones mediante la creación de agendas colaborativas, transcripciones en tiempo real y seguimiento de tareas.",
+        "category": "Productividad",
+        "main_functionality": "Asistencia en reuniones a través de IA que permite la creación de agendas, transcripción de conversaciones y generación de resúmenes y tareas.",
+        "tags": "#AI #AsistenteDeReuniones #Productividad",
+        "logo_filename": "id_720_fellow",
+        "what_is": "Fellow es una plataforma que utiliza inteligencia artificial para optimizar la gestión de reuniones, proporcionando herramientas para agendas colaborativas, transcripciones automáticas y seguimiento de acciones.",
+        "purpose": "Sirve para facilitar la planificación, ejecución y seguimiento de reuniones, asegurando que las discusiones sean productivas y que las decisiones y tareas se registren y asignen adecuadamente.",
+        "use_cases": "Empresas que buscan mejorar la eficiencia de sus reuniones, equipos remotos que necesitan herramientas colaborativas y organizaciones que desean un registro preciso de discusiones y decisiones.",
+        "main_advantages": "Mejora la organización de las reuniones, facilita la colaboración en tiempo real, proporciona transcripciones precisas y ayuda en el seguimiento de tareas y decisiones.",
+        "long_description": "Fellow es una solución integral para la gestión de reuniones que incorpora inteligencia artificial para mejorar la productividad y colaboración en equipos. Ofrece herramientas para crear agendas colaborativas, transcribir reuniones en tiempo real en múltiples idiomas y generar resúmenes automáticos que destacan puntos clave y decisiones. Además, permite asignar y rastrear tareas derivadas de las reuniones, integrándose con más de 50 herramientas de productividad como Asana, Jira y Slack. Fellow también proporciona análisis detallados sobre los patrones de productividad en las reuniones, ayudando a las organizaciones a optimizar sus procesos.",
+        "release_date": "No disponible",
+        "developer": "Fellow Insights, Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "Free: $0 por usuario/mes, incluye funciones básicas para equipos pequeños.​\n\nPro: $7 por usuario/mes (facturado anualmente), incluye funciones avanzadas y 25 grabaciones de reuniones.​\n\nBusiness: $10 por usuario/mes (facturado anualmente), diseñado para soporte de reuniones a nivel organizacional con 100 grabaciones de reuniones.​\n\nEnterprise: Contacto con ventas para detalles y precios personalizados. ",
+        "license": "Propietario",
+        "security_privacy": "Fellow cumple con los estándares SOC 2 y GDPR, asegurando la protección de datos. Utiliza cifrado AES de 256 bits para datos en reposo y HTTPS para comunicaciones. Los datos se respaldan en AWS y se mantienen durante 30 días.",
+        "integration": "Compatible con más de 50 herramientas, incluyendo Asana, Jira, Slack, Salesforce, HubSpot, Google Calendar, Microsoft Teams y Notion, facilitando la sincronización y automatización de flujos de trabajo."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Lokalise mejora la gestión de reuniones con Fellow",
+          "description": "Elliot Lee, VP de Ingeniería en Lokalise, destacó que Fellow es fácil de aprender y usar, y que ha sido adoptado por el equipo de liderazgo, mejorando la gestión de reuniones en la empresa.",
+          "url": "https://fellow.app/?utm_source=chatgpt.com"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://fellow.app/?via=aitoolsdirectory-com"
+        },
+        {
+          "source_url": "https://krisp.ai/blog/fellow-app-vs-rewind/"
+        },
+        {
+          "source_url": "https://www.softwareadvice.com/productivity/fellow-profile"
+        },
+        {
+          "source_url": "https://www.nudgesecurity.com/security-profile/fellow-app"
+        }
+      ]
+    },
+    "760": {
+      "app": {
+        "id": "760",
+        "name": "Fliki",
+        "url": "https://fliki.ai/",
+        "short_description": "Transforma tus ideas en impresionantes vídeos con un generador de vídeos de IA fácil de usar.",
+        "category": "Texto a video",
+        "main_functionality": "Conversión de texto en videos y audios utilizando inteligencia artificial, con opciones de personalización de voz, idioma y elementos visuales.",
+        "tags": "#TextToVideo #TextToSpeech #VoiceCloning #AIContentCreation",
+        "logo_filename": "id_760_fliki",
+        "what_is": "Fliki es una plataforma basada en inteligencia artificial que permite convertir texto en videos y audios con voces realistas. Ofrece una interfaz sencilla y herramientas que facilitan la creación de contenido multimedia de manera eficiente.",
+        "purpose": "Sirve para crear videos y audios a partir de texto, facilitando la producción de contenido para redes sociales, educación, marketing, comercio electrónico y más, sin requerir habilidades técnicas avanzadas.",
+        "use_cases": "Creación de videos para YouTube, TikTok, Instagram; generación de podcasts y audiolibros; producción de videos educativos y de formación; desarrollo de contenido promocional y explicativo para productos; localización y traducción de contenido multimedia.",
+        "main_advantages": "Interfaz intuitiva que simplifica la creación de contenido.​\n\nAmplia variedad de voces realistas en múltiples idiomas y dialectos.​\n\nPosibilidad de personalizar elementos visuales y de audio.​\n\nAcceso a una extensa biblioteca de medios de stock.​\n\nOpciones de exportación en formatos comunes como MP4.",
+        "long_description": "Fliki es una herramienta de inteligencia artificial que transforma texto en contenido multimedia, permitiendo a los usuarios crear videos y audios con voces realistas. La plataforma ofrece una interfaz basada en guiones, facilitando la edición y personalización del contenido. Con soporte para más de 80 idiomas y una amplia gama de voces, Fliki se adapta a diversas necesidades de creación de contenido. Además, proporciona acceso a una extensa biblioteca de medios de stock y permite la exportación de videos en formatos estándar.",
+        "release_date": "No disponible",
+        "developer": "Nine Thirty Five",
+        "main_model": "No disponible",
+        "pricing_plans": "Plan Gratuito: Incluye 5 minutos de créditos mensuales para crear videos y audios.​\n\nPlanes de Pago: Ofrecen características adicionales como mayor duración de contenido, eliminación de marca de agua y derechos comerciales.",
+        "license": "Propietaria",
+        "security_privacy": "liki opera completamente en línea y no requiere la descarga de software adicional. No se encontraron detalles específicos sobre políticas de seguridad y privacidad en la información disponible.",
+        "integration": "No se encontraron detalles específicos sobre integraciones con otras herramientas o plataformas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://fliki.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=amazon-challenges-ai-coding-skeptics"
+        },
+        {
+          "source_url": "https://www.youtube.com/watch?v=j5xCskahxbY"
+        }
+      ]
+    },
+    "949": {
+      "app": {
+        "id": "949",
+        "name": "Fathom AI",
+        "url": "https://fathom.video/",
+        "short_description": "Un tomador de notas de IA para grabar, transcribir y resumir sus reuniones para que pueda concentrarse en la conversación.",
+        "category": "Productividad",
+        "main_functionality": "Captura automática de audio/video de reuniones, transcripción en tiempo real y generación de resúmenes y acciones clave.",
+        "tags": "#Transcripción #ResúmenesAI #ClipsDeReunión #IntegraciónCRM #AsistenteDeReuniones",
+        "logo_filename": "id_949_fathomai",
+        "what_is": "Fathom AI es un notetaker potenciado por IA que se integra con las principales plataformas de videoconferencia para grabar, transcribir y generar resúmenes y destacados de tus reuniones de forma automática.",
+        "purpose": "Su propósito es liberar al usuario de la tarea de tomar apuntes, asegurar que no se pierda información clave y facilitar el seguimiento de tareas y decisiones surgidas en cada reunión.",
+        "use_cases": "Equipos de ventas que quieren registrar puntos clave y sincronizarlos con su CRM.\n\nGerentes y directivos que asisten a múltiples reuniones diarias y necesitan resúmenes rápidos.\n\nEquipos de Customer Success que desean documentar acciones y seguimientos con clientes.\n\nÁreas de RR.HH. que usan resúmenes para agilizar procesos de entrevistas iniciales.",
+        "main_advantages": "Ahorro de ~20 minutos por reunión gracias a la automatización \n\n“Ask Fathom”: asistente conversacional para consultar grabaciones y obtener insights al instante.\n\nCompartir clips destacados en Slack u otras plataformas.\n\nIntegraciones nativas con Salesforce, HubSpot, Close y Zapier.",
+        "long_description": "Fathom AI se instala como aplicación/ extensión en Zoom, Google Meet o Teams. Durante la reunión graba audio y video, genera la transcripción en tiempo real y, al finalizar, ofrece:\n\nResúmenes inteligentes (diferentes formatos: resumen ejecutivo, temas clave, decisión y siguientes pasos).\n\nDetección de “action items” y tareas.\n\nClips seleccionables de momentos relevantes.\n\nBúsqueda conversacional (“Ask Fathom”) para obtener fragmentos o insights.\nTodo ello con almacenamiento ilimitado y opciones de sincronización automática con CRMs y canales como Slack, Google Docs, Asana, Notion, Todoist, etc.",
+        "release_date": "2020",
+        "developer": "Fathom (San Francisco, CA) ",
+        "main_model": "No disponible",
+        "pricing_plans": "Free: Gratis para siempre, grabaciones y transcripciones ilimitadas, 5 resúmenes avanzados/mes \n\nPremium (Individual): US$15/mes por usuario (facturación anual) o US$19/mes mensual; resúmenes y funciones AI ilimitadas, personalización y branding \n\nTeam Edition: US$19/mes por usuario; funciones de equipo, repositorio compartido, alertas, analíticas básicas \n\nTeam Edition Pro: US$29–39/mes por usuario; incluye Deal View, coaching metrics, SSO, políticas de retención avanzadas",
+        "license": "Propietaria, modelo SaaS.\n\n",
+        "security_privacy": "Aseguran que el IA nunca se entrena con tus datos de reunión, manteniendo confidencialidad \n\nCumplimiento GDPR (mencionado en comparativas y en G2) .\n\nOpciones de retención y borrado de datos en planes avanzados.",
+        "integration": "Videoconferencia: Zoom, Google Meet, Microsoft Teams \n\nCRM: Salesforce, HubSpot, Close, Zapier \n\nOtros: Slack, Google Docs, Gmail, Asana, Notion, Todoist, etc. "
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://fathom.video/?utm_source=superhuman&utm_medium=referral&utm_campaign=making-sense-of-manus-mania"
+        },
+        {
+          "source_url": "https://www.g2.com/products/fathom-video/reviews"
+        },
+        {
+          "source_url": "https://www.meetjamie.ai/blog/fathom-ai-pricing"
+        }
+      ]
+    },
+    "966": {
+      "app": {
+        "id": "966",
+        "name": "FirstQuadrant",
+        "url": "https://firstquadrant.ai/",
+        "short_description": "Ayuda a los equipos de ingresos a moverse más rápido, mantenerse organizados y cerrar más acuerdos al optimizar el trabajo de ventas.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Automatización de tareas de ventas mediante inteligencia artificial, incluyendo seguimiento de clientes potenciales, gestión de relaciones y generación de campañas de correo electrónico personalizadas.",
+        "tags": "#AutomatizaciónDeVentas #GestiónDeRelaciones #IA #CRM #CampañasPersonalizadas",
+        "logo_filename": "id_966_firstquadrant",
+        "what_is": "FirstQuadrant es una plataforma de inteligencia artificial diseñada para optimizar y automatizar procesos de ventas B2B, ayudando a los equipos de ingresos a moverse más rápido, mantenerse organizados y cerrar más acuerdos.",
+        "purpose": "Sirve para automatizar tareas repetitivas en el proceso de ventas, como el seguimiento de clientes potenciales, la gestión del pipeline y la generación de campañas de correo electrónico personalizadas, permitiendo a los equipos centrarse en la venta efectiva.",
+        "use_cases": "Empresas que buscan automatizar su proceso de ventas B2B.\n\nEquipos de ventas que necesitan gestionar eficientemente su pipeline y relaciones con clientes.\n\nOrganizaciones que desean implementar campañas de correo electrónico personalizadas a gran escala.",
+        "main_advantages": "Automatización de tareas repetitivas en ventas, aumentando la eficiencia del equipo.\n\nGestión inteligente del pipeline y relaciones con clientes mediante IA.\n\nGeneración de campañas de correo electrónico personalizadas basadas en datos y comportamiento del cliente.",
+        "long_description": "FirstQuadrant es una plataforma de inteligencia artificial que automatiza y optimiza procesos de ventas B2B. Ofrece herramientas para la gestión del pipeline, reactivación de relaciones comerciales inactivas y generación de campañas de correo electrónico personalizadas. La plataforma utiliza IA para analizar conversaciones de ventas, identificar oportunidades y sugerir las mejores acciones a seguir, permitiendo a los equipos de ventas centrarse en cerrar acuerdos y construir relaciones sólidas con los clientes.",
+        "release_date": "2020",
+        "developer": "FirstQuadrant, respaldada por Y Combinator",
+        "main_model": "Utiliza modelos de lenguaje de gran escala (LLM) y algoritmos propios para análisis de conversaciones y gestión de ventas.",
+        "pricing_plans": "Ofrece planes de suscripción con diferentes niveles de funcionalidades; se requiere contacto directo para detalles específicos.",
+        "license": "Propietaria",
+        "security_privacy": "FirstQuadrant implementa políticas de seguridad y privacidad para proteger los datos de los usuarios, cumpliendo con estándares de la industria.",
+        "integration": "Ofrece integraciones con diversas herramientas de ventas y CRM, facilitando un flujo de trabajo unificado y eficiente"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://firstquadrant.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-s-new-coding-agent"
+        },
+        {
+          "source_url": "https://www.ycombinator.com/companies/firstquadrant"
+        },
+        {
+          "source_url": "https://www.datasciencecentral.com/four-quadrants-of-the-enterprise-ai-business-case/"
+        }
+      ]
+    },
+    "1041": {
+      "app": {
+        "id": "1041",
+        "name": "Findable",
+        "url": "https://findableapp.com/",
+        "short_description": "Llega al número uno en ChatGPT con LLM SEO.",
+        "category": "SEO",
+        "main_functionality": "Monitoreo de posicionamiento en plataformas IA (chatbots), análisis de contenido y generación de informes de brechas y mejoras.",
+        "tags": "#LLMSEO #ChatbotRanking #ContenidoIA #SEOIA",
+        "logo_filename": "id_1041_findable",
+        "what_is": "Una herramienta especializada en mejorar cómo aparece y funciona el contenido dentro de modelos de lenguaje como ChatGPT, Gemini y Claude.",
+        "purpose": "Optimiza visibilidad, tráfico o clics desde asistentes conversacionales mediante monitoreo, análisis de recomendación y mejoras de contenido.",
+        "use_cases": "Publicadores y creadores de contenido que buscan aparecer en recomendaciones de chatbots.\n\nEquipos de marketing digital que analizan brechas de contenido en plataformas conversacionales.\n\nAgencias SEO que desean extender su alcance a motores conversacionales IA.",
+        "main_advantages": "Cobertura de múltiples plataformas de IA (ChatGPT, Gemini, Claude).\n\nInformes de brechas (\"Content Gap Reports\") y recomendaciones para mejorar posicionamiento.\n\nMonitor continuo y facilidad de uso.",
+        "long_description": "Findable es una plataforma SaaS diseñada para monitorizar y optimizar el desempeño de contenido dentro de modelos de lenguaje (LLM) como ChatGPT, Claude o Gemini. Ofrece herramientas como “LLM SEO Monitor”, “Content Gap Reports” y “SEO Index Checker” para analizar qué contenido aparece en recomendaciones de chatbots, identificar brechas frente a competidores y sugerir mejoras específicas para escalar la visibilidad en entornos conversacionales. Incluye reportes avanzados y seguimiento continuo de comparativos. ",
+        "release_date": "No disponible",
+        "developer": "Findable (empresa propietaria del dominio findableapp.com). ",
+        "main_model": "No se menciona modelo IA específico; la plataforma ofrece monitoreo algorítmico personalizado para posicionamiento en sistemas LLM.",
+        "pricing_plans": "Múltiples planes con acceso completo a las herramientas; los niveles superiores ofrecen mayores límites de uso y soporte prioritario.",
+        "license": "SaaS propietario (no de código abierto), con suscripción mensual/anual.",
+        "security_privacy": "No disponible",
+        "integration": "Diseñado para trabajar con plataformas de LLM; se presume integración vía panel web, API REST o dashboards internos. No se mencionan integraciones con CMS, sistemas de gestión o servicios externos como Zapier. "
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.findable.ai/"
+        },
+        {
+          "source_url": "https://findableapp.com/pricing"
+        }
+      ]
+    },
+    "1061": {
+      "app": {
+        "id": "1061",
+        "name": "FastLipSync",
+        "url": "https://fastlipsync.com/",
+        "short_description": "Transforma tus vídeos con una sincronización de labios realista con IA.",
+        "category": "Generación de video",
+        "main_functionality": "Sincroniza labios en videos con audio hablado, adaptando personajes (reales, 2D/3D o avatares digitales) con movimientos labiales naturales, en múltiples idiomas y sin requerir habilidades técnicas complejas.",
+        "tags": "#AILipSync #VideoEditing #VideoLocalization #Animation #Productivity",
+        "logo_filename": "id_1061_flsync",
+        "what_is": "Plataforma web de generación de video que aprovecha IA para sincronizar automáticamente labios y audio en clips de video con resultados naturales.",
+        "purpose": "Facilita la generación de contenido audiovisual sincronizado para marketing, redes sociales, localización, doblaje y más, sin necesidad de edición manual. ",
+        "use_cases": "Creación de videos multilingües con sincronía labial natural\n\nMarketing y contenidos en redes sociales\n\nDoblaje y localización audiovisual\n\nProducción de videos para animaciones 2D/3D o avatares digitales.",
+        "main_advantages": "Reduce el tiempo de sincronización labial manual a minutos \n\nMovimientos labiales fluidos y expresivos, conservando el estilo original del hablante \n\nInterfaz intuitiva mediante arrastrar y soltar, sin necesidad de conocimientos técnicos \n\nOpciones multilingües, ideal para audiencias globales \n\nAspecto profesional y costo accesible comparado con producciones de alto presupuesto ",
+        "long_description": "FastLipsync es una plataforma web con tecnología de inteligencia artificial que sincroniza labios y audio en video de manera automática. Permite subir archivos de video y audio (mp4, mov, webm), generar la sincronización en pocos minutos y descargar el resultado en alta calidad. Se adapta a distintos tipos de contenido (actores reales, animaciones o avatares), conservando expresiones originales, armonizando temporalmente cualquier desajuste entre audio y video, e incluso gestionando diferencias de duración entre ambos mediante bucles o recortes inteligentes. ",
+        "release_date": "Agosto 2025",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "Gratis: Incluye créditos iniciales y permite generar videos de hasta 10 s mensuales con licencia comercial, generación privada y soporte prioritario.\n\nStarter ($7/m): 500 créditos (videos hasta 30 s).\n\nPro ($14/m): 1200 créditos (videos hasta 5 min).\n\nPremium ($42/m): 4000 créditos (videos hasta 5 min).",
+        "license": "Propietaria.",
+        "security_privacy": "No disponible",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://fastlipsync.com/"
+        },
+        {
+          "source_url": "https://producthubx.com/product/fastlipsync/137902"
+        },
+        {
+          "source_url": "https://oghunt.com/view/1003614-fastlipsync"
+        }
+      ]
+    },
+    "1065": {
+      "app": {
+        "id": "1065",
+        "name": "Finlens",
+        "url": "https://www.finlens.app/",
+        "short_description": "Ayuda a los fundadores y contadores en su flujo de trabajo financiero.",
+        "category": "Automatización",
+        "main_functionality": "Automatización de registros contables, categorización de transacciones, integración con QuickBooks y creación de reportes GAAP‑ready.",
+        "tags": "#Finanzas, #AutomatizaciónContable, #IA, #Contabilidad, #DashboardFinanciero",
+        "logo_filename": "id_1065_finlens",
+        "what_is": "Es una aplicación de contabilidad basada en IA que sirve como copiloto financiero para fundadores y contadores, permitiendo una gestión rápida y eficiente mediante automatización inteligente.",
+        "purpose": "Simplifica tareas contables repetitivas, proporciona visibilidad financiera en tiempo real, facilita cierres contables más rápidos y mejora la colaboración entre equipos.",
+        "use_cases": "Startups: conectan cuentas bancarias, generan reportes automáticos y enfocan su tiempo en el desarrollo. \n\nFirmas contables: gestionan múltiples clientes desde un único dashboard con cierres mensuales más ágiles. \n\nReportería para inversores: exportación de reportes estilo GAAP para presentar a stakeholders o inversionistas. ",
+        "main_advantages": "Reducción significativa del tiempo en cierres contables (hasta un 80 %) \n\nSin necesidad de migración desde QuickBooks — sincronización bidireccional en tiempo real \n\nVisibilidad inmediata sobre flujo de efectivo, runway, burn rate y más \n\nSeguridad robusta con cifrado tipo bancario ",
+        "long_description": "FinLens es un copiloto contable inteligente con IA que automatiza desde la categorización de transacciones hasta la consolidación y visualización de datos financieros en dashboards personalizados. Incluye facturación, gestión de cuentas por cobrar y pagar, predicción financiera, generación de reportes GAAP‑ready, colaboración en equipo y sincronización en tiempo real con herramientas como QuickBooks. ",
+        "release_date": "Octubre 2024",
+        "developer": "Fundadores Halim M. y Pawan Rochwani; respaldado por Y Combinator y Accel",
+        "main_model": "No disponible",
+        "pricing_plans": "Plan gratuito (Starter) hasta $50 k/mes en gastos.\n\nPlan “AI Accounting” ≈ US $49–99/mes con más cuentas y usuarios.\n\nPlan completo (~US $199–399/mes) con CPA dedicado, contabilidad mensual, preparación de impuestos, y soporte ampliado. ",
+        "license": "Propietaria.",
+        "security_privacy": "Emplea cifrado de nivel bancario; cumplimiento de estándares de privacidad. Soporte 24/7 disponible.",
+        "integration": "Soporta integración con más de 1,000 herramientas financieras, incluyendo cuentas bancarias, tarjetas de crédito, Stripe y QuickBooks (con sincronización en tiempo real sin migraciones). "
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.kdjingpai.com/en/finlens"
+        },
+        {
+          "source_url": "https://www.finlens.ai"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/finlens"
+        }
+      ]
+    },
+    "1068": {
+      "app": {
+        "id": "1068",
+        "name": "FastRead",
+        "url": "https://fastread.io/",
+        "short_description": "Plataforma impulsada por IA que guía al autor en la escritura de libros, desde estructurar capítulos hasta generar contenido completo, imágenes e incluso audiolibros, todo en un único entorno creativo.",
+        "category": "Redacción",
+        "main_functionality": "Creación automatizada de libros (estructura, contenido, imágenes, narraciones de audio), optimizando el proceso creativo en múltiples formatos. ",
+        "tags": "#EscrituraIA #GeneraciónDeLibros #AudiolibroIA #ImágenesIA #ExportaciónMultiformato",
+        "logo_filename": "id_1068_fastread",
+        "what_is": "Es una herramienta online de escritura asistida por IA diseñada para facilitar la creación integral de libros, combinando generación de texto, imágenes y audio en un flujo de trabajo unificado. ",
+        "purpose": "Permite a autores generar libros completos partiendo solo de una idea o sinopsis, incluyendo capítulos, imágenes ilustrativas, opciones de exportación y audiolibros con narración IA. ",
+        "use_cases": "Médium personal o escritores independientes que buscan avanzar rápidamente desde la idea al borrador completo.\n\nCreadores de contenido que producen guías, manuales o novelas en múltiples formatos (texto, audio, visual).\n\nEmprendedores que necesitan crear materiales publicables sin depender de múltiples herramientas.",
+        "main_advantages": "Reduce drásticamente el tiempo de creación de libros (se pueden generar rápidamente borradores completos). \n\nPermite incluir imágenes IA y transformar contenido en audiolibros sin salir de la plataforma. \n\nOfrece exportación en diversos formatos (PDF, Word, EPUB, MOBI) y publicación integrada.",
+        "long_description": "FastRead es una plataforma IA-integrada que acompaña al autor desde la idea inicial hasta la publicación. Ofrece generación de contenido coherente, imágenes personalizadas, narración audio vía IA, herramientas de análisis de palabras clave y exportación en múltiples formatos, todo dentro de un entorno diseñado para agilizar la creatividad y publicación.",
+        "release_date": "No disponible",
+        "developer": "MyAutoBio Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "Plan Simple – US $12/mes\n\n25 créditos\n\nHasta 2 libros por mes\n\nExportación PDF/Word\n\n1 perfil de autor\n\nPlan Professional – US $15/mes\n\n60 créditos\n\nHasta 5 libros por mes\n\nGeneración de imágenes con IA\n\nDerechos de reventa comercial\n\n3 perfiles de autor\n\nPlan Expert – US $50/mes\n\n120 créditos\n\nHasta 10 libros por mes\n\n1 hora de consultoría con expertos IA\n\nSoporte prioritario\n\n5 perfiles de autor\n\nCréditos adicionales:\n\n10 créditos → US $5\n\n24 créditos → US $10\n\n50 créditos → US $20",
+        "license": "Propietaria.",
+        "security_privacy": "No disponible",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://fastread.io/"
+        },
+        {
+          "source_url": "https://fastread.io/pricing"
+        },
+        {
+          "source_url": "https://www.joinchargeback.com/cancels/how-to-cancel-fastread"
+        }
+      ]
+    },
+    "1069": {
+      "app": {
+        "id": "1069",
+        "name": "Floot",
+        "url": "https://floot.com/",
+        "short_description": "Convierte tus ideas en productos sin codificación, todo en una sola plataforma.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Generación automática de código y manejo automático de la pila tecnológica completa (backend, base de datos, hosting), a partir de simples instrucciones de texto o dibujos.",
+        "tags": "#No‑Code #Low‑Code #AIAppBuilder #GeneraciónAutomáticaDeCódigo #FullStackIA",
+        "logo_filename": "id_1069_floot",
+        "what_is": "Floot es una plataforma diseñada para que personas sin experiencia en programación puedan construir, lanzar y escalar aplicaciones web mediante una interfaz conversacional con soporte visual y una pila tecnológica integrada. ",
+        "purpose": "Su propósito es permitir la traducción de ideas en productos digitales sin necesidad de escribir código manualmente, simplificando todo el proceso de desarrollo y despliegue. ",
+        "use_cases": "Emprendedores que buscan prototipar o lanzar rápidamente apps funcionales.\n\nIndividuos sin conocimientos técnicos que desean convertir ideas en productos.\n\nNegocios que requieren una plataforma integral para desarrollo, lanzamiento y escalado.\n\nUsuarios que prefieren iterar visualmente (chat y dibujo) en lugar de usar código.",
+        "main_advantages": "Incluye toda la pila tecnológica (backend, hosting, base de datos) sin depender de servicios externos. \n\nGeneración y corrección automática de código dentro de un marco diseñado especialmente para IA. \n\nPermite comunicación por chat y edición visual mediante dibujos. \n\nOfrece soporte humano directo para resolver problemas o guiar al usuario. \n\nGarantiza propiedad total del código, datos y propiedad intelectual del usuario.",
+        "long_description": "Floot ofrece un entorno integral impulsado por IA para construir aplicaciones web sin programar. El usuario describe su idea mediante chat o incluso dibujando sobre la interfaz y la plataforma genera automáticamente el código necesario —enfocado hacia un framework creado específicamente para que la IA lo entienda y genere—, maneja backend, base de datos, hosting, escalado, monitoreo, pagos y más. También dispone de soporte humano en vivo, corrección automática de errores, y garantiza la propiedad completa del proyecto (código, datos, IP), sin vendor lock-in. ",
+        "release_date": "Junio 2025",
+        "developer": "Fundada en 2025 por Edward Look y Yujian Yao; la compañía se ubica en San Francisco, CA.",
+        "main_model": "No disponible",
+        "pricing_plans": "Existe un plan gratuito (\"free tier\") para comenzar, y planes pagos que incluyen más recursos; durante lanzamiento se ofrecía un 30 % de descuento. ",
+        "license": "Propietaria (no es open‑source), con marco propio cerrado.",
+        "security_privacy": "Aunque no hay un apartado detallado público, se destaca que Floot garantiza al usuario propiedad total del código, datos y propiedad intelectual, exportabilidad desde la plataforma y sin bloqueo.",
+        "integration": "No se menciona integración directa con otras plataformas o servicios (por ejemplo SaaS externos). La plataforma busca cubrir todo en uno sin necesidad de servicios externos."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://completeaitraining.com/ai-tools/floot/"
+        },
+        {
+          "source_url": "https://www.ycombinator.com/companies/floot"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/floot"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/floot"
+        }
+      ]
+    },
+    "1142": {
+      "app": {
+        "id": "1142",
+        "name": "Fiveonefour",
+        "url": "https://www.fiveonefour.com/?",
+        "short_description": "Kit de herramientas para desarrolladores para crear backends de datos \"rápidos para la conversación\", para potenciar el chat y los paneles de IA en su aplicación y en toda su empresa.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Facilita la creación rápida de backends analíticos mediante frameworks en TypeScript o Python, integración con bases de datos analíticas (ClickHouse, Kafka/Redpanda), despliegue ágil y soporte integrado para operaciones y desarrollo centrado en IA.",
+        "tags": "#DataEngineering #InfraestructuraAnalítica #BackendsAnalíticos #IAEmpresarial #DeveloperExperience",
+        "logo_filename": "id_1142_fiveonefour",
+        "what_is": "Plataforma integral para desarrolladores, que permite construir infraestructuras analíticas de alto rendimiento y escalables consumiendo datos en streaming o vía almacenes OLAP, con herramientas y diseños pensados para ofrecer una experiencia de desarrollo moderna.",
+        "purpose": "Permite a equipos de desarrollo crear y desplegar pipelines de datos, APIs analíticas, visualizaciones y arquitecturas de datos completas rápidamente, con integración de IA para automatizar tareas clave.",
+        "use_cases": "Creación de dashboards e indicadores en tiempo real (tableros dinámicos, visualizaciones interactivas). \n\nData Warehousing operacional, integraciones ETL/API, migración de datos, arquitecturas Data Mesh. \n\nUso de IA para asistir al desarrollo y consultas en lenguaje natural.",
+        "main_advantages": "Reducción significativa de tiempos de desarrollo (prueba a producción en minutos). \n\n\nEmpoderamiento de desarrolladores sin necesidad de expertos en data engineering. \n\nAutomatización, seguridad, y compliance listos para entornos empresariales. \n\nSoporte para despliegue con un solo comando y flujo CI/CD integrado.",
+        "long_description": "Fiveonefour es una plataforma para desarrolladores que permite construir infraestructuras analíticas modernas con rapidez, combinando herramientas como MooseStack (framework de backends analíticos), Boreal (plataforma de despliegue gestionada), Sloan (agente de IA en desarrollo) y Aurora (agentes que automatizan tareas de ingeniería de datos). Está diseñada para optimizar el trabajo con bases de datos como ClickHouse y sistemas de streaming como Kafka, integrando inteligencia artificial para generar pipelines, APIs y visualizaciones de forma ágil y segura, especialmente en entornos empresariales.",
+        "release_date": "Abril 2025",
+        "developer": "Creado por Fiveonefour Labs Inc. — respaldada por firmas como Dimension Capital, Ridge Ventures, Metaphor, entre otras.",
+        "main_model": "Usa agentes basados en modelos de lenguaje (como Claude) integrados mediante MCP para operar sobre infraestructuras de datos. No se especifica un modelo concreto propietario.",
+        "pricing_plans": "Free: entorno local con MooseStack, DSL sin YAML, uso básico de IA, hasta 50 BUUs incluidos.\n\nPro: con más BUUs, más asientos, IA en IDE + co-pilot (+US$40 por desarrollador), despliegues ilimitados, etc.\n\nEnterprise: personalizado, con soporte y SLA, seats, gobernanza, infraestructura, etc.",
+        "license": "MooseStack es de código abierto (MIT). \n\nEl resto (Sloan, Boreal, Aurora) es propietario / SaaS licenciado.",
+        "security_privacy": "Certificación SOC2 Tipo 2, integraciones de autenticación (SSO, LDAP), control de acceso, políticas de gobernanza y cumplimiento integradas.",
+        "integration": "Compatible con ClickHouse, Kafka/Redpanda, DuckDB, Snowflake, Databricks, GitHub, CI/CD, IDEs, frameworks web."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "F45 Training mejora 70 % la experiencia del usuario con infraestructura analítica de IA",
+          "description": "F45 Training, una reconocida cadena global de fitness, utilizó la plataforma de Fiveonefour para modernizar su sistema de métricas en tiempo real. Al integrar soluciones como Aurora y Boreal, lograron acelerar 10× el desarrollo de dashboards, reducir 50 % los costos de infraestructura y aumentar 70 % la calificación de su app, elevando significativamente el engagement y la toma de decisiones basada en datos.",
+          "url": "https://www.tomorrowsworldtoday.com/artificial-intelligence/fiveonefour-launches-ai-agents-to-automate-data-engineering-workflows/"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://fiveonefour.com/"
+        },
+        {
+          "source_url": "https://www.tomorrowsworldtoday.com/artificial-intelligence/fiveonefour-launches-ai-agents-to-automate-data-engineering-workflows/"
+        },
+        {
+          "source_url": "https://techedgeai.com/news/fiveonefour-launches-aurora-ai-agents-to-automate-data-engineering-workflows/"
+        },
+        {
+          "source_url": "https://finance.yahoo.com/news/fiveonefour-unveils-aurora-ai-agents-140000589.html"
+        }
+      ]
+    },
+    "1242": {
+      "app": {
+        "id": "1242",
+        "name": "Fizzly",
+        "url": "https://www.fizzly.ai/?",
+        "short_description": "Genera imágenes, vídeos y entrena personajes personalizados con IA.",
+        "category": "Edición de imágenes",
+        "main_functionality": "Generación de imágenes y videos mediante modelos de IA como Flux y SDXL, además del entrenamiento de personajes personalizados para crear contenido coherente y estilizado según las necesidades del usuario.",
+        "tags": "#GeneraciónDeImágenes #GeneraciónDeVideo #AICharacters #ImagenAI #VideoAI #EstudioCreativoIA",
+        "logo_filename": "id_1242_fizzly",
+        "what_is": "Fizzly es un estudio creativo basado en inteligencia artificial que permite a los usuarios generar imágenes, videos y personajes digitales personalizados. Utiliza motores de IA avanzados como Flux, SDXL y otros, integrados en una interfaz moderna para ofrecer resultados de calidad profesional. La plataforma está diseñada para creadores de contenido, marketers, diseñadores y usuarios que desean producir material visual de forma rápida, coherente y personalizable.",
+        "purpose": "Sirve para crear contenido visual automatizado, tanto estático como dinámico, a partir de indicaciones textuales u otras entradas simples. Fizzly también permite entrenar personajes digitales personalizados que pueden ser utilizados de forma consistente en distintos formatos, ideal para branding, storytelling, y producción audiovisual.",
+        "use_cases": "Generación de imágenes creativas para redes sociales, campañas de marketing o diseño gráfico.\n\nProducción de videos cortos con estilo visual único usando prompts.\n\nEntrenamiento de personajes virtuales para contenido coherente en múltiples escenas o formatos.\n\nCreación de material visual para influencers, emprendedores, diseñadores y artistas digitales.\n\nUso como herramienta educativa o de prototipado visual para proyectos creativos.",
+        "main_advantages": "Permite generar imágenes y videos con múltiples modelos de IA en un mismo entorno.\n\nSoporta motores avanzados como Flux y SDXL.\n\nEntrenamiento de personajes propios para mantener consistencia visual.\n\nInterfaz sencilla e intuitiva, pensada para uso profesional o personal.\n\nProducción rápida y eficiente de contenido visual sin necesidad de experiencia técnica.\n\nIdeal para creadores que necesitan contenido visual en volumen y con estilo personalizado.\n\nPlataforma todo-en-uno que centraliza imagen, video y personajes IA.",
+        "long_description": "Fizzly es una plataforma creativa impulsada por inteligencia artificial que permite generar imágenes, videos y personajes personalizados en un entorno unificado. Utiliza motores avanzados como Flux y SDXL para producir contenido visual de alta calidad a partir de indicaciones textuales. Los usuarios pueden entrenar personajes personalizados (AI Characters) que mantienen estilo, apariencia y consistencia a lo largo de múltiples creaciones. Diseñada para creadores de contenido, diseñadores, marketers y entusiastas visuales, Fizzly ofrece herramientas intuitivas y potentes para transformar ideas en imágenes o clips con estética profesional, todo desde una interfaz web amigable. La plataforma promueve un flujo de trabajo rápido, sin necesidad de conocimientos técnicos, y con resultados ajustables según la necesidad visual del proyecto.",
+        "release_date": "2023",
+        "developer": "No disponible",
+        "main_model": "Utiliza motores como Flux, SDXL y otros (posiblemente modelos generativos de imagen/video similares a Stable Diffusion y herramientas text-to-video).\n\nNo se especifican detalles técnicos sobre los modelos propietarios ni sobre arquitectura de entrenamiento de personajes.",
+        "pricing_plans": "Plan gratuito disponible con acceso limitado.\n\nPlanes pagos por créditos, donde los usuarios compran paquetes para generar contenido:\n\nEjemplo: paquetes desde $10 USD en adelante, según volumen de generación.\n\nEl sistema se basa en consumo de créditos por generación de imágenes, videos o entrenamiento de personajes.",
+        "license": "Propietaria.",
+        "security_privacy": "Recoge información personal como nombre, correo electrónico, información de pago, y datos técnicos como IP y navegador.\n\nUtiliza la información para proveer el servicio, mejorar la experiencia del usuario y cumplir con obligaciones legales.\n\nLos contenidos generados pueden ser almacenados temporalmente.\n\nNo se especifica si los datos se utilizan para reentrenamiento de modelos.\n\nEl usuario puede ejercer derechos de acceso, modificación o eliminación de sus datos mediante solicitud.",
+        "integration": "No se detallan integraciones nativas con software externo (APIs, redes sociales o herramientas de diseño).\n\nLa plataforma funciona de forma autónoma desde el navegador, permitiendo descarga directa del contenido generado.\n\nPuede exportarse para uso en redes sociales, marketing, diseño gráfico u otros entornos según necesidad del usuario."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.fizzly.ai/?"
+        },
+        {
+          "source_url": "https://www.fizzly.ai/pricing"
+        },
+        {
+          "source_url": "https://www.fizzly.ai/privacy"
+        }
+      ]
+    },
+    "1247": {
+      "app": {
+        "id": "1247",
+        "name": "Fimo",
+        "url": "https://fimo.ai/",
+        "short_description": "Genera tu sitio al instante y luego colabora con tu equipo para mantenerlo en movimiento para siempre.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Generación automática de sitios web mediante IA a partir de instrucciones textuales, con plantillas predefinidas, personalización visual y herramientas colaborativas para edición continua.",
+        "tags": "#GeneradorDeSitios #SinCódigo #WebBuilder #Colaboración #AutomatizaciónWeb",
+        "logo_filename": "id_1247_fimo",
+        "what_is": "Fimo es una plataforma de construcción de sitios web potenciada por inteligencia artificial. Permite a los usuarios generar páginas completas simplemente describiendo lo que desean crear. La herramienta utiliza modelos de IA para estructurar, diseñar y lanzar sitios web de manera rápida y automática, y ofrece opciones colaborativas para equipos que desean mantener el sitio actualizado de forma constante.",
+        "purpose": "Está diseñada para facilitar la creación y mantenimiento de sitios web para diferentes fines: SaaS, comercio electrónico, blogs, agencias, eventos y más. Es útil tanto para emprendedores como para empresas que desean acelerar su presencia digital sin requerir conocimientos técnicos ni desarrolladores.",
+        "use_cases": "Lanzamiento rápido de páginas web para nuevos productos o startups.\n\nCreación de sitios de comercio electrónico sin código.\n\nDesarrollo de landing pages para campañas publicitarias.\n\nSitios colaborativos para equipos de contenido y marketing.\n\nSitios temporales para eventos, ferias o presentaciones.",
+        "main_advantages": "Generación instantánea de sitios web a partir de prompts.\n\nAmplia variedad de plantillas adaptadas a diferentes sectores.\n\nInterfaz visual intuitiva sin necesidad de programación.\n\nCapacidades colaborativas para equipos.\n\nDiseño adaptable y profesional optimizado para dispositivos móviles.\n\nReducción significativa en tiempos y costos de desarrollo web.",
+        "long_description": "Fimo es una innovadora plataforma sin código que utiliza inteligencia artificial para construir sitios web completos de manera automática y rápida. El usuario solo necesita escribir un prompt indicando lo que desea crear, y la IA genera el sitio adecuado seleccionando la estructura, el contenido y el diseño más conveniente. Fimo también permite elegir plantillas específicas para sectores como SaaS, e-commerce, blogs, eventos o agencias. Ofrece funcionalidades colaborativas que facilitan la edición continua del sitio por parte de múltiples miembros del equipo, promoviendo un flujo de trabajo dinámico y actualizado.",
+        "release_date": "No disponible",
+        "developer": "FIMO",
+        "main_model": "No disponible",
+        "pricing_plans": "Free Plan: Acceso inicial sin costo (según el botón de inicio gratuito en el sitio).\n\nPlanes pagos: No se publica una sección específica de precios al momento, por lo que los detalles completos no están disponibles.",
+        "license": "Propietaria.",
+        "security_privacy": "No disponible",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://fimo.ai/"
+        }
+      ]
+    },
+    "1329": {
+      "app": {
+        "id": "1329",
+        "name": "Figr",
+        "url": "https://figr.design/",
+        "short_description": "IA consciente del contexto que piensa a través de la experiencia de usuario.",
+        "category": "Generación de diseño",
+        "main_functionality": "Pensar y documentar decisiones de UX (flujos, edge cases, escenarios) y luego construir prototipos/diseños alineados al producto, aprendiendo patrones del sistema de diseño y permitiendo exportación a Figma.",
+        "tags": "#GeneraciónDeDiseño #UX #Prototipado #FlujosDeUsuario #EdgeCases #IntegraciónConFigma #ProductDesign",
+        "logo_filename": "id_1329_figrai",
+        "what_is": "Es una plataforma de diseño con IA que “entiende” el producto a partir de contexto (patrones, flujos y restricciones) para generar diseños y prototipos contextuales, además de soportar colaboración en canvas y un sistema de memoria del producto.",
+        "purpose": "Para acelerar el trabajo de UX y diseño de producto: mapear journeys/edge cases, obtener feedback de usabilidad y producir prototipos/diseños de alta fidelidad que respetan el estilo del producto y pueden exportarse a Figma.",
+        "use_cases": "Mapeo de edge cases y decisiones de UX antes de desarrollo.\n\nCreación de user flows/journeys y escenarios de prueba.\n\nGeneración de prototipos “como tu producto” y exportación a Figma.\n\nPreparación de PRDs/specs y documentación asociada al diseño.",
+        "main_advantages": "Enfoque “product-aware”: aprende patrones del producto y genera resultados más alineados al contexto.\n\nSoporta insumos reales (p. ej., capturas/pantallas, archivos, web capture) para mejorar el entendimiento del producto.\n\nExportación a Figma y flujo de trabajo orientado a prototipos listos para iteración.\n\nEvidencia pública de impacto en clientes (ejemplos con métricas en customer stories).",
+        "long_description": "Figr se presenta como una IA “product-aware” que primero razona sobre UX (decisiones, edge cases, flujos) y luego construye prototipos/diseños. Puede aprender del producto a partir de contexto y patrones, y ofrece un entorno tipo canvas con colaboración y un sistema de memoria para retener conocimiento del producto. Incluye capacidades como revisión de UX, mapeo de journeys, generación de prototipos y exportación a Figma.",
+        "release_date": "No disponible",
+        "developer": "Figrfast Systems Pvt. Ltd. (y/o afiliadas); también se menciona “Figr Design Inc.” para usuarios en EE. UU.",
+        "main_model": "No disponible",
+        "pricing_plans": "Free: $0; 10 credits/mes; 1 “Product Ally”; hasta 200MB de contexto por Product Ally; canvases limitados; proyectos compartibles; export a Figma.\n\nStarter: desde $16/mes (según modalidad); opciones por créditos (p. ej., 100/200/400/1000 credits).\n\nEnterprise: precio custom; incluye SAML SSO, on-prem deployment, integraciones custom, prioridad de soporte, y contexto ilimitado por producto (entre otros).",
+        "license": "Propietario / SaaS",
+        "security_privacy": "Seguridad: declara auditorías SOC 2 Type II anuales (vía plataforma de compliance) y pruebas de penetración anuales; notificación a clientes dentro de 72 horas ante incidentes confirmados que afecten sus datos (según su FAQ de seguridad).\n\nPrivacidad: existe Privacy Policy con entidad responsable (Figrfast Systems Pvt. Ltd.) y fecha de última actualización.\n\nTérminos: existe Terms of Service con fecha de última actualización.",
+        "integration": "Exportación “one-click” a Figma y soporte para importar/usar contexto del producto (p. ej., capturas, archivos de Figma como insumo, web capture y otros)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Profit.co reduce 40% las revisiones y acelera la salida al mercado 25% con IA de UX/diseño",
+          "description": "Profit.co reporta que, al utilizar la plataforma para apoyar decisiones de UX y generación de diseño, logró 40% menos revisiones, 2x más rapidez en handoffs a desarrollo y 25% más velocidad en time-to-market.",
+          "url": "https://figr.design/customers/profit"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Adaptive acelera 30% el ciclo de desarrollo y mantiene 95% del código usable sin retrabajo",
+          "description": "Adaptive indica que, al incorporar la plataforma en su proceso de diseño/producto, consiguió un 30% de aceleración en el ciclo de desarrollo, 95% del código usable sin rework y cero contrataciones adicionales de diseñadores pese a triplicar el output.",
+          "url": "https://figr.design/customers/adaptive"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "ByteXL reduce 45% el retrabajo y evita ~200 horas de rework con entrega de diseño en 4 horas",
+          "description": "ByteXL documenta que el uso de la plataforma ayudó a reducir 45% el retrabajo, evitar aproximadamente 200 horas de rework y lograr una entrega de diseño en 4 horas, mejorando la eficiencia del ciclo de diseño-a-desarrollo.",
+          "url": "https://figr.design/customers/bytexl"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://figr.design/"
+        },
+        {
+          "source_url": "https://figr.design/pricing"
+        },
+        {
+          "source_url": "https://figr.design/security"
+        },
+        {
+          "source_url": "https://figr.design/blog"
+        },
+        {
+          "source_url": "https://docs.figr.design/legal/terms"
+        },
+        {
+          "source_url": "https://docs.figr.design/legal/privacy"
+        },
+        {
+          "source_url": "https://docs.figr.design/"
+        }
+      ]
+    },
+    "1359": {
+      "app": {
+        "id": "1359",
+        "name": "Fabricate",
+        "url": "https://fabricate.build/",
+        "short_description": "Convierte tus ideas en aplicaciones listas para producción.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Generación de aplicaciones web full-stack mediante lenguaje natural (frontend + backend + base de datos), incluyendo despliegue con un clic e integraciones típicas de producción (auth y pagos).",
+        "tags": "#NoCode #AIAppBuilder #FullStack #GeneraciónDeCódigo #React #TypeScript #BaseDeDatos #Autenticación #Pagos #Despliegue",
+        "logo_filename": "id_1359_fabricateai",
+        "what_is": "Una plataforma de creación de aplicaciones donde el usuario describe lo que necesita en lenguaje natural y el sistema genera una aplicación web completa (código y componentes), con infraestructura incluida: base de datos, autenticación, pagos y despliegue.",
+        "purpose": "Para crear y publicar rápidamente aplicaciones web (p. ej., MVPs, dashboards, herramientas internas, e-commerce, portales) sin construir manualmente el stack desde cero, reduciendo el tiempo de implementación y configuración.",
+        "use_cases": "MVPs y productos SaaS (landing + dashboard + autenticación + billing).\n\nHerramientas internas (apps internas y paneles administrativos).\n\nMarketplaces / directorios / job boards / sitios de membresía (plantillas y constructores por caso).\n\nSitios con venta y cobro (e-commerce y pago integrado).",
+        "main_advantages": "Stack completo “todo en uno”: generación con IA + base de datos + auth + pagos + despliegue.\n\nSalida orientada a producción: menciona generación de código TypeScript/React y despliegue en infraestructura Cloudflare.\n\nDespliegue rápido (“one-click deploy”) y operación sobre red global/edge.\n\nAlineación con casos típicos de negocio mediante páginas/plantillas de uso (build).",
+        "long_description": "Plataforma de construcción de aplicaciones web que integra: generación asistida por IA, base de datos, autenticación, pagos y despliegue. Presenta un catálogo de capacidades y páginas de “build/use cases” para distintos tipos de aplicaciones (SaaS, e-commerce, herramientas internas, marketplaces, etc.). También describe un stack moderno (p. ej., React/TypeScript/Tailwind) y despliegue sobre infraestructura Cloudflare.",
+        "release_date": "Febrero 2026",
+        "developer": "Fabricate LLC",
+        "main_model": "No disponible",
+        "pricing_plans": "Se comunica free tier (“Start Building Free / Free tier available”).\n\nSe indica que los planes de pago comienzan desde USD $19/mes (sin desglose completo accesible en las fuentes consultadas).",
+        "license": "Propietario / SaaS",
+        "security_privacy": "La política de privacidad (vigente 3 de marzo de 2026) describe categorías de datos (cuenta, billing, prompts y contenido generado, uso), finalidades (operación del servicio, pagos, seguridad), y proveedores/subprocesadores relevantes (por ejemplo: Stripe para pagos, Clerk para autenticación, Cloudflare para infraestructura, Anthropic para inferencia, PostHog/Google Analytics sujetos a consentimiento, Sentry, etc.). Indica además que no venden datos y que no usan prompts/contenido generado para entrenar modelos (según el texto de la política).",
+        "integration": "Se documenta integración/uso de servicios de terceros como Stripe (pagos), Clerk (auth), Cloudflare (infraestructura), y opción de GitHub para sincronización cuando el usuario habilita la integración."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://fabricate.build/"
+        },
+        {
+          "source_url": "https://fabricate.build/pricing"
+        },
+        {
+          "source_url": "https://fabricate.build/features"
+        },
+        {
+          "source_url": "https://fabricate.build/build"
+        },
+        {
+          "source_url": "https://fabricate.build/privacy"
+        },
+        {
+          "source_url": "https://www.accessnewswire.com/newsroom/en/industrial-and-manufacturing/fabricate-launches-ai-powered-full-stack-app-builder-1137895"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/product/Fabricate"
+        }
+      ]
+    },
+    "1388": {
+      "app": {
+        "id": "1388",
+        "name": "Faces",
+        "url": "https://faces.app/",
+        "short_description": "Creador de presentaciones interactivas basadas en la web que permite generar “decks” explorables (tipo sitio) con ayuda de IA, para que la audiencia interactúe con gráficos, mapas, galerías y componentes en lugar de solo ver diapositivas estáticas.",
+        "category": "Productividad",
+        "main_functionality": "Generación y edición de presentaciones interactivas (artefactos/“slides” como componentes web) a partir de instrucciones, con publicación/hosting y opciones de compartir por enlace o invitación.",
+        "tags": "#Productividad #Presentaciones #IA #GeneraciónDeContenido #PitchDeck #WebDecks #Storytelling",
+        "logo_filename": "id_1388_facesappai",
+        "what_is": "Una plataforma para crear presentaciones interactivas que aprovechan capacidades de la web (por ejemplo: elementos animados, mapas, visualizaciones y componentes explorables). Incluye funciones de IA para ayudar a generar contenido, layouts y/o código de los “slides/artefactos” dentro del editor.",
+        "purpose": "Sirve para construir y compartir decks/presentaciones que se consumen como una experiencia web (más que como diapositivas tradicionales), orientadas a comunicar ideas (pitch, portafolios, guías o propuestas) de forma más persuasiva e interactiva.",
+        "use_cases": "Pitch decks con gráficos “vivos” que responden a interacción (hover/scroll)\n\nPortafolios con galerías explorables y secciones interactivas\n\nPropuestas con componentes interactivos (p. ej., calculadoras/estimadores embebidos)\n\nDemos de producto y “micrositios” enlazables para compartir con clientes/equipo",
+        "main_advantages": "Interactividad real (web-native): cada “slide” puede comportarse como un artefacto de software, no solo una imagen estática.\n\nCompartición controlada: opciones de acceso “cualquiera con enlace”, “solo invitados” o “solo dominio de empresa”.\n\nPrivacidad por defecto: proyectos privados por defecto; control del usuario al compartir.\n\nHosting y dominios: publicación con dominios faces.site y soporte de dominios personalizados en planes de pago.\n\nMedición (analytics) en planes de pago: posibilidad de contar con analíticas según el plan.",
+        "long_description": "Permite crear presentaciones interactivas que se comportan como experiencias web. En lugar de limitarse a diapositivas estáticas, cada sección puede incorporar componentes interactivos (p. ej., visualizaciones, mapas, galerías o elementos embebidos). Incluye funciones de IA para generar texto, layouts y/o código (“AI Output”) dentro del flujo de creación, con advertencia explícita de que el contenido generado puede requerir revisión y pruebas por parte del usuario. También ofrece publicación/hosting y control de acceso al compartir (por enlace, por invitación o restringido por dominio).",
+        "release_date": "2025",
+        "developer": "Perhaps, Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "Basic: Free; 30 generaciones al registrarse; sin analytics; sin dominios faces.site; sin dominio custom; uploads 10MB/30 páginas; sin export PDF; sin ocultar badge.\n\nPlus: USD $12/mes; 120 generaciones/mes; analytics Sí; 3 dominios faces.site; dominio custom Sí; uploads 50MB/100 páginas; custom link preview Sí; export PDF Sí; ocultar badge Sí.\n\nPro: USD $25/mes; 300 generaciones/mes; analytics Sí; 5 dominios faces.site; dominio custom Sí; uploads 50MB/100 páginas; custom link preview Sí; export PDF Sí; ocultar badge Sí.",
+        "license": "Propietario / SaaS",
+        "security_privacy": "Proyectos privados por defecto; el usuario decide el modo de compartición (enlace, invitación o dominio).\n\nArchivos subidos privados; almacenamiento en infraestructura cloud con cifrado en tránsito y en reposo.\n\nProveedores de IA: indican que no retienen contenido ni lo usan para entrenar modelos.\n\nRecolección de datos: incluye datos de cuenta, transacciones (procesadas por procesadores de pago), contenido del usuario, datos de uso/dispositivo y cookies; declaran que no venden información personal.",
+        "integration": "Dominios personalizados y dependencias con servicios de terceros (DNS/registradores).\n\nPosibilidad de embeds/integraciones (por ejemplo, mapas o video) mencionadas como “third-party services” dentro de la operación del servicio."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://faces.app/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/faces-4"
+        },
+        {
+          "source_url": "https://faces.app/privacy-policy"
+        },
+        {
+          "source_url": "https://faces.app/pricing"
+        },
+        {
+          "source_url": "https://slashdot.org/software/p/Faces.app/"
+        }
+      ]
+    },
+    "1395": {
+      "app": {
+        "id": "1395",
+        "name": "FineVoice",
+        "url": "https://finevoice.ai/",
+        "short_description": "Genera contenido de habla expresivo y de alta calidad con IA.",
+        "category": "Texto a voz",
+        "main_functionality": "Crear locuciones a partir de texto (TTS) y producir audio con herramientas complementarias como AI Voice Changer, AI Voice Cloning, AI Sound Effects, Speech-to-Text y AI Voice Translator; además ofrece APIs y formatos de salida (p. ej., JSON/SRT/VTT) para flujos de trabajo.",
+        "tags": "#TextoAVoz #TTS #Audio #Voiceover #ClonaciónDeVoz #CambiadorDeVoz #EfectosDeSonido #SpeechToText #TraducciónDeVoz",
+        "logo_filename": "id_1395_finevoiceai",
+        "what_is": "Una plataforma web de creación de contenido de voz con IA que reúne herramientas para generar locuciones, clonar/cambiar voces, transcribir audio y traducir voz, con un enfoque declarado en seguridad, privacidad y uso responsable.",
+        "purpose": "Para producir audio “tipo estudio” (p. ej., narraciones y voiceovers) y transformar/crear voz con IA para proyectos de contenido como videos, audiolibros, podcasts y materiales digitales, desde un navegador.",
+        "use_cases": "Voiceovers para videos y contenido digital.\n\nNarración para audiolibros y podcasts.\n\nCambio de voz para creatividad/producción.\n\nClonación de voz para crear voces personalizadas.\n\nGeneración de efectos de sonido y apoyo a flujos con transcripción y traducción de voz.",
+        "main_advantages": "Suite de herramientas de voz en un solo lugar (TTS, voice changer, clonación, STT, traductor, efectos, etc.).\n\nPlanes con cuotas claras (caracteres TTS, tiempo de voice change, minutos STT, etc.).\n\nEnfoque declarado de seguridad y confiabilidad (p. ej., TLS/AES-256, “24-hour automatic data deletion”, y meta de 99.9% uptime).\n\nOrientación a uso responsable y lineamientos de uso en su sección “About”.",
+        "long_description": "Plataforma de herramientas de voz con IA enfocada en generar locuciones y audio para distintos formatos de contenido. Incluye Text-to-Speech y módulos como AI Voice Changer, AI Voice Cloning, AI Sound Effect Generator, Speech to Text y AI Voice Translator, además de otras utilidades (p. ej., AI Podcast Generator, AI BGM Generator, AI Talking Photo, AI Voice Enhancer y AI Voice Design). En el sitio también se describen medidas de seguridad/operación (cifrado TLS y AES-256, eliminación automática de archivos a 24 horas, y compatibilidad de salidas para API como JSON/SRT/VTT).",
+        "release_date": "No disponible",
+        "developer": "ASALESOFT LIMITED (indicado en la página “About”).\n\nEl sitio también indica que finevoice.ai está “hosted by FineVoice Inc.” en la política de privacidad.",
+        "main_model": "No disponible",
+        "pricing_plans": "Free: $0.00 (limitaciones como “preview only” en descargas y cuotas reducidas; p. ej., 2,000 caracteres TTS/mes y 3 minutos de AI voice change).\n\nBasic: desde $8.99 mensual / $5.99 mensual equivalente anual (incluye, entre otros, 100,000 caracteres TTS/mes, 24 horas de voice change/mes, 5 “professional voice clones”, 50 “instant voice clones”, etc.).\n\nPro: desde $12.99 (incluye 300,000 caracteres TTS/mes, voice change ilimitado, 10 “professional voice clones”, etc.).\n\nEnterprise: desde $47.99 mensual / $32.99 equivalente anual (incluye 1,000,000 caracteres TTS/mes, voice change ilimitado, 20 “professional voice clones”, etc.).",
+        "license": "Propietario / SaaS",
+        "security_privacy": "El sitio describe cifrado TLS y AES-256 para datos en tránsito y en reposo, y eliminación automática de archivos a 24 horas (según la sección de “Trust & Security Standards”).\n\nLa Privacy Policy detalla prácticas generales de recopilación/uso de datos y que el sitio está “hosted by FineVoice Inc.” (incluye definiciones y bases de uso del servicio).",
+        "integration": "Menciona APIs y formatos de salida para integraciones/flujo de trabajo (JSON, SRT, VTT). No se identificaron integraciones nativas específicas con apps de terceros en la página principal."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://finevoice.ai/"
+        },
+        {
+          "source_url": "https://finevoice.ai/privacy.html"
+        },
+        {
+          "source_url": "https://finevoice.ai/terms.html"
+        },
+        {
+          "source_url": "https://www.fineshare.com/ai-voice-over"
+        },
+        {
+          "source_url": "https://deepgram.com/voice-ai-apps/finevoice-ai-voice-cloning"
+        },
+        {
+          "source_url": "https://www.unite.ai/finevoice-review"
+        }
+      ]
+    },
+    "1414": {
+      "app": {
+        "id": "1414",
+        "name": "Fastlane",
+        "url": "https://www.usefastlane.ai/",
+        "short_description": "Crea contenido viral para tu producto en segundos.",
+        "category": "Redes sociales",
+        "main_functionality": "Generación y distribución de contenido short-form “listo para publicar”, con programación, calendario de contenidos y analítica; incluye remix de tendencias, plantillas y biblioteca de AI UGC.",
+        "tags": "#Marketing #RedesSociales #ContenidoCorto #UGC #Automatizacion #ProgramacionDeContenido #Analitica",
+        "logo_filename": "id_1414_fastlaneai",
+        "what_is": "Es una plataforma de marketing con IA que aprende del sitio web del negocio (a partir de la URL) para generar contenido corto “viral” y permitir su edición, programación y publicación directa en canales como TikTok, Instagram Reels y YouTube Shorts.",
+        "purpose": "Sirve para acelerar la creación de contenido y su distribución en redes sociales, reduciendo el esfuerzo manual de idear piezas, producir variantes y mantener consistencia semanal mediante generación asistida por IA, calendario y publicación integrada.",
+        "use_cases": "E-commerce y marcas: generar variantes de contenido corto y publicarlas en múltiples plataformas desde un mismo flujo.\nApps de consumo / indie hackers: “remixar” tendencias y producir posts frecuentes para adquisición orgánica.\nEquipos de marketing: planificar y revisar campañas con content calendar y programación.",
+        "main_advantages": "Publicación y programación nativa para TikTok, Reels y Shorts desde la plataforma.\nFormatos múltiples (p. ej., slideshows, “hook + demo”, “wall of text”, AI UGC) y adición continua de nuevos formatos.\nCalendario y analítica avanzada (según plan Growth).\nEdición y uso de material propio (subir videos propios o stock).",
+        "long_description": "Fastlane se presenta como una plataforma para “experience marketing” orientada a contenido corto: permite “remixar” contenido en tendencia o crear desde plantillas; genera piezas como slideshows, videos tipo AI UGC, “wall of text” y formatos “hook + demo”; ofrece un entorno para editar contenido y cargar videos propios o stock; integra publicación y programación directa para TikTok, Instagram Reels y YouTube Shorts; y añade planificación con calendario y capacidades de analítica (según plan). Además, declara que al ingresar la URL del sitio puede crear y programar contenido personalizado al negocio.",
+        "release_date": "Noviembre 2025",
+        "developer": "Possibility Studios Pty Ltd (ACN 690 900 497), operando como Fastlane.",
+        "main_model": "No disponible",
+        "pricing_plans": "Basic: Free (acceso a formatos, generación limitada, scheduling limitado).\nGrowth: USD $50/mes (generación y scheduling ilimitados, AI UGC ilimitado, contenido en tendencia ilimitado, analítica avanzada, calendario, soporte prioritario, hasta 3 company profiles).\nEnterprise: Custom (features/integraciones/reporting/SLAs a medida).",
+        "license": "Propietario / SaaS",
+        "security_privacy": "La política indica que recopila datos de identidad/contacto, cuenta, facturación (pagos procesados por Stripe), contenido (prompts, uploads, videos e “outputs”), datos técnicos/uso y datos de integraciones. Declara uso de cifrado y controles de acceso, retención “solo el tiempo necesario”, y que tokens/datos de Google se eliminan al revocar acceso (salvo obligación legal). También establece restricciones: Google user data no se usa para publicidad, perfilado, reventa ni entrenamiento de IA; en cambio, puede usar datos aportados por usuarios para entrenar/mejorar sus sistemas, excluyendo explícitamente Google user data obtenido por OAuth/YouTube API. Incluye contacto para solicitudes (p. ej., eliminación) vía hello@usefastlane.ai.",
+        "integration": "Publicación/programación para TikTok, Instagram Reels y YouTube Shorts; integraciones vía OAuth incluyendo Google/YouTube API Services; pagos por Stripe; y uso de cookies/analytics (menciona proveedores como Google Analytics en forma agregada)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.usefastlane.ai/"
+        },
+        {
+          "source_url": "https://www.usefastlane.ai/privacy"
+        },
+        {
+          "source_url": "https://www.usefastlane.ai/terms"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/fastlane-3"
+        },
+        {
+          "source_url": "https://aitoolly.com/product/fastlane"
+        }
+      ]
+    },
+    "1492": {
+      "app": {
+        "id": "1492",
+        "name": "FigureLabs",
+        "url": "https://www.figurelabs.ai/",
+        "short_description": "Convierte texto, bocetos o imágenes de referencia en figuras científicas listas para publicación; permite exportar archivos editables (PPTX/SVG) y raster en alta resolución (PNG/JPG) para journals y presentaciones.",
+        "category": "Generación de diseño",
+        "main_functionality": "Generación y mejora de ilustraciones científicas (Sketch-to-Figure, Text-to-Figure, refinado de figuras y vectorización) con exportación editable (PPTX/SVG) y formatos de imagen de alta resolución.",
+        "tags": "#GeneracionDeDiseño #DiseñoGrafico #IlustracionCientifica #EdicionDeImagenes #SVG #PPTX #Investigacion",
+        "logo_filename": "id_1492_figurelabs",
+        "what_is": "Herramienta de ilustración científica con IA orientada a la comunidad STEM para transformar texto, bocetos o figuras existentes en visuales “publication-ready”, incluyendo funciones de generación, refinado y vectorización para mantener editabilidad.",
+        "purpose": "Para acelerar la creación de figuras para artículos, pósters, presentaciones y material académico, reduciendo trabajo manual de diagramación y facilitando exportaciones que cumplan requisitos típicos de publicación (alta resolución / formatos editables).",
+        "use_cases": "Crear diagramas y esquemas científicos a partir de texto (Text-to-Figure).\nConvertir bocetos en figuras “journal-ready” (Sketch-to-Figure).\nMejorar una figura existente (resolución/ruido/color) para cumplir estándares de publicación (Figure Refiner).\nVectorizar imágenes raster a SVG escalable para edición posterior (Image Vectorization).\nExportar a PPTX/SVG editables y PNG/JPG en alta resolución.",
+        "main_advantages": "Flujo orientado a publicación: diseñado para generar figuras listas para journals y presentaciones.\nExportación editable: PPTX y SVG (en pricing se menciona “fully layered” para edición en PowerPoint/Illustrator/BioRender).\nAlta resolución: exportación PNG/JPG hasta 8K y mención de cumplimiento de 300 DPI para envíos a journals (según página de pricing en otros idiomas).\nFunciones especializadas: Sketch-to-Figure, Text-to-Figure, Figure Refiner y vectorización como módulos “core”.",
+        "long_description": "FigureLabs se posiciona como un “AI Scientific Illustrator / AI agent” para crear figuras científicas listas para publicación. Según su comunicado de lanzamiento, ofrece cuatro funciones principales: Sketch-to-Figure (boceto a figura), Text-to-Figure (texto/PDFs a figura), Figure Refiner (mejora de figuras existentes) e Image Vectorization (raster a vector). El producto enfatiza exportaciones para uso académico (PPTX/SVG editables y PNG/JPG de alta resolución) y un flujo pensado para journals y presentaciones.",
+        "release_date": "Agosto 2025",
+        "developer": "FigureLabs (empresa fundada por exalumnos de University of Oxford; comunicado desde Oxford, UK).",
+        "main_model": "Se menciona uso de Machine Learning, NLP y Computer Vision para análisis/generación/mejora, pero sin especificar arquitecturas o proveedores.",
+        "pricing_plans": "Sí se confirma que existe free trial / plan gratuito con créditos, pero hay inconsistencias públicas: el home indica “Get 200 free credits” y la página de pricing indica “Start free with 300 credits”.",
+        "license": "Propietaria (SaaS).",
+        "security_privacy": "No disponible",
+        "integration": "Integración mediante formatos de exportación: PPTX/SVG (edición en PowerPoint/Illustrator/BioRender) y PNG/JPG hasta 8K; no se encontraron integraciones nativas tipo API/plug-ins documentadas en las fuentes accesibles."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.figurelabs.ai/"
+        },
+        {
+          "source_url": "https://www.figurelabs.ai/pricing"
+        },
+        {
+          "source_url": "https://www.figurelabs.ai/blog"
+        },
+        {
+          "source_url": "https://www.figurelabs.ai/privacy"
+        },
+        {
+          "source_url": "https://www.figurelabs.ai/terms"
+        },
+        {
+          "source_url": "https://en.prnasia.com/releases/global/figurelabs-world-s-first-ai-scientific-illustration-tool-for-effortless-publication-figures-498770.shtml"
+        }
+      ]
+    },
+    "1674": {
+      "app": {
+        "id": "1674",
+        "name": "Factory",
+        "url": "https://www.factory.ai/",
+        "short_description": "Factory es una plataforma de agentes de IA para equipos de desarrollo, orientada a automatizar tareas de ingeniería de software y productividad técnica.",
+        "category": "Codificación",
+        "main_functionality": "Automatización de tareas de ingeniería de software con agentes de IA",
+        "tags": "#Código #AgentesIA #Desarrollo",
+        "logo_filename": "id_1674_factory",
+        "what_is": "Factory es una plataforma de agentes de IA orientada a ingeniería de software. Ayuda a equipos técnicos a automatizar tareas de desarrollo, seguimiento y productividad mediante agentes capaces de colaborar en flujos de trabajo complejos.",
+        "purpose": "Automatizar tareas de ingeniería de software mediante agentes de IA que apoyen a equipos técnicos en flujos de desarrollo.",
+        "use_cases": "Automatización de tareas de desarrollo; apoyo a equipos de ingeniería; seguimiento técnico; generación de soluciones con agentes de IA.",
+        "main_advantages": "Automatiza tareas de ingeniería; puede aumentar la productividad de equipos técnicos; apoya flujos de desarrollo complejos; permite trabajar con agentes especializados.",
+        "long_description": "Factory es una plataforma de agentes de inteligencia artificial diseñada para equipos de ingeniería de software. Su enfoque está en automatizar tareas técnicas, apoyar flujos de desarrollo y mejorar la productividad mediante agentes capaces de colaborar en procesos complejos. Puede ser útil para equipos que buscan integrar IA en la gestión y ejecución de tareas de programación.",
+        "release_date": "No disponible",
+        "developer": "factory.ai",
+        "main_model": "No especificado",
+        "pricing_plans": "Precio bajo consulta",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.factory.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/factory"
+        }
+      ]
+    },
+    "1718": {
+      "app": {
+        "id": "1718",
+        "name": "Flixier",
+        "url": "https://flixier.com/",
+        "short_description": "Flixier permite editar videos con IA mediante generación, transcripción y herramientas de edición en línea.",
+        "category": "Edición de video",
+        "main_functionality": "Edición de video en línea con herramientas de IA",
+        "tags": "#EdiciónDeVideo #Video #GeneraciónDeVideo",
+        "logo_filename": "id_1718_flixier",
+        "what_is": "Flixier es una plataforma de edición de video en línea con funciones de inteligencia artificial. Permite editar, generar, transcribir y preparar contenido audiovisual desde el navegador.",
+        "purpose": "Facilitar la edición de video en línea con funciones de IA para creación, transcripción y publicación de contenido.",
+        "use_cases": "Edición de video en línea; transcripción de contenido; generación de clips; preparación de material audiovisual.",
+        "main_advantages": "Permite editar desde el navegador; incorpora funciones de IA; facilita transcripción y edición; acelera producción audiovisual.",
+        "long_description": "Flixier es una plataforma de edición de video en línea con funciones de inteligencia artificial. Permite editar contenido desde el navegador, generar materiales, transcribir audio y preparar piezas audiovisuales para publicación. Es útil para creadores, equipos de marketing y usuarios que requieren edición rápida sin instalar software pesado.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://flixier.com/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/flixier-hkw729"
+        }
+      ]
+    },
+    "1781": {
+      "app": {
+        "id": "1781",
+        "name": "Flint",
+        "url": "https://www.flint.com/",
+        "short_description": "Flint permite generar páginas de aterrizaje a escala, apoyando campañas, ventas y experimentos comerciales.",
+        "category": "Marketing",
+        "main_functionality": "Generación de landing pages a escala",
+        "tags": "#Marketing #LandingPages #Ventas",
+        "logo_filename": "id_1781_flint",
+        "what_is": "Flint es una herramienta de marketing enfocada en generar landing pages a escala. Permite crear páginas de aterrizaje para campañas, ventas o experimentos comerciales de forma más rápida.",
+        "purpose": "Crear páginas de aterrizaje a escala para campañas, ventas y experimentos comerciales.",
+        "use_cases": "Landing pages para campañas; páginas de venta; experimentos comerciales; generación de materiales web.",
+        "main_advantages": "Crea landing pages rápidamente; permite escalar campañas; facilita experimentación comercial; apoya equipos de ventas.",
+        "long_description": "Flint es una herramienta de marketing enfocada en generar páginas de aterrizaje a escala. Permite crear landing pages para campañas, ventas o experimentos comerciales con mayor rapidez. Puede ser útil para equipos de crecimiento, agencias o negocios que necesitan producir variaciones de páginas web sin dedicar demasiado tiempo manual.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.flint.com/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/flint-xe8ody"
+        }
+      ]
+    },
+    "1862": {
+      "app": {
+        "id": "1862",
+        "name": "Fixy",
+        "url": "https://fixy.ai/",
+        "short_description": "Fixy permite comparar y combinar resultados de varias fuentes o modelos, ayudando a sintetizar información de investigación.",
+        "category": "Productividad",
+        "main_functionality": "Comparación y síntesis de resultados de múltiples fuentes",
+        "tags": "#Productividad #Investigación #Comparación",
+        "logo_filename": "id_1862_fixy",
+        "what_is": "Fixy es una herramienta de productividad e investigación que permite comparar y combinar resultados de varias fuentes o modelos. Su objetivo es ayudar a sintetizar información y obtener conclusiones más claras a partir de múltiples salidas.",
+        "purpose": "Comparar y combinar resultados de varias fuentes para sintetizar información y facilitar investigación.",
+        "use_cases": "Comparación de resultados; investigación con múltiples fuentes; síntesis de información; análisis comparativo.",
+        "main_advantages": "Compara múltiples fuentes; mejora síntesis; reduce revisión manual; facilita conclusiones claras.",
+        "long_description": "Fixy es una herramienta de productividad e investigación que permite comparar y combinar resultados de varias fuentes o modelos. Ayuda a sintetizar información, revisar distintas perspectivas y obtener conclusiones más claras a partir de múltiples salidas. Puede ser útil para investigación, análisis comparativo y toma de decisiones.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://fixy.ai/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/fixy-t466l6"
+        }
+      ]
+    },
+    "1942": {
+      "app": {
+        "id": "1942",
+        "name": "Finsi",
+        "url": "https://www.finsi.ai/",
+        "short_description": "Finsi ayuda a gestionar analítica y marketing para ecommerce, facilitando seguimiento comercial y toma de decisiones.",
+        "category": "Marketing",
+        "main_functionality": "Gestión de analítica y marketing para ecommerce",
+        "tags": "#Marketing #Analítica #Ecommerce",
+        "logo_filename": "id_1942_finsi",
+        "what_is": "Finsi es una herramienta de marketing enfocada en ecommerce. Ayuda a gestionar analítica, campañas y seguimiento comercial para apoyar decisiones de crecimiento.",
+        "purpose": "Gestionar analítica y marketing para ecommerce con el fin de apoyar decisiones comerciales y crecimiento.",
+        "use_cases": "Analítica ecommerce; campañas de marketing; seguimiento comercial; optimización de ventas.",
+        "main_advantages": "Apoya marketing ecommerce; facilita analítica; mejora seguimiento comercial; ayuda a tomar decisiones.",
+        "long_description": "Finsi es una herramienta de marketing enfocada en ecommerce. Ayuda a gestionar analítica, campañas y seguimiento comercial para apoyar decisiones de crecimiento. Puede ser útil para tiendas en línea o equipos de marketing que necesitan entender desempeño y optimizar acciones comerciales.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.finsi.ai/"
+        }
+      ]
+    },
+    "2048": {
+      "app": {
+        "id": "2048",
+        "name": "Flashbot",
+        "url": "https://flashbot.pro/",
+        "short_description": "Flashbot permite automatizar tareas rápidas mediante bots o flujos simples asistidos por IA.",
+        "category": "Automatización",
+        "main_functionality": "Automatización de tareas rápidas mediante bots o flujos simples.",
+        "tags": "automatización, bots, tareas rápidas, productividad",
+        "logo_filename": "id_2048_flashbot",
+        "what_is": "Flashbot es una herramienta de automatización que permite crear bots o flujos rápidos para ejecutar tareas simples. Puede apoyar actividades repetitivas, respuestas automáticas o acciones operativas de baja fricción.",
+        "purpose": "Automatizar tareas rápidas mediante bots o flujos simples asistidos por IA.",
+        "use_cases": "Bots rápidos; automatización simple; respuestas automáticas; tareas operativas.",
+        "main_advantages": "Acelera tareas simples, reduce acciones repetitivas y permite crear automatizaciones de baja fricción.",
+        "long_description": "Flashbot es una herramienta de automatización que permite crear bots o flujos rápidos para ejecutar tareas simples. Puede ayudar en actividades repetitivas, respuestas automáticas o acciones operativas que no requieren procesos complejos. Su utilidad está en habilitar automatizaciones ligeras de forma práctica.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://flashbot.pro/"
+        }
+      ]
+    },
+    "2087": {
+      "app": {
+        "id": "2087",
+        "name": "Fallom",
+        "url": "https://fallom.com/",
+        "short_description": "Fallom permite automatizar tareas operativas y flujos de trabajo mediante agentes o asistentes de IA.",
+        "category": "Automatización",
+        "main_functionality": "Automatización de tareas operativas y flujos de trabajo mediante agentes o asistentes de IA.",
+        "tags": "automatización, agentes de IA, tareas operativas, workflows",
+        "logo_filename": "id_2087_fallom",
+        "what_is": "Fallom es una herramienta de automatización enfocada en ejecutar tareas operativas y flujos de trabajo mediante agentes o asistentes de IA. Puede ayudar a reducir trabajo manual, organizar procesos repetitivos y mejorar la eficiencia operativa.",
+        "purpose": "Automatizar tareas operativas y flujos de trabajo mediante agentes o asistentes de IA.",
+        "use_cases": "Automatización de tareas; agentes de IA; workflows operativos; reducción de trabajo manual.",
+        "main_advantages": "Reduce trabajo manual, mejora la coordinación operativa y facilita automatizar tareas repetitivas.",
+        "long_description": "Fallom es una herramienta de automatización enfocada en ejecutar tareas operativas y flujos de trabajo mediante agentes o asistentes de IA. Puede ser útil para equipos que buscan reducir trabajo manual, organizar procesos repetitivos y mejorar la eficiencia en actividades diarias. Su valor está en facilitar una operación más ágil y coordinada.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://fallom.com/"
+        }
+      ]
+    },
+    "2103": {
+      "app": {
+        "id": "2103",
+        "name": "Feynn",
+        "url": "https://feynn.ai/",
+        "short_description": "Feynm ayuda a analizar datos, información o señales para obtener hallazgos útiles de negocio.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Análisis de datos, información o señales para obtener hallazgos de negocio.",
+        "tags": "inteligencia de negocios, análisis, datos, investigación",
+        "logo_filename": "id_2103_feynm",
+        "what_is": "Feynm es una herramienta de inteligencia de negocios que ayuda a analizar datos, información o señales para obtener hallazgos útiles. Puede apoyar investigación, análisis comercial y toma de decisiones basada en información.",
+        "purpose": "Analizar datos, información o señales para obtener hallazgos útiles de negocio.",
+        "use_cases": "Análisis de datos; inteligencia de negocios; investigación; hallazgos comerciales.",
+        "main_advantages": "Convierte información en hallazgos, mejora análisis y apoya decisiones de negocio.",
+        "long_description": "Feynm es una herramienta de inteligencia de negocios que ayuda a analizar datos, información o señales para obtener hallazgos útiles. Puede apoyar investigación, análisis comercial y toma de decisiones basada en información. Su utilidad está en transformar datos o señales dispersas en conocimiento más claro para negocio.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://feynn.ai/"
+        }
+      ]
+    },
+    "2125": {
+      "app": {
+        "id": "2125",
+        "name": "FastShort AI",
+        "url": "https://www.spaceship.com/",
+        "short_description": "Generador de videos cortos que transforma texto o contenido escrito en piezas audiovisuales.",
+        "category": "Texto a video",
+        "main_functionality": "Convertir instrucciones de texto en videos cortos destinados a medios digitales.",
+        "tags": "texto a video, videos cortos, generación de reels, contenido para redes sociales",
+        "logo_filename": "id_2125_fastshort_ai",
+        "what_is": "FastShort AI es un generador de videos cortos que convierte texto en contenido audiovisual.",
+        "purpose": "Convertir ideas escritas en videos cortos destinados a redes sociales y otros canales digitales.",
+        "use_cases": "Creación de videos promocionales, clips educativos, publicaciones sociales y contenido breve a partir de instrucciones escritas.",
+        "main_advantages": "Acelera la producción de videos breves y permite transformar instrucciones escritas en contenido audiovisual.",
+        "long_description": "FastShort AI es una herramienta de generación de videos cortos que transforma texto en contenido audiovisual. Está pensada para producir clips destinados a redes sociales, promociones, contenidos educativos y otros formatos breves, reduciendo el tiempo necesario para pasar de una idea escrita a una pieza de video.",
+        "release_date": "No disponible",
+        "developer": "FastShort AI",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.spaceship.com/"
+        }
+      ]
+    },
+    "2133": {
+      "app": {
+        "id": "2133",
+        "name": "Fastbreak AI",
+        "url": "https://www.fastbreak.ai/",
+        "short_description": "Plataforma que optimiza la administración de ligas, torneos y competencias deportivas.",
+        "category": "Gestión",
+        "main_functionality": "Optimizar la organización y administración de ligas y torneos deportivos.",
+        "tags": "gestión deportiva, ligas deportivas, torneos, organización de competencias",
+        "logo_filename": "id_2133_fastbreak_ai",
+        "what_is": "Fastbreak AI es una plataforma de gestión deportiva orientada a ligas, torneos y competencias.",
+        "purpose": "Mejorar la organización y operación de ligas, torneos y competencias deportivas.",
+        "use_cases": "Programación de ligas, administración de torneos, coordinación de participantes y optimización de operaciones deportivas.",
+        "main_advantages": "Centraliza tareas deportivas, reduce trabajo operativo y facilita la coordinación de competencias.",
+        "long_description": "Fastbreak AI es una plataforma orientada a optimizar la gestión de ligas y torneos deportivos. Puede apoyar la coordinación de participantes, competencias y tareas operativas, centralizando procesos que normalmente requieren seguimiento manual por parte de organizadores y administradores.",
+        "release_date": "No disponible",
+        "developer": "Fastbreak AI",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.fastbreak.ai/"
+        }
+      ]
+    },
+    "2169": {
+      "app": {
+        "id": "2169",
+        "name": "Fermi Dev",
+        "url": "https://www.fermi.dev/",
+        "short_description": "Plataforma que integra sistemas, modelos de IA y procesos automatizados.",
+        "category": "Automatización",
+        "main_functionality": "Integrar sistemas, modelos de inteligencia artificial y flujos de automatización.",
+        "tags": "integración de sistemas, modelos de IA, flujos automatizados, orquestación, agentes",
+        "logo_filename": "id_2169_fermi_dev",
+        "what_is": "Formi Dev es una plataforma de automatización que unifica sistemas, modelos de IA y procesos.",
+        "purpose": "Unificar sistemas, modelos y automatizaciones dentro de un mismo entorno operativo.",
+        "use_cases": "Integración de herramientas, conexión de modelos, automatización de procesos y orquestación de sistemas.",
+        "main_advantages": "Centraliza integraciones y automatizaciones que normalmente se encontrarían distribuidas entre distintas herramientas.",
+        "long_description": "Formi Dev es una plataforma que integra sistemas, modelos de inteligencia artificial y procesos automatizados. Está diseñada para unificar herramientas y crear flujos en los que distintas tecnologías puedan trabajar de manera coordinada.",
+        "release_date": "No disponible",
+        "developer": "Fermi Dev",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.fermi.dev/"
+        }
+      ]
+    },
+    "2222": {
+      "app": {
+        "id": "2222",
+        "name": "FAQ Ally",
+        "url": "https://www.faqally.com/",
+        "short_description": "Herramienta que convierte documentación empresarial en un sistema consultable de preguntas y respuestas.",
+        "category": "Chat",
+        "main_functionality": "Convertir documentación empresarial en una base de conocimiento consultable mediante preguntas.",
+        "tags": "documentación empresarial, búsqueda de información, preguntas frecuentes, chatbot, base de conocimiento",
+        "logo_filename": "id_2222_faq_ally",
+        "what_is": "FAQ Ally es una herramienta de chat que convierte documentación empresarial en una base de conocimiento consultable.",
+        "purpose": "Convertir documentación empresarial en una fuente de información que pueda consultarse mediante preguntas.",
+        "use_cases": "Consultas sobre documentación interna, preguntas frecuentes, búsqueda de información empresarial y bases de conocimiento.",
+        "main_advantages": "Permite consultar documentación empresarial de forma más directa mediante preguntas y respuestas.",
+        "long_description": "FAQ Ally es una herramienta de chat que convierte documentación empresarial en una base de conocimiento consultable. Permite utilizar documentos existentes como fuente para responder preguntas y facilitar el acceso a información interna.",
+        "release_date": "No disponible",
+        "developer": "FAQ Ally",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.faqally.com/"
+        }
+      ]
+    },
+    "2226": {
+      "app": {
+        "id": "2226",
+        "name": "FeatureShark",
+        "url": "https://www.featureshark.com/es",
+        "short_description": "Plataforma que centraliza y analiza la retroalimentación de clientes.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Centralizar y analizar retroalimentación de clientes para extraer información útil.",
+        "tags": "feedback de clientes, análisis de comentarios, inteligencia de negocios, información de clientes, producto",
+        "logo_filename": "id_2226_featureshark",
+        "what_is": "FeatureShark es una plataforma de inteligencia de negocios que centraliza y analiza comentarios de clientes.",
+        "purpose": "Centralizar la retroalimentación de clientes y facilitar su análisis.",
+        "use_cases": "Centralización de comentarios de clientes, análisis de feedback, identificación de temas recurrentes y apoyo a decisiones de producto.",
+        "main_advantages": "Concentra comentarios de clientes y facilita su análisis en un mismo entorno.",
+        "long_description": "FeatureShark es una plataforma que centraliza la retroalimentación de clientes para facilitar su análisis. Reúne comentarios en un mismo entorno y permite utilizarlos como fuente de información para comprender necesidades y apoyar decisiones relacionadas con productos.",
+        "release_date": "No disponible",
+        "developer": "FeatureShark",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.featureshark.com/es"
+        }
+      ]
+    },
+    "2396": {
+      "app": {
+        "id": "2396",
+        "name": "Fish Audio",
+        "url": "https://fish.audio/",
+        "short_description": "Plataforma de generación de voz con inteligencia artificial a partir de texto y clonación de voces.",
+        "category": "Texto a voz",
+        "main_functionality": "Generar voz a partir de texto y crear voces sintéticas o clonadas mediante inteligencia artificial.",
+        "tags": "texto a voz, clonación de voz, generación de voz, audio, TTS, doblaje, voces con IA",
+        "logo_filename": "id_2396_fish_audio",
+        "what_is": "Fish Audio es una plataforma de generación de voz con inteligencia artificial que ofrece texto a voz y creación o clonación de voces.",
+        "purpose": "Facilitar la creación de voces y contenido hablado mediante generación de audio y clonación de voz con inteligencia artificial.",
+        "use_cases": "Texto a voz, clonación de voz, narraciones, doblaje, creación de personajes, contenido audiovisual, podcasts y producción de audio.",
+        "main_advantages": "Combina generación de voz y clonación dentro de una plataforma orientada a producir audio mediante inteligencia artificial.",
+        "long_description": "Fish Audio es una plataforma de generación de voz con inteligencia artificial. Permite convertir texto en audio y trabajar con voces sintéticas o clonadas para producir narraciones y contenido hablado. Está orientada a creadores y otros usuarios que necesitan generar audio a partir de texto o reproducir características de una voz.",
+        "release_date": "No disponible",
+        "developer": "Fish Audio",
+        "main_model": "Modelos propios de generación y clonación de voz de Fish Audio",
+        "pricing_plans": "Free: $0; Plus: $15 USD/mes o $11 USD/mes con anual; Pro: $100 USD/mes o $75 USD/mes con anual; Max: $999 USD/mes o $749 USD/mes con anual; Enterprise: personalizado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "API y herramientas de generación de audio y voz"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://fish.audio/"
+        }
+      ]
+    },
+    "2404": {
+      "app": {
+        "id": "2404",
+        "name": "FeedGuardians",
+        "url": "https://feedguardians.com/",
+        "short_description": "Plataforma para gestionar y automatizar respuestas a comentarios en redes sociales.",
+        "category": "Redes sociales",
+        "main_functionality": "Gestionar y automatizar respuestas a comentarios recibidos en plataformas de redes sociales.",
+        "tags": "redes sociales, comentarios, respuestas, moderación, comunidad, automatización, social media, IA",
+        "logo_filename": "id_2404_feedguardians",
+        "what_is": "FeedGuardians es una herramienta para gestionar y automatizar respuestas a comentarios dentro de plataformas de redes sociales.",
+        "purpose": "Reducir el trabajo manual asociado con la moderación y respuesta de comentarios en redes sociales.",
+        "use_cases": "Respuesta a comentarios, moderación de comunidades, atención en redes sociales, engagement, gestión de reputación y automatización de interacciones.",
+        "main_advantages": "Ayuda a gestionar un mayor volumen de comentarios mediante automatización de respuestas y tareas de moderación.",
+        "long_description": "FeedGuardians es una plataforma orientada a la gestión de comentarios en redes sociales. Permite apoyar tareas de moderación y automatizar respuestas para facilitar la administración de comunidades y reducir el trabajo manual asociado con grandes volúmenes de interacciones.",
+        "release_date": "No disponible",
+        "developer": "FeedGuardians",
+        "main_model": "No especificado",
+        "pricing_plans": "Starter: €41/mes; Growth: €83/mes; Business: €191/mes; Enterprise: €374/mes; prueba gratuita de 7 días",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "Plataformas de redes sociales"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://feedguardians.com/"
+        }
+      ]
+    },
+    "2473": {
+      "app": {
+        "id": "2473",
+        "name": "FastScribe",
+        "url": "https://fastscribe.org/",
+        "short_description": "Herramienta de transcripción con IA que convierte archivos de audio y video en texto y formatos reutilizables.",
+        "category": "Audio",
+        "main_functionality": "Convierte archivos de audio y video en texto mediante reconocimiento automático del habla y funciones de procesamiento de transcripciones.",
+        "tags": "transcripción, audio a texto, video a texto, diarización, subtítulos",
+        "logo_filename": "id_2473_fastscribe",
+        "what_is": "FastScribe es una herramienta de transcripción automática diseñada para convertir contenido hablado en texto procesable.",
+        "purpose": "Automatizar la conversión de conversaciones, entrevistas, reuniones y otros contenidos hablados en texto.",
+        "use_cases": "Transcribir entrevistas; convertir reuniones en texto; procesar podcasts; generar transcripciones de videos; preparar subtítulos o material textual reutilizable.",
+        "main_advantages": "Ahorra tiempo frente a la transcripción manual y facilita reutilizar contenido hablado en documentos, resúmenes o subtítulos.",
+        "long_description": "FastScribe es una herramienta orientada a la transcripción automática de audio y video. Utiliza reconocimiento del habla para convertir contenido hablado en texto que posteriormente puede editarse o reutilizarse. Puede ser útil para entrevistas, reuniones, podcasts, clases y otros materiales en los que se necesite obtener una versión textual del contenido.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Paquetes de créditos desde USD 9.90 por 1,200 créditos; también ofrece paquetes de 2,500, 6,500 y 15,000 créditos.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://fastscribe.org/"
+        }
+      ]
+    },
+    "2620": {
+      "app": {
+        "id": "2620",
+        "name": "FaceVary",
+        "url": "https://remaker.ai/face-swap-free",
+        "short_description": "Herramienta de edición de imágenes con IA enfocada en intercambio de rostros y creación de composiciones fotográficas personalizadas.",
+        "category": "Edición de imágenes",
+        "main_functionality": "Realiza intercambio de rostros en imágenes mediante IA y permite generar composiciones visuales a partir de fotografías proporcionadas por el usuario.",
+        "tags": "face swap, intercambio de rostros, edición de imágenes, fotos, IA generativa, retratos, memes",
+        "logo_filename": "id_2620_facevary",
+        "what_is": "FaceVary es una herramienta de edición de imágenes con inteligencia artificial especializada en intercambio y sustitución de rostros.",
+        "purpose": "Simplificar la creación de imágenes con intercambio de rostros para contenido creativo, entretenimiento y personalización visual.",
+        "use_cases": "Intercambiar rostros en fotografías; crear memes; generar retratos personalizados; producir contenido creativo y composiciones visuales.",
+        "main_advantages": "Permite producir intercambios de rostro de forma rápida sin requerir conocimientos avanzados de edición fotográfica.",
+        "long_description": "FaceVary es una herramienta de edición de imágenes basada en inteligencia artificial especializada en intercambio de rostros. Permite sustituir caras dentro de fotografías y generar composiciones personalizadas utilizando imágenes proporcionadas por el usuario. Su enfoque está dirigido principalmente a contenido creativo, entretenimiento, retratos y publicaciones sociales.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://remaker.ai/face-swap-free"
+        }
+      ]
+    }
+  }
+}

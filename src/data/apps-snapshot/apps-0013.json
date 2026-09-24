@@ -1,0 +1,2375 @@
+{
+  "schemaVersion": 1,
+  "apps": {
+    "16": {
+      "app": {
+        "id": "16",
+        "name": "Elsa Speak",
+        "url": "https://elsaspeak.com/",
+        "short_description": "Aplicación de aprendizaje de inglés que utiliza inteligencia artificial para mejorar la pronunciación y fluidez del usuario mediante retroalimentación en tiempo real.",
+        "category": "Educación",
+        "main_functionality": "Proporciona lecciones personalizadas y análisis de pronunciación para ayudar a los usuarios a hablar inglés con mayor claridad y confianza.",
+        "tags": "#Educación #Aprendizaje #Formación",
+        "logo_filename": "id_16_elsa_speak",
+        "what_is": "ELSA Speak es una aplicación educativa que emplea inteligencia artificial para ayudar a los usuarios a mejorar su pronunciación y fluidez en inglés. Ofrece lecciones personalizadas y retroalimentación en tiempo real para perfeccionar las habilidades de habla.",
+        "purpose": "Su propósito principal es asistir a los estudiantes de inglés en la mejora de su pronunciación, entonación y fluidez, facilitando una comunicación más clara y efectiva en contextos académicos, profesionales y sociales",
+        "use_cases": "Estudiantes: Perfeccionamiento de habilidades orales para exámenes y presentaciones.\nProfesionales: Mejora de la comunicación en entornos laborales internacionales.\nViajeros: Preparación para interactuar en países de habla inglesa.\nAprendices autodidactas: Desarrollo de competencias lingüísticas de manera independiente.",
+        "main_advantages": "Retroalimentación instantánea: Análisis detallado de la pronunciación con sugerencias de mejora.\nLecciones personalizadas: Contenido adaptado al nivel y objetivos del usuario.\nAccesibilidad: Disponible en dispositivos móviles, permitiendo practicar en cualquier momento y lugar.\nTecnología avanzada: Utiliza inteligencia artificial para ofrecer una experiencia de aprendizaje efectiva y atractiva.",
+        "long_description": "ELSA Speak es una aplicación educativa que utiliza inteligencia artificial para ayudar a los usuarios a mejorar su pronunciación y fluidez en inglés. Ofrece lecciones personalizadas y retroalimentación en tiempo real, permitiendo a los estudiantes identificar y corregir errores específicos en su habla. La aplicación cuenta con una amplia variedad de ejercicios que abarcan desde sonidos individuales hasta conversaciones completas, adaptándose al nivel y necesidades de cada usuario. Además, ELSA Speak proporciona análisis detallados del progreso, facilitando un aprendizaje continuo y efectivo",
+        "release_date": "2016",
+        "developer": "ELSA Corp.",
+        "main_model": "ELSA Speak emplea tecnología de reconocimiento de voz y algoritmos de inteligencia artificial desarrollados a partir de datos de hablantes no nativos de inglés, lo que le permite identificar patrones de pronunciación y ofrecer retroalimentación precisa. \n",
+        "pricing_plans": "ELSA Speak ofrece una versión gratuita con acceso limitado a lecciones y funcionalidades. Para una experiencia completa, dispone de suscripciones premium que incluyen acceso ilimitado a todas las lecciones, análisis detallados y funciones avanzadas. Las opciones de suscripción varían en duración y precio, adaptándose a las necesidades de los usuarios.",
+        "license": "Propietaria de ELSA Corp.",
+        "security_privacy": "ELSA Corp. se compromete a proteger la privacidad de sus usuarios, implementando medidas de seguridad para salvaguardar la información personal y los datos de uso. La empresa detalla sus prácticas de privacidad en su política oficial, asegurando que los datos no se comparten con terceros sin consentimiento.",
+        "integration": "ELSA Speak está disponible para dispositivos móviles con sistemas operativos iOS y Android, permitiendo su uso en smartphones y tabletas. Aunque no ofrece integraciones directas con otras aplicaciones, su accesibilidad en múltiples plataformas facilita su incorporación en rutinas de aprendizaje y práctica del idioma."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "ATAD mejora las competencias lingüísticas del personal mediante aprendizaje personalizado con ELSA Speak",
+          "description": "ATAD Steel Structure Corporation adoptó ELSA Speak para fortalecer las habilidades en inglés de su equipo. En seis meses, el 100% de los empleados registraron mejoras significativas, destacando la constancia del usuario más avanzado con una práctica diaria de 24 minutos. La implementación demostró el impacto positivo del aprendizaje adaptativo en entornos corporativos.",
+          "url": "https://elsaspeak.com/es/english-for-companies/homepage"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Rise University mejora la pronunciación del inglés en un 14% mediante práctica guiada con ELSA",
+          "description": "Rise University implementó ELSA como herramienta de aprendizaje para perfeccionar la pronunciación en inglés. Tras solo seis semanas de uso, los estudiantes registraron una mejora del 14%, destacando la efectividad de la práctica personalizada y el feedback automatizado ofrecido por la plataforma.",
+          "url": "https://elsaspeak.com/es/english-for-companies/homepage"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://elsaspeak.com/"
+        },
+        {
+          "source_url": "https://play.google.com/store/apps/details?hl=es-MX&id=us.nobarriers.elsa"
+        },
+        {
+          "source_url": "https://www.langoly.com/es/resena-elsa-speak/"
+        },
+        {
+          "source_url": "https://elsaspeak.com/en/new-homepage/"
+        },
+        {
+          "source_url": "https://toolsworld.ai/es/elsa-speak/"
+        },
+        {
+          "source_url": "https://aplicacionesparaaprenderingles.com/elsa-speak/"
+        },
+        {
+          "source_url": "https://elsaspeak.com/es/english-for-companies/homepage"
+        }
+      ]
+    },
+    "130": {
+      "app": {
+        "id": "130",
+        "name": "ElevenLabs",
+        "url": "https://elevenlabs.io/",
+        "short_description": "Estructure, edite y genere audio de formato largo con precisión. Convierte libros en audiolibros y guiones en voces en off.",
+        "category": "Audio",
+        "main_functionality": "Generación de voz sintética de alta calidad a partir de texto, clonación de voces existentes y creación de efectos de sonido mediante inteligencia artificial.",
+        "tags": "#SíntesisDeVoz #ClonaciónDeVoz #EfectosDeSonido #InteligenciaArtificial",
+        "logo_filename": "id_130_eleven_labs",
+        "what_is": "ElevenLabs es una plataforma de inteligencia artificial que se especializa en la generación de voz realista y efectos de sonido personalizados. Utiliza tecnologías avanzadas de síntesis de voz y clonación vocal para transformar texto en audio de alta calidad, con tonalidades y emociones adaptables al contexto.",
+        "purpose": "ElevenLabs permite la creación de contenido de audio convincente para diversas aplicaciones, como narraciones, doblajes, entretenimiento, educación y publicidad. Su capacidad de clonación de voz también es útil para personalizar asistentes virtuales o crear experiencias de usuario más inmersivas.",
+        "use_cases": "Producción de Contenido: Generación de narraciones para videos, audiolibros o pódcasts con voces naturales.\nAsistentes Virtuales: Creación de voces personalizadas para chatbots y asistentes de voz.\nEntretenimiento: Uso en doblaje de películas o videojuegos para personajes específicos.\nEducación: Generación de materiales educativos accesibles en diferentes idiomas y tonos.\nPublicidad: Producción de anuncios con voces diseñadas para captar la atención y transmitir emociones específicas.",
+        "main_advantages": "Alta calidad de voz: Voces sintéticas que suenan naturales y emocionales.\nFlexibilidad y personalización: Permite ajustar el tono, la emoción y las características vocales según el contexto.\nMultilingüismo: Compatible con múltiples idiomas, lo que amplía su aplicabilidad global.\nAhorro de tiempo y costos: Automatiza la creación de contenido de audio, reduciendo la necesidad de grabaciones físicas.\nAccesibilidad: Facilita la producción de audio accesible para personas con discapacidades visuales.",
+        "long_description": "ElevenLabs es una plataforma de inteligencia artificial especializada en la generación de voz sintética de alta calidad. Utiliza modelos avanzados de aprendizaje profundo para convertir texto en discurso natural, permitiendo la creación de voces que reflejan emociones y entonaciones humanas. Además, ofrece herramientas para la clonación de voces existentes y la generación de efectos de sonido personalizados, lo que la convierte en una solución integral para diversas aplicaciones de audio.",
+        "release_date": "Enero de 2023",
+        "developer": "ElevenLabs.",
+        "main_model": "ElevenLabs emplea modelos de inteligencia artificial basados en aprendizaje profundo para la síntesis de voz y clonación vocal. Estos modelos analizan el contexto del texto para generar entonaciones y emociones adecuadas, logrando una reproducción vocal realista.",
+        "pricing_plans": "Gratis: Incluye 10,000 caracteres por mes y acceso a funciones básicas de síntesis de voz.\nStarter: Por $5 al mes, ofrece 30,000 caracteres y características adicionales como clonación de voz instantánea.\nCreator: A $22 al mes, proporciona 100,000 caracteres y acceso a herramientas avanzadas como la clonación profesional de voz.\nPro: Por $99 al mes, incluye 500,000 caracteres y funcionalidades premium para profesionales.\nScale: A $330 al mes, ofrece 2,000,000 de caracteres y soporte empresarial.\nBusiness: Por $1,320 al mes, proporciona 11,000,000 de caracteres y soluciones personalizadas para grandes empresas.",
+        "license": "Propietaria",
+        "security_privacy": "ElevenLabs se compromete a proteger la privacidad de los usuarios y la seguridad de los datos. Utiliza medidas como el cifrado de extremo a extremo y cumple con regulaciones como el GDPR. Además, ofrece modos de privacidad total para garantizar que la información del usuario permanezca segura durante la traducción.",
+        "integration": "ElevenLabs proporciona una API robusta que permite a los desarrolladores integrar sus capacidades de síntesis de voz en diversas aplicaciones y servicios, facilitando la creación de experiencias de usuario enriquecidas con audio generado por IA."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Paradox Interactive mejora la inmersión en videojuegos con voces de ElevenLabs",
+          "description": "Este desarrollador de videojuegos ha integrado la tecnología de ElevenLabs para generar voces realistas en sus personajes, mejorando la inmersión y experiencia del jugador.",
+          "url": "https://appmaster.io/es/news/elevenlabs-pionero-de-la-voz-por-ia-consigue-80-millones-y-alcanza-el-estatus-de-unicornio"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "The Washington Post amplía su alcance con contenido en audio de ElevenLabs",
+          "description": "El reconocido medio de comunicación ha utilizado las herramientas de ElevenLabs para convertir artículos escritos en contenido de audio, ampliando su alcance y ofreciendo una alternativa accesible para sus lectores. ",
+          "url": "https://appmaster.io/es/news/elevenlabs-pionero-de-la-voz-por-ia-consigue-80-millones-y-alcanza-el-estatus-de-unicornio"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Skim AI personaliza sus agentes con voces realistas de ElevenLabs",
+          "description": "Esta empresa ha implementado las voces de ElevenLabs en su plataforma de agentes de inteligencia artificial, seleccionando voces que encarnan la esencia de las funciones que deben desempeñar, desde médicos virtuales hasta gestores de redes sociales.",
+          "url": "https://skimai.com/es/nuestras-10-voces-favoritas-de-elevenlabs-ai-como-clonar-sus-propios-casos-de-uso-empresarial-aiyou-71/?utm_source=chatgpt.com"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://elevenlabs.io/projects?utm_source=superhuman&utm_medium=referral&utm_campaign=the-reasoning-models-coming-for-o1"
+        },
+        {
+          "source_url": "https://elevenlabs.io/about"
+        },
+        {
+          "source_url": "https://softexplora.com/elevenlabs-opiniones-precios-caracteristicas-y-mas?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://elevenlabs.io/pricing"
+        },
+        {
+          "source_url": "https://elevenlabs.io/privacy-policy"
+        }
+      ]
+    },
+    "169": {
+      "app": {
+        "id": "169",
+        "name": "Empress",
+        "url": "https://empress.ac/",
+        "short_description": "Descubre nuevos sonidos y géneros de todo el mundo, luego escribe letras y compone éxitos con un asistente de IA.\n",
+        "category": "Música",
+        "main_functionality": "Proporciona una suite de herramientas basadas en IA, incluyendo generadores de acordes, letras y melodías, así como generadores de líneas de bajo, que facilitan la composición y producción musical al analizar patrones y ofrecer sugerencias creativas adaptadas al estilo del usuario.",
+        "tags": "#ProducciónMusical #InteligenciaArtificial #GeneradorDeAcordes #GeneradorDeLetras #GeneradorDeMelodías #GeneradorDeBajo",
+        "logo_filename": "id_169_empress",
+        "what_is": "Empress es una innovadora plataforma de producción musical basada en inteligencia artificial. Está diseñada para apoyar a músicos, compositores y productores en el proceso creativo, proporcionando herramientas que simplifican y optimizan las etapas de composición y producción.",
+        "purpose": "El propósito de Empress es democratizar la producción musical, permitiendo a músicos de todos los niveles acceder a tecnologías avanzadas que mejoren sus composiciones, inspiren nuevas ideas y optimicen el proceso creativo.",
+        "use_cases": "Generación de Acordes: Creación automática de progresiones armónicas adaptadas a un género o estilo específico.\nComposición de Letras: Generación de letras inspiradas en temas y estilos seleccionados por el usuario.\nProducción Musical: Creación de líneas de bajo y melodías complementarias para enriquecer las composiciones.\nAsistencia Creativa: Inspiración para superar bloqueos creativos en la composición musical.\nAprendizaje Musical: Herramienta para principiantes que deseen aprender sobre composición y armonización mediante el análisis de patrones generados por IA.",
+        "main_advantages": "Accesibilidad: Hace que herramientas de producción profesional estén disponibles para músicos de todos los niveles.\nAhorro de Tiempo: Automatiza partes del proceso creativo, permitiendo a los usuarios centrarse en los aspectos artísticos.\nInspiración Ilimitada: Genera ideas nuevas y únicas basadas en las preferencias del usuario.\nColaboración Eficiente: Ofrece una base sólida para equipos creativos que trabajen juntos en proyectos musicales.\nInterfaz Intuitiva: Fácil de usar, incluso para aquellos con experiencia limitada en producción musical.",
+        "long_description": "Empress es una plataforma educativa que redefine la enseñanza musical mediante el uso de inteligencia artificial. Ofrece recursos y herramientas diseñados para facilitar el aprendizaje y la práctica de la música, adaptándose a las necesidades individuales de cada usuario. La plataforma proporciona lecciones interactivas, ejercicios personalizados y análisis en tiempo real, permitiendo a los estudiantes mejorar sus habilidades musicales de manera efectiva y eficiente.",
+        "release_date": "No disponible.",
+        "developer": "Amir Audio LLC",
+        "main_model": "No disponible.",
+        "pricing_plans": "Gratuito: $0 - 1 Ruta de aprendizaje\n3,000 símbolos\nAcceso a todos los instrumentos\nAcceso completo al mapa mundial.                                                                                                                                                                                                                                                                                                                                                                                                                                                       Plan de inicio: $9.99 - 5 Rutas de Aprendizaje\n100.000 tokens mensuales\nAcceso a todos los instrumentos\nAcceso completo al mapa mundial\nSoporte dedicado por correo electrónico                                                                                                                                                                                                                                                                                                                                                                                                                               Premium plan: $29.99 - 10 Rutas de Aprendizaje\n200,000 tokens mensuales\nAcceso a todos los instrumentos\nAcceso completo al mapa mundial\nAtención al cliente prioritaria\nCaracterísticas exclusivas de la beta\nSorteo Trimestral de Equipos de Música",
+        "license": "No disponible.",
+        "security_privacy": "Empress, se compromete a garantizar la seguridad de los datos y a utilizarlos de manera transparente y responsable. Para obtener información específica sobre los tipos de datos recopilados, su uso y las medidas de protección implementadas, se recomienda consultar directamente la Política de Privacidad de Empress.",
+        "integration": "No disponible; la información sobre posibles integraciones de Empress con otras herramientas o plataformas no está detallada en las fuentes consultadas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://empress.ac/?utm_source=superhuman&utm_medium=referral&utm_campaign=xai-could-soon-drop-its-own-chatgpt-rival"
+        },
+        {
+          "source_url": "https://blog.empress.ac/best-ai-music-tools-empress-redefines-music-creation-clk6rn4f11374333urinu9v3g0c/"
+        },
+        {
+          "source_url": "https://empress.ac/"
+        },
+        {
+          "source_url": "https://blog.empress.ac/the-best-ai-tools-for-djs-in-2023-clq3o7j91886631wr3bgttupeb/"
+        }
+      ]
+    },
+    "293": {
+      "app": {
+        "id": "293",
+        "name": "Expense AI",
+        "url": "https://expenseai.app/",
+        "short_description": "Dedique menos tiempo a preocuparse por sus gastos y concéntrese en ser financieramente estable con un rastreador de gastos de IA fácil de usar.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Registro y categorización automática de gastos mediante escaneo de recibos y análisis impulsado por IA.",
+        "tags": "#GestiónFinanciera #SeguimientoDeGastos #InteligenciaArtificial",
+        "logo_filename": "id_293_expenseai",
+        "what_is": "Expense AI es una aplicación de gestión financiera que utiliza inteligencia artificial para facilitar el seguimiento y la administración de gastos personales. Ofrece funcionalidades como el escaneo de recibos, categorización automática de transacciones y generación de informes detallados, permitiendo a los usuarios tomar decisiones financieras informadas. \n",
+        "purpose": "La aplicación está diseñada para ayudar a los usuarios a registrar y organizar sus gastos de manera eficiente, proporcionando una visión clara de sus hábitos financieros y facilitando la planificación presupuestaria.",
+        "use_cases": "Individuos: Personas que desean llevar un control detallado de sus gastos diarios y mejorar su salud financiera.\n\nPequeñas empresas y freelancers: Profesionales que necesitan gestionar gastos relacionados con su actividad comercial de manera sencilla y efectiva.",
+        "main_advantages": "Automatización: La inteligencia artificial permite la categorización automática de gastos, reduciendo la necesidad de intervención manual.\n\nPrecisión: El escaneo de recibos y la extracción de datos garantizan registros precisos y actualizados.\n\nInformes detallados: Genera análisis financieros que ayudan a los usuarios a comprender y optimizar sus patrones de gasto.",
+        "long_description": "Expense AI es una aplicación de gestión financiera que emplea inteligencia artificial para facilitar el seguimiento y análisis de gastos personales y empresariales. Ofrece funcionalidades como escaneo de recibos, categorización automática de transacciones y generación de informes detallados, permitiendo a los usuarios tomar decisiones financieras informadas.",
+        "release_date": "2024",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Ofrece una versión gratuita con opciones de pago que incluyen pruebas gratuitas o planes específicos.",
+        "license": "Propietario",
+        "security_privacy": "La política de privacidad de Expense AI explica cómo se recopila, usa y protege la información de los usuarios. Se recolectan datos personales, financieros y de uso para ofrecer y mejorar los servicios, con medidas de seguridad para protegerlos. Los datos pueden compartirse con terceros para operaciones del servicio, pero no se venden a terceros. Los usuarios tienen derechos sobre sus datos, como acceso y eliminación, dependiendo de su ubicación. La aplicación no está destinada a menores de 13 años.",
+        "integration": "Permite la carga de archivos y el reenvío de correos electrónicos para el registro de gastos, facilitando la incorporación de datos desde diversas fuentes."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://expenseai.app/?utm_source=superhuman&utm_medium=referral&utm_campaign=harvard-s-million-book-ai-library"
+        },
+        {
+          "source_url": "https://steemhunt.com/@senha/expense-ai-smart-expense-tracking-with-ai-powered-receipt-scanning"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/expense-ai/makers"
+        },
+        {
+          "source_url": "https://sites.google.com/view/myexpenseai/privacy-policy"
+        },
+        {
+          "source_url": "https://expenseai.app/?utm_source=superhuman&utm_medium=referral&utm_campaign=harvard-s-million-book-ai-library#features"
+        },
+        {
+          "source_url": "https://expenseai.app/?utm_source=superhuman&utm_medium=referral&utm_campaign=harvard-s-million-book-ai-library#benefits"
+        }
+      ]
+    },
+    "302": {
+      "app": {
+        "id": "302",
+        "name": "Engage AI",
+        "url": "https://engage-ai.co/",
+        "short_description": "Engage AI es una herramienta que utiliza inteligencia artificial generativa para crear comentarios significativos en LinkedIn, facilitando la interacción y el inicio de conversaciones con prospectos difíciles de contactar.",
+        "category": "SEO",
+        "main_functionality": "Generación automatizada de comentarios significativos en LinkedIn para aumentar la participación y establecer relaciones efectivas.",
+        "tags": "#InteligenciaArtificial #LinkedIn #MarketingDigital #GeneraciónDeContenido",
+        "logo_filename": "id_302_engage",
+        "what_is": "Engage AI es una herramienta impulsada por inteligencia artificial diseñada para mejorar la interacción en LinkedIn mediante la generación automatizada de comentarios personalizados y significativos en publicaciones de esta red social. Su objetivo es facilitar la comunicación efectiva con prospectos y contactos, optimizando la estrategia de marketing personal y profesional en LinkedIn.",
+        "purpose": "Engage AI ayuda a los usuarios a aumentar su presencia y participación en LinkedIn al proporcionar comentarios relevantes y contextuales en las publicaciones de su red de contactos. Esto permite iniciar y mantener conversaciones de valor, fortalecer relaciones profesionales y ampliar el alcance en esta plataforma.",
+        "use_cases": "Profesionales de Ventas: Utilizan Engage AI para generar comentarios que inician conversaciones con prospectos difíciles de contactar, mejorando la prospección y el desarrollo de relaciones comerciales.\n\nEspecialistas en Marketing: Aprovechan la herramienta para aumentar la visibilidad de la marca y fomentar el compromiso con el público objetivo a través de interacciones significativas en LinkedIn.\n\nReclutadores: Emplean Engage AI para interactuar con posibles candidatos, facilitando el proceso de selección y atracción de talento.",
+        "main_advantages": "Ahorro de Tiempo: Automatiza la creación de comentarios, permitiendo a los usuarios mantener una presencia activa en LinkedIn sin invertir tiempo excesivo en redactar respuestas.\n\nPersonalización: Genera comentarios adaptados al contenido y tono de las publicaciones, asegurando que las interacciones sean relevantes y auténticas.\n\nMultilingüe: Es capaz de generar comentarios en varios idiomas, como español, inglés, francés o alemán, adaptándose al perfil y público del usuario. \n\nPrivacidad: No almacena ni comparte datos personales ni los de las conexiones del usuario, garantizando la confidencialidad de la información. \n",
+        "long_description": "Engage AI es una herramienta avanzada que utiliza modelos de procesamiento de lenguaje natural, como GPT-3, para analizar publicaciones en LinkedIn y generar comentarios contextuales y atractivos. Esta solución está diseñada para profesionales que buscan mejorar su participación en LinkedIn, facilitando la interacción con prospectos y ampliando su red de contactos de manera efectiva.",
+        "release_date": "Enero 2023",
+        "developer": "Filt Pod.",
+        "main_model": "Engage AI emplea modelos avanzados de procesamiento de lenguaje natural, incluyendo GPT-3, para generar comentarios que imitan la interacción humana en LinkedIn.",
+        "pricing_plans": "Freemium: Engage AI ofrece un plan gratuito con funcionalidades básicas para generar comentarios en LinkedIn\n\nPlanes de Pago: La plataforma también proporciona planes de suscripción con características adicionales y mayor capacidad de uso.",
+        "license": "Suscripción Freemium",
+        "security_privacy": "Engage AI se compromete a proteger la privacidad de los usuarios, implementando medidas de seguridad para salvaguardar la información personal y garantizar la confidencialidad de los datos.",
+        "integration": "Engage AI se integra con sistemas CRM y API, mejorando la funcionalidad y permitiendo a los usuarios automatizar flujos de trabajo para una gestión más eficiente de las interacciones en LinkedIn."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolslist.io/best-ai-tools/"
+        },
+        {
+          "source_url": "https://engage-ai.co/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/engage-ai-by-filt-pod/launches"
+        },
+        {
+          "source_url": "https://engage-ai.co/pricing/"
+        },
+        {
+          "source_url": "https://engage-ai.co/use-cases/"
+        },
+        {
+          "source_url": "https://engage-ai.co/app-integrations/"
+        },
+        {
+          "source_url": "https://engage-ai.co/terms-and-conditions/"
+        },
+        {
+          "source_url": "https://engage-ai.co/privacy-policy/"
+        }
+      ]
+    },
+    "424": {
+      "app": {
+        "id": "424",
+        "name": "Exolyt",
+        "url": "https://exolyt.com/",
+        "short_description": "Plataforma de inteligencia social que proporciona análisis avanzados de TikTok, permitiendo a marcas, influencers y agencias optimizar su presencia en la plataforma.",
+        "category": "Redes sociales",
+        "main_functionality": "Ofrece herramientas para el seguimiento del rendimiento, escucha social, análisis de competidores y campañas de influencers en TikTok.",
+        "tags": "#TikTokAnalytics #SocialIntelligence #InfluencerMarketing",
+        "logo_filename": "id_424_exolyt",
+        "what_is": "Exolyt es una plataforma de análisis e inteligencia social enfocada en TikTok, diseñada para proporcionar información detallada sobre el rendimiento de cuentas, tendencias y campañas en la plataforma.",
+        "purpose": "Ayuda a marcas, influencers y agencias a comprender mejor su audiencia, monitorear la competencia, identificar tendencias emergentes y optimizar estrategias de contenido en TikTok.",
+        "use_cases": "Marketing de Influencers: Permite identificar y evaluar colaboradores potenciales, así como monitorear el rendimiento de campañas con influencers.\nAnálisis de Competencia: Facilita la comparación del rendimiento de la propia cuenta con el de competidores, identificando oportunidades de mejora.\nInvestigación de Mercado: Proporciona datos sobre tendencias y opiniones de los usuarios, ayudando en la toma de decisiones estratégicas.",
+        "main_advantages": "Acceso a datos en tiempo real y análisis respaldados por inteligencia artificial.\nInterfaz intuitiva que facilita la navegación y comprensión de métricas complejas.\nCapacidad para analizar grandes volúmenes de datos, ofreciendo una visión holística del ecosistema de TikTok.",
+        "long_description": "Exolyt es una herramienta integral que permite a los usuarios analizar y monitorear el rendimiento de cuentas de TikTok, identificar tendencias emergentes y obtener información detallada sobre la audiencia. La plataforma ofrece funcionalidades como análisis de hashtags, escucha social, análisis de sentimiento y comparación de marcas, entre otras. Además, Exolyt proporciona informes detallados y exportables, facilitando la toma de decisiones basadas en datos para optimizar estrategias de contenido y marketing en TikTok.",
+        "release_date": "No disponible",
+        "developer": "Exolyt",
+        "main_model": "No disponible",
+        "pricing_plans": "Prueba gratuita disponible.\nPlanes premium con funcionalidades avanzadas.",
+        "license": "Propietaria",
+        "security_privacy": "No disponible",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Exolyt ayudó a iSANS a analizar las narrativas propagandísticas en TikTok",
+          "description": "iSANS utilizó Exolyt para analizar narrativas de propaganda en TikTok, rastrear cuentas específicas mediante hashtags, exportar datos y evaluar influencers locales. Esto permitió identificar amenazas híbridas y desarrollar recomendaciones para contrarrestarlas, fortaleciendo la lucha contra la desinformación en Europa y Eurasia.",
+          "url": "https://exolyt.com/customers/case-isans"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/exolyt"
+        },
+        {
+          "source_url": "https://exolyt.com/#r-FATFROG"
+        },
+        {
+          "source_url": "https://www.marketinghoy.com/exolyt-innovacion-y-excelencia-en-inteligencia-de-redes-sociales/"
+        },
+        {
+          "source_url": "https://www.crunchbase.com/organization/exolyt"
+        },
+        {
+          "source_url": "https://www.mridul.tech/tools/ai/exolyt"
+        },
+        {
+          "source_url": "https://www.thesilab.com/tool/exolyt"
+        }
+      ]
+    },
+    "447": {
+      "app": {
+        "id": "447",
+        "name": "Erayaha.ai",
+        "url": "https://www.erayaha.ai/en",
+        "short_description": "Revise cualquier contrato o documento con un agente de IA que pueda descubrir riesgos ocultos, impactos financieros y obligaciones clave mediante un razonamiento avanzado.",
+        "category": "Automatización",
+        "main_functionality": "Automatiza la revisión de contratos mediante IA avanzada, identificando riesgos ocultos, impactos financieros y obligaciones clave, integrándose perfectamente con herramientas de edición de documentos como Google Docs y Microsoft Word.",
+        "tags": "#IA #AutomatizaciónLegal #RevisiónDeContratos #IntegraciónConDocumentos",
+        "logo_filename": "id_447_erayaha",
+        "what_is": "Erayaha AI es una plataforma avanzada de inteligencia artificial diseñada para optimizar la gestión de contratos. Ofrece análisis profundos y precisos, identificando riesgos ocultos, impactos financieros y obligaciones clave dentro de los documentos contractuales.",
+        "purpose": "Su objetivo principal es asistir a líderes empresariales y equipos legales en la revisión y optimización de contratos, garantizando acuerdos sólidos y bien estructurados mediante sugerencias y ediciones precisas directamente en herramientas de edición de documentos como Google Docs y Microsoft Word.",
+        "use_cases": "Revisión de Contratos Legales: Identificación de cláusulas de riesgo y sugerencias de modificaciones para fortalecer acuerdos.\nAnálisis Financiero de Acuerdos: Detección de implicaciones financieras ocultas en términos contractuales.\nOptimización de Documentos Comerciales: Mejora de la estructura y contenido de contratos para alinearlos con las mejores prácticas de la industria.",
+        "main_advantages": "Integración Fluida: Se integra perfectamente con Google Docs y Microsoft Word, permitiendo a los usuarios trabajar en sus entornos habituales sin interrupciones.\nDespliegue Flexible: Disponible como SaaS a través de Google Workspace y Microsoft AppSource, así como en implementaciones autogestionadas, asegurando que los datos sensibles no salgan de las instalaciones del cliente.\nCapacidades Avanzadas de IA: Ofrece un razonamiento de vanguardia, proporcionando análisis lógicos profundos y comprensión avanzada de contratos complejos.\nSeguridad de Datos: Garantiza la máxima seguridad para información sensible, adaptándose a las políticas de privacidad y protección de datos de las organizaciones.",
+        "long_description": "Erayaha AI es una plataforma avanzada que combina inteligencia artificial de vanguardia con integraciones fluidas en herramientas cotidianas como Google Docs y Microsoft Word. Diseñada para descubrir riesgos ocultos, impactos financieros y obligaciones clave en los contratos, ofrece análisis precisos y profundos para optimizar la gestión contractual. Con opciones de implementación flexibles, está disponible como SaaS a través de Google Workspace y Microsoft AppSource, o como solución autogestionada, garantizando que los datos sensibles permanezcan dentro de las instalaciones del cliente.",
+        "release_date": "Enero 2025",
+        "developer": "Erayaha Limited",
+        "main_model": "No disponible",
+        "pricing_plans": "Erayaha AI ofrece dos planes de suscripción basados en el análisis de documentos por página, con tarifas que requieren pago por adelantado:\n\nPro: $0.03 por página.                                                 Business: $0.07 por página.                                             Para obtener más información o contactar al equipo de soporte, puedes visitar la página de precios de Erayaha AI.",
+        "license": "No especificado",
+        "security_privacy": "Erayaha AI garantiza la máxima seguridad para la información sensible, adaptándose a las políticas de privacidad y protección de datos de las organizaciones. Ofrece opciones de implementación autogestionadas, asegurando que los datos no salgan de las instalaciones del cliente.",
+        "integration": "Erayaha AI se integra perfectamente con Google Docs y Microsoft Word, permitiendo a los usuarios trabajar en sus entornos habituales sin interrupciones."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.erayaha.ai/en?utm_source=superhuman&utm_medium=referral&utm_campaign=meta-embraces-ai-bots"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/erayaha-ai"
+        },
+        {
+          "source_url": "https://huntscreens.com/en/products/erayahaai"
+        },
+        {
+          "source_url": "https://www.saasworthy.com/product/erayaha-ai"
+        },
+        {
+          "source_url": "https://huggingface.co/ErayahaAI"
+        },
+        {
+          "source_url": "https://www.erayaha.ai/en/pricing"
+        },
+        {
+          "source_url": "https://www.erayaha.ai/en/privacy"
+        }
+      ]
+    },
+    "462": {
+      "app": {
+        "id": "462",
+        "name": "Epsilla",
+        "url": "https://www.epsilla.com/",
+        "short_description": "Cree aplicaciones con tecnología LLM basadas en datos privados o públicos de su elección.",
+        "category": "Codificación",
+        "main_functionality": "Permite a los usuarios crear y desplegar agentes de IA personalizados conectados a sus propios datos mediante una interfaz sin código, ofreciendo integraciones sencillas y escalabilidad para soluciones empresariales.",
+        "tags": "#RAG #NoCode #AIAppBuilder #VectorDatabase #LLM",
+        "logo_filename": "id_462_epsilla",
+        "what_is": "Epsilla es una plataforma integral de RAG-as-a-Service (Generación Aumentada por Recuperación) que permite a los desarrolladores crear aplicaciones de Modelos de Lenguaje Grande (LLM) listas para producción, conectadas con datos propietarios. Ofrece una base de datos vectorial de alto rendimiento, técnicas avanzadas de RAG, gestión de datos nativa de IA y características de seguridad preparadas para entornos empresariales.",
+        "purpose": "Epsilla facilita la creación y despliegue de agentes de IA personalizados que se integran con datos específicos de una organización, mejorando la precisión y relevancia de las respuestas generadas por los modelos de lenguaje. Su interfaz sin código permite a los usuarios desarrollar aplicaciones de IA de manera eficiente, reduciendo el tiempo de desarrollo y los costos asociados.",
+        "use_cases": "Asistente Personal de IA: Permite a los usuarios crear asistentes de IA para investigación, responder preguntas y automatizar flujos de trabajo diarios. \n\nAnalista Financiero de IA: Automatiza la recuperación y análisis de datos de informes financieros y noticias, reduciendo costos en un 90% y aumentando la eficiencia en 10 veces. \n\nAsistente Legal de IA: Facilita a las firmas legales la búsqueda, resumen y análisis de documentos legales, disminuyendo el tiempo y costo de investigación legal en hasta un 80%. \n\nSoporte al Cliente de IA: Automatiza las respuestas a las consultas de los clientes, proporcionando respuestas instantáneas y escalando problemas complejos, mejorando el tiempo de respuesta y la satisfacción del cliente. \n\nAumento del Compromiso de Contenido: Mejora la descubribilidad y el compromiso del contenido para editores utilizando IA avanzada para búsqueda semántica y resumen.",
+        "main_advantages": "Plataforma Integral: Ofrece una solución todo-en-uno para el desarrollo, prueba, implementación y operación de aplicaciones LLM. \n\nAlto Rendimiento: Su base de datos vectorial proporciona una latencia de consulta 10 veces menor y un rendimiento 5 veces mayor en comparación con proveedores líderes, con un costo 3 veces menor. \n\nTécnicas Avanzadas de RAG: Proporciona técnicas modulares y avanzadas de RAG y GraphRAG listas para usar sin necesidad de codificación adicional. \n\nGestión Eficiente de Datos: Maneja de manera efectiva datos no estructurados y estructurados a gran escala, asegurando que la información esté siempre actualizada. \n\nSeguridad Empresarial: Ofrece control de acceso basado en roles, soporte para implementaciones en la nube privada y en las instalaciones, e integración con LLMs de código abierto y autoalojados. \n",
+        "long_description": "Epsilla es una plataforma integral que permite a los desarrolladores crear y desplegar agentes de IA personalizados conectados a datos propios, sin necesidad de programación avanzada. Ofrece una base de datos vectorial de alto rendimiento y técnicas avanzadas de Generación Aumentada por Recuperación (RAG), facilitando la integración y escalabilidad de soluciones de IA en diversos entornos empresariales. Su interfaz sin código permite a los usuarios desarrollar aplicaciones de IA de manera eficiente, reduciendo el tiempo de desarrollo y los costos asociados.",
+        "release_date": "Septiembre 2024",
+        "developer": "Epsilla Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "Epsilla ofrece los siguientes planes:\n\nGratuito: 1 equipo, 1 proyecto, 1 app de IA, 10M de almacenamiento vectorial, 50 mensajes/mes.\nStarter ($29/mes): 2 equipos, 5 apps, 5 bases de conocimiento, 1 GB, 500 mensajes/mes.\nProfessional ($249/mes): 20 equipos, 50 apps, 50 bases de conocimiento, 10 GB, 5,000 mensajes/mes.\nEnterprise (Precio personalizado): Recursos ilimitados, soporte avanzado, personalización y despliegue en las instalaciones.\nComplementos: Miembros ($5), apps ($2), almacenamiento ($18/GB), mensajes ($3/100), y eliminación de marca ($39).",
+        "license": "Propietaria",
+        "security_privacy": "Epsilla implementa medidas de seguridad y políticas de privacidad para proteger los datos de los usuarios. Sin embargo, los detalles específicos sobre estas medidas no se encuentran disponibles públicamente.",
+        "integration": "Epsilla permite la integración con diversas herramientas y servicios, facilitando la incorporación de sus agentes de IA en diferentes plataformas y flujos de trabajo. Los detalles específicos sobre las integraciones disponibles no se encuentran detallados públicamente."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.epsilla.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=gemini-gets-an-efficiency-boost"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/epsilla/launches"
+        },
+        {
+          "source_url": "https://www.ycombinator.com/companies/epsilla"
+        },
+        {
+          "source_url": "https://aiagentstore.ai/ai-agent/epsilla"
+        },
+        {
+          "source_url": "https://aitools.inc/tools/epsilla"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/epsilla?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/epsilla/"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/epsilla/introduction"
+        },
+        {
+          "source_url": "https://www.aitoolnet.com/es/epsilla"
+        }
+      ]
+    },
+    "504": {
+      "app": {
+        "id": "504",
+        "name": "Erase.bg",
+        "url": "https://www.erase.bg/es",
+        "short_description": "Aplicación en línea impulsada por inteligencia artificial que permite eliminar automáticamente el fondo de imágenes de forma rápida y precisa.",
+        "category": "Edición de imágenes",
+        "main_functionality": "Eliminación automática de fondos en imágenes, generando fondos transparentes o permitiendo su reemplazo por otros colores o imágenes.",
+        "tags": "#IA #EdiciónDeImágenes #EliminaciónDeFondos #TransparenciaDeImágenes",
+        "logo_filename": "id_504_erasebg",
+        "what_is": "Erase.bg es una herramienta en línea basada en inteligencia artificial que permite eliminar fondos de imágenes de manera automática y precisa. Diseñada para ser rápida y fácil de usar, no requiere conocimientos técnicos ni software adicional.",
+        "purpose": "Su propósito principal es generar imágenes con fondo transparente para ser utilizadas en diseño gráfico, marketing, comercio electrónico, presentaciones y proyectos creativos. También permite reemplazar el fondo eliminado por otros colores o imágenes.",
+        "use_cases": "E-commerce: Crear imágenes de productos con fondos limpios para catálogos o sitios web.\nDiseño gráfico: Preparar imágenes para materiales publicitarios, presentaciones y redes sociales.\nMarketing: Generar contenido visual atractivo para campañas y promociones.\nFotografía: Simplificar el proceso de edición eliminando fondos no deseados.\nDocumentación y educación: Crear recursos gráficos claros y profesionales.",
+        "main_advantages": "Precisión: Utiliza inteligencia artificial para realizar recortes detallados y nítidos.\nVelocidad: Procesa imágenes en cuestión de segundos.\nFácil de usar: No requiere habilidades técnicas ni instalación de software.\nVersatilidad: Compatible con diversos formatos de imagen y usos.\nGratuita para usuarios básicos: Permite a cualquier persona eliminar fondos sin costo inicial.",
+        "long_description": "Erase.bg es una herramienta en línea impulsada por inteligencia artificial diseñada para eliminar automáticamente los fondos de las imágenes de manera rápida y eficiente. Utiliza algoritmos avanzados de IA para detectar y aislar sujetos en fotografías, creando fondos transparentes con mínima intervención del usuario. La plataforma admite múltiples formatos de imagen, incluyendo PNG, JPG, JPEG, WEBP y HEIC, y puede manejar resoluciones de hasta 5000x5000 píxeles y tamaños de archivo de hasta 25 MB.",
+        "release_date": "Octubre 2021",
+        "developer": "PixelBin.io.",
+        "main_model": "Erase.bg utiliza algoritmos avanzados de inteligencia artificial y aprendizaje automático para detectar y eliminar automáticamente los fondos de las imágenes en cuestión de segundos. \n",
+        "pricing_plans": "Plan gratuito para siempre: Incluye 3 créditos y descargas gratis, recomendado para uso personal.\n\nPlan de suscripción: Desde $9 por 10 créditos hasta $199 por 3000 créditos, con un costo de $0.10 por crédito.\n\nPago por uso: Desde $19 por 30 créditos hasta $399 por 3000 créditos. ",
+        "license": "Propietaria",
+        "security_privacy": "Erase.bg se compromete a proteger la privacidad de los usuarios y la seguridad de los datos. Utiliza medidas de seguridad estándar para garantizar que las imágenes cargadas y los datos del usuario se manejen de manera confidencial. Para obtener detalles específicos sobre sus políticas de privacidad y seguridad, se recomienda revisar la Política de Privacidad en su sitio web oficial.",
+        "integration": "Erase.bg ofrece una API que permite a los desarrolladores integrar la funcionalidad de eliminación de fondos en sus propias aplicaciones y flujos de trabajo, facilitando la automatización y mejorando la productividad en procesos que requieren edición de imágenes."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolslist.io/best-ai-image-editing-tools/"
+        },
+        {
+          "source_url": "https://www.erase.bg/es"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/erase-bg"
+        },
+        {
+          "source_url": "https://www.vidmore.com/es/edit-image/erasebg-review/"
+        },
+        {
+          "source_url": "https://aifindy.com/directorio-en-lista/erasebg"
+        },
+        {
+          "source_url": "https://iaboxtool.es/erase-bg-herramienta-eliminacion-fondo-imagenes/"
+        },
+        {
+          "source_url": "https://aplicaciones.ai/erase-bg/"
+        },
+        {
+          "source_url": "https://aimojo.io/es/tools/erase-bg/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://ciroapp.com/es/erase-bg-review/?utm_source=chatgpt.com"
+        }
+      ]
+    },
+    "596": {
+      "app": {
+        "id": "596",
+        "name": "Eververse",
+        "url": "https://www.eververse.ai/",
+        "short_description": "reúne a tu equipo de productos para explorar problemas, idear soluciones, priorizar funciones y planificar hojas de ruta con la ayuda de la IA.",
+        "category": "Productividad",
+        "main_functionality": "Eververse permite a los equipos de productos capturar y resumir comentarios de los clientes, analizar sentimientos, priorizar características utilizando puntuaciones RICE asistidas por IA y planificar hojas de ruta visuales.",
+        "tags": "#GestiónDeProductos #InteligenciaArtificial #CódigoAbierto #PlanificaciónDeHojasDeRuta",
+        "logo_filename": "id_596_eververse",
+        "what_is": "Eververse es una plataforma de gestión de productos de código abierto que utiliza inteligencia artificial para ayudar a los equipos a explorar problemas, idear soluciones, priorizar características y planificar hojas de ruta de manera eficiente.",
+        "purpose": "La plataforma está diseñada para facilitar la colaboración en equipos de productos, permitiendo capturar y resumir comentarios de los clientes, analizar sentimientos, priorizar características utilizando puntuaciones RICE asistidas por IA y planificar hojas de ruta visuales.",
+        "use_cases": "Equipos de Producto: Organizar y priorizar retroalimentación de clientes para mejorar el desarrollo del producto.\nGestores de Proyectos: Planificar y visualizar hojas de ruta de productos de manera eficiente.\nDesarrolladores: Integrar comentarios y priorizar características en el ciclo de desarrollo.",
+        "main_advantages": "Código Abierto: Facilita la personalización y adaptación a las necesidades específicas del equipo.\nAsistencia de IA: Automatiza tareas como la priorización de características y el análisis de retroalimentación.\nColaboración Mejorada: Centraliza la información y mejora la comunicación entre los miembros del equipo.",
+        "long_description": "Eververse es una plataforma de gestión de productos de código abierto que utiliza inteligencia artificial para ayudar a los equipos a explorar problemas, idear soluciones, priorizar características y planificar hojas de ruta de manera eficiente. La plataforma permite capturar y resumir comentarios de los clientes, analizar sentimientos, priorizar características utilizando puntuaciones RICE asistidas por IA y planificar hojas de ruta visuales.",
+        "release_date": "Enero 2025",
+        "developer": "Eververse",
+        "main_model": "Eververse utiliza inteligencia artificial para resumir comentarios, analizar sentimientos y priorizar características, aunque no se especifica el modelo o algoritmo exacto empleado.",
+        "pricing_plans": "Hobby (Gratuito): 1 espacio de trabajo, 1 administrador, 1 editor, miembros ilimitados, 5 iniciativas, 5 características, 5 páginas, 250 créditos de IA y 150 MB de almacenamiento.\nPro: $48/mes por editor (anual) o $60/mes, incluye todo ilimitado: espacios de trabajo, administradores, editores, miembros, iniciativas, características, páginas, almacenamiento y créditos de IA.\nEnterprise: Personalizado para equipos grandes, incluye todo del plan Pro más opciones adaptadas a necesidades específicas.",
+        "license": "Eververse es una plataforma de código abierto, lo que permite a los equipos personalizar y adaptar la herramienta según sus necesidades específicas.",
+        "security_privacy": "Eververse se compromete a proteger la privacidad de los usuarios y la seguridad de sus datos. Para obtener información detallada sobre sus políticas de privacidad y seguridad, se recomienda revisar directamente la política en su sitio web oficial.",
+        "integration": "Eververse ofrece integraciones con herramientas populares como Jira, GitHub, Linear, Intercom, Slack y Zapier, facilitando la sincronización de datos y mejorando la eficiencia del flujo de trabajo."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.eververse.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=deepseek-drops-a-major-new-reasoning-model-that-rivals-o1"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/eververse/"
+        },
+        {
+          "source_url": "https://toole.ai/tools-eververse/"
+        },
+        {
+          "source_url": "https://www.futuretools.io/tools/eververse"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/eververse"
+        },
+        {
+          "source_url": "https://www.aitoolnet.com/es/eververse"
+        },
+        {
+          "source_url": "https://www.eververse.ai/pricing"
+        },
+        {
+          "source_url": "https://www.eververse.ai/legal/privacy"
+        }
+      ]
+    },
+    "618": {
+      "app": {
+        "id": "618",
+        "name": "EvalsOne",
+        "url": "https://evalsone.com/",
+        "short_description": "Plataforma integral que facilita la evaluación y optimización iterativa de aplicaciones de IA generativa, mejorando la eficiencia en el desarrollo de prompts y garantizando resultados estables y confiables.",
+        "category": "Codificación",
+        "main_functionality": "Proporciona herramientas para evaluar, comparar y optimizar prompts en modelos de lenguaje de gran tamaño (LLMs), permitiendo pruebas en lote, comparaciones entre múltiples modelos y ajustes de prompts para mejorar la estabilidad y calidad de las salidas de IA.",
+        "tags": "#DesarrolloDeIA #EvaluaciónDePrompts #OptimizaciónDeLLMs #IA #GenerativeAI",
+        "logo_filename": "id_618_evals_one",
+        "what_is": "EvalsOne es una plataforma integral y fácil de usar diseñada para evaluar y optimizar aplicaciones de inteligencia artificial generativa. Actúa como una herramienta versátil que ayuda a los desarrolladores e investigadores a mejorar la eficiencia en el desarrollo de prompts y a garantizar resultados estables y confiables en sus modelos de lenguaje de gran tamaño (LLMs).",
+        "purpose": "EvalsOne tiene como objetivo principal facilitar la evaluación iterativa de aplicaciones de IA generativa, abordando la incertidumbre en la generación de IA y optimizando los procesos de desarrollo. Proporciona herramientas para evaluar, comparar y optimizar prompts, permitiendo pruebas en lote, comparaciones entre múltiples modelos y ajustes de prompts para mejorar la estabilidad y calidad de las salidas de IA.",
+        "use_cases": "Desarrollo de Prompts: Permite a los desarrolladores crear y refinar prompts para LLMs, asegurando respuestas más precisas y coherentes.\n\nOptimización de Modelos: Facilita la evaluación comparativa entre diferentes modelos de lenguaje para seleccionar el más adecuado según las necesidades específicas.\n\nInvestigación en IA: Apoya a los investigadores en la evaluación de agentes de IA y en la mejora de procesos de Recuperación-Augmentación-Generación (RAG).\n\nEvaluación de Aplicaciones Generativas: Ayuda en la evaluación de aplicaciones que generan contenido, asegurando que las salidas sean de alta calidad y cumplan con los estándares deseados.",
+        "main_advantages": "Interfaz Intuitiva: Diseñada para ser fácil de usar, permitiendo a los usuarios ejecutar evaluaciones sin necesidad de experiencia en programación.\n\nFuncionalidad Integral: Soporta todas las etapas de LLMOps, desde el desarrollo hasta entornos de producción, proporcionando diversos métodos de evaluación y métricas para satisfacer diferentes necesidades.\n\nEficiencia y Estabilidad: Las operaciones multihilo mejoran la eficiencia de la evaluación, y la estabilidad a nivel empresarial garantiza procesos de evaluación confiables.\n\nOptimización de Prompts: Ofrece herramientas para ajustar y mejorar prompts, lo que resulta en salidas de IA más coherentes y precisas.\n\nEvaluaciones Automatizadas: Proporciona evaluaciones automatizadas que ahorran tiempo y mejoran la productividad al analizar aplicaciones de IA generativa de manera eficiente.",
+        "long_description": "EvalsOne es una plataforma de evaluación integral y fácil de usar diseñada para optimizar las aplicaciones de IA generativa. Simplifica el proceso de evaluación, aborda la inestabilidad y mejora la ventaja competitiva en el mercado de la IA. Con una interfaz intuitiva, EvalsOne permite a los usuarios realizar evaluaciones sin necesidad de experiencia en programación, soportando todas las etapas de LLMOps, desde el desarrollo hasta entornos de producción. Proporciona diversos métodos de evaluación y métricas para satisfacer diferentes necesidades, mejorando la eficiencia y estabilidad de los procesos de evaluación.",
+        "release_date": "Mayo 2024",
+        "developer": "EvalsOne LTD",
+        "main_model": "EvalsOne utiliza modelos de lenguaje de gran tamaño (LLMs) en sus evaluaciones, integrándose con APIs de modelos líderes como OpenAI y Google. Sin embargo, no se dispone de información detallada sobre el modelo o algoritmo principal utilizado por la plataforma.",
+        "pricing_plans": "EvalsOne ofrece una versión gratuita con funcionalidades básicas y planes premium que brindan acceso a características avanzadas. Los detalles específicos de precios y características pueden variar, por lo que se recomienda consultar directamente en su sitio web para obtener la información más actualizada.",
+        "license": "EvalsOne opera bajo un modelo de suscripción, ofreciendo tanto opciones gratuitas como de pago para sus usuarios.",
+        "security_privacy": "EvalsOne LTD, operando el servicio ConsoleX AI Playground, recopila y utiliza información para mejorar su servicio. La información recopilada incluye datos personales, como la dirección de correo electrónico, y datos de uso, como la dirección IP, tipo de navegador y páginas visitadas. Estos datos se emplean para mantener y mejorar el servicio, notificar cambios, permitir la participación en funciones interactivas y proporcionar soporte al cliente. EvalsOne utiliza cookies y tecnologías similares para rastrear la actividad del usuario y almacenar cierta información. Los usuarios pueden configurar sus navegadores para rechazar todas las cookies o para indicar cuándo se envía una cookie; sin embargo, esto puede afectar la funcionalidad del servicio.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.aitoolist.com/tool/category/prompt-1/0"
+        },
+        {
+          "source_url": "https://www.trinka.ai/?sscid=11k9_rasna"
+        },
+        {
+          "source_url": "https://creati.ai/ai-tools/evalsone/"
+        },
+        {
+          "source_url": "https://topai.tools/t/evalsone"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/evalsone"
+        },
+        {
+          "source_url": "https://medium.com/%40everfly/introducing-evalsone-a-new-way-to-evaluate-llm-prompts-95db4e5b31c8"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/evalsone/"
+        },
+        {
+          "source_url": "https://topapps.ai/ai-apps/evalsone/?utm_source=chatgpt.com"
+        }
+      ]
+    },
+    "657": {
+      "app": {
+        "id": "657",
+        "name": "Eloise AI",
+        "url": "https://eloise.ai/",
+        "short_description": "Eloise AI es una herramienta de escritura impulsada por inteligencia artificial que permite a empresas, emprendedores y creadores de contenido generar contenido de alta calidad de manera eficiente. Ofrece funcionalidades como redacción de textos extensos, optimización para SEO, soporte multilingüe y personalización del tono de escritura. \n",
+        "category": "Generación de texto",
+        "main_functionality": "Generación de contenido escrito de alta calidad para diversos propósitos, incluyendo publicaciones en redes sociales, descripciones de productos y artículos de blog.",
+        "tags": "#NLP #GeneraciónDeTexto #AsistenteDeEscritura",
+        "logo_filename": "id_657_eloise",
+        "what_is": "Eloise AI es una plataforma de inteligencia artificial diseñada para la generación de contenido escrito de alta calidad. Está dirigida a escritores, empresas, emprendedores y creadores de contenido que necesitan automatizar y mejorar su producción de textos.",
+        "purpose": "Su propósito principal es facilitar la redacción de contenido optimizado, atractivo y profesional en múltiples idiomas. Es útil para la creación de publicaciones en redes sociales, artículos de blog, descripciones de productos, correos electrónicos y otros formatos de escritura comercial o creativa.\n\n",
+        "use_cases": "Marketing digital: Creación de publicaciones para redes sociales y blogs optimizados para SEO.\nE-commerce: Redacción de descripciones de productos atractivas y persuasivas.\nEmpresas y emprendimientos: Generación de correos electrónicos y contenido publicitario.\nEducación y academia: Apoyo en la creación de artículos y contenido informativo.\nEscritores y creadores de contenido: Asistencia en la estructuración y redacción de textos creativos.",
+        "main_advantages": "Automatización de contenido: Ahorra tiempo al generar textos de manera rápida y eficiente.\nOptimización para SEO: Mejora la visibilidad en motores de búsqueda con contenido optimizado.\nSoporte multilingüe: Permite escribir en varios idiomas.\nPersonalización del tono: Ajusta el estilo del contenido según las necesidades del usuario.\nFacilidad de uso: Interfaz intuitiva que permite a cualquier usuario generar contenido sin necesidad de conocimientos avanzados.",
+        "long_description": "Eloise AI es una herramienta de escritura impulsada por inteligencia artificial que permite a empresas, emprendedores y creadores de contenido generar contenido de alta calidad de manera eficiente. Ofrece funcionalidades como redacción de textos extensos, optimización para SEO, soporte multilingüe y personalización del tono de escritura. Además, cuenta con características como \"Comandos de Ejecución\" para simplificar tareas como el recuento de palabras y la corrección ortográfica, \"Reescribir Texto\" para mejorar la claridad, \"Resumir Texto\" para proporcionar resúmenes concisos, \"Expandir Texto\" para generar ideas adicionales y \"Condensar Texto\" para eliminar redundancias y crear contenido más impactante.",
+        "release_date": "No disponible",
+        "developer": "Eloise.ai",
+        "main_model": "No disponible",
+        "pricing_plans": "Pro: $4.99 mensuales. Incluye generación de hasta 25,000 palabras al mes, acceso a más de 40 casos de uso, escritura en 20 idiomas, acceso a todos los tonos, herramienta de redacción de textos extensos y soporte.\n\nBusiness: $14.99 mensuales. Incluye generación de hasta 75,000 palabras al mes, acceso a más de 40 casos de uso, escritura en 20 idiomas, acceso a todos los tonos, herramienta de redacción de textos extensos y soporte básico.\n\nEnterprise: $44.99 mensuales. Incluye generación de hasta 225,000 palabras al mes, acceso a más de 40 casos de uso, escritura en 20 idiomas, acceso a todos los tonos, herramienta de redacción de textos extensos y soporte básico.",
+        "license": "No disponible",
+        "security_privacy": "La política de privacidad de Eloise AI detalla la recopilación y uso de datos personales, incluyendo dirección de correo electrónico, nombre y apellidos, así como datos de uso como dirección IP, tipo de navegador y páginas visitadas. Estos datos se emplean para mantener y mejorar el servicio, notificar cambios, proporcionar soporte al cliente y enviar comunicaciones promocionales, de las cuales el usuario puede optar por no recibir. Además, se utilizan cookies para rastrear la actividad en el servicio y almacenar información de preferencias del usuario. La política también aborda la retención de datos, indicando que la información personal se conservará solo durante el tiempo necesario para cumplir con los propósitos establecidos.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/eloise-ai"
+        },
+        {
+          "source_url": "https://eloise.ai/?via=aitools"
+        },
+        {
+          "source_url": "https://domore.ai/tools/eloise.ai"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/eloise"
+        },
+        {
+          "source_url": "https://eliteai.tools/tool/eloiseai"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/product/Eloise-AI/"
+        },
+        {
+          "source_url": "https://slashdot.org/software/p/Eloise-AI/"
+        },
+        {
+          "source_url": "https://iaperfecta.com/eloise/"
+        }
+      ]
+    },
+    "730": {
+      "app": {
+        "id": "730",
+        "name": "EZsite",
+        "url": "https://www.ezsite.ai/",
+        "short_description": "Cree sitios web profesionales, capture clientes potenciales e impulse las ventas utilizando automatizaciones sin escribir ningún código.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Facilita la creación rápida y sencilla de sitios web y aplicaciones con integración de bases de datos, dominios personalizados y hosting, todo en una sola plataforma. ",
+        "tags": "#DesarrolloWeb #InteligenciaArtificial #ConstructorDeSitiosWeb #Automatización",
+        "logo_filename": "id_730_ezsite",
+        "what_is": "EZsite AI es una plataforma integral que utiliza inteligencia artificial para simplificar el proceso de creación de sitios web y aplicaciones, ofreciendo herramientas para diseño, gestión de datos y despliegue sin necesidad de conocimientos técnicos avanzados.",
+        "purpose": "Su propósito principal es permitir a individuos y empresas desarrollar sitios web funcionales y estéticamente atractivos de manera rápida y eficiente, eliminando la complejidad del desarrollo web tradicional.",
+        "use_cases": "EZsite AI se utiliza para:​\n\nCrear sitios web empresariales y personales.​\nDesarrollar aplicaciones web con funcionalidades integradas.​\nImplementar formularios interactivos y capturar datos de usuarios.​\nGestionar contenido y bases de datos de manera sencilla.",
+        "main_advantages": "Entre sus beneficios destacan:​\n\nCreación de sitios web sin necesidad de programación.​\nDespliegue rápido con hosting integrado y gestión de dominios personalizados.​\nIntegración de una base de datos ligera para la gestión de información.​\nDisponibilidad de plantillas personalizables para adaptarse a diferentes necesidades.",
+        "long_description": "EZsite AI es una plataforma todo-en-uno que revoluciona el desarrollo web al integrar herramientas de diseño, bases de datos, gestión de dominios y hosting en un solo lugar. Utilizando inteligencia artificial, permite a los usuarios crear sitios web y aplicaciones de manera intuitiva y rápida, eliminando la necesidad de conocimientos de programación. La plataforma ofrece una experiencia de edición visual \"lo que ves es lo que obtienes\" (WYSIWYG), facilitando la personalización y asegurando una coherencia en el diseño y la marca. Además, cuenta con una base de datos incorporada tipo CRM para capturar y gestionar datos de clientes, y ofrece una variedad de plantillas que pueden ser adaptadas según las necesidades del usuario.",
+        "release_date": "2024",
+        "developer": "EZsite AI",
+        "main_model": "Utiliza algoritmos de inteligencia artificial para la generación y personalización automatizada de sitios web y aplicaciones.",
+        "pricing_plans": "Ofrece diferentes planes de suscripción, incluyendo opciones gratuitas y de pago, adaptadas a las necesidades de individuos y empresas. Los detalles específicos sobre los planes y precios se pueden consultar en su página de precios.",
+        "license": "Propietaria",
+        "security_privacy": "No se especifica información detallada sobre las políticas de seguridad y privacidad en la información disponible.",
+        "integration": "EZsite AI ofrece integración con dominios personalizados y cuenta con una base de datos incorporada para la gestión de información. Sin embargo, no se especifica información sobre integraciones con otras herramientas externas en la información disponible."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.ezsite.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=google-wows-with-major-new-releases"
+        },
+        {
+          "source_url": "https://home.oncely.com/products/ezsite-ai-lifetime-deal?srsltid=AfmBOopPRFZsQIyGY7h5nxJrQRhQuM2r6kIXD8lh7pcjWC2O3WNkNAsk"
+        },
+        {
+          "source_url": "https://www.producthunt.com/p/ezsite-ai/ezsite-ai-2"
+        },
+        {
+          "source_url": "https://huntscreens.com/en/products/ezsite-ai"
+        }
+      ]
+    },
+    "737": {
+      "app": {
+        "id": "737",
+        "name": "EverTutor",
+        "url": "https://evertutor.ai/",
+        "short_description": "Un tutor de voz impulsado por IA, personalizado para tu estilo de aprendizaje.",
+        "category": "Educación",
+        "main_functionality": "Tutoría personalizada mediante interacción por voz, adaptándose al ritmo y necesidades del estudiante para optimizar la preparación en exámenes estandarizados.​",
+        "tags": "#IAEducativa #TutorVirtual #AprendizajePersonalizado #PreparaciónGRE​",
+        "logo_filename": "id_737_evertutor",
+        "what_is": "EverTutor es una plataforma de tutoría en línea que utiliza inteligencia artificial para ofrecer sesiones personalizadas de estudio, especialmente diseñadas para la preparación de exámenes como el GRE.",
+        "purpose": "Sirve para proporcionar a los estudiantes una experiencia de aprendizaje adaptativa y personalizada, facilitando la comprensión de temas complejos mediante sesiones interactivas que simulan una tutoría en tiempo real.​",
+        "use_cases": "Estudiantes que se preparan para el GRE y buscan una alternativa flexible y económica a la tutoría tradicional.​\n\nPersonas que requieren una plataforma de estudio que se adapte a su ritmo y estilo de aprendizaje.​\n\nUsuarios que prefieren métodos de estudio interactivos y personalizados.​",
+        "main_advantages": "Adaptabilidad al estilo de aprendizaje y ritmo del usuario.​\n\nDisponibilidad 24/7, permitiendo estudiar en cualquier momento.​\n\nInteracción por voz que simula una tutoría en tiempo real.​\n\nAcceso a una amplia gama de recursos y ejercicios prácticos.​",
+        "long_description": "EverTutor es una innovadora plataforma de tutoría en línea que emplea inteligencia artificial para ofrecer sesiones de estudio personalizadas. A través de interacciones por voz, la aplicación adapta el contenido y la metodología a las necesidades específicas del usuario, facilitando la comprensión de temas complejos y mejorando la eficiencia en la preparación de exámenes como el GRE. La plataforma proporciona recursos como exámenes simulados, ejercicios prácticos y retroalimentación instantánea, todo diseñado para optimizar el proceso de aprendizaje.",
+        "release_date": "2025",
+        "developer": "EverTutor AI",
+        "main_model": "No disponible",
+        "pricing_plans": "Ofrece opciones gratuitas y planes de pago con funcionalidades adicionales.",
+        "license": "Propietario",
+        "security_privacy": "No se encontró información específica sobre políticas de privacidad o medidas de seguridad implementadas por la aplicación.",
+        "integration": "No se encontró información sobre integraciones con otras herramientas o plataformas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://live.evertutor.ai/onboarding?utm_source=superhuman&utm_medium=referral&utm_campaign=chatgpt-gets-a-memory-boost"
+        },
+        {
+          "source_url": "https://www.producthunt.com/posts/evertutor-live"
+        },
+        {
+          "source_url": "https://www.researchgate.net/publication/266655698_EverTutor_Automatically_creating_interactive_guided_tutorials_on_smartphones_by_user_demonstration"
+        },
+        {
+          "source_url": "https://oncely.com/products/evertutor-ai-lifetime-deal"
+        }
+      ]
+    },
+    "748": {
+      "app": {
+        "id": "748",
+        "name": "Envato",
+        "url": "https://elements.envato.com/es/",
+        "short_description": "Suscripción creativa todo en uno que ofrece acceso ilimitado a más de 20 millones de recursos digitales premium, incluyendo plantillas, gráficos, fotos, música y más, con licencia comercial incluida.",
+        "category": "Generación de arte",
+        "main_functionality": "Proporcionar descargas ilimitadas de activos digitales de alta calidad para proyectos creativos, con una licencia comercial sencilla y clara.",
+        "tags": "#RecursosCreativos #Plantillas #Gráficos #Música #Fotos #LicenciaComercial",
+        "logo_filename": "id_748_envato",
+        "what_is": "Envato Elements es una plataforma de suscripción que proporciona acceso ilimitado a una vasta biblioteca de recursos digitales creativos, incluyendo plantillas, gráficos, fotos, música, efectos de sonido y más, todos con licencia comercial.​",
+        "purpose": "Facilita a diseñadores, desarrolladores, creadores de contenido y empresas la obtención de recursos de alta calidad para sus proyectos, optimizando tiempos y costos en la producción de materiales visuales y multimedia.",
+        "use_cases": "Diseño de sitios web y aplicaciones mediante plantillas y elementos gráficos.​\n\nProducción de videos promocionales y presentaciones con música y efectos de sonido libres de derechos.​\n\nCreación de materiales de marketing, como folletos, banners y publicaciones para redes sociales.",
+        "main_advantages": "Descargas ilimitadas de una amplia gama de recursos creativos con una sola suscripción.​\n\nLicencia comercial clara que cubre el uso en proyectos personales y comerciales.​\n\nActualizaciones constantes con nuevos recursos añadidos regularmente.",
+        "long_description": "Envato Elements es una plataforma de suscripción que ofrece acceso ilimitado a más de 20 millones de recursos digitales de alta calidad, incluyendo plantillas, gráficos, fotos, música, efectos de sonido, videos y más. Además, proporciona una licencia comercial sencilla y clara para todos los recursos, permitiendo su uso en proyectos personales y comerciales. La plataforma también integra funcionalidades de inteligencia artificial, como un motor de búsqueda potenciado por IA y acceso a AI Labs, que ofrece una suite de características y productos desarrollados con herramientas de IA generativa de terceros, incluyendo OpenAI .",
+        "release_date": "No disponible",
+        "developer": "Envato Pty Ltd (Australia).",
+        "main_model": "Envato AI Search Engine y AI Labs, desarrollados utilizando herramientas de IA generativa de terceros, incluyendo OpenAI .​",
+        "pricing_plans": "Plan Individual: Desde $16.50 USD/mes.​\n\nPlan para Equipos: Precios personalizados según el tamaño del equipo.​\n\nPlan para Estudiantes: Descuento del 30% sobre el precio regular.",
+        "license": "Licencia comercial sencilla que permite el uso de los recursos en proyectos personales y comerciales, con algunas restricciones, como la prohibición de revender o redistribuir los recursos directamente .​\n",
+        "security_privacy": "Envato Elements proporciona acceso a herramientas de inteligencia artificial desarrolladas con proveedores de IA de terceros, como OpenAI. El uso de estas herramientas está sujeto a términos de uso adicionales y a las condiciones de los proveedores externos .",
+        "integration": "Envato Elements ofrece recursos que pueden ser utilizados en diversas plataformas y software de diseño, edición de video, desarrollo web y más. Además, proporciona acceso a AI Labs, que ofrece características y productos de IA que pueden integrarse en plataformas de terceros donde Envato haga disponibles estos productos como complementos .​"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/freeflo"
+        },
+        {
+          "source_url": "https://elements.envato.com/es/"
+        },
+        {
+          "source_url": "https://impulsaecommerce.com/envato-elements/"
+        },
+        {
+          "source_url": "https://www.reactivaonline.com/envato-elements/"
+        }
+      ]
+    },
+    "755": {
+      "app": {
+        "id": "755",
+        "name": "Experiments",
+        "url": "https://www.easlo.co/experiments",
+        "short_description": "Establezca hábitos, realice un seguimiento de su progreso y registre sus observaciones con notas o fotos.",
+        "category": "Productividad",
+        "main_functionality": "Seguimiento estructurado de experimentos personales mediante la configuración de duración, frecuencia, recordatorios y registros de progreso con notas o fotografías.​\n",
+        "tags": "#SeguimientoDeHábitos #DesarrolloPersonal #Productividad #Experimentación #iOS",
+        "logo_filename": "id_755_experiments",
+        "what_is": "Experiments es una aplicación móvil desarrollada por Easlo que promueve un enfoque experimental para el desarrollo personal. Permite a los usuarios establecer y monitorear experimentos personales, como adoptar nuevos hábitos o probar productos, mediante registros diarios y reflexiones.",
+        "purpose": "Su propósito es ayudar a los usuarios a implementar y evaluar cambios en su vida diaria de manera estructurada, facilitando la adopción de nuevos hábitos, la superación de desafíos personales o la prueba de nuevas herramientas y rutinas.",
+        "use_cases": "Realizar desafíos de salud, como \"100 días de ejercicio\" o \"30 días sin azúcar\".​\n\nImplementar nuevas rutinas, como la meditación diaria o la lectura nocturna.​\n\nEvaluar la efectividad de productos o aplicaciones durante un período determinado.",
+        "main_advantages": "Interfaz intuitiva que facilita la configuración y seguimiento de experimentos.​\n\nPosibilidad de registrar observaciones mediante notas o fotografías.​\n\nFuncionalidad de recordatorios para mantener la constancia en los experimentos.​\n\nRevisión de historial para reflexionar sobre el progreso y resultados obtenidos.",
+        "long_description": "Experiments es una aplicación diseñada para fomentar un enfoque experimental en el desarrollo personal. Los usuarios pueden establecer experimentos personalizados definiendo la duración, frecuencia y objetivos específicos. La aplicación permite registrar observaciones diarias mediante notas o fotografías, establecer recordatorios para mantener la constancia y revisar el historial de experimentos para reflexionar sobre los resultados obtenidos. Su diseño minimalista y funcionalidad centrada en el usuario la convierten en una herramienta útil para aquellos que buscan implementar cambios positivos en su vida de manera estructurada.",
+        "release_date": "Marzo 2025",
+        "developer": "Easlo Pte. Ltd.",
+        "main_model": "No disponible",
+        "pricing_plans": "Aplicación gratuita sin planes de suscripción conocidos.",
+        "license": "Propietaria",
+        "security_privacy": "Según la política de privacidad, la aplicación no recopila datos personales del usuario.​",
+        "integration": "No se especifican integraciones con otras herramientas o plataformas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.easlo.co/experiments?utm_source=superhuman&utm_medium=referral&utm_campaign=amazon-takes-on-openai-s-voice-mode"
+        },
+        {
+          "source_url": "https://www.youtube.com/watch?v=joNu6vgsn1I"
+        }
+      ]
+    },
+    "781": {
+      "app": {
+        "id": "781",
+        "name": "Extrovert",
+        "url": "https://goextrovert.com/",
+        "short_description": "Realiza un seguimiento de las publicaciones de tus clientes, detecta conversaciones clave y ayuda a tu equipo a generar confianza con comentarios reflexivos.",
+        "category": "Marketing de contenidos",
+        "main_functionality": "Generación de comentarios personalizados y seguimiento de prospectos en LinkedIn para mejorar la tasa de respuesta y fortalecer relaciones comerciales.",
+        "tags": "#AI #LinkedIn #SocialSelling #LeadNurturing #B2B #AutomatizaciónDeVentas",
+        "logo_filename": "id_781_extrovert",
+        "what_is": "Extrovert es una plataforma que utiliza inteligencia artificial para asistir a profesionales en la gestión de relaciones en LinkedIn, proporcionando sugerencias de comentarios y monitoreando la actividad de prospectos para facilitar interacciones significativas.",
+        "purpose": "Su propósito es optimizar el proceso de ventas y marketing en LinkedIn, permitiendo a los usuarios interactuar de manera eficiente con múltiples prospectos mediante comentarios personalizados y seguimiento de temas relevantes.",
+        "use_cases": "Construcción de relaciones con prospectos en LinkedIn, reactivación de leads inactivos, seguimiento de temas específicos para identificar oportunidades de interacción, y colaboración en equipo para gestionar campañas de ventas.",
+        "main_advantages": "Ahorro de tiempo en la gestión de relaciones, mejora en la tasa de respuesta de prospectos, personalización de interacciones según el estilo del usuario, y capacidad de escalar las actividades de ventas en LinkedIn sin perder autenticidad.",
+        "long_description": "Extrovert es una solución de inteligencia artificial diseñada para mejorar las interacciones en LinkedIn, enfocándose en la construcción de relaciones auténticas con prospectos. La plataforma permite crear un feed personalizado con las publicaciones de los prospectos, sugiere comentarios adaptados al estilo del usuario, y monitorea temas relevantes para facilitar interacciones oportunas. Además, ofrece herramientas de colaboración en equipo, análisis de desempeño y gestión de campañas, todo orientado a optimizar las actividades de ventas y marketing en LinkedIn.",
+        "release_date": "2024",
+        "developer": "Extrovert",
+        "main_model": "Utiliza modelos de lenguaje de gran escala (LLM) para generar comentarios personalizados y relevantes.",
+        "pricing_plans": "Ofrece planes mensuales y anuales con diferentes características y límites de prospectos, incluyendo opciones para equipos y agencias.",
+        "license": "Propietaria",
+        "security_privacy": "Extrovert implementa medidas para proteger las cuentas de LinkedIn de los usuarios, evitando automatizaciones que puedan violar las políticas de la plataforma. Además, garantiza la privacidad de los datos mediante prácticas de seguridad estándar en la industria.",
+        "integration": "Actualmente, Extrovert se integra directamente con LinkedIn, y permite la colaboración en equipo dentro de la plataforma para gestionar campañas y prospectos.​"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://goextrovert.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-unveils-o3-and-o4-mini"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/extrovert/?ref=embed"
+        },
+        {
+          "source_url": "https://www.softwareadvice.com/product/521497-Extrovert/"
+        },
+        {
+          "source_url": "https://www.salesforge.ai/directory/sales-tools/extrovert"
+        },
+        {
+          "source_url": "https://www.capterra.com/p/10022731/Extrovert/"
+        }
+      ]
+    },
+    "818": {
+      "app": {
+        "id": "818",
+        "name": "Ellipsis",
+        "url": "https://www.ellipsis.dev/",
+        "short_description": "Una herramienta de desarrollo de IA que revisa automáticamente el código y corrige errores en las solicitudes de incorporación de cambios.",
+        "category": "Codificación",
+        "main_functionality": "Automatización de revisiones de código y corrección de errores mediante inteligencia artificial, integrándose directamente en flujos de trabajo de GitHub y GitLab.",
+        "tags": "#RevisiónDeCódigo #IA #Automatización #DesarrolloDeSoftware #DevOps",
+        "logo_filename": "id_818_ellipsisdev",
+        "what_is": "Ellipsis es una herramienta de inteligencia artificial para desarrolladores que se integra con plataformas de control de versiones como GitHub y GitLab, automatizando la revisión de código y la corrección de errores en solicitudes de extracción.",
+        "purpose": "Sirve para mejorar la calidad del código y acelerar el proceso de desarrollo al proporcionar revisiones automáticas, detectar errores lógicos y sugerir correcciones directamente en las solicitudes de extracción.",
+        "use_cases": "Equipos de desarrollo que buscan automatizar la revisión de código.\n\nProyectos que requieren detección temprana de errores y cumplimiento de guías de estilo.\n\nOrganizaciones que desean reducir el tiempo de integración y despliegue continuo.",
+        "main_advantages": "Integración sencilla con repositorios existentes.\n\nReducción del tiempo promedio para fusionar solicitudes de extracción en un 13%.\n\nCapacidad para generar código funcional y probado en respuesta a comentarios.\n\nPersonalización de reglas de revisión según las necesidades del equipo.",
+        "long_description": "Ellipsis es una herramienta de inteligencia artificial diseñada para integrarse con plataformas de control de versiones como GitHub y GitLab, automatizando la revisión de código y la corrección de errores en solicitudes de extracción. Utiliza modelos de lenguaje de gran escala para analizar cambios en el código, detectar errores lógicos, violaciones de guías de estilo y problemas de seguridad. Además, puede generar código funcional y probado en respuesta a comentarios, facilitando la colaboración y mejorando la eficiencia del equipo de desarrollo.",
+        "release_date": "2023",
+        "developer": "Ellipsis AI Inc.",
+        "main_model": "Utiliza modelos de lenguaje de gran escala (LLM) como Claude Sonnet-3.6 y GPT-4o para el análisis y generación de código.",
+        "pricing_plans": "Prueba Gratuita: 7 días sin necesidad de tarjeta de crédito.\n\nPago por Usuario: $20 USD por desarrollador al mes, con uso ilimitado en todos los repositorios.",
+        "license": "Propietaria",
+        "security_privacy": "Certificación SOC 2 Tipo I.\n\nNo retiene el código fuente; se procesa en servidores privados de AWS durante la ejecución.\n\nNo realiza commits sin permiso explícito del usuario.",
+        "integration": "Compatible con GitHub y GitLab; permite interacciones a través de comentarios en solicitudes de extracción y mensajes en Slack.​\n"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Rivo.io reduce costos y automatiza revisiones de código mediante implementación de Ellipsis",
+          "description": "Rivo.io adoptó Ellipsis para automatizar procesos de revisión de código y corrección de errores. Según su CEO, Stuart Chaney, esta implementación permitió reemplazar un puesto de ingeniería valorado en $80,000 anuales, logrando una optimización significativa en costos operativos y eficiencia técnica.",
+          "url": "https://www.ellipsis.dev/?utm_source=superhuman&utm_medium=referral&utm_campaign=a-scrappy-startup-challenges-openai-s-sora#reviews"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "PromptLayer y Warp aceleran el desarrollo y mejoran la calidad del código mediante Ellipsis",
+          "description": "PromptLayer y Warp integraron Ellipsis en sus flujos de trabajo para automatizar la revisión de código y la corrección de errores. Esta implementación les permitió reducir los tiempos de integración y acelerar el ciclo de desarrollo, mejorando la eficiencia y la calidad del software.",
+          "url": "https://www.ellipsis.dev/?utm_source=superhuman&utm_medium=referral&utm_campaign=a-scrappy-startup-challenges-openai-s-sora#reviews"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.ellipsis.dev/?utm_source=superhuman&utm_medium=referral&utm_campaign=a-scrappy-startup-challenges-openai-s-sora"
+        },
+        {
+          "source_url": "https://www.ycombinator.com/companies/ellipsis"
+        },
+        {
+          "source_url": "https://docs.ellipsis.dev/features/code?"
+        },
+        {
+          "source_url": "https://cerebralvalley.ai/blog/ellipsis-dev-reviews-code-fixes-bugs-and-reduces-time-to-merge-by-13-3dDepsY42R2NQP4Ehm1UYd"
+        },
+        {
+          "source_url": "https://ellipsis-revamp.vercel.app/"
+        }
+      ]
+    },
+    "850": {
+      "app": {
+        "id": "850",
+        "name": "Epiphany",
+        "url": "https://epiphanyvoice.io/",
+        "short_description": "Captura tus notas de voz y conviértelas al instante en tareas procesables dentro de tus herramientas de flujo de trabajo existentes.",
+        "category": "Productividad",
+        "main_functionality": "Captura de ideas mediante voz y conversión en tareas o notas en aplicaciones de gestión de proyectos y productividad.",
+        "tags": "#Productividad #Automatización #NotasDeVoz #Integración #GestiónDeTareas​",
+        "logo_filename": "id_850_epiphany",
+        "what_is": "Epiphany es una aplicación que permite capturar ideas y pensamientos mediante la voz, convirtiéndolos en acciones concretas dentro de herramientas de productividad.",
+        "purpose": "Facilita la captura rápida de ideas y su integración en flujos de trabajo existentes, mejorando la eficiencia y reduciendo la pérdida de información.",
+        "use_cases": "Captura de ideas durante reuniones o desplazamientos.\n\nCreación de tareas en herramientas como Asana o Todoist mediante comandos de voz.\n\nEnvío de notas de voz transcritas a correos electrónicos o aplicaciones de notas.",
+        "main_advantages": "Interfaz intuitiva y de bajo esfuerzo.\n\nIntegración con múltiples herramientas de productividad.\n\nSoporte para múltiples idiomas.\n\nDisponibilidad en iPhone y Apple Watch.​",
+        "long_description": "Epiphany es una herramienta de productividad que transforma notas de voz en acciones concretas dentro de diversas aplicaciones. Al hablar, los usuarios pueden crear tareas, enviar correos electrónicos o añadir notas en sus herramientas favoritas. La aplicación está diseñada para minimizar la fricción en la captura de ideas, permitiendo una integración fluida con herramientas como Notion, Asana, Slack, Todoist, ClickUp, Obsidian y correo electrónico. Además, ofrece funciones como transcripción automática, soporte multilingüe y accesibilidad optimizada para usuarios diestros y zurdos.",
+        "release_date": "Marzo 2025",
+        "developer": "THE ITERATION, LLC",
+        "main_model": "No disponible",
+        "pricing_plans": "Plan mensual: $14 USD.\n\nPlan anual: $79 USD (ahorro del 53%).\n\nPrueba gratuita de 7 días con la suscripción anual.",
+        "license": "Propietaria",
+        "security_privacy": "La aplicación recopila y vincula datos como información de contacto, contenido del usuario, identificadores, datos de uso y diagnósticos, según lo indicado por el desarrollador.",
+        "integration": "Integración directa con Notion, Asana, Slack, Todoist, ClickUp, Obsidian y correo electrónico.​"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://epiphanyvoice.io/?utm_source=superhuman&utm_medium=referral&utm_campaign=nature-inspires-new-ai-startup"
+        },
+        {
+          "source_url": "https://www.producthunt.com/posts/epiphany"
+        },
+        {
+          "source_url": "https://slashdot.org/software/p/Epiphany/"
+        },
+        {
+          "source_url": "https://apps.apple.com/us/app/epiphany-voice-to-action/id6449943220"
+        },
+        {
+          "source_url": "https://www.eliteai.tools/tool/epiphany-voice"
+        },
+        {
+          "source_url": "https://www.listennotes.com/podcasts/the-ai-marketing/episode-294-epiphany-instant-Li0Mb4y7s3c/?srsltid=AfmBOoo3wJgK2JgqHuRg5m7so8QQkQJAPacGOp5VynUD8fTAnXj4_4tL"
+        }
+      ]
+    },
+    "886": {
+      "app": {
+        "id": "886",
+        "name": "Eraser AI\n\n",
+        "url": "https://www.eraser.io/product/eraserbot",
+        "short_description": "Cree diagramas de base de código que se actualicen automáticamente para mantener su documentación precisa para siempre.",
+        "category": "Codificación",
+        "main_functionality": "Generación y actualización automática de diagramas técnicos (como arquitectura, flujos de datos, ERD) a partir de repositorios de código, integrándose con flujos de trabajo de desarrollo.",
+        "tags": "#DiagramaciónAutomática #DocumentaciónIA #IntegraciónGitHub #DiagramasComoCódigo #Eraserbot",
+        "logo_filename": "id_886_eraserio",
+        "what_is": "Eraser AI es una herramienta que utiliza inteligencia artificial para crear y mantener diagramas técnicos actualizados, extrayendo información directamente del código fuente y facilitando la documentación en equipos de desarrollo.",
+        "purpose": "Sirve para automatizar la creación de diagramas técnicos, como arquitecturas de sistemas, flujos de datos y modelos de entidades, manteniéndolos sincronizados con el código y reduciendo el esfuerzo manual en la documentación.",
+        "use_cases": "Equipos de desarrollo que necesitan mantener documentación técnica actualizada.\n\nOrganizaciones que buscan automatizar la generación de diagramas a partir de su código fuente.\n\nProyectos que requieren integración de diagramas en flujos de trabajo de CI/CD.",
+        "main_advantages": "Reducción del tiempo dedicado a la documentación manual.\n\nAsegura que los diagramas reflejen siempre el estado actual del código.\n\nFacilita la colaboración y revisión de código mediante visualizaciones automáticas en pull requests.\n\nIntegración con herramientas populares como GitHub, Notion y Confluence.",
+        "long_description": "Eraser AI es una solución que transforma la manera en que los equipos técnicos documentan sus sistemas. A través de su componente Eraserbot, la herramienta analiza el código fuente para generar diagramas técnicos que se actualizan automáticamente con cada cambio en el repositorio. Esto incluye diagramas de arquitectura, flujos de datos, modelos de entidades y más. La integración con plataformas como GitHub permite que, al crear un pull request, Eraserbot comente con los diagramas actualizados, facilitando la revisión y comprensión del código. Además, ofrece una interfaz colaborativa para editar y personalizar los diagramas según las necesidades del equipo.",
+        "release_date": "2023",
+        "developer": "Eraser Labs, Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "Free: Hasta 5 archivos y 20 generaciones o ediciones de diagramas con IA.\n\nProfessional: Acceso ilimitado a funcionalidades de IA, API y soporte avanzado.\n\nEnterprise: Soluciones personalizadas con opciones de implementación flexibles y soporte dedicado.",
+        "license": "Propietaria",
+        "security_privacy": "Certificación SOC 2 Tipo 2 y pruebas de penetración anuales.\n\nSoporte para SAML SSO con proveedores como Microsoft Entra y Okta.\n\nOpciones de implementación en nube privada (BYOC) para mayor control.",
+        "integration": "Integración con GitHub para sincronización de diagramas y documentación.\n\nCompatibilidad con Notion y Confluence para centralizar el conocimiento del equipo.\n\nExtensión para VS Code y API para integraciones personalizadas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Innovative Solutions acelera 10 veces el dibujo de diagramas para los clientes",
+          "description": "Innovative Solutions, socio de AWS, multiplicó por diez la velocidad para crear diagramas al integrar Eraser con un Slackbot basado en IA. Automatizaron la generación de diagramas durante reuniones y documentación técnica, pasando de 4 a más de 110 documentos en seis meses, mejorando eficiencia y satisfacción del cliente.",
+          "url": "https://www.eraser.io/customers/innovative-solutions-sees-10x-speed-up-in-drawing-diagrams-for-customers"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Chargeflow experimentó un crecimiento explosivo en la documentación",
+          "description": "Chargeflow, especializada en automatización de contracargos para e-commerce, logró un crecimiento explosivo en su documentación técnica tras integrar Eraser. En solo seis meses pasaron de 4 a más de 110 documentos, aprovechando funciones como diagramas como código, Markdown colaborativo y plantillas reutilizables. Esto mejoró la productividad del equipo, facilitó la incorporación de nuevos ingenieros y estandarizó procesos como las entrevistas técnicas, convirtiendo a Eraser en una herramienta clave en su desarrollo ágil.",
+          "url": "https://www.eraser.io/customers/chargeflow-experienced-an-explosive-growth-in-documentation"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Palm Finance incrementa en 30% la productividad de desarrolladores mediante visualización técnica con Eraser",
+          "description": "Palm Finance, plataforma financiera enfocada en pymes, implementó Eraser para mejorar la eficiencia en su equipo de desarrollo. Mediante la creación automatizada de diagramas con IA, sincronización con GitHub y documentación técnica centralizada, logró un aumento del 30% en la productividad. Esta solución facilitó la colaboración global, aceleró la incorporación de nuevos miembros y redujo errores en la comprensión de la arquitectura de microservicios.",
+          "url": "https://www.eraser.io/customers/palm-finance-unlocked-a-30-increase-in-productivity"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.eraser.io/product/eraserbot?utm_source=superhuman&utm_medium=referral&utm_campaign=perplexity-s-audacious-proposal"
+        },
+        {
+          "source_url": "https://www.eraser.io/customers"
+        },
+        {
+          "source_url": "https://www.techcompanynews.com/eraser-ai-automates-codebase-diagrams-and-keeps-technical-documentation-always-up-to-date/"
+        },
+        {
+          "source_url": "https://apps.apple.com/us/app/eraser-ai-object-remover-app/id6446106980"
+        },
+        {
+          "source_url": "https://supertools.therundown.ai/content/eraser-ai"
+        }
+      ]
+    },
+    "977": {
+      "app": {
+        "id": "977",
+        "name": "Emergent",
+        "url": "https://emergent.sh/",
+        "short_description": "Borrador, codifica, prueba e implementa aplicaciones de IA mediante agentes de IA.",
+        "category": "Codificación",
+        "main_functionality": "Generación automática de aplicaciones completas mediante agentes autónomos que interpretan instrucciones en lenguaje natural.\n\n",
+        "tags": "#AI #AgenticDevelopment #NoCode #FullStackAI #CodeAutomation",
+        "logo_filename": "id_977_emergent",
+        "what_is": "Emergent es una plataforma de desarrollo asistido por inteligencia artificial que utiliza agentes autónomos para transformar instrucciones en lenguaje natural en aplicaciones funcionales.",
+        "purpose": "Facilita la creación de aplicaciones completas sin necesidad de escribir código manualmente, permitiendo a usuarios describir su idea y obtener una solución desplegable.",
+        "use_cases": "Desarrollo rápido de prototipos y MVPs.\n\nMigración y modernización de código heredado.\n\nAutomatización de tareas de desarrollo y mantenimiento de software.",
+        "main_advantages": "Reducción significativa del tiempo de desarrollo.\n\nEliminación de tareas repetitivas y propensas a errores.\n\nAccesibilidad para usuarios sin experiencia en programación.",
+        "long_description": "Emergent es una plataforma de desarrollo de software impulsada por inteligencia artificial que permite a los usuarios construir aplicaciones completas mediante instrucciones en lenguaje natural. Utiliza agentes autónomos que se encargan de la planificación, codificación, pruebas y despliegue de la aplicación, eliminando la necesidad de intervención manual en el proceso de desarrollo. La plataforma es capaz de manejar tareas complejas como la migración de código, integración de APIs y generación de interfaces de usuario, todo a partir de descripciones textuales proporcionadas por el usuario.",
+        "release_date": "2024",
+        "developer": "Emergent Labs",
+        "main_model": "No disponible",
+        "pricing_plans": "No disponible",
+        "license": "Propietaria",
+        "security_privacy": "No disponible",
+        "integration": "Emergent permite la integración con diversas APIs y servicios externos, facilitando la creación de aplicaciones con funcionalidades avanzadas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://app.emergent.sh/"
+        },
+        {
+          "source_url": "https://www.expify.ai/categories/development-tools/ai-tool-emergent-sh"
+        },
+        {
+          "source_url": "https://www.futuretools.io/tools/emergent-sh"
+        },
+        {
+          "source_url": "https://www.sanssapien.com/tool/emergent"
+        },
+        {
+          "source_url": "https://www.ycombinator.com/companies/emergent"
+        },
+        {
+          "source_url": "https://slashdot.org/software/p/Emergent.sh/"
+        }
+      ]
+    },
+    "1007": {
+      "app": {
+        "id": "1007",
+        "name": "Everlyn",
+        "url": "https://www.everlyn.app/",
+        "short_description": "Transforma ideas en videos e imágenes de alta calidad en segundos, sin necesidad de suscripción ni tarjeta de crédito.",
+        "category": "Generación de video",
+        "main_functionality": "Generación rápida de videos e imágenes mediante inteligencia artificial a partir de texto o imágenes.",
+        "tags": "#GeneraciónDeVideo #GeneraciónDeImagen #TextoaVideo #ImagenaVideo #TextoaImagen #AIAgente",
+        "logo_filename": "id_1007_everlyai",
+        "what_is": "Everlyn AI es una plataforma de inteligencia artificial que permite generar videos e imágenes de alta calidad en cuestión de segundos, utilizando entradas de texto o imágenes.",
+        "purpose": "Facilita la creación de contenido multimedia de manera rápida y económica, ideal para redes sociales, marketing y proyectos creativos.",
+        "use_cases": "Animación de imágenes estáticas para contenido en redes sociales.\n\nGeneración de videos promocionales para campañas de marketing.\n\nCreación de arte digital mediante efectos de IA.\n\nProducción de contenido visual dinámico para estrategias de contenido.",
+        "main_advantages": "Generación de videos en 15 segundos e imágenes en 3 segundos.\n\nCosto por video significativamente menor al estándar de la industria.\n\nModelo de pago por uso sin necesidad de suscripción.\n\nGeneración ilimitada de imágenes de forma gratuita.\n\nMayor estabilidad y calidad en las generaciones comparado con otros modelos.",
+        "long_description": "Everlyn AI es una plataforma avanzada de generación de contenido multimedia que permite a los usuarios crear videos e imágenes de alta calidad en cuestión de segundos. Utiliza una arquitectura de modelo novedosa y técnicas de aceleración avanzadas para ofrecer resultados profesionales de manera rápida y eficiente. La plataforma admite la generación de contenido a partir de texto o imágenes, y ofrece una experiencia de usuario intuitiva sin necesidad de suscripción o tarjeta de crédito.",
+        "release_date": "2025",
+        "developer": "Everlyn AI",
+        "main_model": "No disponible",
+        "pricing_plans": "Starter: Gratuito, incluye 3 créditos válidos por 1 mes, generación de videos de 5 segundos con marca de agua y generación ilimitada de imágenes.\n\nStandard: $6.99 USD, incluye 35 créditos válidos por 3 meses, generación de videos de 5 y 10 segundos sin marca de agua, refinamiento de prompts, generación de imágenes y uso comercial.\n\nPro: $25.99 USD, incluye 160 créditos válidos por 6 meses, generación de videos de 5 y 10 segundos sin marca de agua, refinamiento de prompts, generación de imágenes, uso comercial y acceso prioritario a nuevas funciones.",
+        "license": "Propietaria",
+        "security_privacy": "Everlyn AI asegura la protección de los datos del usuario y no utiliza la información proporcionada sin consentimiento.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.everlyn.app/?utm_source=superhuman&utm_medium=referral&utm_campaign=new-voice-models-blur-reality"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/everlyn-ai"
+        },
+        {
+          "source_url": "https://eliteai.tools/tool/everlyn-ai"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/everlyn-ai-1"
+        },
+        {
+          "source_url": "https://everlyn-ai.en.softonic.com/web-apps"
+        },
+        {
+          "source_url": "https://www.trendhunter.com/trends/everlyn-ai"
+        }
+      ]
+    },
+    "1086": {
+      "app": {
+        "id": "1086",
+        "name": "ExplainGithub",
+        "url": "https://explaingithub.com/",
+        "short_description": "Una plataforma inteligente de exploración de código que ayuda a los desarrolladores a comprender los repositorios de GitHub de manera más eficiente.",
+        "category": "Codificación",
+        "main_functionality": "Facilitar la comprensión inmediata de la estructura de repositorios mediante una interfaz intuitiva y explicaciones automatizadas.",
+        "tags": "#ExploraciónDeCódigo #UIIntuitiva #NavegaciónGitHub",
+        "logo_filename": "id_1086_explaingithub",
+        "what_is": "ExplainGitHub es una herramienta basada en la web, diseñada para mejorar la experiencia de explorar y entender repositorios de GitHub. Ofrece una interfaz limpia y rápida que minimiza la complejidad habitual de navegar por árboles de archivos y estructuras densas.",
+        "purpose": "Su propósito principal es que desarrolladores, estudiantes o colaboradores puedan comprender rápidamente la estructura, archivos y lógica de un proyecto sin perder tiempo en navegar por GitHub convencional. Ideal para estudios rápidos, auditorías o familiarización con nuevos repositorios.",
+        "use_cases": "Desarrolladores: Acceder y entender nuevos repositorios de forma ágil.\n\nEstudiantes y aprendices: Explorar proyectos con menor carga cognitiva.\n\nContribuyentes de código abierto: Localizar puntos de entrada o ideas de contribución sin perderse en estructuras complejas.\n\nLíderes técnicos o CTOs: Evaluar rápidamente librerías o componentes.\n\nCreadores de contenido técnico: Obtener estructuras claras para ejemplos, análisis o tutoriales.",
+        "main_advantages": "Exploración ultrarrápida de repositorios sin sobrecarga visual.\n\nInterfaz limpia, minimalista y amigable que reduce la fatiga cognitiva. \n\nTotalmente gratuita, sin necesidad de registro (para repositorios públicos). \n\nIdeal para distintos perfiles: desde estudiantes hasta profesionales.",
+        "long_description": "ExplainGitHub ofrece una navegación mejorada de repositorios GitHub mediante una interfaz optimizada y ágil. Permite cargar repositorios completos de forma instantánea, ofrecer una experiencia de exploración clara, con navegación inteligente y búsqueda rápida dentro del proyecto.",
+        "release_date": "2025",
+        "developer": "PWM Group",
+        "main_model": "No disponible",
+        "pricing_plans": "Gratuito",
+        "license": "No disponible",
+        "security_privacy": "Al estar limitado a repositorios públicos y ser read‑only (no permite edición ni subida de código), el riesgo de privacidad es reducido. No se encontraron detalles adicionales de políticas de privacidad.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aichief.com/ai-development-tools/explaingithub/"
+        },
+        {
+          "source_url": "https://medium.com/%40shivam--maurya/explaingithub-600-users-zero-marketing-and-our-biggest-update-yet-3f8a8394a568"
+        }
+      ]
+    },
+    "1094": {
+      "app": {
+        "id": "1094",
+        "name": "Embeddable",
+        "url": "https://embeddable.co/",
+        "short_description": "Cree herramientas interactivas para su sitio web chateando con IA.\n\n",
+        "category": "Codificación",
+        "main_functionality": "Permite crear y personalizar componentes interactivos mediante IA, ofrecer edición visual sin prompts ni tokens, y generar código embebible compatible con plataformas como Shopify, Webflow, Notion, Wix, entre otras.",
+        "tags": "#NoCode #AIBuilder #WebComponents #MarketingWidgets #EmbeddedUX",
+        "logo_filename": "id_1094_embeddable",
+        "what_is": "Una plataforma no-code potenciada por IA para diseñar y desplegar componentes web interactivos (widgets) rápidamente, dirigida a equipos de marketing y agencias que desean crear experiencias web sin depender de desarrolladores.",
+        "purpose": "Para diseñar y desplegar herramientas interactivas—como formularios, encuestas, chatbots, pop‑ups y calculadoras—que capturan leads, promueven la conversión o mejoran la interacción, todo sin escribir código.",
+        "use_cases": "Formularios de captación de leads, pop‑ups de descuento o bienvenida.\n\nEncuestas, cuestionarios o temporizadores de cuenta atrás.\n\nChatbots con IA integrada.\n\nCalculadoras interactivas, reproductores multimedia, avisos de prueba social, entre otros.",
+        "main_advantages": "Creación rápida desde prompts o URLs sin depender de plantillas rígidas. \n\nDiseño sin estructura de tokens: edición visual completa y control inmediato. \n\nCompatibilidad amplia con plataformas web populares. \n\nRendimiento optimizado (sin iframes), SEO-friendly y fácil de versionar.",
+        "long_description": "Embeddable es una plataforma no‑code con inteligencia artificial que permite a equipos de marketing, agencias o gestores web diseñar y desplegar componentes interactivos web embebibles sin escribir código. A través de prompts, edición visual, y un editor dinámico, se pueden crear formularios, chatbots, calculadoras, encuestas, pop‑ups o reproductores multimedia — todo totalmente personalizable, compatible con múltiples plataformas y optimizado para SEO.",
+        "release_date": "2024",
+        "developer": "Creado por el equipo detrás de Common Ninja, operando como Embeddable bajo TMD Technology Limited, radicado en Londres (Reino Unido).",
+        "main_model": "Utiliza IA para analizar automáticamente el sitio web (colores, tipografías, diseño) y construir componentes desde lenguaje natural. Emplea un editor dinámico sin consumo de tokens y diseño visual interactivo.",
+        "pricing_plans": "No disponible",
+        "license": "Propietaria.",
+        "security_privacy": "Incluye control de versiones, historial de ediciones, y compatibilidad con seguridad empresarial como GDPR o SOC 2 (se asocia más con su versión analytics, aunque el principio es similar de robustez).",
+        "integration": "Funciona en casi cualquier sitio web o CMS (Shopify, Webflow, Wix, WordPress, Notion, etc.) y permite enlazar con servicios de IA (OpenAI, Gemini, Claude), herramientas de análisis (Google Analytics, Mixpanel, Pixel de Facebook), email marketing (Mailchimp, Mailgun), CRM y pagos (Stripe)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "De Common Ninja a Embeddable: de 500,000 negocios atendidos",
+          "description": "El equipo detrás de Common Ninja, que ya había ayudado a más de medio millón de negocios con más de 200 widgets preconstruidos, creó Embeddable para atender peticiones de soluciones más personalizadas y flexibles, ahora facilitadas por IA. Este origen demuestra una trayectoria de éxito en el sector privado como base del producto actual.",
+          "url": "https://embeddable.co/about"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://embeddable.co/faq"
+        },
+        {
+          "source_url": "https://embeddable.co/features"
+        },
+        {
+          "source_url": "https://embeddable.com/blog/what-is-embedded-analytics"
+        },
+        {
+          "source_url": "https://www.gooddata.com/blog/why-embeddable-ai-is-the-future-of-modern-enterprise-analytics/"
+        }
+      ]
+    },
+    "1113": {
+      "app": {
+        "id": "1113",
+        "name": "Eloquens",
+        "url": "https://eloquens.ai/",
+        "short_description": "Gestiona tus correos electrónicos y mejora la productividad con IA.",
+        "category": "Productividad",
+        "main_functionality": "Leer y comprender correos entrantes, generar respuestas contextuales, aplicar tono de marca, filtrado inteligente y enrutamiento, escalado a humano cuando sea necesario.",
+        "tags": "#EmailAutomation #AIEmailAssistant #MultilingualSupport #Human-AIOrchestration #EmailRouting #EnterpriseSecurity",
+        "logo_filename": "id_1113_eloquens",
+        "what_is": "Plataforma empresarial que implementa IA para gestionar comunicaciones por correo de forma inteligente, combinando automatización y colaboración humana continua.",
+        "purpose": "Para aliviar la carga del equipo en la gestión de correos rutinarios, garantizar respuestas rápidas y coherentes y mantener escalabilidad sin sacrificar calidad.",
+        "use_cases": "Automatización de respuestas inmediatas en múltiples idiomas\n\nEnrutamiento inteligente según prioridad o necesidad humana\n\nManejo multibandeja con estilo adaptado al remitente",
+        "main_advantages": "Respuestas en menos de 5 minutos en más de 160 idiomas\n\nEscala para gestionar miles de correos simultáneamente\n\nMantenimiento del tono de marca con routing inteligente\n\nCompatibilidad con plataformas como Microsoft 365 y Gmail; cumplimiento con estándares como SOC‑2 y GDPR",
+        "long_description": "Eloquens AI es una plataforma de comunicación automatizada para email, desarrollada por IgniteTech. Emplea IA para interpretar contextos, generar respuestas coherentes, gestionar prioridad de mensajes y escalar conversaciones a personas cuando es necesario. Compatible con múltiples plataformas (Microsoft 365, Gmail, Kerio Connect), soporte multilingüe sin traducción y orientación a escalabilidad empresarial mientras mantiene la voz de la marca.",
+        "release_date": "Febrero 2025",
+        "developer": "Desarrollado por IgniteTech (Ignite Enterprise Software Solutions, Inc.), empresa líder en soluciones de software empresarial con enfoque en inteligencia artificial. CEO Eric Vaughan comenta sobre la visión de human-AI collaboration.",
+        "main_model": "Utiliza estructuras de datos habilitadas con IA patentadas por IgniteTech para asegurar precisión, contexto y coherencia de voz. No se detallan modelos específicos (como GPT o similares).",
+        "pricing_plans": "Professional: Para individuos\n\nBusiness: Equipos pequeños y medianos\n\nEnterprise: Grandes organizaciones con flujo elevado de correos",
+        "license": "Producto propietario ofrecido como solución SaaS; no se indican licencias de código abierto.",
+        "security_privacy": "El servicio cumple con GDPR y SOC-2, lo que garantiza protección de datos y uso seguro en comunicaciones.",
+        "integration": "Funciona con plataformas de correo líderes como Microsoft 365, Gmail y Kerio Connect. Además, permite escalado humano y gestión de campañas, conservando trazabilidad y lógica de intervención humana."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://eloquens.ai/"
+        },
+        {
+          "source_url": "https://www.eloquens.com/tool/lZxxIzVV/flevy/100-case-studies-on-digital-transformation"
+        },
+        {
+          "source_url": "https://eloquens.ai/privacy-policy/"
+        }
+      ]
+    },
+    "1207": {
+      "app": {
+        "id": "1207",
+        "name": "Elser",
+        "url": "https://www.elser.ai/",
+        "short_description": "Crea cortos completos de anime con solo un prompt en minutos.",
+        "category": "Generación de video",
+        "main_functionality": "Permite a los usuarios aplicar inteligencia artificial para mejorar, transformar y crear contenido visual a partir de imágenes o videos, con enfoque especial en animación estilo anime, upscaling, y sincronización de labios.",
+        "tags": "#AIArt #VideoEnhancement #LipSync #StoryboardGenerator #AnimeAI #GeneraciónDeVideo",
+        "logo_filename": "id_1207_elserai",
+        "what_is": "Elser.AI es una plataforma web de inteligencia artificial especializada en la transformación y mejora de contenido visual, ofreciendo herramientas como mejora de calidad de video (video enhancer), escalado de resolución (upscaler), desenfoque inverso (unblur), generación de storyboards al estilo anime, sincronización de labios con audio, entre otras funciones creativas. Está diseñada tanto para usuarios casuales como creadores de contenido que buscan integrar funciones avanzadas de IA en sus procesos visuales.",
+        "purpose": "Sirve para generar, mejorar y transformar imágenes y videos utilizando modelos de inteligencia artificial. Permite a los usuarios realizar tareas como restaurar imágenes borrosas, aumentar la resolución de videos, crear animaciones sincronizadas con audio, generar storyboards a partir de ideas o escenas y aplicar mejoras estéticas a contenido visual, con un enfoque destacado en estilo anime.",
+        "use_cases": "Creadores de contenido en YouTube, TikTok o Instagram que deseen mejorar la calidad de sus videos.\n\nArtistas digitales que quieran generar storyboards en estilo anime.\n\nUsuarios que desean restaurar fotos antiguas o de baja calidad.\n\nProductores de animación que buscan sincronizar labios de personajes con audio.\n\nProfesionales del marketing que buscan crear contenido visual llamativo con IA.\n\nEstudiantes o aficionados que deseen experimentar con herramientas de generación visual asistida por IA.",
+        "main_advantages": "Plataforma basada en web, accesible sin necesidad de instalación.\n\nInterfaz amigable para usuarios sin experiencia técnica.\n\nGran variedad de funciones visuales: unblur, upscaler, lip sync, storyboard, etc.\n\nResultados de alta calidad gracias al uso de modelos avanzados de IA.\n\nEnfoque especializado en animación estilo anime, altamente popular.\n\nRapidez en los procesos de carga y procesamiento.\n\nAplicaciones tanto personales como profesionales.\n\nSoporte de múltiples formatos de imagen y video.\n\nReconocimiento en plataformas como Product Hunt (ganador del #1 Product of the Day).",
+        "long_description": "Elser.AI es una plataforma todo-en-uno de inteligencia artificial visual que permite transformar y mejorar contenido digital con múltiples herramientas de edición automática. Entre sus funcionalidades destacan la mejora de resolución de video (video upscaler), la restauración de imágenes borrosas (unblur), la sincronización de labios en animaciones (lip sync AI), la generación de storyboards estilo anime (AI storyboard generator), y mejoras visuales automáticas (video enhancer). La plataforma opera directamente desde el navegador, sin necesidad de instalación, y está dirigida a creadores de contenido, artistas, editores de video y entusiastas de la animación. Su enfoque creativo y facilidad de uso la convierten en una herramienta potente para transformar ideas visuales en resultados impactantes con la ayuda de la IA.",
+        "release_date": "2023",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "Plan Gratuito:\n\nAcceso limitado a funciones básicas.\nProcesamiento limitado de contenido (minutos y resolución).\nMarca de agua en algunos resultados.\n\nPlanes Premium (Upgrade):\n\nAcceso completo a todas las herramientas.\nMayor tiempo de procesamiento por sesión.\nResultados en alta calidad sin marcas de agua.\nUso comercial permitido.\nEl pago se realiza en moneda USD con tarjeta. (precios exactos visibles solo tras iniciar sesión)",
+        "license": "Propietario",
+        "security_privacy": "Se recopila información básica de usuario (correo, tipo de contenido procesado).\n\nSe garantiza que los archivos subidos no serán compartidos con terceros.\n\nSe usan cookies para análisis de uso y funcionamiento de la plataforma.\n\nNo se especifica cumplimiento con normativas como GDPR o CCPA.\n\nSe aclara que el usuario conserva los derechos sobre su contenido.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.elser.ai/"
+        },
+        {
+          "source_url": "https://www.elser.ai/privacy-policy"
+        },
+        {
+          "source_url": "https://www.elser.ai/pricing"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/elser-ai"
+        },
+        {
+          "source_url": "https://who.is/whois/elser.ai"
+        }
+      ]
+    },
+    "1293": {
+      "app": {
+        "id": "1293",
+        "name": "EZTrimmer",
+        "url": "https://eztrimmer.io/",
+        "short_description": "Recortar, dividirlo y exportar vídeos en segundos con IA.",
+        "category": "Edición de video",
+        "main_functionality": "Edición básica de video en navegador para recortar (trim/cut) y dividir (split) clips; soporta formatos comunes y permite descargar el resultado.",
+        "tags": "#EdicionDeVideo #VideoCutter #VideoTrimmer #SplitVideo #WebApp #SinRegistro #SinMarcaDeAgua",
+        "logo_filename": "id_1293_eztrimmer",
+        "what_is": "Herramienta web para cortar/recortar videos y exportarlos rápidamente desde el navegador, sin necesidad de crear cuenta.",
+        "purpose": "Para ajustar la duración de videos (por ejemplo, para redes sociales), remover segmentos no deseados o preparar clips listos para compartir.",
+        "use_cases": "Recortar videos para TikTok/Shorts/Reels manteniendo la calidad.\n\nEliminar partes no deseadas de grabaciones (p. ej., reuniones) y descargar el clip final.\n\nDividir un video en segmentos y exportarlos.",
+        "main_advantages": "Uso inmediato: no requiere registro.\n\nGratuito y sin marca de agua/anuncios (según el sitio).\n\nMantiene resolución/calidad original (según el sitio).\n\nSoporta formatos como MP4, AVI, MOV, MKV y WebM.\n\nEnfoque en privacidad/seguridad (procesamiento y borrado automático, según el sitio).",
+        "long_description": "Plataforma en línea para cortar videos mediante carga del archivo, selección del rango en una línea de tiempo y descarga del resultado. Promueve edición rápida en navegador, exportación sin registro, soporte de formatos (MP4, AVI, MOV, MKV, WebM), mantenimiento de calidad y enfoque en seguridad/privacidad con eliminación automática tras el procesamiento (según su documentación).",
+        "release_date": "2026",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "No disponible",
+        "license": "Propietaria / SaaS",
+        "security_privacy": "Indica recolección de logs (IP, fecha/hora, navegador), datos de dispositivo y uso de cookies/analítica (menciona Google Analytics). Los videos se almacenan temporalmente para procesamiento y se eliminan automáticamente tras completarse, “típicamente dentro de 24 horas”. Menciona medidas como cifrado en tránsito (SSL/TLS) y auditorías. También indica que no vende información personal.",
+        "integration": "En el flujo de carga aparecen opciones como Google Drive y Dropbox (además de pegar URL) en la interfaz del producto."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://eztrimmer.io/"
+        },
+        {
+          "source_url": "https://eztrimmer.io/blog/"
+        },
+        {
+          "source_url": "https://eztrimmer.io/terms"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/eztrimmer-free-online-video-cutter"
+        },
+        {
+          "source_url": "https://www.scisolinc.com/product/eztrim-ez-trimmer/"
+        }
+      ]
+    },
+    "1405": {
+      "app": {
+        "id": "1405",
+        "name": "Embedful",
+        "url": "https://embedful.io/",
+        "short_description": "Convierte tus datos en gráficos, tablas, contadores y paneles listos para clientes al instante.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Creación rápida de dashboards y visualizaciones a partir de fuentes como Google Analytics y archivos (CSV/Excel/Sheets), con opciones de compartir/enebebido, refresco manual o automático y controles de acceso según el plan.",
+        "tags": "#InteligenciaDeNegocios #AnaliticaEmbebida #Dashboards #VisualizacionDeDatos #Reporteria #GoogleAnalytics #Notion #NoCode",
+        "logo_filename": "id_1405_embedul",
+        "what_is": "Plataforma web para crear, incrustar y compartir gráficos y dashboards a partir de datos propios o de integraciones (por ejemplo, Google Analytics), orientada a entregar analítica “customer-facing” dentro de productos o en enlaces compartibles.",
+        "purpose": "Para transformar datos en visualizaciones listas para presentar a clientes/usuarios finales y publicarlas rápidamente en web o espacios de trabajo (p. ej., Notion), evitando configuraciones complejas de herramientas BI tradicionales.",
+        "use_cases": "Reportes para clientes (agencias/consultoría) mediante dashboards compartibles.\nAnalítica embebida en un SaaS (“customer-facing analytics”) para que cada cliente vea sus métricas.\nDashboards publicados o incrustados en sitios web y Notion.\nVisualizaciones desde Google Analytics, CSV, Excel o Sheets; y contadores con valores manuales.",
+        "main_advantages": "Puesta en marcha rápida: propone convertir datos en visualizaciones “en segundos” y con “casi nada de setup”.\nDistribución sencilla: compartir por enlace o incrustar; exportar a PDF/imagen.\nEscalabilidad para analítica a clientes: se posiciona para entornos multi-organización con aislamiento de datos y controles de compartición.\nOpciones operativas: refresco manual o automático (según plan) y dashboards con contraseña (según plan).",
+        "long_description": "Permite crear gráficos, tablas, contadores y dashboards combinando múltiples visualizaciones en un panel, usando datos de integraciones o archivos (Google Analytics, CSV/Excel/Sheets) y valores manuales. Los tableros pueden compartirse por enlace, incrustarse (incluyendo uso en sitios y Notion), exportarse a PDF/imagen y actualizarse con refresco manual o automático según el plan.",
+        "release_date": "No disponible",
+        "developer": "Embedful",
+        "main_model": "No disponible",
+        "pricing_plans": "Starter: USD $20/mes; hasta 3 dashboards; 5 visuales; refresco manual; sin password; sin link corto; con branding; 1 usuario.\nPro: USD $39.99/mes; hasta 10 dashboards; 15 visuales; refresco automático cada 30 min; dashboards con contraseña; links cortos; sin branding; 1 usuario.\nAgency: USD $12.99/mes; hasta 25 dashboards; 30 visuales; refresco automático cada 15 min; contraseña; links cortos; sin branding; hasta 5 usuarios.\nOpción de facturación anual con “20% off” y planes a medida (límites más altos, integraciones custom, seguridad mejorada o soporte dedicado).\nNota de términos: menciona que puede existir un Pro Lifetime como oferta promocional limitada.",
+        "license": "Propietaria.",
+        "security_privacy": "Política de privacidad efectiva 24 feb 2026; detalla recolección de datos (cuenta, pagos, soporte, datos técnicos como IP/uso) y uso de cookies/analítica (incluye Google Analytics).\nIndica rol de data processor cuando procesa datos conectados por clientes, y que las integraciones acceden solo a permisos explícitamente autorizados.\nSeñala medidas de seguridad (p. ej., cifrado/controles) en el DPA dentro de los términos, y limitaciones de responsabilidad.",
+        "integration": "Fuentes de datos: Google Analytics, carga de CSV/Excel/Sheets, y uso de múltiples fuentes; contadores con valores manuales.\nDistribución: incrustación en websites y Notion, enlaces compartibles, exportación a PDF/imagen."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://embedful.io/"
+        },
+        {
+          "source_url": "https://embedful.io/pricing/"
+        },
+        {
+          "source_url": "https://embedful.io/blog/"
+        },
+        {
+          "source_url": "https://embedful.io/terms/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/embedful"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/product/Embedful/"
+        }
+      ]
+    },
+    "1428": {
+      "app": {
+        "id": "1428",
+        "name": "Enia",
+        "url": "https://www.eniacode.com/",
+        "short_description": "Refina proactivamente tu código y aprende tus estándares.",
+        "category": "Codificación",
+        "main_functionality": "Detección proactiva de bugs/riesgos (p. ej., performance e inconsistencias arquitectónicas), sugerencias de refactor, memoria persistente de preferencias/estándares y un centro unificado para tareas/señales dentro del flujo de desarrollo.",
+        "tags": "#Codificación #AICodingAgent #Refactorización #DetecciónDeBugs #ProductividadDev #VSCode #DevTools",
+        "logo_filename": "id_1428_eniacodeai",
+        "what_is": "Una herramienta de asistencia para desarrollo (principalmente como extensión de IDE) que busca actuar como “coding partner” proactivo: analiza lo que estás escribiendo y muestra sugerencias/soluciones listas para aplicar sin depender de prompts continuos.",
+        "purpose": "Para anticipar y reducir errores comunes, problemas de rendimiento y desviaciones de estándares del equipo durante la escritura de código, acelerando refactors y manteniendo consistencia sin interrumpir el flujo de trabajo.",
+        "use_cases": "Detectar y proponer refactors mientras codificas (ej.: redundancias, fugas de memoria) sin “pedirlo” explícitamente.\nMantener una conversación/memoria persistente de preferencias (nombres, patrones, decisiones previas) para evitar re-explicar contexto.\nGuiar a equipos hacia patrones consistentes mediante señales/sugerencias alineadas a prácticas del equipo.\nUso en VS Code mediante instalación de la extensión y autenticación/activación desde el panel.",
+        "main_advantages": "Proactividad: señales y soluciones “zero prompts” según su propuesta.\nMemoria persistente: aprendizaje de preferencias y continuidad de colaboración.\nEstandarización de equipo: “best practices” y patrones consistentes mediante sugerencias.\nPlanes escalonados por capacidad: límites de “Signals detection” y “Requests” según plan.",
+        "long_description": "Enia Code se posiciona como un “proactive coding partner” que entrega soluciones antes de que el desarrollador las pida. Destaca funciones como Proactive Signal (detección y sugerencias en tiempo real), Persistent Memory (aprende preferencias y evita reiniciar contexto) y Unified Task Center (centraliza señales/tareas y guía hacia patrones del equipo). Opera como extensión para VS Code (instalación desde marketplace y uso desde un panel dentro del IDE).",
+        "release_date": "2026",
+        "developer": "Proxseer Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "Trial (Gratis): 7 días; 1 tarea concurrente; 10 “Signals detection”; 10 “Requests”.\nPartner: USD $19.99/mes; Unified Task Center; 16 “Signals”; 30 “Requests/mes” en modelos avanzados; soporte comunidad.\nPartner Pro: USD $49.99/mes; incluye Partner + 50 “Signals”; 80 “Requests/mes”; soporte por email.\nUltra: USD $199.99/mes; incluye Partner Pro + 200 “Signals”; 360 “Requests/mes”; acceso prioritario a nuevas funciones.",
+        "license": "Propietario / SaaS",
+        "security_privacy": "La política describe recolección de datos de cuenta (nombre/email), inputs (código/prompts/archivos) y sugerencias generadas, además de uso y cookies.\nSeñala que no “vende” ni “comparte” datos personales para publicidad conductual “cross-context” (según definición de leyes estatales de EE. UU.).\nIndica una política de entrenamiento: no usa inputs “en uso normal” para entrenar modelos “core”, salvo casos limitados (seguridad/violaciones, feedback voluntario o consentimiento explícito).\nIncluye contacto y domicilio de la empresa para solicitudes de privacidad.",
+        "integration": "VS Code (extensión en Visual Studio Marketplace).\nLogin vía terceros: menciona integración de autenticación con plataformas como GitHub (si el usuario decide vincular)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.eniacode.com/"
+        },
+        {
+          "source_url": "https://www.eniacode.com/pricing"
+        },
+        {
+          "source_url": "https://www.eniacode.com/about"
+        },
+        {
+          "source_url": "https://www.eniacode.com/#features"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/enia-code"
+        },
+        {
+          "source_url": "https://marketplace.visualstudio.com/items?itemName=EniaCode.Enia-Code"
+        }
+      ]
+    },
+    "1496": {
+      "app": {
+        "id": "1496",
+        "name": "Enhancor",
+        "url": "https://www.enhancor.ai/",
+        "short_description": "Mejora retratos generados por IA corrigiendo la textura de la piel (poros y microdetalles) y aumentando la resolución para un resultado más realista, reduciendo el “look plástico” típico de muchas imágenes sintéticas.",
+        "category": "Edición de imágenes",
+        "main_functionality": "Realce de textura de piel en retratos e “upscaling” de imágenes (hasta 8K, según el sitio) para lograr acabados fotorealistas en contenido generado por IA.",
+        "tags": "#EdicionDeImagenes,#RetoqueFacial,#TexturaDePiel,#Upscaling,#Fotorealismo,#ImagenGeneradaPorIA",
+        "logo_filename": "id_1496_enhancor",
+        "what_is": "Es una plataforma orientada a mejorar el realismo de imágenes (especialmente retratos) generadas por IA, añadiendo detalles de piel (poros y microtexturas) y ofreciendo aumento de resolución para obtener resultados más nítidos y creíbles.",
+        "purpose": "Sirve para llevar imágenes sintéticas (por ejemplo, retratos generados con modelos de IA) a un acabado más “fotográfico”, reduciendo artefactos comunes (piel demasiado lisa) y preparando el material para usos creativos o de publicación donde se requiera mayor realismo.",
+        "use_cases": "Retoque/realce de piel en retratos generados por IA para evitar el “uncanny valley”.\nUpscaling de imágenes para exportar en resoluciones más altas (p. ej., para impresión o piezas digitales).\nFlujo de trabajo creativo para artistas y creadores que producen “digital humans”/influencers sintéticos.",
+        "main_advantages": "Enfoque específico en piel: añade microdetalle (poros/textura) sin buscar cambiar por completo la identidad del rostro (según el posicionamiento del producto).\nAhorro de tiempo frente a retoque manual cuando el objetivo es aumentar realismo en retratos sintéticos.\nComplementa generadores de imagen: se usa como etapa posterior para mejorar el resultado final.",
+        "long_description": "Plataforma enfocada en mejorar el realismo de retratos e imágenes generadas por IA. Su propuesta principal se centra en corregir el aspecto “plástico” de la piel mediante la incorporación de microtexturas (como poros y detalles finos) para un acabado más natural. Adicionalmente, se promociona como herramienta para aumentar la resolución (mencionando hasta 8K en su comunicación) y para apoyar flujos de creación de humanos digitales/activos visuales con apariencia más fotográfica.",
+        "release_date": "2025",
+        "developer": "Enhancor AI Inc. (también se identifica al fundador/CEO en publicaciones públicas como Sirio Berati).",
+        "main_model": "No disponible",
+        "pricing_plans": "No disponible",
+        "license": "Propietaria / SaaS",
+        "security_privacy": "Se menciona que la privacidad es importante y que las imágenes cargadas se procesan para prestar el servicio, remitiendo a su política de privacidad.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.enhancor.ai/"
+        },
+        {
+          "source_url": "https://www.enhancor.ai/#pricing"
+        },
+        {
+          "source_url": "https://www.enhancor.ai/features"
+        },
+        {
+          "source_url": "https://www.enhancor.ai/privacy"
+        },
+        {
+          "source_url": "https://www.enhancor.ai/terms"
+        }
+      ]
+    },
+    "1541": {
+      "app": {
+        "id": "1541",
+        "name": "Ella (by Novella)",
+        "url": "https://www.novella.io",
+        "short_description": "Extensión de Chrome que reúne generación de video con IA y un editor con línea de tiempo para crear, editar y exportar piezas audiovisuales desde una barra lateral, con almacenamiento en la nube.",
+        "category": "Generación de video",
+        "main_functionality": "Generar clips/activos con múltiples modelos de IA en un solo lugar, editar en una línea de tiempo y exportar (1080p/4K), con créditos y opción BYOK (usar tus propias API keys).",
+        "tags": "#BYOK,#ModelosGenerativos,#EdicionDeVideo",
+        "logo_filename": "id_1541_ellabynovella",
+        "what_is": "Es una plataforma de video con IA para creadores, distribuida como extensión de Chrome y acompañada por un editor (web) que permite generar, organizar y editar recursos de video y exportarlos.",
+        "purpose": "Para centralizar en un solo flujo la generación de clips con IA, la edición en timeline y la exportación, evitando alternar entre múltiples herramientas y suscripciones.",
+        "use_cases": "Crear clips y recursos visuales con modelos de IA desde la extensión y llevarlos al editor.\nEditar en una línea de tiempo (estructura, timing, etc.) y exportar entregables.\nUsar Bring Your Own Key (BYOK) para conectar tus propias API keys y ampliar flexibilidad de generación.\nAlmacenamiento/gestión de archivos para trabajo creativo (incluye opciones de nube).",
+        "main_advantages": "Unificación del flujo: generación + edición + exportación desde un entorno (extensión/editor).\nAcceso a múltiples modelos en un solo lugar (según Chrome Web Store y términos).\nBYOK para controlar/usar tus propias llaves de API.\nExportaciones 1080p/4K y esquema por créditos en planes.",
+        "long_description": "Ella (Novella) funciona como un “workspace” de video con IA: desde la extensión se accede a herramientas/modelos generativos para crear activos y clips; el usuario puede llevarlos a un editor con timeline, utilizar almacenamiento (incluida nube) y exportar resultados. El servicio contempla uso de FAL.AI o API keys propias para generación, además de funciones como cargar media propia, usar stock media, edición y exportación.",
+        "release_date": "Abril 2026",
+        "developer": "Novella AI, Inc.",
+        "main_model": "No disponible (no especificado públicamente como un único modelo). La documentación indica que la plataforma usa/integra servicios y modelos de terceros (p. ej., vía FAL.AI o BYOK) y menciona múltiples proveedores de IA en su política.",
+        "pricing_plans": "Starter: US$14/mes – 1,000 créditos/mes.\nPro: US$32/mes – 3,000 créditos/mes.\nMax: US$65/mes – 8,000 créditos/mes.\nNota: la página también muestra opción anual con descuento (“-18% Off”).",
+        "license": "Propietario (SaaS)",
+        "security_privacy": "La política describe: (1) opciones de almacenamiento local (Chrome storage / sistema local), (2) carga a Google Drive si el usuario autoriza, y (3) almacenamiento en nube mediante Backblaze B2 para exportación en la nube. También lista proveedores/terceros para autenticación, pagos y servicios de IA (p. ej., Auth0, Stripe, fal.ai, etc.).",
+        "integration": "Extensión de Chrome (punto principal de integración en navegador).\nEditor web (ella.novella.io) que requiere la extensión activa.\nBYOK (API keys propias) y uso de FAL.AI según términos; además de integración con almacenamiento (Google Drive/Backblaze) descrita en privacidad."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.novella.io/pricing"
+        },
+        {
+          "source_url": "https://chromewebstore.google.com/detail/ella-ai-creator-workspace/kflcemlcbknfiaaodobaikfopglkmpnf"
+        },
+        {
+          "source_url": "https://www.novella.io/legal/privacy-policy"
+        }
+      ]
+    },
+    "1700": {
+      "app": {
+        "id": "1700",
+        "name": "Epochal",
+        "url": "https://epochal.app",
+        "short_description": "Plataforma unificada para crear clips con IA desde texto o animando imágenes, eligiendo entre varios modelos y gestionando créditos, iteración y exportación en un solo flujo.",
+        "category": "Generación de video",
+        "main_functionality": "Generación texto-a-video e imagen-a-video en un “workspace” único; permite seleccionar modelos (p. ej., Veo, Kling, Wan), reutilizar referencias y gestionar créditos/outputs en librería para iteración rápida.",
+        "tags": "#TextoAVideo,#ImagenAVideo,#Creditos,#ContenidoParaRedes",
+        "logo_filename": "id_1700_epochal",
+        "what_is": "Es una plataforma de creación con IA enfocada en video que integra en un solo producto los flujos de prompt-to-video e image-to-video, además de generación de imagen para construir el “frame” inicial. También centraliza créditos, biblioteca y gestión de iteraciones.",
+        "purpose": "Para producir clips cortos a partir de una descripción (texto) o de una imagen de referencia, comparando y eligiendo el modelo más conveniente para cada necesidad, y manteniendo el proceso de ideación→iteración→exportación dentro de la misma plataforma.",
+        "use_cases": "Marketing de producto / ecommerce: convertir un prompt o packshot en clip para anuncios, PDP media, landing pages y campañas en redes.\nIdeación de video corto: generar hooks, moodboards, teasers y pruebas de storyboard para explorar direcciones visuales rápidamente.\nEquipos creativos: fijar una dirección visual (imagen) y pasar a video con menos ciclos de revisión, apoyándose en referencias.\nCreadores individuales: producir de forma repetible reutilizando frames/referencias para mayor consistencia entre lotes de contenido.",
+        "main_advantages": "Unificación del workflow: texto→video, imagen→video y generación de imagen en un solo lugar.\nMulti-modelo: acceso a distintos modelos sin cambiar de plataforma (según el sitio).\nIteración y consistencia: reutilización de outputs como referencias para nuevas rondas.\nGestión de créditos y librería: centraliza uso, outputs y referencias.",
+        "long_description": "Plataforma para creación de contenido con IA centrada en video: permite describir una escena (texto) o subir una imagen para animarla (image-to-video), seleccionar el modelo más adecuado dentro del mismo entorno y mantener el flujo de creación (referencias, iteración y outputs) en un único workspace. Incluye una biblioteca para guardar resultados y reutilizarlos como referencia. Se posiciona como una solución práctica “para uso real” que reduce fricción de integrar múltiples herramientas por separado.",
+        "release_date": "Marzo 2026",
+        "developer": "No disponible.",
+        "main_model": "No disponible.",
+        "pricing_plans": "Free (one-time trial): $0, 20 créditos, outputs guardables; generación de video con marca de agua y “public by default”; sin créditos recurrentes.\nLite: desde $8.33/mes (anual), 800 créditos/mes, sin watermark, generación privada, mayor velocidad; flujos de imagen y video.\nPro: desde $25/mes (anual $299.99), 3,000 créditos/mes, sin watermark, generación privada, mayor velocidad; mayor capacidad mensual.",
+        "license": "Propietaria (SaaS).",
+        "security_privacy": "Recopila: datos de cuenta (nombre/email), datos de facturación (sin almacenar tarjeta completa), uso del producto, datos técnicos (IP, navegador, SO, idioma), contenidos aportados (prompts/archivos) y outputs generados.\nIndica que puede enviar prompts/activos a proveedores terceros (inferencia, storage, auth, pagos, email, analítica/monitorización) para operar funciones de IA.\nAdvierte sobre contenido público vs privado: ciertas funciones pueden ser públicas por defecto según plan/configuración; planes de pago pueden dar más control de visibilidad.\nSeguridad: “medidas razonables” (sin garantizar seguridad absoluta).",
+        "integration": "No disponible."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://epochal.app/"
+        },
+        {
+          "source_url": "https://epochal.app/pricing"
+        },
+        {
+          "source_url": "https://epochal.app/blog"
+        },
+        {
+          "source_url": "https://epochal.app/about"
+        },
+        {
+          "source_url": "https://epochal.app/privacy"
+        },
+        {
+          "source_url": "https://epochal.app/terms"
+        }
+      ]
+    },
+    "1846": {
+      "app": {
+        "id": "1846",
+        "name": "Extinde",
+        "url": "https://extinde.com/",
+        "short_description": "Extinde permite crear extensiones de navegador a partir de prompts, acelerando el desarrollo de herramientas web.",
+        "category": "Codificación",
+        "main_functionality": "Creación de extensiones de navegador desde prompts",
+        "tags": "#Codificación #ExtensiónChrome #Desarrollo",
+        "logo_filename": "id_1846_extinde",
+        "what_is": "Extinde es una herramienta de codificación que permite crear extensiones de navegador a partir de prompts. Está orientada a acelerar el desarrollo de herramientas web y automatizaciones para el navegador.",
+        "purpose": "Crear extensiones de navegador desde prompts para acelerar desarrollo de herramientas web.",
+        "use_cases": "Extensiones de navegador; desarrollo web; automatización desde prompts; herramientas para Chrome.",
+        "main_advantages": "Acelera desarrollo de extensiones; parte de prompts; reduce fricción técnica; facilita creación de herramientas web.",
+        "long_description": "Extinde es una herramienta de codificación que permite crear extensiones de navegador a partir de prompts. Está orientada a acelerar el desarrollo de herramientas web, automatizaciones y extensiones para Chrome u otros navegadores. Su valor está en reducir la fricción inicial del desarrollo mediante instrucciones en lenguaje natural.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://extinde.com/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/extinde-qyxxki"
+        }
+      ]
+    },
+    "1848": {
+      "app": {
+        "id": "1848",
+        "name": "EmbedAI",
+        "url": "https://embedai.dev/",
+        "short_description": "EmbedAI permite agregar un asistente de IA a sitios web para responder preguntas y apoyar interacción con usuarios.",
+        "category": "Automatización",
+        "main_functionality": "Integración de asistentes de IA en sitios web",
+        "tags": "#Automatización #Chatbot #AsistenteIA",
+        "logo_filename": "id_1848_embedai",
+        "what_is": "EmbedAI es una herramienta para integrar asistentes de inteligencia artificial en sitios web. Permite responder preguntas de usuarios y apoyar interacción, soporte o consulta de información dentro de una página.",
+        "purpose": "Agregar asistentes de IA en sitios web para responder preguntas y mejorar interacción con usuarios.",
+        "use_cases": "Chatbot web; asistente de sitio; soporte en páginas web; respuestas automáticas para usuarios.",
+        "main_advantages": "Integra asistentes en sitios web; mejora interacción; responde preguntas frecuentes; apoya soporte digital.",
+        "long_description": "EmbedAI es una herramienta para integrar asistentes de inteligencia artificial en sitios web. Permite responder preguntas de usuarios, apoyar navegación y ofrecer soporte dentro de una página. Su utilidad está en mejorar la interacción web y facilitar acceso a información mediante asistentes embebidos.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://embedai.dev/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/embedai-uamcyb"
+        }
+      ]
+    },
+    "1875": {
+      "app": {
+        "id": "1875",
+        "name": "evo",
+        "url": "https://codequal.dev/",
+        "short_description": "evo ayuda a analizar y entender estructuras de código, facilitando comprensión de proyectos y arquitectura.",
+        "category": "Codificación",
+        "main_functionality": "Análisis y comprensión de estructuras de código",
+        "tags": "#Codificación #Codebase #Arquitectura",
+        "logo_filename": "id_1875_evo",
+        "what_is": "evo es una herramienta de codificación que ayuda a analizar y entender estructuras de código. Está orientada a comprender codebases, arquitectura y relaciones dentro de proyectos de software.",
+        "purpose": "Analizar estructuras de código para facilitar comprensión de proyectos, arquitectura y relaciones técnicas.",
+        "use_cases": "Análisis de codebase; comprensión de arquitectura; documentación técnica; revisión de proyectos.",
+        "main_advantages": "Ayuda a entender codebases; facilita análisis técnico; mejora documentación; apoya equipos de desarrollo.",
+        "long_description": "evo es una herramienta de codificación que ayuda a analizar y entender estructuras de código. Está orientada a comprender codebases, arquitectura y relaciones dentro de proyectos de software. Su valor está en facilitar lectura técnica, documentación y navegación de proyectos complejos.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://codequal.dev/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/evo-70e4da"
+        }
+      ]
+    },
+    "1968": {
+      "app": {
+        "id": "1968",
+        "name": "Eler",
+        "url": "https://www.eler.ai/",
+        "short_description": "Eler permite generar imágenes, renders o visuales fotorrealistas para proyectos creativos y de diseño.",
+        "category": "Generación de arte",
+        "main_functionality": "Generación de imágenes o visuales fotorrealistas para diseño, creatividad y presentaciones.",
+        "tags": "imágenes fotorrealistas, modelos 3D, renderizado, diseño visual",
+        "logo_filename": "id_1968_eler",
+        "what_is": "Eler es una herramienta creativa para generar imágenes, renders o visuales fotorrealistas, útil en diseño, presentaciones, creación de contenido y proyectos visuales.",
+        "purpose": "Generar visuales fotorrealistas para apoyar diseño, creación de contenido y proyectos creativos.",
+        "use_cases": "Generación de renders; imágenes para diseño; contenido visual; presentaciones creativas.",
+        "main_advantages": "Facilita la creación de visuales profesionales, acelera procesos creativos y permite generar imágenes para distintos usos.",
+        "long_description": "Eler es una herramienta de generación visual orientada a imágenes, renders o composiciones fotorrealistas. Puede apoyar proyectos creativos, diseño, presentaciones y creación de contenido visual. Su valor está en acelerar la producción de recursos visuales sin depender completamente de procesos manuales de diseño.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.eler.ai/"
+        }
+      ]
+    },
+    "2096": {
+      "app": {
+        "id": "2096",
+        "name": "Extraction.app",
+        "url": "https://extraction.app/",
+        "short_description": "Extraction.app permite extraer datos de documentos, archivos o contenido estructurado mediante automatización.",
+        "category": "Automatización",
+        "main_functionality": "Extracción automatizada de datos desde documentos, archivos o contenido estructurado.",
+        "tags": "extracción de datos, documentos, automatización, procesamiento",
+        "logo_filename": "id_2096_extraction_app",
+        "what_is": "Extraction.app es una herramienta de automatización enfocada en extraer datos desde documentos, archivos o contenido estructurado. Puede ayudar a reducir captura manual, acelerar procesamiento documental y mejorar disponibilidad de información.",
+        "purpose": "Extraer datos de documentos, archivos o contenido estructurado para reducir captura manual.",
+        "use_cases": "Extracción de datos; procesamiento documental; captura automática; archivos estructurados.",
+        "main_advantages": "Reduce captura manual, acelera procesamiento documental y mejora la disponibilidad de datos útiles.",
+        "long_description": "Extraction.app es una herramienta de automatización enfocada en extraer datos desde documentos, archivos o contenido estructurado. Puede ser útil para procesos administrativos, análisis documental o captura de información. Su valor está en reducir trabajo manual, acelerar procesamiento y mejorar la disponibilidad de datos para otros flujos.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://extraction.app/"
+        }
+      ]
+    },
+    "2138": {
+      "app": {
+        "id": "2138",
+        "name": "Email Ferret",
+        "url": "https://emailferret.io/",
+        "short_description": "Asistente de Gmail que detecta correos de prospección o contenido generado mediante inteligencia artificial.",
+        "category": "Detección",
+        "main_functionality": "Detectar correos electrónicos de prospección o mensajes generados mediante inteligencia artificial.",
+        "tags": "detección de contenido generado por IA, análisis de correos, prospección comercial, detección de texto",
+        "logo_filename": "id_2138_email_ferret",
+        "what_is": "Email Ferret es un asistente de Gmail enfocado en detectar mensajes comerciales o contenido creado con IA.",
+        "purpose": "Ayudar a identificar correos de prospección generados con IA dentro de Gmail.",
+        "use_cases": "Filtrado de correos en frío, identificación de mensajes automatizados y revisión de campañas de prospección recibidas.",
+        "main_advantages": "Ayuda a reconocer mensajes automatizados y facilita la limpieza y priorización de la bandeja de entrada.",
+        "long_description": "Email Ferret es un asistente para Gmail orientado a detectar correos en frío o mensajes de prospección generados mediante inteligencia artificial. Ayuda a identificar comunicaciones automatizadas dentro de la bandeja de entrada y facilita la clasificación y priorización de los mensajes recibidos.",
+        "release_date": "No disponible",
+        "developer": "Email Ferret",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://emailferret.io/"
+        }
+      ]
+    },
+    "2246": {
+      "app": {
+        "id": "2246",
+        "name": "Email Template Builder",
+        "url": "https://www.touchpoint.com/",
+        "short_description": "Herramienta para generar plantillas HTML de correo electrónico alineadas con una marca.",
+        "category": "Marketing de contenidos",
+        "main_functionality": "Generar plantillas HTML de correo electrónico adaptadas a la identidad de una marca.",
+        "tags": "plantillas de correo, HTML, email marketing, contenido de marca, marketing de contenidos",
+        "logo_filename": "id_2246_email_template_builder",
+        "what_is": "Email Template Builder es una herramienta de marketing de contenidos para generar plantillas HTML de correo alineadas con una marca.",
+        "purpose": "Facilitar la creación de plantillas HTML de correo coherentes con la identidad de una marca.",
+        "use_cases": "Email marketing, creación de newsletters, plantillas HTML, comunicaciones de marca y campañas por correo.",
+        "main_advantages": "Acelera la creación de plantillas de correo manteniendo coherencia con la identidad de marca.",
+        "long_description": "Email Template Builder es una herramienta de marketing de contenidos que genera plantillas HTML de correo electrónico alineadas con una marca. Puede apoyar la creación de comunicaciones visualmente coherentes para campañas y envíos.",
+        "release_date": "No disponible",
+        "developer": "Textmagic AS",
+        "main_model": "Claude API",
+        "pricing_plans": "Inicio gratuito; primeros 10,000 envíos gratuitos; envíos posteriores mediante Textmagic",
+        "license": "No especificado",
+        "security_privacy": "GDPR, cifrado en tránsito y reposo, RBAC y autenticación; retención limitada de datos personales de plantillas.",
+        "integration": "Textmagic"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.touchpoint.com/"
+        }
+      ]
+    },
+    "2247": {
+      "app": {
+        "id": "2247",
+        "name": "Everdone",
+        "url": "https://everdone.ai/",
+        "short_description": "Plataforma que genera y mantiene documentación relacionada con bases de código.",
+        "category": "Codificación",
+        "main_functionality": "Generar y mantener documentación asociada con bases de código y proyectos de software.",
+        "tags": "documentación de código, desarrollo de software, mantenimiento de documentación, programación, automatización",
+        "logo_filename": "id_2247_everdone",
+        "what_is": "Everdone es una herramienta de codificación orientada a generar y mantener documentación de software.",
+        "purpose": "Reducir el esfuerzo necesario para generar y mantener documentación relacionada con proyectos de software.",
+        "use_cases": "Documentación de código, actualización de documentación técnica, apoyo a desarrolladores y mantenimiento de proyectos.",
+        "main_advantages": "Reduce el esfuerzo de mantener documentación técnica actualizada junto con la evolución del código.",
+        "long_description": "Everdone es una herramienta de codificación enfocada en generar y mantener documentación de código. Está orientada a reducir el trabajo manual necesario para conservar documentación técnica relacionada con la evolución de proyectos de software.",
+        "release_date": "No disponible",
+        "developer": "Cointab Software Private Limited",
+        "main_model": "IA propia; modelo base no especificado",
+        "pricing_plans": "200 unidades gratis por servicio; early access: $0.05 USD por unidad",
+        "license": "No especificado",
+        "security_privacy": "Cifrado en tránsito y reposo, mínimo privilegio y monitoreo; declara no vender datos.",
+        "integration": "GitHub, Figma, PDFs y documentos"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://everdone.ai/"
+        }
+      ]
+    },
+    "2251": {
+      "app": {
+        "id": "2251",
+        "name": "EveChange",
+        "url": "https://www.evechange.com/",
+        "short_description": "Plataforma que redacta, refina y publica contenido escrito.",
+        "category": "Redacción",
+        "main_functionality": "Redactar, mejorar y publicar contenido escrito mediante inteligencia artificial.",
+        "tags": "redacción, edición de texto, refinamiento de contenido, publicación, asistente de escritura",
+        "logo_filename": "id_2251_evechange",
+        "what_is": "EveChange es una herramienta de redacción que ayuda a crear, refinar y publicar contenido escrito.",
+        "purpose": "Facilitar la creación, mejora y publicación de contenido escrito.",
+        "use_cases": "Redacción de contenidos, edición de textos, mejora de borradores y publicación de materiales escritos.",
+        "main_advantages": "Integra varias etapas del proceso de escritura, desde el borrador hasta la publicación.",
+        "long_description": "EveChange es una herramienta de redacción que permite crear, refinar y publicar contenido escrito. Está orientada a apoyar distintas etapas del proceso editorial y reducir el trabajo manual necesario para mejorar textos.",
+        "release_date": "No disponible",
+        "developer": "Evening AI Labs S.L.",
+        "main_model": "No especificado",
+        "pricing_plans": "No disponible en fuentes oficiales consultadas",
+        "license": "No especificado",
+        "security_privacy": "Declara cumplimiento de RGPD y LOPDGDD.",
+        "integration": "GitHub"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.evechange.com/"
+        }
+      ]
+    },
+    "2270": {
+      "app": {
+        "id": "2270",
+        "name": "emdash",
+        "url": "https://emdash.com/",
+        "short_description": "Herramienta que coordina múltiples agentes de programación con IA para trabajar en paralelo.",
+        "category": "Codificación",
+        "main_functionality": "Coordinar varios agentes de programación con IA para ejecutar tareas de desarrollo en paralelo.",
+        "tags": "agentes de programación, desarrollo paralelo, inteligencia artificial, programación, automatización de código",
+        "logo_filename": "id_2270_emdash",
+        "what_is": "emdash es una herramienta de desarrollo que coordina múltiples agentes de programación con IA para trabajar en paralelo.",
+        "purpose": "Acelerar tareas de programación mediante la coordinación simultánea de múltiples agentes de inteligencia artificial.",
+        "use_cases": "Programación asistida, ejecución paralela de tareas, desarrollo de funcionalidades y coordinación de agentes de código.",
+        "main_advantages": "Permite ejecutar varias tareas de desarrollo en paralelo mediante agentes especializados.",
+        "long_description": "emdash es una herramienta de desarrollo diseñada para coordinar múltiples agentes de programación con inteligencia artificial. Permite distribuir y ejecutar tareas de software en paralelo, con el objetivo de acelerar procesos de desarrollo que normalmente serían realizados de forma secuencial.",
+        "release_date": "No disponible",
+        "developer": "General Action, Inc.",
+        "main_model": "No especificado",
+        "pricing_plans": "Gratis y código abierto (Apache 2.0)",
+        "license": "Apache 2.0",
+        "security_privacy": "Arquitectura local-first; declara no recopilar código ni contenido de los repositorios del usuario.",
+        "integration": "GitHub, Linear, Jira, Notion, Asana y múltiples agentes de programación"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://emdash.com/"
+        }
+      ]
+    },
+    "2271": {
+      "app": {
+        "id": "2271",
+        "name": "EverMind",
+        "url": "https://evermind.ai/",
+        "short_description": "Herramienta que proporciona memoria a largo plazo y contexto persistente a modelos de lenguaje y agentes de IA.",
+        "category": "Automatización",
+        "main_functionality": "Dotar a modelos de lenguaje y agentes de IA de memoria a largo plazo y contexto persistente.",
+        "tags": "memoria para LLM, memoria a largo plazo, agentes de IA, contexto persistente, automatización",
+        "logo_filename": "id_2271_evermind",
+        "what_is": "EverMind es una herramienta que proporciona memoria persistente y contexto a largo plazo para modelos de lenguaje y agentes de inteligencia artificial.",
+        "purpose": "Proporcionar memoria persistente a modelos de lenguaje y agentes para mantener contexto entre distintas interacciones.",
+        "use_cases": "Memoria para asistentes, contexto persistente, agentes de IA y continuidad entre conversaciones o sesiones.",
+        "main_advantages": "Ayuda a mantener continuidad y contexto a largo plazo en sistemas basados en modelos de lenguaje.",
+        "long_description": "EverMind es una herramienta que proporciona memoria persistente y contexto a largo plazo para modelos de lenguaje y agentes de inteligencia artificial. Está orientada a mejorar la continuidad entre interacciones y permitir que los sistemas con IA conserven información relevante entre distintas sesiones.",
+        "release_date": "No disponible",
+        "developer": "Evermind AI, Inc.",
+        "main_model": "Multimodelo; modelos específicos no publicados",
+        "pricing_plans": "Starter: $9.90 USD/mes, temporalmente gratis; Pro: $12.90 USD/mes; Enterprise: personalizado",
+        "license": "No especificado",
+        "security_privacy": "Cifrado en tránsito y reposo; los inputs y outputs normalmente no se utilizan para entrenar modelos.",
+        "integration": "API y compatibilidad multimodelo"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://evermind.ai/"
+        }
+      ]
+    },
+    "2372": {
+      "app": {
+        "id": "2372",
+        "name": "Epsillion",
+        "url": "https://www.epsillion.com/",
+        "short_description": "Herramienta para automatizar tareas y procesos relacionados con documentos de Excel, Word y PDF.",
+        "category": "Productividad",
+        "main_functionality": "Automatizar tareas y flujos relacionados con archivos de Excel, Word y PDF.",
+        "tags": "Excel, Word, PDF, automatización de documentos, productividad, Microsoft Office, flujos de trabajo",
+        "logo_filename": "id_2372_epsillion",
+        "what_is": "Epsillion es una herramienta de productividad orientada a automatizar procesos relacionados con documentos de Excel, Word y PDF.",
+        "purpose": "Automatizar tareas repetitivas relacionadas con documentos de Excel, Word y PDF.",
+        "use_cases": "Automatización con Excel, generación y edición de Word, procesamiento de PDF y workflows documentales.",
+        "main_advantages": "Reduce tareas repetitivas asociadas con documentos de oficina mediante automatización.",
+        "long_description": "Epsillion es una herramienta de productividad enfocada en automatizar tareas relacionadas con documentos de Excel, Word y PDF. Está orientada a reducir procesos manuales y facilitar workflows documentales mediante automatización.",
+        "release_date": "No disponible",
+        "developer": "Epsillion Software Limited",
+        "main_model": "No especificado",
+        "pricing_plans": "Precio mediante cotización; prueba de concepto gratuita disponible",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "Microsoft Excel, Word y PDF"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.epsillion.com/"
+        }
+      ]
+    },
+    "2373": {
+      "app": {
+        "id": "2373",
+        "name": "Extend AI",
+        "url": "https://www.extend.ai/",
+        "short_description": "Plataforma que transforma documentos no estructurados en datos organizados mediante inteligencia artificial.",
+        "category": "Automatización",
+        "main_functionality": "Extraer y estructurar información procedente de documentos no estructurados mediante inteligencia artificial.",
+        "tags": "documentos no estructurados, extracción de datos, procesamiento documental, automatización, IA, datos estructurados",
+        "logo_filename": "id_2373_extend_ai",
+        "what_is": "Extend AI es una plataforma de automatización documental que transforma información no estructurada en datos organizados mediante inteligencia artificial.",
+        "purpose": "Transformar documentos no estructurados en datos organizados y utilizables por sistemas y procesos empresariales.",
+        "use_cases": "Extracción de datos, procesamiento de documentos, formularios, facturas, PDFs y automatización documental.",
+        "main_advantages": "Convierte información documental difícil de procesar en datos estructurados y reutilizables.",
+        "long_description": "Extend AI es una plataforma de procesamiento documental que utiliza inteligencia artificial para transformar información no estructurada en datos organizados. Puede utilizarse para extraer información de distintos tipos de documentos y enviarla a otros sistemas o procesos automatizados.",
+        "release_date": "No disponible",
+        "developer": "CrowdView, Inc. dba Extend",
+        "main_model": "Combinación de modelos propios y modelos fundacionales de terceros",
+        "pricing_plans": "Pay As You Go: 10,000 créditos iniciales gratis y $0.0125 USD por crédito adicional; Scale: $500 USD/mes; Enterprise: personalizado",
+        "license": "No especificado",
+        "security_privacy": "Cifrado en tránsito y reposo, opciones de zero data retention, SOC 2 Type II, HIPAA, GDPR y posibilidad de despliegues privados.",
+        "integration": "REST API y SDK para Python, TypeScript, Java y Go"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.extend.ai/"
+        }
+      ]
+    },
+    "2436": {
+      "app": {
+        "id": "2436",
+        "name": "Experimently",
+        "url": "https://www.experimently.io/",
+        "short_description": "Herramienta para crear, publicar y probar landing pages orientadas a optimizar conversiones.",
+        "category": "Marketing",
+        "main_functionality": "Crear, publicar y experimentar con landing pages para optimizar campañas y conversiones.",
+        "tags": "landing pages, experimentación, A/B testing, conversiones, marketing, optimización, páginas web, analítica",
+        "logo_filename": "id_2436_experimently",
+        "what_is": "Experimently es una plataforma de marketing para crear y probar landing pages orientadas a mejorar el rendimiento de campañas y conversiones.",
+        "purpose": "Ayudar a equipos de marketing a crear y probar páginas de aterrizaje orientadas a mejorar conversiones.",
+        "use_cases": "Landing pages, campañas de adquisición, A/B testing, optimización de conversiones, validación de mensajes y experimentación de marketing.",
+        "main_advantages": "Combina creación de páginas y experimentación para facilitar la optimización continua de campañas.",
+        "long_description": "Experimently es una plataforma de marketing orientada a la creación y prueba de landing pages. Permite experimentar con diferentes propuestas, mensajes y versiones de página para medir resultados y mejorar conversiones en campañas de adquisición y marketing digital.",
+        "release_date": "No disponible",
+        "developer": "Experimently",
+        "main_model": "No especificado",
+        "pricing_plans": "Free: $0; Starter: $19 USD/mes; Pro: $49 USD/mes; Custom / White-glove: precio mediante cotización",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "Landing pages, sitios web y experimentación de marketing"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.experimently.io/"
+        }
+      ]
+    },
+    "2554": {
+      "app": {
+        "id": "2554",
+        "name": "Evaligo",
+        "url": "https://www.evaligo.com/",
+        "short_description": "Constructor visual de workflows de inteligencia artificial que permite conectar modelos, prompts, APIs y automatizaciones sin desarrollar todo el flujo mediante código.",
+        "category": "Automatización",
+        "main_functionality": "Permite construir workflows de inteligencia artificial conectando modelos, prompts, APIs y distintas etapas de procesamiento mediante una interfaz visual.",
+        "tags": "workflows de IA, automatización, no-code, prompts, APIs, pruebas A/B, modelos de lenguaje",
+        "logo_filename": "id_2554_evaligo",
+        "what_is": "Evaligo es una plataforma visual de automatización que permite construir y probar workflows de inteligencia artificial sin desarrollar manualmente todo el flujo.",
+        "purpose": "Simplificar la construcción y prueba de workflows de inteligencia artificial mediante una interfaz visual que conecte modelos, prompts y APIs.",
+        "use_cases": "Construir workflows de IA; conectar modelos y APIs; probar prompts; crear automatizaciones; evaluar diferentes modelos; diseñar cadenas de procesamiento sin código.",
+        "main_advantages": "Facilita experimentar y combinar modelos, prompts y APIs mediante una interfaz visual, reduciendo el trabajo de integración manual.",
+        "long_description": "Evaligo es una plataforma visual para construir y probar workflows de inteligencia artificial. Permite conectar modelos, prompts, APIs y distintas etapas de procesamiento dentro de una interfaz gráfica. Puede utilizarse para diseñar automatizaciones, experimentar con diferentes modelos y evaluar configuraciones sin desarrollar manualmente toda la lógica de integración mediante código.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Plan Free con 500 créditos al mes. Pro USD 7/mes con 10,000 créditos mensuales y funciones adicionales.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.evaligo.com/"
+        }
+      ]
+    },
+    "2561": {
+      "app": {
+        "id": "2561",
+        "name": "Everyday",
+        "url": "https://www.everyday.new/",
+        "short_description": "Asistente personal con IA que ejecuta tareas y workflows relacionados con correo, agenda, investigación, CRM y organización del trabajo.",
+        "category": "Productividad",
+        "main_functionality": "Ejecuta tareas personales y profesionales mediante inteligencia artificial, conectando correo, calendario, investigación, CRM y otros flujos de productividad.",
+        "tags": "asistente de IA, productividad, email, tareas, agenda, workflows, automatización personal",
+        "logo_filename": "id_2561_everyday",
+        "what_is": "Everyday es un asistente personal con inteligencia artificial orientado a automatizar tareas y organizar trabajo entre diferentes aplicaciones.",
+        "purpose": "Automatizar tareas personales y profesionales recurrentes mediante un asistente que conecte distintas aplicaciones y fuentes de información.",
+        "use_cases": "Gestionar correo; organizar agenda; investigar información; actualizar CRM; ejecutar tareas administrativas; automatizar rutinas personales o profesionales.",
+        "main_advantages": "Integra diferentes herramientas y tareas dentro de un asistente capaz de ejecutar acciones, reduciendo cambios constantes entre aplicaciones.",
+        "long_description": "Everyday es un asistente personal con inteligencia artificial diseñado para ejecutar tareas y workflows entre diferentes herramientas. Puede trabajar con correo electrónico, calendario, investigación, CRM y otras aplicaciones de productividad. Su objetivo es reducir tareas manuales recurrentes y permitir que el usuario delegue acciones operativas a un asistente conectado con su entorno de trabajo.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.everyday.new/"
+        }
+      ]
+    },
+    "2570": {
+      "app": {
+        "id": "2570",
+        "name": "EvolveDev",
+        "url": "https://evolvedev.io/",
+        "short_description": "Plataforma de inteligencia para equipos de software que analiza métricas de ingeniería, actividad de desarrollo y desempeño para apoyar decisiones de gestión.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Integra información de herramientas de desarrollo para calcular métricas DORA, tiempos de ciclo, actividad de Git y otros indicadores de productividad e ingeniería.",
+        "tags": "engineering intelligence, métricas DORA, productividad de desarrollo, dashboards, GitHub, Jira, ingeniería de software",
+        "logo_filename": "id_2570_evolvedev",
+        "what_is": "EvolveDev es una plataforma de software engineering intelligence orientada a responsables y equipos de ingeniería.",
+        "purpose": "Dar a líderes de ingeniería visibilidad cuantitativa sobre procesos de desarrollo para detectar cuellos de botella y mejorar productividad.",
+        "use_cases": "Monitorear métricas DORA; analizar lead time; medir tiempos de ciclo; revisar actividad de Git; construir dashboards; analizar productividad de equipos; detectar cuellos de botella.",
+        "main_advantages": "Centraliza datos procedentes de herramientas de ingeniería y los transforma en métricas e insights accionables para responsables de equipos técnicos.",
+        "long_description": "EvolveDev es una plataforma de software engineering intelligence diseñada para proporcionar visibilidad sobre equipos y proyectos de desarrollo. Se integra con herramientas utilizadas durante el ciclo de ingeniería y automatiza la recopilación y análisis de información. Incluye métricas DORA, tiempos de ciclo y entrega, actividad de Git, dashboards e insights basados en IA para ayudar a responsables técnicos a identificar tendencias, cuellos de botella y oportunidades de mejora.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Plan Free USD 0. Starter USD 7 por colaborador/mes, Pro USD 12 por colaborador/mes y Enterprise mediante cotización personalizada.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://evolvedev.io/"
+        }
+      ]
+    },
+    "2632": {
+      "app": {
+        "id": "2632",
+        "name": "EnCharge AI",
+        "url": "https://enchargeai.com/",
+        "short_description": "Empresa de hardware para IA enfocada en aceleradores de inferencia y cómputo eficiente para ejecutar modelos con menor consumo energético.",
+        "category": "Entrenamiento de modelos",
+        "main_functionality": "Desarrolla aceleradores de hardware especializados en inferencia de inteligencia artificial con énfasis en eficiencia energética y procesamiento de modelos.",
+        "tags": "hardware de IA, aceleradores, inferencia, edge AI, chips, cómputo IA, eficiencia energética, analog computing",
+        "logo_filename": "id_2632_encharge_ai",
+        "what_is": "EnCharge AI es una empresa de semiconductores que desarrolla hardware especializado para acelerar inferencia de inteligencia artificial.",
+        "purpose": "Aumentar la eficiencia de la inferencia de modelos de inteligencia artificial mediante hardware especializado de menor consumo energético.",
+        "use_cases": "Ejecutar modelos de IA en hardware eficiente; acelerar inferencia; desplegar sistemas edge; reducir consumo energético en cargas de inteligencia artificial.",
+        "main_advantages": "Busca ofrecer mayor eficiencia energética que arquitecturas convencionales para determinadas cargas de inferencia de inteligencia artificial.",
+        "long_description": "EnCharge AI es una empresa de semiconductores enfocada en desarrollar aceleradores especializados para inferencia de inteligencia artificial. Su tecnología busca ejecutar modelos con mayor eficiencia energética mediante arquitecturas de cómputo diseñadas específicamente para cargas de IA, incluyendo aplicaciones edge y otros entornos donde consumo y rendimiento son factores relevantes.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://enchargeai.com/"
+        }
+      ]
+    }
+  }
+}

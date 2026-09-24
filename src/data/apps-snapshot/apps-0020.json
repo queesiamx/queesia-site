@@ -1,0 +1,2340 @@
+{
+  "schemaVersion": 1,
+  "apps": {
+    "20": {
+      "app": {
+        "id": "20",
+        "name": "JoggAI",
+        "url": "https://www.jogg.ai/?fpr=aitoolsdirectory",
+        "short_description": "Herramienta que convierte enlaces de productos en anuncios de video atractivos en minutos, utilizando plantillas enriquecidas y avatares de IA para mejorar el tráfico web y las ventas.",
+        "category": "Generación de video",
+        "main_functionality": "Transforma enlaces de productos o activos en videos promocionales mediante IA, ofreciendo plantillas personalizables, avatares diversos y generación de guiones automatizada.",
+        "tags": "#GeneraciónDeVideo #VideoGenerativo #Multimedia",
+        "logo_filename": "id_20_jogg_ai",
+        "what_is": "JoggAI es una plataforma impulsada por inteligencia artificial que permite a los usuarios transformar enlaces de productos o activos digitales en anuncios de video atractivos en cuestión de minutos. Utiliza plantillas enriquecidas y avatares de IA para facilitar la creación de contenido de marketing efectivo.",
+        "purpose": "Su propósito principal es simplificar y acelerar el proceso de creación de anuncios de video, permitiendo a empresas y creadores de contenido generar material promocional de alta calidad sin necesidad de habilidades avanzadas en edición de video.",
+        "use_cases": "Marketing Digital: Creación rápida de anuncios de video para campañas en redes sociales y plataformas digitales.\nE-commerce: Generación de videos promocionales para productos, aumentando la visibilidad y potencialmente las ventas.\nAgencias de Publicidad: Producción eficiente de contenido audiovisual para diversos clientes y sectores.\nCreadores de Contenido: Facilitación en la elaboración de videos atractivos para plataformas como YouTube o Instagram.",
+        "main_advantages": "Rapidez: Transforma enlaces de productos en videos en minutos, acelerando el proceso de producción.\nFacilidad de Uso: No requiere experiencia previa en edición de video, gracias a su interfaz intuitiva y herramientas automatizadas.\nPersonalización: Ofrece una variedad de plantillas y avatares de IA para adaptar los videos a las necesidades específicas de cada usuario o marca.\nEficiencia en Costos: Reduce la necesidad de contratar servicios externos de producción de video, optimizando recursos.",
+        "long_description": "JoggAI es una plataforma de inteligencia artificial diseñada para transformar enlaces de productos o activos digitales en anuncios de video atractivos en cuestión de minutos. Utiliza plantillas enriquecidas y avatares de IA para facilitar la creación de contenido de marketing efectivo. La plataforma permite a los usuarios generar videos promocionales de alta calidad sin necesidad de habilidades avanzadas en edición de video, optimizando recursos y tiempo en la producción de material audiovisual.",
+        "release_date": "Mayo de 2024.",
+        "developer": "JoggAI, Inc.",
+        "main_model": "JoggAI emplea modelos de inteligencia artificial especializados en procesamiento de lenguaje natural y generación de video para crear anuncios promocionales a partir de enlaces de productos o activos digitales.",
+        "pricing_plans": "JoggAI ofrece varios planes de suscripción:\nGratuito: Incluye funciones básicas con limitaciones en la cantidad de videos que se pueden generar.\nStarter: Por $15 al mes, ofrece características adicionales y mayor capacidad de producción de videos.\nCreator: Por $39 al mes, brinda acceso a todas las funciones premium y capacidades de producción ilimitadas.\nEnterprise: Plan personalizado para empresas con necesidades específicas y soporte dedicado.",
+        "license": "Propietaria de JoggAI, Inc",
+        "security_privacy": "JoggAI implementa medidas de seguridad para proteger la información y los datos de los usuarios. La política de privacidad detalla cómo se manejan los datos personales y garantiza que la información no se comparte con terceros sin el consentimiento del usuario.",
+        "integration": "JoggAI se integra con diversas plataformas y herramientas de marketing digital, facilitando la incorporación de los videos generados en campañas publicitarias y estrategias de contenido. Además, permite la exportación de videos en diferentes formatos compatibles con redes sociales y sitios web."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/joggai"
+        },
+        {
+          "source_url": "https://deepgram.com/ai-apps/joggai"
+        },
+        {
+          "source_url": "https://appsumo.com/products/joggai/"
+        },
+        {
+          "source_url": "https://www.youtube.com/watch?v=FCiyWnGPWXg"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/jogg-ai"
+        },
+        {
+          "source_url": "https://chatgate.ai/es/post/Generador-de-anuncios-de-v%C3%ADdeo-joggai-ai-para-contenido-de-marketing-atractivo/"
+        },
+        {
+          "source_url": "https://www.saasworthy.com/product/jogg-ai/pricing"
+        }
+      ]
+    },
+    "108": {
+      "app": {
+        "id": "108",
+        "name": "Inncivio",
+        "url": "https://www.inncivio.com/",
+        "short_description": "Transforme su material de capacitación empresarial en conocimientos divertidos y breves, completados con rutas de aprendizaje personalizadas.",
+        "category": "Educación",
+        "main_functionality": "Convierte el material de formación de las empresas en módulos de aprendizaje interactivos y personalizados, incorporando rutas de aprendizaje adaptativas, gamificación y herramientas de colaboración para mejorar la motivación y el compromiso de los empleados.",
+        "tags": "#Educación #AprendizajeCorporativo #Gamificación",
+        "logo_filename": "id_108_inncivio",
+        "what_is": "Inncivio es una plataforma educativa empresarial potenciada por inteligencia artificial que transforma los programas de capacitación en experiencias de aprendizaje interactivas y personalizadas. Diseñada para mejorar la adquisición de conocimientos, fomenta la innovación y el compromiso en los equipos de trabajo.",
+        "purpose": "Sirve para mejorar la efectividad de la capacitación corporativa al ofrecer rutas de aprendizaje personalizadas, gamificación y herramientas de colaboración. Ayuda a las empresas a desarrollar habilidades clave en sus equipos mientras se mantiene el interés y la motivación de los empleados.",
+        "use_cases": "Capacitación de equipos corporativos: Implementación de programas de formación interactivos en áreas como liderazgo, ventas o innovación.\nOnboarding de nuevos empleados: Creación de módulos de aprendizaje que facilitan la integración de nuevos integrantes al equipo.\nEducación continua: Permite a las empresas actualizar el conocimiento de su personal de manera ágil y eficiente.\nEvaluaciones de desempeño: Monitorea el progreso y la efectividad de los programas de capacitación mediante análisis avanzados.\nFomentar la innovación: Ofrece herramientas para que los empleados participen en procesos creativos y colaborativos.",
+        "main_advantages": "Interactividad: Promueve el aprendizaje activo mediante contenido dinámico y personalizado.\nAdaptación a las necesidades: Diseña rutas de aprendizaje basadas en las habilidades y progresos de cada usuario.\nGamificación: Incrementa la motivación a través de elementos lúdicos como recompensas y desafíos.\nColaboración: Fomenta la interacción entre equipos mediante herramientas sociales y de trabajo en grupo.\nAnálisis de impacto: Proporciona métricas para evaluar el aprendizaje y mejorar los programas formativos.",
+        "long_description": "Inncivio es una plataforma educativa empresarial impulsada por inteligencia artificial que transforma el material de capacitación en experiencias de aprendizaje interactivas y personalizadas. La plataforma convierte el contenido de formación de las empresas en módulos de aprendizaje dinámicos, incorpora rutas de aprendizaje adaptativas y utiliza gamificación para aumentar la motivación y el compromiso de los empleados. Además, ofrece herramientas de colaboración que fomentan la interacción entre equipos, promoviendo una cultura de aprendizaje continuo y desarrollo de habilidades.",
+        "release_date": "No disponible.",
+        "developer": "Inncivio",
+        "main_model": "Utiliza modelos de inteligencia artificial para personalizar rutas de aprendizaje y adaptar el contenido de capacitación a las necesidades específicas de cada empleado.",
+        "pricing_plans": "Iniciador\nLo mejor para equipos < 25\n$199/año\n\nNegocio\nLo mejor para equipos de 25-50\n$4,900/año\n\nPrima\nLo mejor para equipos de 50+\n$9,900/año\n",
+        "license": "Propietaria",
+        "security_privacy": "Inncivio se compromete a proteger la privacidad y seguridad de los datos de sus usuarios, implementando medidas de seguridad para salvaguardar la información y los datos personales. Sin embargo, no se encontraron detalles específicos sobre sus políticas de seguridad y privacidad en la información disponible.",
+        "integration": "Inncivio ofrece integraciones versátiles con herramientas favoritas de los usuarios, asegurando que los equipos tengan acceso a los recursos que necesitan sin salir de la plataforma."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.inncivio.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=ai-powered-drug-discovery#reviews"
+        },
+        {
+          "source_url": "https://easywithai.com/ai-business-tools/inncivio/#:~:text=Inncivio%20is%20an%20AI-powered%20education%20platform%20designed%20for,enhance%20innovation%2C%20and%20make%20learning%20a%20shared%20adventure."
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/inncivio"
+        },
+        {
+          "source_url": "https://iaboxtool.es/inncivio-educacion-integrada-innovacion-identidad-corporativa/"
+        },
+        {
+          "source_url": "https://theresanaiforthat.com/ai/inncivio/"
+        },
+        {
+          "source_url": "https://topapps.ai/ai-apps/inncivio-2/"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/inncivio"
+        },
+        {
+          "source_url": "https://www.inncivio.com/pricing"
+        },
+        {
+          "source_url": "https://www.inncivio.com/about-inncivio"
+        },
+        {
+          "source_url": "https://www.inncivio.com/privacy-policy"
+        }
+      ]
+    },
+    "160": {
+      "app": {
+        "id": "160",
+        "name": "Inquisite",
+        "url": "https://inquisite.ai/",
+        "short_description": "Realice investigaciones profundas sobre cualquier tema, encuentre información basada en fuentes confiables y creíbles, y convierta esa información en documentos respaldados por investigaciones.",
+        "category": "Productividad",
+        "main_functionality": "Integración de fuentes de datos confiables con modelos de IA avanzados para realizar investigaciones complejas, análisis de datos y creación de documentos de manera eficiente.",
+        "tags": "#AsistenteDeInvestigación #InteligenciaArtificial #Análisis de datos #Automatización de documentos",
+        "logo_filename": "id_160_inquisite",
+        "what_is": "Inquisite es una plataforma basada en inteligencia artificial diseñada para optimizar y automatizar procesos de investigación. Combina capacidades avanzadas de búsqueda, análisis de datos y generación de contenido, facilitando a los usuarios la recopilación de informacióny la creación de informes detallados.",
+        "purpose": "Sirve como una herramienta integral para realizar investigaciones complejas, analizar grandes volúmenes de datos y genere documentos o informes automatizados, ahorrando tiempo y mejorando la precisión en los resultados. Esespecialmente útil paraprofesionales en campos como investigación académica, inteligencia empresarial y consultoría.",
+        "use_cases": "Investigación académica: Búsqueda y análisis de literatura científica para facilitar revisiones de la literatura.\n\nConsultoría empresarial: Creación automatizada de informes de mercado basados en datos analizados.\n\nInteligencia competitiva: Recopilación de datos relevantes sobre competidores y tendencias del mercado.\n\nSector Legal: Análisis y organización de documentos legales o casos precedentes. ",
+        "main_advantages": "Automatización: Reducción significativa del tiempo necesario para recopilar información y generar informes.\n\nPrecisión: Análisis avanzado que garantiza resultados confiables y relevantes.\n\nVersatilidad: Compatible con múltiples sectores y aplicaciones profesionales.\n\nFacilidad de uso: Interfaz intuitiva que permite un manejo sencillo, incluso para usuarios con poca experiencia técnica.   \n\nEscalabilidad: Capaz de manejar grandes volúmenes de datos en investigaciones complejas.    ",
+        "long_description": "Inquisite es una plataforma avanzada de inteligencia artificial diseñada para automatizar y facilitar procesos de investigación. Combina capacidades de búsqueda profunda, análisis de datos y generación automatizada de documentos para atender necesidades en sectores como la investigación académica, inteligencia empresarial y análisis legal. La herramienta permite integrar múltiples fuentes de datos confiables, analizar grandes volúmenes de información y estrucutrarla en reportes o documentos adaptados a las necesidades del usuario.",
+        "release_date": "No disponible.",
+        "developer": "No disponible.",
+        "main_model": "No disponible.",
+        "pricing_plans": "Información no disponible, pero es común que este tipo de herramientas ofrezcan versiones gratuitas con opciones premium.",
+        "license": "Propietaria",
+        "security_privacy": "No se encontraron detalles específicos, pero probablemente utiliza medidas estándar de cifrado y protección de datos para garantizar la privacidad de la información procesada por los usuarios.",
+        "integration": "No se encontró información específica, pero es posible que ofrezca compatibilidad con otras herramientas de análisis o procesamiento de datos comúnmente usadas en investigación."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://inquisite.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=apple-rolls-out-chatgpt-integration"
+        },
+        {
+          "source_url": "https://inquisite.ai/about"
+        },
+        {
+          "source_url": "https://deepgram.com/ai-apps/inquisite"
+        },
+        {
+          "source_url": "https://www.producthunt.com/posts/inquisite"
+        },
+        {
+          "source_url": "https://inquisite.ai/legal/privacypolicy"
+        }
+      ]
+    },
+    "215": {
+      "app": {
+        "id": "215",
+        "name": "Jasper",
+        "url": "https://www.jasper.ai/",
+        "short_description": "Herramienta de inteligencia artificial que facilita la creación de contenido escrito de alta calidad en múltiples formatos y estilos, optimizando el proceso de redacción para profesionales y empresas.",
+        "category": "Redacción",
+        "main_functionality": "Generación automatizada de textos coherentes y relevantes en diversos idiomas, adaptándose al tono y estilo requeridos por el usuario.",
+        "tags": "#GeneraciónDeContenido #ProcesamientoDeLenguajeNatural #InteligenciaArtificial",
+        "logo_filename": "id_215_jasper",
+        "what_is": "Jasper AI es una plataforma de inteligencia artificial diseñada para asistir en la creación de contenido escrito de alta calidad. Utiliza algoritmos avanzados de procesamiento de lenguaje natural y aprendizaje automático para generar textos que emulan la escritura humana, adaptándose a diversos estilos y tonos según las necesidades del usuario.",
+        "purpose": "Jasper AI está orientado a profesionales del marketing, redactores, bloggers y cualquier persona que requiera producir contenido escrito de manera eficiente. La herramienta facilita la redacción de artículos, publicaciones en blogs, correos electrónicos, descripciones de productos y otros tipos de contenido, optimizando el proceso creativo y ahorrando tiempo en la generación de textos persuasivos y coherentes.",
+        "use_cases": "Marketing de Contenidos: Empresas y agencias de marketing emplean Jasper AI para producir artículos y publicaciones en blogs que atraen y retienen a su audiencia, mejorando su presencia en línea y estrategias de SEO. \n\nE-commerce: Tiendas en línea utilizan la herramienta para generar descripciones de productos atractivas y optimizadas, facilitando la creación de contenido que impulsa las ventas y mejora la experiencia del cliente. \n\nComunicación Corporativa: Organizaciones aprovechan Jasper AI para redactar comunicados de prensa, boletines informativos y correos electrónicos internos, asegurando una comunicación clara y efectiva. ",
+        "main_advantages": "Ahorro de Tiempo: Jasper AI permite generar contenido rápidamente, liberando tiempo para que los usuarios se concentren en otras tareas estratégicas. \n\nMejora de la Calidad del Contenido: La herramienta produce textos coherentes y atractivos, elevando la calidad general del contenido y manteniendo la consistencia en el tono y estilo. \n\nOptimización para SEO: Jasper AI ayuda a mejorar el posicionamiento en motores de búsqueda mediante la generación de títulos optimizados, meta descripciones y palabras clave relevantes.",
+        "long_description": "Jasper AI es una plataforma de inteligencia artificial diseñada para asistir en la creación de contenido escrito de alta calidad. Utiliza modelos avanzados de lenguaje natural para generar textos coherentes y relevantes en múltiples idiomas, adaptándose al tono y estilo requeridos por el usuario. La herramienta es especialmente útil para profesionales del marketing, redactores y empresas que buscan optimizar su proceso de creación de contenido, permitiendo la generación de artículos, publicaciones en blogs, correos electrónicos, descripciones de productos y más, de manera eficiente y efectiva. \n",
+        "release_date": "2021",
+        "developer": "Jasper AI fue desarrollado por Dave Rogenmoser, John Hillip Morgan y Chris Hull.",
+        "main_model": "Jasper AI utiliza modelos de lenguaje natural avanzados, incluyendo GPT-4, para generar contenido escrito.",
+        "pricing_plans": "Creator: $39 USD por usuario al mes, incluye 1 voz de marca, acceso a Jasper Chat, modo SEO y extensión para navegador.\n\nPro: $59 USD por usuario al mes, incluye todas las características del plan Creator, más 3 voces de marca, 10 activos de conocimiento, 3 campañas instantáneas, colaboración y herramientas de generación y edición de imágenes AI.\n\nBusiness: Precio personalizado, incluye todas las características del plan Pro, más uso ilimitado de funciones, flujos de trabajo y aplicaciones personalizadas, análisis de rendimiento, guías de estilo personalizadas y soporte premium. Todos los planes ofrecen una prueba gratuita de 7 días.",
+        "license": "Propietario",
+        "security_privacy": "Jasper AI se compromete a proteger la información de sus usuarios y cumple con las regulaciones de privacidad aplicables. Para obtener detalles específicos sobre sus políticas de privacidad y medidas de seguridad, se recomienda consultar su política de privacidad en el sitio web oficial.",
+        "integration": "Jasper AI ofrece integraciones con diversas herramientas y plataformas de marketing digital, facilitando la gestión y análisis de campañas de influencers en múltiples canales. Para información detallada sobre las integraciones disponibles, se sugiere visitar el sitio web oficial de Jasper AI. \n\nJasper AI se posiciona como una solución eficaz para quienes buscan optimizar la creación de contenido escrito, ofreciendo herramientas que agilizan el proceso y garantizan resultados de alta calidad."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Cómo el contenido impulsado por IA le da a Cushman & Wakefield una ventaja competitiva",
+          "description": "Cushman & Wakefield, una destacada firma global de servicios inmobiliarios comerciales, implementó Jasper AI para optimizar la creación de contenido en sus equipos de marketing, comunicaciones e investigación. Anteriormente, la preparación manual de más de 1,700 informes anuales consumía alrededor de 10,000 horas. Con la integración de Jasper AI, la empresa logró:\n\nAhorro de Tiempo: Reducción del 50% en el tiempo dedicado a generar eslóganes y redactar contenido para sitios web.\n\nAumento de la Productividad: Liberación de miles de horas anuales, permitiendo al equipo enfocarse en estrategias y resultados.\n\nMejora en la Creatividad: Superación de bloqueos creativos mediante sugerencias innovadoras proporcionadas por la plataforma.\n\nLa implementación de Jasper AI permitió a Cushman & Wakefield personalizar el uso de la inteligencia artificial según sus necesidades específicas, otorgándoles una ventaja competitiva en la creación de contenido narrativo estándar en diversos ámbitos. Esto potenció las capacidades de sus expertos en marketing, comunicación e investigación a nivel global.",
+          "url": "https://www.jasper.ai/case-studies/cushman-wakefield"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Aumento de la productividad y la personalización en WalkMe with Jasper",
+          "description": "WalkMe, una destacada empresa de software como servicio (SaaS), enfrentaba el desafío de escalar la creación de contenido manteniendo la autenticidad y consistencia de su marca. Al integrar Jasper en sus procesos, lograron:\n\nAhorro de Tiempo: Más de 3,000 horas anuales en la creación de contenido.\n\nIncremento en la Productividad: Triplicaron la cantidad de contenido producido.\n\nMejora en la Personalización: Aumentaron 2.5 veces las tasas de respuesta en campañas de prospección.\n\nJasper permitió al equipo de marketing de WalkMe generar contenido de manera más rápida y coherente, asegurando que la voz y el estilo de la marca se mantuvieran uniformes en todas las plataformas. Además, la herramienta facilitó la investigación y personalización de comunicaciones, mejorando la eficacia de las campañas de ventas y marketing.",
+          "url": "https://www.jasper.ai/case-studies/walkme"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://youtu.be/eVkoo5av8vs?t=335"
+        },
+        {
+          "source_url": "https://aitoolslist.io/best-ai-copywriting-tools/"
+        },
+        {
+          "source_url": "https://inteligenciaartificialai.com/jasper-ai-que-es-y-como-funciona/"
+        },
+        {
+          "source_url": "https://copyson.com/blog/revision-jasper/"
+        },
+        {
+          "source_url": "https://intelarter.com/jasper-ai/"
+        },
+        {
+          "source_url": "https://www.jasper.ai/customer-stories"
+        },
+        {
+          "source_url": "https://www.jasper.ai/pricing"
+        },
+        {
+          "source_url": "https://www.jasper.ai/security"
+        }
+      ]
+    },
+    "298": {
+      "app": {
+        "id": "298",
+        "name": "InspireAI",
+        "url": "https://www.theinspireai.com/",
+        "short_description": "Convierte tus conocimientos en un flujo constante de contenido atractivo y consciente de las tendencias con un escritor fantasma personal de IA.",
+        "category": "Automatización",
+        "main_functionality": "Automatiza la generación de contenido personalizado que refleja la voz y el conocimiento únicos del usuario, permitiendo una presencia digital coherente y efectiva.",
+        "tags": "#AutomatizaciónDeContenido #IA #MarketingDigital",
+        "logo_filename": "id_298_inspire",
+        "what_is": "Inspire AI es una herramienta de inteligencia artificial diseñada para generar contenido digital personalizado, optimizando la presencia en línea de profesionales y líderes de opinión. Facilita la creación de textos que reflejan el estilo y conocimiento del usuario, ahorrando tiempo y esfuerzo en la gestión de contenido.",
+        "purpose": "La aplicación ayuda a profesionales y empresas a mantener una presencia constante y atractiva en redes sociales y plataformas digitales mediante la generación automática de contenido. Es ideal para quienes buscan mejorar su alcance, interacción y autenticidad en medios digitales.",
+        "use_cases": "Marketing Personal: Creación de publicaciones en redes sociales alineadas con la marca personal.\nGestión de Contenido Empresarial: Generación de blogs, anuncios y contenido promocional para pequeñas empresas.\nAsesoramiento Profesional: Ofrecimiento de citas motivacionales personalizadas para mejorar la comunicación con audiencias.\nPresencia Digital Constante: Automatización de publicaciones en plataformas como LinkedIn, Instagram y Twitter.",
+        "main_advantages": "Eficiencia: Ahorra tiempo al automatizar la creación de contenido.\nPersonalización: Adapta los textos al estilo único del usuario.\nEscalabilidad: Útil tanto para individuos como para equipos que buscan gestionar múltiples canales.\nConsistencia: Garantiza una presencia digital constante sin interrupciones.\nAccesibilidad: Su interfaz es amigable y fácil de usar.",
+        "long_description": "Inspire AI es una aplicación impulsada por inteligencia artificial que actúa como un asistente personal para la creación de contenido, especialmente diseñada para líderes de opinión, ejecutivos y profesionales. Utiliza tecnología avanzada para generar contenido de alta calidad y personalizado que refleja la voz y experiencia únicas del usuario, facilitando una presencia digital auténtica y atractiva.",
+        "release_date": "Octubre 2024",
+        "developer": "AI Chat Visions LLC.",
+        "main_model": "No disponible.",
+        "pricing_plans": "Ofrece una versión gratuita con compras dentro de la aplicación, incluyendo planes mensuales y anuales.",
+        "license": "Propietario",
+        "security_privacy": "La aplicación puede recopilar datos como información personal, fotos, videos y otros, los cuales se encriptan durante la transmisión. Los usuarios tienen la opción de solicitar la eliminación de sus datos.",
+        "integration": "Inspire AI facilita la creación y gestión de contenido directamente desde dispositivos móviles, permitiendo a los usuarios mantener una presencia digital constante y efectiva."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.theinspireai.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=harvard-students-build-ai-spy-glasses"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/inspire-ai/"
+        },
+        {
+          "source_url": "https://apps.apple.com/us/app/inspire-ai-daily-motivation/id6450937788"
+        },
+        {
+          "source_url": "https://play.google.com/store/apps/details?id=com.panscience.inspireai&hl=en-US"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/inspire-ai-2/launches"
+        },
+        {
+          "source_url": "https://www.theinspireai.com/blog"
+        },
+        {
+          "source_url": "https://www.theinspireai.com/privacypolicy"
+        }
+      ]
+    },
+    "335": {
+      "app": {
+        "id": "335",
+        "name": "Jupitrr",
+        "url": "https://jupitrr.com/",
+        "short_description": "Plataforma impulsada por inteligencia artificial que automatiza la generación de B-rolls y subtítulos para videos, facilitando la creación de contenido atractivo y profesional.",
+        "category": "Edición de video",
+        "main_functionality": "Automatiza la creación de B-rolls contextuales y subtítulos animados en múltiples idiomas, optimizando el proceso de edición de videos para creadores de contenido.",
+        "tags": "#AIVideoMaker #BrollGeneration #VideoEditing #ContentCreation #AutoSubtitles",
+        "logo_filename": "id_335_jupitrr",
+        "what_is": "Jupitrr es una plataforma de creación de videos impulsada por inteligencia artificial que permite a los creadores de contenido generar B-rolls contextuales y subtítulos animados de manera automatizada. Facilita la producción de videos profesionales al simplificar tareas de edición complejas.",
+        "purpose": "Jupitrr está diseñada para ayudar a creadores de contenido, educadores y profesionales del marketing a enriquecer sus videos mediante la incorporación automática de B-rolls relevantes, imágenes de stock, GIFs y superposiciones de texto. Además, permite convertir grabaciones de audio en videos atractivos, optimizando la creación de contenido para diversas plataformas.",
+        "use_cases": "Creación de Contenido Educativo: Transforma grabaciones de lecciones en videos dinámicos con material de apoyo visual generado automáticamente.\nMarketing en Redes Sociales: Produce videos promocionales con elementos visuales atractivos para aumentar el compromiso en plataformas como Instagram y TikTok.\nPodcasts Visuales: Convierte episodios de podcasts en videos con subtítulos y B-rolls que mejoran la experiencia del espectador.\nPresentaciones Corporativas: Elabora presentaciones en video más dinámicas y profesionales mediante la adición de B-rolls y gráficos relevantes.",
+        "main_advantages": "Ahorro de Tiempo: Automatiza la generación de elementos visuales, reduciendo significativamente el tiempo de edición.\nFacilidad de Uso: Interfaz intuitiva que no requiere habilidades avanzadas de edición de video.\nVersatilidad: Soporta múltiples formatos de exportación y es adecuado para diversas plataformas de contenido.\nAccesibilidad: Ofrece planes gratuitos y de pago, adaptándose a diferentes necesidades y presupuestos.",
+        "long_description": "Jupitrr es una herramienta avanzada impulsada por inteligencia artificial diseñada para la creación de contenido audiovisual profesional. Automatiza tareas complejas de edición de video, como la generación de B-rolls relevantes y subtítulos animados en varios idiomas. Además, permite a los creadores de contenido transformar audios o ideas en videos dinámicos con gráficos y superposiciones contextuales, optimizando su atractivo visual para plataformas digitales. Su interfaz amigable y funcionalidades automatizadas la hacen una opción ideal para quienes buscan producir contenido atractivo sin necesidad de habilidades técnicas avanzadas en edición.",
+        "release_date": "Noviembre 2021",
+        "developer": "Jupitrr Inc.",
+        "main_model": "Jupitrr utiliza algoritmos de inteligencia artificial para análisis de contenido y generación de video, aunque no se especifican detalles sobre el modelo exacto empleado.",
+        "pricing_plans": "Gratuito: Acceso limitado a las funcionalidades básicas, ideal para nuevos usuarios que deseen explorar la herramienta.\nPremium: Acceso completo a todas las funciones, con opciones de pago mensual o anual adaptadas a las necesidades de creadores profesionales.",
+        "license": "Propietaria",
+        "security_privacy": "Jupitrr garantiza la protección de los datos del usuario al cumplir con regulaciones internacionales como el GDPR. Ofrece un entorno seguro para la creación y almacenamiento de contenido audiovisual, asegurando la privacidad de los proyectos.",
+        "integration": "La plataforma permite la exportación en formatos estándar de la industria, facilitando su uso en otras herramientas de edición de video y plataformas de gestión de contenido como YouTube, Instagram, y TikTok."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/jupitrr"
+        },
+        {
+          "source_url": "https://jupitrr.com/"
+        },
+        {
+          "source_url": "https://vivevirtual.es/inteligencia-artificial/video-generativo/jupitrr-ai-video-maker/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/jupitrr/launches"
+        },
+        {
+          "source_url": "https://learnwirepro.com/jupitrr-review/"
+        },
+        {
+          "source_url": "https://jupitrr.com/pricing?source=header"
+        },
+        {
+          "source_url": "https://jupitrr.com/privacy-policy?source=footer"
+        }
+      ]
+    },
+    "490": {
+      "app": {
+        "id": "490",
+        "name": "Jellypod",
+        "url": "https://jellypod.ai/",
+        "short_description": "Crea, edita y publica podcasts sobre cualquier tema en cuestión de minutos con anfitriones de IA personalizables.",
+        "category": "Podcasting",
+        "main_functionality": "Transforma automáticamente el contenido de tus newsletters en formato de audio, creando podcasts personalizados que puedes escuchar en cualquier momento, facilitando el consumo de información sin necesidad de leer.",
+        "tags": "#TextoAVoz #PodcastPersonalizado #InteligenciaArtificial #Productividad #LecturaAutomatizada",
+        "logo_filename": "id_490_jellypod",
+        "what_is": "Jellypod es una aplicación de inteligencia artificial que convierte boletines de correo electrónico en podcasts personalizados. Permite escuchar tus newsletters favoritas en formato de audio, ofreciendo una alternativa práctica para consumir información.",
+        "purpose": "Sirve para transformar contenido textual, como newsletters, en podcasts personalizados que pueden ser reproducidos en cualquier momento, facilitando el acceso a información mientras realizas otras actividades.",
+        "use_cases": "Profesionales ocupados: Escuchar actualizaciones diarias o semanales de newsletters mientras conducen o realizan otras tareas.\nEstudiantes: Convertir contenido educativo en audio para estudiar en cualquier lugar.\nPersonas con problemas de visión: Acceso a contenido textual de manera auditiva.\nUsuarios multitarea: Escuchar noticias o boletines mientras realizan actividades cotidianas.\nConsumidores de noticias: Estar al día con el contenido de interés sin necesidad de leer.",
+        "main_advantages": "Ahorro de tiempo: Permite consumir información sin necesidad de leer directamente.\nPersonalización: Crea podcasts adaptados a los intereses del usuario.\nMultitarea: Ideal para consumir contenido mientras se realizan otras actividades.\nAccesibilidad: Beneficia a personas con discapacidad visual o dificultades para leer.\nVersatilidad: Compatible con diversos tipos de newsletters y formatos de contenido.",
+        "long_description": "Jellypod es una plataforma impulsada por inteligencia artificial que permite a los usuarios crear, editar y publicar podcasts personalizados de manera eficiente. Ofrece funcionalidades como la personalización de voces, integración de diversas fuentes de contenido y generación de episodios guiados por esquemas, facilitando la producción de podcasts de alta calidad sin necesidad de equipos de grabación tradicionales.",
+        "release_date": "Enero 2024",
+        "developer": "Jellypod, Inc.\n\n",
+        "main_model": "Jellypod utiliza modelos de inteligencia artificial patentados para la generación de contenido de audio y personalización de voces.",
+        "pricing_plans": "Basic (Gratis): 1,000 créditos, episodios y series ilimitadas, una clonación de voz.\nStarter ($29/mes): 2,500 créditos/mes, 2 clonaciones de voz, distribución a plataformas.\nCreator ($59/mes): 8,000 créditos/mes, 4 clonaciones y diseños de voz.\nBusiness ($200/mes): 20,000 créditos/mes, 8 clonaciones de voz, soporte prioritario.",
+        "license": "No disponible",
+        "security_privacy": "Jellypod prioriza la privacidad del usuario y la seguridad de los datos. Toda la información se mantiene segura y encriptada, siendo accesible únicamente por el usuario. Para más detalles, se sugiere consultar la política de privacidad en su sitio web.",
+        "integration": "Jellypod permite la integración de diversas fuentes de contenido, como URLs, PDFs y otros tipos de datos, facilitando la creación de podcasts con información actualizada y relevante. Además, ofrece opciones de publicación directa a plataformas como Spotify, RSS y descarga en formato MP3."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://jellypod.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=the-best-gadgets-of-ces-day-two"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/jellypod"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/jellypod"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/jellypod/"
+        },
+        {
+          "source_url": "https://apps.apple.com/es/app/jellypod-ai-text-to-speech/id6468321270"
+        },
+        {
+          "source_url": "https://www.theinsaneapp.com/tools/jellypod/"
+        },
+        {
+          "source_url": "https://www.aitoolnet.com/es/jellypod"
+        },
+        {
+          "source_url": "https://jellypod.ai/use-cases"
+        },
+        {
+          "source_url": "https://www.nextool.ai/es/tools/jellypod"
+        },
+        {
+          "source_url": "https://gptzone.net/aplicaciones-ia/jellypod/"
+        }
+      ]
+    },
+    "584": {
+      "app": {
+        "id": "584",
+        "name": "Infography",
+        "url": "https://infography.in/",
+        "short_description": "Convierte publicaciones de blog complejas en infografías visualmente atractivas que simplifiquen la información, aumenten la participación y disparen las acciones.",
+        "category": "Generación de diseño",
+        "main_functionality": "Transforma automáticamente el contenido de blogs en infografías visualmente atractivas, personalizables en texto, colores y más, utilizando inteligencia artificial.",
+        "tags": "#GeneraciónDeInfografías #InteligenciaArtificial #MarketingDeContenido",
+        "logo_filename": "id_584_infography",
+        "what_is": "Infography es una herramienta impulsada por inteligencia artificial que convierte automáticamente publicaciones de blogs y otros contenidos escritos en infografías atractivas y fáciles de compartir. Simplifica la creación de elementos visuales diseñados para aumentar la interacción y el alcance del contenido.",
+        "purpose": "Sirve para mejorar la presentación de contenido escrito mediante la generación de elementos visuales impactantes. Es ideal para profesionales de marketing, creadores de contenido y educadores que deseen resumir información de manera efectiva y atractiva para compartir en redes sociales, blogs o presentaciones.",
+        "use_cases": "Transformar artículos de blog en infografías para redes sociales.\nResumir datos complejos o estadísticas en formatos visuales.\nCrear contenido educativo visual para presentaciones y capacitaciones.\nDiseñar recursos promocionales visuales para campañas de marketing digital.\nAumentar la interacción y retención de información en publicaciones de contenido escrito.",
+        "main_advantages": "Automatiza la conversión de texto a gráficos, ahorrando tiempo y esfuerzo.\nOfrece opciones de personalización para adaptar los elementos visuales al branding de la empresa.\nMejora la retención y comprensión de la información mediante el uso de representaciones gráficas.\nGenera contenido visual de calidad profesional sin necesidad de habilidades avanzadas en diseño gráfico.\nCompatible con múltiples formatos para compartir en redes sociales, blogs y presentaciones.",
+        "long_description": "Infography es una herramienta en línea que utiliza inteligencia artificial para transformar publicaciones de blogs en infografías visualmente atractivas y fáciles de compartir. La plataforma permite a los usuarios personalizar el texto, los colores y otros elementos de diseño para crear infografías que simplifican la información y aumentan la participación del público.",
+        "release_date": "Septiembre 2024",
+        "developer": "No disponible",
+        "main_model": "Infography utiliza el modelo GPT-4o-mini para sus funciones de inteligencia artificial, optimizado para la generación de contenido visual a partir de texto.",
+        "pricing_plans": "Lite: $15.00/mes, incluye 50 créditos de IA, soporte para más de 130 idiomas, marca de agua personalizada, soporte por correo electrónico y actualizaciones de por vida.\nPro: $30.00/mes, incluye 250 créditos de IA, soporte para más de 130 idiomas, marca de agua personalizada, hasta 5 usuarios, soporte prioritario por correo electrónico y actualizaciones de por vida.",
+        "license": "Propietaria",
+        "security_privacy": "La Política de Privacidad de Infography detalla la recopilación y uso de datos personales, incluyendo direcciones de correo electrónico y contenido de blogs proporcionados por los usuarios. La información se almacena en MongoDB y la aplicación está alojada en Vercel, ambos conformes a protocolos de seguridad estándar. Se emplea el modelo GPT-4o-mini para el procesamiento del lenguaje. Aunque se implementan medidas razonables de seguridad, se reconoce que ninguna transmisión por Internet es completamente segura. Los usuarios tienen derecho a acceder, corregir o eliminar su información personal.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://infography.in/?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-s-funding-dilemma"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/infography"
+        },
+        {
+          "source_url": "https://infography.in/privacy-policy"
+        }
+      ]
+    },
+    "632": {
+      "app": {
+        "id": "632",
+        "name": "Infuzu",
+        "url": "https://infuzu.com/",
+        "short_description": "Utilice una única plataforma que reúna todos los modelos de IA de mayor rendimiento y encuentre automáticamente el mejor para cada solicitud.",
+        "category": "Automatización",
+        "main_functionality": "Selección automática del modelo de lenguaje más adecuado para cada tarea del usuario.\n\n",
+        "tags": "#ProcesamientoDelLenguajeNatural #SelecciónDeModelos #IMS",
+        "logo_filename": "id_632_infuzu",
+        "what_is": "Infuzu es una aplicación de inteligencia artificial que emplea la Selección Inteligente de Modelos (IMS) para identificar automáticamente el modelo de lenguaje más adecuado para cada solicitud del usuario. Esta plataforma unifica los principales modelos de lenguaje, ofreciendo respuestas de alta calidad sin necesidad de suscripciones adicionales ni configuraciones complicadas.",
+        "purpose": "Infuzu está diseñada para optimizar diversas tareas mediante la selección del modelo de lenguaje más apropiado. Ya sea redactando correos electrónicos, analizando imágenes o escribiendo código, Infuzu adapta sus respuestas a las necesidades específicas del usuario, garantizando resultados precisos y confiables.",
+        "use_cases": "Redacción de correos electrónicos: Genera textos coherentes y bien estructurados para comunicaciones profesionales o personales.\n\nAnálisis de imágenes: Interpreta y proporciona información detallada sobre contenido visual, facilitando tareas de reconocimiento y descripción de imágenes.\n\nDesarrollo de código: Asiste en la escritura y depuración de código en diversos lenguajes de programación, mejorando la eficiencia en el desarrollo de software.",
+        "main_advantages": "Optimización automática: La IMS selecciona el modelo de lenguaje más adecuado para cada tarea, asegurando respuestas de alta calidad.\n\nPlataforma unificada: Acceso a múltiples modelos de lenguaje líderes sin la necesidad de gestionar varias suscripciones o configuraciones.\n\nAdaptabilidad: Se ajusta a diversas necesidades del usuario, desde la redacción de textos hasta el análisis de contenido visual y desarrollo de software.\n\nInterfaz sencilla y segura: Ofrece una experiencia de usuario intuitiva, garantizando la seguridad en el manejo de datos.",
+        "long_description": "Infuzu es una aplicación de inteligencia artificial que emplea la Selección Inteligente de Modelos (IMS) para identificar automáticamente el modelo de lenguaje más adecuado para cada solicitud del usuario. Esta plataforma unifica los principales modelos de lenguaje, ofreciendo respuestas de alta calidad sin necesidad de suscripciones adicionales ni configuraciones complicadas. Ya sea redactando correos electrónicos, analizando imágenes o escribiendo código, Infuzu adapta sus respuestas a las necesidades específicas del usuario, garantizando resultados precisos y confiables.",
+        "release_date": "Enero 2025",
+        "developer": "Infuzu es desarrollado por un equipo liderado por George Shumilkin y Yidi Sprei.",
+        "main_model": "Infuzu utiliza la Selección Inteligente de Modelos (IMS) para determinar el modelo de lenguaje más adecuado para cada tarea. Sin embargo, no se dispone de información detallada sobre los modelos o algoritmos específicos empleados.",
+        "pricing_plans": "Plus: $32 USD al mes, incluye acceso a los principales modelos de lenguaje, optimización con IMS e interfaz simple y segura.\n\nTeam: $37 USD al mes, incluye todas las características del plan Plus, límites de uso más altos, facturación unificada y soporte prioritario.\n\nEnterprise: Soluciones personalizadas para empresas, integraciones personalizadas, límites de uso adaptados, acceso a API y soporte dedicado.",
+        "license": "No disponible",
+        "security_privacy": "La Política de Privacidad de Infuzu (vigente desde enero de 2025) protege datos personales y de uso de manera segura. Los puntos clave incluyen:\n\nHistorial de Chats: Almacenado para revisión; el usuario puede eliminarlo.\nDatos de Decisión: Recolectados anónimamente para mejorar el servicio, no eliminables.\nInformación Personal y de Pago: Gestionada de forma segura; los pagos son procesados por Stripe.\nCookies y Analíticas: Usan cookies y Google Analytics de manera anónima.\nCumplimiento Normativo: Adherencia a GDPR, CCPA/CPRA y estándares HIPAA (sector salud).",
+        "integration": "Infuzu ofrece soluciones personalizadas para empresas, incluyendo integraciones personalizadas y acceso a API. No obstante, no se especifican las herramientas o servicios con los que es compatible."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://infuzu.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=deepseek-s-r1-stuns-silicon-valley"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/infuzu-chat"
+        },
+        {
+          "source_url": "https://infuzu.com/privacy"
+        }
+      ]
+    },
+    "664": {
+      "app": {
+        "id": "664",
+        "name": "Jamie",
+        "url": "https://www.meetjamie.ai/",
+        "short_description": "Reciba actas de reuniones, tareas y decisiones precisas con Jamie, su tomador de notas de IA sin bots. Disfrute de la privacidad de los datos y recupere el conocimiento en segundos.",
+        "category": "Productividad",
+        "main_functionality": "Generación automática de resúmenes de reuniones, transcripciones y listas de tareas, compatible con diversas plataformas y disponible en más de 20 idiomas.",
+        "tags": "#AI #AsistenteDeReuniones #TomaDeNotas #Productividad",
+        "logo_filename": "id_664_jamie",
+        "what_is": "Jamie es un asistente de inteligencia artificial diseñado para automatizar la toma de notas en reuniones. Utiliza tecnologías avanzadas de procesamiento de lenguaje natural (PLN) para generar resúmenes detallados, transcripciones y listas de acciones clave, ayudando a mejorar la productividad y eficiencia en el trabajo colaborativo.",
+        "purpose": "Su principal función es registrar y organizar la información clave de las reuniones de manera automática, eliminando la necesidad de que los participantes tomen notas manualmente. Esto permite a los equipos centrarse en la conversación y mejorar la comunicación y el seguimiento de tareas posteriores.",
+        "use_cases": "Empresas y Equipos de Trabajo: Facilita la documentación de reuniones internas, evitando la pérdida de información clave.\nConsultores y Profesionales Independientes: Permite un seguimiento eficiente de discusiones con clientes sin necesidad de tomar notas manuales.\nEducación: Puede ser utilizado en clases o tutorías en línea para generar resúmenes automáticos.\nAtención al Cliente: Ayuda a documentar interacciones con clientes para mejorar la gestión de casos y la atención personalizada.",
+        "main_advantages": "Automatización Total: Captura y resume reuniones sin intervención manual.\nPrivacidad y Seguridad: Funciona sin necesidad de bots de grabación y con altos estándares de protección de datos.\nCompatibilidad Multiplataforma: Se integra con diversas herramientas de comunicación.\nSoporte Multilingüe: Disponible en más de 20 idiomas, facilitando su uso en equipos internacionales.\nAhorro de Tiempo: Permite a los participantes concentrarse en la reunión sin preocuparse por tomar notas.",
+        "long_description": "Jamie es una aplicación de inteligencia artificial diseñada para generar notas detalladas de reuniones de manera automática. Funciona sin la necesidad de bots de grabación y prioriza la privacidad del usuario. Es compatible con cualquier plataforma de reuniones, incluyendo reuniones en persona, y está disponible en más de 20 idiomas. Además de crear resúmenes, Jamie puede responder preguntas relacionadas con reuniones anteriores y automatizar tareas repetitivas, mejorando así la productividad de los profesionales.",
+        "release_date": "Octubre 2022",
+        "developer": "TeamTap",
+        "main_model": "Jamie utiliza modelos avanzados de inteligencia artificial, incluyendo GPT-4, Claude 3.5, Perplexity y Jamie-M, para procesar y generar resúmenes de reuniones y responder preguntas relacionadas.",
+        "pricing_plans": "Gratis: 0€ por usuario/mes. Incluye hasta 10 reuniones al mes con una duración máxima de 30 minutos por reunión y 20 mensajes del asistente por día.\n\nEstándar: 24€ por usuario/mes. Ofrece hasta 20 reuniones al mes con una duración máxima de 3 horas por reunión y 40 mensajes del asistente por día.\n\nPro: 47€ por usuario/mes. Permite hasta 50 reuniones al mes con una duración máxima de 3 horas por reunión y 100 mensajes del asistente por día.\n\nEjecutivo: 99€ por usuario/mes. Proporciona reuniones ilimitadas al mes con una duración máxima de 3 horas por reunión y mensajes del asistente ilimitados por día.",
+        "license": "Propietaria",
+        "security_privacy": "Jamie adopta un enfoque centrado en la privacidad, operando sin la necesidad de bots de grabación y asegurando que los datos de los usuarios se manejen de manera segura. La aplicación es compatible con GDPR y los datos se alojan en Europa, garantizando altos estándares de protección de datos.",
+        "integration": "Jamie es compatible con todas las plataformas de videoconferencia y también puede utilizarse en reuniones en persona. Además, ofrece funciones como reconocimiento de hablantes, detección automática de temas, detección de tareas y decisiones, y plantillas de notas personalizadas para adaptarse a los flujos de trabajo existentes de los usuarios."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.meetjamie.ai/?c=superhumanai&utm_source=superhuman&utm_medium=referral&utm_campaign=the-first-ai-civilization"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/jamie"
+        },
+        {
+          "source_url": "https://10web.io/ai-tools/jamie-ai/"
+        },
+        {
+          "source_url": "https://theresanaiforthat.com/ai/jamie/"
+        },
+        {
+          "source_url": "https://allthingsai.com/tool/jamie"
+        },
+        {
+          "source_url": "https://supertools.therundown.ai/content/jamie"
+        }
+      ]
+    },
+    "668": {
+      "app": {
+        "id": "668",
+        "name": "Jolt AI",
+        "url": "https://www.usejolt.ai/",
+        "short_description": "Un generador de código de IA para bases de código de 100k a varios millones de líneas que identifica automáticamente los archivos de contexto, maneja cambios complejos y se adapta a su estilo de código.",
+        "category": "Codificación",
+        "main_functionality": "Proporciona generación de código asistida por IA, identificación automática de archivos contextuales y manejo de cambios en múltiples archivos, adaptándose al estilo de código existente en bases de código que van desde 100,000 hasta varios millones de líneas.",
+        "tags": "#InteligenciaArtificial #DesarrolloDeSoftware #GeneraciónDeCódigo #OptimizaciónDeCódigo",
+        "logo_filename": "id_668_jolt",
+        "what_is": "Jolt AI es un asistente de inteligencia artificial especializado en el desarrollo de software, diseñado para optimizar el manejo de grandes bases de código. Utiliza modelos avanzados de IA para generar código, navegar por proyectos complejos y realizar cambios en múltiples archivos con precisión y coherencia.",
+        "purpose": "Jolt AI está diseñado para ayudar a desarrolladores e ingenieros de software a mejorar su productividad al trabajar con grandes bases de código. Facilita la generación de código asistida por IA, la navegación en proyectos de gran escala y la integración fluida con flujos de trabajo de desarrollo existentes.",
+        "use_cases": "Equipos de desarrollo de software: Mejora la eficiencia en proyectos con bases de código extensas.\nStartups tecnológicas: Agiliza el desarrollo de productos sin necesidad de un equipo grande.\nEmpresas de software empresarial: Optimiza la gestión de código en aplicaciones de gran escala.\nDesarrolladores individuales: Facilita la comprensión y navegación en bases de código complejas.",
+        "main_advantages": "Generación de código asistida por IA, adaptándose al estilo del proyecto.\nAutomatización de tareas repetitivas, reduciendo el tiempo de desarrollo.\nOptimización en la navegación y búsqueda de archivos relevantes en grandes bases de código.\nIntegración con entornos de desarrollo, facilitando la adopción en equipos de software.\nMejora en la colaboración, permitiendo que varios desarrolladores trabajen de manera más eficiente en proyectos extensos.",
+        "long_description": "Jolt AI es una herramienta avanzada de inteligencia artificial diseñada para asistir en el desarrollo de software, especialmente en bases de código que superan las 100,000 líneas. La aplicación permite a los desarrolladores delegar tareas a la IA, que es capaz de escribir más del 80% del código necesario para una tarea, manejar cambios en más de 10 archivos y generar más de 1,000 líneas de código en una sola asignación. La herramienta se integra con los entornos de desarrollo integrados (IDEs) favoritos de los desarrolladores, permitiendo la escritura de nuevas funciones, pruebas, correcciones de errores y más, reduciendo el tiempo dedicado a una tarea en un 50%.",
+        "release_date": "Enero 2025",
+        "developer": "PRL Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "No disponible",
+        "license": "Propietaria",
+        "security_privacy": "Jolt AI cumple con la certificación SOC II Tipo 2, asegurando que la aplicación sigue prácticas rigurosas de seguridad y privacidad de datos.",
+        "integration": "Jolt AI se integra con los entornos de desarrollo integrados (IDEs) más utilizados por los desarrolladores, facilitando su incorporación en los flujos de trabajo existentes."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.usejolt.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-in-line-to-get-funding-boost"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/jolt-ai"
+        },
+        {
+          "source_url": "https://webflow.com/made-in-webflow/website/jolt-ai"
+        },
+        {
+          "source_url": "https://www.crunchbase.com/organization/multiple"
+        },
+        {
+          "source_url": "https://fmerian.medium.com/how-jolt-ai-launched-on-product-hunt-2bf5fe65b0e1?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://www.aibase.com/tool/35888"
+        }
+      ]
+    },
+    "672": {
+      "app": {
+        "id": "672",
+        "name": "InterviewSpark",
+        "url": "https://interviewspark.io/",
+        "short_description": "Ofrece un entrenador de entrevistas impulsado por IA que proporciona simulaciones realistas, retroalimentación instantánea y métricas de rendimiento para mejorar las habilidades de los candidatos.",
+        "category": "Reclutamiento",
+        "main_functionality": "Simulaciones de entrevistas con retroalimentación en tiempo real, utilizando una base de datos de más de 1,000 preguntas para una preparación integral.",
+        "tags": "#PreparaciónDeEntrevistas #EntrenadorDeEntrevistas #IA #SimuladorDeEntrevistas",
+        "logo_filename": "id_672_interview_spark",
+        "what_is": "InterviewSpark es una plataforma impulsada por inteligencia artificial que ayuda a los candidatos a prepararse para entrevistas de trabajo a través de simulaciones interactivas y personalizadas. Utiliza IA para proporcionar preguntas, analizar respuestas y ofrecer retroalimentación detallada en tiempo real.",
+        "purpose": "Su propósito principal es mejorar las habilidades de los aspirantes a un empleo mediante entrevistas simuladas que replican experiencias reales. Proporciona evaluaciones instantáneas y métricas de rendimiento para ayudar a los usuarios a perfeccionar sus respuestas y aumentar su confianza.",
+        "use_cases": "Candidatos en búsqueda de empleo: Mejora la preparación para entrevistas técnicas y de comportamiento.\nEstudiantes y recién graduados: Facilita la práctica de entrevistas para su primer empleo.\nProfesionales en transición de carrera: Ayuda a adaptarse a nuevas industrias con preguntas especializadas.\nEmpresas y reclutadores: Puede utilizarse para evaluar candidatos antes de entrevistas reales.",
+        "main_advantages": "Simulación realista de entrevistas con preguntas adaptadas a la industria y rol.\nRetroalimentación en tiempo real para mejorar respuestas y desempeño.\nAcceso a más de 1,000 preguntas de entrevistas en diversas áreas.\nAnálisis de métricas de desempeño para identificar fortalezas y áreas de mejora.\nInterfaz interactiva y fácil de usar para una experiencia personalizada.",
+        "long_description": "InterviewSpark es una plataforma de aprendizaje en línea impulsada por inteligencia artificial, diseñada para ayudar a los candidatos a prepararse para entrevistas de trabajo a través de simulaciones interactivas y personalizadas. La aplicación ofrece un entrenador de entrevistas que utiliza una base de datos de más de 1,000 preguntas, permitiendo a los usuarios practicar en tiempo real y recibir retroalimentación instantánea. Además, proporciona métricas de rendimiento para monitorear el progreso y áreas de mejora.",
+        "release_date": "2023",
+        "developer": "La plataforma utiliza inteligencia artificial, aprendizaje automático y procesamiento de lenguaje natural para proporcionar simulaciones de entrevistas y retroalimentación personalizada.",
+        "main_model": "La plataforma utiliza inteligencia artificial, aprendizaje automático y procesamiento de lenguaje natural para proporcionar simulaciones de entrevistas y retroalimentación personalizada.",
+        "pricing_plans": "InterviewSpark ofrece un modelo de suscripción con diferentes niveles de acceso. Aunque no se especifican los detalles exactos de los planes en la información disponible, se menciona que la plataforma tiene una versión gratuita con funciones limitadas y una versión premium con acceso completo a todas las características. \n",
+        "license": "Propietaria",
+        "security_privacy": "No disponible",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/interviewspark"
+        },
+        {
+          "source_url": "https://interviewspark.io/?via=aitoolsdirectory-com"
+        },
+        {
+          "source_url": "https://allthingsai.com/tool/interviewspark"
+        },
+        {
+          "source_url": "https://appsumo.com/products/interviewspark/?srsltid=AfmBOoo8kYySgYoGSpPAJkP14cpeA7oMkzZx2ko1lVtj39rRlz5ZOmQJ"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/interviewspark"
+        },
+        {
+          "source_url": "https://creati.ai/ai-tools/interviewspark/"
+        },
+        {
+          "source_url": "https://easywithai.com/ai-communication-tools/interviewspark/"
+        },
+        {
+          "source_url": "https://startupanz.com/interviewspark-your-personal-ai-interview-coach/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://theresanaiforthat.com/ai/interviewspark/"
+        }
+      ]
+    },
+    "686": {
+      "app": {
+        "id": "686",
+        "name": "Jace AI",
+        "url": "https://jace.ai/",
+        "short_description": "Asistente de correo electrónico impulsado por IA que redacta respuestas y programa reuniones analizando correos, calendarios, web y archivos.",
+        "category": "Automatización",
+        "main_functionality": "Automatización de la gestión de correos electrónicos y programación de reuniones mediante inteligencia artificial.",
+        "tags": "#AsistenteDeCorreo #Automatización #InteligenciaArtificial",
+        "logo_filename": "id_686_jace",
+        "what_is": "Jace AI es un asistente de inteligencia artificial diseñado para mejorar la gestión del correo electrónico. Utiliza modelos avanzados de procesamiento del lenguaje natural para analizar correos, sugerir respuestas y organizar reuniones de manera eficiente.",
+        "purpose": "Su propósito principal es optimizar la comunicación por correo electrónico mediante la automatización de tareas repetitivas como la redacción de respuestas, la priorización de mensajes y la programación de eventos en el calendario.",
+        "use_cases": "Profesionales que reciben un alto volumen de correos y necesitan respuestas rápidas y precisas.\nEquipos de ventas y atención al cliente que deben gestionar múltiples conversaciones simultáneamente.\nEjecutivos y asistentes que organizan reuniones con diferentes participantes.\nUsuarios que buscan mejorar su productividad reduciendo el tiempo dedicado a gestionar su bandeja de entrada.",
+        "main_advantages": "Ahorro de tiempo en la gestión de correos electrónicos.\nRespuestas más rápidas y contextuales basadas en la conversación.\nIntegración con calendarios y herramientas de productividad.\nAutomatización de tareas repetitivas, permitiendo mayor enfoque en actividades estratégicas.",
+        "long_description": "Jace AI es un asistente de correo electrónico potenciado por inteligencia artificial que busca mejorar la eficiencia en la gestión de correos electrónicos. Sus principales características incluyen:​\n\nRedacción Inteligente de Correos: Genera borradores de correos electrónicos que reflejan el estilo personal del usuario, basándose en correos anteriores y reglas definidas.​\nProgramación Inteligente: Automatiza la programación de reuniones al establecer reglas de disponibilidad, integrándose con calendarios para gestionar citas sin intervención manual.​\nInteligencia en Correos: Permite interactuar con los correos electrónicos, consultar tareas pendientes y recuperar archivos o mensajes específicos mediante comandos de texto o voz.",
+        "release_date": "No disponible",
+        "developer": "Zeta AI, Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "No disponible",
+        "license": "Propietaria",
+        "security_privacy": "Jace AI enfatiza la seguridad de los datos de los usuarios. Aunque no se proporcionan detalles específicos sobre las medidas implementadas, la empresa aborda preguntas frecuentes relacionadas con la seguridad de los datos en su sitio web.",
+        "integration": "Jace AI se integra con clientes de correo electrónico, como Gmail de Google Workspace, y con calendarios para facilitar la programación y gestión de correos electrónicos. "
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://jace.ai/"
+        },
+        {
+          "source_url": "https://medium.com/%40daneallist/meet-jace-ai-revolutionizing-autonomous-artificial-intelligence-agents-92fc4fa186c8"
+        },
+        {
+          "source_url": "https://www.aixploria.com/en/jace-ai-zeta-labs-ai-agent/"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/jace"
+        },
+        {
+          "source_url": "https://iaperfecta.com/jace-ai/"
+        }
+      ]
+    },
+    "787": {
+      "app": {
+        "id": "787",
+        "name": "Innovating With AI",
+        "url": "https://innovatingwithai.com/",
+        "short_description": "Acabamos de dar la bienvenida a 200 nuevos estudiantes a The AI Consultancy Project, su nuevo programa que te capacita para construir un negocio como consultor de IA. ¡Solicita acceso anticipado ahora!",
+        "category": "Educación",
+        "main_functionality": "Proporciona capacitación y recursos para que emprendedores y ejecutivos desarrollen habilidades en consultoría de IA, incluyendo estrategias de negocio, implementación de soluciones y desarrollo de productos basados en inteligencia artificial.",
+        "tags": "#ConsultoríaIA #FormaciónIA #Emprendimiento #EducaciónTecnológica #InnovaciónEmpresarial",
+        "logo_filename": "id_787_innovatingwithai",
+        "what_is": "Innovating With AI es una plataforma educativa que ofrece programas de formación para profesionales interesados en convertirse en consultores de inteligencia artificial. A través de cursos, herramientas y una comunidad de apoyo, guía a los participantes en el desarrollo de habilidades y estrategias necesarias para ofrecer servicios de consultoría en IA.",
+        "purpose": "Su propósito es capacitar a individuos para que puedan identificar oportunidades de negocio, implementar soluciones de inteligencia artificial y asesorar a empresas en la integración de tecnologías emergentes, facilitando así la transformación digital y la innovación en diversas industrias.",
+        "use_cases": "Profesionales que desean iniciar una carrera en consultoría de IA, ejecutivos que buscan integrar soluciones de inteligencia artificial en sus organizaciones, emprendedores que desean desarrollar productos basados en IA y educadores que buscan actualizar sus conocimientos en tecnologías emergentes.",
+        "main_advantages": "Acceso a una comunidad de más de 185,000 entusiastas de la IA, programas estructurados con planes de acción de seis meses, herramientas y plantillas listas para usar, y la experiencia de un equipo con más de 20 años en consultoría, startups y desarrollo de software.",
+        "long_description": "Innovating With AI es una plataforma educativa que ofrece programas de formación diseñados para capacitar a profesionales en el ámbito de la consultoría de inteligencia artificial. Su programa insignia, The AI Consultancy Project, proporciona un plan estructurado de seis meses que incluye herramientas, plantillas y estrategias para lanzar y escalar servicios de consultoría en IA. Además, ofrece recursos como el AI Incubator, enfocado en la creación y lanzamiento de productos o procesos basados en inteligencia artificial. La plataforma también brinda acceso a una comunidad activa de más de 185,000 entusiastas de la IA, facilitando el intercambio de conocimientos y experiencias.",
+        "release_date": "2024",
+        "developer": "Innovating With AI, LLC",
+        "main_model": "No disponible",
+        "pricing_plans": "Ofrece acceso anticipado a programas de formación como The AI Consultancy Project y recursos gratuitos como el No-Code AI Toolkit. Los detalles específicos sobre precios y suscripciones no están disponibles públicamente.",
+        "license": "Propietaria",
+        "security_privacy": "La plataforma respeta la privacidad de los usuarios y ofrece la opción de darse de baja en cualquier momento. No se proporciona información detallada sobre políticas de seguridad y privacidad.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://go.innovatingwithai.com/consultancy-superhuman?utm_source=superhuman&utm_medium=referral&utm_campaign=o3-s-strange-behaviors"
+        },
+        {
+          "source_url": "https://blog.superhuman.com/drive-efficiency-at-scale"
+        },
+        {
+          "source_url": "https://matador.ai/2025/03/05/superhuman-ai-humans-working-together-for-exceptional-customer-experience/"
+        }
+      ]
+    },
+    "916": {
+      "app": {
+        "id": "916",
+        "name": "iSpring Page",
+        "url": "https://www.ispringsolutions.com/ispring-page",
+        "short_description": "Herramienta en la nube que permite crear cursos online interactivos de forma rápida y sencilla, directamente desde el navegador y sin necesidad de conocimientos técnicos.",
+        "category": "Educación",
+        "main_functionality": "Desarrollo de cursos y materiales de aprendizaje en línea mediante una interfaz intuitiva, con capacidades de colaboración en tiempo real y exportación a formatos compatibles con LMS.",
+        "tags": "#eLearning #NoCode #SCORM #xAPI #Colaboración #IA #Microaprendizaje",
+        "logo_filename": "id_916_ispringpage",
+        "what_is": "iSpring Page es una plataforma de autoría de cursos en línea basada en la nube, diseñada para facilitar la creación de contenidos educativos interactivos sin requerir habilidades de programación.",
+        "purpose": "Permite a profesionales de la educación y formación desarrollar cursos, manuales y materiales de capacitación que pueden ser compartidos fácilmente o integrados en sistemas de gestión de aprendizaje (LMS).",
+        "use_cases": "Creación de cursos de inducción para nuevos empleados.\n\nDesarrollo de módulos de formación continua para equipos de ventas.\n\nDigitalización de contenidos académicos para instituciones educativas.\n\nElaboración de guías y manuales interactivos para soporte técnico.",
+        "main_advantages": "Interfaz intuitiva que reduce el tiempo de desarrollo de cursos.\n\nIntegración de inteligencia artificial para asistencia en la creación de contenido.\n\nCompatibilidad con estándares SCORM y xAPI para integración con LMS.\n\nColaboración en tiempo real entre múltiples autores.\n\nDiseño responsivo que garantiza una visualización óptima en cualquier dispositivo.",
+        "long_description": "Spring Page es una solución de autoría de cursos en línea que permite a los usuarios crear contenidos educativos interactivos directamente desde su navegador. Con una interfaz fácil de usar, los usuarios pueden copiar y pegar contenido existente, enriquecerlo con imágenes, encabezados y citas, y generar cursos compatibles con estándares SCORM y xAPI. La plataforma incluye iSpring AI, una herramienta de inteligencia artificial que asiste en la generación de ejercicios, resúmenes, traducciones y correcciones gramaticales. Además, iSpring Page facilita la colaboración en tiempo real, permitiendo que múltiples autores trabajen conjuntamente en el desarrollo de contenidos.",
+        "release_date": "No disponible",
+        "developer": "iSpring Solutions Inc.",
+        "main_model": "Utiliza inteligencia artificial para asistencia en la creación de contenido, aunque no se especifica el modelo exacto.",
+        "pricing_plans": "Individual: $39 USD/mes (facturado anualmente), incluye 1 autor, 10 GB de almacenamiento, soporte 24/7, colaboración en tiempo real y exportación a SCORM y xAPI.\n\nEquipo: $196 USD/mes (facturado anualmente), incluye 5 autores, 50 GB de almacenamiento y las mismas características que el plan individual.\n\nPlan Personalizado: Disponible para equipos con necesidades específicas.",
+        "license": "Propietaria",
+        "security_privacy": "No se especifican detalles sobre políticas de seguridad y privacidad en la información disponible.",
+        "integration": "Permite exportar cursos en formatos SCORM y xAPI, compatibles con la mayoría de los sistemas de gestión de aprendizaje (LMS)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/ispring-page"
+        },
+        {
+          "source_url": "https://www.ispringsolutions.com/ispring-page?ref=aitoolsdirectory_ispring-page&utm_source=aitoolsdirectory&utm_medium=referral&utm_campaign=ispring-page"
+        },
+        {
+          "source_url": "https://2023.expoelearning.com/ispring-suite-max/"
+        },
+        {
+          "source_url": "https://elearningindustry.com/directory/elearning-software/ispring-page"
+        },
+        {
+          "source_url": "https://www.xlsoft.com/en/products/ispring/ispring-suite-features.html"
+        },
+        {
+          "source_url": "https://www.getapp.com/education-childcare-software/a/ispring-learn/reviews/page-3/"
+        },
+        {
+          "source_url": "https://www.softwareadvice.com/microlearning/ispring-page-profile/"
+        }
+      ]
+    },
+    "948": {
+      "app": {
+        "id": "948",
+        "name": "Intellisay",
+        "url": "https://intellisay.xyz/",
+        "short_description": "Planifique y optimice eficientemente su día en 2 minutos hablando.",
+        "category": "Productividad",
+        "main_functionality": "Generación automatizada de planes diarios mediante comandos de voz, con análisis inteligente de tareas y eventos.",
+        "tags": "#Productividad #AsistenteDeVoz #PlanificaciónInteligente #IA #GestiónDeTareas",
+        "logo_filename": "id_948_intellisayai",
+        "what_is": "Intellisay es una aplicación de productividad impulsada por inteligencia artificial que permite a los usuarios planificar su día utilizando comandos de voz. La aplicación transcribe y analiza la información proporcionada verbalmente para generar una agenda diaria optimizada.",
+        "purpose": "Su propósito principal es facilitar la organización diaria de tareas y eventos, permitiendo a los usuarios ahorrar tiempo al evitar la planificación manual y ofreciendo sugerencias inteligentes basadas en hábitos y prioridades.",
+        "use_cases": "Profesionales ocupados que necesitan organizar reuniones y tareas rápidamente.\n\nEstudiantes que desean estructurar sus horarios de estudio de manera eficiente.\n\nFreelancers que manejan múltiples proyectos y buscan una herramienta de planificación ágil.",
+        "main_advantages": "Interfaz basada en voz que permite una planificación rápida y manos libres.\n\nAnálisis inteligente que prioriza tareas según hábitos y plazos.\n\nIntegración con calendarios existentes para una visión unificada del día.\n\nCapacidad de trasladar tareas no completadas al día siguiente automáticamente.",
+        "long_description": "Intellisay es una innovadora aplicación de productividad que transforma la manera en que los usuarios planifican su día. Mediante el uso de comandos de voz, los usuarios pueden describir sus tareas y eventos, y la aplicación, utilizando inteligencia artificial, transcribe y analiza esta información para generar una agenda diaria optimizada. Entre sus características destacadas se incluyen la capacidad de trasladar automáticamente tareas no completadas al día siguiente, sugerencias inteligentes basadas en hábitos y prioridades, y una interfaz intuitiva que permite una configuración rápida. Además, Intellisay está diseñada para integrarse con calendarios populares, ofreciendo una experiencia de planificación unificada.",
+        "release_date": "Febrero 2024",
+        "developer": "Nick Craux",
+        "main_model": "No disponible",
+        "pricing_plans": "Mensual: $4 USD (precio con descuento; precio original $10 USD)\n\nAcceso de por vida: $50 USD (precio con descuento; precio original $120 USD)",
+        "license": "Propietaria",
+        "security_privacy": "La información específica sobre políticas de privacidad y seguridad de datos no está detallada en la documentación disponible.",
+        "integration": "Intellisay ofrece integración con calendarios populares como Google Calendar, Microsoft Outlook y Apple Calendar, permitiendo una sincronización eficiente de las agendas del usuario.\n"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://intellisay.xyz/?utm_source=superhuman&utm_medium=referral&utm_campaign=tiktok-gets-video-gen"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/intellisay"
+        },
+        {
+          "source_url": "https://www.aitoolnet.com/intellisay"
+        },
+        {
+          "source_url": "https://www.popularaitools.ai/tools/Intellisay"
+        },
+        {
+          "source_url": "https://intellisay.xyz/privacy"
+        }
+      ]
+    },
+    "1024": {
+      "app": {
+        "id": "1024",
+        "name": "Jots",
+        "url": "https://www.daily-jots.com/",
+        "short_description": "Acelera los objetivos y mejora las habilidades con una aplicación de diario impulsada por IA.",
+        "category": "Productividad",
+        "main_functionality": "Transcripción de voz, resumen automático de entradas y chat conversacional con el diario.",
+        "tags": "#VoiceToText #AIJournal #SmartDiary #ConversationalAI",
+        "logo_filename": "id_1024_jots",
+        "what_is": "Una app móvil (iOS) y web enfocada en journaling personal potenciada por IA. Permite grabar voz, convierte las notas habladas en texto, genera resúmenes y ofrece un chat para explorar tus entradas .",
+        "purpose": "Ayuda a capturar ideas, emociones o eventos mediante dictado, ofrece resúmenes automáticos y permite reflexionar mediante consultas tipo chatbot.",
+        "use_cases": "Registro diario de pensamientos y sueño.\n\nSeguimiento de estado emocional.\n\nDiario profesional para desarrolladores (reflexión de aprendizajes).",
+        "main_advantages": "Ahorro de tiempo al dictar en lugar de escribir.\n\nFacilita el análisis emocional y de patrones con resúmenes semanales.\n\nChat para consultas sobre entradas pasadas (ej. “¿Cuál fue mi peor día?”.",
+        "long_description": "Jots permite grabar voz, transcribirla y resumir el contenido con IA. Se añaden fotos, se exporta el contenido y se recibe un digest semanal con insights de emociones y hábitos. En 2025 incluyó función de recordatorios, análisis de estado de ánimo y comandos inteligentes como /ai-prompt.",
+        "release_date": "Marzo 2025",
+        "developer": "Finn Pauls, versión iOS. GitHub y comunidad asociada al dominio daily-jots.com",
+        "main_model": "No se especifica modelo concreto; se menciona uso de IA avanzada para transcripción y resumen. Podría basarse en modelos como GPT, pero se indica “No disponible”.",
+        "pricing_plans": "App gratuita con compras dentro de la app. En App Store aparece una opción “Premium” de USD 79.99",
+        "license": "Propietario, no OSS.",
+        "security_privacy": "No se vinculan los datos a identidad personal; permite exportar entradas y garantiza la propiedad del usuario.",
+        "integration": "No se detectaron integraciones nativas; se destaca la posibilidad de exportar entradas (formato no especificado)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.daily-jots.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=elevenlabs-breakthrough-voice-model"
+        },
+        {
+          "source_url": "https://apps.apple.com/us/app/jots-ai-journal-diary/id6450964816"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/jots/forums"
+        },
+        {
+          "source_url": "https://webcatalog.io/en/apps/jots"
+        }
+      ]
+    },
+    "1084": {
+      "app": {
+        "id": "1084",
+        "name": "IntentKey Platform by Inuvo",
+        "url": "https://inuvo.com/intentkeyplatform/",
+        "short_description": "Construye, refina y activa instantáneamente audiencias impulsadas por IA, sin cookies, información en vivo, transparencia total y activación de DSP sin problemas.",
+        "category": "Marketing",
+        "main_functionality": "Creación instantánea de audiencias desde texto o URL, entrenamiento continuo de modelos, activación mediante DSP o en modo Managed Service, transparencia de conceptos, geolocalización, insights demográficos y cumplimiento de privacidad sin cookies.",
+        "tags": "#AudienceModeling #PrivacyFirstAI #RealTimeMarketing #DSPIntegration #SelfServeAI\n\n",
+        "logo_filename": "id_1084_intentkey",
+        "what_is": "Plataforma basada en la IA propietaria IntentKey de Inuvo, permite a marketers generar modelos de audiencia personalizados en tiempo real usando lenguaje natural o URL, con actualizaciones frecuentes y acceso a métricas accionables sin seguimiento de datos individuales. ",
+        "purpose": "Para diseñar campañas de publicidad digital más eficientes y precisas, sin depender de cookies o identificadores personales, mejorando la relevancia y el retorno de inversión.",
+        "use_cases": "Modelado de audiencia instantáneo mediante texto o URL\n\nActivación de audiencias via DSP o con equipo Inuvo\n\nInsights demográficos, interés e intención sin seguimiento individual\n\nActualizaciones cada cinco minutos para reflejar tendencias emergentes",
+        "main_advantages": "Opciones self‑serve y managed pour adaptación del workflow\n\nPrivacidad nativa (no necesita cookies ni datos personales)\n\nTransparencia total en los “conceptos” que definen la audiencia\n\nModelos siempre actualizados gracias a IA adaptativa",
+        "long_description": "La IntentKey Platform es el resultado de años de investigación en IA (iniciada en UCLA) y desarrollo patentado por Inuvo. Su núcleo, el modelo IntentKey, utiliza un grafo de más de 25 millones de conceptos y analiza más de un millón de URLs al día para entender la intención de la audiencia sin rastreo individual. La plataforma permite construir, entrenar y activar modelos en tiempo real, con opciones self‑serve o con servicios gestionados. ",
+        "release_date": "Febrero 2025",
+        "developer": "Inuvo, Inc., empresa de tecnología publicitaria basada en Little Rock, AR.",
+        "main_model": "IntentKey AI — modelo propietario y patentado, entrenado sobre más de 110 mil millones de páginas y actualizado diariamente con millones de URLs. Genera concept‑based audience models sin uso de datos identificables. ",
+        "pricing_plans": "Disponible en dos formatos: self‑serve para marketers/agencias; y managed services para clientes que prefieren optimización y soporte experto.",
+        "license": "Propietaria.",
+        "security_privacy": "No usa cookies ni datos personales; construye modelos basados en intenciones derivadas del contenido abierto, descartando señales personales y manteniendo cumplimiento con pautas de privacidad.",
+        "integration": "Activación flexible: se puede implementar directamente en DSPs o mediante el equipo de Inuvo. No hay mención de otras integraciones tecnológicas específicas. "
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Emerald Ebikes (iniciativa interna de Inuvo)",
+          "description": "Validó el rendimiento del platform al lanzar una línea de bicicletas eléctricas: usó los modelos generados por IA para dirigir tráfico a la tienda sin otros datos de targeting, y logró que los usuarios compraran. ",
+          "url": "https://www.adexchanger.com/ai/inuvos-new-audience-model-generator-claims-to-target-people-without-being-creepy/"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://inuvo.com/intentkeyplatform/"
+        },
+        {
+          "source_url": "https://martech360.com/tech-analytics/inuvo-unveils-self-serve-intentkey-platform-a-revolutionary-interface-for-ai-powered-audience-modeling"
+        }
+      ]
+    },
+    "1107": {
+      "app": {
+        "id": "1107",
+        "name": "Kaiber \n",
+        "url": "https://www.kaiber.ai/",
+        "short_description": "Plataforma de generación de video asistido por inteligencia artificial que permite a creadores transformar texto, imágenes o audio en animaciones dinámicas con estilos visuales únicos.",
+        "category": "Generación de video",
+        "main_functionality": "Creación de videos y animaciones a partir de texto, imágenes o música, con herramientas de control creativo como audioreactividad, storyboard, animaciones, estilo artístico y transformación visual.",
+        "tags": "#VideoGenerativo #AnimaciónAI #Audioreactividad #Storyboard #EstiloVisual #Upscaling4K",
+        "logo_filename": "id_1107_kaiber",
+        "what_is": "Es una plataforma creativa impulsada por IA que permite a artistas, músicos, animadores, marketers y otros usuarios generar visuales en movimiento desde insumos como texto, imágenes estáticas o audio",
+        "purpose": "Facilita la producción de contenido visual atractivo (videos, animaciones, visualizadores musicales) sin necesidad de habilidades técnicas avanzadas; ideal para contar historias, crear campañas, contenido social, visualizaciones musicales, etc.",
+        "use_cases": "Músicos y creadores de contenido: crear visualizadores o videoclips sincronizados con música.\n\nDiseñadores y animadores: animar imágenes, logotipos o gráficos.\n\nStorytelling y marketing: generar videos creativos desde prompts o escenas estructuradas.\n\nProductores independientes: mejora de calidad (upscaling) para contenido audiovisual.",
+        "main_advantages": "Interfaz intuitiva (canvas, drag-and-drop, flujos modulares).\n\nSincronización con audio (audioreactividad).\n\nAlta calidad de salida, incluso hasta 4 K.\n\nModularidad con elementos ajustables (Flows, Elements, Storyboard).\n\nAccesibilidad multiplataforma (web, iOS, Android).\n\nFlexibilidad en planes (créditos, suscripción, packs) y escalabilidad.",
+        "long_description": "Kaiber es un laboratorio creativo impulsado por IA que ofrece el entorno Superstudio y sus herramientas asociadas. Permite crear desde cero o transformar contenido visual con funcionalidades como animación, upscale 4K, audioreactividad, storyboard, estilo artístico, Flows y Elements. La interfaz canvas modular permite configurar procesos creativos dinámicos y colaborativos, accesibles tanto en web como en apps móviles.",
+        "release_date": "2023",
+        "developer": "Kaiber Labs, una empresa con sede en Arcadia, California, Estados Unidos, especializada en tecnologías creativas de IA.",
+        "main_model": "No disponible",
+        "pricing_plans": "Gratis: plan inicial sin costo, con créditos limitados (≈50) y restricciones de uso comercial.\n\nExplorer: ~$5/mes ≈300 créditos; sin marca, opción comercial.\n\nPro: ~$15/mes ≈1000 créditos.\n\nArtist: ~$30/mes ≈2500 créditos.\n\nTambién disponible plan Anual (~$120/año, unos $10/mes) y Enterprise con características personalizadas.\n\nAdemás, paquetes de créditos adicionales (Mini, Small, Big, Super Pack).",
+        "license": "Los usuarios de planes pagados obtienen derechos comerciales completos sobre los videos. Usuarios gratuitos operan bajo una licencia Commons NonCommercial 4.0 Attribution International, y sus videos incluyen marca de agua de Kaiber.",
+        "security_privacy": "No disponible",
+        "integration": "Kaiber permite subir contenido propio (imágenes, video, audio), importar música (incluso de artistas con estilos curatoriales), y entrenar modelos personalizados. Es accesible vía web y app móvil, facilitando integración en flujos creativos multiplataforma. No se reporta integración con plataformas externas como APIs o software de edición externos."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://deepgram.com/ai-apps/kaiber"
+        },
+        {
+          "source_url": "https://www.kaiber.ai/superstudio"
+        },
+        {
+          "source_url": "https://www.zignuts.com/ai/kaiber-ai"
+        },
+        {
+          "source_url": "https://techcrunch.com/2023/11/02/kaibers-new-app-helps-artists-make-music-videos-using-generative-ai-tools"
+        },
+        {
+          "source_url": "https://www.vadoo.tv/kaiber-ai"
+        }
+      ]
+    },
+    "1127": {
+      "app": {
+        "id": "1127",
+        "name": "Instance",
+        "url": "https://instance.so/",
+        "short_description": "Convierta sus ideas en aplicaciones, juegos y sitios web funcionales.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Genera apps móviles y web (incluidos juegos simples), portales, sistemas internos según instrucciones en lenguaje natural; incluye hosting, base de datos incorporada y lógica automatizada.",
+        "tags": "#NoCode #AppBuilder #VibeCoding #Automatización #NLP #DesarrolloSinCódigo",
+        "logo_filename": "id_1127_instance",
+        "what_is": "Es una herramienta que permite a usuarios no técnicos crear aplicaciones completas usando solo prompts en lenguaje natural.",
+        "purpose": "Para convertir ideas en apps operativas (como portales, sistemas de reserva, herramientas internas o juegos simples) en minutos, sin escribir código.",
+        "use_cases": "Creación de portales para clientes, sistemas de reservas, herramientas internas, MVPs de productos. \n\nPrototipado rápido de apps funcionales para prueba y validación.",
+        "main_advantages": "Ideal para emprendedores, freelancers y pequeñas empresas que no tienen equipo técnico. \n\nTraduce lenguaje natural a funcionalidad, interfaz y backend automáticamente. \n\nIncluye hosting, base de datos integrada y manejo automático del ciclo de publicación.",
+        "long_description": "Instance es una plataforma basada en IA (“vibe coding”) que permite crear aplicaciones móviles y de navegador completamente funcionales sin escribir código. Desde una simple descripción en lenguaje natural, genera el diseño, estructura de base de datos, lógica de navegación, hosting y compatibilidad multiplataforma. Ideal para prototipos o apps reales usados en negocios pequeños, freelancers y creadores.",
+        "release_date": "No disponible",
+        "developer": "Mimo GmbH, empresa ubicada en Viena, Austria.",
+        "main_model": "Utiliza IA conversacional para interpretar lenguaje natural y generar aplicaciones; implementa automáticamente frontend, backend, base de datos y lógica. Detalles técnicos del modelo no divulgados.",
+        "pricing_plans": "No disponible",
+        "license": "Propietaria.",
+        "security_privacy": "Operado bajo los términos de servicio de Mimo GmbH. El uso está regulado según licencias y suscripciones; no se encontraron detalles adicionales sobre políticas de privacidad.",
+        "integration": "Permite publicar apps funcionales para web y móvil, con base de datos y hosting incluidos. No se mencionan integraciones externas o APIs en fuentes públicas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://instance.so/terms"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/product/Instance.so/"
+        }
+      ]
+    },
+    "1151": {
+      "app": {
+        "id": "1151",
+        "name": "JobHunnt",
+        "url": "https://jobhunnt.com/",
+        "short_description": "Crea currículums personalizados y cartas de presentación.",
+        "category": "Productividad",
+        "main_functionality": "Tablero de seguimiento de solicitudes, generador de currículums y cartas de presentación con IA (basado en GPT‑4), extensión de navegador para capturar ofertas, evaluación del currículum (scoring), y asistente de chat IA personalizado.",
+        "tags": "#AISoftwareJobSearch #ResumeBuilder #CoverLetterGenerator #JobTracker #ATSOptimizer",
+        "logo_filename": "id_1151_jobhunnt",
+        "what_is": "Un servicio SaaS que agiliza todo el proceso de búsqueda de empleo mediante herramientas de IA diseñadas para crear materiales de aplicación personalizados, almacenar y gestionar puestos, y ofrecer asistencia inteligente durante tu búsqueda.",
+        "purpose": "Facilita la creación rápida de currículums y cartas optimizadas, mejora la organización de las postulaciónes y maximiza las posibilidades de obtener entrevistas con menos esfuerzo.",
+        "use_cases": "Candidatos en general que quieren personalizar materiales para cada oferta.\n\nProfesionales que desean gestionar múltiples aplicaciones efectivamente.\n\nUsuarios activos en portales como LinkedIn, Indeed o Glassdoor que quieren capturar ofertas automáticamente.",
+        "main_advantages": "Generación automática de documentos personalizados con GPT‑4: currículums y cartas en segundos. \n\nPuntuación y feedback del currículum, incluyendo recomendaciones de mejoras y keywords para superar sistemas ATS. \n\nPanel centralizado de control, donde se pueden añadir, seguir y organizar ofertas de empleo desde distintos portales. \n\nAsistente de chat adaptado, que conoce el perfil del usuario y especificidad de los trabajos. \n\nExtensión del navegador, para guardar ofertas desde LinkedIn, Indeed, Glassdoor, etc., con un solo clic.",
+        "long_description": "JobHunnt es una plataforma SaaS completa orientada a facilitar la búsqueda de empleo a través de IA. Ofrece un tablero para gestionar solicitudes, herramientas que generan currículums y cartas de presentación personalizados (basados en GPT‑4), y brindan retroalimentación automática para mejorar tus documentos. Además, cuenta con una extensión de navegador que permite capturar ofertas desde múltiples portales, y un asistente IA que acompaña al usuario en todo el proceso. Todo esto con el objetivo de automatizar y optimizar tu camino hacia el empleo.",
+        "release_date": "No disponible",
+        "developer": "JobHunnt se presenta como una compañía SaaS dedicada a facilitar la búsqueda de empleo mediante IA. No se encontraron nombres de fundadores o empresa matriz.",
+        "main_model": "Utiliza GPT‑4 para la generación de texto en currículums y cartas.",
+        "pricing_plans": "Gratis: permite generar materiales hasta un límite de 2 000 palabras de créditos.\n\nSemanal: $9/semana\n\nMensual: $29/mes\n\nAnual: $89/año",
+        "license": "Propietaria.",
+        "security_privacy": "Según la política incluida en la extensión de Chrome, los datos del usuario no se venden ni emplean para propósitos no autorizados.",
+        "integration": "Extensión para navegadores que captura ofertas desde LinkedIn, Google, ZipRecruiter, Indeed, Monster, Glassdoor, entre otros.\n\nImportación de perfil de LinkedIn o resume en PDF para generar materiales."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://jobhunnt.com"
+        },
+        {
+          "source_url": "https://jobcopilot.com/directory/jobhunnt/"
+        },
+        {
+          "source_url": "https://jobhunnt.tenereteam.com/"
+        },
+        {
+          "source_url": "https://creati.ai/ai-tools/jobhunnt/"
+        }
+      ]
+    },
+    "1170": {
+      "app": {
+        "id": "1170",
+        "name": "Jitter",
+        "url": "https://jitter.video/",
+        "short_description": "Herramienta web colaborativa para motion design que permite crear animaciones profesionales en minutos, aún sin experiencia previa, usando plantillas, animaciones de texto, integración con Figma, exportaciones en múltiples formatos.",
+        "category": "Diseño gráfico",
+        "main_functionality": "Crear animaciones (motion graphics) de manera rápida y accesible, con plantillas, animaciones de texto, importación desde Figma, colaboración en equipo, exportación en diferentes formatos.",
+        "tags": "#MotionDesign #Animaciones #Plantillas #ExportaciónMultiformato #Colaboración #DiseñoWeb #DiseñoUIUX",
+        "logo_filename": "id_1170_jitter",
+        "what_is": "Jitter es una aplicación web para motion design (animaciones visuales) que facilita al usuario diseñar y animar gráficos, interfaces, y otros elementos visuales sin necesidad de herramientas complejas como After Effects, con una interfaz accesible.",
+        "purpose": "Sirve para crear contenido animado (GIFs, videos, animaciones web, gráficos para redes sociales, animaciones UI/UX) de forma eficiente, permitiendo personalización, colaboración, revisiones, y exportar los resultados en formatos útiles para diferentes plataformas.",
+        "use_cases": "Equipos creativos / agencias que necesitan producir campañas animadas, anuncios, contenido para redes sociales. \n\nDiseñadores de productos que quieren animaciones de interfaz para mockups, prototipos, UI transitions. \n\nMarcas que requieren animaciones rápidas para contenido marketing, reels, publicaciones sociales. \n\nEquipos distribuidos que necesitan colaborar, revisar y aprobar animaciones usando enlaces compartidos y espacio de trabajo centralizado. ",
+        "main_advantages": "Alta accesibilidad incluso para quienes no tienen mucha experiencia en animación. \n\nPlantillas pre‑hechas para acelerar los procesos. \n\nIntegraciones útiles, por ejemplo con Figma, lo que permite importar diseños existentes. \n\nExportaciones flexibles (video en 4K, GIF, Lottie, etc.). \n\nColaboración en equipo, revisiones, feedback.",
+        "long_description": "Jitter es una herramienta de motion design basada en navegador que integra diseño, animación y colaboración en un solo flujo de trabajo. Permite importar diseños desde Figma con estructuras de capas editables, editar directamente los objetos, aplicar animaciones predefinidas o personalizadas (texto, formas, gradientes, desenfoques, máscaras, rutas de movimiento), trabajar con timeline intuitivo, previsualización rápida, colaborar en tiempo real, y exportar el contenido en múltiples formatos como MP4, MOV, WebM, GIF, Lottie, incluso con opciones de video en alta resolución (4K) y configuraciones avanzadas como videos transparentes.",
+        "release_date": "2024",
+        "developer": "JITTER",
+        "main_model": "No disponible",
+        "pricing_plans": "Plan gratuito (“Free”) con funciones básicas. Puede que tenga limitaciones (marcas de agua, resoluciones menores). \n\nStudio (o Pro / Studio): aproximadamente US$ 19/mes para funciones más avanzadas. \n\nEnterprise (o Equipo / Corporate): Plan personalizado para equipos grandes, con capacidad ilimitada o mayor escala.",
+        "license": "Propietaria.",
+        "security_privacy": "No disponible",
+        "integration": "Figma: Importación desde Figma mediante plugin. \n\nExportación en formatos compatibles para web, video, Lottie, etc., lo que facilita uso conjunto con herramientas de diseño, desarrollo web, marketing. \n\nEl entorno colaborativo online permite que diferentes miembros del equipo trabajen juntos desde distintos dispositivos."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Cómo Perplexity da vida a su marca con Jitter",
+          "description": "Perplexity utiliza Jitter para incorporar motion design en sus procesos creativos sin necesidad de herramientas complejas. Gracias a Jitter, cualquier diseñador de su equipo puede crear animaciones reutilizables para redes sociales, prototipos o presentaciones de marca.",
+          "url": "https://jitter.video/customers/perplexity/?"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Cómo Deliveroo aporta momentos de deleite a su producto con Jitter",
+          "description": "Deliveroo utiliza Jitter para agregar animaciones visuales atractivas a su producto, reduciendo los tiempos de producción al prescindir de After Effects. Esto permitió crear tutoriales para restaurantes y detalles animados en su interfaz sin sobrecargar al equipo de diseño.",
+          "url": "https://jitter.video/customers/deliveroo/?"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Cómo Ramp usa Jitter para crear más animaciones en menos tiempo",
+          "description": "Ramp usa Jitter para escalar la producción de contenido animado en menos tiempo. La herramienta les permitió optimizar los tiempos de desarrollo sin comprometer la calidad visual de las animaciones utilizadas en campañas de producto y comunicación.",
+          "url": "https://jitter.video/customers/?"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Cómo utiliza Hervé Jitter para crear experiencias interactivas agradables",
+          "description": "Hervé emplea Jitter para diseñar experiencias interactivas animadas con mayor fluidez, reduciendo la dependencia de herramientas complejas. Esto permitió mejorar la interacción visual con los usuarios en diversos productos digitales.",
+          "url": "https://jitter.video/customers/?"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://jitter.video/"
+        },
+        {
+          "source_url": "https://jitter.video/customers/"
+        }
+      ]
+    },
+    "1188": {
+      "app": {
+        "id": "1188",
+        "name": "Kael",
+        "url": "https://kael.im/",
+        "short_description": "Asistente de IA centrado en comprensión profunda de documentos y fuentes, que sintetiza ideas complejas y produce salidas estructuradas como diapositivas, notas e informes.",
+        "category": "Redacción",
+        "main_functionality": "Permite a los usuarios cargar documentos, conectar ideas de múltiples fuentes y generar salidas claras y estructuradas —como resúmenes, notas y presentaciones— mediante IA conversacional.",
+        "tags": "#DocumentAnalysis #InvestigaciónConIA #ResumenInteligente #GeneraciónEstructurada",
+        "logo_filename": "id_1188_kael",
+        "what_is": "Kael es un asistente impulsado por IA diseñado específicamente para trabajar con documentos complejos, ayudando a entender, sintetizar y transformar grandes volúmenes de texto en formatos útiles y accionables.",
+        "purpose": "Sirve para facilitar la comprensión profunda de textos largos o densos, extraer ideas clave y producir materiales derivados (por ejemplo, diapositivas o informes) sin que el usuario tenga que hacerlo manualmente.",
+        "use_cases": "Investigación académica o profesional: síntesis de literatura y comprensión de artículos complejos.\n\nCreación de presentaciones o informes: generación automatizada de diapositivas y notas basadas en documentos.\n\nAnálisis de papers científicos y artículos técnicos.\n\nPreparación de estudios de caso o resúmenes ejecutivos para equipos o clientes.\n\nAsistencia en trabajos académicos o educativos que requieran síntesis de textos.",
+        "main_advantages": "Comprensión profunda y síntesis de documentos complejos.\n\nGeneración de resultados estructurados (slides, informes, notas).\n\nInteractividad mediante IA conversacional.\n\nSoporte para cargas de archivos y referencias múltiples en la misma sesión.",
+        "long_description": "Kael es una plataforma de asistencia basada en IA que ayuda al usuario a entender documentos complejos, conectar ideas de múltiples fuentes y generar salidas estructuradas como notas, resúmenes o presentaciones. Combina capacidades de IA conversacional con análisis de contenido, facilitando flujos de trabajo de investigación y generación de conocimientos sin intervención manual intensiva.",
+        "release_date": "No disponible",
+        "developer": "No disponible",
+        "main_model": "Kael emplea modelos de IA conversacional generativa con capacidades de comprensión profunda para interpretar y sintetizar información de documentos y textos, aunque los detalles técnicos del modelo subyacente no se divulgan públicamente.",
+        "pricing_plans": "No disponible",
+        "license": "Propietaria.",
+        "security_privacy": "No disponible",
+        "integration": "La información pública disponible no especifica integraciones directas con otras herramientas o plataformas, aunque herramientas de este tipo suelen permitir exportar resúmenes o resultados a formatos útiles (como presentaciones o notas)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://kael.im/"
+        },
+        {
+          "source_url": "https://topaihubs.com/item/kael-ai-assistant-for-understanding-and-working-with-docunents"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/compare/kael-ai-assistant-for-understanding-and-working-with-docunents-vs-context-link"
+        }
+      ]
+    },
+    "1196": {
+      "app": {
+        "id": "1196",
+        "name": "Invoice",
+        "url": "https://www.invoce.ai/",
+        "short_description": "Automatiza la creación y gestión de facturas mediante inteligencia artificial, permitiendo a usuarios escanear documentos, extraer datos relevantes y generar facturas en segundos desde imágenes o archivos PDF.",
+        "category": "Automatización",
+        "main_functionality": "Generación automática de facturas a partir de documentos escaneados (imágenes o PDFs) mediante IA, extracción de datos relevantes, generación de archivos PDF, y envío directo a clientes.",
+        "tags": "#Automatización #OCR #Facturación #Productividad",
+        "logo_filename": "id_1196_invvoceai",
+        "what_is": "Es una plataforma basada en inteligencia artificial que permite automatizar la creación de facturas desde imágenes o archivos PDF. Utiliza reconocimiento óptico de caracteres (OCR) y procesamiento de lenguaje natural para identificar y extraer automáticamente la información clave, como nombre del cliente, servicios, montos, fechas y más, para generar facturas en segundos.",
+        "purpose": "Sirve para eliminar la necesidad de introducir manualmente datos en una factura. Facilita la digitalización de documentos físicos, la generación automatizada de facturas profesionales en PDF y el envío a clientes, optimizando tiempo y reduciendo errores humanos en procesos contables.",
+        "use_cases": "Freelancers que desean convertir cotizaciones o imágenes de trabajos en facturas rápidamente.\n\nPequeñas empresas que escanean órdenes de compra o notas de entrega para convertirlas en facturas.\n\nEquipos de contabilidad que automatizan el procesamiento de documentos físicos.\n\nDigitalización de recibos o facturas manuscritas.",
+        "main_advantages": "Ahorro de tiempo al evitar el llenado manual de facturas.\n\nReducción de errores humanos en la creación de documentos contables.\n\nFácil de usar: solo se necesita subir una imagen o archivo PDF.\n\nGeneración rápida de PDFs de factura.\n\nInterfaz limpia y accesible para usuarios no técnicos.\n\nCompatible con múltiples formatos de documento.\n\nMejora el flujo de trabajo contable.\n\nNo requiere integración con sistemas externos para comenzar a operar.",
+        "long_description": "Invoice es una herramienta basada en IA que permite a usuarios generar facturas automáticamente a partir de documentos físicos o digitales. Al subir una imagen o archivo PDF de un documento (por ejemplo, una nota escrita a mano, una cotización o un pedido), la plataforma utiliza tecnologías de OCR para extraer los datos relevantes: nombre del cliente, detalles del servicio, fechas, montos, impuestos, etc. Luego, transforma esta información en una factura profesional en formato PDF que puede enviarse directamente al cliente o descargarse. El sistema aprende con el uso y mejora la precisión en la extracción de información.",
+        "release_date": "2023",
+        "developer": "Invoce.ai",
+        "main_model": "No disponible",
+        "pricing_plans": "Plan Gratuito:\n\nGeneración de facturas a partir de imágenes.\nLímite diario de conversiones.\n\nPlanes de Pago (estimado con base en la web):\n\nMás conversiones por día.\nAcceso prioritario.\nFunciones premium como historial de facturas, personalización, etc.",
+        "license": "Propietaria.",
+        "security_privacy": "No disponible",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.invoce.ai/"
+        }
+      ]
+    },
+    "1200": {
+      "app": {
+        "id": "1200",
+        "name": "Instruct",
+        "url": "https://instruct.ai/",
+        "short_description": "Permite crear asistentes personalizados que comprenden y ejecutan tareas utilizando IA conversacional, con capacidad de integrar datos propios y conectarse a múltiples fuentes empresariales.",
+        "category": "Chat",
+        "main_functionality": "Creación de asistentes de IA personalizados que responden preguntas, automatizan tareas y se integran con herramientas empresariales como Notion, Slack, Google Drive y bases de datos propias.",
+        "tags": "#Chatbot #LLM #Automatización #IAConversacional #Integraciones",
+        "logo_filename": "id_1200_instruct",
+        "what_is": "Instruct es una plataforma que permite construir asistentes virtuales personalizados basados en inteligencia artificial. Estos asistentes pueden comprender lenguaje natural, interactuar con usuarios, ejecutar tareas, buscar información en documentos o bases de datos, y adaptarse a necesidades empresariales específicas. Instruct se posiciona como una solución versátil para integrar IA conversacional en flujos de trabajo cotidianos, sin necesidad de programar.",
+        "purpose": "Sirve para crear y desplegar asistentes de IA que ayuden a equipos a automatizar flujos de trabajo, responder consultas internas o externas, extraer información desde fuentes específicas (como documentos o apps de trabajo), y actuar como interfaces inteligentes que conectan a los usuarios con sus datos empresariales.",
+        "use_cases": "Soporte interno con asistentes entrenados en documentación técnica.\n\nAsistentes de ventas que acceden a bases de datos de productos.\n\nAutomatización de respuestas frecuentes para equipos de recursos humanos.\n\nConexión con herramientas empresariales (CRM, Notion, Slack) para tareas administrativas.\n\nAsistentes para onboarding de empleados.",
+        "main_advantages": "Personalización total de los asistentes: lenguaje, datos, tono, acciones.\n\nFácil conexión con múltiples herramientas mediante integraciones nativas.\n\nUso de fuentes propias (documentos, URLs, bases de datos) para entrenamiento.\n\nInterfaz sin código para crear asistentes rápidamente.\n\nControl granular de acciones y permisos.\n\nPosibilidad de automatizar flujos de trabajo complejos.\n\nProtección de datos y cumplimiento de normativas de privacidad.",
+        "long_description": "Instruct es una solución de inteligencia artificial conversacional que permite construir asistentes personalizados sin necesidad de conocimientos de programación. La plataforma ofrece una interfaz visual que permite definir el comportamiento, las acciones y la voz del asistente. Estos asistentes pueden acceder y extraer información desde documentos, enlaces web, bases de datos, hojas de cálculo y más. Además, se integran con plataformas como Slack, Notion, Google Drive y sistemas empresariales, lo que permite automatizar procesos como atención al cliente, soporte interno o flujos de negocio.",
+        "release_date": "2023",
+        "developer": "Instruct Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "Free Plan: acceso limitado con restricciones de uso.\n\nStartup Plan: funcionalidades avanzadas para equipos pequeños.\n\nEnterprise Plan: soluciones personalizadas, mayor capacidad, control de seguridad y soporte.",
+        "license": "Propietario",
+        "security_privacy": "indica que se recopilan datos necesarios para el funcionamiento del servicio y que los usuarios mantienen el control sobre la información que cargan. La plataforma permite la eliminación de datos, y declara cumplir con leyes aplicables de protección de datos, como el GDPR. No se especifica cumplimiento con certificaciones como SOC2 o ISO.\nIncluye mecanismos para restringir acceso a fuentes y limitar acciones de los asistentes.",
+        "integration": "Permite integraciones nativas con múltiples plataformas, incluyendo:\n\nNotion\nGoogle Drive\nSlack\nHojas de cálculo\nAPIs personalizadas\nBases de datos internas\nEstas integraciones permiten que el asistente actúe sobre datos empresariales y automatice procesos reales."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://instruct.ai/"
+        },
+        {
+          "source_url": "https://instruct.ai/blog"
+        },
+        {
+          "source_url": "https://legal.instruct.ai/eula"
+        },
+        {
+          "source_url": "https://legal.instruct.ai/privacy"
+        }
+      ]
+    },
+    "1210": {
+      "app": {
+        "id": "1210",
+        "name": "Kaily",
+        "url": "https://www.kaily.ai/",
+        "short_description": "Automatiza cada conversación con el cliente con IA.",
+        "category": "Chat",
+        "main_functionality": "Automatiza conversaciones con clientes utilizando inteligencia artificial capaz de entender el contexto, personalizar respuestas y actuar proactivamente en entornos de e-commerce y soporte digital.",
+        "tags": "#AIChatbot #AsistenteVirtual #EcommerceAI #AutomatizaciónConversacional #ChatInteligente",
+        "logo_filename": "id_1210_kailyai",
+        "what_is": "Kaily es un agente de inteligencia artificial que funciona como asistente conversacional inteligente, diseñado para integrarse en sitios web, tiendas en línea y plataformas digitales. Su objetivo es mejorar la experiencia del usuario mediante una conversación fluida, relevante y proactiva, que va más allá de respuestas preprogramadas. Utiliza IA para comprender las intenciones del usuario, recomendar productos, resolver preguntas y tomar acciones automáticas.",
+        "purpose": "Está pensado para automatizar la atención al cliente, ofrecer recomendaciones personalizadas (por ejemplo, productos en tiendas online), responder preguntas frecuentes, guiar al usuario en su navegación y apoyar en procesos como ventas, soporte técnico o decisiones de compra. Se enfoca principalmente en el sector del comercio electrónico.",
+        "use_cases": "Tiendas en línea que desean ofrecer recomendaciones de productos personalizadas en tiempo real.\n\nEmpresas que quieren automatizar la atención al cliente sin sacrificar la experiencia del usuario.\n\nMarcas que buscan aumentar sus conversiones con un agente conversacional proactivo.\n\nPlataformas digitales que integran soporte 24/7 sin necesidad de intervención humana constante.\n\nEquipos de ventas que necesitan calificar leads o asistir en procesos de onboarding.",
+        "main_advantages": "Interacción conversacional avanzada que simula una conversación natural.\n\nCapacidad de recomendar productos en función de preferencias o interacciones del usuario.\n\nAdaptable a diferentes sectores, con enfoque especial en comercio electrónico.\n\nDiseño visual atractivo e integraciones sencillas.\n\nNo se limita a responder: puede guiar, proponer y cerrar acciones.\n\nRecopila datos relevantes para mejorar futuras interacciones.\n\nPersonalización total del agente, tanto en tono como en funcionalidad.\n\nPlataforma reconocida por la comunidad tech (Top #3 en Product Hunt).",
+        "long_description": "Kaily es una solución conversacional basada en inteligencia artificial que permite a marcas y negocios transformar la manera en que interactúan con sus clientes en canales digitales. A través de un agente inteligente personalizable, Kaily permite automatizar tareas como recomendación de productos, soporte al cliente, orientación en procesos de compra y generación de leads. Se presenta como una evolución del chatbot tradicional, gracias a su capacidad de entender mejor el lenguaje natural, personalizar respuestas y accionar comportamientos automáticos en función del contexto de cada usuario. Ideal para e-commerce, SaaS, educación, y más.",
+        "release_date": "2023",
+        "developer": "Kaily AI",
+        "main_model": "No disponible",
+        "pricing_plans": "Free Plan:\n\nIdeal para experimentar con el agente.\nHasta 500 interacciones.\n1 proyecto.\n1 usuario.\nSin personalización avanzada.\n\nPro Plan – $9 USD/mes:\n\nHasta 3,000 interacciones.\n3 proyectos.\n3 usuarios.\nPersonalización del agente.\nAcceso anticipado a nuevas funciones.\n\nBusiness Plan – $39 USD/mes:\n\nHasta 15,000 interacciones.\n10 proyectos.\n10 usuarios.\nPersonalización avanzada.\nSoporte prioritario.\n\nEnterprise (a medida):\n\nVolumen personalizado de interacciones.\nSoporte dedicado y funciones empresariales.",
+        "license": "Propietario",
+        "security_privacy": "Recopila datos personales básicos (nombre, correo, uso de la app).\n\nUso de cookies para analizar comportamiento de usuarios y mejorar el servicio.\n\nNo vende datos a terceros sin consentimiento.\n\nLos datos se almacenan en servidores seguros.\n\nCumple con normativas de privacidad aplicables y ofrece mecanismos para eliminación de datos personales.",
+        "integration": "Actualmente se integra principalmente en sitios web como widget conversacional.\nNo se menciona API pública ni integraciones directas con CRM, Zapier, Shopify u otras plataformas (al menos de forma visible en la web actual)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.kaily.ai/"
+        },
+        {
+          "source_url": "https://www.kaily.ai/pricing"
+        },
+        {
+          "source_url": "https://www.kaily.ai/about-us"
+        },
+        {
+          "source_url": "https://www.kaily.ai/privacy-policy"
+        },
+        {
+          "source_url": "https://www.kaily.ai/blog"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/kaily"
+        }
+      ]
+    },
+    "1218": {
+      "app": {
+        "id": "1218",
+        "name": "Jungle AI",
+        "url": "https://jungleai.com/",
+        "short_description": "Genera tarjetas de estudio con IA y aprende más rápido.",
+        "category": "Educación",
+        "main_functionality": "Generación automatizada de materiales de estudio interactivos como tarjetas didácticas y preguntas tipo test, a partir de contenido cargado por el usuario (PDFs, diapositivas, enlaces, videos).",
+        "tags": "#Educación #Flashcards #PreguntasAI #AprendizajeActivo #EstudioConIA",
+        "logo_filename": "id_1218_jungleai",
+        "what_is": "Jungle AI es una plataforma educativa impulsada por inteligencia artificial que transforma contenido educativo (como diapositivas, PDFs, videos o enlaces) en tarjetas didácticas (flashcards) y preguntas de opción múltiple. Su objetivo es mejorar el proceso de estudio mediante la creación rápida y automatizada de materiales interactivos de repaso, utilizados por más de un millón de estudiantes.",
+        "purpose": "Sirve para facilitar el aprendizaje activo y personalizado. Ayuda a estudiantes de todos los niveles a transformar rápidamente cualquier recurso en materiales de estudio más eficaces, reduciendo el tiempo de preparación y mejorando la retención de información mediante técnicas de autoevaluación.",
+        "use_cases": "Estudiantes que quieren convertir clases o videos en tarjetas de estudio rápidamente.\n\nDocentes que desean generar cuestionarios interactivos para sus alumnos.\n\nPreparación para exámenes estandarizados (SAT, GRE, etc.) con preguntas automatizadas.\n\nRevisión de presentaciones antes de una evaluación.\n\nEstudio colaborativo en grupos mediante generación compartida de contenidos.",
+        "main_advantages": "Automatización completa del proceso de generación de flashcards y preguntas.\n\nCompatible con múltiples formatos: videos de YouTube, PDFs, enlaces web, etc.\n\nPlataforma intuitiva y fácil de usar.\n\nBasado en principios de aprendizaje activo y repetición espaciada.\n\nUtilizado por más de 1 millón de estudiantes.\n\nNo requiere conocimientos técnicos.\n\nAhorra tiempo en la preparación para exámenes o repasos.\n\nSoporte multiplataforma (dispositivos móviles y web).",
+        "long_description": "Jungle AI es una solución educativa basada en inteligencia artificial que permite transformar diversos formatos de contenido (como presentaciones de clase, PDFs, videos o enlaces web) en materiales de estudio interactivos como flashcards y preguntas de opción múltiple. La plataforma está diseñada para fomentar el aprendizaje activo, con funcionalidades como revisión automática, generación de preguntas contextualizadas y seguimiento del progreso. Su uso se extiende tanto a estudiantes individuales como a docentes que buscan facilitar recursos de estudio dinámicos.",
+        "release_date": "2022",
+        "developer": "Jungle AI, Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "Plan Gratuito: Acceso limitado a funcionalidades básicas.\n\nPlanes Premium: Acceso a funciones avanzadas como mayor número de preguntas, flashcards ilimitadas y seguimiento personalizado.",
+        "license": "Propietaria.",
+        "security_privacy": "Uso de cookies, registro de actividad y almacenamiento de contenido generado por los usuarios.\n\nNo vende datos personales a terceros.\n\nCompromiso con la protección de datos educativos.\n\nNo especifica cumplimiento con GDPR, pero incluye prácticas de transparencia en el tratamiento de datos.",
+        "integration": "Integración con YouTube (extracción de contenido de videos).\n\nCarga directa de presentaciones y PDFs.\n\nEnlaces web como fuente de extracción de contenido.\n\nNo se especifica integración directa con LMS como Moodle o Google Classroom."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://jungleai.com/"
+        },
+        {
+          "source_url": "https://jungleai.com/pricing"
+        },
+        {
+          "source_url": "https://jungleai.com/privacy-policy"
+        },
+        {
+          "source_url": "https://jungleai.com/use-cases"
+        },
+        {
+          "source_url": "https://jungleai.com/use-cases"
+        }
+      ]
+    },
+    "1241": {
+      "app": {
+        "id": "1241",
+        "name": "Interactpitch",
+        "url": "https://interactpitch.ai/",
+        "short_description": "Convierte los pitch decks en experiencias interactivas con insights en tiempo real.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Convierte pitch decks en experiencias interactivas con análisis de interacción en tiempo real, permitiendo ver qué partes captan la atención de los espectadores y facilitando la comunicación directa mediante chat o voz.",
+        "tags": "#InteligenciaDeNegocios #PresentacionesInteractivas #PitchDecks #AnálisisEnTiempoReal #IAConversacional",
+        "logo_filename": "id_1241_interactpitch",
+        "what_is": "InteractPitch es una plataforma impulsada por inteligencia artificial que convierte presentaciones estáticas (pitch decks) en experiencias interactivas. A través de funciones conversacionales (chat y voz) e integraciones visuales, permite que el contenido se explique solo, responda preguntas, muestre funcionalidades y recoja datos sobre el comportamiento del espectador en tiempo real. Está diseñada para hacer que las presentaciones sean más dinámicas y efectivas, especialmente en contextos de ventas, inversión o captación de clientes.",
+        "purpose": "Sirve para transformar un pitch tradicional en una presentación interactiva que no solo informa, sino que también responde preguntas automáticamente, guía al usuario y permite obtener métricas precisas sobre lo que más interesa a los espectadores. Es ideal para fundadores, equipos de ventas, startups y empresas que presentan productos o servicios a potenciales inversores o clientes.",
+        "use_cases": "Presentaciones de startups a inversores con seguimiento del interés en tiempo real.\n\nDemos de productos que se explican por sí mismos mediante chatbots y asistentes de voz.\n\nPitch decks de ventas con capacidad de responder preguntas frecuentes automáticamente.\n\nMaterial de onboarding para nuevos clientes con navegación guiada.\n\nCompartir propuestas comerciales interactivas con posibilidad de agendar reuniones directamente desde la presentación.",
+        "main_advantages": "Convierte contenido estático en una experiencia dinámica y personalizada.\n\nIntegra asistentes conversacionales (chat/voz) directamente en la presentación.\n\nRecoge datos en tiempo real sobre comportamiento del espectador (clics, tiempo de visualización, áreas de interés).\n\nMejora la conversión al mantener al usuario comprometido con la presentación.\n\nPermite agendar reuniones desde el pitch, facilitando el cierre de oportunidades.\n\nIdeal para contextos de ventas, captación de inversión y presentación de soluciones SaaS.\n\nAumenta la comprensión del producto o servicio sin necesidad de presentador humano en tiempo real.",
+        "long_description": "InteractPitch es una solución basada en inteligencia artificial diseñada para transformar presentaciones tradicionales (pitch decks) en experiencias interactivas y conversacionales. Mediante asistentes virtuales (chat y voz), la plataforma permite que el contenido se explique solo, responda preguntas en tiempo real y guíe al espectador a través de las diferentes secciones del pitch. Además, proporciona métricas precisas sobre el comportamiento de los usuarios: qué ven, dónde hacen clic, cuánto tiempo permanecen en cada diapositiva, y más. Esto permite a startups, equipos de ventas y negocios tecnológicos entender mejor qué interesa a sus audiencias y optimizar la presentación de sus productos o servicios para lograr conversiones más efectivas.",
+        "release_date": "2023",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "Prueba gratuita disponible (\"Try InteractPitch\").\n\nNo se especifican públicamente los planes pagos ni tarifas.\n\nNo se dispone de una sección de precios visible en el sitio principal.\n\nPuede estar operando en modo freemium o fase beta para adquisición de usuarios iniciales.",
+        "license": "Propietaria.",
+        "security_privacy": "Recoge información personal (nombre, email), datos técnicos (IP, navegador, sistema operativo) y comportamiento de usuario dentro de la plataforma.\n\nUtiliza cookies para análisis, funcionalidad y personalización de la experiencia.\n\nEl contenido ingresado en presentaciones puede almacenarse para prestar el servicio.\n\nNo se especifica si el contenido generado es usado para entrenamiento adicional.\n\nPermite contactar para ejercer derechos de acceso, modificación o eliminación de datos personales.",
+        "integration": "Funciona como solución autónoma basada en la web.\n\nIncluye funcionalidad para agendar reuniones desde la presentación, lo que sugiere conexión con herramientas de calendario o CRM, aunque no está explícitamente documentado."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://interactpitch.ai/"
+        },
+        {
+          "source_url": "https://interactpitch.ai/legal/privacy-policy"
+        }
+      ]
+    },
+    "1243": {
+      "app": {
+        "id": "1243",
+        "name": "Inworld",
+        "url": "https://inworld.ai/tts?",
+        "short_description": "TTS #1 en Análisis Artificial acaba de mejorar. <250ms de latencia, 30% más expresivo, 40% menos WER, 25 veces más barato. Diseñado para aplicaciones de voz en tiempo real que escalan.",
+        "category": "Texto a voz",
+        "main_functionality": "Conversión instantánea de texto a voz con alta expresividad y mínima latencia, optimizada para integrarse en experiencias interactivas con personajes, NPCs, narración, soporte al cliente y más.",
+        "tags": "#TextoAVoz #TTS #VocesIA #TiempoReal #ExpresiónVocal #InworldAI",
+        "logo_filename": "id_1243_inworld",
+        "what_is": "Inworld TTS-1.5 es un modelo de conversión de texto a voz (Text-To-Speech) de última generación desarrollado por Inworld. Está diseñado para ofrecer latencias inferiores a 200 milisegundos y voces altamente expresivas, lo que lo convierte en una solución ideal para entornos interactivos en tiempo real como videojuegos, mundos virtuales, atención al cliente automatizada y experiencias narrativas. El modelo ha sido optimizado para estabilidad, naturalidad y adaptación emocional, superando benchmarks de calidad frente a otros motores TTS.",
+        "purpose": "Su propósito es transformar texto en voz natural y expresiva con velocidad y precisión suficientes para aplicaciones donde la inmediatez y el realismo vocal son críticos. Es útil para desarrolladores de videojuegos, diseñadores de experiencias inmersivas, creadores de personajes interactivos, narradores digitales y plataformas que requieren interacción vocal fluida.",
+        "use_cases": "Voces en tiempo real para personajes no jugables (NPCs) en videojuegos.\n\nAsistentes virtuales con respuesta vocal instantánea.\n\nNarración de historias en plataformas educativas, creativas o de entretenimiento.\n\nServicio al cliente automatizado con tono humano y natural.\n\nIntegración en mundos virtuales, metaverso o entornos inmersivos.\n\nAplicaciones en simulaciones de entrenamiento o storytelling interactivo.",
+        "main_advantages": "Latencia extremadamente baja (<200 ms), ideal para uso en tiempo real.\n\nVoces con alto nivel de expresividad, incluyendo emoción, ritmo y entonación natural.\n\nOptimizado para mantener estabilidad vocal incluso en sesiones largas.\n\nCompatible con múltiples contextos: juegos, soporte, narración, educación.\n\nSoporte para creación de personajes con voz única y coherente.\n\nAdaptabilidad para múltiples idiomas y estilos de voz (según se amplíe el modelo).\n\nIdeal para desarrolladores que buscan respuesta vocal instantánea en interfaces interactivas.",
+        "long_description": "Inworld TTS-1.5 es un motor avanzado de texto a voz (TTS) diseñado para entregar latencias ultrabajas —menores a 200 milisegundos— con una expresividad vocal superior, ideal para aplicaciones en tiempo real. La plataforma busca simular la naturalidad del habla humana en contextos donde la interacción es constante, como videojuegos, metaverso, asistentes virtuales y soporte automatizado. El modelo puede generar voces únicas para personajes personalizados y adaptarse a distintos estilos, entonaciones y emociones, contribuyendo a una experiencia inmersiva con un realismo sonoro elevado. El sistema está optimizado para integrarse de forma flexible en entornos de desarrollo y aplicaciones interactivas.",
+        "release_date": "2024",
+        "developer": "Inworld AI",
+        "main_model": "Modelo propietario de texto a voz desarrollado por Inworld AI.\n\nOptimizado para producción en tiempo real con estabilidad y variabilidad emocional.\n\nNo se especifica el framework subyacente (posiblemente basado en arquitectura neural tipo Tacotron, VITS o modelo propio de nueva generación).",
+        "pricing_plans": "No disponible",
+        "license": "Propietaria.",
+        "security_privacy": "Se recopilan datos personales (nombre, email, IP), además de datos técnicos del navegador y sistema.\n\nLos datos se usan para mejorar el producto, análisis internos y garantizar el cumplimiento normativo.\n\nNo se indica si las entradas de voz o texto se utilizan para reentrenamiento del modelo.\n\nCumple con normativas estándar de privacidad (incluido GDPR si aplica).\n\nUsuarios pueden ejercer derechos sobre sus datos bajo solicitud directa.",
+        "integration": "Diseñado para integrarse con motores de juegos, plataformas de desarrollo de personajes y asistentes virtuales.\n\nInworld ofrece SDKs y APIs para desarrolladores.\n\nIntegración fluida con herramientas de desarrollo como Unity, Unreal Engine y entornos personalizados.\n\nCompatible con workflows de personajes interactivos."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://inworld.ai/tts?"
+        },
+        {
+          "source_url": "https://inworld.ai/pricing"
+        },
+        {
+          "source_url": "https://inworld.ai/privacy"
+        },
+        {
+          "source_url": "https://inworld.ai/blog"
+        }
+      ]
+    },
+    "1459": {
+      "app": {
+        "id": "1459",
+        "name": "Jotform",
+        "url": "https://www.jotform.com/ai/?",
+        "short_description": "El generador de formularios de IA que crea formularios completos a partir de un prompt. Campos, lógica y flujos de trabajo incluidos. ",
+        "category": "Automatización",
+        "main_functionality": "Construcción y optimización de formularios por conversación (crear/editar/diseñar/ajustar settings), generación de condiciones (lógica), generación de emails (notificaciones/autorespuestas) y soporte de agentes conversacionales (AI Agents) para experiencias tipo chatbot/soporte.",
+        "tags": "#Automatizacion #NoCode #FormBuilder #AIFormGenerator #AIAgents #Chatbot #Workflow",
+        "logo_filename": "id_1459_jotformai",
+        "what_is": "Es la capa de IA de Jotform para “hacer” tareas dentro de la plataforma con instrucciones simples: crear formularios, editarlos, generar diseño/temas, automatizar acciones (condiciones/ajustes) y apoyarse en funcionalidades como AI Form Copilot y AI Agents.",
+        "purpose": "Para reducir el trabajo manual de construir y mantener formularios y flujos (lógica, emails, configuración y compartición), y habilitar experiencias conversacionales (agentes) que recolectan información y responden preguntas en tiempo real.",
+        "use_cases": "Generar un formulario desde un prompt, o desde archivos/imágenes/URL.\nEditar el formulario “por chat” (campos, estructura, estilo, settings).\nCrear lógica condicional compleja (mostrar/ocultar, saltos, ruteos, etc.) con instrucciones.\nGenerar emails de notificación/autorespuesta y configurarlos con IA.\nImplementar AI Agents (chatbots y agentes especializados) para soporte/guía durante el llenado o en canales externos.",
+        "main_advantages": "Centraliza tareas típicas (crear, editar, diseñar, automatizar y compartir) en un solo asistente.\nReduce fricción para construir lógica y configuraciones avanzadas con lenguaje natural.\nPosibilita agentes conversacionales sin código (AI Agents) para atención y guía.\nEn el AI Form Generator, Jotform indica que los prompts/datos de usuario no se usan para entrenar su AI Form Generator; también aclara consideraciones sobre datos de formularios/campos y referencia a su Política de Privacidad.",
+        "long_description": "Jotform AI integra capacidades para crear formularios desde instrucciones y materiales (archivos/imágenes/URL), editar por conversación, diseñar con generación de temas/estilos, ajustar settings, generar emails y construir condiciones (lógica avanzada) mediante lenguaje natural. En su anuncio, Jotform presenta elementos como AI Form Copilot, interfaz móvil y funciones para testear/compartir con rapidez. Además, el ecosistema incluye AI Agents (chatbots y agentes por casos de uso) y productos como Presentation Agents (según casos publicados).",
+        "release_date": "Marzo 2026",
+        "developer": "Jotform Inc. (sitio de precios/empresa).",
+        "main_model": "No disponible",
+        "pricing_plans": "Jotform (planes generales) con niveles como Starter (gratuito) y planes de pago (Bronze/Silver/Gold) + Enterprise; la disponibilidad exacta de límites depende del producto (p. ej., chatbots/AI Agents).\nEn la página de AI Chatbot/AI Agents se listan límites por plan (ej.: Starter con 5 chatbots/agentes y límites mensuales; Enterprise con precio personalizado).",
+        "license": "Propietaria (SaaS).",
+        "security_privacy": "Documentación general en Privacy Policy y Terms of Use de Jotform.\nEn FAQ del AI Form Generator, Jotform indica que prompts/datos de usuario no se usan para entrenar su AI Form Generator; también menciona consideraciones sobre datos de formularios/campos y remite a su política de privacidad.",
+        "integration": "Jotform ofrece un catálogo amplio de integraciones (p. ej., Google Sheets, Slack, PayPal, Stripe, Salesforce, Zapier/Make, webhooks, etc.), y capacidades de automatización; esto aplica al ecosistema donde opera Jotform AI."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Los agentes de IA de Jotform ayudan a una galardonada empresa inmobiliaria de Dallas a ahorrar tiempo valioso (Burgess Group/Keller Williams)",
+          "description": "El caso reporta ahorros estimados de miles en múltiples eventos (hasta USD $400 por evento) mediante un AI Agent usado en varios canales (newsletter, pop-up web, post-registro).",
+          "url": "https://www.jotform.com/ai/agents/case-study-burgess-group/"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.jotform.com/ai/?"
+        },
+        {
+          "source_url": "https://www.jotform.com/ai/features/"
+        },
+        {
+          "source_url": "https://www.jotform.com/privacy/"
+        },
+        {
+          "source_url": "https://www.jotform.com/terms/"
+        },
+        {
+          "source_url": "https://www.jotform.com/ai/agents/case-study-burgess-group/"
+        }
+      ]
+    },
+    "1505": {
+      "app": {
+        "id": "1505",
+        "name": "Kaedim",
+        "url": "https://www.kaedim3d.com",
+        "short_description": "Permite convertir ideas, bocetos o imágenes en modelos 3D generados con apoyo de inteligencia artificial.",
+        "category": "Generación de diseño",
+        "main_functionality": "Generación de modelos 3D asistida por inteligencia artificial.",
+        "tags": "#IA #Diseño #Generación3D #Creatividad",
+        "logo_filename": "id_1505_kaedim",
+        "what_is": "Kaedim es una herramienta de inteligencia artificial orientada a transformar imágenes, bocetos o referencias visuales en modelos 3D para flujos creativos y de diseño.",
+        "purpose": "Servir como apoyo para crear modelos 3D de forma más rápida a partir de imágenes, bocetos o referencias visuales.",
+        "use_cases": "Creación de activos 3D para videojuegos, prototipos, diseño de productos, visualización arquitectónica y proyectos creativos.",
+        "main_advantages": "Reduce el tiempo de modelado 3D; facilita la conversión de ideas visuales en activos digitales; puede apoyar flujos de trabajo de diseño y producción.",
+        "long_description": "Kaedim es una herramienta orientada a la generación de modelos 3D mediante inteligencia artificial. Su objetivo es acelerar procesos creativos al transformar referencias visuales en activos tridimensionales que pueden utilizarse en diseño, videojuegos, visualización y prototipado.",
+        "release_date": "No especificada",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificada",
+        "security_privacy": "Consultar la política de privacidad del proveedor.",
+        "integration": "Disponible mediante plataforma web del proveedor."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.kaedim3d.com"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/kaedim"
+        }
+      ]
+    },
+    "1539": {
+      "app": {
+        "id": "1539",
+        "name": "Inkfluence AI",
+        "url": "https://www.inkfluenceai.com",
+        "short_description": "Crea ebooks/guías listos para publicar desde un prompt: estructura capítulos, redacta, diseña portada y formatea para exportar en PDF/EPUB/DOCX y usar como lead magnet o producto digital.",
+        "category": "Redacción",
+        "main_functionality": "Generación y edición de ebooks/guías (estructura + escritura), diseño de portada y branding, exportación (PDF/EPUB/DOCX) y publicación con un clic en Etsy/Gumroad; opción de audiobook con voces IA.",
+        "tags": "#Ebooks,#GeneracionDeTexto,#Plantillas,#Audiolibros",
+        "logo_filename": "id_1539_inkfluenceai",
+        "what_is": "Plataforma de publicación digital con IA que convierte una idea o prompt en un ebook/guía con capítulos estructurados, formato profesional, portada y archivos exportables; incluye herramientas de edición y opciones para audiolibro.",
+        "purpose": "Para crear y empaquetar rápidamente productos digitales (ebooks, guías, workbooks, lead magnets) listos para distribuir, vender o publicar (p. ej., Kindle/KDP, Gumroad, Etsy) sin depender de herramientas separadas para diseño y maquetación.",
+        "use_cases": "Lead magnets para captar suscriptores (PDF listo para descarga).\nGuías y recursos de pago (exportación y venta; publicación a Etsy/Gumroad).\nEbooks para publicación (EPUB/PDF/DOCX; formato orientado a KDP).\nConversión a audiolibro con voces IA por capítulo.",
+        "main_advantages": "Flujo “todo en uno”: idea → estructura → redacción → diseño → exportación/publicación.\nExportaciones multi-formato (PDF/EPUB/DOCX) para distintos canales.\nPublicación con un clic a Etsy y Gumroad con campos/autodeclaración de IA auto-rellenados (según su página de features).\nPrivacidad declarada: indica que no usa tu contenido para entrenar modelos y que aplica cifrado en tránsito y reposo.",
+        "long_description": "Permite generar ebooks/guías desde un prompt u outline con capítulos estructurados, editar y reescribir secciones en un editor, aplicar plantillas y branding (tipografías/colores), diseñar portadas con templates y exportar a PDF/EPUB/DOCX. Incluye generación de audiolibros con voces IA y funciones orientadas a publicación/venta (incluida publicación a Etsy y Gumroad según su página de features).",
+        "release_date": "2024",
+        "developer": "Sam May (fundador; también figura como “Seller/Developer” en App Store).",
+        "main_model": "No disponible",
+        "pricing_plans": "Free ($0/mes): plantillas básicas, exportación PDF, y 5 capítulos + 5/mes.\nCreator ($9.99/mes): pensado para guías/lead magnets; incluye publicación a Etsy/Gumroad y límites por capítulos (menciona 35 capítulos/mes).\nPremium ($19.99/mes): capacidad ilimitada y características para alto volumen (según pricing/FAQ).\niOS (App Store): muestra compras in-app (p. ej., planes mensuales/anuales y créditos).",
+        "license": "Propietario (SaaS)",
+        "security_privacy": "Declara que el contenido del usuario no se usa para entrenar modelos, no se vende ni se comparte con terceros sin permiso; el usuario retiene derechos sobre su contenido.\nIndica cifrado en tránsito y en reposo, autenticación con Firebase Auth, controles y retención (menciona respaldos hasta 90 días tras borrado en algunos casos).\nEn App Store, el desarrollador indica posibles categorías de datos (p. ej., Purchases, Contact Info, User Content, Usage/Diagnostics), sujeto a la ficha de privacidad.",
+        "integration": "Publicación con un clic a Etsy y Gumroad (incluye autollenado de listing y disclosure de IA, según su página)."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.inkfluenceai.com/"
+        },
+        {
+          "source_url": "https://www.inkfluenceai.com/features"
+        },
+        {
+          "source_url": "https://www.inkfluenceai.com/pricing"
+        },
+        {
+          "source_url": "https://www.inkfluenceai.com/privacy"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/inkfluence-ai"
+        },
+        {
+          "source_url": "https://apps.apple.com/us/app/inkfluence-ebook-creator/id6756296159"
+        },
+        {
+          "source_url": "https://www.capterra.com/p/10040697/Inkfluence-AI"
+        }
+      ]
+    },
+    "1634": {
+      "app": {
+        "id": "1634",
+        "name": "Julius",
+        "url": "https://julius.ai/",
+        "short_description": "Asistente de IA para tareas de trabajo que analiza hojas de cálculo y datos, genera reportes y crea presentaciones para reducir el tiempo necesario para entregar resultados.",
+        "category": "Productividad",
+        "main_functionality": "Analizar datos (Excel/CSV/DBs conectadas), responder preguntas en lenguaje natural, generar visualizaciones/reportes y crear slide decks; incluye conectores de datos y agente para Slack.",
+        "tags": "#Automatización,#AnálisisDeDatos,#Slack,#InteligenciaDeNegocios",
+        "logo_filename": "id_1634_julius",
+        "what_is": "Plataforma de análisis de datos asistida por IA para “tareas de oficina” (p. ej., trabajar con Excel, generar reportes y crear presentaciones), que permite conversar con archivos y fuentes conectadas para obtener análisis y visualizaciones.",
+        "purpose": "Para acelerar el análisis y la comunicación de hallazgos: desde preguntas rápidas sobre datos hasta reportes recurrentes y entregables listos para compartir (incluyendo flujos en Slack).",
+        "use_cases": "Preguntar en lenguaje natural sobre datos en Postgres/Snowflake/BigQuery/Google Drive/Notion/Stripe y otros conectores.\nCrear dashboards y visualizaciones desde datos conectados o archivos.\nProgramar “scheduled runs” para refrescar reportes automáticamente y enviarlos (por ejemplo a Slack/email).\nUsar el Julius Slack Agent para responder preguntas de datos dentro de canales de Slack usando conectores configurados.",
+        "main_advantages": "Reduce trabajo manual de análisis (consultas, cruces, correlaciones) al traducir preguntas a consultas/acciones y devolver explicaciones.\nEntregables listos para compartir (charts/reportes) y automatización de reportes recurrentes.\nConectores “out-of-the-box” para centralizar fuentes sin cambiar de herramienta.\nEnfoque de seguridad/compliance para uso empresarial (p. ej., SOC 2 Type II mencionado por Julius).",
+        "long_description": "Plataforma de análisis de datos y productividad que permite trabajar con archivos (p. ej., hojas de cálculo) y con fuentes conectadas mediante conectores (Google Drive, Notion, Stripe, Postgres, Snowflake, BigQuery, etc.). Ofrece interacción en lenguaje natural para obtener insights, gráficos y reportes; capacidades de automatización como scheduled runs (reportes recurrentes) y un Slack Agent para llevar respuestas e insights directamente a Slack usando conectores ya configurados.",
+        "release_date": "No disponible",
+        "developer": "Julius",
+        "main_model": "Senciona acceso a modelos “frontier” como GPT-5.5 y Claude Opus 4.7 (según el plan).",
+        "pricing_plans": "Free: $0/mes; créditos diarios; Notebooks; Google Drive connector; 2 GB RAM.\nPlus: $20/mes ($16/mes anual); 2,000 créditos/mes; 1 asiento; modelos frontier (GPT-5.5/Claude Opus 4.7); charts ilimitados.\nPro: $45/mes ($37/mes anual); 5,000 créditos/mes; contexto ampliado; 32 GB RAM; soporte prioritario.\nMax: $200/mes ($166/mes anual); 25,000 créditos/mes; mayor contexto; early access.\nUltra: $500/mes ($416/mes anual); 70,000 créditos/mes; “permanent file storage” y prioridad en alta demanda.\nBusiness: $450/mes ($375/mes anual); 10 asientos; conectores adicionales (Postgres/BigQuery/Snowflake + más); 1 Custom Agent; uso del Slack Agent en canales públicos; 3 scheduled runs.\nGrowth: $750/mes ($625/mes anual); hasta 30 asientos; KB connectors (Notion/GitHub); data dictionary configurable; Custom Agents ilimitados; Slack Agent en canales privados; dashboards ilimitados.",
+        "license": "Propietaria / comercial (SaaS).",
+        "security_privacy": "Política de privacidad pública (incluye categorías de datos, cookies/analítica, y advertencia sobre información compartida en herramientas tipo chat/foro).\nPágina de seguridad indica cifrado en tránsito y en reposo, y que no usan datos del cliente para entrenar IA (según su material de seguridad).\nJulius comunica certificaciones/estándares como SOC 2 Type II (y menciones de compliance en páginas enterprise).",
+        "integration": "Conectores de datos: Google Drive, Notion, Stripe, Postgres, Snowflake, BigQuery y más.\nSlack Agent: consultas de datos desde Slack con acceso a conectores configurados."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "How AthenaHQ turned a full day of data work into under an hour with Julius",
+          "description": "Caso publicado por Julius (Oct 23, 2025). Reporta reducción del tiempo de análisis para correlaciones complejas y multi-tabla de “un día” a “menos de una hora”, con casi cero tiempo de ingeniería en la exploración para la mayoría de análisis, y mayor confianza por consultas/explicaciones transparentes.",
+          "url": "https://julius.ai/articles/case-study-athenahq"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "How SpellBook's VP of Finance transformed 8–10 hours of manual data work into minutes with Julius",
+          "description": "Caso publicado por Julius (Aug 7, 2025). El VP de Finanzas reporta que un proceso recurrente pasó de 8–10 horas/semana de trabajo manual con datasets de 100,000+ filas a “un par de minutos” al cargar el dataset y ejecutar el análisis en Julius.",
+          "url": "https://julius.ai/articles/case-study-spellbook"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://julius.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=deepseek-s-v4-challenges-opus-4-7-and-gpt-5-4"
+        },
+        {
+          "source_url": "https://julius.ai/pricing"
+        },
+        {
+          "source_url": "https://julius.ai/blog"
+        },
+        {
+          "source_url": "https://effortlessacademic.com/julius-ai-in-depth-review"
+        }
+      ]
+    },
+    "1637": {
+      "app": {
+        "id": "1637",
+        "name": "Inhabitr",
+        "url": "https://www.inhabitr.com/",
+        "short_description": "Genera soluciones de diseño de interiores y mobiliario para espacios residenciales o comerciales.",
+        "category": "Generación de diseño",
+        "main_functionality": "Diseño de interiores y mobiliario asistido por inteligencia artificial.",
+        "tags": "#IA #Diseño #RealEstate #Ecommerce",
+        "logo_filename": "id_1637_inhabitr",
+        "what_is": "Inhabitr es una herramienta orientada a generar soluciones de diseño interior, mobiliario y visualización de espacios para proyectos residenciales o comerciales.",
+        "purpose": "Generar soluciones de diseño interior, mobiliario y visualización de espacios.",
+        "use_cases": "Diseño de interiores, decoración, mobiliario, real estate, visualización de espacios, e-commerce y propuestas comerciales.",
+        "main_advantages": "Facilita visualizar espacios; apoya propuestas de diseño interior; puede ser útil para proyectos residenciales, comerciales e inmobiliarios.",
+        "long_description": "Inhabitr es una herramienta orientada al diseño interior y mobiliario con apoyo de inteligencia artificial. Puede utilizarse para visualizar espacios, generar propuestas de diseño y apoyar proyectos residenciales, comerciales o de comercio electrónico.",
+        "release_date": "No disponible",
+        "developer": "inhabitr.com",
+        "main_model": "No especificado",
+        "pricing_plans": "Consultar precio",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.inhabitr.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/inhabitr"
+        }
+      ]
+    },
+    "1739": {
+      "app": {
+        "id": "1739",
+        "name": "InkScan",
+        "url": "https://inkscan.app/es",
+        "short_description": "InkScan convierte imágenes manuscritas en contenido editable mediante IA, ayudando a digitalizar notas, documentos y registros visuales.",
+        "category": "Productividad",
+        "main_functionality": "Conversión de imágenes manuscritas en contenido editable",
+        "tags": "#Productividad #OCR #Imágenes",
+        "logo_filename": "id_1739_inkscan",
+        "what_is": "InkScan es una herramienta que convierte imágenes manuscritas en contenido editable mediante inteligencia artificial. Puede ser útil para digitalizar notas, documentos escritos a mano, registros visuales o material escaneado.",
+        "purpose": "Convertir contenido manuscrito o imágenes escaneadas en información editable y reutilizable.",
+        "use_cases": "Digitalización de notas manuscritas; extracción de texto de imágenes; edición de documentos escaneados; conversión de registros visuales.",
+        "main_advantages": "Convierte contenido manuscrito en texto editable; facilita digitalización; reduce captura manual; aprovecha información visual.",
+        "long_description": "InkScan es una herramienta que convierte imágenes manuscritas en contenido editable mediante inteligencia artificial. Puede utilizarse para digitalizar notas, documentos escritos a mano, registros visuales o material escaneado. Su valor está en reducir la captura manual y hacer reutilizable información que originalmente está en formato visual.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://inkscan.app/es"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/inkscan-bg7iqg"
+        }
+      ]
+    },
+    "1750": {
+      "app": {
+        "id": "1750",
+        "name": "Intempt",
+        "url": "https://intempt.com",
+        "short_description": "Intempt permite unificar datos y automatizar flujos de marketing, apoyando campañas, segmentación y operación comercial.",
+        "category": "Marketing",
+        "main_functionality": "Unificación de datos y automatización de marketing",
+        "tags": "#Marketing #Datos #Automatización",
+        "logo_filename": "id_1750_intempt",
+        "what_is": "Intempt es una herramienta de marketing que permite unificar datos y automatizar flujos comerciales. Ayuda a conectar información de usuarios, campañas y procesos para mejorar la operación de marketing.",
+        "purpose": "Unificar datos y automatizar flujos de marketing para mejorar campañas, segmentación y operación comercial.",
+        "use_cases": "Automatización de marketing; segmentación de usuarios; integración de datos; operación de campañas.",
+        "main_advantages": "Unifica datos de marketing; automatiza campañas; mejora segmentación; apoya decisiones comerciales.",
+        "long_description": "Intempt es una herramienta de marketing para unificar datos y automatizar flujos comerciales. Ayuda a conectar información de usuarios, campañas y procesos para mejorar segmentación, operación y toma de decisiones. Puede ser útil para equipos de crecimiento, marketing y ventas que trabajan con datos dispersos.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://intempt.com"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/intempt-2k15a7"
+        }
+      ]
+    },
+    "1770": {
+      "app": {
+        "id": "1770",
+        "name": "Journey",
+        "url": "https://www.journeykits.ai/",
+        "short_description": "Journey permite instalar y administrar flujos de trabajo reutilizables con agentes de IA, facilitando la automatización de procesos.",
+        "category": "Automatización",
+        "main_functionality": "Instalación y administración de flujos reutilizables con agentes de IA",
+        "tags": "#Automatización #AgentesIA #Workflows",
+        "logo_filename": "id_1770_journey",
+        "what_is": "Journey es una herramienta para instalar y administrar flujos de trabajo reutilizables con agentes de IA. Permite organizar automatizaciones y procesos que pueden repetirse o adaptarse dentro de equipos.",
+        "purpose": "Administrar flujos reutilizables con agentes de IA para automatizar procesos técnicos u operativos.",
+        "use_cases": "Workflows reutilizables; automatización de procesos; administración de agentes; flujos internos con IA.",
+        "main_advantages": "Permite reutilizar workflows; automatiza procesos; facilita administración de agentes; mejora eficiencia operativa.",
+        "long_description": "Journey es una herramienta para instalar, administrar y reutilizar flujos de trabajo con agentes de inteligencia artificial. Permite estructurar automatizaciones que pueden repetirse dentro de equipos o procesos. Su valor está en hacer más organizada la gestión de workflows basados en agentes.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.journeykits.ai/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/journey-db9kg4"
+        }
+      ]
+    },
+    "1833": {
+      "app": {
+        "id": "1833",
+        "name": "Ito",
+        "url": "https://www.ito.ai/",
+        "short_description": "Ito ayuda a probar aplicaciones mediante agentes autónomos de IA, facilitando validación técnica y revisión de funcionalidades.",
+        "category": "Automatización",
+        "main_functionality": "Pruebas de aplicaciones con agentes autónomos de IA",
+        "tags": "#Automatización #AgentesIA #Aplicaciones",
+        "logo_filename": "id_1833_ito",
+        "what_is": "Ito es una herramienta para probar aplicaciones usando agentes autónomos de inteligencia artificial. Ayuda a revisar funcionalidades, validar comportamientos y apoyar procesos técnicos de testing.",
+        "purpose": "Probar aplicaciones con agentes autónomos para apoyar validación técnica y revisión de funcionalidades.",
+        "use_cases": "Testing de aplicaciones; validación de funcionalidades; revisión técnica; pruebas automatizadas con agentes.",
+        "main_advantages": "Apoya testing con agentes; reduce revisión manual; valida funcionalidades; mejora procesos técnicos.",
+        "long_description": "Ito es una herramienta para probar aplicaciones usando agentes autónomos de inteligencia artificial. Ayuda a revisar funcionalidades, validar comportamientos y apoyar procesos técnicos de testing. Su utilidad está en reducir parte del esfuerzo manual asociado a pruebas y revisión de aplicaciones.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.ito.ai/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/ito-y783we"
+        }
+      ]
+    },
+    "1871": {
+      "app": {
+        "id": "1871",
+        "name": "InsForge",
+        "url": "https://insforge.dev/",
+        "short_description": "InsForge permite construir y desplegar backends con agentes de IA, apoyando desarrollo y automatización técnica.",
+        "category": "Automatización",
+        "main_functionality": "Construcción y despliegue de backends con agentes de IA",
+        "tags": "#Automatización #AgentesIA #Backend",
+        "logo_filename": "id_1871_insforge",
+        "what_is": "InsForge es una herramienta de automatización técnica que permite construir y desplegar backends con agentes de IA. Está orientada a acelerar desarrollo, configuración y operación de servicios backend.",
+        "purpose": "Construir y desplegar backends con agentes de IA para acelerar desarrollo técnico.",
+        "use_cases": "Backends con IA; desarrollo técnico; despliegue de servicios; automatización de infraestructura.",
+        "main_advantages": "Acelera desarrollo backend; usa agentes de IA; reduce configuración manual; apoya despliegue técnico.",
+        "long_description": "InsForge es una herramienta de automatización técnica que permite construir y desplegar backends con agentes de IA. Está orientada a acelerar desarrollo, configuración y operación de servicios backend. Puede apoyar a equipos técnicos que buscan reducir fricción en la creación de infraestructura y servicios.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://insforge.dev/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/insforge-ijdpwa"
+        }
+      ]
+    },
+    "1951": {
+      "app": {
+        "id": "1951",
+        "name": "Intavia",
+        "url": "https://www.intavia.ai/",
+        "short_description": "Intavia automatiza llamadas para citas y reservas, facilitando atención telefónica y programación de servicios.",
+        "category": "Automatización",
+        "main_functionality": "Automatización de llamadas para citas y reservas",
+        "tags": "#Automatización #AgentesIA #Citas",
+        "logo_filename": "id_1951_intavia",
+        "what_is": "Intavia es una herramienta para automatizar llamadas relacionadas con citas y reservas. Está orientada a atención telefónica, programación de servicios y seguimiento de clientes.",
+        "purpose": "Automatizar llamadas para citas y reservas, facilitando atención telefónica y programación de servicios.",
+        "use_cases": "Llamadas de citas; reservas; atención telefónica; programación automatizada.",
+        "main_advantages": "Automatiza llamadas; facilita reservas; reduce trabajo telefónico; mejora programación de citas.",
+        "long_description": "Intavia es una herramienta para automatizar llamadas relacionadas con citas y reservas. Está orientada a atención telefónica, programación de servicios y seguimiento de clientes. Puede ayudar a negocios que gestionan reservas o citas y buscan reducir trabajo manual en llamadas.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.intavia.ai/"
+        }
+      ]
+    },
+    "2008": {
+      "app": {
+        "id": "2008",
+        "name": "Jugl AI",
+        "url": "https://jugl.ai/",
+        "short_description": "Jugi AI permite automatizar tareas y procesos mediante agentes de IA orientados a reducir trabajo manual.",
+        "category": "Automatización",
+        "main_functionality": "Automatización de tareas y procesos mediante agentes de IA.",
+        "tags": "automatización, agentes de IA, workflows, tareas repetitivas",
+        "logo_filename": "id_2008_jugi_ai",
+        "what_is": "Jugi AI es una herramienta de automatización que utiliza IA para ejecutar tareas, organizar procesos y reducir trabajo manual en flujos operativos.",
+        "purpose": "Automatizar tareas repetitivas y procesos operativos mediante agentes de IA.",
+        "use_cases": "Automatización de procesos; agentes de IA; workflows internos; tareas repetitivas.",
+        "main_advantages": "Disminuye trabajo repetitivo, mejora flujos operativos y permite usar agentes de IA para ejecutar tareas.",
+        "long_description": "Jugi AI es una herramienta de automatización que utiliza IA para ejecutar tareas y coordinar procesos. Puede apoyar flujos operativos, tareas repetitivas y actividades que normalmente requieren seguimiento manual. Su valor está en reducir carga operativa y permitir que ciertos procesos avancen de manera más eficiente.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://jugl.ai/"
+        }
+      ]
+    },
+    "2101": {
+      "app": {
+        "id": "2101",
+        "name": "IQuest Coder",
+        "url": "https://iquestcoder.ai/",
+        "short_description": "IQuest Coder ayuda en tareas de programación, generación de código y asistencia técnica para desarrollo.",
+        "category": "Codificación",
+        "main_functionality": "Asistencia para programación, generación de código y tareas técnicas de desarrollo.",
+        "tags": "codificación, programación, asistencia técnica, desarrollo",
+        "logo_filename": "id_2101_iquest_coder",
+        "what_is": "IQuest Coder es una herramienta de codificación que ayuda en tareas de programación, generación de código y asistencia técnica. Puede apoyar a desarrolladores o usuarios técnicos en la creación y revisión de soluciones de software.",
+        "purpose": "Ayudar en tareas de programación, generación de código y asistencia técnica para desarrollo.",
+        "use_cases": "Programación; generación de código; asistencia técnica; desarrollo de software.",
+        "main_advantages": "Acelera tareas de programación, facilita generación de código y apoya resolución de problemas técnicos.",
+        "long_description": "IQuest Coder es una herramienta de codificación que ayuda en tareas de programación, generación de código y asistencia técnica. Puede apoyar a desarrolladores o usuarios técnicos en la creación, revisión y mejora de soluciones de software. Su utilidad está en acelerar tareas técnicas y facilitar trabajo relacionado con desarrollo.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://iquestcoder.ai/"
+        }
+      ]
+    },
+    "2131": {
+      "app": {
+        "id": "2131",
+        "name": "InvoiceAgent.ai",
+        "url": "https://invoiceagent.ai/",
+        "short_description": "Solución de IA para automatizar la extracción, organización y gestión de datos de facturas.",
+        "category": "Automatización",
+        "main_functionality": "Extraer, organizar y procesar automáticamente la información contenida en facturas.",
+        "tags": "extracción de facturas, procesamiento de documentos, automatización contable, datos financieros",
+        "logo_filename": "id_2131_invoiceagent_ai",
+        "what_is": "InvoiceAgent.ai es una solución de automatización documental especializada en el procesamiento de facturas.",
+        "purpose": "Automatizar el procesamiento de facturas y disminuir la captura manual de información financiera.",
+        "use_cases": "Captura de datos de facturas, clasificación documental, preparación de registros contables y automatización de flujos administrativos.",
+        "main_advantages": "Reduce errores de captura, acelera tareas administrativas y estructura automáticamente datos de facturación.",
+        "long_description": "InvoiceAgent.ai es una solución de automatización especializada en la extracción y gestión de datos contenidos en facturas. Puede identificar información relevante, estructurarla y facilitar su incorporación a procesos administrativos o contables, reduciendo la captura manual y los posibles errores asociados.",
+        "release_date": "No disponible",
+        "developer": "InvoiceAgent.ai",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://invoiceagent.ai/"
+        }
+      ]
+    },
+    "2161": {
+      "app": {
+        "id": "2161",
+        "name": "Insightful Pipe",
+        "url": "https://insightfulpipe.com/",
+        "short_description": "Plataforma que conecta datos de marketing en tiempo real con herramientas de inteligencia artificial.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Conectar datos de marketing en tiempo real con herramientas de inteligencia artificial.",
+        "tags": "datos de marketing, análisis de campañas, integración de datos, inteligencia empresarial",
+        "logo_filename": "id_2161_insightful_pipe",
+        "what_is": "Insightful Pipe es una plataforma que conecta información de marketing en tiempo real con herramientas de IA.",
+        "purpose": "Conectar datos de marketing en tiempo real con herramientas de inteligencia artificial.",
+        "use_cases": "Análisis de campañas, integración de datos de marketing, seguimiento de métricas y conexión con asistentes de IA.",
+        "main_advantages": "Conecta información actualizada de marketing con herramientas de IA para facilitar su aprovechamiento.",
+        "long_description": "Insightful Pipe es una plataforma que conecta datos de marketing en tiempo real con herramientas de inteligencia artificial. Permite integrar información de campañas y métricas dentro de flujos donde pueda ser consultada, procesada o analizada con IA.",
+        "release_date": "No disponible",
+        "developer": "Insightful Pipe",
+        "main_model": "No especificado",
+        "pricing_plans": "No disponible",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://insightfulpipe.com/"
+        }
+      ]
+    },
+    "2162": {
+      "app": {
+        "id": "2162",
+        "name": "KaiCalls",
+        "url": "https://www.kaicalls.com/",
+        "short_description": "Herramienta que captura, califica y da seguimiento automático a prospectos comerciales.",
+        "category": "Automatización",
+        "main_functionality": "Capturar, calificar y dar seguimiento automático a prospectos comerciales.",
+        "tags": "captura de prospectos, calificación de leads, seguimiento comercial, automatización de ventas",
+        "logo_filename": "id_2162_kaicalls",
+        "what_is": "KaiCalls es una solución de automatización comercial para capturar, calificar y dar seguimiento a prospectos.",
+        "purpose": "Automatizar la captura, calificación y seguimiento de prospectos comerciales.",
+        "use_cases": "Captura de leads, calificación de prospectos, seguimiento comercial y automatización de contacto.",
+        "main_advantages": "Centraliza distintas etapas del seguimiento de prospectos y reduce tareas comerciales repetitivas.",
+        "long_description": "KaiCalls es una solución de automatización comercial orientada a capturar, calificar y dar seguimiento a prospectos. Reúne distintas etapas del manejo de leads para reducir tareas repetitivas y apoyar el trabajo de equipos de ventas.",
+        "release_date": "No disponible",
+        "developer": "KaiCalls",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.kaicalls.com/"
+        }
+      ]
+    },
+    "2366": {
+      "app": {
+        "id": "2366",
+        "name": "IntoChat",
+        "url": "https://www.intochat.ai/es",
+        "short_description": "Plataforma de chatbot para soporte al cliente, generación de leads y conversaciones automatizadas.",
+        "category": "Chat",
+        "main_functionality": "Automatizar soporte al cliente, generación de leads y conversaciones mediante chatbots integrados en sitios web.",
+        "tags": "chatbot, atención al cliente, generación de leads, chat web, soporte, agentes conversacionales",
+        "logo_filename": "id_2366_intochat",
+        "what_is": "IntoChat es una plataforma de chat orientada a automatizar soporte, generación de leads y conversaciones con usuarios.",
+        "purpose": "Automatizar conversaciones con visitantes y clientes para mejorar soporte y generación de oportunidades comerciales.",
+        "use_cases": "Soporte al cliente, generación de leads, preguntas frecuentes, chat web y conversaciones automatizadas.",
+        "main_advantages": "Permite incorporar soporte y captación automatizada sin construir desde cero un sistema completo de chat.",
+        "long_description": "IntoChat es una plataforma de chat orientada a automatizar conversaciones con visitantes y clientes. Puede utilizarse en soporte, atención de preguntas frecuentes, generación de leads y otros procesos donde se requieran interacciones automatizadas mediante chatbots.",
+        "release_date": "No disponible",
+        "developer": "IntoChat",
+        "main_model": "No especificado",
+        "pricing_plans": "Free: $0; Starter: $19 USD/mes; Pro: $49 USD/mes; Enterprise: personalizado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "Chat embebible en sitios web"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.intochat.ai/es"
+        }
+      ]
+    },
+    "2529": {
+      "app": {
+        "id": "2529",
+        "name": "Janus",
+        "url": "https://janus.cam/",
+        "short_description": "Plataforma de avatares en tiempo real que permite transformar la apariencia del usuario durante transmisiones, videollamadas y creación de contenido.",
+        "category": "Generación de video",
+        "main_functionality": "Transforma en tiempo real la representación visual del usuario mediante avatares y animación facial para videollamadas, streaming y creación de contenido.",
+        "tags": "avatares, animación facial, webcam, streaming, personajes, video",
+        "logo_filename": "id_2529_janus",
+        "what_is": "Janus es una plataforma de avatares y animación facial en tiempo real orientada a streaming, videollamadas y creación de contenido digital.",
+        "purpose": "Permitir que usuarios utilicen avatares digitales y animación facial en tiempo real para comunicación, entretenimiento y creación de contenido.",
+        "use_cases": "Utilizar avatares en videollamadas; crear personajes para streaming; producir contenido con identidad virtual; animar rostros en tiempo real; experimentar con personajes digitales.",
+        "main_advantages": "Permite utilizar personajes digitales en tiempo real sin requerir un flujo tradicional de animación para cada transmisión o videollamada.",
+        "long_description": "Janus es una plataforma orientada a avatares digitales y animación facial en tiempo real. Permite modificar la representación visual de una persona durante transmisiones, videollamadas o producción de contenido mediante personajes virtuales. Está pensada para creadores, streamers y usuarios que buscan incorporar identidades digitales o personajes animados dentro de experiencias de comunicación en vivo.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Plan gratuito con créditos iniciales. Sistema de créditos y modalidad Pro; el precio final depende del acceso y consumo vigente.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://janus.cam/"
+        }
+      ]
+    },
+    "2530": {
+      "app": {
+        "id": "2530",
+        "name": "Infron",
+        "url": "https://infron.ai/",
+        "short_description": "Gateway de inteligencia artificial que unifica el acceso a múltiples modelos y proveedores mediante una sola API con routing, observabilidad y controles de uso.",
+        "category": "Codificación",
+        "main_functionality": "Centraliza el acceso a múltiples modelos de inteligencia artificial mediante una API compatible con diferentes proveedores e incorpora routing, fallbacks, observabilidad y control de costos.",
+        "tags": "API de IA, gateway de LLM, routing, múltiples modelos, desarrolladores, infraestructura de IA",
+        "logo_filename": "id_2530_infron",
+        "what_is": "Infron es una plataforma de infraestructura de inteligencia artificial que funciona como gateway unificado para acceder y enrutar solicitudes entre múltiples modelos y proveedores.",
+        "purpose": "Simplificar la integración y operación de múltiples proveedores de inteligencia artificial mediante una capa unificada de acceso, routing y control.",
+        "use_cases": "Acceder a diferentes LLM mediante una API; cambiar de proveedor; implementar fallbacks; enrutar solicitudes según precio o rendimiento; controlar gastos; centralizar observabilidad de aplicaciones de IA.",
+        "main_advantages": "Reduce la dependencia de proveedores individuales y centraliza routing, fallbacks, costos y observabilidad dentro de una misma infraestructura.",
+        "long_description": "Infron es una plataforma de infraestructura para aplicaciones de inteligencia artificial que ofrece acceso unificado a múltiples modelos y proveedores mediante una API. Su gateway incorpora funciones de routing entre proveedores y modelos, fallbacks, observabilidad, registro de uso, control presupuestario y compatibilidad con diferentes formatos de API. La plataforma está orientada a desarrolladores y organizaciones que necesitan operar aplicaciones de IA sin depender de un único proveedor.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Modalidad de pago por uso. Infron aplica una tarifa de servicio del 5% + USD 0.35 al fondear créditos y transfiere los precios de los modelos sin margen adicional. Enterprise aplica una tarifa del 3% y puede ofrecer descuentos por volumen.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://infron.ai/"
+        }
+      ]
+    },
+    "2562": {
+      "app": {
+        "id": "2562",
+        "name": "Interactico",
+        "url": "https://www.interactico.com/",
+        "short_description": "Complemento para Google Meet que permite añadir encuestas, preguntas, cuestionarios y otras dinámicas interactivas durante reuniones y clases.",
+        "category": "Productividad",
+        "main_functionality": "Añade encuestas, preguntas, cuestionarios y dinámicas interactivas a reuniones realizadas mediante Google Meet.",
+        "tags": "Google Meet, encuestas, cuestionarios, Q&A, participación, reuniones, colaboración",
+        "logo_filename": "id_2562_interactico",
+        "what_is": "Interactico es una extensión para Google Meet que incorpora herramientas interactivas para reuniones, clases y presentaciones.",
+        "purpose": "Mejorar la participación durante reuniones y clases en Google Meet mediante encuestas, preguntas, cuestionarios y dinámicas interactivas.",
+        "use_cases": "Realizar encuestas en reuniones; lanzar cuestionarios; recopilar preguntas; aumentar participación en clases; obtener feedback; dinamizar presentaciones en Google Meet.",
+        "main_advantages": "Añade interacción a Google Meet sin requerir una plataforma externa para encuestas, preguntas o cuestionarios.",
+        "long_description": "Interactico es una extensión para Google Meet que añade herramientas de participación a reuniones y clases. Permite crear encuestas, preguntas, cuestionarios y otras dinámicas interactivas durante una sesión. Está orientada a docentes, presentadores y equipos que desean aumentar la participación sin abandonar el entorno de Google Meet.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Plan Free USD 0. Pro USD 100/año y Plus USD 200/año.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.interactico.com/"
+        }
+      ]
+    },
+    "2660": {
+      "app": {
+        "id": "2660",
+        "name": "Intezer",
+        "url": "https://intezer.com/",
+        "short_description": "Plataforma AI SOC que automatiza clasificación, investigación y respuesta a alertas de seguridad mediante análisis forense e inteligencia de amenazas.",
+        "category": "Detección",
+        "main_functionality": "Automatiza clasificación, investigación y respuesta inicial a alertas de ciberseguridad utilizando análisis forense e inteligencia de amenazas.",
+        "tags": "AI SOC, ciberseguridad, threat detection, alert triage, forensics, phishing, threat intelligence, incident response",
+        "logo_filename": "id_2660_intezer",
+        "what_is": "Intezer es una plataforma de ciberseguridad que utiliza inteligencia artificial para automatizar funciones de SOC, investigación y respuesta a amenazas.",
+        "purpose": "Acelerar las operaciones SOC automatizando clasificación, investigación y respuesta inicial ante amenazas.",
+        "use_cases": "Clasificar alertas; investigar phishing; analizar endpoints; hacer threat hunting; enriquecer IOCs; realizar análisis forense; apoyar respuesta a incidentes.",
+        "main_advantages": "Integra múltiples tareas de investigación SOC dentro de un flujo automatizado para reducir tiempo de respuesta.",
+        "long_description": "Intezer ofrece una plataforma de AI SOC orientada a automatizar tareas de ciberseguridad. Analiza alertas procedentes de diferentes sistemas, realiza investigación contextual y forense y ayuda a determinar severidad y acciones posteriores. Puede utilizarse en casos como phishing, endpoints, threat hunting e investigación de incidentes.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Planes Starter y Complete con precio basado en número de endpoints; cotización personalizada para Enterprise y MSSP.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://intezer.com/"
+        }
+      ]
+    }
+  }
+}

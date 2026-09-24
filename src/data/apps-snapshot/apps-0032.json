@@ -1,0 +1,2438 @@
+{
+  "schemaVersion": 1,
+  "apps": {
+    "14": {
+      "app": {
+        "id": "14",
+        "name": "Quillbot",
+        "url": "https://quillbot.com/",
+        "short_description": "Herramienta de escritura asistida por inteligencia artificial que ofrece parafraseo, corrección gramatical, resumen de textos y detección de contenido generado por IA.",
+        "category": "Generación de texto",
+        "main_functionality": "Asistencia en la escritura mediante parafraseo, corrección gramatical, resumen de textos y detección de contenido generado por IA.",
+        "tags": "#GeneraciónDeTexto #LLM #CorrecciónGramatical",
+        "logo_filename": "id_14_quillbot",
+        "what_is": "QuillBot es una herramienta de escritura asistida por inteligencia artificial que ofrece funcionalidades como parafraseo, corrección gramatical, resumen de textos y detección de contenido generado por IA.",
+        "purpose": "Su propósito principal es mejorar la calidad y eficiencia de la escritura, ayudando a los usuarios a reformular textos, corregir errores gramaticales, resumir contenido extenso y detectar posibles plagios o contenido generado por inteligencia artificial.",
+        "use_cases": "Estudiantes y Académicos: Mejora de ensayos, trabajos y tesis mediante parafraseo y corrección gramatical.\nEscritores y Creadores de Contenido: Generación de contenido único y atractivo, reformulación de materiales existentes y detección de plagio.\nProfesionales y Empresas: Redacción de correos electrónicos, informes y presentaciones con mayor claridad y estilo.\nAprendizaje de Idiomas: Apoyo en la mejora de habilidades de escritura y comprensión de diferentes opciones de redacción.",
+        "main_advantages": "Interfaz fácil de usar: Ofrece múltiples opciones de integración, como extensiones de navegador y compatibilidad con Google Docs.\nVersión gratuita disponible: Proporciona funcionalidad básica sin costo.\nActualizaciones continuas: Incorpora nuevas características y mejoras de manera regular.",
+        "long_description": "QuillBot es una plataforma de escritura asistida por inteligencia artificial que ofrece una variedad de herramientas diseñadas para mejorar la calidad y eficiencia de la redacción. Entre sus funcionalidades destacan el parafraseo de textos, corrección gramatical, resumen de contenido, detección de plagio y generación de citas. Estas herramientas permiten a los usuarios reformular oraciones, corregir errores lingüísticos, sintetizar información extensa y asegurar la originalidad de sus escritos. QuillBot se integra con diversas plataformas, incluyendo extensiones para navegadores y compatibilidad con Google Docs, facilitando su uso en múltiples entornos de trabajo.",
+        "release_date": "2017",
+        "developer": "Learneo, Inc.",
+        "main_model": "QuillBot utiliza modelos avanzados de procesamiento de lenguaje natural y aprendizaje automático para comprender y reformular textos de manera coherente y natural.",
+        "pricing_plans": "QuillBot ofrece una versión gratuita con funcionalidades básicas y una versión premium que incluye características avanzadas, como modos adicionales de parafraseo, mayor límite de palabras y acceso a todas las herramientas disponibles.",
+        "license": "Propietaria de Learneo, Inc.",
+        "security_privacy": "QuillBot se compromete a proteger la privacidad de sus usuarios, implementando medidas de seguridad para salvaguardar la información y los datos procesados a través de su plataforma. La empresa detalla sus prácticas de privacidad en su política oficial, asegurando que los datos de los usuarios no se comparten con terceros sin consentimiento.",
+        "integration": "QuillBot se integra con diversas plataformas y herramientas, incluyendo extensiones para navegadores como Chrome, compatibilidad con Google Docs y Microsoft Word, lo que facilita su incorporación en flujos de trabajo existentes y mejora la accesibilidad para los usuarios."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://quillbot.com/"
+        },
+        {
+          "source_url": "https://www.scribbr.es/parafrasear/"
+        },
+        {
+          "source_url": "https://quillbot.com/es/parafrasear"
+        },
+        {
+          "source_url": "https://quillbot.com/es/"
+        },
+        {
+          "source_url": "https://www.techopedia.com/es/definicion/quillbot"
+        },
+        {
+          "source_url": "https://textcortex.com/es/post/revisi%C3%B3n-de-quillbot"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/quillbot/features"
+        },
+        {
+          "source_url": "https://en.wikipedia.org/wiki/QuillBot"
+        },
+        {
+          "source_url": "https://quillbot.com/about"
+        },
+        {
+          "source_url": "https://comunicagenia.com/blog/quillbot-ia-escribir-editar-textos/"
+        }
+      ]
+    },
+    "30": {
+      "app": {
+        "id": "30",
+        "name": "Prompt Perfekt",
+        "url": "https://promptperfekt.com/",
+        "short_description": "Una plataforma de IA que analiza su mensaje y hace preguntas específicas para mejorar la claridad, luego crea un mensaje avanzado combinando toda la información recopilada.",
+        "category": "Generación de texto",
+        "main_functionality": "Prompt Perfekt se centra en la mejora automática de prompts, refinándolos para lograr mayor precisión, claridad y efectividad en las respuestas generadas por modelos de lenguaje.",
+        "tags": "#GeneraciónDeTexto #LLM #Chatbot",
+        "logo_filename": "id_30_prompt_perfekt",
+        "what_is": "Prompt Perfekt es una herramienta de inteligencia artificial diseñada para optimizar y perfeccionar prompts, mejorando la interacción y los resultados en modelos de lenguaje como ChatGPT.",
+        "purpose": "Su propósito principal es ayudar a los usuarios a generar prompts más precisos y efectivos, lo que resulta en respuestas más relevantes y coherentes por parte de modelos de lenguaje.",
+        "use_cases": "Redacción de Contenido: Periodistas y escritores pueden utilizar Prompt Perfekt para generar ideas y estructurar artículos de manera más eficiente.\n\nEducación: Estudiantes y profesores pueden formular preguntas y obtener explicaciones claras sobre diversos temas.\n\nAtención al Cliente: Empresas pueden mejorar la interacción con clientes al generar respuestas más precisas y satisfactorias.\n\nDesarrollo de Software: Programadores pueden obtener sugerencias de código y soluciones a problemas específicos.",
+        "main_advantages": "Mejora de la Calidad: Genera prompts más claros y específicos, lo que conduce a respuestas de mayor calidad.\n\nAhorro de Tiempo: Facilita la creación de prompts efectivos, reduciendo el tiempo dedicado a la formulación de preguntas.\n\nVersatilidad: Aplicable en diversos campos como educación, atención al cliente, redacción y programación.\n\nAccesibilidad: Diseñada para ser utilizada por personas con distintos niveles de experiencia en inteligencia artificial.",
+        "long_description": "Prompt Perfekt es una herramienta de inteligencia artificial diseñada para optimizar y perfeccionar prompts, mejorando la interacción y los resultados en modelos de lenguaje como ChatGPT. Su objetivo es ayudar a los usuarios a generar prompts más precisos y efectivos, lo que resulta en respuestas más relevantes y coherentes por parte de modelos de lenguaje.",
+        "release_date": "2023",
+        "developer": "Prompt Perfekt Inc.",
+        "main_model": "Prompt Perfekt utiliza modelos avanzados de inteligencia artificial para analizar y optimizar prompts, mejorando la interacción con modelos de lenguaje.",
+        "pricing_plans": "Prompt Perfekt ofrece una variedad de planes de precios para adaptarse a diferentes niveles de uso. Los planes van desde una opción gratuita hasta un plan de $99.99 al mes.",
+        "license": "Propietaria de Prompt Perfekt Inc.",
+        "security_privacy": "Prompt Perfekt se compromete a proteger la privacidad y seguridad de los datos de los usuarios, implementando medidas de seguridad adecuadas para garantizar la confidencialidad y el uso adecuado de la información proporcionada.",
+        "integration": "Prompt Perfekt ofrece acceso a API y datos, lo que permite integrar fácilmente la herramienta en flujos de trabajo existentes y aprovechar al máximo sus capacidades de optimización."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://promptperfekt.com/?_bhlid=b6d0d3f795596978bdce2782de892f2116fc033d&utm_campaign=perplexity-s-meteoric-rise&utm_medium=newsletter&utm_source=superhuman"
+        },
+        {
+          "source_url": "https://deepgram.com/ai-apps/promptperfect"
+        },
+        {
+          "source_url": "https://www.youtube.com/watch?v=eh7g4FfNlIM"
+        },
+        {
+          "source_url": "https://vivevirtual.es/inteligencia-artificial/promptperfect-loptimiza-tus-prompts-para-modelos-de-lenguaje-grandes/"
+        },
+        {
+          "source_url": "https://promptperfekt.com/"
+        },
+        {
+          "source_url": "https://aivalley.ai/prompt-perfect/"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/ai-news-es/mejora-tu-experiencia-de-ia-con-prompt-perfect-optimiza-tus-prompts-1089945"
+        },
+        {
+          "source_url": "https://promptperfect.jina.ai/"
+        },
+        {
+          "source_url": "https://visualpublinet.com/que-es-un-prompt-y-como-utilizarlo-para-generar-contenido-con-ejemplos/"
+        }
+      ]
+    },
+    "135": {
+      "app": {
+        "id": "135",
+        "name": "Quillminds",
+        "url": "https://www.quillminds.com/",
+        "short_description": "Utiliza la IA para crear guías de estudio personalizadas, explicar conceptos complicados y generar preguntas de práctica.",
+        "category": "Educación",
+        "main_functionality": "Proporciona a estudiantes y educadores herramientas basadas en IA para crear guías de estudio, explicar conceptos complejos, generar preguntas de práctica y ofrecer retroalimentación personalizada, optimizando procesos de enseñanza y aprendizaje.",
+        "tags": "#Educación #InteligenciaArtificial #AprendizajePersonalizado #GeneraciónDeContenido",
+        "logo_filename": "id_135_quillminds",
+        "what_is": "QuillMinds es una plataforma educativa impulsada por inteligencia artificial que ayuda a estudiantes, educadores y profesionales a mejorar su aprendizaje y productividad. Integra herramientas avanzadas que facilitan la generación de contenido educativo, la personalización de materiales y la explicación de conceptos complejos de manera clara e interactiva.",
+        "purpose": "Sirve para optimizar procesos educativos mediante la creación de guías de estudio, la generación de preguntas de práctica, la explicación detallada de temas complejos y la personalización de recursos de aprendizaje. Es ideal tanto para aulas como para el autoaprendizaje.",
+        "use_cases": "Estudiantes: Crear resúmenes de temas complejos, practicar con preguntas generadas automáticamente y recibir retroalimentación en tiempo real.\nEducadores: Generar materiales educativos personalizados, diseñar actividades interactivas y obtener herramientas para evaluar el progreso de los estudiantes.\nInstituciones Académicas: Incorporar QuillMinds como parte de sus recursos de enseñanza para mejorar la experiencia de aprendizaje.\nProfesionales: Mejorar habilidades técnicas o aprender conceptos nuevos de manera eficiente mediante explicaciones adaptadas a su nivel.\nInvestigadores: Sintetizar grandes cantidades de información y preparar presentaciones o artículos educativos.",
+        "main_advantages": "Personalización: Recursos educativos adaptados al nivel y necesidades del usuario.\nEficiencia: Ahorro de tiempo en la generación de contenidos y preparación de clases o estudios.\nInteractividad: Herramientas que fomentan la participación activa en el aprendizaje.\nAccesibilidad: Disponible en múltiples plataformas y adaptable a diversas necesidades académicas.\nFlexibilidad: Aplicable tanto para el autoaprendizaje como para la enseñanza en grupo.",
+        "long_description": "QuillMinds es una plataforma educativa impulsada por inteligencia artificial diseñada para transformar la enseñanza y el aprendizaje. Ofrece herramientas avanzadas que permiten a educadores y estudiantes crear contenido educativo de alta calidad, como planes de lecciones, guías de estudio y materiales de práctica, en cuestión de minutos. La plataforma se adapta a las necesidades individuales, proporcionando experiencias de aprendizaje personalizadas y recursos alineados con los objetivos específicos de cada usuario. Además, facilita la colaboración entre educadores mediante la coedición de planes de lecciones y el intercambio de conocimientos, y proporciona análisis detallados para monitorear el progreso de los estudiantes e identificar áreas de mejora.",
+        "release_date": "Septiembre 2024",
+        "developer": "Quilminds.",
+        "main_model": "QuillMinds utiliza algoritmos avanzados de inteligencia artificial para generar contenido educativo y personalizar experiencias de aprendizaje.",
+        "pricing_plans": "Gratuito: Incluye 5 créditos para la generación de contenido impulsado por IA, acceso a plantillas y herramientas básicas, y soporte comunitario. \nPremium: Ofrece generación ilimitada de contenido impulsado por IA, soporte prioritario con incorporación personalizada y acceso exclusivo a nuevas funciones y actualizaciones.",
+        "license": "Propietaria",
+        "security_privacy": "QuillMinds se compromete a proteger la privacidad de los usuarios y la seguridad de los datos, implementando medidas de seguridad avanzadas y cumpliendo con las regulaciones vigentes en materia de protección de datos.",
+        "integration": "QuillMinds permite la exportación de contenido generado a formatos profesionales y su integración con otras herramientas educativas y de gestión de aprendizaje, facilitando su incorporación en diversos entornos educativos."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.quillminds.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=apple-intelligence-is-here"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/quillminds"
+        },
+        {
+          "source_url": "https://www.aitoolnet.com/es/quillminds"
+        },
+        {
+          "source_url": "https://openfuture.ai/tool/quillminds"
+        },
+        {
+          "source_url": "https://www.aibase.com/tool/34093"
+        },
+        {
+          "source_url": "https://www.quillminds.com/#features"
+        },
+        {
+          "source_url": "https://www.quillminds.com/#pricing"
+        },
+        {
+          "source_url": "https://www.quillminds.com/privacy-policy"
+        }
+      ]
+    },
+    "179": {
+      "app": {
+        "id": "179",
+        "name": "Quetzal",
+        "url": "https://getquetzal.com/es?",
+        "short_description": "Una plataforma que encuentra de manera inteligente todos sus textos orientados al usuario y los internacionaliza en más de 20 idiomas en minutos.",
+        "category": "Traducción",
+        "main_functionality": "Traducción instantánea de contenido de aplicaciones, detectando y traduciendo nuevas cadenas en cada compilación, y ajustando automáticamente al idioma del navegador del usuario.",
+        "tags": "#Internacionalización #Localización #TraducciónAutomática #InteligenciaArtificial #DesarrolloDeSoftware",
+        "logo_filename": "id_179_quetzal",
+        "what_is": "Quetzal es una plataforma impulsada por inteligencia artificial diseñada para internacionalizar y localizar productos de software. Facilita la traducción de contenido en múltiples idiomas, integrándose de manera fluida con frameworks y herramientas de desarrollo modernos.",
+        "purpose": "El objetivo de Quetzal es ayudar a empresas y desarrolladores a ampliar su alcance global mediante la traducción automática y la localización precisa de sus aplicaciones y productos digitales.",
+        "use_cases": "Internacionalización de Aplicaciones: Traducción automática de sitios web y aplicaciones, adaptándolas a diferentes regiones.\nAutomatización de Traducciones: Traducción continua de nuevas cadenas detectadas en cada compilación del software.\nOptimización de Experiencia del Usuario: Ajuste dinámico del idioma del contenido según la configuración del navegador del usuario.\nLocalización de Productos Digitales: Adaptación de elementos culturales y lingüísticos específicos para garantizar relevancia local.\nIntegración con Herramientas de Desarrollo: Soporte para frameworks populares como Next.js, React y más.",
+        "main_advantages": "Rapidez: Traducción e implementación inmediatas en más de 20 idiomas.\nFacilidad de Integración: Compatible con herramientas y frameworks modernos.\nPersonalización: Ajustes lingüísticos automáticos según la configuración del usuario.\nReducción de Costos: Automatiza tareas que normalmente requerirían traductores humanos.\nAmpliación de Mercado: Permite llegar a audiencias globales de manera eficiente y escalable.",
+        "long_description": "Quetzal es una plataforma de internacionalización y localización de software que utiliza modelos de lenguaje de gran tamaño (LLM) para traducir e internacionalizar productos de software y contenido de manera instantánea, con una configuración mínima. Es compatible con más de 20 idiomas y se integra con frameworks modernos como Next.js y React, facilitando a las empresas la expansión de su alcance global sin complicaciones técnicas.",
+        "release_date": "No disponible",
+        "developer": "Quetzal Labs, Inc.",
+        "main_model": "Quetzal está completamente impulsado por modelos de lenguaje de gran tamaño (LLM), lo que le permite traducir e internacionalizar software y contenido de manera eficiente.",
+        "pricing_plans": "Inicial\nMejor opción para uso personal y para tu próximo proyecto.\n\n0 €\n/mes\n1 proyecto\nTraducción en tiempo de compilación\nExtensión de VSCode para una integración sencilla\nTamaño del equipo: 1 usuario\nIdiomas traducidos: 1\nNúmero de tokens\n:\nIlimitado\nSoporte: Correo electrónico\n\nNegocio\nPerfecto para tu pequeña empresa con múltiples desarrolladores.\n\n50 €\n/mes\npor idioma\n1 proyecto\nTraducción en tiempo de compilación\nExtensión de VSCode para una integración sencilla\nTamaño del equipo: 10 usuarios\nIdiomas traducidos: 50 €/idioma\nNúmero de tokens:\nIlimitado\nSoporte: L-V 9:00-17:00 PT Slack y correo electrónico\n\nEmpresa\nIdeal para usos a gran escala y clientes en todo el mundo.\n\nContáctenos\nProyectos ilimitados\nTraducción en tiempo de compilación\nExtensión de VSCode para una integración sencilla\nTamaño del equipo: 11+ usuarios\nIdiomas traducidos: Ilimitado\nNúmero de tokens:\nIlimitado\nSoporte: 24/7 por Slack, teléfono y correo electrónico",
+        "license": "No disponible.",
+        "security_privacy": "No se han encontrado detalles específicos sobre las políticas de seguridad y privacidad de Quetzal en las fuentes consultadas.",
+        "integration": "Quetzal ofrece una extensión intuitiva para VSCode, facilitando la integración con los flujos de trabajo de desarrollo existentes y permitiendo una internacionalización sin problemas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://getquetzal.com/es?utm_source=superhuman&utm_medium=referral&utm_campaign=microsoft-and-openai-s-brewing-rivalry"
+        },
+        {
+          "source_url": "https://www.aitoolnet.com/es/quetzal"
+        },
+        {
+          "source_url": "https://aipure.ai/products/quetzal/features"
+        },
+        {
+          "source_url": "https://aitools.fyi/es"
+        },
+        {
+          "source_url": "https://getquetzal.com/es/about"
+        }
+      ]
+    },
+    "262": {
+      "app": {
+        "id": "262",
+        "name": "Profile Picture AI",
+        "url": "https://www.profilepicture.ai/",
+        "short_description": "Profile Picture AI es una herramienta que utiliza inteligencia artificial para generar imágenes de perfil personalizadas y de alta calidad. Permite a los usuarios transformarse en diversas versiones de sí mismos, eligiendo entre más de 350 estilos diferentes, lo que facilita la creación de una identidad visual única en plataformas digitales.",
+        "category": "Edición de imágenes",
+        "main_functionality": "Creación automatizada de imágenes de perfil personalizadas en una variedad de estilos.",
+        "tags": "#GeneraciónDeImágenes #Personalización #RedesSociales #IdentidadVisual",
+        "logo_filename": "id_262_profile_picture",
+        "what_is": "Profile Picture AI es una herramienta en línea impulsada por inteligencia artificial que permite a los usuarios generar imágenes de perfil únicas y estilizadas. Utiliza algoritmos avanzados para crear retratos personalizados que reflejan diferentes estilos artísticos o temáticos.",
+        "purpose": "Su propósito principal es ayudar a las personas a destacar en plataformas digitales como redes sociales, perfiles profesionales o juegos en línea mediante el uso de imágenes de perfil llamativas y bien diseñadas",
+        "use_cases": "Redes Sociales: Crear una imagen de perfil única y atractiva para destacar en plataformas como Instagram, Twitter o TikTok.\nProfesionales: Diseñar una foto de perfil estilizada para LinkedIn que proyecte una imagen profesional y creativa.\nJuegos y Foros: Generar avatares personalizados para representarse en comunidades de videojuegos o foros en línea.\nMarketing Personal: Establecer una marca personal con una imagen consistente en diversas plataformas.",
+        "main_advantages": "Amplia Variedad de Estilos: Más de 350 opciones para elegir, desde arte digital hasta estilos realistas o futuristas.\nAhorro de Tiempo y Recursos: Evita la necesidad de contratar un fotógrafo o diseñador gráfico.\nAccesibilidad: Herramienta fácil de usar, accesible desde cualquier dispositivo con conexión a internet.\nPersonalización: Permite a los usuarios subir sus propias fotos para obtener resultados únicos adaptados a sus preferencias.",
+        "long_description": "Profile Picture AI es una herramienta en línea que utiliza inteligencia artificial para generar imágenes de perfil personalizadas y de alta calidad. Los usuarios pueden subir sus propias fotografías y elegir entre más de 350 estilos diferentes para crear avatares que reflejen su identidad o exploren diversas representaciones artísticas. La plataforma está diseñada para ser intuitiva, permitiendo a cualquier persona, sin necesidad de habilidades técnicas, obtener imágenes profesionales para sus perfiles en redes sociales, currículums o cualquier otra plataforma digital.",
+        "release_date": "No disponible",
+        "developer": "Postcraft Pte Ltd",
+        "main_model": "No disponible",
+        "pricing_plans": "Pequeño\n\n$8\n\nElige hasta 12 estilos\nConsigue 96 fotos\nFormato pequeño (512x512)\nObtenga su pfps\nPOPULAR\n\nXL\n\n$14.75\n\nElige hasta 35 estilos\nConsigue 280 fotos\nFormato 4K (4096x4096)\nObtenga su pfps\nTodo\n\n$24.75\n\nElige todos los estilos\nConsigue +900 fotos\nFormato 4K (4096x4096)\nObtenga su pfps",
+        "license": "No especificado",
+        "security_privacy": "Profile Picture AI se compromete a respetar la privacidad de los usuarios. Las fotos subidas se utilizan únicamente para entrenar el modelo de IA y generar los avatares solicitados. Tanto las imágenes como los modelos entrenados se eliminan de sus servidores en un plazo de 7 días. Los usuarios también tienen la opción de solicitar la eliminación inmediata de sus datos. La empresa enfatiza que no almacena datos indefinidamente ni los comparte con terceros.",
+        "integration": "No especificado"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolslist.io/best-ai-tools/"
+        },
+        {
+          "source_url": "https://www.profilepicture.ai/?via=vilius"
+        },
+        {
+          "source_url": "https://www.profilepicture.ai/pricing"
+        },
+        {
+          "source_url": "https://aitools.fyi/es/profile-picture-ai"
+        },
+        {
+          "source_url": "https://www.sobreia.com/herramienta/profile-picture-ai"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/ai-profile-picture-maker"
+        }
+      ]
+    },
+    "300": {
+      "app": {
+        "id": "300",
+        "name": "Prompt Llama",
+        "url": "https://prompt-llama.com/",
+        "short_description": "Recopile indicaciones de texto a imagen de alta calidad y pruebe el rendimiento de diferentes modelos.",
+        "category": "Generación de texto",
+        "main_functionality": "Creación y gestión de prompts personalizados para modelos de lenguaje de IA.",
+        "tags": "#InteligenciaArtificial #DesarrolloDePrompts #ModelosDeLenguaje",
+        "logo_filename": "id_300_prompt_llama",
+        "what_is": "Prompt Llama es una herramienta que permite a los usuarios crear y compartir instrucciones personalizadas, conocidas como \"prompts\", para interactuar eficazmente con modelos de lenguaje de inteligencia artificial. Facilita la generación de contenido y la comunicación con sistemas de IA de manera más efectiva.",
+        "purpose": "Prompt Llama está diseñada para ayudar a los usuarios a elaborar prompts claros y específicos, mejorando la calidad de las respuestas generadas por los modelos de IA. Esto es esencial, ya que la precisión y relevancia de las respuestas de la IA dependen en gran medida de la claridad de las instrucciones proporcionadas. \n",
+        "use_cases": "Desarrollo de Contenido: Creación de artículos, historias o publicaciones en redes sociales mediante instrucciones precisas a modelos de IA.\n\nAsistencia en Programación: Generación de fragmentos de código o soluciones a problemas técnicos proporcionando prompts detallados. \n\nEducación y Capacitación: Elaboración de materiales educativos o respuestas a consultas académicas utilizando prompts bien estructurados.\n\nMarketing Digital: Desarrollo de campañas publicitarias y contenido promocional optimizado a través de instrucciones específicas a la IA.",
+        "main_advantages": "Mejora de la Precisión: Al proporcionar prompts claros y específicos, se obtienen respuestas más precisas y relevantes de los modelos de IA. \n\nAhorro de Tiempo: Facilita la generación rápida de contenido, reduciendo el tiempo dedicado a tareas manuales.\n\nAccesibilidad: Permite a usuarios sin conocimientos técnicos interactuar eficazmente con modelos de IA.\n\nVersatilidad: Aplicable en diversos campos como programación, marketing, educación y más.",
+        "long_description": "Prompt Llama es una herramienta innovadora diseñada para mejorar la interacción con modelos de lenguaje basados en inteligencia artificial mediante la creación y gestión de prompts personalizados. Los prompts son instrucciones específicas que los usuarios proporcionan a los modelos de IA para obtener respuestas claras y relevantes. Esta herramienta facilita el diseño de estas instrucciones, optimizando la capacidad del usuario para comunicarse con los sistemas de IA y aprovechar al máximo sus capacidades.\n\nCon Prompt Llama, los usuarios pueden crear prompts altamente específicos para una variedad de propósitos, como generación de contenido, asistencia en programación, marketing digital, educación, entre otros. La herramienta está pensada tanto para usuarios técnicos como no técnicos, ofreciendo una experiencia accesible que elimina la necesidad de habilidades avanzadas para interactuar con modelos de IA.",
+        "release_date": "Septiembre 2024",
+        "developer": "Prompt Llama fue desarrollado por Adán Xing",
+        "main_model": "No disponible",
+        "pricing_plans": "No especificado",
+        "license": "Información no disponible.",
+        "security_privacy": "Información no disponible.",
+        "integration": "Información no disponible."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://prompt-llama.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=harvard-students-build-ai-spy-glasses"
+        }
+      ]
+    },
+    "301": {
+      "app": {
+        "id": "301",
+        "name": "Quickads",
+        "url": "https://www.quickads.ai/?ref=aitools",
+        "short_description": "Quickads es una plataforma impulsada por inteligencia artificial que permite a los usuarios crear anuncios publicitarios de alta calidad en múltiples formatos y en más de 35 idiomas, optimizando campañas de marketing de manera eficiente.",
+        "category": "Marketing",
+        "main_functionality": "Generación automatizada de anuncios en formatos de imagen y video, adaptados a diversas plataformas y objetivos de campaña.",
+        "tags": "#InteligenciaArtificial #GeneraciónDeAnuncios #MarketingDigital",
+        "logo_filename": "id_301_quickads",
+        "what_is": "Quickads es una plataforma basada en inteligencia artificial que permite a los usuarios crear anuncios publicitarios de alta calidad en formatos de imagen y video, adaptados a diversas plataformas y objetivos de campaña. La herramienta está diseñada para facilitar y agilizar el proceso de creación de anuncios, eliminando la necesidad de habilidades de diseño especializadas.",
+        "purpose": "Quickads está diseñada para ayudar a empresas y profesionales del marketing a generar contenido publicitario efectivo de manera rápida y eficiente. Al automatizar la creación de anuncios, permite a los usuarios centrarse en la estrategia y ejecución de sus campañas, mejorando el retorno de inversión y la interacción con el público objetivo",
+        "use_cases": "Startups: Empresas emergentes pueden reducir la carga de trabajo de su equipo de marketing creando anuncios de manera rápida y sin esfuerzo, ahorrando hasta 30 horas a la semana. \n\n\nE-commerce: Tiendas en línea pueden generar copias de anuncios en más de 30 formatos y utilizar más de 150 diseños respaldados por datos, garantizando fotografías de productos de calidad a un costo mínimo. \n\nAgencias de Marketing: Agencias pueden gestionar múltiples campañas de manera eficiente, creando anuncios personalizados que cumplen con los requisitos de redacción necesarios, mejorando el CTR y el ROAS.",
+        "main_advantages": "Ahorro de Tiempo: La automatización en la creación de anuncios permite ahorrar hasta 30 horas semanales, optimizando la carga de trabajo del equipo de marketing.\n\nPersonalización Completa: Quickads permite personalizar plantillas de anuncios según las preferencias y la marca, controlando variables como fuente, tamaño del texto, color, resolución, logotipo e imágenes de productos. \n\nOptimización de Recursos: Al utilizar la fotografía de productos generada por IA, se pueden ahorrar hasta $4,000 en sesiones fotográficas costosas, aumentando el CTR y las conversiones hasta en un 600%. \n\nMejora del Rendimiento de los Anuncios: La plataforma permite crear creatividades publicitarias respaldadas por pruebas A/B, mejorando el CTR en aproximadamente un 300% y el ROAS hasta 10 veces. ",
+        "long_description": "Quickads es una plataforma integral de publicidad digital que utiliza inteligencia artificial para simplificar y optimizar la creación de anuncios en diversos formatos y plataformas. Diseñada para satisfacer las necesidades de startups, pymes, e-commerce y agencias de marketing, Quickads permite generar anuncios de alta calidad en cuestión de segundos, sin requerir experiencia previa en diseño.",
+        "release_date": "No disponible",
+        "developer": "Brandbooster Pte. Ltd.",
+        "main_model": "No disponible",
+        "pricing_plans": "Starter: $49/mes, ideal para emprendedores individuales y startups, ofreciendo herramientas básicas para iniciar la creación de anuncios.\n\nGrowth: $99/mes, dirigido a pequeñas empresas en expansión, proporcionando herramientas adicionales para campañas publicitarias más amplias. \n\nPro: $199/mes, adecuado para empresas y agencias más grandes, con funciones avanzadas para crear numerosos anuncios personalizados de alta calidad. \n",
+        "license": "Suscripción",
+        "security_privacy": "La política de privacidad de Quickads explica cómo recopila, utiliza y protege los datos de los usuarios. Se recogen datos personales (como correo y nombre) y datos de uso (como IP y páginas visitadas) para operar y mejorar el servicio, gestionar cuentas y enviar comunicaciones relevantes. Los datos pueden compartirse con proveedores de servicios o en cumplimiento legal. Quickads implementa medidas de seguridad razonables, aunque no garantiza protección absoluta. Los usuarios tienen derecho a acceder, actualizar o eliminar sus datos, y a retirar su consentimiento. Cambios en la política se notificarán a través del sitio o correo.",
+        "integration": "Quickads se integra con múltiples plataformas publicitarias y de comercio electrónico, facilitando la gestión y optimización de campañas en diversos canales."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/quickads"
+        },
+        {
+          "source_url": "https://www.quickads.ai/?ref=aitools"
+        },
+        {
+          "source_url": "https://www.quickads.ai/features"
+        },
+        {
+          "source_url": "https://www.quickads.ai/pricing"
+        },
+        {
+          "source_url": "https://www.quickads.ai/privacy-policy"
+        },
+        {
+          "source_url": "https://www.quickads.ai/blogs"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/quickads"
+        }
+      ]
+    },
+    "440": {
+      "app": {
+        "id": "440",
+        "name": "ProWritingAid",
+        "url": "https://prowritingaid.com/",
+        "short_description": "Herramienta integral de escritura asistida por inteligencia artificial que proporciona análisis detallados y sugerencias para mejorar la gramática, el estilo y la claridad de los textos.",
+        "category": "Redacción",
+        "main_functionality": "Análisis y mejora de textos mediante informes detallados que abarcan gramática, estilo, legibilidad y otros aspectos clave de la escritura.",
+        "tags": "#NLP #AsistenteDeEscritura #CorrecciónGramatical",
+        "logo_filename": "id_440_pro_writing_aid",
+        "what_is": "ProWritingAid es una herramienta de escritura asistida por inteligencia artificial que proporciona análisis detallados y sugerencias para mejorar la calidad del texto. Diseñada tanto para escritores profesionales como para estudiantes y equipos corporativos, ayuda a perfeccionar la gramática, el estilo, la claridad y otros aspectos esenciales de la escritura.",
+        "purpose": "Se utiliza para analizar y corregir textos, ofreciendo recomendaciones prácticas para mejorar su claridad, estructura, gramática y estilo. Es útil para escritores que buscan perfeccionar su contenido y para equipos que necesitan mantener un tono uniforme en su comunicación escrita.",
+        "use_cases": "Autores y Escritores Creativos: Mejora de novelas, cuentos y artículos para garantizar un lenguaje atractivo y sin errores.\nEstudiantes: Optimización de ensayos y trabajos académicos con corrección de estilo y gramática.\nProfesionales de Marketing y Comunicación: Creación de contenido claro, persuasivo y alineado con las necesidades de la audiencia.\nEmpresas: Uniformidad en la redacción de informes, correos electrónicos y otros documentos corporativos.\nEducación: Como herramienta para enseñar gramática y escritura efectiva.",
+        "main_advantages": "Sugerencias personalizadas para diferentes estilos de escritura.\nGeneración de informes detallados que abarcan gramática, estilo, legibilidad, uso de clichés, redundancias y más.\nFuncionalidad de reescritura de frases para mejorar la claridad y el impacto del texto.\nIntegraciones con herramientas como Google Docs, Microsoft Word, Scrivener y navegadores web.\nCompatible con múltiples idiomas y estilos de inglés (británico, estadounidense, canadiense, australiano).",
+        "long_description": "ProWritingAid es una herramienta avanzada de escritura impulsada por inteligencia artificial diseñada para mejorar la calidad de los textos. Proporciona análisis exhaustivos y sugerencias en áreas clave como gramática, estilo, estructura, legibilidad y más. Además de corregir errores gramaticales, permite reescribir frases para mejorar la claridad y el impacto del texto. Sus informes detallados ayudan a los escritores a identificar y resolver problemas en su estilo de escritura. ProWritingAid está diseñado tanto para usuarios individuales como para equipos que buscan optimizar sus habilidades de redacción y mantener un tono uniforme en sus textos.",
+        "release_date": "2012",
+        "developer": "Orpheus Technology Ltd.",
+        "main_model": "No especificado. ProWritingAid utiliza tecnologías de Procesamiento del Lenguaje Natural (NLP) y algoritmos propietarios para análisis de texto.",
+        "pricing_plans": "Gratis: Acceso limitado con funcionalidad básica y análisis de textos cortos.\nPremium: Acceso completo a herramientas de análisis y corrección, junto con integraciones avanzadas (Word, Google Docs, Scrivener).\nPremium Plus: Incluye todo lo de Premium, junto con un comprobador de plagio integrado.",
+        "license": "Propietaria",
+        "security_privacy": "Cifrado de datos en tránsito.\nCumple con normativas de privacidad como GDPR.\nNo almacena ni comparte textos sin consentimiento del usuario.",
+        "integration": "Microsoft Word y Outlook.\nGoogle Docs.\nScrivener.\nNavegadores web (extensiones para Chrome, Firefox, Edge y Safari).\nHerramientas de gestión de proyectos y escritura en la nube."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/prowritingaid"
+        },
+        {
+          "source_url": "https://prowritingaid.com/introducing-rephrase"
+        },
+        {
+          "source_url": "https://prowritingaid.com/features"
+        },
+        {
+          "source_url": "https://prowritingaid.com/reviews"
+        },
+        {
+          "source_url": "https://prowritingaid.com/pricing"
+        },
+        {
+          "source_url": "https://prowritingaid.com/en/Home/Privacy"
+        }
+      ]
+    },
+    "476": {
+      "app": {
+        "id": "476",
+        "name": "Prompt Hunt",
+        "url": "https://www.prompthunt.com/",
+        "short_description": "Plataforma que facilita la creación, exploración y compartición de arte generado por inteligencia artificial, utilizando modelos avanzados para producir imágenes de alta calidad de manera rápida y sencilla.",
+        "category": "Generación de arte",
+        "main_functionality": "Permite a los usuarios generar arte digital mediante IA, ofreciendo plantillas y estilos personalizables, así como la posibilidad de guardar y compartir creaciones, todo a través de una interfaz intuitiva.",
+        "tags": "#GeneraciónDeImágenes #ArteDigital #InteligenciaArtificial #Creatividad",
+        "logo_filename": "id_476_prompt_hunt",
+        "what_is": "Prompt Hunt es una plataforma impulsada por inteligencia artificial que permite a los usuarios explorar, crear y compartir arte digital de manera sencilla y eficiente. Utiliza modelos avanzados de IA para generar imágenes de alta calidad a partir de descripciones textuales, facilitando la creación de contenido visual sin necesidad de habilidades técnicas avanzadas.",
+        "purpose": "Prompt Hunt está diseñada para:\n\nGenerar arte digital de alta calidad a partir de descripciones textuales.\nExplorar una amplia variedad de estilos y temas artísticos.\nCompartir creaciones con una comunidad de artistas y entusiastas del arte digital.\nUtilizar plantillas y estilos predefinidos para facilitar el proceso creativo.",
+        "use_cases": "Diseño Gráfico: Creación rápida de ilustraciones y gráficos personalizados para proyectos de diseño.\nMarketing y Publicidad: Generación de contenido visual atractivo para campañas publicitarias y materiales promocionales.\nEducación: Elaboración de recursos visuales para materiales educativos y presentaciones.\nEntretenimiento: Producción de arte conceptual para videojuegos, películas y otros medios creativos.",
+        "main_advantages": "Facilidad de Uso: Interfaz intuitiva que permite a usuarios de todos los niveles crear arte digital sin complicaciones.\nVariedad de Estilos: Acceso a una amplia gama de estilos y temas para adaptarse a diversas necesidades creativas.\nRapidez: Generación de imágenes en cuestión de segundos, optimizando el flujo de trabajo creativo.\nComunidad Activa: Posibilidad de compartir y descubrir creaciones dentro de una comunidad dinámica de artistas digitales.",
+        "long_description": "Prompt Hunt es una plataforma impulsada por inteligencia artificial que permite a los usuarios explorar, crear y compartir arte digital de manera sencilla y eficiente. Utiliza modelos avanzados de IA, como Stable Diffusion, DALL·E y Midjourney, para generar imágenes de alta calidad a partir de descripciones textuales. La plataforma ofrece una interfaz intuitiva con funcionalidades como plantillas personalizables, modos de privacidad para proteger las creaciones y la capacidad de generar múltiples imágenes simultáneamente.",
+        "release_date": "Junio 2023",
+        "developer": "Prompt Hunt Inc.",
+        "main_model": "Prompt Hunt utiliza múltiples modelos de IA para la generación de arte, incluyendo Stable Diffusion, DALL·E y Midjourney. Además, cuenta con su propio modelo personalizado llamado Chroma, diseñado para ofrecer velocidad, control y detalle en la creación de visuales de alta calidad.",
+        "pricing_plans": "Essential: $4.99 al mes. Incluye la generación de hasta 50 imágenes por día, modo de privacidad, capacidad para mejorar y crear variaciones de las obras de arte, y la posibilidad de crear cuatro imágenes simultáneamente. Se puede cancelar en cualquier momento.\n\nPro: $9.99 al mes. Ofrece hasta 500 imágenes por día, 800 imágenes generadas con DALL·E al mes, 1,200 imágenes con Stable Diffusion XL al mes, además de todas las características del Se puede cancelar en cualquier momento.\n\nPro+: $14.99 al mes. Permite generar hasta 1,000 imágenes por día, 800 imágenes con DALL·E al mes, 1,600 imágenes con Stable Diffusion XL al mes, además de todas las funcionalidades ianes anteriores. Se puede cancelar en cualquier momento.",
+        "license": "Propietaria",
+        "security_privacy": "Prompt Hunt ofrece un modo de privacidad que permite a los usuarios mantener sus creaciones en privado hasta que decidangurando que las obras permanezcan confidenciales durante el proceso de creación.",
+        "integration": "Prompt Hunt se integra con modelos de IA populares como Stable Diffusion, DALL·E y Midjourney, permitiendo a los usuarios aprovechar diversas tecnologías de generación de arte para enriquecer sus creaciones."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Cómo Learnbay Aumento de las consultas sobre el programa al 70% con correos electrónicos interactivos",
+          "description": "Learnbay utilizó correos interactivos con Mailmodo para simplificar el acceso a información sobre sus cursos. Agregaron menús desplegables en los correos, permitiendo a los usuarios seleccionar programas y acceder a detalles clave directamente desde el correo. Esto aumentó un 70% las consultas sobre sus programas.",
+          "url": "https://www.mailmodo.com/case-studies/learnbay/"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Cómo se encontró +1.7Millones de usuarios para actualizar perfiles en 6 Meses con correos electrónicos interactivos",
+          "description": "Foundit usó correos interactivos con Mailmodo para permitir que los usuarios actualizaran sus perfiles directamente desde la bandeja de entrada, logrando que 1.7 millones de perfiles fueran actualizados en seis meses y mejorando la calidad de las coincidencias laborales.",
+          "url": "https://www.mailmodo.com/case-studies/foundit/"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Cómo Clinikally aumentó su Shopify Los ingresos de la tienda en un 71% con correos electrónicos interactivos",
+          "description": "Clinikally implementó correos interactivos con Mailmodo, permitiendo añadir productos al carrito y completar parte del proceso de compra desde el correo, lo que aumentó en un 71% los ingresos por email marketing.",
+          "url": "https://www.mailmodo.com/case-studies/clinikally/"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/prompt-hunt"
+        },
+        {
+          "source_url": "https://www.mailmodo.com/ai-prompts/?fpr=ffmedia&fp_sid=aitools"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/prompt-hunt-3/launches"
+        },
+        {
+          "source_url": "https://prompt-hunt.softonic.com/aplicaciones-web"
+        },
+        {
+          "source_url": "https://aplicaciones.ai/prompt-hunt/"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/prompt-hunt/"
+        },
+        {
+          "source_url": "https://iasensei.net/prompt-hunt/"
+        },
+        {
+          "source_url": "https://10web.io/ai-tools/prompt-hunt/"
+        },
+        {
+          "source_url": "https://creati.ai/ai-tools/prompt-hunt/"
+        },
+        {
+          "source_url": "https://toolaiz.com/tools/prompt-hunt"
+        },
+        {
+          "source_url": "https://slashdot.org/software/p/Prompt-Hunt/"
+        }
+      ]
+    },
+    "491": {
+      "app": {
+        "id": "491",
+        "name": "ProPhotos",
+        "url": "https://prophotos.ai",
+        "short_description": "Genera retratos de alta calidad y apariencia profesional mediante inteligencia artificial, optimizando la presencia visual en plataformas laborales y redes sociales.",
+        "category": "Edición de imágenes",
+        "main_functionality": "Transformación de fotografías casuales en retratos profesionales de estilo fotorrealista adaptados a la personalidad del usuario.",
+        "tags": "#GeneraciónDeImágenes #FotografíaProfesional #IA #RetratosCorporativos",
+        "logo_filename": "id_491_prophotos",
+        "what_is": "ProPhotos es una aplicación de inteligencia artificial diseñada para crear retratos profesionales de alta calidad a partir de fotografías casuales. Es una herramienta que utiliza algoritmos avanzados de procesamiento de imágenes para mejorar la presencia visual de sus usuarios en plataformas como LinkedIn, currículums y otros medios profesionales.",
+        "purpose": "ProPhotos sirve para generar imágenes de perfil y retratos con calidad profesional, eliminando la necesidad de realizar sesiones fotográficas tradicionales. Es especialmente útil para mejorar la imagen profesional en redes sociales, páginas web personales y documentos de presentación laboral.",
+        "use_cases": "Creación de fotos de perfil para LinkedIn y otras redes sociales profesionales.\nActualización de imágenes para currículums o sitios web personales.\nGeneración de retratos para conferencias, eventos y materiales promocionales.",
+        "main_advantages": "Rapidez: Permite obtener imágenes de calidad profesional en minutos.\nCosto-eficiencia: Evita los altos costos asociados con estudios fotográficos tradicionales.\nPersonalización: Ofrece resultados que reflejan el estilo y la personalidad del usuario.\nAccesibilidad: Disponible en línea, sin necesidad de software adicional o equipos especializados.",
+        "long_description": "ProPhotos es una aplicación en línea que utiliza inteligencia artificial para generar retratos profesionales de alta calidad a partir de fotografías casuales. Su tecnología avanzada permite transformar selfies y fotos informales en imágenes fotorrealistas que reflejan la personalidad y estilo únicos del usuario. Es una solución eficiente y asequible para quienes buscan mejorar su presencia profesional en plataformas como LinkedIn, currículums y sitios web corporativos.",
+        "release_date": "No disponible",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "Starter: $39 USD por 40 retratos únicos, 8 atuendos y fondos, entrega en 90 minutos.\n\nPremium: $49 USD por 100 retratos únicos, 20 atuendos y fondos, incluye cambiador de fondo gratuito, entrega en 45 minutos.\n\nProfessional: $59 USD por 200 retratos únicos, 30 atuendos y fondos, incluye cambiador de fondo gratuito, entrega en 30 minutos.",
+        "license": "ProPhotos otorga a los usuarios una licencia comercial completa para todas las fotos generadas, permitiendo su uso en cualquier plataforma o material profesional. \n",
+        "security_privacy": "ProPhotos se compromete a proteger la privacidad de los usuarios. Las imágenes subidas se procesan con estricta confidencialidad y se eliminan automáticamente después de 30 días. Los usuarios también tienen la opción de eliminar sus datos y cuentas en cualquier momento a través de la plataforma. \n",
+        "integration": "ProPhotos permite la descarga de las imágenes generadas, facilitando su uso en diversas plataformas y materiales profesionales. No se especifica integración directa con otras herramientas o servicios."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/prophotos"
+        },
+        {
+          "source_url": "https://prophotos.ai/?utm_source=KeithLang&utm_content=41069"
+        },
+        {
+          "source_url": "https://prophotos.ai/"
+        },
+        {
+          "source_url": "https://prophotos.ai/about-us/"
+        },
+        {
+          "source_url": "https://www.iaviajero.io/herramientas/prophotos"
+        }
+      ]
+    },
+    "495": {
+      "app": {
+        "id": "495",
+        "name": "Project Ambience",
+        "url": "https://projectambience.com/",
+        "short_description": "Realice un trabajo profundo con mezclas de ambiente adaptadas a la IA para mejorar la concentración, aumentar la productividad y promover la relajación.",
+        "category": "Audio",
+        "main_functionality": "Crea entornos sonoros adaptados a las actividades del usuario, como trabajar, estudiar o relajarse, proporcionando una experiencia auditiva óptima para cada situación.",
+        "tags": "#GeneraciónDeAudio #Productividad #Relajación #IA",
+        "logo_filename": "id_495_project_ambience",
+        "what_is": "Project Ambience es una aplicación impulsada por inteligencia artificial que genera mezclas de sonidos ambientales personalizadas para mejorar la concentración, productividad y relajación del usuario. La plataforma ofrece diversos \"espacios de ambiente\" adaptados a las necesidades específicas de cada actividad, como trabajar, estudiar, relajarse o dormir.",
+        "purpose": "La aplicación está diseñada para crear entornos sonoros óptimos que ayuden a los usuarios a:\n\nMejorar la concentración y productividad durante tareas que requieren enfoque.\nFacilitar el estudio proporcionando sonidos que mantienen la motivación y facilitan la absorción de información.\nPromover la relajación mediante audios que ayudan a liberar tensiones.\nMejorar la calidad del sueño con tonos pacíficos que inducen al descanso.",
+        "use_cases": "Entornos de Trabajo: Profesionales que buscan minimizar distracciones y aumentar su productividad mediante sonidos ambientales adaptados a sus tareas.\nEstudiantes: Personas que necesitan mantener la concentración y motivación durante sesiones de estudio prolongadas.\nRelajación Personal: Usuarios que desean crear un ambiente sonoro propicio para la meditación, relajación o actividades de ocio.\nMejorar el Sueño: Individuos que buscan facilitar el sueño utilizando sonidos calmantes que promueven el descanso.",
+        "main_advantages": "Personalización mediante IA: La inteligencia artificial adapta las mezclas de sonido a las necesidades y preferencias específicas del usuario.\nVariedad de Espacios de Ambiente: Ofrece múltiples opciones de entornos sonoros para diferentes actividades y estados de ánimo.\nSimplicidad y Facilidad de Uso: La interfaz es intuitiva, permitiendo una experiencia sin distracciones.\nRespaldo Científico: Las mezclas de sonido están diseñadas basándose en investigaciones neurocientíficas que demuestran mejoras en la retención de enfoque y reducción de niveles de cortisol.",
+        "long_description": "Project Ambience es una aplicación impulsada por inteligencia artificial que ofrece una variedad de \"espacios de ambiente\" diseñados para optimizar la concentración, productividad y relajación. Estos espacios incluyen opciones para enfocarse, estudiar, relajarse y dormir, cada uno con mezclas de sonidos ambientales adaptadas a la actividad específica. La plataforma se basa en investigaciones neurocientíficas que indican mejoras de hasta un 40% en la retención del enfoque y una reducción en los niveles de cortisol al utilizar sonidos naturales.",
+        "release_date": "Enero 2025",
+        "developer": "SHOTEN",
+        "main_model": "La aplicación utiliza inteligencia artificial para generar mezclas de sonidos ambientales personalizadas, aunque no se especifica el modelo o algoritmo exacto empleado.",
+        "pricing_plans": "Lifetime Free: Acceso gratuito a la biblioteca de ambientes, generador de ambientes impulsado por IA, función de Pomodoro y hasta 5 generaciones de IA.\n\nAdd On ($5 pago único): Incluye todo lo del plan gratuito y permite hasta 50 generaciones de IA.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://projectambience.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=the-first-robot-friendly-office"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/project-ambience"
+        },
+        {
+          "source_url": "https://huntscreens.com/en/products/project-ambience"
+        },
+        {
+          "source_url": "https://www.saasworthy.com/product/project-ambience"
+        },
+        {
+          "source_url": "https://aitools.inc/tasks/create-ambience-audio"
+        },
+        {
+          "source_url": "https://toolsia.io/tool/ambience/"
+        }
+      ]
+    },
+    "499": {
+      "app": {
+        "id": "499",
+        "name": "Puppetry",
+        "url": "https://www.puppetry.com/",
+        "short_description": "Puppetry es una herramienta impulsada por inteligencia artificial que permite a los usuarios crear videos con rostros parlantes de manera sencilla, facilitando la generación de contenido animado y atractivo sin necesidad de habilidades avanzadas en animación.",
+        "category": "Generación de video",
+        "main_functionality": "Permite la creación de videos animados con avatares personalizados que sincronizan movimientos faciales y voz, integrando capacidades de generación de scripts mediante ChatGPT y soporte para múltiples idiomas.",
+        "tags": "#GeneraciónDeVideos #AvataresAI #AnimaciónFacial #ChatGPT #ContenidoVisual",
+        "logo_filename": "id_499_puppetry",
+        "what_is": "Puppetry es una plataforma en línea que utiliza inteligencia artificial para facilitar la creación de contenido visual dinámico y atractivo. Permite a los usuarios transformar imágenes estáticas en videos animados con rostros parlantes, simplificando el proceso de animación facial.",
+        "purpose": "Puppetry sirve para crear videos animados con avatares personalizados que sincronizan movimientos faciales y voz. Es especialmente útil para educadores, creadores de contenido, artistas de videojuegos y profesionales de marketing que buscan generar contenido atractivo sin necesidad de habilidades avanzadas en animación.",
+        "use_cases": "Educación: Los educadores pueden crear lecciones más atractivas mediante la incorporación de avatares que explican conceptos, facilitando el aprendizaje interactivo.\n\nMarketing: Los profesionales de marketing pueden desarrollar videos promocionales con avatares que presentan productos o servicios, aumentando la interacción con la audiencia.\n\nCreación de Contenido: Los creadores de contenido pueden generar historias animadas o tutoriales con personajes personalizados, enriqueciendo su oferta creativa.\n\nDesarrollo de Videojuegos: Los artistas de videojuegos pueden diseñar personajes animados para escenas narrativas, mejorando la experiencia del jugador.",
+        "main_advantages": "Facilidad de Uso: Puppetry ofrece una interfaz intuitiva que permite a usuarios sin experiencia en animación crear videos con rostros parlantes de manera sencilla. \n\nIntegración con ChatGPT: La plataforma integra ChatGPT para la generación de guiones, facilitando la creación de contenido textual que acompaña a las animaciones. \n\nSoporte Multilingüe: Puppetry admite múltiples idiomas, lo que permite a los usuarios crear contenido adaptado a diversas audiencias globales. \nGeneración de Avatares Personalizados: La plataforma permite la creación de avatares únicos mediante descripciones textuales, ofreciendo flexibilidad en el diseño de personajes. \n\n\nAccesibilidad: Al ser una plataforma en línea, Puppetry es accesible desde diversos dispositivos, facilitando la creación de contenido en cualquier momento y lugar.",
+        "long_description": "Puppetry es una plataforma en línea que permite a los usuarios crear videos con rostros parlantes de manera sencilla, utilizando inteligencia artificial para animar avatares personalizados. La aplicación ofrece herramientas para generar scripts con la ayuda de ChatGPT, facilitando la creación de contenido atractivo y dinámico sin necesidad de habilidades avanzadas en animación. Además, Puppetry admite múltiples idiomas, lo que permite a los usuarios adaptar sus creaciones a diversas audiencias globales.",
+        "release_date": "Junio 2023",
+        "developer": "ELBO AI Inc.",
+        "main_model": "Puppetry integra tecnologías de inteligencia artificial, incluyendo ChatGPT para la generación de scripts y DALL·E 3 para la creación de imágenes, facilitando la animación de avatares y la sincronización de movimientos faciales con el audio.",
+        "pricing_plans": "Starter ($1/mes): Hasta 5 generaciones diarias, 500 caracteres, uso personal.\nPersonal ($9.99/mes o $6.99 anual): 20 generaciones diarias, 1,000 caracteres, voces premium, sin marcas de agua.\nProfessional ($39.99/mes o $27.99 anual): Generaciones ilimitadas, 3,600 caracteres, funciones avanzadas, uso comercial.",
+        "license": "No disponible",
+        "security_privacy": "Puppetry se compromete a proteger la privacidad de sus usuarios y ha establecido políticas para garantizar la seguridad de los datos personales. Para obtener información detallada sobre sus prácticas de privacidad, se recomienda consultar su política de privacidad en su sitio web oficial.\n\n",
+        "integration": "Puppetry se integra con tecnologías de inteligencia artificial como ChatGPT para la generación de scripts y DALL·E 3 para la creación de imágenes, ofreciendo una experiencia de usuario enriquecida en la creación de contenido animado."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/puppetry"
+        },
+        {
+          "source_url": "https://www.puppetry.com/?ref=aitoolsdirectory"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/puppetry"
+        },
+        {
+          "source_url": "https://appsumo.com/products/puppetry/?srsltid=AfmBOorBlZu6Y9X5qaOTSde6xZxoxVyUSGFCFdAxiot5SLMRxrI2B436"
+        },
+        {
+          "source_url": "https://puppetry.app/"
+        },
+        {
+          "source_url": "https://www.puppetry.com/pricing"
+        },
+        {
+          "source_url": "https://clasenet.com/puppetry-la-revolucion-en-la-creacion-de-contenido-visual-con-la-magia-de-la-ia/"
+        },
+        {
+          "source_url": "https://www.aiproductslist.com/es/product/puppetry/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://vivevirtual.es/inteligencia-artificial/puppetry-aplicacion-ia-de-animacion-gratuita/"
+        },
+        {
+          "source_url": "https://aitoolsrevealed.com/ai-tools/puppetry/"
+        },
+        {
+          "source_url": "https://aitools.fyi/es/puppetry"
+        },
+        {
+          "source_url": "https://www.puppetry.com/blog"
+        },
+        {
+          "source_url": "https://www.puppetry.com/privacy"
+        }
+      ]
+    },
+    "528": {
+      "app": {
+        "id": "528",
+        "name": "ProductScope",
+        "url": "https://productscope.ai/",
+        "short_description": "Plataforma que facilita la creación de imágenes, videos y descripciones de productos mediante inteligencia artificial, optimizando la presentación y comercialización de productos.",
+        "category": "Marketing de contenidos",
+        "main_functionality": "Genera automáticamente imágenes de productos, videos promocionales y descripciones optimizadas, ayudando a marcas y emprendedores a mejorar su presencia en plataformas de comercio electrónico.",
+        "tags": "#GeneraciónDeImágenes #AutomatizaciónDeMarketing #OptimizaciónDeListados #Ecommerce #ContenidoAI",
+        "logo_filename": "id_528_product_scope",
+        "what_is": "ProductScope AI es una plataforma impulsada por inteligencia artificial diseñada para marcas de comercio electrónico, vendedores y agencias de marketing. Ofrece herramientas para crear fotos de productos de alta calidad, obtener información sobre clientes y optimizar listados en plataformas como Amazon, Shopify y redes sociales.",
+        "purpose": "La plataforma facilita la creación de contenido visual atractivo y la optimización de descripciones de productos, lo que mejora la visibilidad, las conversiones y las ventas en diversas plataformas de comercio electrónico.",
+        "use_cases": "Fotografía de Productos para Comercio Electrónico: Genera imágenes de productos de aspecto profesional sin necesidad de sesiones fotográficas costosas, adecuadas para tiendas en línea y campañas en redes sociales. \n\nOptimización de Listados en Amazon: Mejora los listados de productos en Amazon mediante contenido optimizado y palabras clave estratégicas, aumentando la visibilidad y las ventas. \n\nMarketing en Redes Sociales: Crea imágenes y videos de productos atractivos para campañas en redes sociales, incrementando el compromiso y el alcance de la marca. \n\nDesarrollo de Productos: Utiliza análisis de reseñas de clientes para obtener información sobre preferencias y expectativas, informando mejoras en productos e ideas para nuevos desarrollos. ",
+        "main_advantages": "Ahorro de Costos: Elimina la necesidad de sesiones fotográficas profesionales y equipos costosos al generar imágenes de productos de alta calidad mediante IA. \n\nEficiencia en el Tiempo: Permite crear contenido visual y optimizar listados de productos en minutos, acelerando el tiempo de comercialización. \n\nMejora de la Visibilidad y Conversiones: Las herramientas de optimización de listados y generación de contenido ayudan a aumentar la visibilidad en plataformas de comercio electrónico y a mejorar las tasas de conversión. \n\nInformación Valiosa del Cliente: Proporciona análisis detallados de las reseñas de clientes, ofreciendo información que puede guiar estrategias de marketing y desarrollo de productos. ",
+        "long_description": "ProductScope AI es una plataforma impulsada por inteligencia artificial que ofrece herramientas avanzadas para la creación de contenido visual y la optimización de listados de productos. Diseñada para marcas de comercio electrónico, vendedores y agencias de marketing, la plataforma permite generar fotos de productos de alta calidad, videos promocionales y descripciones optimizadas, mejorando la presencia en plataformas como Amazon, Shopify y redes sociales.",
+        "release_date": "Enero 2024",
+        "developer": "ProductScope AI.",
+        "main_model": "No disponible",
+        "pricing_plans": "PS Studio Starter: $19 al mes, incluye hasta 1,000 créditos de estudio mensuales.\n\nPS Studio Pro: $49 al mes, incluye hasta 3,000 créditos de estudio mensuales.\n\nPS Optimize Starter: $34 al mes, permite crear o optimizar hasta 10 listados mensuales.\n\nPS Optimize Pro: $99 al mes, permite crear o optimizar hasta 50 listados mensuales.",
+        "license": "Propietaria",
+        "security_privacy": "ProductScope AI se compromete a proteger la información de sus usuarios. Los datos compartidos con terceros son anonimizados y utilizados únicamente para las funciones solicitadas por el usuario.",
+        "integration": "ProductScope AI se integra con diversas plataformas de comercio electrónico y herramientas de marketing, facilitando la creación y optimización de contenido en múltiples canales."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/productscope"
+        },
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/koala-ai"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/productscope-ai"
+        },
+        {
+          "source_url": "https://appsumo.com/products/productscope-ai/reviews/also-disappointed-326864/?srsltid=AfmBOoqD3QIRzXgqx6iNdmslcMsDYrBv-OOkY5g3rF21rt6fNrA3G3pE"
+        },
+        {
+          "source_url": "https://www.crunchbase.com/organization/productscope-ai"
+        },
+        {
+          "source_url": "https://gptonline.ai/productscope-ai/"
+        },
+        {
+          "source_url": "https://aichief.com/ai-tools/productscope-ai/"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/productscope-ai/"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/productscope-ai/?ref=embed"
+        },
+        {
+          "source_url": "https://www.aitoolnet.com/es/productscope-ai"
+        },
+        {
+          "source_url": "https://sayhi2.ai/es/product/productscope_ai"
+        }
+      ]
+    },
+    "574": {
+      "app": {
+        "id": "574",
+        "name": "QR Galaxy",
+        "url": "https://www.qr-galaxy.com/es",
+        "short_description": "Plataforma que permite generar hermosos códigos QR personalizados utilizando inteligencia artificial, enlazándolos a sitios web o archivos, con más de 20 imágenes de alta calidad por código y escaneos ilimitados.",
+        "category": "Marketing",
+        "main_functionality": "Proporciona herramientas para crear códigos QR atractivos y personalizados que dirigen a URLs o archivos específicos, optimizando la interacción con los clientes.",
+        "tags": "#CódigosQR #Personalización #InteligenciaArtificial #MarketingDigital",
+        "logo_filename": "id_574_qr_galaxy",
+        "what_is": "QR Galaxy es una plataforma en línea que utiliza inteligencia artificial para generar códigos QR personalizados y visualmente atractivos. Permite a los usuarios crear códigos que enlazan a sitios web o archivos específicos, optimizando la interacción con los clientes.",
+        "purpose": "La plataforma está diseñada para ayudar a empresas y particulares a crear códigos QR que capturen la atención de sus clientes o audiencia, facilitando el acceso a información relevante como menús, invitaciones, perfiles de redes sociales o cualquier contenido en línea.",
+        "use_cases": "Restaurantes: Generar códigos QR para menús digitales, permitiendo a los clientes acceder fácilmente a los platos y bebidas ofrecidos. \n\nEventos Sociales: Crear códigos QR personalizados para bodas, enlazando a sitios web de eventos, invitaciones digitales o confirmaciones de asistencia. \n\nMarketing y Publicidad: Diseñar códigos QR que dirijan a promociones especiales, páginas de productos o campañas publicitarias, aumentando la participación del cliente. ",
+        "main_advantages": "Personalización: Ofrece la capacidad de elegir imágenes que inspiran el diseño del código QR, creando una experiencia visual única que refleja la identidad de la marca o evento. \n\nFacilidad de Uso: Permite a los usuarios generar códigos QR de manera sencilla y rápida, sin necesidad de conocimientos técnicos avanzados.\n\nPrecios Accesibles: Ofrece un modelo de pago único de $4 USD por código QR, sin compromisos, suscripciones ni tarifas ocultas, incluyendo escaneos ilimitados y más de 20 imágenes de alta calidad por código. \n\nActualizaciones Dinámicas: Con una suscripción anual de $5 USD, los usuarios pueden hacer que sus códigos QR sean dinámicos, permitiendo cambiar la URL o el archivo tantas veces como deseen. ",
+        "long_description": "QR Galaxy es una plataforma en línea que utiliza inteligencia artificial para generar códigos QR personalizados y visualmente atractivos. Permite a los usuarios seleccionar una imagen que inspire el diseño del código QR, el cual puede enlazar a un sitio web o a un archivo específico. La plataforma está diseñada para facilitar la creación de códigos QR que capturen la atención de los clientes, ofreciendo más de 20 imágenes de alta calidad por código y escaneos ilimitados.",
+        "release_date": "No disponible",
+        "developer": "Sarl Jeremy Mauboussin",
+        "main_model": "Utiliza inteligencia artificial para generar códigos QR personalizados basados en imágenes seleccionadas por el usuario. \n",
+        "pricing_plans": "Pago Único por Código QR: $4 USD por código QR, que incluye más de 20 imágenes de alta calidad, opción para subir archivos o establecer URLs, verificación de validez de todos los códigos y escaneos ilimitados.\n\nActualizaciones Ilimitadas: Suscripción anual de $5 USD que permite hacer que todos los códigos QR sean dinámicos, ofreciendo la posibilidad de cambiar su URL o archivo tantas veces como se desee.",
+        "license": "No especificado",
+        "security_privacy": "La política de privacidad de QR Galaxy detalla cómo recopilan, usan y protegen la información personal de los usuarios. La plataforma garantiza la seguridad de los datos recopilados, utiliza cookies para mejorar la experiencia del usuario y permite a los usuarios gestionar sus preferencias de privacidad. También informa sobre el uso de servicios de terceros y los derechos de los usuarios respecto al tratamiento de sus datos.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/qr-galaxy"
+        },
+        {
+          "source_url": "https://www.qr-galaxy.com/es?utm_source=directory&utm_medium=banner&utm_campaign=aitools"
+        },
+        {
+          "source_url": "https://www.qr-galaxy.com/es/legal/privacy-policy"
+        },
+        {
+          "source_url": "https://genai.works/applications/qrgalaxy"
+        },
+        {
+          "source_url": "https://aitechfy.com/aitool/qr-galaxy/"
+        }
+      ]
+    },
+    "577": {
+      "app": {
+        "id": "577",
+        "name": "Prompt Panda",
+        "url": "https://www.promptpanda.io/",
+        "short_description": "Un administrador y organizador de avisos impulsado por IA que le permite usar mensajes guardados directamente en los modelos que prefiera, sin necesidad de copiar y pegar.",
+        "category": "Automatización",
+        "main_functionality": "Centralización y optimización de prompts para mejorar la eficiencia y consistencia en el uso de herramientas de IA.",
+        "tags": "#GestiónDePrompts #ColaboraciónEnEquipo #OptimizaciónDeIA",
+        "logo_filename": "id_577_prompt_panda",
+        "what_is": "PromptPanda es un sistema de gestión de indicaciones de inteligencia artificial (IA) diseñado para ayudar a equipos e individuos a organizar, etiquetar y compartir sus prompts de manera eficiente. Proporciona un repositorio centralizado donde los usuarios pueden almacenar, probar y optimizar sus indicaciones, mejorando así la eficiencia en el uso de herramientas de IA.",
+        "purpose": "La plataforma tiene como objetivo centralizar todas las indicaciones de IA en una ubicación segura y accesible, permitiendo una organización intuitiva mediante etiquetado y filtrado. Esto facilita la rápida recuperación de prompts, asegura la consistencia en la comunicación del equipo y mejora la calidad de las salidas generadas por la IA.",
+        "use_cases": "Creación de Contenido: Equipos de marketing y contenido pueden almacenar y refinar indicaciones para generar artículos, publicaciones en redes sociales y material promocional de manera eficiente. \n\nAutomatización del Servicio al Cliente: Departamentos de soporte pueden gestionar y optimizar prompts para chatbots y sistemas de respuesta automatizada, mejorando la experiencia del cliente. \n\nInvestigación y Desarrollo: Equipos de I+D pueden colaborar en la iteración de indicaciones para análisis de datos y pruebas de hipótesis, acelerando el proceso de innovación. \n\nGestión de Recursos Educativos: Instituciones educativas pueden organizar prompts para crear planes de lecciones, cuestionarios y contenido educativo personalizado. ",
+        "main_advantages": "Organización Eficiente: Centraliza todas las indicaciones de IA en un solo lugar seguro y accesible, con etiquetado y filtrado intuitivos para una recuperación rápida. \n\nConsistencia en el Equipo: Establece prompts estandarizados para mantener una voz de marca coherente y obtener resultados predecibles de la IA en todas las interacciones. \n\nColaboración Fluida: Facilita la colaboración entre miembros del equipo al permitir compartir y gestionar indicaciones de manera eficiente, mejorando la productividad colectiva. \n\nSeguridad Mejorada: Ofrece un entorno seguro para almacenar indicaciones valiosas, protegiendo la propiedad intelectual y asegurando la privacidad de los datos. \n\nEscalabilidad Incorporada: Diseñado para crecer con las necesidades del equipo, permitiendo una gestión eficiente de las indicaciones a medida que la organización se expande. ",
+        "long_description": "PromptPanda es una plataforma diseñada para centralizar y optimizar la gestión de indicaciones de inteligencia artificial (IA). Ofrece un repositorio seguro donde los usuarios pueden almacenar, etiquetar y organizar sus prompts, facilitando su recuperación y uso eficiente. La herramienta permite establecer estándares de indicaciones para mantener una comunicación coherente y obtener resultados predecibles de la IA en todas las interacciones.",
+        "release_date": "Junio 2024",
+        "developer": "PromptPanda",
+        "main_model": "No especificado",
+        "pricing_plans": "PromptPanda ofrece un plan gratuito que incluye todas las funciones, ideal para pequeñas empresas, startups y uso personal. Este plan permite gestionar hasta 10 usuarios y guardar indicaciones ilimitadas.",
+        "license": "Propietaria",
+        "security_privacy": "PromptPanda prioriza la seguridad de los datos de los usuarios, implementando medidas robustas de cifrado y protección de la información. El contenido generado se almacena de forma segura y no se comparte con terceros, garantizando que los datos permanezcan privados y protegidos en todo momento.",
+        "integration": "PromptPanda ofrece una extensión que permite añadir y recuperar indicaciones en cualquier plataforma, facilitando una integración fluida con diversas herramientas y servicios utilizados en los flujos de trabajo de los usuarios."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.promptpanda.io/?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-s-potentially-life-extending-model"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/promptpanda/features?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://www.softandapps.info/2024/06/28/promptpanda-organizar-y-gestionar-tus-prompts-para-ia/"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/promptpanda"
+        }
+      ]
+    },
+    "669": {
+      "app": {
+        "id": "669",
+        "name": "QuillAI",
+        "url": "https://ai.quillstash.com/",
+        "short_description": "Una herramienta impulsada por IA que genera artículos optimizados para SEO y palabras clave de tendencia, lo que facilita la generación de tráfico orgánico y el aumento de la visibilidad.",
+        "category": "SEO",
+        "main_functionality": "Generación de artículos optimizados para SEO mediante inteligencia artificial.",
+        "tags": "#GeneraciónDeContenido #SEO #InteligenciaArtificial",
+        "logo_filename": "id_669_quillai",
+        "what_is": "QuillAI es una plataforma de inteligencia artificial diseñada para ayudar a la creación de contenido optimizado para motores de búsqueda (SEO). Su tecnología permite generar artículos de alta calidad de manera rápida y eficiente.",
+        "purpose": "Sirve para la creación automatizada de contenido escrito que cumpla con criterios de optimización SEO, lo que facilita a los creadores de contenido, bloggers, profesionales del marketing y empresas mejorar su posicionamiento en buscadores.",
+        "use_cases": "Redacción de artículos optimizados para SEO en blogs y sitios web.\nCreación de descripciones de productos para e-commerce con alto impacto en buscadores.\nGeneración de contenido para redes sociales con enfoque en palabras clave.\nApoyo en la estrategia de contenido de agencias de marketing digital.",
+        "main_advantages": "Ahorro de tiempo en la generación de contenido optimizado.\nMejora en la calidad y relevancia del contenido para motores de búsqueda.\nAdaptabilidad a diferentes nichos y temáticas.\nUso de inteligencia artificial para asegurar coherencia y optimización del texto.",
+        "long_description": "QuillAI es una plataforma impulsada por inteligencia artificial que facilita la creación de contenido optimizado para motores de búsqueda (SEO). Su objetivo es ayudar a los usuarios a generar artículos de alta calidad que mejoren la visibilidad en línea y atraigan tráfico orgánico. La plataforma ofrece herramientas que permiten a los usuarios crear contenido relevante y atractivo para su audiencia, mejorando así su presencia en línea.",
+        "release_date": "Enero 2025",
+        "developer": "QuillAI.",
+        "main_model": "No disponible",
+        "pricing_plans": "No disponible",
+        "license": "No disponible",
+        "security_privacy": "No disponible",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://ai.quillstash.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-in-line-to-get-funding-boost"
+        },
+        {
+          "source_url": "https://www.crunchbase.com/organization/quill-ai"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/quillai"
+        },
+        {
+          "source_url": "https://www.ycombinator.com/companies/quill-ai"
+        },
+        {
+          "source_url": "https://genai.works/applications/quillai-lw6b6sxj"
+        }
+      ]
+    },
+    "677": {
+      "app": {
+        "id": "677",
+        "name": "QuickSearchPlus",
+        "url": "https://quicksearchplus.com/",
+        "short_description": "Di adiós a las pestañas interminables! QuickSearchPlus organiza, resume y asegura su navegación impulsada por IA para obtener la máxima productividad. Haga clic, busque y ¡listo!",
+        "category": "Productividad",
+        "main_functionality": "Proporcionar una plataforma para organizar y acceder rápidamente a sitios web favoritos, con capacidades de búsqueda avanzada y navegación segura.",
+        "tags": "#GestiónDeMarcadores #NavegaciónSegura #SincronizaciónMultidispositivo #Productividad",
+        "logo_filename": "id_677_quicksearchplus",
+        "what_is": "QuickSearchPlus es una herramienta innovadora diseñada para transformar la forma en que navegamos y organizamos información en línea. Ofrece una solución integral para individuos y profesionales que buscan simplificar sus interacciones web, mejorando la productividad, privacidad y seguridad. \n",
+        "purpose": "La aplicación está diseñada para simplificar la gestión de marcadores y asegurar una navegación privada y sincronizada en múltiples dispositivos. Permite a los usuarios capturar, organizar y acceder rápidamente a sus sitios web favoritos, garantizando una experiencia de navegación segura y eficiente.",
+        "use_cases": "Investigación en línea: Ideal para investigadores y académicos que necesitan acceder y organizar información de manera eficiente.\n\nGestión de proyectos: Profesionales que manejan múltiples proyectos pueden beneficiarse de la organización intuitiva de marcadores y archivos.\n\nNavegación segura: Usuarios preocupados por su privacidad en línea pueden utilizar la función de navegación incognito con protección VPN integrada.",
+        "main_advantages": "Interfaz intuitiva: Diseñada para ser fácil de usar, permitiendo una navegación sin esfuerzo.\n\nBúsqueda rápida: Tecnología avanzada que ofrece resultados de búsqueda rápidos y precisos.\n\nSincronización multidispositivo: Acceso a marcadores y archivos desde cualquier dispositivo, en cualquier momento.\n\nNavegación privada: Protección de la actividad en línea mediante navegación incognito con VPN integrada.",
+        "long_description": "QuickSearchPlus es una plataforma diseñada para mejorar la experiencia de navegación en línea, permitiendo a los usuarios capturar, organizar y acceder a sus sitios web favoritos de manera rápida y segura. La aplicación ofrece una interfaz intuitiva que facilita la gestión de marcadores, sincronización entre múltiples dispositivos y navegación privada mediante un portal web en modo incógnito con protección VPN integrada.",
+        "release_date": "Agosto 2024",
+        "developer": "SaariyS-II",
+        "main_model": "No disponible",
+        "pricing_plans": "Free: Incluye búsqueda por palabras clave, servicio SearchRecall, hasta 50 marcadores, hasta 5 carpetas y acceso limitado al portal web.\n\nStandard ($13/mes): Ofrece todas las características del plan Free, además de integración con ChatGPT, marcadores y carpetas ilimitadas, acceso sin conexión, QuickScan/Web Summary con 50 monedas por mes, subida de hasta 10 GB de archivos por mes a CouldDrive, acceso completo al portal web en modo incógnito y soporte prioritario por correo electrónico.\n\nPremium ($23/mes): Incluye todas las características del plan Standard, con beneficios adicionales que no se detallan en la fuente consultada.",
+        "license": "No disponible",
+        "security_privacy": "QuickSearchPlus enfatiza la seguridad y privacidad del usuario mediante la implementación de un portal web en modo incógnito con protección VPN integrada, asegurando que la actividad en línea de los usuarios permanezca anónima y protegida. Sin embargo, no se encontraron detalles específicos sobre políticas de privacidad o prácticas de manejo de datos. Se recomienda revisar la política de privacidad en el sitio web oficial o contactar directamente al equipo de QuickSearchPlus para obtener información detallada.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.futurepedia.io/tool/quicksearchplus"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/quicksearchplus"
+        }
+      ]
+    },
+    "746": {
+      "app": {
+        "id": "746",
+        "name": "Qodex",
+        "url": "https://qodex.ai/",
+        "short_description": "Plataforma de automatización de pruebas de API impulsada por inteligencia artificial que permite generar, ejecutar y mantener pruebas sin necesidad de escribir código, mejorando la eficiencia y cobertura en el aseguramiento de calidad.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Generación automática de casos de prueba para APIs utilizando lenguaje natural, ejecución de pruebas sin intervención humana y mantenimiento continuo de la documentación de APIs.​",
+        "tags": "#AutomatizaciónDePruebas #PruebasDeAPI #IA #QA #DevOps #TestingSinCódigo​\n",
+        "logo_filename": "id_746_qodex",
+        "what_is": "Qodex.ai es una plataforma de aseguramiento de calidad que utiliza inteligencia artificial para automatizar completamente las pruebas de APIs, permitiendo a los equipos de desarrollo y QA generar y mantener pruebas de manera eficiente sin necesidad de codificación manual.",
+        "purpose": "Está diseñada para facilitar la creación, ejecución y mantenimiento de pruebas de APIs, mejorando la cobertura de pruebas, reduciendo errores y acelerando los ciclos de desarrollo y despliegue",
+        "use_cases": "Equipos de desarrollo que buscan automatizar las pruebas de sus APIs para acelerar el tiempo de lanzamiento al mercado.​\n\nOrganizaciones que desean reducir la dependencia de pruebas manuales y minimizar errores humanos en el aseguramiento de calidad.​\n\nEmpresas que necesitan mantener una documentación actualizada y precisa de sus APIs de manera automatizada.",
+        "main_advantages": "Generación de pruebas en lenguaje natural, eliminando la necesidad de escribir código.​\n\nAutomatización completa de pruebas, incluyendo pruebas funcionales, de seguridad, de carga y de cumplimiento.​\n\nMantenimiento automático de la documentación de APIs con respuestas interactivas.​\n\nReducción significativa de costos y tiempo en el proceso de pruebas.",
+        "long_description": "Qodex.ai es una solución integral para la automatización de pruebas de APIs que utiliza inteligencia artificial para generar, ejecutar y mantener pruebas sin necesidad de codificación. La plataforma permite a los usuarios escribir pruebas en lenguaje natural, que son interpretadas y transformadas en casos de prueba automatizados. Además, Qodex.ai mantiene actualizada la documentación de las APIs y proporciona una interfaz interactiva para consultas y respuestas. Su enfoque sin código y su capacidad de adaptación continua la convierten en una herramienta eficiente para equipos de desarrollo y QA que buscan mejorar la calidad y velocidad de sus procesos.",
+        "release_date": "2023",
+        "developer": "Qodex.ai, fundada por Siddhant Mohan​",
+        "main_model": "No disponible",
+        "pricing_plans": "Modelo freemium con opciones de prueba gratuita y planes de pago escalables.",
+        "license": "Propietario",
+        "security_privacy": "Qodex.ai ofrece pruebas de seguridad y cumplimiento como parte de su suite de automatización, asegurando que las APIs cumplan con estándares de seguridad y normativas aplicables.",
+        "integration": "Se integra con plataformas de desarrollo y control de versiones como GitHub, permitiendo una implementación fluida en los flujos de trabajo existentes."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/qodex"
+        },
+        {
+          "source_url": "https://qodex.ai/?via=aitoolsdirectory-com"
+        },
+        {
+          "source_url": "https://tracxn.com/d/companies/qodexai/__fK_88zT3WnFRa260SMJ6Gg7oaGSSLvvnImsEo4fHcTg"
+        },
+        {
+          "source_url": "https://www.g2.com/products/qodex-ai/reviews?qs=pros-and-cons"
+        },
+        {
+          "source_url": "https://pitchbook.com/profiles/company/538260-40"
+        },
+        {
+          "source_url": "https://aitools.neilpatel.com/ai_tools/qodex-ai-software-testing-platform/"
+        }
+      ]
+    },
+    "868": {
+      "app": {
+        "id": "868",
+        "name": "Promptimize",
+        "url": "https://www.promptimizeai.com/",
+        "short_description": "Crea prompts perfectos en tiempo real para todas las plataformas.",
+        "category": "Productividad",
+        "main_functionality": "Mejora de instrucciones para modelos de lenguaje mediante optimización automática y personalización de variables, facilitando interacciones más efectivas con herramientas de IA.",
+        "tags": "#OptimizaciónDePrompts #ExtensiónDeNavegador #ProductividadIA #MejoraDeContenido #IntegraciónIA​",
+        "logo_filename": "id_868_promptimizeai",
+        "what_is": "Promptimize es una extensión de navegador diseñada para mejorar las instrucciones (prompts) utilizadas en herramientas de inteligencia artificial, permitiendo a los usuarios obtener respuestas más precisas y alineadas con sus necesidades.",
+        "purpose": "Facilita la creación de instrucciones efectivas para modelos de lenguaje, optimizando automáticamente las entradas del usuario y permitiendo la personalización mediante variables dinámicas.",
+        "use_cases": "Creación de contenido coherente y alineado con la marca.\n\nOptimización de instrucciones para asistentes virtuales.\n\nMejora de consultas en herramientas de IA para análisis de datos.\n\nEstandarización de prompts en equipos de trabajo.",
+        "main_advantages": "Optimización automática de instrucciones con un solo clic.\n\nPersonalización mediante variables dinámicas.\n\nCompatibilidad con múltiples plataformas de IA.\n\nFacilita la colaboración y consistencia en equipos.",
+        "long_description": "Promptimize es una herramienta que actúa como un asistente para mejorar las instrucciones utilizadas en modelos de lenguaje. A través de una extensión de navegador, permite a los usuarios optimizar automáticamente sus prompts, personalizarlos mediante variables dinámicas y mantener una biblioteca de instrucciones favoritas. Es compatible con diversas plataformas de inteligencia artificial, facilitando una interacción más efectiva y coherente con estas herramientas.",
+        "release_date": "2024",
+        "developer": "Promptimize AI, con sede en Miami, Florida\n\n",
+        "main_model": "No disponible",
+        "pricing_plans": "Plan Gratuito: 10 optimizaciones de prompts por día, biblioteca de prompts ilimitada, personalización de variables ilimitada.\n\nPlan Pro ($12/mes): Optimización de prompts ilimitada, integración con plataformas de IA, soporte prioritario.\n\nPlan Enterprise: Precios personalizados, incluye panel de uso de prompts, inteligencia empresarial, control de SSO, gestión de equipos, variables de equipo, compartición entre equipos, incorporación personalizada y soporte individual.",
+        "license": "Propietaria",
+        "security_privacy": "Promptimize ofrece procesamiento local o en la nube cifrada, permitiendo a los usuarios elegir la opción que mejor se adapte a sus necesidades de privacidad.",
+        "integration": "Compatible con plataformas como ChatGPT, Claude, Gemini, NotebookLM, DeepSeek y Microsoft Copilot.​"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.promptimizeai.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=gemini-2-5-has-arrived"
+        }
+      ]
+    },
+    "869": {
+      "app": {
+        "id": "869",
+        "name": "Qodo Gen",
+        "url": "https://www.qodo.ai/products/qodo-gen/",
+        "short_description": "Edite, revise y escriba código de calidad que funcione según lo previsto, con menos errores utilizando Agentic AI.",
+        "category": "Codificación",
+        "main_functionality": "Generación de código, pruebas y revisión automatizada mediante agentes inteligentes integrados en entornos de desarrollo.",
+        "tags": "#AI #CodeGeneration #Testing #IDEPlugin #AgenticAI #CodeReview",
+        "logo_filename": "id_869_qodogen",
+        "what_is": "Qodo Gen es una herramienta de inteligencia artificial diseñada para integrarse en entornos de desarrollo como VS Code y JetBrains, proporcionando asistencia en tiempo real para escribir, probar y revisar código.",
+        "purpose": "Facilita el desarrollo de software al automatizar tareas como la generación de código, creación de pruebas unitarias, revisión de código y documentación, mejorando la calidad y eficiencia del proceso de desarrollo.",
+        "use_cases": "Generación de funciones y módulos completos a partir de descripciones en lenguaje natural.\n\nCreación automática de pruebas unitarias y de integración basadas en el código existente.\n\nRevisión de código para detectar errores, vulnerabilidades y sugerir mejoras.\n\nDocumentación automática de funciones y clases mediante docstrings.",
+        "main_advantages": "Integración directa en el entorno de desarrollo, permitiendo una experiencia fluida.\n\nCapacidad de entender el contexto del proyecto para generar soluciones más precisas.\n\nSoporte para múltiples lenguajes de programación.\n\nModo agente que permite una interacción más dinámica y autónoma con la herramienta.​",
+        "long_description": "Qodo Gen es una solución de inteligencia artificial que se integra en entornos de desarrollo como VS Code y JetBrains, ofreciendo asistencia en la generación de código, creación de pruebas y revisión de código. Utiliza técnicas avanzadas como la generación aumentada por recuperación (RAG) y modelos de lenguaje de última generación para proporcionar sugerencias contextuales y precisas. Su modo agente permite a la herramienta actuar de manera más autónoma, descomponiendo tareas complejas en pasos manejables y ejecutándolos de forma eficiente.",
+        "release_date": "2024",
+        "developer": "Qodo (anteriormente Codium)",
+        "main_model": "Utiliza modelos de lenguaje avanzados como GPT-4, Claude Sonnet 3.5 y modelos propios de Qodo.",
+        "pricing_plans": "Plan gratuito para desarrolladores individuales con acceso a funciones básicas.\n\nPlanes de pago para equipos y empresas con características avanzadas y soporte adicional.",
+        "license": "Propietaria",
+        "security_privacy": "Qodo enfatiza la seguridad y privacidad de los datos, implementando políticas estrictas de retención de datos y cifrado de extremo a extremo para proteger la información del usuario.",
+        "integration": "Compatible con herramientas como GitHub, Jira y terminales de línea de comandos, permitiendo una integración fluida en el flujo de trabajo del desarrollador.​"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.qodo.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=deepseek-quietly-drops-major-update"
+        },
+        {
+          "source_url": "https://marketplace.visualstudio.com/items?itemName=Codium.codium"
+        },
+        {
+          "source_url": "https://codeparrot.ai/blogs/qodoai-code-with-an-agentic-ai"
+        },
+        {
+          "source_url": "https://www.reddit.com/r/CodeGPT_VSCode/comments/1hnz6ds/qodo_gen_ai_coding_assistant_to_code_test_and/"
+        },
+        {
+          "source_url": "https://10web.io/ai-tools/qodo/"
+        }
+      ]
+    },
+    "903": {
+      "app": {
+        "id": "903",
+        "name": "ProfilePro",
+        "url": "https://www.merchynt.com/profilepro",
+        "short_description": "Extensión gratuita de Chrome que automatiza la optimización del perfil de Google Business mediante inteligencia artificial, mejorando la visibilidad local y la gestión de reseñas.",
+        "category": "SEO",
+        "main_functionality": "Optimización automatizada de perfiles de Google Business utilizando inteligencia artificial para mejorar el posicionamiento en búsquedas locales.",
+        "tags": "#SEO #LocalSEO #GoogleBusinessProfile #Automatización",
+        "logo_filename": "id_903_profilepro",
+        "what_is": "ProfilePro es una extensión de Chrome impulsada por inteligencia artificial, diseñada para optimizar automáticamente los perfiles de Google Business, facilitando la gestión de contenido y mejorando la visibilidad en búsquedas locales.",
+        "purpose": "Su propósito principal es ayudar a pequeñas y medianas empresas a mejorar su presencia en línea mediante la automatización de tareas de SEO local, como la creación de descripciones optimizadas, respuestas a reseñas y publicaciones en Google Business.",
+        "use_cases": "Empresas locales que buscan aumentar su visibilidad en Google Maps.\n\nAgencias de marketing que gestionan múltiples perfiles de clientes.\n\nNegocios que desean automatizar respuestas a reseñas y publicaciones.",
+        "main_advantages": "Automatización de tareas repetitivas de SEO local.\n\nMejora del posicionamiento en búsquedas locales.\n\nAhorro de tiempo en la gestión de perfiles de Google Business.\n\nGeneración de contenido coherente con la voz de la marca.",
+        "long_description": "ProfilePro es una herramienta de inteligencia artificial que automatiza la optimización de perfiles de Google Business. Permite generar descripciones de negocios optimizadas para SEO, automatizar respuestas a reseñas, crear publicaciones coherentes con la voz de la marca y generar imágenes personalizadas para publicaciones. Además, sugiere categorías de negocio y proporciona descripciones de productos y servicios optimizadas, todo con el objetivo de mejorar la visibilidad en búsquedas locales.",
+        "release_date": "No disponible",
+        "developer": "Merchynt LLC\n",
+        "main_model": "No disponible",
+        "pricing_plans": "Gratuito: Incluye optimizaciones limitadas y respuestas a reseñas.\n\nPremium ($9/mes): Acceso ilimitado a todas las funciones, incluyendo generación de imágenes y personalización de tono.",
+        "license": "Propietaria",
+        "security_privacy": "Requiere inicio de sesión con la cuenta de Google asociada al perfil de negocio. La política de privacidad y términos de uso están disponibles en su sitio web oficial.",
+        "integration": "Actualmente, ProfilePro funciona como una extensión de Chrome y no se mencionan integraciones con otras herramientas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/profilepro"
+        },
+        {
+          "source_url": "https://www.merchynt.com/profilepro?via=aitoolsdirectory-com"
+        },
+        {
+          "source_url": "https://ai-insights.tech/ai-tool/profilepro/"
+        },
+        {
+          "source_url": "https://www.navto.ai/profilepro"
+        },
+        {
+          "source_url": "https://www.success.ai/ai-tools/profilepro"
+        },
+        {
+          "source_url": "https://aitoolsexplorer.com/ai-tools/profilepro-google-business-profile-optimization-with-ai/"
+        },
+        {
+          "source_url": "https://creati.ai/ai-tools/profile-pro/"
+        },
+        {
+          "source_url": "https://aivalley.ai/profilepro/"
+        },
+        {
+          "source_url": "https://www.aibase.com/tool/28688"
+        }
+      ]
+    },
+    "911": {
+      "app": {
+        "id": "911",
+        "name": "Promptaa",
+        "url": "https://promptaa.com/",
+        "short_description": "Ayuda a refinar las indicaciones para obtener mejores resultados de los modelos de lenguaje.",
+        "category": "Productividad",
+        "main_functionality": "Gestión y mejora de prompts mediante inteligencia artificial, con capacidades de organización por categorías y compartición comunitaria.",
+        "tags": "#PromptEngineering #GestiónDePrompts #IA #Productividad #NLP",
+        "logo_filename": "id_911_promptaa",
+        "what_is": "Promptaa es una plataforma en línea que facilita la creación, organización y mejora de prompts utilizados en herramientas de inteligencia artificial, como ChatGPT.",
+        "purpose": "Sirve para optimizar la interacción con modelos de lenguaje, permitiendo a los usuarios gestionar sus prompts de manera estructurada y mejorar su efectividad mediante sugerencias automatizadas.",
+        "use_cases": "Profesionales que requieren organizar y reutilizar prompts en proyectos de contenido, programación o análisis de datos.\n\nEquipos que buscan estandarizar la calidad de los prompts utilizados en diferentes aplicaciones de IA.\n\nUsuarios que desean compartir y descubrir prompts efectivos dentro de una comunidad.",
+        "main_advantages": "Mejora de la calidad de los prompts mediante sugerencias automatizadas.\n\nOrganización eficiente a través de categorías personalizables.\n\nFacilidad para compartir y descubrir prompts dentro de una comunidad activa.\n\nInterfaz intuitiva que permite una gestión sencilla y rápida de los prompts.",
+        "long_description": "Promptaa es una herramienta diseñada para facilitar la gestión de prompts utilizados en aplicaciones de inteligencia artificial. Permite a los usuarios crear y organizar sus prompts en categorías personalizables, mejorar su efectividad mediante sugerencias automatizadas y compartirlos con una comunidad activa. La plataforma ofrece una interfaz intuitiva que simplifica la gestión de prompts, haciendo que la interacción con modelos de lenguaje sea más eficiente y productiva.",
+        "release_date": "No disponible",
+        "developer": "Promptaa",
+        "main_model": "No disponible",
+        "pricing_plans": "Versión gratuita con funcionalidades básicas.\n\nPlanes de pago con características avanzadas; detalles específicos disponibles en el sitio oficial.",
+        "license": "Propietaria",
+        "security_privacy": "Compromiso con la protección de datos del usuario; políticas detalladas disponibles en el sitio web oficial.",
+        "integration": "No se especifica integración directa con otras herramientas o plataformas"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://promptaa.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-s-stunning-reversal"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/promptaa"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/promptaa"
+        },
+        {
+          "source_url": "https://promptaa.com/"
+        }
+      ]
+    },
+    "913": {
+      "app": {
+        "id": "913",
+        "name": "Quadratic",
+        "url": "https://www.quadratichq.com/",
+        "short_description": "Chatee con sus datos, conecte bases de datos y visualice los resultados en una herramienta todo en uno fácil de usar con código.",
+        "category": "Automatización",
+        "main_functionality": "Permite realizar análisis de datos mediante IA, ejecutar código (Python, SQL, JavaScript) directamente en celdas y conectarse a diversas fuentes de datos.",
+        "tags": "#HojaDeCálculo #IA #Python #SQL #JavaScript #AnálisisDeDatos #Visualización #ColaboraciónEnTiempoReal #ConexionesDeDatos",
+        "logo_filename": "id_913_quadratic",
+        "what_is": "Quadratic es una plataforma de hoja de cálculo que combina la familiaridad de las hojas tradicionales con capacidades avanzadas de inteligencia artificial, permitiendo a los usuarios interactuar con sus datos de manera más eficiente y colaborativa.",
+        "purpose": "Facilita el análisis de datos complejos, la creación de visualizaciones interactivas, la ejecución de código directamente en las celdas y la conexión con múltiples fuentes de datos, todo dentro de un entorno colaborativo en tiempo real.",
+        "use_cases": "Análisis financiero y proyecciones.\n\nGestión de proyectos y seguimiento de métricas clave.\n\nInvestigación académica con grandes volúmenes de datos.\n\nVisualización de datos para presentaciones ejecutivas.",
+        "main_advantages": "Integración de IA para análisis y generación de código.\n\nSoporte para múltiples lenguajes de programación en celdas.\n\nConexión directa con bases de datos como PostgreSQL, MySQL y Snowflake.\n\nColaboración en tiempo real con múltiples usuarios.\n\nCumplimiento con estándares de seguridad como SOC 2 y HIPAA.",
+        "long_description": "Quadratic es una herramienta innovadora que transforma la manera en que los usuarios interactúan con las hojas de cálculo. Al integrar inteligencia artificial, permite a los usuarios realizar consultas en lenguaje natural, generar visualizaciones y obtener insights de sus datos de forma rápida. Además, su capacidad para ejecutar código en lenguajes como Python, SQL y JavaScript directamente en las celdas ofrece una flexibilidad sin precedentes. La plataforma también permite conexiones directas con diversas bases de datos, facilitando el análisis de datos en tiempo real. Su diseño moderno y enfoque en la colaboración hacen de Quadratic una solución ideal para equipos que buscan eficiencia y profundidad en el análisis de datos.",
+        "release_date": "Marzo 2025",
+        "developer": "Quadratic Growth Inc.",
+        "main_model": "Utiliza modelos de lenguaje natural para interpretar consultas y generar código, aunque no se especifica un modelo en particular.",
+        "pricing_plans": "Versión gratuita con funcionalidades básicas.\n\nPlanes Pro desde $18 USD al mes con características avanzadas.\n\nOpciones para equipos y empresas con funcionalidades adicionales y soporte.",
+        "license": "Propietaria",
+        "security_privacy": "Cumple con los estándares SOC 2 (Tipo II) y HIPAA.\n\nGarantiza la seguridad y privacidad de los datos almacenados.",
+        "integration": "Conexión directa con bases de datos como PostgreSQL, MySQL y Snowflake.\n\nPosibilidad de importar datos desde archivos PDF.\n\nIntegración con herramientas de visualización como Plotly."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.quadratichq.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=gemini-goes-multimodal"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/quadratic"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/quadratic"
+        },
+        {
+          "source_url": "https://www.aitechsuite.com/tools/quadratichq.com"
+        }
+      ]
+    },
+    "951": {
+      "app": {
+        "id": "951",
+        "name": "ProfAI",
+        "url": "https://www.sectionai.com/ai/profai",
+        "short_description": "Entrena a todo tu equipo en IA con ProfAI, un coach personalizado impulsado por IA. Mejore las habilidades de los equipos, capacite en casos de uso personalizados y otorgue la certificación de IA.",
+        "category": "Educación",
+        "main_functionality": "Entrenamiento individualizado en habilidades de IA con ejercicios prácticos y evaluación continua, culminando en una certificación de competencia.",
+        "tags": "#CapacitaciónIA #CoachingPersonalizado #CertificaciónIA #E-learning #ProductividadIA",
+        "logo_filename": "id_951_profai",
+        "what_is": "ProfAI es una plataforma de e‑learning potenciada por IA que actúa como coach 24/7, adaptando el contenido de formación y ejercicios al rol y proyectos reales de cada usuario. ",
+        "purpose": "Facilita que profesionales de cualquier área adquieran y certifiquen competencias en el uso de herramientas de IA, incrementando productividad y minimizando riesgos asociados a un uso inexperto.",
+        "use_cases": "Equipos corporativos grandes (más de 500 empleados) que requieren despliegues masivos de formación en IA. \n\nLíderes de capacitación que buscan personalizar ejercicios según funciones específicas (marketing, ingeniería, data, etc.). \n\n\nProfesionales que necesitan feedback continuo mientras trabajan en proyectos reales, como desarrolladores de contenido o analistas de datos.",
+        "main_advantages": "Personalización automática de ejercicios al perfil y objetivos del usuario. \n\nFeedback y tutoría en tiempo real, similar a un asistente o TA. \n\nCertificación que valida la competencia en IA de cada participante. \n\nEscalabilidad y reducción de costos frente a formaciones presenciales.",
+        "long_description": "ProfAI es un coach virtual de inteligencia artificial integrado en la plataforma de e-learning de Section, que ofrece entrenamiento personalizado con ejercicios generados por IA, retroalimentación en tiempo real y certificación de competencia. Está diseñado tanto para usuarios individuales como para despliegues corporativos a gran escala, con seguimiento del progreso y métricas de adopción.",
+        "release_date": "Marzo 2025",
+        "developer": "Section (New York, NY), fundada en 2019, especializada en transformación de fuerza laboral con IA.",
+        "main_model": "No disponible",
+        "pricing_plans": "Actualmente solo disponible para organizaciones de más de 500 empleados; detalles de precio bajo consulta directa con Section.",
+        "license": "Propietaria",
+        "security_privacy": "Si bien no hay detalles públicos explícitos, Section menciona cumplimiento de políticas de privacidad en su sitio y uso ético de datos de aprendizaje. No entrena modelos con datos de usuario final. (Información inferida; no hay fuente explícita.)",
+        "integration": "Actualmente se despliega dentro de la plataforma de Section; no hay información pública de conexiones directas con LMS externos o herramientas de terceros, más allá de la relación con Anthropic para el motor IA. "
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "ProfAI impulsa la adopción temprana de formación en IA mediante certificación con alta satisfacción de usuarios",
+          "description": "En su etapa inicial, ProfAI logró que miles de usuarios obtuvieran la certificación “AI Proficiency”, destacando un 94 % de satisfacción de aprendizaje y un Net Promoter Score implícito de 4.2/5. Esta adopción temprana refleja el valor percibido de la plataforma en la formación accesible y efectiva en inteligencia artificial.",
+          "url": "https://www.linkedin.com/posts/bobbyisaacson_section-profai-ai-proficiency-was-issued-activity-7326660356095770624-pcq8?utm_source=chatgpt.comm"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.sectionai.com/ai/profai?utm_source=newsletter&utm_medium=superhuman&utm_campaign=03112025&utm_term=profai-demo-march18&utm_content=featured-tool"
+        },
+        {
+          "source_url": "https://help.section4.com/support/solutions/articles/67000743816-what-can-profai-do-"
+        },
+        {
+          "source_url": "https://www.anthropic.com/customers/section"
+        }
+      ]
+    },
+    "991": {
+      "app": {
+        "id": "991",
+        "name": "PxBee",
+        "url": "https://www.pxbee.com/",
+        "short_description": "Crea imágenes profesionales e impresionantes con un editor de fotos impulsado por IA.",
+        "category": "Edición de imágenes",
+        "main_functionality": "Edición de fotografías mediante herramientas de IA para mejorar calidad, modificar fondos y eliminar elementos no deseados.",
+        "tags": "#IA #EditorDeFotos #MejoraDeImágenes #EliminaciónDeFondos #CambioDeFondos",
+        "logo_filename": "id_991_pxbee",
+        "what_is": "PxBee es una plataforma en línea que ofrece herramientas de edición fotográfica basadas en inteligencia artificial, diseñadas para facilitar la creación de imágenes profesionales sin necesidad de conocimientos técnicos avanzados.",
+        "purpose": "Sirve para mejorar la calidad de las fotografías, eliminar o cambiar fondos, eliminar marcas de agua y objetos no deseados, y ampliar imágenes, todo mediante procesos automatizados por IA.",
+        "use_cases": "Creación de imágenes de productos para comercio electrónico.\n\nDiseño de materiales promocionales y publicitarios.\n\nEdición rápida de fotografías para redes sociales y blogs.\n\nPreparación de imágenes para presentaciones profesionales.",
+        "main_advantages": "Interfaz intuitiva y fácil de usar.\n\nProcesamiento rápido gracias a la automatización por IA.\n\nResultados de calidad profesional sin necesidad de software especializado.\n\nAcceso gratuito a múltiples herramientas de edición.",
+        "long_description": "PxBee es una solución de edición fotográfica en línea que utiliza inteligencia artificial para simplificar y agilizar el proceso de mejora de imágenes. Entre sus funcionalidades se incluyen la eliminación y cambio de fondos, mejora de resolución, eliminación de objetos no deseados, ampliación de imágenes y eliminación de marcas de agua. Estas herramientas están diseñadas para ser accesibles a usuarios sin experiencia en edición, permitiendo obtener resultados de calidad profesional de manera eficiente.",
+        "release_date": "No disponible",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "Gratuito",
+        "license": "Propietaria",
+        "security_privacy": "No disponible",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.pxbee.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=claude-gets-voice-mode"
+        },
+        {
+          "source_url": "https://www.expify.ai/categories/digital-photo-editing-services/ai-tool-pxbee"
+        },
+        {
+          "source_url": "https://apps.apple.com/us/app/pixbee-pro/id6502630006"
+        },
+        {
+          "source_url": "https://appadvice.com/app/pixbee-smartlife/644899124"
+        }
+      ]
+    },
+    "1049": {
+      "app": {
+        "id": "1049",
+        "name": "PrompTessor",
+        "url": "https://promptessor.com/",
+        "short_description": "Evalúa, mejora y optimiza tus indicaciones de IA. ",
+        "category": "Generación de texto",
+        "main_functionality": "Evaluación detallada de prompts con métricas clave y sugerencias automáticas para mejorar su efectividad.",
+        "tags": "#PromptEngineering #PromptOptimization #LLMInteraction #AIScoring",
+        "logo_filename": "id_1049_promptessor",
+        "what_is": "Una herramienta basada en navegador (con app de escritorio opcional) dedicada a analizar y mejorar prompts dirigidos a modelos de lenguaje como GPT, Claude, Gemini, entre otros.",
+        "purpose": "Sirve para convertir prompts poco claros o vagos en instrucciones optimizadas que generen salidas más precisas, coherentes y útiles desde modelos de IA.",
+        "use_cases": "Refinamiento de prompts para equipos de marketing (publicidad, guiones, emails).\n\nConstrucción de flujos de trabajo con LLM para desarrolladores y creadores de contenido.\n\nEvaluación y comparación de versiones de prompt con métricas claras.",
+        "main_advantages": "Análisis rápido y resultados en segundos.\n\nPuntuación de efectividad (0–100) basada en seis dimensiones claves: claridad, especificidad, contexto, estructura, objetivos y restricciones.\n\nHistorial de versiones y seguimiento de evolución del prompt.\n\nPlataforma accesible en navegador sin instalación, con posibilidad de app de escritorio.\n\nOpciones gratuitas y planes de pago accesibles.",
+        "long_description": "Plataforma que evalúa prompts mediante un motor de IA que genera puntuaciones y métricas sobre claridad, contexto, objetivos, estructura, restricción y especificidad. Ofrece sugerencias de reescritura, múltiples versiones mejoradas, y seguimiento del historial de mejora a través del tiempo. Permite comparar iteraciones y afinar prompts para tareas específicas en cualquier modelo soportado.",
+        "release_date": "2025",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "Freemium: hasta 10 análisis diarios básicos.\n\nPro (~USD 10 / mes): análisis ilimitado básico + hasta 2 000 avanzados mensuales.\n\nPro+ (~USD 15 / mes): acceso ilimitado a ambos niveles.",
+        "license": "Plataforma propietaria (no de código abierto), modelo SaaS con planes gratis y de pago.",
+        "security_privacy": "Mencionan manejo seguro de datos y confidencialidad, sin evidenciar certificaciones formales (como SOC 2) en las fuentes principales. Se afirma privacidad “secure handling” pero sin documentación técnica específica en abierto.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://promptessor.com/"
+        },
+        {
+          "source_url": "https://webcatalog.io/en/apps/promptessor"
+        },
+        {
+          "source_url": "https://www.saasworthy.com/product/promptessor"
+        },
+        {
+          "source_url": "https://automateed.com/promptessor-review/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/promptessor"
+        },
+        {
+          "source_url": "https://www.futuretools.io/tools/promptessor"
+        }
+      ]
+    },
+    "1105": {
+      "app": {
+        "id": "1105",
+        "name": "Pylon",
+        "url": "https://usepylon.com/",
+        "short_description": "Una herramienta para su emisión de tickets, widget de chat, base de conocimientos, soporte de IA, portal de clientes y más.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Gestión unificada de atención al cliente (tickets, chat, portal) con inteligencia artificial para redacción asistida de artículos, bots de soporte, autofill, y flujos de trabajo automatizados.",
+        "tags": "#SoporteB2B #IAAsistida #Ticketing #ChatWidget #BaseDeConocimiento #Automatización",
+        "logo_filename": "id_1105_pylon",
+        "what_is": "Una plataforma de soporte desarrollada especialmente para equipos de post‑venta B2B, que ofrece herramientas para ticketing, chat, base de conocimiento, portal de clientes y automatización inteligente.",
+        "purpose": "Para gestionar y automatizar la atención al cliente en un solo lugar, integrando múltiples canales (Slack, email, chat, formularios) y aprovechando IA para agilizar tareas, generar contenido y mejorar la eficiencia del soporte.",
+        "use_cases": "Redacción automatizada de artículos de soporte mediante el Article Copilot.\n\nBots de IA que gestionan tickets y completan campos automáticamente (AI Autofill, AI Support Bot).\n\nChat omnicanal desde Slack, Teams, email, web, y más.\n\nConstrucción de flujos de trabajo y macros personalizados.\n\nPreparación de insights y respuestas con Ask AI, que busca en datos internos y externos.",
+        "main_advantages": "Soporte inteligente y eficiente que automatiza rutinas.\n\nReducción de carga manual y disminución de errores.\n\nCentralización de soporte omnicanal y colaboración interna.\n\nFacilita documentación actualizada y recuperación rápida de información.",
+        "long_description": "Plataforma creada para facilitar la gestión del soporte en empresas B2B. Combina bandeja unificada, base de conocimiento, portal para clientes, automatización de workflows, reportes analíticos y asistencia con IA como “Ask AI” y “Article Copilot”. Integra múltiples canales (Slack, Teams, email, web), CRM y herramientas de gestión.",
+        "release_date": "2022",
+        "developer": "Pylon Labs, Inc., con sede en San Francisco, California.",
+        "main_model": "No disponible",
+        "pricing_plans": "No disponible",
+        "license": "Propietaria.",
+        "security_privacy": "Existen secciones dedicadas a Security, Privacy Policy, y DPA, lo que sugiere atención a cumplimiento normativo y protección de datos.",
+        "integration": "Amplias integraciones con CRM (Salesforce, HubSpot, Attio, Pipedrive), ticketing (Linear, GitHub Issues, Asana, Jira), alertas (PagerDuty, Opsgenie), chat (Slack, Teams, Discord), gestión de datos (Snowflake, BigQuery, Redshift), calendario, grabaciones de llamadas, y extensión mediante API, webhooks y apps personalizadas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://usepylon.com/"
+        },
+        {
+          "source_url": "https://www.ycombinator.com/companies/pylon-2"
+        },
+        {
+          "source_url": "https://www.builtinsf.com/company/pylon-usepyloncom"
+        },
+        {
+          "source_url": "https://www.baslerweb.com/en-us/software/pylon-ai/?srsltid=AfmBOop6FXefzxW7U0OUPZI1I9Ak9U9O3gxXkuvlZYSPr-PGFoQ_5Qo8"
+        }
+      ]
+    },
+    "1137": {
+      "app": {
+        "id": "1137",
+        "name": "Pulze",
+        "url": "https://www.pulze.ai/",
+        "short_description": "Cree agentes y flujos de trabajo de IA sin ingenieros.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Permite lanzar asistentes de IA y flujos de trabajo sin escribir código, facilitando acceso a múltiples modelos de IA, gestión colaborativa y automatización de tareas.",
+        "tags": "#NoCodeAI #LLMOps #Automatización\n#Seguridad (SOC2) #Colaboración",
+        "logo_filename": "id_1137_pulze",
+        "what_is": "Una plataforma de IA sin código (No-Code AI Workspace) que reúne múltiples modelos de IA, herramientas colaborativas y seguridad empresarial en un solo espacio para crear asistentes inteligentes y automatizar procesos.",
+        "purpose": "Facilita la creación y despliegue rápido de asistentes de IA, automatización de tareas repetitivas (como gestión de tickets, redacción de contenido, clasificación de leads), y administración centralizada de modelos y datos con fuerte enfoque en seguridad.",
+        "use_cases": "Automatización de tickets de soporte\n\nGeneración de borradores de contenido\n\nClasificación de leads\n\nColaboración interdepartamental en marketing, ventas, operaciones, recursos humanos.\n\nAutomatización mediante recetas (triggers y respuestas automáticas).",
+        "main_advantages": "Lanzamiento sin necesidad de desarrolladores\n\nAhorro de tiempo y costos eliminando suscripciones múltiples\n\nControl centralizado de permisos, accesos y uso de modelos\n\nAlta seguridad con cumplimiento de SOC 2 y protección de datos (sin logging al proveedor de IA)\n\nPlantillas predefinidas para acelerar adopción\n\nIntegración con herramientas como Slack, Google Drive y Jira",
+        "long_description": "Pulze es una plataforma integral de LLMOps diseñada para facilitar el desarrollo, despliegue, seguimiento y automatización de aplicaciones basadas en grandes modelos de lenguaje. Ofrece orquestación, benchmarking, caching, observabilidad, logging, validación de modelos, comparativa de respuestas y configuración de flujos (“Flowz”), además de integrarse con APIs y soportar escalado empresarial.",
+        "release_date": "2023",
+        "developer": "Pulze.ai Inc. es la entidad responsable; cuenta con lista en AWS Marketplace y sede mencionada en Estados Unidos (via Optimizely listing indica dirección en Nueva York para su servicio)",
+        "main_model": "No disponible",
+        "pricing_plans": "Pulze One: US $39/mes (o US $234 anual), con un asistente de IA y uso ilimitado.\n\nPulze X Suite: US $97/mes (o US $468 anual) para acceso a todos los asistentes y modelos, usuario individual.\n\nEnterprise: Precios personalizados, incluye asistentes a medida, API, whitelabel, autoservicio, soporte, licenciamiento para 1000+ usuarios, cumplimiento SOC 2 Type 2, GDPR, RBAC.",
+        "license": "Propietaria.",
+        "security_privacy": "Cumplimiento con estándares empresariales como SOC 2 (Type 2) y GDPR.\n\nAislamiento de datos, sin logging hacia el proveedor de IA; enfoque “privacy-first”.\n\nSeguridad robusta, roles y permisos a nivel de usuario (Enterprise RBAC).",
+        "integration": "Conectores disponibles para Slack, Google Drive, Jira, entre otros.\n\nIntegración específica con Optimizely (via conector Pulze AI para marketing).\n\nAPI disponible en el plan Enterprise.\n\nChatbot open-source que se puede integrar en webs."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.pulze.ai"
+        },
+        {
+          "source_url": "https://aws.amazon.com/marketplace/seller-profile?id=seller-vnn4gswglw3tw"
+        }
+      ]
+    },
+    "1178": {
+      "app": {
+        "id": "1178",
+        "name": "Qoder",
+        "url": "https://qoder.com/",
+        "short_description": "Desarrolle software real con Agentic IDE.",
+        "category": "Codificación",
+        "main_functionality": "Asistencia de inteligencia artificial para desarrollo de software — comprende todo tu proyecto, su contexto, arquitectura y dependencias; permite generar, editar, refactorizar código, crear tests, ejecutar tareas y automatizar flujos completas con modos de operación asistida o autónoma.",
+        "tags": "#IA_Código #IDE_IA #AutocompletadoContextual #Agentes_IA #DesarrolloAsistido #ProgramaciónConIA #AutomatizaciónDeCódigo #AgenticCoding",
+        "logo_filename": "id_1178_qoderai",
+        "what_is": "Qoder es una “plataforma de codificación agentic” — un entorno de desarrollo inteligente que usa agentes de IA para asistir o ejecutar tareas de programación. A diferencia de herramientas tradicionales de autocompletado o de asistencia puntual, Qoder busca entender la base de código completa, su arquitectura y contexto, para permitir desde simples sugerencias hasta la delegación de tareas completas de desarrollo.",
+        "purpose": "Facilitar el desarrollo de software: ayudar al programador a codificar, refactorizar, generar tests, mantener consistencia, etc.\n\nReducir carga manual: permitir delegar tareas complejas — nuevas features, bugfixes, refactorizaciones — a agentes IA.\n\nAcelerar tiempos: disminuir iteraciones, acelerar prototipos o desarrollo de funciones, mejorar eficiencia.\n\nMejorar mantenibilidad y documentación: generar documentación automática del proyecto, ayudar en comprensión de arquitectura.",
+        "use_cases": "Desarrollo de nuevas funcionalidades: un desarrollador describe en lenguaje natural lo que quiere — “añade autenticación OAuth + endpoints para usuarios” — y Qoder genera el código, tests y estructura correspondiente. \n\nRefactorización de código o limpieza de base existente: con comprensión del proyecto, Qoder puede ayudar a reestructurar, modularizar o mejorar código antiguo. \n\nCorrección de bugs / debugging asistido: usando su “Agent Mode”, permite al desarrollador pedir ayuda puntual, investigar errores, sugerir correcciones. \n\nDocumentación automática del proyecto: mediante una función estilo “Repo Wiki”, Qoder puede analizar el código, dependencias, estructura, y generar documentación o mapa de arquitectura. Esto es especialmente útil en equipos, mantenimiento o incorporación de nuevos miembros. \n\nDesarrollo basado en especificaciones: equipos técnicos pueden escribir especificaciones en lenguaje natural, y Qoder se encarga del plan, implementación y pruebas — ideal para agilizar desarrollo.",
+        "main_advantages": "Comprensión profunda del proyecto: no solo autocompletado de líneas aisladas, sino conocimiento del contexto, arquitectura, dependencias y estilo de código. \n\nAutomatización de tareas complejas: posibilidad de delegar features completas, tests, refactorización — no solo fragmentos. \n\nMemoria adaptativa y aprendizaje del estilo: Qoder puede adaptar su output al estilo del proyecto, manteniendo consistencia. \n\nAumento de productividad: menos tiempo en tareas repetitivas o rutinarias, más foco en diseño, arquitectura y lógica de alto nivel. \n\nMejor mantenimiento y documentación: con generación automática de documentación del proyecto, facilita la mantenibilidad y colaboración en equipo.",
+        "long_description": "Qoder es un entorno de desarrollo potenciado por IA construido para “software real”: ofrece autocompletado contextual, chat dentro del código, y — más innovador — la capacidad de delegar tareas completas a agentes de IA que entienden la base de código, arquitectura, dependencias, historial y estilo. Tiene dos modos principales de uso:\n\nAgent Mode — actúa como un asistente conversacional (“pair programming”) que ayuda en tiempo real con debugging, autocompletado, edición, sugerencias. \n\nQuest Mode — permite definir tareas más grandes en lenguaje natural (por ejemplo: “Implementa módulo de autenticación + tests”), tras lo cual la IA planifica, genera código, prueba, valida y entrega una solución lista, idealmente lista para producción.",
+        "release_date": "Agosto 2025",
+        "developer": "Alibaba",
+        "main_model": "Qoder utiliza un modelo propio llamado Next‑Edit‑Suggestion (NES) como parte de su arquitectura de “agentic coding”. Este modelo, junto con su motor de “context engineering” y la capacidad de integrar distintos modelos LLM (como GPT, Claude, Gemini), permite comprender contextos complejos, planear cambios, ejecutar código, etc.",
+        "pricing_plans": "Actualmente Qoder se encuentra en public preview (beta pública), lo que permite su uso gratuito por ahora. \n\n Fuentes indican que habrá un plan “Pro” eventualmente, con un sistema de “credits” (créditos) para solicitudes; durante la beta, los usuarios reciben un límite de “reloj/cuotas” (por ejemplo, 2000 “requests”, según una fuente japonesa) para probar la plataforma. \n\n Pero no hay información pública definitiva sobre precios finales o estructura de planes.",
+        "license": "No disponible",
+        "security_privacy": "Las fuentes públicas se centran en la funcionalidad técnica; no encontré información detallada sobre políticas de privacidad, manejo de datos del proyecto, retención de código, propiedad intelectual, encriptación, o aislamiento de código sensible. Algunos medios advierten sobre la necesidad de revisar “calidad de código, mantenibilidad, deuda técnica, estándares de revisión” cuando se usa IA en producción.",
+        "integration": "Qoder permite integración con varios modelos de IA (GPT, Claude, Gemini, etc.) y puede conectarse con sistemas de control de versiones (repositorios Git), terminal, edición multi‑archivo, tests automáticos, herramientas externas vía protocolos como MCP (Model Context Protocol) para extender su funcionalidad."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://qoder.com/"
+        },
+        {
+          "source_url": "https://docs.qoder.com/user-guide/chat/overview?"
+        },
+        {
+          "source_url": "https://www.reddit.com/r/vibecoding/comments/1n3w2hd/qoder_free_alternative_and_handy_helper_when_your/?tl=es-419"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/qoder"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/qoder/"
+        }
+      ]
+    },
+    "1263": {
+      "app": {
+        "id": "1263",
+        "name": "Project Genie",
+        "url": "https://project-genie.net/",
+        "short_description": "Crear mundos 3D fotorrealistas e interactivos a partir de texto.",
+        "category": "Texto a video",
+        "main_functionality": "Generación y visualización de escenas de video interactivas impulsadas por IA, donde el usuario puede explorar distintos escenarios y resultados en tiempo real.",
+        "tags": "#GeneraciónDeVideo #VideoInteractivo #IAVisual #Simulación #ContenidoInmersivo",
+        "logo_filename": "id_1263_projectgenie",
+        "what_is": "Project Genie es una plataforma experimental de inteligencia artificial enfocada en la generación de video interactivo. Permite a los usuarios visualizar y explorar escenarios dinámicos generados por modelos de IA, ofreciendo experiencias inmersivas donde el contenido visual puede cambiar según la interacción o selección del usuario.",
+        "purpose": "Sirve para experimentar con generación de video avanzada, simulaciones visuales y escenarios interactivos, siendo útil para demostraciones tecnológicas, investigación, exploración creativa y desarrollo de experiencias visuales inmersivas.",
+        "use_cases": "Exploración de escenarios generados por IA en tiempo real.\n\nDemostraciones de capacidades de modelos generativos de video.\n\nProyectos creativos y experimentales de contenido visual.\n\nVisualización interactiva para investigación en IA.\n\nShowcase de tecnología de simulación y video generativo.",
+        "main_advantages": "Experiencias de video interactivas y dinámicas.\n\nUso de modelos generativos avanzados.\n\nInterfaz visual orientada a la exploración.\n\nEnfoque innovador en simulación y contenido inmersivo.\n\nIdeal para demostraciones y prototipos visuales.",
+        "long_description": "Project Genie es una plataforma de inteligencia artificial centrada en la generación de experiencias visuales interactivas mediante video. A través de modelos generativos avanzados, permite crear y explorar escenas dinámicas que responden a diferentes selecciones o contextos, ofreciendo una aproximación innovadora a la simulación visual y al contenido inmersivo. La plataforma está orientada a usuarios interesados en experimentar con nuevas formas de interacción audiovisual y exploración de escenarios generados por IA.",
+        "release_date": "No disponible",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "Plan Gratuito / Acceso Inicial:\nAcceso limitado a la plataforma para exploración y demostración.\n\nPlanes de Pago:\nAcceso ampliado a funcionalidades y experiencias generativas.\nLos precios y límites específicos se muestran en la sección de pricing del sitio y pueden variar.",
+        "license": "Propietaria.",
+        "security_privacy": "Recopila información básica del usuario y datos técnicos de uso.\n\nPuede recopilar información relacionada con la interacción del usuario con la plataforma.\n\nLos datos se utilizan para operar, mantener y mejorar el servicio.\n\nSe aplican medidas de seguridad razonables para proteger la información.\n\nLos usuarios pueden ejercer derechos relacionados con sus datos conforme a la política de privacidad.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://project-genie.net/"
+        },
+        {
+          "source_url": "https://project-genie.net/#feature"
+        },
+        {
+          "source_url": "https://project-genie.net/#pricing"
+        },
+        {
+          "source_url": "https://project-genie.net/#showcase"
+        },
+        {
+          "source_url": "https://project-genie.net/privacy-policy"
+        }
+      ]
+    },
+    "1304": {
+      "app": {
+        "id": "1304",
+        "name": "QuikAuthor",
+        "url": "https://quikauthor.io/",
+        "short_description": "Convierte vídeos, PDFs y prompts de texto en cursos interactivos y gamificados de aprendizaje en línea.",
+        "category": "Educación",
+        "main_functionality": "Crear contenido de capacitación/microlearning con apoyo de IA (generación de estructura y contenido, conversión de materiales como videos/documentos a lecciones) e incluir actividades gamificadas y exportaciones tipo SCORM para integrarlo a un LMS.",
+        "tags": "#Educación #Microlearning #ELearning #Gamificación #AutoríaDeCursos #SCORM #LMS #Quizzes",
+        "logo_filename": "id_1304_quickauthor",
+        "what_is": "Es una plataforma de autoría e-learning/microlearning impulsada por IA para crear experiencias de aprendizaje interactivas y gamificadas, orientada a equipos de L&D, educadores e instructional designers.",
+        "purpose": "Sirve para acelerar la creación de capacitación digital (microlearning y e-learning), generando lecciones y evaluaciones a partir de prompts y/o materiales existentes (p. ej., videos o documentos), y publicando/exportando el resultado para uso en LMS (p. ej., SCORM).",
+        "use_cases": "Onboarding y capacitación interna (ejemplos de prompts/escenarios de onboarding en el blog).\n\nCapacitación corporativa con microlearning y gamificación.\n\nCreación de contenidos para cursos con quizzes y actividades interactivas.\n\nPublicación en LMS mediante exportación SCORM (para integración).",
+        "main_advantages": "Automatiza partes clave de la autoría (estructura y contenido) para reducir el ensamblaje manual.\n\nEnfoque en microlearning y gamificación para cursos interactivos.\n\nExportación compatible con LMS (referencias públicas mencionan SCORM 1.2/2004).\n\nPosible soporte de colaboración/gestión de trabajo en equipo y localización multilenguaje (mencionado en comparativas públicas).",
+        "long_description": "QuikAuthor se presenta como una herramienta de autoría para microlearning/e-learning que utiliza IA para acelerar la creación de cursos. En referencias públicas se describe que puede: generar esquemas y contenido desde prompts; convertir webinars o videos en módulos con transcripción y quizzes; transformar documentos (p. ej., PDFs) en activos de aprendizaje interactivos; incorporar elementos de gamificación, escenarios ramificados y evaluaciones; y exportar paquetes compatibles con LMS (referencias públicas mencionan SCORM 1.2/2004).",
+        "release_date": "2025",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "En el snippet de precios se observa US$69/mes por usuario (para Individuals; “discounts available”).\n\nComparativas públicas también listan “$69 per month” y mencionan Free Version y Free Trial (según directorios).",
+        "license": "Propietario / SaaS",
+        "security_privacy": "No disponible",
+        "integration": "Integración típica vía exportación SCORM para LMS (mencionado en referencias públicas).\n\nDirectorios externos listan integraciones como Moodle (no confirmado como listado oficial del proveedor; es referencia de directorio)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://quikauthor.io/"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/compare/QuikAuthor-vs-SCORM-Cloud/"
+        },
+        {
+          "source_url": "https://quikauthor.io/pricing"
+        },
+        {
+          "source_url": "https://www.quikauthor.io/privacy"
+        },
+        {
+          "source_url": "https://www.quikauthor.io/terms"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/product/QuikAuthor/integrations"
+        }
+      ]
+    },
+    "1342": {
+      "app": {
+        "id": "1342",
+        "name": "Protex",
+        "url": "https://www.protex.ai/",
+        "short_description": "Obtén análisis de vídeo con IA de las cámaras de seguridad existentes para detectar eventos y comportamientos inseguros en tiempo real.",
+        "category": "Detección",
+        "main_functionality": "Detección continua de riesgos y eventos de seguridad (p. ej., PPE, area control, near-miss vehículo-persona, ergonomía) a partir de CCTV, con procesamiento en edge, generación de clips y analítica/reporting para decisiones proactivas de EHS.",
+        "tags": "#Deteccion #ComputerVision #EH&S #SeguridadIndustrial #CCTV #PPE #NearMiss #Ergonomia #Analitica #EdgeAI",
+        "logo_filename": "id_1342_protexai",
+        "what_is": "Es una plataforma de IA y visión por computadora para seguridad y operaciones que analiza video de CCTV para detectar eventos/condiciones de riesgo y entregar evidencia (clips) e insights mediante dashboards, reporting y un copiloto Gen-AI.",
+        "purpose": "Para que equipos EHS/Operaciones identifiquen, midan y reduzcan riesgos de seguridad de forma proactiva (con visibilidad 24/7), prioricen acciones correctivas y mejoren cultura de seguridad con datos.",
+        "use_cases": "Detección de PPE y no-cumplimiento.\n\nArea control (zonas restringidas, “no-go zones”) y riesgos en tránsito interno.\n\nVehicle/person near-miss y control de tráfico interno en almacenes/fábricas/puertos.\n\nAnalítica e insights con Protex Intelligence / Copilot para consulta y reporting.",
+        "main_advantages": "Procesamiento en edge on-site y solo genera clips cortos cuando detecta un riesgo (enfoque “privacy-preserving”).\n\nControles de privacidad configurables (p. ej., blur facial/cuerpo, “silhouette ghosting”) y sin identificación biométrica (detecta eventos/behaviors, no identidad).\n\nSeguridad: cifrado TLS 1.2+ en tránsito, AES-256 en reposo, RBAC, MFA y audit logs (según guías).\n\nAPI abierta para integrarse con el stack existente de EHS/BI.\n\nCertificaciones/compliance: ISO 27001 y alineación con marcos de privacidad (según guía de seguridad).",
+        "long_description": "Protex AI analiza streams de CCTV para detectar comportamientos y condiciones inseguras (p. ej., PPE, area control, near-miss tráfico interno, ergonomía). Opera con arquitectura híbrida: procesamiento local en edge para velocidad/privacidad y plataforma cloud para analítica/reporting. Genera clips cortos cuando se detecta un evento, ofrece dashboards configurables, reglas por sitio/área/turno y un componente de insights tipo Copilot/Protex Intelligence. Incluye controles de de-identificación (blur y “ghosting”), no orientado a identificar personas, sino a detectar eventos/behaviors y apoyar acciones correctivas.",
+        "release_date": "2021",
+        "developer": "Protex AI Limited.",
+        "main_model": "No disponible",
+        "pricing_plans": "No disponible (pricing no publicado como tabla/autoservicio). El sitio dirige a Request Demo para cotización.",
+        "license": "Propietario / SaaS",
+        "security_privacy": "ISO 27001 (certificación) y alineación con marcos de privacidad (GDPR, UK DPA, CCPA, etc.) según guía de seguridad.\n\nProcesamiento en edge: no almacena el stream completo; crea clips (ej. ~10s) solo ante riesgo, cifrados y almacenados para revisión.\n\nControles: blur facial/corporal y “silhouette ghosting”; no biometría/identificación personal.\n\nSeguridad técnica indicada: TLS 1.2+ en tránsito, AES-256 en reposo, RBAC, MFA y audit logs.\n\nLa política de privacidad describe divulgación a procesadores/proveedores, cumplimiento legal y cooperación con autoridades bajo requerimientos.",
+        "integration": "API abierta para integrarse con sistemas existentes de EHS y plataformas de business intelligence, además de integraciones por categorías (EHS Management Systems / BI Integrations) en el sitio."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Marks & Spencer reduce incidentes 80% en las primeras 10 semanas",
+          "description": "Caso publicado donde se reporta una reducción del 80% en incidentes durante las primeras 10 semanas de despliegue, además de métricas complementarias como aumento de near-miss reporting.",
+          "url": "https://www.protex.ai/case-studies/marks-and-spencer"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Bendix CVS reduce comportamientos de riesgo 84% y recupera productividad operativa",
+          "description": "Caso publicado con impacto medido: 84% de reducción en comportamientos objetivo, 10+ horas/día de productividad recuperada y 200+ horas/mes (también documentado en nota pública).",
+          "url": "https://www.protex.ai/case-studies/bendix-commercial-vehicle-systems-turns-data-into-everyday-safety-and-operational-wins-with-protex-ai"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Fabricante de empaques en UK: £750k recuperados y 62% menos eventos de seguridad",
+          "description": "Caso publicado con resultados: £750k en financiamiento/recuperación indicada, 62% de reducción en eventos de seguridad y 92% de reducción en riesgos de area control.",
+          "url": "https://www.protex.ai/case-studies/major-uk-packaging-manufacturer-unlocks-ps750k-in-funding-and-cuts-safety-events-by-62-with-protex-ai"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.protex.ai/"
+        },
+        {
+          "source_url": "https://www.protex.ai/legal/privacy"
+        },
+        {
+          "source_url": "https://www.protex.ai/guides/security"
+        },
+        {
+          "source_url": "https://www.protex.ai/case-studies"
+        },
+        {
+          "source_url": "https://www.protex.ai/blog"
+        }
+      ]
+    },
+    "1478": {
+      "app": {
+        "id": "1478",
+        "name": "Prodshort",
+        "url": "https://prodshort.com/",
+        "short_description": "Convierte reuniones online en clips cortos listos para publicar, con branding, plantillas y subtítulos animados generados automáticamente para mejorar el engagement.",
+        "category": "Edición de video",
+        "main_functionality": "Grabar reuniones automáticamente (uniéndose como bot), permitir seleccionar segmentos y generar clips cortos con branding y subtítulos “tipo TikTok” (resaltado por palabra), exportables en alta calidad.",
+        "tags": "#EdiciónDeVideo #VideoClips #Repurposing #SubtítulosAI #MarketingDeContenidos #RedesSociales #Productividad",
+        "logo_filename": "id_1478_prodshortai",
+        "what_is": "Es una plataforma online para grabar reuniones (Google Meet, Zoom, Microsoft Teams, entre otras) y transformarlas en clips cortos con plantillas, branding y subtítulos generados/animados, orientados a publicación en redes.",
+        "purpose": "Para reutilizar el contenido real de llamadas y reuniones (ventas, demos, entrevistas, sesiones internas) y convertirlo rápidamente en videos cortos listos para compartir, reduciendo el trabajo manual de edición.",
+        "use_cases": "Crear clips para LinkedIn/TikTok/Reels a partir de reuniones grabadas.\nExtraer segmentos clave de una llamada y convertirlos en “shorts” con plantillas.\nGenerar subtítulos animados con resaltado palabra por palabra para mayor retención.\nBranding de contenido (logo propio, estilos, fuentes, colores y layout de speakers).",
+        "main_advantages": "Automatiza la grabación: el sistema puede unirse y grabar reuniones automáticamente.\nEdición enfocada en “cortes” rápidos: permite crear clips seleccionando segmentos del video grabado.\nSubtítulos orientados a engagement: subtítulos animados con resaltado por palabra.\nConsistencia de marca: plantillas configurables + opción de añadir tu logo (según plan).\nIntegración con plataformas de videollamada: menciona Google Meet, Zoom, Microsoft Teams.",
+        "long_description": "ProdShort permite convertir reuniones online en contenido corto para redes: se integra con herramientas de videollamada (Google Meet, Zoom, Microsoft Teams), puede unirse a reuniones para grabarlas, y luego facilita la creación de clips seleccionando segmentos. Incluye subtítulos con estilo “TikTok” (animación y resaltado por palabra), plantillas personalizables (vistas de speakers, tipografías, colores, posición) y opciones de branding (subir logo y colocarlo en el video). Finalmente, permite exportar los clips en alta calidad para distribución.",
+        "release_date": "2026",
+        "developer": "Bengeekly LLC.",
+        "main_model": "No disponible",
+        "pricing_plans": "Freemium: $0/mes, 10 exports/mes, grabación automática, plantillas; incluye logo de ProdShort y no permite removerlo.\nCreator Plan: $99/mes, 30 exports/mes, grabación automática, plantillas; permite remover logo de ProdShort y añadir logo propio.",
+        "license": "Propietaria (SaaS).",
+        "security_privacy": "Recopila nombre y email al crear cuenta.\nPagos procesados por Stripe; indica que no almacena el detalle completo de pago en sus servidores.\nPara conectar Meet/Zoom/Teams, recopila tokens de autenticación; no almacena contraseñas de plataformas.\nAlmacena grabaciones y contenido generado (clips, captions, edits).\nInfraestructura en AWS; la grabación se realiza mediante Recall.ai como sub-procesador/proveedor de infraestructura.\nMenciona cifrado en tránsito (SSL/TLS) y medidas “industry-standard”, aunque sin garantía absoluta.",
+        "integration": "Integración con Google Meet, Zoom, Microsoft Teams; el bot/infraestructura de grabación se apoya en Recall.ai.\nNo se encontró un listado público adicional de integraciones (CRMs, editores, APIs, etc.)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://prodshort.com/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/prodshort"
+        },
+        {
+          "source_url": "https://prodshort.com/privacy"
+        },
+        {
+          "source_url": "https://prodshort.com/terms"
+        },
+        {
+          "source_url": "https://www.aitoolhub.net/en/tool/prodshort"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/prodshort"
+        }
+      ]
+    },
+    "1619": {
+      "app": {
+        "id": "1619",
+        "name": "PrometAI",
+        "url": "https://prometai.app",
+        "short_description": "Ayuda a crear planes de negocio y valoraciones estratégicas mediante herramientas de IA.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Planeación de negocios y valoración estratégica asistida por IA.",
+        "tags": "#IA #Negocios #Planeación #Finanzas",
+        "logo_filename": "id_1619_prometai",
+        "what_is": "PrometAI es una herramienta que ayuda a crear planes de negocio, análisis estratégicos y valoraciones mediante inteligencia artificial.",
+        "purpose": "Apoyar la creación de planes de negocio, análisis estratégicos y valoraciones empresariales.",
+        "use_cases": "Planeación de negocios, startups, valoración financiera, estrategia empresarial, análisis de mercado y presentación de proyectos.",
+        "main_advantages": "Facilita estructurar planes de negocio; apoya análisis estratégico; puede ayudar a estimar valoraciones y preparar proyectos empresariales.",
+        "long_description": "PrometAI es una herramienta de inteligencia artificial orientada a planeación de negocios. Ayuda a crear planes, análisis estratégicos y valoraciones, especialmente útil para emprendedores, startups y equipos de negocio.",
+        "release_date": "No especificada",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Freemium",
+        "license": "No especificada",
+        "security_privacy": "Consultar la política de privacidad del proveedor.",
+        "integration": "Disponible mediante plataforma web del proveedor."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://prometai.app"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/prometai"
+        }
+      ]
+    },
+    "1713": {
+      "app": {
+        "id": "1713",
+        "name": "Professionally",
+        "url": "https://professionally.ai/",
+        "short_description": "Professionally ayuda a reenviar correos de forma automática con tono y gramática ajustados, mejorando la comunicación escrita.",
+        "category": "Productividad",
+        "main_functionality": "Reescritura y mejora automática de correos electrónicos",
+        "tags": "#Productividad #Correo #Automatización",
+        "logo_filename": "id_1713_professionally",
+        "what_is": "Professionally es una herramienta de productividad enfocada en mejorar correos electrónicos. Permite reescribir mensajes con mejor tono, gramática y claridad, ayudando a mantener una comunicación más profesional.",
+        "purpose": "Mejorar la redacción de correos electrónicos ajustando tono, claridad y gramática.",
+        "use_cases": "Reescritura de correos; mejora de tono profesional; corrección gramatical; comunicación empresarial.",
+        "main_advantages": "Mejora claridad de correos; corrige tono y gramática; ahorra tiempo de redacción; ayuda a comunicar de forma profesional.",
+        "long_description": "Professionally es una herramienta de productividad enfocada en correos electrónicos. Ayuda a reescribir mensajes con mejor tono, gramática y claridad, facilitando una comunicación más profesional. Es útil para personas o equipos que redactan correos frecuentes y necesitan mantener consistencia, precisión y buena presentación.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://professionally.ai/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/professionally-k8vuaa"
+        }
+      ]
+    },
+    "1800": {
+      "app": {
+        "id": "1800",
+        "name": "Product Metrics",
+        "url": "https://www.productmetrics.io/",
+        "short_description": "Product Metrics ayuda a monitorear métricas de producto y analizar desempeño para apoyar decisiones de crecimiento, marketing y operación.",
+        "category": "Marketing",
+        "main_functionality": "Monitoreo de métricas de producto y desempeño",
+        "tags": "#Marketing #Métricas #Producto",
+        "logo_filename": "id_1800_product_metrics",
+        "what_is": "Product Metrics es una herramienta de marketing y análisis enfocada en métricas de producto. Permite monitorear desempeño, detectar señales relevantes y apoyar decisiones de crecimiento, operación o estrategia.",
+        "purpose": "Monitorear métricas de producto para apoyar decisiones de crecimiento, marketing y operación.",
+        "use_cases": "Métricas de producto; análisis de desempeño; reportes de crecimiento; seguimiento de KPIs.",
+        "main_advantages": "Facilita seguimiento de métricas; apoya decisiones de producto; centraliza señales clave; mejora análisis de desempeño.",
+        "long_description": "Product Metrics es una herramienta enfocada en el monitoreo de métricas de producto y desempeño. Permite seguir señales relevantes, analizar resultados y apoyar decisiones de crecimiento, marketing u operación. Es útil para equipos que necesitan entender comportamiento de usuarios, rendimiento de producto y evolución de indicadores clave.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.productmetrics.io/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/product-metrics-wujuff"
+        }
+      ]
+    },
+    "1869": {
+      "app": {
+        "id": "1869",
+        "name": "Pulse AI",
+        "url": "https://usepulseai.com/",
+        "short_description": "Pulse AI analiza datos y genera insights de negocio, ayudando a convertir información en señales accionables.",
+        "category": "Productividad",
+        "main_functionality": "Análisis de datos y generación de insights de negocio",
+        "tags": "#Productividad #Datos #Insights",
+        "logo_filename": "id_1869_pulse_ai",
+        "what_is": "Pulse AI es una herramienta de productividad enfocada en analizar datos y generar insights de negocio. Permite convertir información en señales útiles para reportes, análisis y toma de decisiones.",
+        "purpose": "Analizar datos y generar insights de negocio para apoyar reportes, estrategia y toma de decisiones.",
+        "use_cases": "Insights de negocio; análisis de datos; reportes ejecutivos; inteligencia comercial.",
+        "main_advantages": "Genera insights accionables; facilita análisis de negocio; apoya reportes; ayuda a detectar oportunidades.",
+        "long_description": "Pulse AI es una herramienta de productividad enfocada en analizar datos y generar insights de negocio. Permite convertir información en señales útiles para reportes, análisis y toma de decisiones. Puede apoyar a equipos que necesitan detectar tendencias, oportunidades o riesgos a partir de datos.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://usepulseai.com/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/pulse-ai-06cf46"
+        }
+      ]
+    },
+    "1967": {
+      "app": {
+        "id": "1967",
+        "name": "Pullsy",
+        "url": "https://pullsy.com/",
+        "short_description": "Pullsy ayuda a gestionar la bandeja de entrada, priorizar mensajes y responder correos de forma más eficiente.",
+        "category": "Productividad",
+        "main_functionality": "Gestión inteligente de bandeja de entrada, priorización de mensajes y respuestas.",
+        "tags": "correo electrónico, bandeja de entrada, respuestas, productividad",
+        "logo_filename": "id_1967_pullsy",
+        "what_is": "Pullsy es una herramienta de productividad para gestionar correos, priorizar conversaciones y responder mensajes con mayor eficiencia usando apoyo de IA.",
+        "purpose": "Ayudar a gestionar correos, conversaciones y respuestas de forma más ordenada y eficiente.",
+        "use_cases": "Priorización de correos; respuestas asistidas; seguimiento de mensajes; organización de conversaciones.",
+        "main_advantages": "Mejora la organización del correo, permite priorizar conversaciones y reduce el tiempo dedicado a responder mensajes.",
+        "long_description": "Pullsy es una herramienta de productividad para gestionar correos y conversaciones con mayor eficiencia. Puede ayudar a priorizar mensajes, organizar la bandeja de entrada y redactar respuestas con apoyo de IA. Es útil para usuarios que dependen del correo como canal principal de trabajo y necesitan mantener mejor control de sus pendientes.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://pullsy.com/"
+        }
+      ]
+    },
+    "1970": {
+      "app": {
+        "id": "1970",
+        "name": "Protaigé",
+        "url": "https://www.protaige.com/",
+        "short_description": "Protaigé apoya la creación y optimización de campañas de marketing, contenido y comunicación de marca.",
+        "category": "Marketing",
+        "main_functionality": "Apoyo en estrategia, contenido y optimización de campañas de marketing.",
+        "tags": "campañas de marketing, branding, estrategia, contenido",
+        "logo_filename": "id_1970_protaige",
+        "what_is": "Protaigé es una herramienta de marketing que apoya la creación, planeación y optimización de campañas, contenido y comunicación de marca.",
+        "purpose": "Apoyar la planeación, creación y optimización de campañas de marketing y comunicación de marca.",
+        "use_cases": "Estrategia de marketing; creación de contenido; campañas de marca; optimización de comunicación.",
+        "main_advantages": "Apoya la creatividad de marketing, mejora la planeación de campañas y facilita la producción de contenido de marca.",
+        "long_description": "Protaigé es una herramienta de marketing orientada a la planeación, creación y optimización de campañas. Puede apoyar tareas de contenido, comunicación de marca y estrategia digital. Es útil para equipos que buscan estructurar mejor sus campañas y producir materiales de marketing con apoyo de IA.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.protaige.com/"
+        }
+      ]
+    },
+    "2047": {
+      "app": {
+        "id": "2047",
+        "name": "Prompt Copilot",
+        "url": "https://promptcopilot.io/",
+        "short_description": "Prompt Copilot ayuda a crear, mejorar y organizar prompts para trabajar con IA de forma más efectiva.",
+        "category": "Productividad",
+        "main_functionality": "Creación, mejora y organización de prompts para trabajar con IA.",
+        "tags": "prompts, productividad, asistencia con IA, escritura",
+        "logo_filename": "id_2047_prompt_copilot",
+        "what_is": "Prompt Copilot es una herramienta de productividad para crear, mejorar y organizar prompts. Puede ser útil para personas que trabajan con IA y necesitan formular mejores instrucciones, reutilizar prompts o mantener un flujo más ordenado.",
+        "purpose": "Ayudar a crear, mejorar y organizar prompts para trabajar con IA de forma más efectiva.",
+        "use_cases": "Creación de prompts; mejora de instrucciones; organización de prompts; productividad con IA.",
+        "main_advantages": "Mejora la calidad de prompts, permite reutilizar instrucciones y ayuda a trabajar mejor con herramientas de IA.",
+        "long_description": "Prompt Copilot es una herramienta de productividad para crear, mejorar y organizar prompts. Puede apoyar a usuarios que trabajan con IA y necesitan formular instrucciones más claras, reutilizar prompts o mantener una biblioteca de solicitudes útiles. Su valor está en mejorar la interacción con modelos de IA y aumentar la eficiencia del trabajo asistido.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://promptcopilot.io/"
+        }
+      ]
+    },
+    "2104": {
+      "app": {
+        "id": "2104",
+        "name": "Punchd",
+        "url": "https://punchd.ai/",
+        "short_description": "Punchd apoya la redacción, escritura y creación de contenido con asistencia de inteligencia artificial.",
+        "category": "Redacción",
+        "main_functionality": "Apoyo a redacción, escritura y creación de contenido con asistencia de IA.",
+        "tags": "redacción, escritura, contenido, asistencia con IA",
+        "logo_filename": "id_2104_punchd",
+        "what_is": "Punchd es una herramienta de redacción que apoya la escritura, creación de contenido y generación de textos con asistencia de IA. Puede ser útil para usuarios que necesitan redactar mensajes, materiales o contenido de forma más rápida.",
+        "purpose": "Apoyar la redacción, escritura y creación de contenido con asistencia de IA.",
+        "use_cases": "Redacción; escritura asistida; contenido; textos comerciales o creativos.",
+        "main_advantages": "Facilita escribir textos, acelera creación de contenido y mejora claridad en materiales redactados.",
+        "long_description": "Punchd es una herramienta de redacción que apoya la escritura, creación de contenido y generación de textos con asistencia de IA. Puede ser útil para usuarios que necesitan redactar mensajes, materiales comerciales o contenido creativo con mayor rapidez. Su valor está en mejorar claridad, velocidad y consistencia en la producción escrita.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://punchd.ai/"
+        }
+      ]
+    },
+    "2119": {
+      "app": {
+        "id": "2119",
+        "name": "Producer",
+        "url": "https://www.flowmusic.app/",
+        "short_description": "Herramienta de IA para componer canciones y generar videos musicales.",
+        "category": "Música",
+        "main_functionality": "Generar composiciones musicales y videos relacionados con canciones mediante inteligencia artificial.",
+        "tags": "generación musical, composición de canciones, música con IA, producción musical",
+        "logo_filename": "id_2119_producer",
+        "what_is": "Producer es una herramienta de creación musical con IA que ayuda a generar canciones y contenido audiovisual musical.",
+        "purpose": "Facilitar la creación de canciones y piezas audiovisuales musicales mediante herramientas de inteligencia artificial.",
+        "use_cases": "Composición de canciones, generación de ideas musicales, producción de demos y creación de videos musicales.",
+        "main_advantages": "Reduce las barreras técnicas de la producción musical, acelera la generación de ideas y combina creación de audio y video.",
+        "long_description": "Producer es una herramienta de creación musical basada en inteligencia artificial que ayuda a componer canciones y producir contenido audiovisual relacionado. Puede utilizarse para desarrollar ideas musicales, crear demos y generar materiales visuales para acompañar una composición, reduciendo parte del trabajo técnico asociado con la producción inicial.",
+        "release_date": "No disponible",
+        "developer": "Producer",
+        "main_model": "No especificado",
+        "pricing_plans": "No disponible",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.flowmusic.app/"
+        }
+      ]
+    },
+    "2200": {
+      "app": {
+        "id": "2200",
+        "name": "PromptGuard",
+        "url": "https://promptguard.co/",
+        "short_description": "Firewall para sistemas de IA que detecta y sanitiza entradas de prompts potencialmente riesgosas.",
+        "category": "Detección",
+        "main_functionality": "Detectar y sanitizar entradas de prompts potencialmente peligrosas antes de que lleguen a un sistema de IA.",
+        "tags": "seguridad de prompts, detección de amenazas, sanitización de entradas, prompt injection, protección de IA",
+        "logo_filename": "id_2200_promptguard",
+        "what_is": "PromptGuard es una herramienta de seguridad para IA que funciona como firewall de prompts, detectando y sanitizando entradas riesgosas.",
+        "purpose": "Proteger sistemas de inteligencia artificial mediante la detección y sanitización de entradas de prompts riesgosas.",
+        "use_cases": "Detección de entradas maliciosas, filtrado de prompts, sanitización de solicitudes y protección de aplicaciones de IA.",
+        "main_advantages": "Añade una capa preventiva de seguridad al evaluar y limpiar prompts antes de su procesamiento.",
+        "long_description": "PromptGuard es una herramienta de seguridad para sistemas de inteligencia artificial que funciona como un firewall de prompts. Está diseñada para analizar entradas, detectar contenido potencialmente riesgoso y sanitizar solicitudes antes de que sean procesadas por otros componentes de IA.",
+        "release_date": "No disponible",
+        "developer": "PromptGuard",
+        "main_model": "No especificado",
+        "pricing_plans": "No disponible",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://promptguard.co/"
+        }
+      ]
+    },
+    "2335": {
+      "app": {
+        "id": "2335",
+        "name": "Quickfix AI",
+        "url": "https://quickfix.ai/es",
+        "short_description": "Herramienta de diagnóstico de sistemas con IA que analiza hardware, rendimiento y salud del equipo y explica posibles problemas.",
+        "category": "Detección",
+        "main_functionality": "Escanear un equipo para analizar rendimiento, hardware, almacenamiento, batería, red y seguridad y generar recomendaciones mediante IA.",
+        "tags": "diagnóstico de sistemas, hardware, rendimiento, CPU, memoria, almacenamiento, batería, seguridad, soporte IT",
+        "logo_filename": "id_2335_quickfix_ai",
+        "what_is": "Quickfix AI es una herramienta de diagnóstico de sistemas que recopila información técnica del equipo y utiliza inteligencia artificial para explicar problemas y posibles soluciones.",
+        "purpose": "Facilitar la identificación y comprensión de problemas de rendimiento y salud de una computadora sin requerir conocimientos técnicos avanzados.",
+        "use_cases": "Diagnóstico de equipos, soporte IT, problemas de rendimiento, almacenamiento, batería, temperatura, red y revisión de salud del sistema.",
+        "main_advantages": "Realiza un escaneo de sólo lectura y convierte métricas técnicas del sistema en explicaciones y recomendaciones fáciles de comprender.",
+        "long_description": "Quickfix AI es una herramienta de diagnóstico de sistemas asistida por inteligencia artificial. Analiza información como CPU, memoria, almacenamiento, batería, red, temperatura y estado de seguridad para generar un reporte de salud y explicar los posibles problemas en lenguaje sencillo. Está orientada tanto a usuarios individuales como a equipos de soporte técnico.",
+        "release_date": "No disponible",
+        "developer": "Quickfix AI",
+        "main_model": "OpenAI para análisis de diagnósticos",
+        "pricing_plans": "Free: $0; Pro: $12 USD/mes próximamente; Enterprise: $99 USD/mes próximamente",
+        "license": "No especificado",
+        "security_privacy": "Sólo recopila información técnica necesaria para diagnóstico; no accede a archivos personales ni contraseñas. Datos cifrados en tránsito y reposo y eliminación automática de reportes.",
+        "integration": "Agente local de diagnóstico; API prevista para Enterprise"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://quickfix.ai/es"
+        }
+      ]
+    },
+    "2410": {
+      "app": {
+        "id": "2410",
+        "name": "Quash",
+        "url": "https://quashbugs.com/",
+        "short_description": "Plataforma de QA que genera y ejecuta pruebas móviles y web mediante instrucciones en lenguaje natural.",
+        "category": "Codificación",
+        "main_functionality": "Generar y ejecutar pruebas funcionales, visuales y de regresión en aplicaciones móviles y web utilizando instrucciones en lenguaje natural.",
+        "tags": "QA, testing móvil, Android, iOS, pruebas web, lenguaje natural, agentes de IA, automatización, desarrollo",
+        "logo_filename": "id_2410_quash",
+        "what_is": "Quash es una plataforma de automatización de QA que permite describir pruebas en lenguaje natural y ejecutarlas sobre aplicaciones Android, iOS y web.",
+        "purpose": "Reducir la escritura y mantenimiento manual de scripts de pruebas mientras se amplía la cobertura de QA.",
+        "use_cases": "Pruebas Android, iOS y web, regresión, testing visual, pruebas funcionales, generación de casos y ejecución sobre dispositivos reales.",
+        "main_advantages": "Genera y adapta pruebas automáticamente y permite ejecutarlas en dispositivos locales, emuladores o infraestructura cloud.",
+        "long_description": "Quash es una plataforma de automatización de pruebas para aplicaciones móviles y web. Permite describir flujos en lenguaje natural, generar casos de prueba y ejecutarlos sobre Android, iOS o navegador sin mantener scripts tradicionales. La plataforma adapta las pruebas ante cambios de interfaz y genera evidencia y reportes para facilitar la investigación de fallos.",
+        "release_date": "No disponible",
+        "developer": "Quash",
+        "main_model": "No especificado",
+        "pricing_plans": "Free: $10 USD en créditos iniciales; después pago por uso basado en consumo de modelos más aproximadamente 20% de margen de plataforma; Enterprise: personalizado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "Android, iOS, aplicaciones web, emuladores y dispositivos de prueba"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://quashbugs.com/"
+        }
+      ]
+    },
+    "2439": {
+      "app": {
+        "id": "2439",
+        "name": "Prompt Sloth",
+        "url": "https://promptsloth.com/",
+        "short_description": "Extensión de Chrome que convierte solicitudes simples en prompts más estructurados para herramientas de inteligencia artificial.",
+        "category": "Productividad",
+        "main_functionality": "Transformar instrucciones simples en prompts más completos y estructurados para herramientas de inteligencia artificial.",
+        "tags": "prompts, Chrome, optimización de prompts, productividad, inteligencia artificial, asistentes, instrucciones, extensión",
+        "logo_filename": "id_2439_prompt_sloth",
+        "what_is": "Prompt Sloth es una extensión de navegador que convierte solicitudes simples en prompts más estructurados para herramientas de inteligencia artificial.",
+        "purpose": "Ayudar a los usuarios a formular prompts más claros y completos para obtener mejores resultados de herramientas de inteligencia artificial.",
+        "use_cases": "Mejora de prompts, uso con asistentes de IA, generación de texto, investigación, programación y creación de instrucciones más estructuradas.",
+        "main_advantages": "Mejora prompts directamente desde el navegador y reduce el esfuerzo necesario para redactar instrucciones extensas.",
+        "long_description": "Prompt Sloth es una extensión de navegador diseñada para mejorar prompts utilizados con herramientas de inteligencia artificial. Toma solicitudes breves o simples y las transforma en instrucciones más estructuradas, facilitando que los usuarios formulen consultas con mayor contexto y precisión.",
+        "release_date": "No disponible",
+        "developer": "Prompt Sloth",
+        "main_model": "No especificado",
+        "pricing_plans": "Free: $0 con 10 mejoras semanales; Pro: equivalente a $3.33 USD/mes facturado anualmente; Lifetime Pro: $149 USD pago único",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "Extensión de navegador compatible con herramientas como ChatGPT, Claude y Gemini"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://promptsloth.com/"
+        }
+      ]
+    },
+    "2469": {
+      "app": {
+        "id": "2469",
+        "name": "PropLab",
+        "url": "https://proplab.app/",
+        "short_description": "Herramienta para analizar oportunidades inmobiliarias con IA, estimar valores, comparar operaciones y apoyar decisiones de inversión.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Analiza propiedades y oportunidades inmobiliarias para apoyar evaluaciones, comparaciones financieras y decisiones de inversión.",
+        "tags": "bienes raíces, análisis de propiedades, valoración, inversión inmobiliaria, análisis financiero",
+        "logo_filename": "id_2469_proplab",
+        "what_is": "PropLab es una herramienta de análisis inmobiliario que utiliza datos e inteligencia artificial para evaluar propiedades y oportunidades de inversión.",
+        "purpose": "Facilitar la evaluación de propiedades y oportunidades de inversión mediante análisis inmobiliario apoyado por datos e inteligencia artificial.",
+        "use_cases": "Evaluar propiedades; analizar rentabilidad; comparar oportunidades inmobiliarias; realizar estimaciones financieras; preparar análisis previos a una inversión.",
+        "main_advantages": "Concentra análisis relevantes para inversión inmobiliaria y permite evaluar oportunidades de forma más estructurada y rápida.",
+        "long_description": "PropLab es una herramienta de análisis inmobiliario que utiliza datos e inteligencia artificial para apoyar la evaluación de propiedades. Permite estudiar oportunidades de inversión, comparar escenarios y revisar indicadores financieros asociados a un inmueble. Su propósito es facilitar análisis previos a decisiones de compra, inversión o desarrollo dentro del sector inmobiliario.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Plan gratuito limitado. Basic desde USD 16.63/mes con facturación anual; también dispone de niveles Plus y Pro.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://proplab.app/"
+        }
+      ]
+    },
+    "2470": {
+      "app": {
+        "id": "2470",
+        "name": "Puzzle",
+        "url": "https://puzzle.io/",
+        "short_description": "Software de contabilidad con IA que automatiza categorización, conciliaciones, reportes financieros y procesos de cierre.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Automatiza procesos contables como categorización de movimientos, conciliación, generación de reportes y preparación del cierre financiero.",
+        "tags": "contabilidad, teneduría de libros, reportes financieros, conciliación, automatización contable",
+        "logo_filename": "id_2470_puzzle",
+        "what_is": "Puzzle es una plataforma de contabilidad automatizada que utiliza IA para reducir tareas manuales y mantener información financiera actualizada.",
+        "purpose": "Reducir la carga operativa de la contabilidad mediante automatización de registros, conciliaciones y reportes financieros.",
+        "use_cases": "Categorizar transacciones; realizar conciliaciones; preparar estados financieros; supervisar métricas contables; apoyar procesos de cierre mensual.",
+        "main_advantages": "Automatiza una parte importante del trabajo contable rutinario y mantiene información financiera disponible para seguimiento continuo.",
+        "long_description": "Puzzle es una plataforma de contabilidad que utiliza automatización e inteligencia artificial para disminuir tareas manuales. Puede categorizar movimientos, apoyar conciliaciones y generar información financiera para seguimiento y reportes. Está orientada principalmente a empresas que buscan mantener su contabilidad actualizada con procesos más automatizados y disponer de una visión continua de sus finanzas.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Prueba gratuita de 14 días. Planes mensuales desde USD 30; Core USD 72, Complete USD 120 y Scale USD 360.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://puzzle.io/"
+        }
+      ]
+    },
+    "2585": {
+      "app": {
+        "id": "2585",
+        "name": "Propel",
+        "url": "https://www.propelcode.ai/",
+        "short_description": "Herramienta de revisión de código con IA que analiza pull requests para detectar errores, vulnerabilidades, problemas de calidad y oportunidades de mejora.",
+        "category": "Codificación",
+        "main_functionality": "Analiza pull requests y cambios de código mediante inteligencia artificial para detectar errores, vulnerabilidades, problemas de calidad y posibles mejoras.",
+        "tags": "revisión de código, pull requests, bugs, seguridad, calidad de software, GitHub, desarrollo",
+        "logo_filename": "id_2585_propel",
+        "what_is": "Propel es una herramienta de revisión de código asistida por inteligencia artificial para equipos de desarrollo de software.",
+        "purpose": "Mejorar la calidad y seguridad del software mediante revisión automatizada de código y detección temprana de problemas en pull requests.",
+        "use_cases": "Revisar pull requests; detectar bugs; identificar vulnerabilidades; encontrar problemas de calidad; sugerir mejoras; apoyar revisiones de código en GitHub.",
+        "main_advantages": "Añade una capa automática de revisión antes de integrar cambios y ayuda a detectar problemas que podrían pasar inadvertidos en revisiones manuales.",
+        "long_description": "Propel es una herramienta de revisión de código asistida por inteligencia artificial. Analiza pull requests y cambios realizados en repositorios para identificar bugs, vulnerabilidades, problemas de calidad y posibles mejoras antes de integrar el código. Está dirigida a equipos de desarrollo que desean complementar la revisión humana con análisis automatizado y mejorar la consistencia del proceso de ingeniería.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Prueba gratuita de 30 días. Starter USD 24 por desarrollador/mes y Professional USD 64 por desarrollador/mes con facturación anual; Enterprise con precio personalizado.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.propelcode.ai/"
+        }
+      ]
+    },
+    "2650": {
+      "app": {
+        "id": "2650",
+        "name": "PublicAI",
+        "url": "https://publicai.io/",
+        "short_description": "Plataforma descentralizada para recopilar, etiquetar y validar datos humanos y multimodales utilizados en entrenamiento y evaluación de modelos de IA.",
+        "category": "Entrenamiento de modelos",
+        "main_functionality": "Coordina recolección, etiquetado, validación y evaluación humana de datos multimodales destinados al entrenamiento y evaluación de modelos de inteligencia artificial.",
+        "tags": "datos de entrenamiento, anotación, data labeling, evaluación de modelos, human in the loop, datos multimodales, workforce, validación",
+        "logo_filename": "id_2650_publicai",
+        "what_is": "PublicAI es una plataforma de infraestructura de datos humanos para inteligencia artificial orientada a recopilación, anotación y evaluación de datasets.",
+        "purpose": "Proporcionar datos humanos y multimodales de calidad para entrenar, ajustar y evaluar modelos de inteligencia artificial.",
+        "use_cases": "Etiquetar datasets; recopilar datos; evaluar respuestas de modelos; validar resultados; preparar datos multimodales; ejecutar procesos human-in-the-loop.",
+        "main_advantages": "Combina una fuerza laboral distribuida con mecanismos de calidad para generar y validar datos destinados a modelos de IA.",
+        "long_description": "PublicAI es una plataforma de infraestructura de datos humanos para inteligencia artificial. Coordina recolección, anotación, evaluación y validación de datos mediante una fuerza laboral distribuida y mecanismos de control de calidad. Sus datasets y servicios pueden utilizarse para entrenamiento, fine-tuning, evaluación y mejora de modelos que requieren señales humanas o contenido multimodal.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado para clientes de datasets y servicios de datos; proyectos y necesidades empresariales se cotizan según alcance.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://publicai.io/"
+        }
+      ]
+    }
+  }
+}

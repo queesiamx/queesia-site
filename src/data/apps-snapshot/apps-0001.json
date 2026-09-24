@@ -1,0 +1,2256 @@
+{
+  "schemaVersion": 1,
+  "apps": {
+    "147": {
+      "app": {
+        "id": "147",
+        "name": "Agent Gold",
+        "url": "https://agentgold.ai/",
+        "short_description": "Crea automáticamente nuevos contenidos para redes sociales o correo electrónico en función de tu propia voz.",
+        "category": "Redes sociales",
+        "main_functionality": "Facilita la interacción con representaciones de youtubers generadas por IA y ofrece herramientas para mejorar la visibilidad y el alcance de videos en YouTube a través de sugerencias de títulos, descripciones y pruebas A/B.",
+        "tags": "#AsistenteVirtual #InteligenciaArtificial #YouTube #OptimizaciónDeContenido #Chatbot",
+        "logo_filename": "id_147_agent_gold",
+        "what_is": "Agent Gold es una plataforma de inteligencia artificial que permite a los usuarios interactuar con versiones virtuales de sus youtubers favoritos y ofrece herramientas para optimizar contenido en YouTube. Utiliza modelos avanzados de IA para generar representaciones digitales de creadores de contenido y proporciona sugerencias para mejorar la visibilidad y el alcance de los videos.",
+        "purpose": "Su propósito principal es facilitar la interacción personalizada con youtubers a través de chatbots y ayudar a creadores y usuarios a optimizar contenido en YouTube mediante la generación de títulos, descripciones y análisis de rendimiento.",
+        "use_cases": "Interacción con Youtubers Virtuales: Los usuarios pueden chatear con versiones de IA de sus youtubers favoritos, obteniendo respuestas personalizadas basadas en el análisis del contenido real del creador. \n\nOptimización de Contenido para Creadores: Los creadores pueden utilizar Agent Gold para generar títulos, descripciones y ganchos atractivos para sus videos, alineados con palabras clave de alta demanda y nichos de baja competencia. \n\nPruebas A/B Automatizadas: La plataforma ofrece herramientas para realizar pruebas A/B de títulos y descripciones, permitiendo a los creadores identificar las opciones más efectivas para aumentar vistas y suscriptores.",
+        "main_advantages": "Interacción Personalizada: Permite a los usuarios conectar de manera más profunda con sus creadores favoritos a través de conversaciones simuladas por IA. \n\nMejora de Visibilidad: Ayuda a los creadores a optimizar sus videos para alcanzar una audiencia más amplia mediante sugerencias basadas en análisis de tendencias y contenido exitoso. \n\nAhorro de Tiempo: Automatiza tareas como la generación de títulos y descripciones, liberando tiempo para que los creadores se enfoquen en la producción de contenido. \n\nAnálisis Basado en Datos: Proporciona recomendaciones fundamentadas en datos históricos y tendencias actuales, aumentando la probabilidad de éxito del contenido publicado.",
+        "long_description": "Agent Gold es una plataforma de inteligencia artificial diseñada para optimizar la interacción entre creadores de contenido y su audiencia en YouTube. Ofrece herramientas avanzadas que permiten a los usuarios generar títulos, descripciones y ganchos atractivos para sus videos, basándose en análisis de datos históricos y tendencias actuales. Además, facilita la realización de pruebas A/B automatizadas para identificar las combinaciones más efectivas que incrementen la visibilidad y el engagement del contenido. Una característica destacada es la posibilidad de interactuar con versiones virtuales de youtubers, generadas mediante IA, lo que enriquece la experiencia del usuario y fortalece la conexión con la comunidad.",
+        "release_date": "2024",
+        "developer": "AgentGold.",
+        "main_model": "Utiliza modelos avanzados de inteligencia artificial para el análisis de contenido y generación de texto, aunque no se especifica el modelo exacto empleado.",
+        "pricing_plans": "Iniciador (Gratis):\n\nResumen de investigación semanal basado en datos reales.\nMejora masiva del catálogo de videos.\nIncluye 10 créditos para:\nPruebas A/B.\nGeneración de títulos, esquemas de guión, ganchos y descripciones.\nIdeas y marcas de tiempo para videos.\nAnálisis de los últimos 5 videos.\nEnlace de canales ilimitados.                                                                                                                                                                                                                                                                                                                                                                                                                          \nInfinidad ($199, pago único de por vida):\n\nResumen de investigación semanal basado en datos reales.\nMejora masiva del catálogo de videos.\nCréditos ilimitados para:\nPruebas A/B.\nGeneración de títulos, esquemas de guión, ganchos y descripciones.\nIdeas y marcas de tiempo para videos.\nAnálisis de todos los videos del canal.\nEnlace de canales ilimitados.",
+        "license": "Propietaria",
+        "security_privacy": "AgentGold recopila, utiliza y protege los datos personales de los usuarios. La empresa se compromete a salvaguardar la información personal y a utilizarla únicamente para mejorar la experiencia del usuario y proporcionar servicios personalizados. Se enfatiza que no se compartirán datos personales con terceros sin el consentimiento explícito del usuario, excepto cuando sea necesario para cumplir con obligaciones legales o para mejorar los servicios ofrecidos. Además, se garantiza la implementación de medidas de seguridad adecuadas para proteger la información contra accesos no autorizados, alteraciones o divulgaciones.",
+        "integration": "Actualmente, no se dispone de información pública sobre integraciones específicas de Agent Gold con otras herramientas o plataformas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://agentgold.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=from-chatbots-to-computer-control"
+        },
+        {
+          "source_url": "https://easywithai.com/ai-chatbots/agent-gold/"
+        },
+        {
+          "source_url": "https://10web.io/ai-tools/agent-gold/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://www.softandapps.info/2024/02/08/agent-gold-chatea-con-tus-youtubers-favoritos-usando-ia/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/posts/agent-gold-1"
+        },
+        {
+          "source_url": "https://agentgold.ai/privacy"
+        },
+        {
+          "source_url": "https://agentgold.ai/pricing"
+        }
+      ]
+    },
+    "216": {
+      "app": {
+        "id": "216",
+        "name": "AdCreative.ai",
+        "url": "https://www.adcreative.ai/",
+        "short_description": "Plataforma que utiliza inteligencia artificial para generar creatividades publicitarias y textos enfocados en la conversión, optimizando campañas en múltiples canales de manera eficiente.",
+        "category": "Marketing",
+        "main_functionality": "Automatiza la creación de anuncios y contenido para redes sociales, proporcionando diseños y textos respaldados por datos para mejorar las tasas de conversión.",
+        "tags": "#GeneraciónDeAnuncios #InteligenciaArtificial #MarketingDigital",
+        "logo_filename": "id_216_adcreative",
+        "what_is": "AdCreative.ai es una plataforma de publicidad impulsada por inteligencia artificial que genera creatividades publicitarias y textos enfocados en la conversión. Utiliza algoritmos avanzados para analizar datos y producir diseños respaldados por información, adaptados para mejorar las tasas de conversión en diversas plataformas publicitarias.",
+        "purpose": "La herramienta está diseñada para ayudar a empresas, agencias de marketing y emprendedores a crear anuncios efectivos de manera eficiente. Facilita la generación de creatividades publicitarias y textos persuasivos, optimizando campañas en plataformas como Google Ads, Facebook Ads e Instagram Ads, con el objetivo de aumentar las tasas de conversión y el retorno de inversión.",
+        "use_cases": "Publicidad de Productos de Comercio Electrónico: Genera creatividades publicitarias personalizadas para catálogos de productos completos, incrementando las ventas en línea. \n\nAgencias de Marketing Digital: Optimiza el proceso de creación de anuncios para múltiples clientes, mejorando el rendimiento de las campañas y ahorrando tiempo en el diseño. \n\nMarketing en Redes Sociales: Produce creatividades atractivas para publicaciones en redes sociales, aumentando la participación de los seguidores y el alcance de la marca.",
+        "main_advantages": "Generación Rápida de Contenido: Permite crear creatividades publicitarias y textos en cuestión de segundos, agilizando el proceso de diseño y lanzamiento de campañas. \n\nMejora de las Tasas de Conversión: Las creatividades respaldadas por datos pueden generar tasas de conversión hasta 14 veces superiores en comparación con las creatividades sin respaldo de datos. \n\nIntegración Multiplataforma: Se integra sin problemas con plataformas publicitarias como Google Ads, Facebook Ads e Instagram Ads, facilitando la gestión de campañas en múltiples canales. ",
+        "long_description": "AdCreative.ai es una plataforma de inteligencia artificial diseñada para automatizar y optimizar la creación de anuncios publicitarios. Utiliza modelos avanzados de IA para generar creatividades y textos publicitarios centrados en la conversión, adaptados a diversas plataformas y audiencias. La herramienta permite a empresas y agencias de marketing producir anuncios de alta calidad de manera eficiente, mejorando el rendimiento de las campañas y maximizando el retorno de la inversión.",
+        "release_date": "No disponible",
+        "developer": "AdCreative.ai.",
+        "main_model": "AdCreative.ai ha desarrollado AdLLM Spark, el primer gran modelo lingüístico del mundo especializado en publicidad. Este modelo está entrenado con más de 840 millones de textos publicitarios de alta conversión, lo que le permite generar textos publicitarios centrados en la conversión con una precisión superior al 90%. \n",
+        "pricing_plans": "Plan de Inicio: Ideal para gestionar una o dos marcas con un volumen moderado de creatividades. Los planes comienzan en $21 USD al mes. \n\nPlan Profesional: Dirigido a quienes manejan entre 5 y 20 marcas. Los planes inician en $141 USD al mes. \n\nPlan de Agencia: Pensado para agencias que gestionan más de 50 marcas y requieren un alto volumen de creatividades mensuales. Los planes empiezan en $499 USD al mes. \n\nTodos los planes incluyen una prueba gratuita de 7 días. ",
+        "license": "Propietario",
+        "security_privacy": "AdCreative.ai se compromete a proteger la información de sus usuarios y cumple con las regulaciones de privacidad aplicables, incluyendo el GDPR. La plataforma ha implementado sistemas y procedimientos para mantener la privacidad de los datos, asegurando que incluso los desarrolladores no puedan acceder a información personal.",
+        "integration": "AdCreative.ai se integra con diversas plataformas publicitarias, permitiendo una gestión fluida de campañas en múltiples canales. Además, ofrece herramientas como el Generador de Anuncios AI, que facilita la creación de anuncios de calidad profesional de forma rápida y eficaz."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolslist.io/best-ai-copywriting-tools/"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/adcreative-ai"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/adcreative-ai/features"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/generate-ad-creatives-extension/"
+        },
+        {
+          "source_url": "https://www.directorioia.com/herramientas-ia/marketing/asistente-de-redes-sociales-con-ia/adcreative-genera-publicidad-para-redes-sociales/"
+        },
+        {
+          "source_url": "https://aimojo.io/es/tools/adcreative-ai/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://infactura.com/es/aprende/adcreativeai-resena-y-alternativas"
+        },
+        {
+          "source_url": "https://www.adcreative.ai/custom-templates#section-pricing"
+        },
+        {
+          "source_url": "https://www.adcreative.ai/privacy-policy"
+        }
+      ]
+    },
+    "247": {
+      "app": {
+        "id": "247",
+        "name": "Accento",
+        "url": "https://accento.ai/",
+        "short_description": "Genera publicaciones atractivas en LinkedIn, programa tu contenido y haz crecer tu red profesional sin esfuerzo.",
+        "category": "Redes sociales",
+        "main_functionality": "Automatiza la generación y programación de publicaciones en LinkedIn, adaptadas al perfil y objetivos del usuario, para mejorar la gestión de la marca personal.",
+        "tags": "#AsistenteDeEscritura #GeneradorDeContenido #AsistenteDeRedesSociales",
+        "logo_filename": "id_247_accento",
+        "what_is": "Accento AI es una herramienta de software diseñada para ayudar a profesionales y empresas a gestionar su presencia en LinkedIn de manera más efectiva. Utiliza inteligencia artificial para crear contenido personalizado, automatizar publicaciones y aumentar la interacción en esta red profesional. \n",
+        "purpose": "Su propósito principal es optimizar la creación y gestión de contenido en LinkedIn, permitiendo a los usuarios mantener una presencia activa y atractiva sin invertir una cantidad significativa de tiempo. Accento AI genera publicaciones adaptadas al perfil y objetivos del usuario, programando el contenido para maximizar el alcance y el compromiso.",
+        "use_cases": "Emprendedores con poco tiempo: Automatiza la presencia en LinkedIn para propietarios de negocios ocupados que carecen de tiempo para las redes sociales. \n\nConstrucción de marca personal: Ayuda a los profesionales a mostrar consistentemente su experiencia y a ampliar su red de contactos. \n\nGestión de múltiples marcas: Permite a los usuarios administrar el contenido para varias cuentas o marcas en LinkedIn de manera eficiente. \n\nCrecimiento profesional: Mejora la visibilidad y la interacción en LinkedIn, apoyando el avance en la carrera profesional.",
+        "main_advantages": "Ahorro de tiempo: Automatiza la creación y programación de contenido, liberando a los usuarios de tareas repetitivas. \n\nAumento del compromiso: Las publicaciones generadas están diseñadas para incrementar la interacción, con usuarios reportando hasta 10 veces más participación. \n\nConsistencia en la voz de la marca: Asegura que todas las publicaciones coincidan con la imagen profesional y los objetivos del usuario. \n\nProgramación anticipada: Permite planificar y programar publicaciones con hasta 52 semanas de antelación, manteniendo una presencia constante. \n\nIdeas de contenido personalizadas: Proporciona sugerencias y temas adaptados al perfil del usuario para inspirar nuevos contenidos. ",
+        "long_description": "Accento AI es una herramienta basada en inteligencia artificial diseñada para optimizar la presencia de profesionales y empresas en LinkedIn. Ofrece funcionalidades como la generación de ideas de contenido, redacción de publicaciones personalizadas, programación de publicaciones y actualización constante con noticias del sector. Su objetivo es facilitar la creación de contenido relevante y atractivo, permitiendo a los usuarios mantener una presencia activa en LinkedIn sin invertir grandes cantidades de tiempo.",
+        "release_date": "Octubre 2024",
+        "developer": "Accento AI",
+        "main_model": "No disponible",
+        "pricing_plans": "Starter\n$14/mes\nComienza tu prueba\ngratuita INCLUYE:\n50K palabras/mes\nGuardar y organizar ideas 1 Cuentas de Linkedin\nGenerador de ideas\nPlantillas\nde generación de\npublicaciones Formateador de publicaciones Formateador\nde publicaciones Video a publicación\nde LinkedIn Blog a publicación\nde LinkedIn Vista previa\nde publicaciones en tiempo real Admite 100+ idiomas Growth\n$22/monthly\n\nStart your free trial\nEVERYTHING IN STARTER PLUS:\n120K words/month\n5 Linkedin Accounts\nContent style (mimic your content)\nAi Personas\nIndustry News\nAuto Posts   Agency/Team\n$32/monthly\n\nStart your free trial\nEVERYTHING IN GROWTH PLUS:\n290K words/month\n20 Linkedin Accounts\nCreate & schedule content for clients\nPriority Support\nOnboarding call with LinkedIn expert",
+        "license": "Propietario",
+        "security_privacy": "Política de Privacidad de Accento AI (vigente desde 1 de octubre de 2024)\n\nDatos Recopilados: Información proporcionada (nombre, correo, contenido subido), datos del dispositivo (IP, navegador) y actividad (uso del servicio, cookies).\nUso: Mejorar servicios, personalizar experiencia, prevenir fraudes y cumplir leyes.\nCompartición: Con proveedores de servicios y autoridades legales según sea necesario. No se venden datos personales.\nOpciones: Configuración de privacidad accesible desde la cuenta del usuario.",
+        "integration": "Accento AI se centra en la gestión de contenido para LinkedIn y no se especifica integración con otras plataformas o herramientas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://accento.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=alphabet-and-meta-clap-back"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/accento"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/accento/"
+        },
+        {
+          "source_url": "https://accento-ai.softonic.com/aplicaciones-web"
+        },
+        {
+          "source_url": "https://accento-ai.en.softonic.com/web-apps"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/accento"
+        }
+      ]
+    },
+    "257": {
+      "app": {
+        "id": "257",
+        "name": "Adsby",
+        "url": "https://adsby.co/",
+        "short_description": "selecciona las palabras clave adecuadas, filtra los negativos y crea campañas de alto rendimiento con IA.",
+        "category": "Marketing",
+        "main_functionality": "Automatización y optimización de campañas publicitarias en Google Ads mediante inteligencia artificial.",
+        "tags": "#AutomatizaciónDeMarketing #OptimizaciónDeAnuncios #InteligenciaArtificial #GoogleAds",
+        "logo_filename": "id_257_adsby",
+        "what_is": "Adsby es una plataforma de automatización de marketing impulsada por inteligencia artificial (IA) que facilita la gestión y optimización de campañas en Google Ads. Está diseñada para ayudar a startups y pequeñas empresas a mejorar la eficiencia de su publicidad digital sin necesidad de conocimientos avanzados en marketing.",
+        "purpose": "La plataforma permite a las empresas automatizar la creación de anuncios, seleccionar palabras clave relevantes, filtrar términos negativos y optimizar campañas publicitarias de manera continua. El objetivo es maximizar el retorno de la inversión publicitaria (ROAS) al asegurar que cada clic sea efectivo y relevante para la audiencia objetivo.",
+        "use_cases": "Optimización de Campañas Publicitarias: Un pequeño negocio utiliza Adsby para automatizar la selección de palabras clave y la creación de anuncios, lo que resulta en una mejora significativa en el rendimiento de sus campañas de Google Ads.\n\nExpansión a Mercados Internacionales: Una empresa que busca ingresar a mercados extranjeros emplea la función multilingüe de Adsby para crear anuncios en múltiples idiomas, facilitando la conexión con clientes potenciales en diferentes regiones.\n\nAhorro de Tiempo en Gestión Publicitaria: Una startup con recursos limitados implementa Adsby para automatizar tareas repetitivas en la gestión de sus campañas publicitarias, permitiendo al equipo enfocarse en otras áreas estratégicas del negocio.",
+        "main_advantages": "Automatización Completa: Adsby simplifica el proceso de publicidad digital al automatizar la creación, análisis y optimización de anuncios, eliminando la necesidad de intervención manual constante.\n\nGeneración Rápida de Contenido Publicitario: La plataforma permite crear anuncios efectivos en cuestión de segundos utilizando IA, agilizando el proceso creativo y asegurando mensajes atractivos para la audiencia.\n\nSoporte Multilingüe: Adsby ofrece la capacidad de crear anuncios en más de 100 idiomas, facilitando la expansión y adaptación de campañas a diversos mercados internacionales.\n\nOptimización Continua: La plataforma realiza optimizaciones semanales automatizadas, ajustando las campañas para mantener un rendimiento óptimo y maximizar el retorno de la inversión publicitaria.",
+        "long_description": "Adsby es una plataforma de automatización de marketing impulsada por inteligencia artificial (IA) que facilita la gestión y optimización de campañas en Google Ads. Está diseñada para ayudar a startups y pequeñas empresas a mejorar la eficiencia de su publicidad digital sin necesidad de conocimientos avanzados en marketing.",
+        "release_date": "Enero 2024",
+        "developer": "El equipo de desarrollo de Adsby incluye a Cem Özçelik, Hüseyin Kara, Omer Ersin, Berkay Yavuz, Selin Cakir, Dilan Laçin y Emir Taşkın.",
+        "main_model": "Adsby utiliza algoritmos de inteligencia artificial para automatizar la creación, análisis y optimización de campañas publicitarias en Google Ads. Los detalles específicos sobre el modelo o algoritmo principal no están disponibles.",
+        "pricing_plans": "Lanzar\n$19\n/Mo\nInicie y optimice sus campañas de Google Ads con asistencia impulsada por IA.\n\nIncluye\n1 icono de conexión de cuenta publicitaria\n1 Cuenta Publicitaria\nIcono de generador de palabras clave de IA\n1 miembro del equipo\nIcono de creación de campaña\nCreación de campañas\nIcono de optimizaciones semanales\nOptimizaciones semanales\nIcono de alertas e informes\nAlertas e informes\nAplicación de escritorio - Icono de AI Marketing Assistant\nAplicación de escritorio - Asistente de marketing con IA\nIcono de generador de palabras clave de IA\nGenerador de palabras clave de IA\n\nComience la prueba gratuita de 7 días\nCrecimiento\n$32\n/Mo\nPerfecto para manejar múltiples cuentas publicitarias, proporcionando las herramientas que necesita para ahorrar tiempo y esfuerzo.\n\nIncluye todo en Launch\n5 Icono de conexión de cuentas publicitarias\n5 Cuentas Publicitarias\nIcono de generador de palabras clave de IA\n5 miembros del equipo\nIcono de optimizaciones diarias\nOptimizaciones diarias\nIcono de informes de marca blanca\nInformes de marca blanca\n\nComience la prueba gratuita de 7 días\nEmpresa\n$162\n/Mo\nDiseñado para empresas que necesitan soporte personalizado y estrategia avanzada.\n\nIncluye todo en Crecimiento\nIcono de 20 cuentas publicitarias\n20 Cuentas Publicitarias\nIcono de generador de palabras clave de IA\n20 miembros del equipo\nIcono de administrador de cuenta dedicado\nGerente de Cuenta Dedicado\nIcono de sesión de estrategia mensual de 1 hora\nSesión mensual de estrategia de 1 hora\nIcono de informes personalizados\nInformes personalizados\nIcono de soporte prioritario\nSoporte prioritario\n\nComience la prueba gratuita de 7 días",
+        "license": "No especificado",
+        "security_privacy": "La política de privacidad de Adsby describe cómo la empresa recopila, utiliza y protege la información personal de sus usuarios. Al utilizar los servicios de Adsby, los usuarios aceptan los términos establecidos en esta política. Para obtener detalles específicos sobre los datos recopilados, su uso y las medidas de protección implementadas, se recomienda consultar directamente la política de privacidad disponible en su sitio web.",
+        "integration": "Adsby se integra con Google Ads, permitiendo la automatización y optimización de campañas publicitarias en esta plataforma."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://adsby.co/?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-goes-global"
+        },
+        {
+          "source_url": "https://deepgram.com/ai-apps/adsby"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/adsby/makers"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/adsby"
+        },
+        {
+          "source_url": "https://aitools.fyi/es/adsby"
+        },
+        {
+          "source_url": "https://adsby.co/privacy-policy"
+        },
+        {
+          "source_url": "https://adsby.co/blog/"
+        }
+      ]
+    },
+    "266": {
+      "app": {
+        "id": "266",
+        "name": "Adobe Podcast",
+        "url": "https://podcast.adobe.com/",
+        "short_description": "Adobe Podcast es una herramienta en línea que utiliza inteligencia artificial para facilitar la grabación, transcripción, edición y mejora de contenido de audio, permitiendo a los usuarios producir podcasts y locuciones de alta calidad de manera eficiente.",
+        "category": "Podcasting",
+        "main_functionality": "Proporciona una plataforma integral para la creación y edición de contenido de audio, incorporando mejoras automáticas en la calidad del sonido mediante IA.",
+        "tags": "#ProcesamientoDeAudio #EdiciónDeAudio #InteligenciaArtificial #TranscripciónAutomática #MejoraDeAudio",
+        "logo_filename": "id_266_adobepodcast",
+        "what_is": "Adobe Podcast es una plataforma en línea que combina herramientas de grabación, edición, transcripción y mejora de audio, todas potenciadas por inteligencia artificial. Está diseñada para simplificar y agilizar la producción de contenido de audio de alta calidad, como podcasts, locuciones y narraciones.",
+        "purpose": "Adobe Podcast sirve para crear y perfeccionar contenido de audio. Desde la grabación hasta la edición y el refinamiento del sonido, esta herramienta es ideal para podcasters, creadores de contenido, periodistas y empresas que necesitan un flujo de trabajo de audio eficiente y profesional.",
+        "use_cases": "Producción de Podcasts: Facilita la grabación, edición y mejora de episodios con herramientas automatizadas.\nNarraciones y Locuciones: Ideal para crear narraciones claras y profesionales para videos, cursos o proyectos multimedia.\nTranscripción Automática: Convierte automáticamente el contenido de audio en texto, útil para subtítulos o resúmenes.\nPeriodismo y Reportajes: Simplifica la edición de entrevistas y reportajes grabados.\nEducación y e-Learning: Mejora la calidad del audio para cursos en línea, logrando un sonido más claro y atractivo.",
+        "main_advantages": "Mejora de Calidad Automática: Herramientas como \"Enhance Speech\" eliminan ruido de fondo y optimizan las voces para lograr un sonido más profesional.\nEdición Basada en Texto: Permite editar audio directamente desde la transcripción, simplificando el proceso de edición.\nAccesibilidad: Funciona desde un navegador, eliminando la necesidad de instalar software complejo.\nColaboración en Equipo: Facilita la colaboración entre equipos mediante herramientas de edición compartida.\nCompatibilidad: Integración fluida con otros productos de Adobe, como Premiere Pro y Audition, para un flujo de trabajo unificado.",
+        "long_description": "Adobe Podcast es una plataforma en línea que integra herramientas de grabación, transcripción, edición y mejora de audio, todas potenciadas por inteligencia artificial. Su objetivo es simplificar la producción de contenido de audio de alta calidad, permitiendo a los usuarios grabar directamente desde el navegador, transcribir automáticamente el audio a texto y editarlo de manera intuitiva. Además, ofrece funciones avanzadas como la eliminación de ruido de fondo y la mejora de la claridad vocal, facilitando la creación de podcasts y otros contenidos auditivos con un sonido profesional. \n",
+        "release_date": "2023",
+        "developer": "Adobe Inc.",
+        "main_model": "Utiliza algoritmos de inteligencia artificial para la transcripción automática y la mejora de la calidad del audio, aunque no se especifica el modelo exacto empleado.",
+        "pricing_plans": "Adobe Podcast está disponible como parte de la suscripción a Adobe Creative Cloud. Los planes de Creative Cloud varían en precio según las aplicaciones incluidas y las necesidades del usuario.",
+        "license": "Al estar integrado en Adobe Creative Cloud, Adobe Podcast se rige por las licencias y términos de uso de Adobe para sus productos y servicios.",
+        "security_privacy": "Adobe se compromete a proteger la información personal de los usuarios y a utilizarla únicamente para proporcionar y mejorar sus servicios. Para detalles específicos, se recomienda consultar la política de privacidad de Adobe.",
+        "integration": "Adobe Podcast se integra con otras aplicaciones de Adobe, como Audition y Premiere Pro, permitiendo un flujo de trabajo unificado y eficiente para la producción de contenido multimedia."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/adobe-podcast"
+        },
+        {
+          "source_url": "https://podcast.adobe.com/?clickref=1101lA2vgUfp&mv=affiliate&mv2=pz&as_camptype=&as_channel=affiliate&as_source=partnerize&as_campaign=ffm"
+        },
+        {
+          "source_url": "https://www.filehorse.com/es/descargar-adobe-podcast/#google_vignette"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/adobe-podcast/"
+        },
+        {
+          "source_url": "https://viatea.es/tutoriales/como-crear-contenido-de-poscast-con-ia-adobe-ai/"
+        },
+        {
+          "source_url": "https://inteligenciaartificialai.com/que-es-adobe-podcast/"
+        }
+      ]
+    },
+    "267": {
+      "app": {
+        "id": "267",
+        "name": "Aftercare",
+        "url": "https://www.getaftercare.com/?",
+        "short_description": "Obtén información más detallada haciendo preguntas de seguimiento inteligentes de IA, convirtiendo cada encuesta en una conversación.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Permite crear encuestas conversacionales con preguntas de seguimiento impulsadas por IA para obtener insights más profundos de los encuestados.",
+        "tags": "#AnálisisDeDatos #EncuestasConversacionales #InteligenciaArtificial",
+        "logo_filename": "id_267_aftercare",
+        "what_is": "Aftercare es una plataforma de encuestas conversacionales que emplea inteligencia artificial para realizar preguntas de seguimiento inteligentes, permitiendo a las empresas obtener información más profunda y detallada de sus clientes en comparación con las encuestas tradicionales. \n",
+        "purpose": "La plataforma está diseñada para ayudar a las empresas a comprender mejor las experiencias y necesidades de sus clientes, facilitando la recopilación de comentarios detallados y procesables que pueden utilizarse para mejorar productos, servicios y la satisfacción general del cliente.",
+        "use_cases": "Retroalimentación de Clientes de Comercio Electrónico: Recopilar comentarios detallados post-compra de compradores en línea para mejorar productos y la experiencia de compra. \n\nOnboarding de Usuarios de SaaS: Realizar encuestas de seguimiento con nuevos usuarios de software para identificar puntos de dolor en el proceso de incorporación. \n\nSatisfacción de Huéspedes en Restaurantes: Recoger retroalimentación abierta de comensales a través de SMS o llamadas de voz para mejorar la calidad de la comida y el servicio. \n\nEvaluación de Campañas de Marketing: Evaluar la efectividad de las campañas publicitarias encuestando a los clientes sobre su recorrido y motivaciones de compra. ",
+        "main_advantages": "Información Profunda: Proporciona insights más detallados que las encuestas tradicionales de opción múltiple. \n\nIntegración Fluida: Se integra con flujos de trabajo y sistemas existentes, facilitando su adopción. \n\nDespliegue Multicanal: Ofrece la posibilidad de realizar encuestas a través de SMS, correo electrónico, web y voz, alcanzando a los clientes en sus canales preferidos. \n\nAnálisis Accionables: Proporciona información y recomendaciones generadas por IA basadas en datos de encuestas para ayudar a mejorar productos y servicios. ",
+        "long_description": "Aftercare es una plataforma de encuestas conversacionales que emplea inteligencia artificial para realizar preguntas de seguimiento inteligentes, permitiendo a las empresas obtener información más profunda y detallada de sus clientes en comparación con las encuestas tradicionales. La plataforma facilita la creación de flujos de trabajo personalizados mediante un constructor intuitivo, permitiendo agregar preguntas de seguimiento impulsadas por IA y crear rutas dinámicas con lógica de ramificación. Además, Aftercare ofrece despliegue multicanal, permitiendo a las empresas llegar a los clientes a través de sus canales preferidos, como SMS, correo electrónico, web y llamadas de voz. La plataforma también proporciona análisis accionables, resumiendo información clave y categorizando respuestas abiertas, lo que permite a las empresas comprender rápidamente las tendencias en sus datos sin necesidad de categorizar manualmente las respuestas.",
+        "release_date": "2024",
+        "developer": "Kontractify, Inc. Aftercare fue desarrollada por ingenieros con experiencia en empresas tecnológicas líderes como Nextdoor, Palantir, Datadog, Affirm, Barclays, MongoDB y Microsoft.",
+        "main_model": "Aftercare utiliza inteligencia artificial para generar preguntas de seguimiento inteligentes y analizar respuestas, proporcionando información más profunda que las encuestas tradicionales.",
+        "pricing_plans": "Gratis\n$0\nEmpieza a construir ahora\nElementos esenciales para realizar una encuesta conversacional\n30 respuestas / mes\n1 plaza\nFunciones\nPreguntas de seguimiento inteligentes, preguntas condicionales, nodos de título y cierre\nRespuestas y análisis\nPlantillas\nPro\n$25/mes\nComenzar\nMás respuestas, funciones potentes\n500 respuestas / mes\n1 plaza\nFunciones\nTodo, desde Gratis +\nChatea con tus encuestas\nLógica avanzada de nodo dividido\nAtención al cliente prioritaria\nEquipo\n$75/mes\nComenzar\nColabora con tu equipo\n2000 respuestas / mes\n5 plazas\nFunciones\nTodo desde Pro +\nInicio de sesión único (SSO)\nComparte encuestas con tu equipo\nSoporte Premier de Slack: priorización de la hoja de ruta de funciones",
+        "license": "Propietario",
+        "security_privacy": "Aftercare se compromete a proteger la privacidad de los datos de los usuarios y cumple con las regulaciones aplicables de protección de datos. Para detalles específicos, se recomienda consultar la política de privacidad disponible en su sitio web.",
+        "integration": "Aftercare se integra con flujos de trabajo existentes, facilitando su adopción sin interrumpir procesos actuales."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.getaftercare.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=gpt-4o-lands-on-smart-glasses"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/aftercare"
+        },
+        {
+          "source_url": "https://www.aibase.com/tool/35013"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/aftercare/launches"
+        },
+        {
+          "source_url": "https://www.getaftercare.com/pricing"
+        },
+        {
+          "source_url": "https://docs.google.com/document/d/1lwmNcZwKrwxU9Gt7CeJIrROFHoyWYs8koarm_rnH3Sg/edit?tab=t.0#heading=h.627d5pbwy1ym"
+        },
+        {
+          "source_url": "https://www.getaftercare.com/?utm_source=chatgpt.com"
+        }
+      ]
+    },
+    "304": {
+      "app": {
+        "id": "304",
+        "name": "Accio",
+        "url": "https://www.accio.com/",
+        "short_description": "Aproveche los profundos conocimientos de la industria para encontrar los principales proveedores con el primer motor de abastecimiento impulsado por IA del mundo.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Proporciona recomendaciones de productos personalizados y optimiza el proceso de abastecimiento para empresas, utilizando IA generativa.",
+        "tags": "#IA #ComercioElectrónico #Abastecimiento #Pymes",
+        "logo_filename": "id_304_accio",
+        "what_is": "Accio es una plataforma de inteligencia artificial diseñada para facilitar el proceso de abastecimiento y adquisición de productos para pequeñas y medianas empresas. Utiliza algoritmos avanzados para recomendar productos personalizados y simplificar la logística de compra.",
+        "purpose": "Ayuda a las empresas a encontrar, comparar y adquirir productos de manera eficiente, ahorrando tiempo y optimizando costos mediante recomendaciones inteligentes y automatización en el proceso de compra.\n\n",
+        "use_cases": "Empresas minoristas que necesitan abastecerse de inventario a precios competitivos.\nNegocios que buscan optimizar la logística de compra con herramientas de IA.\nPymes que requieren recomendaciones de productos personalizadas basadas en su perfil de negocio.",
+        "main_advantages": "Proceso de compra simplificado mediante IA generativa.\nRecomendaciones de productos adaptadas a las necesidades específicas de cada cliente.\nAhorro de tiempo y reducción de costos en el proceso de abastecimiento.\nMayor acceso a productos de diferentes proveedores de manera centralizada.",
+        "long_description": "Accio es una plataforma impulsada por inteligencia artificial que facilita a las pequeñas y medianas empresas (pymes) la búsqueda, comparación y adquisición de productos de manera eficiente. Utiliza algoritmos avanzados para analizar las necesidades específicas de cada negocio y proporcionar recomendaciones personalizadas, optimizando el proceso de abastecimiento y reduciendo costos operativos. Además, Accio ofrece una interfaz intuitiva que simplifica la logística de compra, permitiendo a las empresas centrarse en sus actividades principales mientras la plataforma se encarga de gestionar el abastecimiento de productos.",
+        "release_date": "Diciembre 2024",
+        "developer": "Alibaba.com Global E-Commerce Pte. Ltd.",
+        "main_model": "No disponible",
+        "pricing_plans": "Accio ofrece un modelo freemium, permitiendo a los usuarios acceder a funcionalidades básicas de forma gratuita, con opciones de pago para características avanzadas.",
+        "license": "Información no disponible.",
+        "security_privacy": "La política de privacidad de Accio detalla cómo se recopila, utiliza y protege la información personal de los usuarios. La empresa se compromete a salvaguardar la privacidad de sus clientes y a manejar los datos de manera transparente y segura. Los usuarios tienen derechos sobre sus datos personales, incluyendo el acceso, rectificación y eliminación de la información. Accio implementa medidas de seguridad para proteger los datos contra accesos no autorizados y se compromete a no compartir información personal con terceros sin el consentimiento del usuario, salvo en casos específicos establecidos en la política. Se recomienda a los usuarios revisar periódicamente la política de privacidad para estar informados sobre cualquier actualización o cambio.",
+        "integration": "Accio forma parte de una suite de herramientas que incluye SpringRecruit, un sistema de seguimiento de solicitantes (ATS) gratuito diseñado para equipos en crecimiento, y Albus, un asistente de inteligencia artificial que ayuda con la redacción de descripciones de trabajo, cartas de rechazo y la creación de asignaciones. \n"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.accio.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=notebooklm-s-new-features"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/accio-3/makers"
+        },
+        {
+          "source_url": "https://terms.accio.com/terms/privacy_policy_full/20240903162349575/20240903162349575.html?lng=en&accio_page_id=193cfcbef6d5f447842f9ce25aff06cf26d135fffd&spm=a2700.accio_index"
+        },
+        {
+          "source_url": "https://marketing4ecommerce.net/asi-es-accio-alibaba/"
+        }
+      ]
+    },
+    "410": {
+      "app": {
+        "id": "410",
+        "name": "AdCopy AI",
+        "url": "https://adcopy.ai/",
+        "short_description": "Plataforma impulsada por inteligencia artificial que optimiza la creación, prueba y publicación de anuncios en Meta, facilitando la gestión de campañas publicitarias para marcas y agencias.",
+        "category": "Publicidad",
+        "main_functionality": "Automatiza la generación de copias publicitarias efectivas, permite la publicación masiva de anuncios y ofrece análisis basados en datos para mejorar el rendimiento de las campañas en plataformas como Facebook e Instagram.",
+        "tags": "#MarketingDigital #Publicidad #InteligenciaArtificial #Automatización #MetaAds",
+        "logo_filename": "id_410_adcopy",
+        "what_is": "AdCopy AI es una herramienta de inteligencia artificial que ayuda a marcas y agencias a crear copias publicitarias impactantes y administrar campañas en plataformas como Facebook e Instagram.\n\n",
+        "purpose": "Permite a los usuarios generar, probar y publicar anuncios publicitarios efectivos de manera automatizada, optimizando el rendimiento de sus campañas digitales con análisis basados en datos.",
+        "use_cases": "Creación de múltiples variantes de anuncios para pruebas A/B.\nGestión automatizada de campañas publicitarias en Meta Ads.\nOptimización de copias publicitarias para diferentes audiencias y objetivos.\nIncremento del alcance y conversión de anuncios en redes sociales.",
+        "main_advantages": "Ahorro de tiempo en la creación y prueba de anuncios publicitarios.\nMejora del rendimiento de las campañas gracias a sugerencias basadas en datos.\nGestión eficiente y automatizada para grandes volúmenes de anuncios.\nFácil integración con plataformas de redes sociales como Facebook e Instagram.",
+        "long_description": "AdCopy AI es una plataforma impulsada por inteligencia artificial diseñada para optimizar la creación y gestión de anuncios en Meta (Facebook e Instagram). Ofrece funcionalidades como la generación automática de copias publicitarias, pruebas A/B, optimización del rendimiento y análisis de campañas. La herramienta permite a marcas y agencias lanzar múltiples anuncios de manera eficiente, integrándose directamente con Meta Ads Manager para facilitar la publicación y seguimiento de campañas.",
+        "release_date": "No disponible",
+        "developer": "AdCopy AI es desarrollado por Reign Technologies",
+        "main_model": "No disponible",
+        "pricing_plans": "Pro: Diseñado para marcas, permite la creación y publicación de anuncios impulsados por IA en una cuenta publicitaria. \n\nAgencia: Orientado a equipos que gestionan múltiples cuentas publicitarias, facilitando la colaboración y publicación eficiente. ",
+        "license": "Propietaria",
+        "security_privacy": "AdCopy AI implementa medidas de seguridad estándar para proteger la información de los usuarios y garantizar la integridad de las campañas publicitarias. Para obtener detalles específicos sobre sus políticas de privacidad y prácticas de seguridad, se recomienda consultar la política de privacidad disponible en su sitio web oficial.",
+        "integration": "AdCopy AI se integra directamente con Meta Ads Manager, permitiendo una sincronización fluida de datos y la gestión eficiente de campañas publicitarias en Facebook e Instagram. Esta integración facilita la publicación masiva de anuncios y el seguimiento del rendimiento desde una única plataforma."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/adcopy-ai"
+        },
+        {
+          "source_url": "https://adcopy.ai/?ref=ffmedia"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/adcopy-ai/"
+        },
+        {
+          "source_url": "https://aplicaciones.ai/adcopy/"
+        },
+        {
+          "source_url": "https://web.swipeinsight.app/tools/adcopy-ai"
+        },
+        {
+          "source_url": "https://textcortex.com/es/post/qu%C3%A9-es-el-copy-publicitario-c%C3%B3mo-crearlo-r%C3%A1pidamente\n\n"
+        },
+        {
+          "source_url": "https://adcopy.ai/page/pricing"
+        },
+        {
+          "source_url": "https://adcopy.ai/pages/privacy-policy"
+        },
+        {
+          "source_url": "https://adcopy.ai/page/features"
+        },
+        {
+          "source_url": "https://vivevirtual.es/inteligencia-artificial/adcopy-la-revolucion-en-la-redaccion-de-anuncios-con-ia/"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/adcopy-ai"
+        },
+        {
+          "source_url": "https://sayhi2.ai/es/product/adcopy_ai"
+        }
+      ]
+    },
+    "444": {
+      "app": {
+        "id": "444",
+        "name": "Adobe Firefly",
+        "url": "https://firefly.adobe.com/",
+        "short_description": "Herramienta de IA generativa que permite crear y editar contenido visual mediante indicaciones de texto, integrada en aplicaciones como Photoshop e Illustrator.",
+        "category": "Diseño gráfico",
+        "main_functionality": "Generación y edición de imágenes y efectos de texto a partir de descripciones textuales, optimizando los flujos de trabajo creativos.",
+        "tags": "#GeneraciónDeImágenes #IA #Adobe #Creatividad",
+        "logo_filename": "id_444_adobe_firefly",
+        "what_is": "Adobe Firefly es una herramienta basada en inteligencia artificial generativa diseñada para asistir a creadores de contenido visual. Forma parte del ecosistema de Adobe y se integra en aplicaciones como Photoshop, Illustrator y Premiere Pro, proporcionando capacidades avanzadas para generar y editar imágenes, efectos y texto a partir de descripciones textuales.",
+        "purpose": "Sirve para simplificar y acelerar el proceso creativo, permitiendo a diseñadores y creadores generar contenido visual de alta calidad de manera rápida y eficiente. Desde imágenes hasta efectos y estilos, Firefly empodera a los usuarios con herramientas inteligentes que optimizan los flujos de trabajo.",
+        "use_cases": "Diseño gráfico:\nCrear imágenes personalizadas basadas en indicaciones textuales para materiales de marketing o branding.\nEdición de imágenes:\nMejorar fotografías con efectos avanzados y ajustes automáticos integrados en Photoshop.\nProducción de videos:\nGenerar fondos dinámicos o efectos visuales utilizando descripciones textuales dentro de Premiere Pro.\nGeneración de texto estilizado:\nCrear fuentes o efectos textuales únicos para carteles, banners y medios digitales.\nPrototipado rápido:\nVisualizar ideas creativas rápidamente con recursos generados instantáneamente.",
+        "main_advantages": "Accesibilidad: Integración en herramientas populares de Adobe facilita el acceso a una amplia base de usuarios creativos.\nCreatividad sin límites: Capacidad para transformar ideas textuales en visuales de alta calidad.\nAhorro de tiempo: Automatización de tareas repetitivas y generación rápida de prototipos.\nInterfaz intuitiva: Compatible con flujos de trabajo ya conocidos por los usuarios de Adobe.\nSostenibilidad creativa: Respaldo a los derechos de los creadores mediante la incorporación de recursos éticamente generados.",
+        "long_description": "Adobe Firefly es una tecnología de inteligencia artificial generativa diseñada para transformar los flujos de trabajo creativos. Se integra directamente en herramientas como Photoshop, Illustrator y Premiere Pro, lo que permite a los usuarios generar y modificar contenido visual utilizando comandos de texto. Con Firefly, es posible crear imágenes, efectos y estilos únicos, así como optimizar tareas repetitivas como ajustes de color, edición de texto estilizado y creación de prototipos. Adobe Firefly destaca por su capacidad para adaptarse a las necesidades específicas de los diseñadores y creadores, respetando la ética y los derechos de autor al utilizar recursos entrenados en datos autorizados.",
+        "release_date": "Marzo 2023",
+        "developer": "Adobe Inc.",
+        "main_model": "Adobe Firefly utiliza un modelo de IA generativa personalizado, entrenado con datos de uso autorizado, asegurando que cumpla con estándares éticos y legales.\n\n",
+        "pricing_plans": "Gratis: Acceso limitado para explorar las funciones básicas.\nPremium: Incluye acceso total a las herramientas de Adobe Creative Cloud, con integración completa de Firefly.\nEmpresarial: Soluciones personalizadas para empresas con necesidades avanzadas de diseño y creación.",
+        "license": "Propietaria",
+        "security_privacy": "Adobe Firefly respeta los derechos de autor y la privacidad del usuario al emplear un modelo entrenado únicamente con contenido autorizado. Además, cumple con regulaciones internacionales de protección de datos, proporcionando seguridad en la creación y manejo de contenido.",
+        "integration": "Se integra completamente con la suite de Adobe Creative Cloud, incluyendo Photoshop, Illustrator, InDesign y Premiere Pro.\nCompatible con plataformas externas mediante exportación de contenido en diversos formatos.\nIntegración con herramientas de gestión de proyectos y activos digitales como Trello y Asana, facilitando la colaboración en equipo."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/adobe-firefly"
+        },
+        {
+          "source_url": "https://firefly.adobe.com/?clickref=1100lzYvTkjp&mv=affiliate&mv2=pz&as_camptype=&as_channel=affiliate&as_source=partnerize&as_campaign=ffm\n\n"
+        },
+        {
+          "source_url": "https://www.inesem.es/revistadigital/diseno-y-artes-graficas/adobe-firefly/"
+        },
+        {
+          "source_url": "https://appmaster.io/es/news/adobe-presenta-firefly-para-empresas-imagenes-generativas"
+        },
+        {
+          "source_url": "https://wardem.com/blog/adobe-firefly-que-es-y-como-funciona/"
+        }
+      ]
+    },
+    "446": {
+      "app": {
+        "id": "446",
+        "name": "913.ai",
+        "url": "https://www.913.ai/",
+        "short_description": "Automatice la extracción, el procesamiento y la generación de documentos utilizando el lenguaje natural de extremo a extremo.",
+        "category": "Automatización",
+        "main_functionality": "Automatización de flujos de trabajo relacionados con documentos mediante agentes de IA personalizados, optimizando procesos en sectores como legal, seguros y automotriz. \n",
+        "tags": "#IA #Automatización #ProcesamientoDeDocumentos #AgentesInteligentes",
+        "logo_filename": "id_446_913ai",
+        "what_is": "913.ai es una plataforma de inteligencia artificial diseñada para automatizar flujos de trabajo relacionados con documentos, empleando agentes de IA personalizados que realizan tareas como extracción de datos, validación, clasificación y generación de documentos.",
+        "purpose": "Su principal objetivo es optimizar procesos empresariales en sectores que manejan grandes volúmenes de documentos, como seguros, legal, automotriz y servicios financieros, reduciendo la carga manual y mejorando la eficiencia operativa.",
+        "use_cases": "Sector Legal: Automatización del análisis de contratos y generación de resúmenes.\nSector Asegurador: Procesamiento automatizado de reclamos y verificación de documentación.\nSector Automotriz: Gestión de documentos relacionados con ventas, garantías y financiamiento.\nCorporaciones Generales: Clasificación y organización de grandes volúmenes de documentos empresariales.",
+        "main_advantages": "Ahorro de tiempo mediante la automatización de tareas manuales repetitivas.\nReducción de errores humanos en la gestión documental.\nImplementación flexible mediante agentes de IA configurables según las necesidades del cliente.\nEscalabilidad para manejar grandes volúmenes de datos y documentos.",
+        "long_description": "913.ai es una plataforma avanzada que automatiza tareas complejas relacionadas con documentos, incluyendo extracción de datos, clasificación, validación y generación de documentos. Impulsada por agentes de inteligencia artificial autónomos, la plataforma reduce el trabajo manual, minimiza errores y aumenta la productividad. Ofrece integraciones fluidas y un creador de agentes intuitivo, permitiendo a las empresas personalizar soluciones de IA adaptadas a sus flujos de trabajo específicos, garantizando al mismo tiempo la máxima seguridad de los datos.",
+        "release_date": "Diciembre 2024",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "913.ai implementa medidas de seguridad estándar de la industria para proteger los datos de los usuarios, incluyendo cifrado y controles de acceso. Los datos se almacenan en servidores seguros con acceso limitado al personal autorizado. Para obtener detalles más específicos, se recomienda contactar directamente con los desarrolladores o consultar fuentes oficiales de la empresa.",
+        "integration": "913.ai se integra sin problemas con más de 200 aplicaciones y herramientas de terceros, mejorando los flujos de trabajo documentales al combinar sus capacidades de IA con las plataformas que las empresas ya utilizan."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.913.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=meta-embraces-ai-bots"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/913-ai/launches"
+        },
+        {
+          "source_url": "https://www.913.ai/use-cases"
+        },
+        {
+          "source_url": "https://www.913.ai/resources"
+        },
+        {
+          "source_url": "https://www.913.ai/legal/privacy"
+        },
+        {
+          "source_url": "https://www.913.ai/integrations"
+        },
+        {
+          "source_url": "https://www.aitoolnet.com/es/913ai?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://pitchbook.com/profiles/company/554360-59"
+        },
+        {
+          "source_url": "https://www.ventureradar.com/organisation/913.ai/2775d05e-2d68-452c-b79a-8c841c65e4e9"
+        },
+        {
+          "source_url": "https://steemhunt.com/%40takku/913-ai-ai-agents-for-document-related-workflows"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/product/913.ai/"
+        }
+      ]
+    },
+    "488": {
+      "app": {
+        "id": "488",
+        "name": "19pine",
+        "url": "https://www.19pine.ai/",
+        "short_description": "Un asistente de IA que detecta cargos injustos y realiza llamadas a empresas en su nombre, negociando para proteger sus derechos y resolver disputas.",
+        "category": "Gestión",
+        "main_functionality": "Automatiza llamadas y comunicaciones con servicios de atención al cliente para negociar tarifas, cancelar suscripciones y resolver disputas en nombre del usuario, ahorrando tiempo y reduciendo la frustración asociada con estos procesos.",
+        "tags": "#AsistenteIA #ServicioAlCliente #Automatización #Productividad #GestiónDeSuscripciones",
+        "logo_filename": "id_488_19pine",
+        "what_is": "19Pine es un asistente virtual basado en inteligencia artificial diseñado para simplificar la interacción con servicios de atención al cliente. Actúa en nombre del usuario para resolver problemas comunes como disputas, cancelaciones y negociaciones, reduciendo el tiempo y esfuerzo invertido en estos procesos.",
+        "purpose": "Sirve para automatizar tareas relacionadas con el servicio al cliente, como negociar tarifas, cancelar suscripciones, gestionar reembolsos y resolver conflictos, eliminando la necesidad de largas llamadas y gestiones tediosas.",
+        "use_cases": "Usuarios personales: Negociación de descuentos en servicios como internet, teléfono o televisión por cable.\nPequeñas empresas: Resolución de disputas con proveedores o renegociación de contratos.\nConsumidores: Cancelación de suscripciones no deseadas de manera rápida y sin complicaciones.\nReclamaciones: Manejo de procesos de reembolso o compensación por servicios insatisfactorios.\nResolución de conflictos: Interacción directa con servicios de atención al cliente para solucionar problemas específicos.",
+        "main_advantages": "Ahorro de tiempo: Automatiza gestiones que suelen ser prolongadas.\nReducción de estrés: Se encarga de lidiar con procesos complicados y frustrantes.\nEficiencia: Ofrece soluciones rápidas y efectivas, con un alto porcentaje de éxito en negociaciones.\nAccesibilidad: Disponible para usuarios que desean optimizar sus interacciones con atención al cliente sin necesidad de realizar llamadas.\nOptimización de recursos: Permite a empresas y personas dedicar tiempo a actividades más importantes.",
+        "long_description": "Pine es un asistente impulsado por inteligencia artificial diseñado para gestionar interacciones con servicios de atención al cliente en nombre del usuario. Su objetivo es reducir el tiempo y la frustración asociados con llamadas prolongadas y transferencias interminables. Pine puede negociar facturas, cancelar suscripciones y resolver disputas, permitiendo a los usuarios enfocarse en lo que realmente importa.",
+        "release_date": "No disponible",
+        "developer": "Pine",
+        "main_model": "No disponible",
+        "pricing_plans": "Pine ofrece diferentes planes de suscripción adaptados a las necesidades de los usuarios. Para obtener información detallada sobre los precios y características de cada plan, se recomienda visitar la sección de precios en su sitio web.",
+        "license": "No disponible",
+        "security_privacy": "Pine se compromete a proteger la privacidad y seguridad de los datos de sus usuarios. Toda la información se mantiene segura y completamente encriptada, siendo accesible únicamente por el usuario. Para las llamadas, solo se utilizan los datos esenciales, de manera temporal y con la aprobación del usuario.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.19pine.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=the-best-gadgets-of-ces-day-two"
+        },
+        {
+          "source_url": "https://www.agenticaidirectory.com/agent/19pine-ai"
+        },
+        {
+          "source_url": "https://dynamicbusiness.com/ai-tools/19pine-ai-powered-customer-support-assistant.html"
+        },
+        {
+          "source_url": "https://www.landingpicks.com/d06583a5d7f29d2ed0f21d2ed4da6917"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/pine"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/pine-10"
+        }
+      ]
+    },
+    "616": {
+      "app": {
+        "id": "616",
+        "name": "10Web",
+        "url": "https://10web.io/",
+        "short_description": "Plataforma impulsada por IA que permite crear, alojar y gestionar sitios web de WordPress de manera eficiente y sin complicaciones técnicas.",
+        "category": "Codificación",
+        "main_functionality": "Generación automatizada de sitios web personalizados mediante inteligencia artificial, ofreciendo herramientas para construcción, alojamiento y optimización de sitios web.",
+        "tags": "#DesarrolloWeb #IA #WordPress #AlojamientoWeb #ConstructorDeSitiosWeb",
+        "logo_filename": "id_616_10web",
+        "what_is": "10Web es una plataforma integral impulsada por inteligencia artificial diseñada para crear, alojar y gestionar sitios web en WordPress. Ofrece herramientas automatizadas que permiten a los usuarios sin experiencia técnica construir páginas web funcionales y visualmente atractivas en pocos minutos.",
+        "purpose": "Su propósito principal es facilitar la creación de sitios web de WordPress mediante procesos automatizados, mejorando la eficiencia en el diseño, el alojamiento y la optimización. Además, incluye herramientas de SEO, copias de seguridad automáticas y capacidades de monitoreo del rendimiento del sitio.",
+        "use_cases": "Empresas pequeñas y medianas: Crear un sitio web corporativo para mostrar servicios, productos o información de contacto de manera profesional.\nFreelancers y diseñadores web: Acelerar la creación de sitios personalizados para clientes.\nBloggers: Crear blogs optimizados para SEO y con diseño profesional.\nE-commerce: Desarrollar tiendas en línea con integración de WordPress.",
+        "main_advantages": "Ahorro de tiempo: Los usuarios pueden generar sitios web completos en minutos mediante inteligencia artificial.\nFacilidad de uso: Su interfaz amigable permite a personas sin conocimientos técnicos gestionar un sitio web.\nOptimización automática: Incluye herramientas para mejorar la velocidad, SEO y seguridad del sitio.\nAlojamiento integrado: Ofrece servidores rápidos y seguros con copias de seguridad automáticas.\nRelación costo-beneficio: Ofrece servicios competitivos con precios accesibles para pequeñas empresas y freelancers.",
+        "long_description": "10Web es una plataforma integral que utiliza inteligencia artificial para simplificar la creación, alojamiento y gestión de sitios web en WordPress. Su AI Website Builder permite generar sitios web completos en minutos, adaptados a las necesidades específicas del usuario. La plataforma ofrece alojamiento gestionado en Google Cloud, garantizando alta velocidad y un tiempo de actividad del 99.99%. Además, incluye herramientas como PageSpeed Booster para optimizar el rendimiento del sitio, asistentes de IA para la generación de contenido, y una variedad de widgets premium para mejorar la funcionalidad del sitio web.",
+        "release_date": "Octubre 2020",
+        "developer": "10Web, Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "10Web ofrece varios planes de suscripción:\n\nStarter: $10/mes (facturado anualmente).\nPremium: $15/mes (facturado anualmente).\nUltimate: $23/mes (facturado anualmente).",
+        "license": "Suscripción.",
+        "security_privacy": "10Web prioriza la seguridad con funciones como eliminación de malware, mitigación de ataques DDoS y protección contra fuerza bruta. Además, ofrece copias de seguridad automáticas diarias y monitoreo constante para garantizar la integridad y disponibilidad del sitio web.",
+        "integration": "La plataforma es compatible con una amplia gama de plugins de WordPress, incluyendo WooCommerce para comercio electrónico, y ofrece integración con herramientas como Google Analytics y píxeles de redes sociales, facilitando la recopilación de datos y la implementación de estrategias de marketing digital."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/10web"
+        },
+        {
+          "source_url": "https://10web.io/ai-website-builder/?_from=ffmedia&fp_sid=aitools"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/10web-io\n\n"
+        },
+        {
+          "source_url": "https://aimojo.io/es/tools/10web/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/10web"
+        },
+        {
+          "source_url": "https://iahub.es/herramientas/10web/"
+        },
+        {
+          "source_url": "https://yeswelab.com/blogs/aplicaciones-de-la-inteligencia-artificial/plataforma-wordpress-impulsada-por-ia-10web"
+        },
+        {
+          "source_url": "https://aplicaciones.ai/10web/"
+        }
+      ]
+    },
+    "774": {
+      "app": {
+        "id": "774",
+        "name": "ActionKit",
+        "url": "https://www.useparagon.com/actionkit",
+        "short_description": "Agregue 1000+ herramientas de integración a sus agentes de IA.",
+        "category": "Automatización",
+        "main_functionality": "Proporcionar a agentes de IA la capacidad de interactuar y ejecutar acciones en aplicaciones de terceros mediante una única API, utilizando herramientas de función compatibles con modelos de lenguaje natural.",
+        "tags": "#IntegraciónDeAplicaciones #Automatización #APIs #AgentesIA #ToolCalling",
+        "logo_filename": "id_774_actionkit",
+        "what_is": "ActionKit es una solución de Paragon que ofrece una API diseñada para que los agentes de inteligencia artificial puedan acceder y ejecutar acciones predefinidas en una amplia gama de aplicaciones de terceros, como CRMs, sistemas de tickets, calendarios y más. Esta herramienta permite a los desarrolladores integrar funcionalidades complejas sin necesidad de construir integraciones personalizadas para cada aplicación.",
+        "purpose": "Su propósito principal es facilitar a los agentes de IA la capacidad de realizar acciones concretas en aplicaciones externas, como crear tareas en Jira, consultar datos en Salesforce o enviar mensajes a través de Slack, todo mediante comandos en lenguaje natural y sin necesidad de desarrollar integraciones específicas para cada caso.",
+        "use_cases": "Automatización de procesos de ventas mediante la creación y actualización de registros en CRMs como Salesforce.\n\nGestión de tareas y proyectos creando tickets en plataformas como Jira basados en transcripciones de reuniones.\n\nGeneración de documentos en Google Docs a partir de indicaciones en lenguaje natural.\n\nConsulta de reportes de ventas en tiempo real desde plataformas como Shopify.",
+        "main_advantages": "Acceso a más de 1,000 acciones preconstruidas en diversas aplicaciones de terceros.\n\nCompatibilidad con cualquier marco de modelos de lenguaje natural que soporte herramientas de función.\n\nFacilidad de integración mediante una única API, reduciendo la necesidad de desarrollos personalizados.\n\nDocumentación detallada y soporte para facilitar la implementación y uso de la herramienta.​",
+        "long_description": "ActionKit es una herramienta desarrollada por Paragon que proporciona una API unificada para que los agentes de inteligencia artificial puedan interactuar con una amplia variedad de aplicaciones de terceros. Al exponer especificaciones en JSON Schema y OpenAPI para cada acción de integración, permite a los agentes descubrir y ejecutar acciones basadas en el contexto de una conversación o indicación del usuario. Esta funcionalidad es especialmente útil para desarrolladores que buscan integrar capacidades avanzadas en sus agentes de IA sin la complejidad de construir integraciones individuales para cada aplicación.",
+        "release_date": "2025",
+        "developer": "Paragon",
+        "main_model": "No disponible. La información específica sobre el modelo de inteligencia artificial utilizado por ActionKit no ha sido divulgada públicamente.",
+        "pricing_plans": "No disponible. La información sobre los planes de suscripción de ActionKit no ha sido encontrada en las fuentes disponibles.",
+        "license": "La información sobre el tipo de licencia de ActionKit no ha sido encontrada en las fuentes disponibles.",
+        "security_privacy": "No disponible. No se ha encontrado información específica sobre las políticas de seguridad y privacidad implementadas en ActionKit.",
+        "integration": "Compatible con una amplia gama de aplicaciones de terceros, incluyendo Salesforce, Jira, Google Docs, Shopify, entre otras, permitiendo a los agentes de IA ejecutar acciones específicas en estas plataformas mediante una única API"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.useparagon.com/actionkit?utm_source=superhuman&utm_medium=referral&utm_campaign=chatgpt-could-get-a-social-feed"
+        }
+      ]
+    },
+    "1055": {
+      "app": {
+        "id": "1055",
+        "name": " Flowstep",
+        "url": "https://flowstep.ai/?",
+        "short_description": "Diseña hermosas interfaces de usuario al instante con IA.",
+        "category": "Generación de diseño",
+        "main_functionality": "Genera diseños, wireframes y flujos de usuario a partir de texto; permite iteración rápida y colaboración en tiempo real.",
+        "tags": "#DiseñoIA #UI #Wireframing #UX #Colaboración",
+        "logo_filename": "id_1055_flowstep",
+        "what_is": "Herramienta de diseño asistida por IA que permite crear interfaces de usuario, mapas de flujo y prototipos a partir de descripciones en lenguaje natural.",
+        "purpose": "Acelera la etapa inicial de diseño, facilitando la transformación rápida de ideas en interfaces visuales editables y colaborativas.",
+        "use_cases": "Generación de wireframes y flujos de usuario desde prompts de texto. \n\nIteraciones rápidas mediante sugerencias estructuradas como “pantalla siguiente” o “estados de error”. \n\nColaboración en tiempo real con equipos dentro de la plataforma. ",
+        "main_advantages": "Elimina fricciones del software de diseño tradicional. \n\nIteraciones ágiles desde ideas hasta interfaces visuales. \n\nColaboración inmediata sin herramientas externas.",
+        "long_description": "Flowstep es una plataforma de diseño asistido por IA que transforma descripciones en lenguaje natural en interfaces visuales elaboradas, como diseños UI, wireframes y user flows, todo dentro de un lienzo infinito editable. Permite iterar mediante sugerencias inteligentes y colabora en tiempo real, eliminando los cuellos de botella del diseño tradicional. ",
+        "release_date": "2023",
+        "developer": "Fundada por Matt Clannachan, Svyat Polishchuk, Sami Nieminen y Kaarel Roben, con sede en Tallin. ",
+        "main_model": "Utiliza modelos de lenguaje (LLMs), aprendizaje por refuerzo (reinforcement learning), edición en canvas e informática visual propietaria para convertir prompts en diseños UI estructurados. ",
+        "pricing_plans": "Ofrece un plan gratuito con funcionalidades básicas. Aunque se menciona un “Professional Tier” desde USD 20/mes en algunos recursos, no se confirma oficialmente en el sitio oficial. Se recomienda verificar en la web del proveedor.",
+        "license": "Plataforma propietaria en modalidad SaaS. (No se indican detalles sobre licencias open source.)",
+        "security_privacy": "No disponible",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.superbcrew.com/flowstep-transforms-simple-ai-prompts-into-real-time-ui-designs/"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/flowstep"
+        },
+        {
+          "source_url": "https://www.saasworthy.com/product/flowstep-ai"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/flowstep"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/flowstep"
+        }
+      ]
+    },
+    "1057": {
+      "app": {
+        "id": "1057",
+        "name": " Memories",
+        "url": "https://memories.ai/",
+        "short_description": "ChatGPT para tu videoteca, con contexto de video ilimitado.",
+        "category": "Detección",
+        "main_functionality": "Análisis multimodal de video —búsqueda semántica, chat conversacional, transcripción, resumen, detección de escenas, y más— todo accesible vía API y UI conversa.",
+        "tags": "#VideoAnalytics #MemoriaVisual #BúsquedaSemántica #Detección #Transcripción #VideoChat",
+        "logo_filename": "id_1057_memories",
+        "what_is": "Una plataforma de video impulsada por IA que actúa como una memoria visual confiable, comprendiéndolo todo en videos largos y facilitando su exploración con queries en lenguaje natural. ",
+        "purpose": "Permite a usuarios y equipos hacer búsquedas específicas dentro de videos, transcribir, resumir, detectar eventos o interacciones, e interactuar con el contenido mediante inteligencia conversacional.",
+        "use_cases": "Seguridad: detección en tiempo real de comportamientos sospechosos o caídas, re-identificación de personas. \n\nMarketing y medios: análisis de tendencias de video y creación de contenido optimizado; ideación, clipping y resumen de clips. \n\nInvestigación y producción: búsqueda de escenas específicas, consulta de diálogos, estilos arquitectónicos, recuento de escenas. ",
+        "main_advantages": "Mantiene contexto visual a largo plazo —supera las limitaciones de modelos como Gemini o ChatGPT ante videos extensos— gracias a su Large Visual Memory Model (LVMM). \n\nAlta precisión y sin alucinaciones en el análisis de contenido visual largo. \n\nInterfaz conversacional (video chat) para interactuar dinámicamente con el contenido. \n\nProcesamiento eficiente mediante indexación una sola vez y reutilización del mismo.",
+        "long_description": "Memories.ai es una innovadora plataforma de análisis de video basada en IA, diseñada para “ver y recordar” como lo hace un humano, pero a escala. Mediante su modelo LVMM, indexa videos una vez, permitiendo búsquedas conversacionales, extracción de clips, transcripción multimodal, identificación de personajes o acciones, y resúmenes inteligentes. Es ideal para seguridad, marketing, producción y más.",
+        "release_date": "No disponible",
+        "developer": "Fundadores incluyen a Shawn Shen (ex Meta) y Ben (Enmin) Zhou (ex Meta), con investigación relacionada a Meta Reality Labs. La empresa recibió respaldo y financiamiento semilla de inversores como Samsung Next y Susa Ventures.",
+        "main_model": "Utiliza el primer Large Visual Memory Model (LVMM), persistente, precisos y capacitado para análisis de video a gran escala.",
+        "pricing_plans": "Ofrece un plan gratuito (500 créditos/mes), un plan Plus (~USD 20/mes con 5,000 créditos), y opciones Enterprise personalizadas. ",
+        "license": "Plataforma propietaria SaaS. ",
+        "security_privacy": "No disponible",
+        "integration": "Proporciona APIs para desarrolladores, ideal para integraciones personalizadas; no se mencionan integraciones predefinidas específicas. "
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://memories.ai/"
+        },
+        {
+          "source_url": "https://www.futuretools.io/tools/memories-ai"
+        },
+        {
+          "source_url": "https://aitoolsclub.com/memories-ai/"
+        },
+        {
+          "source_url": "https://www.aixploria.com/en/memories-ai/"
+        }
+      ]
+    },
+    "1075": {
+      "app": {
+        "id": "1075",
+        "name": "AddSubtitle",
+        "url": "https://addsubtitle.ai/",
+        "short_description": "Agrega subtítulos a tus videos en 100+ idiomas con IA.",
+        "category": "Traducción",
+        "main_functionality": "Generación automática de subtítulos sincronizados, traducción multilingüe, doblaje por IA (voiceover), y personalización avanzada de estilos de texto — todo integrado en un flujo de trabajo web.",
+        "tags": "#AILocalization #SubtítulosAutomáticos #TraducciónMultilingüe #DoblajeIA #EditorDeSubtítulos #VideoWorkflow",
+        "logo_filename": "id_1075_addsubtitle",
+        "what_is": "AddSubtitle es una herramienta en línea impulsada por IA que permite a creadores y marcas automatizar la traducción, subtitulación y doblaje de videos, todo desde una sola plataforma web accesible y sin necesidad de instalar software. ",
+        "purpose": "Facilita la localización de contenido audiovisual al permitir subtitular, traducir y doblar videos rápida y eficientemente, ideal para llegar a audiencias globales sin complicaciones técnicas. ",
+        "use_cases": "Creadores de contenido que necesitan subtitular y doblar videos para redes sociales, e-learning o marketing.\n\nAgencias que gestionan videos multilingües y requieren flujo de trabajo rápido y personalizable.\n\nEntrenamientos corporativos y material educativo que deben ser traducidos y doblados para diversas audiencias. ",
+        "main_advantages": "Subtítulos y traducciones altamente precisas (hasta 99.9 %) en más de 100 idiomas. \n\nFlujo de trabajo integral: subtítulos, doblaje y traducción en una sola herramienta web. \n\nAlta personalización: estilos de texto, plantillas de tendencia, y control cultural en las traducciones.",
+        "long_description": "AddSubtitle es una solución web avanzada para la localización de contenido audiovisual. Combina generación de subtítulos automáticos y doblaje por IA con traducción en más de 100 idiomas, todo desde un editor online intuitivo. Permite personalizar estilo, doble idioma en pantalla, y adapta traducciones culturalmente, ideal para creadores, marcas educativas y agencias. ",
+        "release_date": "Abril 2025",
+        "developer": "Talecast Inc..",
+        "main_model": "Utiliza IA avanzada para transcripción, traducción context-aware y generación de voz para doblaje.",
+        "pricing_plans": "No disponible",
+        "license": "Propietaria.",
+        "security_privacy": "No disponible",
+        "integration": "Herramienta web independiente; no se menciona integración con otros ecosistemas o APIs externas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://addsubtitle.ai/add-subtitle"
+        },
+        {
+          "source_url": "https://www.saasworthy.com/product/addsubtitle-ai"
+        }
+      ]
+    },
+    "1083": {
+      "app": {
+        "id": "1083",
+        "name": "AdsRapido",
+        "url": "https://www.adsrapido.com/",
+        "short_description": "Analice las estrategias publicitarias de la competencia en segundos con informes impulsados por IA adaptados a sus necesidades.",
+        "category": "Marketing",
+        "main_functionality": "Extrae anuncios de la Ad Library de Meta, analiza imágenes, vídeos y textos, identifica elementos visuales exitosos, mensajes clave, tendencias creativas, audiencias, aumento de rendimiento, y produce reportes personalizables.",
+        "tags": "#AIads #CompetitiveIntelligence #AdAnalysis #MetaAds #PayAsYouGo\n\n",
+        "logo_filename": "id_1083_adsrapido",
+        "what_is": "Herramienta IA que permite evaluar rápidamente las estrategias publicitarias de competidores mediante análisis de anuncios activos de Meta en un formato estructurado y accionable. ",
+        "purpose": "Para comprender qué funciona en la publicidad de la competencia, ahorrar tiempo en análisis manual, mejorar la creación de campañas, y optimizar recursos mediante inteligencia competitiva sin suscripción fija. ",
+        "use_cases": "Scraping de anuncios (hasta 1,000) desde Meta Ad Library\n\nDetección de patrones visuales, mensajes emocionales, formatos ganadores\n\nGeneración de reportes detallados para creación rápida de briefs o nuevos anuncios\n\nPago flexible: pay‑as‑you‑go, sin suscripciones ",
+        "main_advantages": "Ahorro significativo de tiempo (antes manual era ~20 h/semana)\n\nReportes rápidos, accionables y libres de sesgos\n\nModelo de tarificación flexible que evita fatiga de suscripción\n\nApto para agencias y marcas sin requerir entrenamiento adicional",
+        "long_description": "AdsRapido es una solución web que combina inteligencia artificial y visión por computadora para analizar de forma rápida y precisa anuncios activos en Meta. Extrae texto, imágenes y videos de campañas públicas, descompone aspectos creativos y estratégicos, y genera reportes personalizados que ayudan a diseñar campañas más efectivas. ",
+        "release_date": "No disponible",
+        "developer": "AdsRapido (posiblemente parte de EOmatic‑OÜ, según pie de página del sitio)",
+        "main_model": "No disponible",
+        "pricing_plans": "Gratis: permite analizar hasta 25 anuncios sin necesidad de tarjeta \n\nPago por uso (pay-as-you-go): ~$5 por cada 100 anuncios analizados \n\nPlanes personalizados para grandes volúmenes (por ejemplo, 1,000 anuncios) ",
+        "license": "Propietaria.",
+        "security_privacy": "No disponible",
+        "integration": "Se integra directamente con Facebook Ads / Meta Ads Manager para extracción de anuncios."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.adsrapido.com/"
+        },
+        {
+          "source_url": "https://slashdot.org/software/p/AdsRapido/"
+        },
+        {
+          "source_url": "https://adsrapido.tenereteam.com/"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/compare/AdsRapido-vs-WLSpy"
+        },
+        {
+          "source_url": "https://www.toolify.ai/compare/partly-ai-vs-adsrapido"
+        },
+        {
+          "source_url": "https://topai.tools/alternatives/adsrapido"
+        }
+      ]
+    },
+    "1157": {
+      "app": {
+        "id": "1157",
+        "name": "Abacus",
+        "url": "https://abacus.ai/",
+        "short_description": "Cree e integre soluciones de IA en aplicaciones.",
+        "category": "Automatización",
+        "main_functionality": "Proporciona un asistente de IA que crea y opera sistemas de IA completos —desde agentes conversacionales (ChatLLM, DeepAgent)—, hasta pipelines de ML, visión AI, forecasting, optimización y modelado estructurado.",
+        "tags": "#AIAssistant #MLOps #Forecasting #VisiónAI #Optimización #AIWorkflows #ChatLLM",
+        "logo_filename": "id_1157_abacus",
+        "what_is": "Es una plataforma SaaS de inteligencia artificial que automatiza el desarrollo y despliegue de modelos de ML y agentes generativos. Permite a empresas construir sistemas de IA completos sin requerir un equipo de científicos de datos.",
+        "purpose": "Facilita la creación de soluciones de IA aplicadas como forecasting, clasificación, agentes conversacionales, análisis de documentos, optimización de procesos y visión computacional, entre otros.",
+        "use_cases": "Forecasting de demanda y planificación financiera \n\nAgentes conversacionales que responden en lenguaje natural o convierten consultas en SQL \n\nDetección de anomalías y optimización de campañas de marketing y precios",
+        "main_advantages": "Permite construir e implementar IA a escala sin ensamblar manualmente soluciones complejas. \n\nIncluye agentes inteligentes (ChatLLM, DeepAgent) capaces de ejecutar tareas complejas. \n\nOfrece capacidades robustas en forecasting, visión computacional, optimización de presupuestos y automatización. \n\nPermite investigación avanzada (contexto extendido, benchmarking, modelos open‑source) y contribuciones open‑source.",
+        "long_description": "Abacus.AI ofrece una plataforma SaaS integral que permite a organizaciones construir, desplegar y operar soluciones de IA completas: desde agentes conversacionales (LLM), visión AI, forecasting, optimización, hasta pipelines automatizados de ML. Puedes configurar flujos de trabajo, conectar herramientas externas, ejecutar código, y monitorear modelos en producción. Además, contribuye a la investigación en IA con modelos open‑source, benchmarking y avances en razonamiento y contexto extendido.",
+        "release_date": "No disponible",
+        "developer": "Abacus.AI Inc. (SaaS en AWS)",
+        "main_model": "Incluye agentes AI (DeepAgent), modelos propietarios como Dracarys (tuned LLaMA-3.1 y Qwen 72B), Smaug, Giraffe (contexto extendido 32k), TheProfessor, Liberated-Qwen, y benchmarks LiveBench.",
+        "pricing_plans": "No disponible",
+        "license": "Plataforma propietaria SaaS; sus contribuciones open‑source están bajo licencias abiertas.",
+        "security_privacy": "No disponible",
+        "integration": "Soporta herramientas externas mediante “Tools” (Python Functions y Connectors como Jira, Confluence), lo que permite extender funcionalidades y automatizar flujos."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Chat financiero inteligente",
+          "description": "Una institución financiera adoptó Abacus.AI para permitir a sus equipos consultar reportes financieros complejos en lenguaje natural. El sistema traduce preguntas abiertas en SQL y genera dashboards interactivos al instante.\nResultados: 95 % de precisión en las respuestas, reducción del 35 % en los tiempos de resolución de consultas y 20 % de ahorro en gastos operativos.",
+          "url": "https://abacus.ai/casestudies"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://abacus.ai/"
+        },
+        {
+          "source_url": "https://abacus.ai/casestudies"
+        },
+        {
+          "source_url": "https://digitalsoftwarelabs.com/ai-reviews/abacus-ai-explained-features-use-cases-and-is-it-worth-it/"
+        }
+      ]
+    },
+    "1162": {
+      "app": {
+        "id": "1162",
+        "name": " Instaweb",
+        "url": "https://instawebai.com/",
+        "short_description": "Pasa de la idea al sitio web en vivo en segundos.",
+        "category": "Plataformas sin código",
+        "main_functionality": "A partir de una descripción textual, crea automáticamente diseño, contenido, imágenes y estructura web; permite editar con arrastrar y soltar, personalizar componentes, publicar con dominio y hosting, y exportar código si deseas.",
+        "tags": "#WebAI #WebBuilder #NoCode #EditorVisual #ContenidoIA #ImágenesIA #SEOauto #HostingIntegrado",
+        "logo_filename": "id_1162_instaweb",
+        "what_is": "Una plataforma SaaS de creación rápida de sitios web impulsada por IA; diseñada tanto para principiantes como para usuarios avanzados, combina generación automática y edición personalizada.",
+        "purpose": "Para lanzar páginas web profesionales rápidamente —como portafolios, tiendas o presentaciones— sin conocimiento técnico. Ideal para emprendedores, agencias y pequeñas empresas.",
+        "use_cases": "Crear sitios web para negocios locales como panaderías, spas, agencias digitales o mobiliario. \n\nGenerar componentes como formularios, tablas de precios o secciones de testimonios mediante IA. \n\nPublicar instantáneamente, con dominio propio, hosting seguro (SSL) y SEO optimizado.",
+        "main_advantages": "Extremadamente rápido y accesible (sitios listos en segundos). \n\nNo se requieren habilidades técnicas; interfaz intuitiva. \n\nTodo en uno: diseño, hosting, SEO, dominio y exportación de código. \n\nFlexibilidad para usuarios avanzados mediante editor de código integrado.",
+        "long_description": "InstawebAI transforma descripciones simples en sitios web completos y modernos. Cuenta con herramientas como editor visual con drag-and-drop, IA para generar contenido SEO, imágenes, componentes web y generación automática de páginas adicionales. Ofrece hosting seguro con SSL, posibilidad de conectar dominio o usar subdominio gratuito, editor de código para personalizaciones, exportación de todo el sitio, formularios para captación de leads y optimización SEO automática.",
+        "release_date": "Junio 2025",
+        "developer": "Operado por Gakim Digital, empresa con sede en Nairobi, Kenya.",
+        "main_model": "No disponible",
+        "pricing_plans": "Basic: $9/mes – 1 sitio, dominio, SSL, 1 500 créditos IA, hasta 4 páginas, editor visual y SEO básico.\n\nProfessional: $25/mes – incluye lo anterior, 5 000 créditos IA, páginas ilimitadas, blog, e-commerce y descarga de código.\n\nAgency: $49/mes – hasta 10 sitios, 50 000 IA créditos, almacenamiento 100 GB, integraciones avanzadas y soporte prioritario.",
+        "license": "Plataforma SaaS propietaria; el contenido generado es propiedad del usuario, mientras que los modelos y plantillas son de la plataforma.",
+        "security_privacy": "Incluye hosting con SSL, uptime garantizado del 99.9%, cifrado y protección estándar de nivel empresarial.",
+        "integration": "Funcionalidades nativas como formularios de captura de leads, blog y e-commerce. Permite edición con código personalizado; no hay APIs públicas documentadas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://instawebai.com/"
+        },
+        {
+          "source_url": "https://search.topy.ai/idea/brainstorm/instaweb-ai-v2-instantly-create-seo-optimized-websites-with-ai.5bf92eb9-2734-41ac-b941-6a554e7e2067"
+        },
+        {
+          "source_url": "https://automateed.com/instawebai-review/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/posts/instawebai"
+        }
+      ]
+    },
+    "1251": {
+      "app": {
+        "id": "1251",
+        "name": "Ada.im",
+        "url": "https://ada.im/",
+        "short_description": "Automatiza tareas de datos, acelera el análisis y evita el trabajo manual de un solo clic.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Generación automática de dashboards interactivos y visualizaciones a partir de datos tabulares, utilizando un asistente de IA que responde a consultas en lenguaje natural para facilitar la interpretación de métricas, análisis y tendencias.",
+        "tags": "#AIAnalytics #DataDashboard #BusinessIntelligence #NoCode #AutoVisualization",
+        "logo_filename": "id_1251_adamai",
+        "what_is": "Ada.im es una plataforma de inteligencia artificial que actúa como un analista de datos automatizado. Permite a los usuarios generar dashboards visuales y responder preguntas sobre sus datos mediante lenguaje natural. Ada se conecta a hojas de cálculo, bases de datos y otras fuentes para analizar e interpretar datos de manera conversacional, eliminando la necesidad de conocimientos técnicos en análisis o visualización.",
+        "purpose": "Sirve para facilitar la comprensión de datos mediante la generación automática de gráficos, tablas y dashboards interactivos a partir de preguntas escritas en lenguaje natural. Ayuda a equipos no técnicos a obtener insights a partir de grandes volúmenes de información sin depender de analistas de datos o herramientas complejas.",
+        "use_cases": "Visualización rápida de KPIs y métricas clave en startups y pymes.\n\nAnálisis de datos financieros sin conocimientos de Excel o SQL.\n\nSeguimiento de campañas de marketing mediante dashboards dinámicos.\n\nSoporte para equipos de ventas y operaciones con reportes automáticos.\n\nExploración de grandes bases de datos para investigación académica o empresarial.",
+        "main_advantages": "Interacción por lenguaje natural: permite consultar y analizar datos como si se hablara con un analista humano.\n\nAutomatización de dashboards: evita tener que construir gráficos manualmente o programar consultas.\n\nIntegraciones rápidas: puede conectarse con Google Sheets, Excel, CSV y otras fuentes.\n\nAhorro de tiempo: permite generar reportes en segundos en lugar de horas.\n\nAsequible y sin curva técnica: accesible para usuarios sin conocimientos en ciencia de datos o programación.\n\nVisualizaciones impactantes: genera gráficos limpios, modernos y exportables.\n\nAsistente conversacional con IA: adapta las respuestas según el tipo de pregunta y mejora los insights ofrecidos.",
+        "long_description": "Ada.im es una herramienta de análisis de datos impulsada por inteligencia artificial que transforma hojas de cálculo y archivos de datos en dashboards visuales y consultables por lenguaje natural. El usuario simplemente conecta sus fuentes de datos (por ejemplo, un archivo CSV, Google Sheets o Excel) y escribe lo que necesita saber (por ejemplo, \"muéstrame las ventas por mes en 2023\"). La IA procesa la información, genera gráficos, tablas y respuestas explicativas en segundos. Ada.im elimina la necesidad de conocimientos en programación, BI o fórmulas complejas y está orientada a equipos que requieren tomar decisiones rápidas con base en datos. Adicionalmente, permite exportar visualizaciones, integrarse con herramientas comunes y manejar múltiples conjuntos de datos en simultáneo.",
+        "release_date": "2024",
+        "developer": "ChartGen AI",
+        "main_model": "No disponible",
+        "pricing_plans": "No disponible",
+        "license": "Propietaria.",
+        "security_privacy": "Recopilan datos como nombre, email, contenido cargado y metadatos de uso.\n\nEl almacenamiento de datos se realiza en servidores seguros.\n\nPueden usar datos para mejorar el rendimiento del modelo.\n\nNo comparten datos personales con terceros no autorizados.\n\nLos usuarios pueden solicitar la eliminación de datos.",
+        "integration": "Google Sheets\n\nArchivos CSV y Excel\n\nSe menciona compatibilidad con otras fuentes de datos bajo desarrollo"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://ada.im/"
+        },
+        {
+          "source_url": "https://ada.im/integration"
+        },
+        {
+          "source_url": "https://ada.im/docs/policy"
+        },
+        {
+          "source_url": "https://www.producthunt.com/posts/ada-im/comments"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/ada-im"
+        }
+      ]
+    },
+    "1266": {
+      "app": {
+        "id": "1266",
+        "name": "Actionbook",
+        "url": "https://actionbook.dev/",
+        "short_description": "Haz que los agentes actúen 10× más rápido con un ahorro del 100× de tokens.",
+        "category": "Automatización",
+        "main_functionality": "Proveer a agentes de inteligencia artificial un motor de navegación web basado en acciones estructuradas y conocimiento del DOM, reduciendo errores y aumentando la velocidad de interacción con sitios web.",
+        "tags": "#Automatización #AgentesIA #WebBrowsing #RPA #DeveloperTools",
+        "logo_filename": "id_1266_actionbook",
+        "what_is": "Actionbook es un “Browser Action Engine” diseñado para agentes de inteligencia artificial. Proporciona manuales de acciones y estructura DOM actualizada de los sitios web, permitiendo que los agentes interactúen con páginas web de forma directa, rápida y confiable, sin depender de suposiciones o heurísticas frágiles.",
+        "purpose": "Sirve para mejorar significativamente la capacidad de los agentes de IA para navegar, interactuar y ejecutar acciones en sitios web, haciendo que estos procesos sean más rápidos, estables y resistentes a cambios en la interfaz de las páginas.",
+        "use_cases": "Automatización de navegación web para agentes de IA\n\nEjecución confiable de flujos en sitios web complejos\n\nIntegración con agentes que requieren interacción directa con interfaces web\n\nReducción de errores en scraping y automatización basada en UI\n\nSoporte para agentes autónomos que operan múltiples sitios",
+        "main_advantages": "Navegación hasta 10× más rápida para agentes de IA (según el sitio)\n\nMayor resiliencia frente a cambios en el DOM\n\nEliminación de suposiciones al interactuar con sitios web\n\nEnfoque específico en agentes autónomos\n\nOrientado a desarrolladores y arquitecturas de agentes\n\nAcceso gratuito inicial y disponibilidad en GitHub",
+        "long_description": "Actionbook es una plataforma enfocada en habilitar agentes de inteligencia artificial para interactuar con la web de manera confiable. Su propuesta se basa en proporcionar manuales de acciones actualizados y una representación clara de la estructura DOM de los sitios, permitiendo que los agentes ejecuten tareas web sin depender de técnicas frágiles. Está orientado a desarrolladores que construyen agentes autónomos, sistemas de automatización y flujos avanzados de interacción web.",
+        "release_date": "No disponible",
+        "developer": "Actionbook",
+        "main_model": "No disponible",
+        "pricing_plans": "Acceso gratuito inicial (“Get Started Free”)\n\nPosible modelo de acceso futuro o planes avanzados: No disponible",
+        "license": "No disponible",
+        "security_privacy": "No disponible",
+        "integration": "Integración con agentes de IA personalizados\n\nUso en entornos de desarrollo\n\nAcceso mediante código y repositorio en GitHub"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://actionbook.dev/"
+        }
+      ]
+    },
+    "1348": {
+      "app": {
+        "id": "1348",
+        "name": "Adsturbo",
+        "url": "https://adsturbo.ai/?",
+        "short_description": "Crea instantáneamente anuncios de vídeo estilo UGC a partir de cualquier imagen de producto.",
+        "category": "Publicidad",
+        "main_functionality": "Crear y clonar anuncios en video (short-form) desde URL/video, generar hooks y promos, traducir/localizar, sincronizar labios, upscaling, análisis y optimización; opera con un motor “multi-agent” y modelo de cobro por créditos.",
+        "tags": "#Publicidad #Marketing #GeneraciónDeVideo #Automatización #RedesSociales #Ecommerce #AIAds #VideoShorts",
+        "logo_filename": "id_1348_adsturbo",
+        "what_is": "Plataforma SaaS de generación de anuncios en video con IA orientada a e-commerce, marketing de performance y equipos de crecimiento. Usa un motor de IA multi-agente para producir anuncios cortos de alto rendimiento desde una URL de producto o un video existente, y automatiza también localización y análisis.",
+        "purpose": "Para reducir el esfuerzo y costo de producción creativa, acelerar el ciclo de testeo A/B de creatividades y apoyar la mejora del ROAS mediante generación rápida de múltiples variaciones y optimizaciones.",
+        "use_cases": "Convertir una URL de producto en un anuncio en video “ready-to-run” (URL to Video).\n\nClonar anuncios ganadores y producir variaciones (Ad Clone).\n\nCrear promos cortas y hooks (Promo Video / Hook Maker).\n\nLocalizar anuncios a otros idiomas (Video Translation) y lip sync de voz con talento en pantalla.\n\nMejorar calidad (Video Upscaling), cambiar personaje (Character Swap), analizar video y remover watermarks.",
+        "main_advantages": "Velocidad de producción: generación rápida de anuncios cortos desde insumos simples (URL o video).\n\nEscalamiento de tests creativos: facilita producir muchas variaciones (clonado, hooks, promos).\n\nLocalización integrada: traducción de video y soporte a producción multilingüe.\n\nFlujo “end-to-end” creativo: generación + optimización/análisis dentro de la misma plataforma.",
+        "long_description": "AdsTurbo es una plataforma de generación de anuncios en video para equipos de performance y e-commerce. Se posiciona como un sistema con motor multi-agente que automatiza la creación de anuncios cortos desde URLs de producto o videos existentes. Incluye funciones como clonado de creatividades (Ad Clone), generación de promos y hooks, conversión URL-a-video, lip sync, traducción/localización, upscaling, análisis del video, cambio de personaje y remoción de watermarks; y utiliza un esquema de uso basado en créditos.",
+        "release_date": "2025",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "Free: 300 créditos mensuales; acceso de prueba/salida con watermark (según página para LLMs/llms.txt).\n\nCreator: 1200 créditos mensuales; salida HD sin watermark; derechos comerciales (créditos según página para LLMs/llms.txt).\n\nGrowth: 3300 créditos mensuales; prioridad en cola; herramientas avanzadas/bulk (créditos según página para LLMs/llms.txt).\n\nBusiness: 10500 créditos mensuales; API/team/SLA/soporte prioritario (créditos según página para LLMs/llms.txt).\n\nPrecios en USD por plan: No disponibles de forma verificable en las fuentes accesibles con detalle completo (la página de pricing existe, pero no se pudo extraer el desglose íntegro desde la captura/fuente consultada).",
+        "license": "Propietario / SaaS",
+        "security_privacy": "Existe una Privacy Policy pública; describe recolección/uso de datos del sitio y el uso de proveedores de servicio (p. ej., procesamiento de pagos, hosting en la nube, etc.). Detalles adicionales no fueron recuperables en su totalidad desde la extracción disponible.",
+        "integration": "API: el material público menciona “API access” en el plan Business. No se encontraron listados oficiales de integraciones específicas (p. ej., Shopify, Meta Ads, etc.) en las fuentes consultadas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://adsturbo.ai/?"
+        },
+        {
+          "source_url": "https://www.scamadviser.com/check-website-old/adsturbo.ai"
+        },
+        {
+          "source_url": "https://adsturbo.ai/pricing"
+        },
+        {
+          "source_url": "https://adsturbo.ai/privacy-policy"
+        }
+      ]
+    },
+    "1378": {
+      "app": {
+        "id": "1378",
+        "name": "Accomplish It",
+        "url": "https://www.goaccomplishit.com/",
+        "short_description": "Convierte tus logros semanales en documentos y oportunidades profesionales.",
+        "category": "Productividad",
+        "main_functionality": "Capturar logros (por email o conectando cuentas), organizarlos y reescribirlos con IA para transformarlos en artefactos profesionales (CV, LinkedIn, documentos) y una línea de tiempo compartible; incluye benchmarking por rol.",
+        "tags": "#Productividad #GestiónDeCarrera #Redacción #Resúmenes #Automatización #Integraciones #Documentación",
+        "logo_filename": "id_1378_accomplishit",
+        "what_is": "Una plataforma de “documentación profesional” enfocada en registrar y convertir tus logros laborales en contenido listo para usar en documentos de carrera. El flujo se basa en prompts por correo (semanal/mensual) o integración con herramientas (ej., GitHub/Jira) para capturar actividades y transformarlas en declaraciones profesionales mediante reescritura con IA.",
+        "purpose": "Para evitar reconstruir logros al final del año o antes de una entrevista/revisión: mantiene un registro continuo, los organiza por impacto/rol/habilidad y ayuda a exportarlos como CV, perfil tipo LinkedIn y otros “artefactos” de carrera (p. ej., documentos para 1:1).",
+        "use_cases": "Responder al correo de “check-in” (semanal/mensual/trimestral) para guardar avances y que el sistema los reescriba en formato profesional.\n\nConectar cuentas (mencionan ejemplos como GitHub y Jira) para capturar trabajo realizado.\n\nGenerar rápidamente versiones de CV/plantillas y otros documentos de carrera a partir del historial de logros.\n\nCrear una línea de tiempo compartible del crecimiento profesional.",
+        "main_advantages": "Captura sin fricción: registrar logros por email sin tener que “usar otra app” activamente (según el enfoque descrito).\n\nReescritura profesional con IA: convierte notas “en bruto” en enunciados más pulidos (tipo CV).\n\nOrganización y trazabilidad: seguimiento/organización/categorización de hitos para mantener un historial consultable.\n\nSalida a documentos: transforma el registro en CV/perfil/artefactos exportables y una línea de tiempo compartible.",
+        "long_description": "Permite capturar logros mediante integración de cuentas (ejemplos mencionados: GitHub, Jira) o respondiendo a un correo periódico. La IA registra, organiza y categoriza los hitos y los reescribe para convertirlos en enunciados “resume-worthy”. A partir de ese historial, genera/compila artefactos de carrera (como CV, perfiles y documentos para 1:1), además de una línea de tiempo compartible. También menciona benchmarking de logros por rol.",
+        "release_date": "No disponible",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "Free Trial (pago por exportación): USD $4.99 por export; incluye “basic achievement tracking”, “limited AI rewrites”, plantillas de CV y exportaciones de CV solo texto.\n\nPremium Plan: USD $89.95 / año (billed annually); incluye tracking detallado, reescrituras profesionales con IA, timeline/artefactos compartibles, exportación ilimitada de documentos y benchmarking por rol.",
+        "license": "Propietario / SaaS",
+        "security_privacy": "No disponible",
+        "integration": "Conexión de cuentas (se dan ejemplos como GitHub y Jira) y captura por correo electrónico (check-ins periódicos). No se encontró una lista pública completa de integraciones."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.goaccomplishit.com/"
+        },
+        {
+          "source_url": "https://huzzler.so/products/BHeMM6z8mZ/accomplish-it?utm_campaign=badge&utm_medium=badge&utm_source=huzzler_product_website"
+        },
+        {
+          "source_url": "https://startupfa.me/s/accomplish-it"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/accomplish-it"
+        }
+      ]
+    },
+    "1402": {
+      "app": {
+        "id": "1402",
+        "name": "Adaptive",
+        "url": "https://adaptive.ai/",
+        "short_description": "Conecta tus herramientas, ponle un objetivo y deja que los agentes se encarguen del resto.",
+        "category": "Automatización",
+        "main_functionality": "Crear y ejecutar flujos de trabajo con agentes de IA: el usuario describe el proceso en texto, conecta herramientas con un clic y el agente opera end-to-end (incluye scheduling, webhooks, monitoreo y alertas).",
+        "tags": "#Automatización #AgentesIA #Productividad #Integraciones #Workflows #NoCode #Webhooks #Scheduling",
+        "logo_filename": "id_1402_adaptiveai",
+        "what_is": "Una plataforma SaaS de “AI agents” que trabaja sobre un entorno de cómputo y se integra con aplicaciones populares para construir y mantener automatizaciones sin necesidad de programar.",
+        "purpose": "Para delegar tareas repetitivas o multi-paso (p. ej., mover datos entre herramientas, generar reportes, enviar correos, actualizar documentos, monitorear señales) conectando apps y describiendo reglas en lenguaje natural.",
+        "use_cases": "Sincronización de tareas entre herramientas (p. ej., Asana/Todoist/Notion) con reglas y prioridades.\n\nSeguimiento y categorización automática de gastos conectando cuentas vía Plaid y generando reportes.\n\nReportes ejecutivos diarios con consolidación de señales y pendientes.\n\nAnalítica automática de YouTube (métricas diarias + reporte semanal programado).",
+        "main_advantages": "No-code real: se define el flujo “en inglés/plain text” y la plataforma construye la automatización.\n\nIntegraciones directas sin configuración compleja: conexión “one-click” con herramientas comunes (sin API keys según su propuesta).\n\nOperación 24/7 + ajuste continuo: el agente corre el sistema y puedes cambiarlo indicando qué modificar.\n\nBaterías incluidas: hosting, almacenamiento, autenticación, controles de acceso, monitoreo, alertas, webhooks, scheduling y pagos.",
+        "long_description": "Adaptive se presenta como “una IA que trabaja en una computadora”, orientada a automatizar trabajo conectando apps (correo, chat, documentos, hojas de cálculo, calendarios, etc.). El flujo declarado es: (1) describir lo que necesitas en lenguaje natural, (2) conectar herramientas con un clic, y (3) dejar que el agente ejecute el proceso end-to-end y lo mantenga activo. Además, promueve componentes “batteries included” como hosting, almacenamiento, autenticación, controles de acceso, monitoreo/alertas, webhooks, automatización/scheduling y pagos.",
+        "release_date": "Noviembre 2025",
+        "developer": "Adaptive Computer, Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "Free: $0/mes (créditos de registro + créditos diarios con tope mensual; almacenamiento; “computer uptime” consume créditos).\nPersonal: $20/mes (créditos mensuales, almacenamiento mayor; uptime incluido).\nPro: $100/mes (más créditos/almacenamiento; uptime incluido).\nEnterprise: “Contact us” (detalles no publicados en esa página).",
+        "license": "No disponible",
+        "security_privacy": "La política de privacidad indica recopilación de datos personales, datos de uso y contenido generado por usuarios; uso para prestación/mejora del servicio, comunicación, pagos/fraude y cumplimiento legal. Declara que no venden información personal, y que comparten con proveedores para operar la plataforma. Menciona salvaguardas (HTTPS/TLS, cifrado en reposo en almacenamiento cloud, controles de acceso por rol/app, monitoreo con cuidado de no registrar contenido sensible) y prácticas al conectar cuentas de terceros (mínimos permisos/scopes necesarios).",
+        "integration": "Página de integraciones lista conectores/plantillas para: GitHub, Gmail, Google Calendar, Google Drive, Google Sheets, Slack, Plaid, Notion, Twitter/X, LinkedIn, Figma, Whoop, Square; además menciona “hundreds of additional tools” y muestra ejemplos como HubSpot, QuickBooks, Stripe, Mailchimp, Zendesk, Xero, Salesforce, Todoist, YNAB, Strava, Splitwise, Toggl, Linear, Sentry, Mixpanel, Ahrefs, SEMrush, Typeform."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://adaptive.ai/"
+        },
+        {
+          "source_url": "https://adaptive.ai/usecases"
+        },
+        {
+          "source_url": "https://adaptive.ai/integrations"
+        },
+        {
+          "source_url": "https://adaptive.ai/pricing"
+        },
+        {
+          "source_url": "https://adaptive.ai/blog"
+        },
+        {
+          "source_url": "https://adaptive.ai/legal/privacy"
+        }
+      ]
+    },
+    "1431": {
+      "app": {
+        "id": "1431",
+        "name": "AgentField",
+        "url": "https://github.com/Agent-Field/agentfield",
+        "short_description": "Plano de control de código abierto que hace que los agentes de IA sean llamables en toda tu pila—frontends, backends, otros agentes y trabajos cron como cualquier API.",
+        "category": "Automatización",
+        "main_functionality": "Convertir lógica de agentes (Python/TypeScript/Go) en servicios listos para producción: endpoints REST, coordinación/ejecución asíncrona, “reasoners” (decisiones con LLM), “skills” (herramientas determinísticas), controles de gobernanza y audit trails verificables.",
+        "tags": "#Automatización #AgentesIA #Backend #Orquestación #Observabilidad #Gobernanza #Auditoría #OpenSource",
+        "logo_filename": "id_1431_agentfieldai",
+        "what_is": "Es una plataforma de infraestructura para sistemas de agentes de IA (“AI backend”) que funciona como control plane: permite ejecutar agentes como servicios gobernados (descubribles, observables y auditables), con identidad criptográfica y decisiones trazables. Se distribuye como software open source (Apache 2.0).",
+        "purpose": "Para llevar agentes de IA a producción con estándares de backend: exponer funciones como APIs, aplicar gobernanza/seguridad, registrar evidencia de decisiones, controlar costos y operar despliegues (incluyendo opciones en plataformas administradas).",
+        "use_cases": "Crear agentes como endpoints (p. ej., procesamiento de reclamaciones/“claims-processor”) con salidas tipadas y decisiones basadas en LLM.\nIntegrar “reasoners” (decisión con IA) + “skills” (acciones determinísticas) para “autonomía guiada”.\nOperar flujos de ejecución prolongada y asíncrona, con trazabilidad/auditoría.\nUsar múltiples proveedores/modelos (OpenAI, Anthropic, Google, etc.) con fallbacks y control de costos por llamada.\nDesplegar en plataformas tipo Railway/Render/Heroku como servicios persistentes HTTP.",
+        "main_advantages": "Enfoque “backend-first”: trata agentes como servicios con primitivas de producción (endpoints, gobernanza, observabilidad).\nTrazabilidad y auditoría: decisiones y ejecución orientadas a ser verificables/seguibles.\nFlexibilidad de modelos: compatible con distintos proveedores y con cadenas de fallback + límites de costo.\nEcosistema “Built on AgentField”: el sitio lista proyectos/ejemplos construidos sobre la plataforma (p. ej., auditoría de seguridad, flotas de ingeniería, etc.).",
+        "long_description": "AgentField se posiciona como “AI backend” y control plane para agentes: convierte funciones en endpoints, ofrece primitivas de agentes/razonadores/herramientas (“skills”), soporta SDKs en Python/TypeScript/Go y busca operar con gobernanza (autorización/identidad), observabilidad, ejecución asíncrona y trazabilidad (auditoría). Incluye guías de despliegue en plataformas administradas y controles de costo/modelos (p. ej., límites por llamada y fallback models).",
+        "release_date": "Diciembre 2025",
+        "developer": "AgentField (proyecto y marca; repositorio GitHub “Agent-Field”).",
+        "main_model": "No disponible",
+        "pricing_plans": "Software open source: núcleo bajo licencia Apache 2.0 (autoalojable).\nServicios comerciales: los Términos indican que pueden ofrecer servicios alojados, funciones “enterprise” y planes de soporte bajo acuerdos separados (sin precios públicos detallados en las fuentes revisadas).",
+        "license": "Apache License 2.0 (core open source).",
+        "security_privacy": "La Política de Privacidad describe recolección/uso de datos al usar el sitio/servicios (p. ej., información que el usuario proporciona, datos técnicos y analítica), y que aplica a website, software open source y servicios relacionados.",
+        "integration": "SDKs/lenguajes: Python, TypeScript y Go.\nIntegración con proveedores de modelos (mencionados en docs/features) y con herramientas de “coding agents” vía “Harness”.\nDespliegue guiado a plataformas (Railway/Render/Heroku, etc.) y patrones de operación como servicios persistentes."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://github.com/Agent-Field/agentfield"
+        }
+      ]
+    },
+    "1434": {
+      "app": {
+        "id": "1434",
+        "name": "AdsCreator",
+        "url": "https://www.adscreator.com/?",
+        "short_description": "Convierte las URLs de sitios web en anuncios que detienen el scroll.",
+        "category": "Publicidad",
+        "main_functionality": "Convertir una web en anuncios “on-brand” multi-formato: escaneo de URL → extracción de identidad de marca → generación de variantes → exportación/descarga para campañas.",
+        "tags": "#Publicidad #GeneraciónDeDiseño #Marketing #CreatividadesPublicitarias #MetaAds #GoogleAds #LinkedInAds #TikTokAds",
+        "logo_filename": "id_1434_adscreator",
+        "what_is": "Es una herramienta de generación de anuncios con IA que toma como entrada la URL de un sitio web, analiza elementos públicos (colores, tipografías/estilo, imágenes, copy y señales de marca) y genera creatividades publicitarias en distintos formatos.",
+        "purpose": "Para acelerar la producción y prueba de creatividades publicitarias consistentes con la marca (on-brand), reduciendo el trabajo manual de diseño y facilitando la generación de múltiples variantes por plataforma/formato para campañas de pago.",
+        "use_cases": "Generar anuncios desde la URL de una marca para Meta / Google / Stories (y según el sitio, también LinkedIn/TikTok) en minutos.\nCrear variantes para pruebas A/B (cambios de ángulo, layout y copy) manteniendo identidad visual.\nExtraer y guardar “brand presets/brand board” para reutilizar identidad en nuevas campañas.\nIntegrar generación de anuncios en flujos con MCP (Model Context Protocol) desde herramientas compatibles (p. ej., Claude Desktop, Cursor) mediante un servidor MCP.",
+        "main_advantages": "On-brand desde el inicio: bloquea/extrae señales de marca antes de generar layouts para evitar “drift” visual.\nEscala multi-formato: genera creatividades para feed, stories y display/social a partir de una misma dirección creativa.\nVelocidad para testing: permite pasar de URL a creatividades “listas para probar” rápidamente.\nIntegración en workflows de IA: soporte MCP con herramientas expuestas (extraer marca, generar anuncio, variantes, resize).",
+        "long_description": "Plataforma para generación de creatividades publicitarias desde una URL: analiza información pública del sitio para construir un perfil de marca (“brand DNA”: colores, logos/imaginería, tono y copy), y genera anuncios en múltiples formatos listos para descargar. Opera con sistema de créditos y ofrece herramientas para extracción de marca, generación de anuncios, generación de variantes y redimensionado por plataforma; además, publica guías y actualizaciones en su blog y ofrece integración vía MCP para usar la generación desde clientes compatibles.",
+        "release_date": "No disponible",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "Free trial: 7 días, incluye 10 generaciones de anuncios (requiere método de pago; auto-inicio de suscripción si no se cancela).\nStarter: USD $24/mes (facturado anual $288/año), 600 créditos, todos los formatos, soporte por email.\nCreator: USD $41/mes (facturado anual $492/año), 1,200 créditos, funciones avanzadas, guardar presets de marca, soporte prioritario.\nTeams: USD $83/mes (facturado anual $996/año), 3,000 créditos, generación en lote, colaboración de equipo, soporte dedicado.\nNota: El sitio menciona garantía de reembolso 7 días (“money-back guarantee”).",
+        "license": "Propietaria (SaaS).",
+        "security_privacy": "Cuenta: recopila nombre/email/foto (Google OAuth o email); no almacena contraseñas de proveedores OAuth.\nDatos del sitio: al enviar una URL, accede a información pública (colores, imágenes, logos, copy); no accede a áreas privadas/autenticadas.\nContenido generado: anuncios y assets se almacenan de forma segura y “permanecen como propiedad del usuario”; uso de datos agregados/anonimizados para mejorar el servicio.\nPagos: procesados por Stripe; no retienen número de tarjeta/CVV.\nTerceros: comparte datos con proveedores de IA (generación), Stripe (pagos), hosting y email según necesidad operativa; declara no vender información personal.\nRetención: datos de cuenta mientras esté activa; contenido generado hasta que el usuario lo elimine/cierre cuenta; eliminación de datos personales en ~30 días tras cierre (salvo obligaciones legales).",
+        "integration": "MCP Server: integración para generar anuncios desde herramientas compatibles con MCP (menciona Claude Desktop y Cursor), usando paquete @adscreator/mcp-server y API key.\nREST API: el blog indica disponibilidad de API para integración directa (además del MCP).\nPlataformas/formatos: soporta generación para Meta, Google Display, LinkedIn y TikTok, con formatos como feed/stories/carousel/banner (según parámetros descritos en el post)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.adscreator.com/?"
+        },
+        {
+          "source_url": "https://www.adscreator.com/#pricing"
+        },
+        {
+          "source_url": "https://www.adscreator.com/blog"
+        },
+        {
+          "source_url": "https://www.adscreator.com/privacy"
+        }
+      ]
+    },
+    "1447": {
+      "app": {
+        "id": "1447",
+        "name": "Adamigo.ai",
+        "url": "https://www.adamigo.ai/",
+        "short_description": "Plataforma con agentes de IA para gestionar y optimizar anuncios en Meta (Facebook/Instagram): recomienda y puede ejecutar acciones diarias, permite operar campañas por chat y facilita creación/lanzamiento de creativos y anuncios a escala.",
+        "category": "Publicidad",
+        "main_functionality": "Automatización del “media buying” en Meta: auditoría/diagnóstico, optimizaciones diarias (presupuesto, segmentación, anuncios), operación por chat, y lanzamiento masivo de anuncios/creativos desde un flujo unificado.",
+        "tags": "#Publicidad #Marketing #Automatizacion #MetaAds #FacebookAds #AgentesIA #OptimizaciónDeCampañas #Analitica",
+        "logo_filename": "id_1447_adamigoai",
+        "what_is": "Es una plataforma de automatización para anuncios de Meta que se presenta como un “AI media buyer” (agente de IA) capaz de analizar cuentas publicitarias, recomendar y aplicar optimizaciones, ayudar por chat con auditorías/diagnósticos y acelerar la creación/lanzamiento de campañas.",
+        "purpose": "Para mejorar el desempeño de campañas en Meta y reducir trabajo manual (análisis, ajustes y despliegues), permitiendo a equipos internos o agencias operar con mayor rapidez y consistencia.",
+        "use_cases": "Recibir recomendaciones diarias de optimización con explicación del “por qué” e impacto esperado.\nOperar la cuenta “como por mensaje”: auditorías, diagnósticos y lanzamiento de estrategias con prompts.\nCrear y lanzar creativos/copies “on-brand” y realizar iteraciones sobre piezas ganadoras.\nBulk launch de múltiples anuncios/ad sets en un solo flujo.\nMonitoreo/alertas de anomalías (producto standalone “AI Anomaly Detection”).",
+        "main_advantages": "Centraliza ejecución + análisis + optimización en un mismo entorno (acción agente + chat + lanzamiento masivo).\nOfrece planes con onboarding y account manager (Full Access) y opción más ligera (Signals) enfocada a optimización diaria.\nReporta adopción amplia (“Trusted by 700+ brands and agencies”, según su sitio).\nEn reseñas G2 se posiciona como agente de IA para Meta ads y menciona entrenamiento “sobre más de $300M en ad spend” (afirmación del perfil en G2).",
+        "long_description": "Suite para automatización de Meta ads con componentes principales: (1) AI Action Agent para recomendaciones/acciones de optimización (presupuesto, segmentación, anuncios, etc.), (2) AI Chat Agent para operar por texto (auditar, diagnosticar, crear estrategias y ejecutar), (3) capacidades de creación y lanzamiento de anuncios/creativos, y (4) Bulk Ad Launch para desplegar múltiples anuncios con soporte de formatos (single-image y video) y ajustes por placement. Además ofrece productos standalone como AI Anomaly Detection para monitoreo 24/7 y alertas.",
+        "release_date": "No disponible",
+        "developer": "AdAmigo.ai Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "Full Access: $349/mes por ad account (incluye “all features”, miembros ilimitados, ad spend ilimitado, account manager y onboarding).\nAdAmigo.ai Signals: $99/mes por ad account (2 optimizaciones IA/día, one-click apply, chat agent para preguntas analíticas).\nStandalones: Bulk Ad Launch $99/mes por ad account; AI Anomaly Detection: “Contact us” (precio no publicado).",
+        "license": "Propietaria (SaaS).",
+        "security_privacy": "La política incluye derechos GDPR/CCPA y mecanismos de solicitud de borrado (incluye plazo “dentro de 30 días”, sujeto a retenciones legales/operativas).\nLos Términos incluyen disclaimers sobre no garantizar resultados de campañas y disponibilidad de APIs.",
+        "integration": "Integración con el ecosistema de Meta ad accounts (por naturaleza del producto).\nEn un caso de éxito se menciona facilidad para lanzar creativos gracias a integración con Google Drive (según testimonio citado en el case study)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Cómo LayaSmarts escaló las compras en un 879% usando IA en lugar de contratar a un comprador de medios",
+          "description": "LayaSmarts escala compras 879% en ~30 días y mejora ROAS 223%\nLayaSmarts reporta, en un comparativo 14.12.2024–14.01.2025 vs. 30 días previos, Purchases +879%, Spend +465%, ROAS +223% y Conversion rate +219%; además menciona 146 acciones ejecutadas por IA y ~17.5 horas ahorradas.",
+          "url": "https://www.adamigo.ai/case-studies/how-layasmarts-scaled-purchases-by-879-using-ai-instead-of-hiring-a-media-buyer"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.adamigo.ai/"
+        },
+        {
+          "source_url": "https://www.adamigo.ai/pricing"
+        },
+        {
+          "source_url": "https://www.g2.com/sellers/adamigo-ai"
+        },
+        {
+          "source_url": "https://www.adamigo.ai/privacy-policy"
+        },
+        {
+          "source_url": "https://www.adamigo.ai/terms-of-service"
+        }
+      ]
+    },
+    "1488": {
+      "app": {
+        "id": "1488",
+        "name": "AfterSession",
+        "url": "https://aftersession.ai/",
+        "short_description": "Convierte tus propias notas o reflexiones posteriores a la sesión en notas clínicas estructuradas (p. ej., SOAP/DAP/BIRP) en minutos, sin grabar sesiones, con almacenamiento seguro y exportación.",
+        "category": "Productividad",
+        "main_functionality": "Generación de borradores de notas clínicas estructuradas a partir de texto o notas de voz breves hechas después de la sesión; soporta múltiples formatos (SOAP, DAP, BIRP, GIRP, PIE), permite prompts personalizados, almacena notas y exporta a PDF o texto.",
+        "tags": "#Productividad #Automatizacion #Redaccion #GeneracionDeTexto #Gestion #SaludMental #NotasClinicas #HIPAA",
+        "logo_filename": "id_1488_aftersessionai",
+        "what_is": "Es una herramienta de documentación clínica para profesionales de salud mental que transforma lo que el clínico escribe o dicta después de la sesión (resúmenes/reflexiones) en un borrador de nota estructurada. No graba sesiones y el clínico revisa/edita antes de guardar.",
+        "purpose": "Sirve para reducir la carga de documentación posterior a consulta y acelerar la elaboración de notas clínicas, manteniendo control del clínico sobre el contenido final y ofreciendo formatos estandarizados de notas.",
+        "use_cases": "Redactar notas SOAP/DAP/BIRP/GIRP/PIE a partir de un resumen escrito por el terapeuta.\nCrear borradores usando notas de voz breves posteriores a la sesión (sin grabación de sesión).\nEstandarizar documentación y exportarla a PDF o texto para integrarla al flujo de trabajo interno (copiar/pegar en EHR, archivo, etc.).\nUso en práctica individual o clínica con múltiples clínicos (precio por clínico adicional).",
+        "main_advantages": "Sin grabar sesiones: se enfoca en documentación post-sesión (lo que el clínico decide escribir/decir).\nControl clínico: los borradores permanecen como drafts hasta revisión/guardado explícito.\nSoporte de formatos clínicos comunes: SOAP, DAP, BIRP, GIRP, PIE.\nPrompts personalizados y almacenamiento/exportación: permite ajustar instrucciones y exportar notas.\nEnfoque de cumplimiento: menciona infraestructura HIPAA-eligible y BAA para planes de pago.",
+        "long_description": "AfterSession está diseñado para documentación clínica post-sesión: el clínico escribe o dicta un resumen/reflexión breve y la herramienta genera un borrador estructurado de nota. Soporta formatos como SOAP, DAP, BIRP, GIRP y PIE; ofrece prompts personalizados; almacena notas de forma segura; y permite exportación a PDF o texto. En cumplimiento, declara que no graba sesiones, que el audio (si se usa) se procesa para generar el borrador y se elimina después, y que los borradores no se finalizan sin revisión/guardado del clínico.",
+        "release_date": "Abril 2026",
+        "developer": "No disponible",
+        "main_model": "El sitio menciona uso de servicios HIPAA-eligible (incl. AWS) para transcripción/generación y que no usa datos del cliente para entrenar modelos públicos (no se especifica el modelo).",
+        "pricing_plans": "Founding Clinician: USD $29.95/mes (primer clínico) y $19.95/mes por cada clínico adicional; “rate locked in for life”; incluye generación ilimitada de notas, formatos (SOAP/DAP/BIRP/GIRP/PIE), texto o notas de voz breves, prompts personalizados, almacenamiento seguro, exportación a PDF/texto; BAA disponible en upgrade.\nStandard: USD $49.95/mes (primer clínico) y $29.95/mes por cada clínico adicional; incluye lo anterior; prueba gratis (sin tarjeta para iniciar).",
+        "license": "Propietaria (SaaS).",
+        "security_privacy": "No graba sesiones y procesa solo lo que el clínico proporciona post-sesión.\nAudio (si se usa) se procesa para generar el borrador y se elimina después del procesamiento; no se conserva audio crudo.\nCifrado en tránsito y en reposo, controles de acceso y principios de mínimo privilegio; infraestructura en nube “US-based, HIPAA-eligible”.\nBAA: se firma con suscriptores de pago.\nAnalytics/procesadores: menciona Amplitude (analítica) y Resend (email), con datos limitados (p. ej., eventos anonimizados o emails).\nNo venta de datos y no entrenamiento de modelos públicos con contenido del cliente (según política).",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aftersession.ai/"
+        },
+        {
+          "source_url": "https://aftersession.ai/about"
+        },
+        {
+          "source_url": "https://aftersession.ai/pricing"
+        },
+        {
+          "source_url": "https://aftersession.ai/privacy"
+        },
+        {
+          "source_url": "https://microlaunch.net/p/aftersession"
+        },
+        {
+          "source_url": "https://www.capterra.com/p/10038571/AfterSession/"
+        }
+      ]
+    },
+    "1560": {
+      "app": {
+        "id": "1560",
+        "name": "Addy AI",
+        "url": "https://addy.so",
+        "short_description": "Automatiza la gestión de correos electrónicos y tareas de comunicación con apoyo de IA.",
+        "category": "Productividad",
+        "main_functionality": "Gestión automatizada de correos electrónicos con inteligencia artificial.",
+        "tags": "#IA #Productividad #Email #AsistenteIA",
+        "logo_filename": "id_1560_addy_ai",
+        "what_is": "Addy AI es una herramienta que ayuda a gestionar correos electrónicos, priorizar mensajes y automatizar tareas de comunicación mediante inteligencia artificial.",
+        "purpose": "Automatizar la gestión de correos electrónicos y tareas de comunicación.",
+        "use_cases": "Gestión de email, priorización de mensajes, respuestas automáticas, productividad, comunicación profesional y seguimiento de correos.",
+        "main_advantages": "Reduce tiempo en gestión de correo; automatiza tareas repetitivas; puede mejorar la organización de mensajes.",
+        "long_description": "Addy AI es una herramienta de inteligencia artificial para gestionar correos electrónicos y tareas de comunicación. Puede ayudar a priorizar mensajes, generar respuestas y automatizar procesos relacionados con email.",
+        "release_date": "No especificada",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Consultar precio",
+        "license": "No especificada",
+        "security_privacy": "Consultar la política de privacidad del proveedor.",
+        "integration": "Disponible mediante plataforma web del proveedor."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://addy.so"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/addy-ai"
+        }
+      ]
+    },
+    "1582": {
+      "app": {
+        "id": "1582",
+        "name": "Agentic",
+        "url": "https://www.agentic.ai",
+        "short_description": "Integra agentes de IA en flujos de desarrollo de videojuegos y experiencias digitales.",
+        "category": "Automatización",
+        "main_functionality": "Integración de agentes de IA en desarrollo de videojuegos.",
+        "tags": "#IA #Automatización #AgentesIA #Gaming",
+        "logo_filename": "id_1582_agentic",
+        "what_is": "Agentic es una herramienta enfocada en integrar agentes de inteligencia artificial en procesos de desarrollo de videojuegos y experiencias interactivas.",
+        "purpose": "Integrar agentes de inteligencia artificial en procesos de desarrollo de videojuegos.",
+        "use_cases": "Desarrollo de videojuegos, agentes en juegos, simulaciones, experiencias interactivas, educación y diseño de gameplay.",
+        "main_advantages": "Apoya la creación de experiencias interactivas; facilita integrar agentes de IA; puede mejorar procesos de desarrollo y experimentación en gaming.",
+        "long_description": "Agentic es una herramienta orientada a integrar agentes de inteligencia artificial en videojuegos y experiencias digitales. Su enfoque puede apoyar procesos de desarrollo, diseño de interacciones, simulaciones y proyectos educativos o de entretenimiento.",
+        "release_date": "No especificada",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Consultar precio",
+        "license": "No especificada",
+        "security_privacy": "Consultar la política de privacidad del proveedor.",
+        "integration": "Disponible mediante plataforma web del proveedor."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.agentic.ai"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/agentic"
+        }
+      ]
+    },
+    "1648": {
+      "app": {
+        "id": "1648",
+        "name": "40h",
+        "url": "https://40h.io/",
+        "short_description": "Maximiza la productividad mediante programación de tareas, automatización y apoyo con IA.",
+        "category": "Productividad",
+        "main_functionality": "Programación de tareas y productividad asistida por IA.",
+        "tags": "#IA #Productividad #RecursosHumanos #Gestión",
+        "logo_filename": "id_1648_40h",
+        "what_is": "40h es una herramienta de productividad que ayuda a organizar tareas, programar actividades y automatizar procesos personales o profesionales con inteligencia artificial.",
+        "purpose": "Maximizar la productividad mediante programación de tareas y automatización con inteligencia artificial.",
+        "use_cases": "Gestión de tareas, programación de actividades, recursos humanos, productividad personal, organización laboral y automatización.",
+        "main_advantages": "Ayuda a organizar tareas; puede automatizar actividades repetitivas; facilita mejorar productividad personal o profesional.",
+        "long_description": "40h es una herramienta de productividad asistida por inteligencia artificial. Está orientada a programar tareas, organizar actividades y apoyar flujos de trabajo personales o profesionales.",
+        "release_date": "No disponible",
+        "developer": "40h.io",
+        "main_model": "No especificado",
+        "pricing_plans": "Freemium",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://40h.io/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/40h"
+        }
+      ]
+    },
+    "1764": {
+      "app": {
+        "id": "1764",
+        "name": "Advivi",
+        "url": "https://www.advivi.ai/",
+        "short_description": "Generador web de anuncios en video que convierte una idea (por chat) en creatividades listas para publicar en plataformas como TikTok, Meta y YouTube, con opción de edición en el navegador.",
+        "category": "Publicidad",
+        "main_functionality": "Crear anuncios en video “listos para campaña” a partir de una conversación: guía storyboard/escenas, genera el video con modelos de texto-a-video y permite editar y exportar desde el navegador.",
+        "tags": "#TextoAVídeo,#VideoAds,#MarketingDigital",
+        "logo_filename": "id_1764_advivi",
+        "what_is": "Es un “AI Ad Agent” en la web orientado a la creación de anuncios en video de alto desempeño. El flujo descrito incluye cargar una imagen/brief, chatear la idea, generar escenas con distintos motores y luego previsualizar/editar antes de exportar.",
+        "purpose": "Para producir variaciones de anuncios en video más rápido (p. ej., hooks/escenas/formatos) y acelerar pruebas creativas para campañas en social ads y ecommerce.",
+        "use_cases": "Variantes de anuncios para TikTok (pruebas de hooks y ritmo).\nCreatividades para Meta Ads (Facebook/Instagram) con variantes por escena.\nVideos para Amazon (listing/PDP y Sponsored Brand Video).\nVideos para Shopify (storefront + variantes para paid social).",
+        "main_advantages": "Flujo “idea → storyboard/escenas → generación → edición → exportación” en un solo lugar.\nEnfoque en iteración para performance marketing (variantes y pruebas creativas).\nUso de múltiples motores de generación (mencionan Sora, Veo, Kling).\nEditor en navegador (ajustes de texto, música, timing) sin software adicional, según el sitio.",
+        "long_description": "Plataforma web para crear anuncios en video mediante chat: el usuario sube un recurso (p. ej., imagen de producto) y describe la idea; la herramienta propone storyboard/escenas, genera clips con distintos motores de texto-a-video (mencionan Sora, Veo, Kling) y permite previsualizar, editar en línea (texto, música, duración/timing) y exportar para publicar en TikTok/Meta/YouTube y otros usos (incluye menciones a Amazon y Shopify).",
+        "release_date": "No disponible",
+        "developer": "Starii Innovation Pte. Ltd.",
+        "main_model": "Generación multi-modelo “powered by” Sora, Veo y Kling (entre otros).",
+        "pricing_plans": "Free: 100 créditos, sin watermark, 720p, acceso a modelos premium indicados.\n200 créditos: USD 4.95 (incluye 1080p y derechos de uso comercial).\n600 créditos: USD 14.95 (incluye exportación 4K y cola prioritaria).\n1500 créditos: USD 29.95 (4K y prioridad).\n3000 créditos: USD 59.95 (4K, máxima prioridad, soporte 24/7).",
+        "license": "Propietario / SaaS.",
+        "security_privacy": "Indican política de privacidad con recolección de datos de cuenta (email, device ID), datos de dispositivo/red, analítica, logs; tratamiento de fotos/videos para funciones de edición en la nube; y detalles de cookies. Señalan “Last Modified: 14 March 2026” y un contacto de DPO.",
+        "integration": "Menciona uso/flujo para plataformas (TikTok, Meta, YouTube, Amazon, Shopify) y en la política se menciona “Integration with ChatGPT or similar services” respecto a datos en textos de entrada/salida cuando se usan funciones integradas."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.advivi.ai/"
+        },
+        {
+          "source_url": "https://www.advivi.ai/pricing"
+        },
+        {
+          "source_url": "https://www.advivi.ai/blog"
+        },
+        {
+          "source_url": "https://www.advivi.ai/privacy-policy"
+        },
+        {
+          "source_url": "https://www.advivi.ai/terms-of-service"
+        }
+      ]
+    },
+    "1830": {
+      "app": {
+        "id": "1830",
+        "name": "Agentative",
+        "url": "https://agentative.ai/",
+        "short_description": "Agentative permite automatizar operaciones de ecommerce mediante agentes de IA, ayudando a gestionar tareas comerciales y procesos repetitivos.",
+        "category": "Automatización",
+        "main_functionality": "Automatización de operaciones ecommerce con agentes de IA",
+        "tags": "#Automatización #AgentesIA #Ecommerce",
+        "logo_filename": "id_1830_agentative",
+        "what_is": "Agentative es una herramienta de automatización orientada a operaciones de ecommerce. Permite usar agentes de inteligencia artificial para ejecutar tareas comerciales, apoyar procesos repetitivos y mejorar la operación de tiendas o negocios digitales.",
+        "purpose": "Automatizar operaciones de ecommerce mediante agentes de IA para reducir tareas repetitivas y mejorar procesos comerciales.",
+        "use_cases": "Operaciones ecommerce; automatización comercial; gestión de tareas repetitivas; agentes para tiendas digitales.",
+        "main_advantages": "Reduce tareas repetitivas; automatiza procesos ecommerce; usa agentes de IA; mejora eficiencia comercial.",
+        "long_description": "Agentative es una herramienta de automatización orientada a operaciones de ecommerce. Permite usar agentes de inteligencia artificial para ejecutar tareas comerciales, coordinar procesos repetitivos y apoyar la operación de tiendas o negocios digitales. Su valor está en reducir carga manual y mejorar la eficiencia de procesos ecommerce.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://agentative.ai/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/agentative-nzkahd"
+        }
+      ]
+    },
+    "1948": {
+      "app": {
+        "id": "1948",
+        "name": "Adspectre",
+        "url": "https://www.adspectre.ai/",
+        "short_description": "Adspectre automatiza marketing creativo para video, facilitando producción y optimización de contenido audiovisual.",
+        "category": "Edición de video",
+        "main_functionality": "Automatización de marketing creativo para video",
+        "tags": "#EdiciónDeVideo #Marketing #Contenido",
+        "logo_filename": "id_1948_adspectre",
+        "what_is": "Adspectre es una herramienta de edición de video y marketing creativo. Ayuda a automatizar la creación u optimización de contenido audiovisual para campañas.",
+        "purpose": "Automatizar marketing creativo para video y facilitar producción de contenido audiovisual para campañas.",
+        "use_cases": "Marketing creativo; videos para campañas; optimización audiovisual; contenido publicitario.",
+        "main_advantages": "Automatiza creatividad en video; apoya campañas; acelera producción; mejora contenido publicitario.",
+        "long_description": "Adspectre es una herramienta de edición de video y marketing creativo. Ayuda a automatizar la creación u optimización de contenido audiovisual para campañas. Puede ser útil para equipos de marketing que producen videos publicitarios, creatividades o piezas para redes y anuncios.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.adspectre.ai/"
+        }
+      ]
+    },
+    "1963": {
+      "app": {
+        "id": "1963",
+        "name": "ActionSync",
+        "url": "https://actionsync.ai/",
+        "short_description": "ActionSync conecta aplicaciones y automatiza acciones repetitivas para mejorar la productividad y reducir tareas manuales.",
+        "category": "Automatización",
+        "main_functionality": "Automatización de acciones entre aplicaciones para reducir tareas repetitivas.",
+        "tags": "automatización de tareas, conexión de apps, productividad, workflows",
+        "logo_filename": "id_1963_actionsync",
+        "what_is": "ActionSync es una herramienta de automatización que conecta aplicaciones y permite ejecutar acciones repetitivas entre sistemas, ayudando a ahorrar tiempo en tareas operativas.",
+        "purpose": "Automatizar acciones entre aplicaciones para reducir tareas repetitivas y mejorar la eficiencia operativa.",
+        "use_cases": "Automatización de workflows; conexión entre herramientas; sincronización de acciones; reducción de tareas manuales.",
+        "main_advantages": "Ahorra tiempo operativo, conecta herramientas y reduce acciones repetitivas entre distintas aplicaciones.",
+        "long_description": "ActionSync es una herramienta de automatización que conecta aplicaciones y ejecuta acciones entre distintos servicios. Está pensada para reducir tareas manuales, sincronizar información y crear flujos de trabajo más eficientes. Puede ser útil para equipos que usan varias herramientas y necesitan que ciertos procesos ocurran de manera automática.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://actionsync.ai/"
+        }
+      ]
+    },
+    "1965": {
+      "app": {
+        "id": "1965",
+        "name": "AdManage.ai",
+        "url": "https://admanage.ai/",
+        "short_description": "AdManage.ai ayuda a gestionar campañas publicitarias, anuncios y tareas de marketing digital desde una misma plataforma.",
+        "category": "Publicidad",
+        "main_functionality": "Gestión de anuncios y campañas publicitarias digitales desde una herramienta centralizada.",
+        "tags": "gestión de anuncios, campañas, publicidad digital, marketing",
+        "logo_filename": "id_1965_admanage_ai",
+        "what_is": "AdManage.ai es una plataforma de marketing digital orientada a la gestión de anuncios y campañas, ayudando a organizar, controlar y optimizar actividades publicitarias.",
+        "purpose": "Facilitar la gestión de campañas publicitarias y anuncios digitales desde una plataforma centralizada.",
+        "use_cases": "Gestión de campañas; administración de anuncios; análisis publicitario; optimización de marketing digital.",
+        "main_advantages": "Centraliza tareas publicitarias, mejora el control de campañas y facilita la optimización de anuncios digitales.",
+        "long_description": "AdManage.ai es una plataforma orientada a la gestión de anuncios y campañas de marketing digital. Puede ayudar a organizar actividades publicitarias, revisar campañas y optimizar esfuerzos de adquisición. Es útil para equipos de marketing que necesitan centralizar tareas relacionadas con anuncios y mejorar el control de sus campañas.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://admanage.ai/"
+        }
+      ]
+    },
+    "1998": {
+      "app": {
+        "id": "1998",
+        "name": "AffinityBots",
+        "url": "https://affinitybots.com/",
+        "short_description": "AffinityBots ayuda a crear bots o agentes de IA para automatizar conversaciones, atención digital o tareas repetitivas.",
+        "category": "Chat",
+        "main_functionality": "Creación de bots y agentes de IA para conversaciones o automatización.",
+        "tags": "chatbots, agentes de IA, automatización, atención digital",
+        "logo_filename": "id_1998_affinitybots",
+        "what_is": "AffinityBots es una herramienta para crear bots o agentes de IA orientados a conversaciones, atención digital o automatización de tareas repetitivas.",
+        "purpose": "Crear bots o agentes de IA para automatizar conversaciones, atención digital y tareas repetitivas.",
+        "use_cases": "Chatbots; agentes conversacionales; atención digital; automatización de respuestas.",
+        "main_advantages": "Automatiza conversaciones, reduce carga operativa y permite crear atención digital más disponible.",
+        "long_description": "AffinityBots es una herramienta para crear bots o agentes de IA enfocados en conversaciones y automatización. Puede apoyar atención digital, respuestas automáticas o flujos interactivos con usuarios. Su utilidad está en facilitar la creación de agentes que atiendan tareas repetitivas o consultas frecuentes.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://affinitybots.com/"
+        }
+      ]
+    },
+    "2014": {
+      "app": {
+        "id": "2014",
+        "name": "99helpers",
+        "url": "https://99helpers.com/",
+        "short_description": "99helpers permite crear experiencias de chat o asistencia digital para responder consultas y automatizar conversaciones.",
+        "category": "Chat",
+        "main_functionality": "Automatización de conversaciones y asistencia digital mediante chat.",
+        "tags": "chatbots, atención digital, conversaciones, agentes de IA",
+        "logo_filename": "id_2014_99helpers",
+        "what_is": "99helpers es una herramienta de chat y asistencia digital que permite automatizar conversaciones, responder consultas o crear experiencias de atención con IA.",
+        "purpose": "Automatizar conversaciones y asistencia digital para responder consultas o apoyar atención al usuario.",
+        "use_cases": "Chatbots; atención digital; respuestas automáticas; asistencia conversacional.",
+        "main_advantages": "Mejora disponibilidad de atención, automatiza respuestas y reduce carga operativa en conversaciones frecuentes.",
+        "long_description": "99helpers es una herramienta de chat y asistencia digital que permite automatizar conversaciones, responder consultas y crear experiencias de atención con IA. Puede ser útil para soporte, atención al cliente o interacción con usuarios. Su objetivo es facilitar respuestas rápidas y reducir carga repetitiva.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://99helpers.com/"
+        }
+      ]
+    },
+    "2015": {
+      "app": {
+        "id": "2015",
+        "name": "Adspirer",
+        "url": "https://www.adspirer.com/",
+        "short_description": "Adspirer ayuda a crear, analizar u optimizar anuncios y creatividades publicitarias para campañas digitales.",
+        "category": "Publicidad",
+        "main_functionality": "Creación y optimización de anuncios o creatividades publicitarias.",
+        "tags": "publicidad, anuncios, creatividades, marketing digital",
+        "logo_filename": "id_2015_adspirer",
+        "what_is": "Adspirer es una herramienta de publicidad enfocada en apoyar la creación, análisis u optimización de anuncios y creatividades para campañas digitales.",
+        "purpose": "Apoyar la creación y optimización de anuncios, creatividades y campañas publicitarias.",
+        "use_cases": "Anuncios digitales; creatividades publicitarias; campañas; optimización de publicidad.",
+        "main_advantages": "Facilita crear anuncios, optimizar creatividades y apoyar campañas publicitarias con mayor rapidez.",
+        "long_description": "Adspirer es una herramienta de publicidad enfocada en apoyar la creación, análisis u optimización de anuncios y creatividades para campañas digitales. Puede ayudar a equipos de marketing a producir materiales publicitarios y mejorar su ejecución en canales de adquisición.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.adspirer.com/"
+        }
+      ]
+    },
+    "2051": {
+      "app": {
+        "id": "2051",
+        "name": "Aepto",
+        "url": "https://aepto.com/",
+        "short_description": "Apeto ayuda a organizar tareas, información y trabajo diario para mejorar la productividad.",
+        "category": "Productividad",
+        "main_functionality": "Organización de tareas, información y trabajo diario.",
+        "tags": "productividad, organización, tareas, asistencia con IA",
+        "logo_filename": "id_2051_apeto",
+        "what_is": "Apeto es una herramienta de productividad que ayuda a organizar tareas, información y trabajo diario. Puede apoyar a usuarios o equipos que necesitan mayor claridad para administrar pendientes y actividades.",
+        "purpose": "Organizar tareas, información y trabajo diario para mejorar la productividad.",
+        "use_cases": "Organización diaria; gestión de tareas; productividad personal; seguimiento de información.",
+        "main_advantages": "Ayuda a organizar pendientes, mejorar claridad diaria y reducir desorden en el trabajo.",
+        "long_description": "Apeto es una herramienta de productividad que ayuda a organizar tareas, información y trabajo diario. Puede apoyar a usuarios o equipos que necesitan administrar pendientes, dar seguimiento a actividades y mantener mayor claridad en su operación cotidiana. Su valor está en reducir desorden y facilitar el trabajo organizado.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://aepto.com/"
+        }
+      ]
+    },
+    "2105": {
+      "app": {
+        "id": "2105",
+        "name": "AcaDraw",
+        "url": "https://www.acadraw.com/es",
+        "short_description": "AcaDraw permite generar dibujos, arte digital o recursos visuales mediante inteligencia artificial.",
+        "category": "Generación de arte",
+        "main_functionality": "Generación de dibujos, arte digital y recursos visuales mediante inteligencia artificial.",
+        "tags": "dibujo, arte digital, generación visual, creatividad",
+        "logo_filename": "id_2105_acadraw",
+        "what_is": "AcaDraw es una herramienta de generación de arte que permite crear dibujos, arte digital o recursos visuales mediante inteligencia artificial. Puede apoyar procesos creativos, ilustración y generación de conceptos visuales.",
+        "purpose": "Generar dibujos, arte digital y recursos visuales mediante inteligencia artificial.",
+        "use_cases": "Dibujo con IA; arte digital; ilustraciones; generación visual.",
+        "main_advantages": "Apoya procesos creativos, permite generar dibujos rápidamente y facilita producir recursos visuales.",
+        "long_description": "AcaDraw es una herramienta de generación de arte que permite crear dibujos, arte digital y recursos visuales mediante inteligencia artificial. Puede apoyar procesos creativos, ilustración y generación de conceptos visuales. Su utilidad está en facilitar la creación gráfica y acelerar la producción de ideas visuales.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.acadraw.com/es"
+        }
+      ]
+    },
+    "2120": {
+      "app": {
+        "id": "2120",
+        "name": "Ad Agency",
+        "url": "https://www.adagency.app/index.php",
+        "short_description": "Plataforma de IA para crear anuncios adaptados a distintas plataformas digitales.",
+        "category": "Publicidad",
+        "main_functionality": "Crear anuncios adaptados a diferentes plataformas y canales digitales.",
+        "tags": "creación de anuncios, campañas publicitarias, publicidad digital, contenido publicitario",
+        "logo_filename": "id_2120_ad_agency",
+        "what_is": "Ad Agency es una plataforma de publicidad con IA diseñada para producir anuncios para múltiples plataformas.",
+        "purpose": "Agilizar la producción de anuncios digitales adaptados a las características de diferentes plataformas.",
+        "use_cases": "Creación de anuncios para redes sociales, campañas digitales, pruebas de conceptos publicitarios y adaptación de piezas a varios canales.",
+        "main_advantages": "Permite producir anuncios con mayor rapidez y adaptar el contenido a varios formatos y plataformas.",
+        "long_description": "Ad Agency es una plataforma de inteligencia artificial orientada a la creación de anuncios para diferentes canales digitales. Permite desarrollar conceptos y piezas publicitarias con mayor rapidez, facilitando la adaptación del contenido a redes sociales, campañas promocionales y otros formatos utilizados por marcas y equipos de marketing.",
+        "release_date": "No disponible",
+        "developer": "Ad Agency",
+        "main_model": "No especificado",
+        "pricing_plans": "No disponible",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.adagency.app/index.php"
+        }
+      ]
+    },
+    "2165": {
+      "app": {
+        "id": "2165",
+        "name": "Adps AI",
+        "url": "https://www.adps.ai/",
+        "short_description": "Plataforma que automatiza tareas de DevOps y confiabilidad de sitios.",
+        "category": "Codificación",
+        "main_functionality": "Automatizar tareas operativas relacionadas con DevOps y confiabilidad de sistemas.",
+        "tags": "DevOps, SRE, automatización técnica, infraestructura, operaciones de software",
+        "logo_filename": "id_2165_adps_ai",
+        "what_is": "Adps AI es una plataforma de codificación y operaciones que automatiza tareas de DevOps y SRE.",
+        "purpose": "Reducir tareas manuales de DevOps y confiabilidad mediante automatización asistida por IA.",
+        "use_cases": "Automatización de infraestructura, apoyo a DevOps, operaciones SRE y gestión de tareas técnicas.",
+        "main_advantages": "Reduce tareas operativas repetitivas y apoya procesos técnicos de DevOps y confiabilidad.",
+        "long_description": "Adps AI es una plataforma que automatiza tareas relacionadas con DevOps y confiabilidad de sitios. Está orientada a reducir trabajo operativo repetitivo y apoyar procesos técnicos vinculados con infraestructura y funcionamiento de sistemas.",
+        "release_date": "No disponible",
+        "developer": "Adps AI",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.adps.ai/"
+        }
+      ]
+    },
+    "2198": {
+      "app": {
+        "id": "2198",
+        "name": "Ad Suite AI",
+        "url": "https://adsuiteai.com/",
+        "short_description": "Suite de IA para crear, lanzar y optimizar campañas publicitarias.",
+        "category": "Publicidad",
+        "main_functionality": "Crear, lanzar y optimizar campañas publicitarias mediante herramientas de inteligencia artificial.",
+        "tags": "creación de anuncios, campañas publicitarias, optimización de anuncios, publicidad digital, marketing de pago",
+        "logo_filename": "id_2198_ad_suite_ai",
+        "what_is": "Ad Suite AI es una suite de publicidad con IA para crear, lanzar y optimizar campañas de anuncios.",
+        "purpose": "Facilitar la creación, lanzamiento y optimización de campañas publicitarias mediante inteligencia artificial.",
+        "use_cases": "Creación de anuncios, lanzamiento de campañas, optimización publicitaria y gestión de publicidad digital.",
+        "main_advantages": "Reúne creación, lanzamiento y optimización de anuncios dentro de una misma suite.",
+        "long_description": "Ad Suite AI es una plataforma de publicidad asistida por inteligencia artificial que permite crear, lanzar y optimizar campañas. Reúne distintas etapas del proceso publicitario dentro de una misma suite para facilitar la administración de anuncios digitales.",
+        "release_date": "No disponible",
+        "developer": "Ad Suite AI",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://adsuiteai.com/"
+        }
+      ]
+    },
+    "2219": {
+      "app": {
+        "id": "2219",
+        "name": "AccessAudit",
+        "url": "https://accessaudit.io/",
+        "short_description": "Escáner de accesibilidad web que detecta problemas relacionados con WCAG, ADA y otros estándares.",
+        "category": "Detección",
+        "main_functionality": "Detectar problemas de accesibilidad web relacionados con WCAG, ADA y otros estándares.",
+        "tags": "accesibilidad web, WCAG, ADA, detección de errores, auditoría de accesibilidad",
+        "logo_filename": "id_2219_accessaudit",
+        "what_is": "AccessAudit es una herramienta de detección que analiza sitios web para identificar problemas de accesibilidad.",
+        "purpose": "Identificar problemas de accesibilidad web relacionados con estándares como WCAG y ADA.",
+        "use_cases": "Auditorías de accesibilidad, detección de incumplimientos, revisión de sitios web y análisis de problemas relacionados con WCAG y ADA.",
+        "main_advantages": "Facilita la identificación de problemas de accesibilidad y su relación con estándares reconocidos.",
+        "long_description": "AccessAudit es una herramienta de detección enfocada en accesibilidad web. Analiza sitios para identificar problemas relacionados con estándares como WCAG y ADA, ayudando a localizar aspectos que pueden requerir revisión o corrección.",
+        "release_date": "No disponible",
+        "developer": "AccessAudit",
+        "main_model": "No especificado",
+        "pricing_plans": "No disponible",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://accessaudit.io/"
+        }
+      ]
+    },
+    "2281": {
+      "app": {
+        "id": "2281",
+        "name": "2wai",
+        "url": "https://www.2wai.ai/",
+        "short_description": "Aplicación para iOS que permite crear avatares de inteligencia artificial a partir de una breve captura o material del usuario.",
+        "category": "Generación de video",
+        "main_functionality": "Crear avatares de inteligencia artificial a partir de una breve captura o material proporcionado por el usuario.",
+        "tags": "avatares de IA, generación de avatares, video con IA, personajes digitales, generación de video",
+        "logo_filename": "id_2281_2wai",
+        "what_is": "2wai es una aplicación para crear avatares de inteligencia artificial a partir de una breve captura o material del usuario.",
+        "purpose": "Facilitar la creación de representaciones digitales y avatares generados mediante inteligencia artificial.",
+        "use_cases": "Creación de avatares, personajes digitales, contenido audiovisual y representaciones generadas por IA.",
+        "main_advantages": "Simplifica la creación de avatares digitales a partir de una cantidad reducida de material inicial.",
+        "long_description": "2wai es una aplicación para crear avatares generados mediante inteligencia artificial a partir de una breve captura o material proporcionado por el usuario. Está orientada a facilitar la creación de personajes y representaciones digitales para experiencias y contenido audiovisual.",
+        "release_date": "No disponible",
+        "developer": "2wai, Inc.",
+        "main_model": "FedBrain",
+        "pricing_plans": "Gratis actualmente; podrían añadirse suscripciones o compras dentro de la aplicación en el futuro",
+        "license": "No especificado",
+        "security_privacy": "Cuenta con política específica para el tratamiento de datos utilizados en avatares.",
+        "integration": "Aplicación para iOS"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.2wai.ai/"
+        }
+      ]
+    },
+    "2344": {
+      "app": {
+        "id": "2344",
+        "name": "Agenta",
+        "url": "https://agenta.ai/",
+        "short_description": "Plataforma de código abierto para desarrollar, evaluar y gestionar aplicaciones y agentes basados en modelos de lenguaje.",
+        "category": "Automatización",
+        "main_functionality": "Desarrollar, evaluar y gestionar aplicaciones y agentes basados en modelos de lenguaje dentro de una plataforma colaborativa.",
+        "tags": "LLMOps, agentes de IA, open source, desarrollo colaborativo, evaluación, automatización",
+        "logo_filename": "id_2344_agenta",
+        "what_is": "Agenta es una plataforma open source para desarrollar, evaluar y gestionar aplicaciones y agentes basados en modelos de lenguaje.",
+        "purpose": "Centralizar el desarrollo, evaluación y gestión de aplicaciones y agentes basados en modelos de lenguaje.",
+        "use_cases": "LLMOps, evaluación de prompts, experimentación, desarrollo de agentes, monitoreo y colaboración entre equipos.",
+        "main_advantages": "Reúne experimentación, evaluación y gestión de aplicaciones LLM dentro de una plataforma colaborativa y open source.",
+        "long_description": "Agenta es una plataforma open source para desarrollar, evaluar y gestionar aplicaciones y agentes basados en modelos de lenguaje. Permite experimentar con prompts y configuraciones, evaluar resultados y colaborar durante el desarrollo de soluciones basadas en IA.",
+        "release_date": "No disponible",
+        "developer": "Agenta AI",
+        "main_model": "OpenAI, Anthropic, Gemini, Mistral, Groq, MiniMax, Together AI, OpenRouter, Azure OpenAI, AWS Bedrock y Google Vertex AI",
+        "pricing_plans": "Hobby: $0; Pro: $29 USD/mes; Business y Enterprise: según necesidades; versión open source self-hosted gratuita",
+        "license": "MIT",
+        "security_privacy": "Puede desplegarse self-hosted. Business ofrece SOC 2 Type II, RBAC y SSO; Enterprise añade audit logs y controles personalizados.",
+        "integration": "MCP, Claude Code, Codex, Pi, OpenCode y múltiples proveedores de modelos"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://agenta.ai/"
+        }
+      ]
+    },
+    "2557": {
+      "app": {
+        "id": "2557",
+        "name": "AB Tasty Commerce",
+        "url": "https://www.abtasty.com/commerce/",
+        "short_description": "Plataforma de comercio electrónico que unifica búsqueda, recomendaciones y merchandising para personalizar el descubrimiento de productos y mejorar la conversión.",
+        "category": "Marketing",
+        "main_functionality": "Combina búsqueda, recomendaciones personalizadas y merchandising para adaptar en tiempo real la visibilidad y priorización de productos en comercios electrónicos.",
+        "tags": "comercio electrónico, recomendaciones, búsqueda, merchandising, personalización, conversión, IA",
+        "logo_filename": "id_2557_ab_tasty_commerce",
+        "what_is": "AB Tasty Commerce es una plataforma unificada de descubrimiento de productos para comercio electrónico que integra búsqueda, recomendaciones y merchandising.",
+        "purpose": "Ayudar a comercios electrónicos a ofrecer experiencias de descubrimiento de producto más relevantes mediante personalización y control de merchandising.",
+        "use_cases": "Personalizar recomendaciones; optimizar búsqueda de productos; controlar merchandising; priorizar productos; adaptar rankings; analizar resultados de estrategias de e-commerce.",
+        "main_advantages": "Unifica búsqueda, recomendaciones y merchandising sobre los mismos datos y reglas, evitando administrar soluciones separadas para cada función.",
+        "long_description": "AB Tasty Commerce es una plataforma de descubrimiento de productos para comercio electrónico que reúne búsqueda, recomendaciones y merchandising dentro de un mismo sistema. Utiliza señales de navegación, búsqueda y compra para personalizar resultados y recomendaciones, mientras permite a los equipos comerciales controlar rankings, reglas y priorización de productos. La solución actual integra capacidades que anteriormente formaban parte de productos como Potions.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado. AB Tasty Commerce se comercializa mediante demostración y cotización según las necesidades de la organización.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.abtasty.com/commerce/"
+        }
+      ]
+    },
+    "2559": {
+      "app": {
+        "id": "2559",
+        "name": "AeroChat",
+        "url": "https://aerochat.ai/",
+        "short_description": "Plataforma de atención al cliente con IA que automatiza conversaciones por chat, correo y otros canales desde una bandeja unificada.",
+        "category": "Chat",
+        "main_functionality": "Automatiza conversaciones de atención al cliente mediante inteligencia artificial a través de chat, correo electrónico y otros canales de comunicación.",
+        "tags": "atención al cliente, chat, email, omnicanal, soporte, automatización, traducción",
+        "logo_filename": "id_2559_aerochat",
+        "what_is": "AeroChat es una plataforma de atención al cliente omnicanal que utiliza inteligencia artificial para automatizar y asistir conversaciones.",
+        "purpose": "Reducir la carga operativa de equipos de soporte mediante automatización y asistencia de conversaciones en distintos canales.",
+        "use_cases": "Automatizar soporte por chat; responder correos; centralizar conversaciones; traducir mensajes; resolver preguntas frecuentes; asistir agentes humanos.",
+        "main_advantages": "Centraliza conversaciones de soporte y utiliza IA para reducir tiempos de respuesta y carga operativa en distintos canales.",
+        "long_description": "AeroChat es una plataforma de atención al cliente omnicanal asistida por inteligencia artificial. Centraliza conversaciones procedentes de diferentes canales y permite automatizar respuestas, resolver consultas frecuentes y asistir a equipos de soporte. Puede utilizarse para reducir tiempos de respuesta y organizar interacciones con clientes dentro de una misma bandeja de trabajo.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Prueba gratuita de 7 días. Starter USD 49/mes, Growth USD 149/mes y Advanced USD 349/mes; Enterprise con precio personalizado.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://aerochat.ai/"
+        }
+      ]
+    },
+    "2631": {
+      "app": {
+        "id": "2631",
+        "name": "ActiveLoop.ai",
+        "url": "https://www.activeloop.ai/",
+        "short_description": "Infraestructura de datos para IA desarrollada por Activeloop mediante Deep Lake, orientada a almacenar, consultar y utilizar datos multimodales en modelos y agentes.",
+        "category": "Entrenamiento de modelos",
+        "main_functionality": "Permite almacenar, buscar, consultar y transmitir datos multimodales para sistemas de IA, incluyendo entrenamiento, retrieval, RAG y agentes.",
+        "tags": "Deep Lake, datos para IA, multimodal, embeddings, RAG, entrenamiento, agentes IA, vector search, almacenamiento de datos",
+        "logo_filename": "id_2631_activeloop_ai",
+        "what_is": "Activeloop es la empresa detrás de Deep Lake, una plataforma de infraestructura y gestión de datos multimodales para sistemas de inteligencia artificial.",
+        "purpose": "Centralizar y hacer utilizables grandes volúmenes de datos multimodales para entrenamiento, retrieval, análisis y operación de sistemas de IA.",
+        "use_cases": "Gestionar datos multimodales; alimentar RAG; almacenar embeddings; realizar búsquedas; entrenar modelos; analizar datos; trabajar con agentes de IA.",
+        "main_advantages": "Permite manejar distintas modalidades de datos dentro de una misma infraestructura y utilizarlas directamente en aplicaciones de IA.",
+        "long_description": "Activeloop es la empresa creadora de Deep Lake, una plataforma de datos para inteligencia artificial. Deep Lake permite almacenar, consultar y transmitir datos multimodales como texto, imágenes, video, archivos, embeddings y tensores para utilizarlos en retrieval, análisis, entrenamiento y agentes de IA. Activeloop ha trasladado actualmente su información comercial y de precios hacia Deep Lake.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "El pricing de Activeloop fue trasladado a Deep Lake; consultar los planes vigentes de Deep Lake.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.activeloop.ai/"
+        }
+      ]
+    }
+  }
+}

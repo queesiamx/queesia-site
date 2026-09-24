@@ -1,0 +1,2292 @@
+{
+  "schemaVersion": 1,
+  "apps": {
+    "19": {
+      "app": {
+        "id": "19",
+        "name": "Thoughtly",
+        "url": "https://thought.ly/?utm_source=ai+tools+directory&utm_medium=banner+ad&utm_campaign=AI+Tools+Directory+AD&utm_id=aitoolsdirectory",
+        "short_description": "Plataforma que permite a las empresas crear y desplegar agentes de voz con inteligencia artificial de manera rápida y sencilla, mejorando la interacción con clientes y optimizando operaciones de centros de contacto.",
+        "category": "Productividad",
+        "main_functionality": "Facilita la construcción y despliegue de agentes de voz impulsados por IA para gestionar llamadas entrantes y salientes, integrándose con herramientas como calendarios y sistemas CRM para automatizar tareas como seguimiento de clientes potenciales, gestión de citas y atención al cliente.",
+        "tags": "#AsistenteVirtual #Automatización #AgenteDeVoz",
+        "logo_filename": "id_19_thoughtly",
+        "what_is": "Thoughtly es una plataforma que permite a las empresas crear y desplegar agentes de voz impulsados por inteligencia artificial de manera rápida y sencilla, sin necesidad de conocimientos técnicos avanzados.",
+        "purpose": "Su propósito principal es optimizar la interacción con clientes mediante la automatización de llamadas entrantes y salientes, mejorando la eficiencia en áreas como atención al cliente, ventas y marketing.",
+        "use_cases": "Atención al Cliente: Gestión de consultas frecuentes, resolución de problemas y asistencia personalizada a clientes.\nVentas: Seguimiento de clientes potenciales, programación de citas y promoción de productos o servicios.\nMarketing: Realización de encuestas, recopilación de feedback y ejecución de campañas promocionales.\nSoporte Técnico: Asistencia en la resolución de problemas técnicos comunes y orientación en el uso de productos o servicios.",
+        "main_advantages": "Implementación Rápida: Permite la creación y despliegue de agentes de voz en menos de 20 minutos. \nInterfaz Intuitiva: Ofrece una plataforma sin código, facilitando su uso por parte de personal no técnico. \nIntegración con Herramientas Existentes: Se conecta con calendarios, sistemas CRM y otras herramientas empresariales para una gestión eficiente. \nAnálisis y Reportes: Proporciona métricas y análisis detallados para optimizar la interacción con clientes y mejorar procesos internos. ",
+        "long_description": "Thoughtly es una plataforma que permite a las empresas crear y desplegar agentes de voz impulsados por inteligencia artificial de manera rápida y sencilla, sin necesidad de conocimientos técnicos avanzados. Su interfaz intuitiva y sin código facilita la construcción de conversaciones de IA mediante una interfaz de arrastrar y soltar, que incluye pruebas A/B integradas. Los agentes de voz de Thoughtly pueden realizar tareas desde el primer momento, integrándose directamente con calendarios, sistemas CRM y herramientas de back office para seguir clientes potenciales, gestionar reclamaciones, programar citas y más. Además, la plataforma permite personalizar los agentes con voces humanas, rasgos de personalidad como humor y asertividad, y controlar el ruido de fondo para garantizar que suenen como agentes reales alineados con la marca de la empresa. Thoughtly también proporciona análisis completos e informes detallados, permitiendo monitorear el rendimiento de los agentes de IA y optimizar continuamente las interacciones con los clientes.",
+        "release_date": "No disponible.",
+        "developer": "Thoughtly",
+        "main_model": "No disponible.",
+        "pricing_plans": "No disponible.",
+        "license": "Propietaria de Thoughtly.",
+        "security_privacy": "Thoughtly implementa medidas de seguridad para proteger la información y los datos de los usuarios. La política de privacidad detalla cómo se manejan los datos personales y garantiza que la información no se comparte con terceros sin el consentimiento del usuario.",
+        "integration": "Thoughtly se integra con diversas aplicaciones y servicios, permitiendo compartir resultados a través de la agenda, SMS, correo electrónico y redes sociales. Además, es compatible con múltiples plataformas, incluyendo smartphones, tablets y portátiles, facilitando su uso en diferentes dispositivos."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://thought.ly/?utm_source=ai+tools+directory&utm_medium=banner+ad&utm_campaign=AI+Tools+Directory+AD&utm_id=aitoolsdirectory"
+        },
+        {
+          "source_url": "https://www.youtube.com/%40thoughtly-ai"
+        },
+        {
+          "source_url": "https://thought.ly/platform/"
+        },
+        {
+          "source_url": "https://thought.ly/"
+        }
+      ]
+    },
+    "123": {
+      "app": {
+        "id": "123",
+        "name": "TimeOS",
+        "url": "https://www.timeos.ai/",
+        "short_description": "Utilice la IA para organizar las notas de sus reuniones en información estructurada, un formato atractivo y los próximos pasos.",
+        "category": "Productividad",
+        "main_functionality": "Automatización de la gestión de reuniones y tareas mediante inteligencia artificial, incluyendo la captura de notas, generación de resúmenes y sincronización con herramientas de productividad.",
+        "tags": "#AsistenteVirtual #IA #Productividad #Automatización #GestiónDeReuniones",
+        "logo_filename": "id_123_time_os",
+        "what_is": "TimeOS es una plataforma de inteligencia artificial diseñada para asistir a profesionales en la gestión eficiente de su tiempo. Su objetivo es optimizar el trabajo mediante la automatización de tareas relacionadas con reuniones, notas y actividades, integrándose con herramientas populares de productividad.",
+        "purpose": "TimeOS facilita la organización del trabajo al capturar y procesar automáticamente información de reuniones, asignar tareas y sincronizar datos relevantes en un solo espacio. Su propósito es ahorrar tiempo y mejorar la eficiencia en la gestión de proyectos y equipos.",
+        "use_cases": "Captura de notas en reuniones: Graba y transcribe automáticamente los puntos clave de las reuniones.\nGeneración de resúmenes: Crea resúmenes concisos de discusiones y acciones pendientes.\nAsignación de tareas: Organiza tareas derivadas de reuniones y las asigna a los participantes.\nSincronización con herramientas: Se integra con aplicaciones como Google Calendar, Slack y otras plataformas para centralizar la gestión de actividades.\nMejora del seguimiento de proyectos: Ayuda a los equipos a mantenerse al día con los plazos y objetivos.",
+        "main_advantages": "Ahorro de tiempo al automatizar tareas manuales como la toma de notas.\nIncremento de la productividad gracias a resúmenes claros y organizados.\nMejora de la colaboración entre equipos mediante la integración de herramientas.\nReducción de la carga administrativa para los usuarios.",
+        "long_description": "timeOS es una plataforma de inteligencia artificial diseñada para optimizar la gestión del tiempo y la productividad en entornos profesionales. Ofrece funcionalidades como la captura automática de notas de reuniones, generación de resúmenes, seguimiento de tareas y delegación de actividades a través de IA. Se integra con herramientas populares como Zoom, Google Meet y Microsoft Teams, permitiendo una sincronización fluida de información y facilitando la colaboración en equipo. Además, timeOS admite más de 60 idiomas, lo que la hace accesible a una amplia variedad de usuarios.",
+        "release_date": "No disponible.",
+        "developer": "timeOS",
+        "main_model": "No disponible.",
+        "pricing_plans": "timeOS ofrece un plan gratuito que incluye hasta 10 reuniones asistidas por IA al registrarse. Los usuarios pueden obtener más créditos mediante suscripciones y referencias.",
+        "license": "Propietaria",
+        "security_privacy": "timeOS prioriza la seguridad y privacidad de los datos de los usuarios. Los resúmenes de reuniones y las transcripciones se generan bajo demanda y expiran automáticamente después de 3 horas, garantizando la confidencialidad de la información.",
+        "integration": "timeOS se integra con plataformas de videoconferencia como Zoom, Google Meet y Microsoft Teams, así como con herramientas de gestión de tareas como Notion, Asana y ClickUp, facilitando la sincronización de notas y tareas en diferentes entornos de trabajo."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.timeos.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=github-s-coding-future"
+        },
+        {
+          "source_url": "https://easywithai.com/ai-meeting-assistants/timeos/"
+        },
+        {
+          "source_url": "https://supertools.therundown.ai/content/timeos"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/timeos-2-0?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/timeos-ai/?ref=embed"
+        },
+        {
+          "source_url": "https://www.timeos.ai/pricing?utm_medium=referral&utm_source=superhuman&utm_campaign=github-s-coding-future&utm_source=superhuman&utm_medium=referral&utm_campaign=github-s-coding-future"
+        },
+        {
+          "source_url": "https://www.timeos.ai/privacy?utm_medium=referral&utm_source=superhuman&utm_campaign=github-s-coding-future&utm_source=superhuman&utm_medium=referral&utm_campaign=github-s-coding-future"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/timeos-ai/"
+        }
+      ]
+    },
+    "136": {
+      "app": {
+        "id": "136",
+        "name": "Trag AI",
+        "url": "https://usetrag.com/",
+        "short_description": "Un asistente de IA sensible al contexto que puede revisar su código en función de instrucciones muy específicas.",
+        "category": "Codificación",
+        "main_functionality": "Automatiza la revisión de código mediante la creación de reglas personalizadas en lenguaje natural, analiza pull requests, identifica errores y proporciona sugerencias de corrección sin modificar directamente la base de código.",
+        "tags": "#RevisiónDeCódigo #InteligenciaArtificial #DesarrolloDeSoftware #Automatización #CalidadDeCódigo",
+        "logo_filename": "id_136_trag",
+        "what_is": "Trag AI es una herramienta de revisión de código asistida por inteligencia artificial diseñada para equipos de desarrollo de software. Automatiza el proceso de análisis de pull requests, detectando errores, inconsistencias y áreas de mejora, todo ello mientras proporciona sugerencias claras y útiles para optimizar el código.",
+        "purpose": "Sirve para mejorar la calidad del código, ahorrar tiempo en revisiones manuales y aumentar la eficiencia de los desarrolladores al ofrecer un análisis automatizado y preciso de las bases de código. Además, permite crear reglas personalizadas en lenguaje natural para adaptarse a las necesidades específicas del equipo.",
+        "use_cases": "Equipos de Desarrollo: Detectar errores comunes en el código y garantizar que se cumplan los estándares establecidos.\nStartups Tecnológicas: Escalar procesos de revisión de código con equipos pequeños.\nProyectos de Código Abierto: Mejorar la calidad del código compartido entre colaboradores globales.\nAutomatización de Procesos: Integrar la revisión de código en el pipeline de CI/CD para asegurar entregas de alta calidad.\nEducación: Ayudar a nuevos desarrolladores a aprender buenas prácticas a través de sugerencias automatizadas.",
+        "main_advantages": "Automatización Personalizada: Permite configurar reglas específicas en lenguaje natural para cumplir con los requisitos únicos del proyecto.\nPrecisión y Eficiencia: Detecta errores con rapidez, reduciendo la carga de los revisores humanos.\nCompatibilidad: Se integra fácilmente con plataformas como GitHub para análisis continuo de pull requests.\nSugerencias Claras: Ofrece recomendaciones comprensibles y accionables para mejorar el código.\nColaboración Mejorada: Ayuda a equipos distribuidos a mantener un estándar de calidad uniforme.",
+        "long_description": "Trag AI es una herramienta de revisión de código impulsada por inteligencia artificial diseñada para optimizar el proceso de desarrollo de software. Permite a los equipos de ingeniería definir reglas personalizadas en lenguaje natural, que luego se aplican automáticamente a las solicitudes de extracción (pull requests) para identificar errores, asegurar el cumplimiento de las mejores prácticas y sugerir refactorizaciones automatizadas. Trag AI es compatible con múltiples lenguajes de programación y se integra fácilmente con plataformas como GitHub, facilitando la colaboración y manteniendo altos estándares de calidad en el código.",
+        "release_date": "Octubre 2024",
+        "developer": "Trag AI.",
+        "main_model": "Trag AI utiliza algoritmos avanzados de inteligencia artificial para analizar el código y aplicar las reglas definidas por el usuario, detectando patrones y proporcionando sugerencias de mejora.",
+        "pricing_plans": "Gratis (Hobby): $0 - Resúmenes de solicitudes de incorporación de cambios | Repositorios ilimitados Ingenieros ilimitados\n*Incluye una prueba gratuita de 14 días del plan Pro. No se requiere tarjeta de crédito.                                                                                                                                                                                                                                                                                                                                                     \n EQUIPO: $300/repositorio - Prueba gratuita de 14 días Máx. 15 ingenieros\nRevisiones de código ilimitadas |  Repositorios ilimitados Reglas personalizadas ilimitadas.                                                                                                                                                                                                                                                                                                                                                      ENTERPRISE (Cotiza precio) - Todo en el plan Equipo | Ingenieros ilimitados | Opción de autoalojamiento Inicio de sesión SSO Su LLM\nCSM dedicado\n\n",
+        "license": "Propietaria",
+        "security_privacy": "Trag AI se compromete a proteger la privacidad de los usuarios y la seguridad de los datos, implementando medidas de seguridad avanzadas y cumpliendo con las regulaciones vigentes en materia de protección de datos.",
+        "integration": "Trag AI se integra con plataformas de control de versiones como GitHub, permitiendo la revisión automática de código en las solicitudes de extracción."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://usetrag.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=apple-intelligence-is-here"
+        },
+        {
+          "source_url": "https://easywithai.com/ai-developer-tools/trag/"
+        },
+        {
+          "source_url": "https://openfuture.ai/tool/trag"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/trag"
+        },
+        {
+          "source_url": "https://usetrag.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=apple-intelligence-is-here#pricing"
+        },
+        {
+          "source_url": "https://usetrag.com/about?utm_source=superhuman&utm_medium=referral&utm_campaign=apple-intelligence-is-here"
+        },
+        {
+          "source_url": "https://usetrag.com/legal/privacy-policy?utm_source=superhuman&utm_medium=referral&utm_campaign=apple-intelligence-is-here"
+        },
+        {
+          "source_url": "https://www.producthunt.com/posts/trag"
+        }
+      ]
+    },
+    "180": {
+      "app": {
+        "id": "180",
+        "name": "Toolhouse",
+        "url": "https://toolhouse.ai/",
+        "short_description": "Una infraestructura completa en la nube para equipar a los LLM con acciones y conocimientos, utilizando solo tres líneas de código.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Proporciona una infraestructura en la nube y un SDK universal para facilitar la integración de acciones y conocimientos en aplicaciones de inteligencia artificial.",
+        "tags": "#DesarrolloDeSoftware #IntegraciónDeHerramientas #InfraestructuraEnLaNube #SDKUniversal",
+        "logo_filename": "id_180_toolhouse",
+        "what_is": "Toolhouse es una plataforma diseñada para desarrolladores que trabajan con aplicaciones basadas en inteligencia artificial. Proporciona herramientas para integrar fácilmente funcionalidades avanzadas y acciones personalizadas en modelos de lenguaje, optimizando procesos y mejorando la experiencia de desarrollo.",
+        "purpose": "Toolhouse permite a los desarrolladores:\n\nAñadir capacidades personalizadas a modelos de lenguaje con mínimos esfuerzos de programación.\nMejorar la funcionalidad y eficiencia de las aplicaciones de IA mediante la implementación de herramientas predefinidas o personalizadas.\nOptimizar el rendimiento en tiempo real utilizando infraestructura en la nube.",
+        "use_cases": "Empresas tecnológicas: Integración de acciones específicas en chatbots o asistentes virtuales para mejorar su funcionalidad.\nStartups de IA: Desarrollo ágil de prototipos y productos basados en modelos de lenguaje.\nEquipos de desarrollo: Simplificación de procesos en aplicaciones de IA, reduciendo el tiempo necesario para implementación.\nSectores especializados: Creación de herramientas adaptadas a necesidades específicas como el análisis de datos, soporte técnico automatizado o generación de contenido.",
+        "main_advantages": "Facilidad de uso: Integración rápida con solo tres líneas de código.\nInfraestructura escalable: Proporciona un entorno robusto en la nube que soporta aplicaciones de alto rendimiento.\nSDK universal: Compatible con diferentes modelos de lenguaje y aplicaciones.\nAhorro de tiempo: Reduce significativamente el tiempo necesario para desarrollar herramientas avanzadas en IA.\nPersonalización: Permite a los desarrolladores crear funcionalidades adaptadas a necesidades específicas.",
+        "long_description": "Toolhouse es una plataforma que simplifica el desarrollo de herramientas y funcionalidades personalizadas para modelos de lenguaje y aplicaciones de inteligencia artificial. Proporciona una infraestructura en la nube que permite la integración de acciones y conocimientos con un enfoque eficiente, reduciendo significativamente los tiempos de implementación. La plataforma incluye un SDK universal que facilita la compatibilidad con diversos entornos de desarrollo y modelos de IA, asegurando una experiencia ágil para desarrolladores de todos los niveles.",
+        "release_date": "No disponible",
+        "developer": "Toolhouse Technologies, Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "Plan estándar\n$0/mes\n10 ejecutivos\ngratis luego $0.12/exec\nPago por uso\nUsuarios ilimitados gratuitos hasta el 31 de diciembre de 2024, luego $ 0.24 / usuario\nTokens LLM gratis en Playground\nEjecuciones ilimitadas de herramientas\n\n\n\nEmpresa y agencia\nContáctenos\n\nPrecios por volumen disponibles\nTodo lo que incluye Pro, más: \nAlojamiento privado\nConformidad\nGobernanza\nRegistro de herramientas personalizadas\nY más",
+        "license": "Propietaria",
+        "security_privacy": "Toolhouse utiliza infraestructura en la nube para ofrecer entornos seguros y escalables. Aunque no se especifican detalles técnicos, es probable que sigan las mejores prácticas de la industria en cuanto a protección de datos y políticas de privacidad.",
+        "integration": "...Toolhouse es compatible con múltiples modelos de lenguaje y entornos de desarrollo a través de su SDK universal, lo que facilita la integración con herramientas de terceros y plataformas de desarrollo."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://toolhouse.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-s-new-legal-troubles"
+        },
+        {
+          "source_url": "https://www.aitoolnet.com/es/toolhouse"
+        },
+        {
+          "source_url": "https://toolhouse.ai/about-us"
+        },
+        {
+          "source_url": "https://toolhouse.ai/pricing"
+        },
+        {
+          "source_url": "https://toolhouse.ai/privacy-policy"
+        },
+        {
+          "source_url": "..."
+        }
+      ]
+    },
+    "320": {
+      "app": {
+        "id": "320",
+        "name": "tinyEmail",
+        "url": "https://www.tinyemail.com/",
+        "short_description": "Plataforma de marketing por correo electrónico impulsada por inteligencia artificial que permite a las empresas crear, automatizar y optimizar campañas de email de manera eficiente.",
+        "category": "Marketing",
+        "main_functionality": "Ofrece herramientas basadas en IA para la creación de correos electrónicos personalizados, automatización de campañas, segmentación avanzada de audiencias y análisis de rendimiento.",
+        "tags": "#EmailMarketing #Automatización #IA #Personalización",
+        "logo_filename": "id_320_tiny_email",
+        "what_is": "tinyEmail es una plataforma de marketing por correo electrónico que utiliza inteligencia artificial para ayudar a empresas y creadores a desarrollar y ejecutar campañas de email eficientes y personalizadas.",
+        "purpose": "La plataforma facilita la creación, automatización y optimización de campañas de email marketing. Su enfoque en la personalización y automatización permite a los usuarios alcanzar a sus audiencias de manera más efectiva, incrementando la tasa de apertura, interacción y conversión.",
+        "use_cases": "Campañas de email personalizadas: Creación de correos electrónicos que se adaptan a segmentos específicos de la audiencia para mejorar el impacto.\nAutomatización de flujos de trabajo: Configuración de secuencias automáticas, como correos de bienvenida, seguimiento o recuperación de carritos abandonados.\nSegmentación avanzada: Clasificación y segmentación inteligente de la audiencia con base en comportamientos e intereses.\nAnálisis de rendimiento: Evaluación detallada de las métricas de las campañas, como tasa de apertura, clics y conversiones.\nPlantillas optimizadas por IA: Uso de plantillas preconfiguradas y optimizadas para distintos objetivos comerciales y audiencias",
+        "main_advantages": "Automatización inteligente: Facilita la programación de correos electrónicos y flujos de trabajo automatizados para ahorrar tiempo y esfuerzo.\nPersonalización avanzada: Utiliza IA para generar contenido relevante y adaptado a cada segmento de la audiencia.\nAnálisis de resultados: Proporciona métricas clave y análisis en tiempo real para optimizar las campañas de email marketing.\nFacilidad de uso: Interfaz intuitiva con herramientas simplificadas para usuarios con diferentes niveles de experiencia.\nOptimización con IA: Aprovecha inteligencia artificial para mejorar las tasas de apertura y conversión mediante recomendaciones basadas en datos.",
+        "long_description": "tinyEmail es una herramienta de marketing por correo electrónico que utiliza inteligencia artificial para ayudar a las empresas a crear, personalizar y optimizar sus campañas de email. Su diseño está enfocado en la automatización eficiente y la segmentación inteligente, lo que facilita la entrega de mensajes relevantes a las audiencias correctas. La plataforma ofrece plantillas prediseñadas optimizadas por IA, análisis avanzados y flujos de trabajo automatizados, lo que permite a las empresas ahorrar tiempo y mejorar sus tasas de apertura y conversión.\n\n",
+        "release_date": "No disponible",
+        "developer": "tinyEmail, Inc.",
+        "main_model": "No especificado",
+        "pricing_plans": "Free: Funcionalidades básicas con limitaciones.\nStandard: Herramientas avanzadas de automatización y personalización.\nPro: Segmentación avanzada, análisis de rendimiento y más herramientas de optimización.\nEnterprise: Soluciones personalizadas y escalables para grandes empresas.",
+        "license": "Propietaria",
+        "security_privacy": "tinyEmail asegura el cumplimiento de las normativas de protección de datos, como el GDPR. La plataforma protege la información del usuario y los datos recopilados de las campañas, garantizando la confidencialidad y la seguridad durante la transmisión de correos electrónicos.",
+        "integration": "tinyEmail se integra con varias plataformas y herramientas populares, como:\n\nShopify\nWooCommerce\nZapier\nGoogle Analytics\nEstas integraciones facilitan el flujo de datos y automatizan procesos dentro de ecosistemas de comercio electrónico y análisis."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolslist.io/best-ai-tools/"
+        },
+        {
+          "source_url": "https://www.tinyemail.com/"
+        },
+        {
+          "source_url": "https://www.ranktracker.com/es/blog/tinyemail-review/"
+        },
+        {
+          "source_url": "https://www.startupaitools.com/marketing/ai-email-marketing-tools/tinyemail-ai-email-marketing/"
+        },
+        {
+          "source_url": "https://thedigitalmerchant.com/es/tinyemail-review/"
+        },
+        {
+          "source_url": "https://www.tinyemail.com/#"
+        },
+        {
+          "source_url": "https://www.tinyemail.com/pricing/"
+        },
+        {
+          "source_url": "https://www.tinyco.ai/company/privacy-policy"
+        }
+      ]
+    },
+    "455": {
+      "app": {
+        "id": "455",
+        "name": "Toasty AI",
+        "url": "https://www.toastyai.com/",
+        "short_description": "Plataforma impulsada por inteligencia artificial que facilita la creación de contenido para podcasts, generando transcripciones, notas de episodios, artículos de blog y publicaciones en redes sociales de manera automatizada.",
+        "category": "Marketing",
+        "main_functionality": "Automatizar la generación de múltiples piezas de contenido a partir de episodios de podcast, incluyendo transcripciones precisas, notas de episodios, artículos optimizados para SEO y publicaciones en redes sociales, optimizando así la promoción y alcance del podcast.",
+        "tags": "#CreaciónDeContenido #Podcasting #InteligenciaArtificial #Automatización",
+        "logo_filename": "id_455_toastyai",
+        "what_is": "Toasty AI es una herramienta basada en inteligencia artificial diseñada específicamente para podcasters, que automatiza la creación de contenido relacionado con los episodios de podcast. Transforma las grabaciones en múltiples formatos de contenido como transcripciones, artículos y publicaciones en redes sociales.\n\n",
+        "purpose": "Está pensada para ahorrar tiempo y esfuerzo a los creadores de contenido, permitiéndoles centrarse en la producción de calidad mientras la herramienta genera material complementario para la promoción y el alcance de su podcast.",
+        "use_cases": "Promoción de episodios: Crear publicaciones en redes sociales basadas en contenido clave de cada episodio.\nOptimización SEO: Generar artículos de blog que mejoren el alcance orgánico del podcast.\nDocumentación: Transcripciones completas para facilitar la consulta o accesibilidad.\nAudiencias amplias: Adaptar el contenido a múltiples formatos para llegar a diversos públicos.",
+        "main_advantages": "Automatización: Elimina tareas manuales, como la redacción de resúmenes y notas de episodios.\nPrecisión: Proporciona transcripciones detalladas y ajustadas al audio original.\nAhorro de tiempo: Genera contenido en cuestión de minutos, lo que permite a los creadores centrarse en la producción.\nCompatibilidad: Útil para podcasters de todos los niveles, desde principiantes hasta profesionales.\nEscalabilidad: Ayuda a gestionar y promover múltiples episodios de manera eficiente.",
+        "long_description": "Toasty AI es una plataforma impulsada por inteligencia artificial diseñada para optimizar la promoción de podcasts. Automatiza la creación de diversos contenidos derivados de cada episodio, incluyendo transcripciones precisas, notas del programa, artículos de blog optimizados para SEO y publicaciones en redes sociales. La herramienta permite a los podcasters centrarse en la producción de sus episodios, mientras Toasty AI se encarga de generar materiales promocionales de alta calidad que amplían el alcance y la audiencia del podcast.",
+        "release_date": "No disponible",
+        "developer": "Yusuf Oguzhan Yildiz.",
+        "main_model": "No disponible",
+        "pricing_plans": "Toasty AI ofrece planes de suscripción que comienzan desde $12.50 al mes, proporcionando más de 20 piezas de contenido profesional por cada episodio de podcast, incluyendo transcripciones de alta precisión y videos generados a partir del audio. Los planes están diseñados para adaptarse a las necesidades de diferentes podcasters, desde individuos hasta redes establecidas.",
+        "license": "Suscripción",
+        "security_privacy": "Toasty AI recopila información personal y técnica para proporcionar y mejorar sus servicios, incluyendo datos como nombre, correo electrónico, preferencias, dirección IP y datos de uso. Utiliza esta información para gestionar cuentas, mejorar la experiencia del usuario y realizar análisis internos. Se compromete a proteger la privacidad de los usuarios conforme a su política. Más detalles en su Política de Privacidad.",
+        "integration": "Toasty AI permite la carga de episodios a través de fuentes RSS, URL de YouTube o mediante la subida directa de archivos de audio y video, facilitando su uso con diversas plataformas de alojamiento de podcasts y canales de distribución."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/toasty-ai"
+        },
+        {
+          "source_url": "https://toastyai.softonic.com/aplicaciones-web?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://iaperfecta.com/toastyai/"
+        },
+        {
+          "source_url": "https://www.toastyai.com/privacy-policy/"
+        },
+        {
+          "source_url": "https://betalist.com/startups/toasty-ai"
+        },
+        {
+          "source_url": "https://easywithai.com/ai-podcast-tools/toasty-ai/"
+        },
+        {
+          "source_url": "https://startupheroes.io/startups/toasty-ai/"
+        },
+        {
+          "source_url": "https://topai.tools/t/toastyai"
+        },
+        {
+          "source_url": "https://www.toastyai.com/pricing/"
+        }
+      ]
+    },
+    "535": {
+      "app": {
+        "id": "535",
+        "name": "Theneo",
+        "url": "https://www.theneo.io/",
+        "short_description": "Cree documentación de API impresionante, de bajo mantenimiento y atractiva con una sola carga.\n",
+        "category": "Redacción",
+        "main_functionality": "Generación automática de documentación de API, colaboración en tiempo real y personalización de portales para desarrolladores.",
+        "tags": "#APIDocumentation #DesarrolloDeSoftware #Automatización #Colaboración #IA",
+        "logo_filename": "id_535_theneo",
+        "what_is": "Theneo es una plataforma de documentación de API impulsada por IA que automatiza la creación de documentación técnica similar a Stripe, simplificando el proceso para desarrolladores y redactores técnicos.",
+        "purpose": "Theneo es una plataforma de documentación de API impulsada por IA que automatiza la creación de documentación técnica similar a Stripe, simplificando el proceso para desarrolladores y redactores técnicos.",
+        "use_cases": "Creación automatizada de documentación para APIs.\nColaboración entre equipos de desarrollo y producto.\nIntegración de pruebas de APIs en la documentación.",
+        "main_advantages": "Ahorro de tiempo en la documentación técnica.\nDocumentación interactiva y fácil de usar.\nColaboración fluida entre equipos técnicos y no técnicos.",
+        "long_description": "Theneo es una plataforma impulsada por inteligencia artificial que automatiza la creación de documentación de APIs, permitiendo a los desarrolladores generar documentación interactiva y personalizable de manera eficiente. La plataforma soporta múltiples formatos de APIs y ofrece herramientas de colaboración en tiempo real, facilitando la integración y adopción de APIs por parte de los usuarios.",
+        "release_date": "Octubre 2024",
+        "developer": "Theneo Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "Theneo ofrece una variedad de planes de suscripción para adaptarse a diferentes necesidades, incluyendo una opción gratuita y planes de pago con características adicionales. Para obtener información detallada sobre los precios y las funcionalidades incluidas en cada plan, se recomienda visitar la sección de precios en su sitio oficial",
+        "license": "Propietaria",
+        "security_privacy": "Theneo se compromete a mantener altos estándares de seguridad y privacidad para proteger los datos de sus usuarios.",
+        "integration": "Theneo se integra con diversas herramientas y plataformas de desarrollo, facilitando la incorporación de su funcionalidad en flujos de trabajo existentes."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.theneo.io/?utm_source=superhuman&utm_medium=referral&utm_campaign=ai-slashes-healthcare-waste"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/theneo"
+        },
+        {
+          "source_url": "https://kodora.ai/ai-tool/theneo/"
+        },
+        {
+          "source_url": "https://www.ycombinator.com/companies/theneo"
+        },
+        {
+          "source_url": "https://deepgram.com/ai-apps/theneo"
+        },
+        {
+          "source_url": "https://huntscreens.com/es/products/theneo-30"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/theneo"
+        },
+        {
+          "source_url": "https://aplicaciones.ai/theneo/?srsltid=AfmBOoq8fOyzs4YcHNrB-0-4ixgtbaSvID9lmES24xEYezLU6B12DUuY"
+        },
+        {
+          "source_url": "https://www.crunchbase.com/organization/theneo/org_similarity_overview"
+        },
+        {
+          "source_url": "https://www.theneo.io/pricing"
+        },
+        {
+          "source_url": "https://www.theneo.io/blog"
+        }
+      ]
+    },
+    "538": {
+      "app": {
+        "id": "538",
+        "name": "TestSprite",
+        "url": "https://www.testsprite.com/",
+        "short_description": "El primer agente de pruebas de IA de extremo a extremo para equipos de desarrolladores pequeños y en crecimiento, que gestiona los procesos de frontend y backend.",
+        "category": "Automatización",
+        "main_functionality": "Automatización autónoma de pruebas de software para sistemas frontend y backend, incluyendo generación de planes de prueba, implementación de código, ejecución en la nube y análisis de resultados.",
+        "tags": "#AutomatizaciónDePruebas #PruebasDeSoftware #IA #QA #CI/CD",
+        "logo_filename": "id_538_testsprite",
+        "what_is": "TestSprite es una plataforma autónoma de pruebas de software impulsada por inteligencia artificial que automatiza completamente los procesos de prueba de extremo a extremo para sistemas frontend y backend, sin requerir intervención manual.",
+        "purpose": "Su propósito principal es optimizar y acelerar el aseguramiento de la calidad en el desarrollo de software, permitiendo a los equipos de desarrollo realizar pruebas exhaustivas de manera eficiente y con menor esfuerzo manual.",
+        "use_cases": "Validación de Código Generado por IA: TestSprite valida y prueba código complejo generado por asistentes de codificación de IA para garantizar su calidad y fiabilidad. \n\nEquipos con Recursos Limitados: Permite a pequeños equipos de desarrollo mantener una cobertura de pruebas completa sin necesidad de recursos dedicados a QA. \n\nCiclos de Desarrollo Rápidos: Acelera la entrega de software automatizando los procesos de prueba para equipos enfocados en despliegues rápidos.",
+        "main_advantages": "Pruebas Autónomas: Realiza pruebas de software de manera totalmente autónoma, reduciendo la necesidad de intervención humana. \n\nAhorro de Tiempo: Ofrece ahorros de tiempo significativos, con pruebas hasta 1000 veces más rápidas que los métodos tradicionales. \n\nCobertura Completa: Proporciona cobertura completa para pruebas tanto de frontend como de backend, asegurando la calidad en todas las áreas del software. \n\nIntegración CI/CD: Se integra sin problemas con flujos de trabajo de desarrollo existentes y pipelines de CI/CD, facilitando la automatización continua. ",
+        "long_description": "TestSprite es una plataforma autónoma de pruebas de software impulsada por inteligencia artificial que automatiza completamente los procesos de pruebas de extremo a extremo para sistemas frontend y backend, sin requerir intervención manual. Ofrece generación autónoma de planes de prueba, implementación de código de prueba, ejecución en la nube, depuración inteligente y creación de informes detallados.",
+        "release_date": "Enero 2025",
+        "developer": "TestSprite Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "TestSprite ofrece una versión comunitaria freemium para comenzar a usar sin costo. Para obtener detalles sobre otros planes de suscripción, se recomienda visitar el sitio web oficial.",
+        "license": "No especificado",
+        "security_privacy": "TestSprite es una plataforma de automatización de pruebas de software impulsada por inteligencia artificial que optimiza todo el ciclo de pruebas, desde la generación de planes hasta la ejecución y análisis de resultados. Permite a los equipos de desarrollo mejorar la calidad del software mediante pruebas automáticas eficientes para frontend y backend, integrándose fácilmente con pipelines de CI/CD.",
+        "integration": "TestSprite se integra sin problemas con flujos de trabajo de desarrollo existentes y pipelines de CI/CD, facilitando la automatización continua en el proceso de desarrollo de software."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.testsprite.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=ai-slashes-healthcare-waste"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/testsprite"
+        },
+        {
+          "source_url": "https://bestaiagents.ai/agent/testsprite"
+        },
+        {
+          "source_url": "https://aiagentstore.ai/ai-agent/testsprite"
+        },
+        {
+          "source_url": "https://www.aisharenet.com/en/testsprite/"
+        },
+        {
+          "source_url": "https://supertools.therundown.ai/content/testsprite-beta"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/testsprite"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/testsprite/?ref=embed"
+        },
+        {
+          "source_url": "https://gptzone.net/aplicaciones-ia/testsprite-beta/"
+        }
+      ]
+    },
+    "569": {
+      "app": {
+        "id": "569",
+        "name": "Text2Question",
+        "url": "https://text2question.vercel.app/",
+        "short_description": "Genere preguntas de cuestionario a partir de cualquier texto utilizando IA directamente en su navegador.",
+        "category": "Educación",
+        "main_functionality": "Generación automática de preguntas a partir de textos proporcionados por el usuario, creando cuestionarios que mejoran la comprensión y retención de información.",
+        "tags": "#Educación #IA #Cuestionarios #Aprendizaje",
+        "logo_filename": "id_569_text2_question",
+        "what_is": "Text2Question es una herramienta de código abierto que utiliza inteligencia artificial para transformar cualquier texto en cuestionarios interactivos, facilitando procesos de aprendizaje y formación.",
+        "purpose": "Su propósito principal es generar automáticamente preguntas a partir de textos proporcionados por el usuario, creando cuestionarios que mejoran la comprensión y retención de información.\n\n",
+        "use_cases": "Educadores: Pueden convertir materiales de estudio en cuestionarios para evaluar la comprensión de los estudiantes.\nEstudiantes: Pueden generar preguntas de autoevaluación a partir de sus apuntes para reforzar el aprendizaje.\nProfesionales de Formación: Pueden crear evaluaciones rápidas basadas en contenido de capacitación existente.",
+        "main_advantages": "Accesibilidad: Al ser una herramienta de código abierto, está disponible para cualquier usuario interesado en mejorar sus métodos de estudio o enseñanza.\nEficiencia: Ahorra tiempo en la creación de materiales de evaluación al automatizar el proceso de generación de preguntas.\nInteractividad: Facilita la creación de cuestionarios interactivos que pueden ser utilizados en diversas plataformas educativas.",
+        "long_description": "Text2Question es una herramienta de código abierto que utiliza inteligencia artificial para transformar cualquier texto en cuestionarios interactivos. Esta aplicación permite a educadores, estudiantes y profesionales de la formación generar preguntas automáticamente a partir de textos proporcionados, facilitando la creación de materiales de evaluación y autoevaluación",
+        "release_date": "Enero 2025",
+        "developer": "No disponible",
+        "main_model": "Text2Question emplea inteligencia artificial para analizar textos y generar preguntas relevantes, aunque no se especifica el modelo o algoritmo exacto utilizado.",
+        "pricing_plans": "Al ser una herramienta de código abierto, Text2Question está disponible de forma gratuita para todos los usuarios interesados en mejorar sus métodos de estudio o enseñanza.",
+        "license": "No disponible",
+        "security_privacy": "No disponible",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://text2question.vercel.app/?utm_source=superhuman&utm_medium=referral&utm_campaign=new-ai-study-shows-the-potential-of-ai-in-education"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/text2question"
+        }
+      ]
+    },
+    "621": {
+      "app": {
+        "id": "621",
+        "name": "Trae",
+        "url": "https://www.trae.ai/",
+        "short_description": "Un asistente de codificación adaptable y multimodal que desglosa y ejecuta tareas automáticamente, maximizando su productividad.",
+        "category": "Codificación",
+        "main_functionality": "Proporciona sugerencias de código en tiempo real, generación de fragmentos de código basados en descripciones en lenguaje natural y asistencia interactiva para mejorar la eficiencia en el desarrollo de software.",
+        "tags": "#IDE #InteligenciaArtificial #DesarrolloDeSoftware",
+        "logo_filename": "id_621_trae_ai",
+        "what_is": "Trae es un entorno de desarrollo integrado (IDE) impulsado por inteligencia artificial, desarrollado por ByteDance, diseñado para optimizar y automatizar el proceso de programación, ofreciendo asistencia en tiempo real y generación de código para desarrolladores profesionales.",
+        "purpose": "Su objetivo principal es mejorar la eficiencia en el desarrollo de software, proporcionando herramientas que permiten a los desarrolladores recibir sugerencias de código en tiempo real, generar fragmentos de código basados en descripciones en lenguaje natural y obtener asistencia interactiva durante el proceso de programación.",
+        "use_cases": "Desarrollo de Aplicaciones Web: Trae puede generar código para aplicaciones web con funcionalidades específicas, como carga y compresión de imágenes, basándose en los requisitos del desarrollador.\n\nDesarrollo de Herramientas de Procesamiento de Imágenes: Para herramientas que requieren conversión de formatos de imagen, recorte, adición de marcas de agua o aplicación de filtros, Trae asiste en la escritura y configuración del proyecto.\n\nProyectos Front-end: Al crear proyectos front-end con estilos de página específicos, Trae puede utilizar frameworks como React y tecnologías como TypeScript para generar el código correspondiente, facilitando la implementación de diseños y funcionalidades deseadas.",
+        "main_advantages": "Asistencia Inteligente en Tiempo Real: Ofrece sugerencias y respuestas inmediatas durante la codificación, ayudando en la explicación de código, escritura de comentarios, corrección de errores y patrones de programación.\n\nGeneración de Código Basada en Lenguaje Natural: Permite a los desarrolladores describir sus necesidades en lenguaje natural, y la IA genera los fragmentos de código correspondientes, ahorrando tiempo en tareas repetitivas.\n\nConstrucción Rápida de Proyectos: En el modo \"Builder\", los desarrolladores pueden indicar el tipo de aplicación que desean crear, y Trae se encarga de configurar el proyecto, incluyendo la creación de archivos y la ejecución de comandos necesarios.\n\nInteracción Multimodal: Trae soporta la carga de imágenes para expresar necesidades, como bocetos de diseño o capturas de pantalla de errores, y la IA interpreta el contenido para proporcionar asistencia más precisa.",
+        "long_description": "Trae es un entorno de desarrollo integrado (IDE) impulsado por inteligencia artificial, diseñado para optimizar y automatizar el proceso de programación. Ofrece asistencia en tiempo real, generación de código y otras herramientas avanzadas para mejorar la eficiencia de los desarrolladores. Trae proporciona sugerencias de código en tiempo real, generación de fragmentos de código basados en descripciones en lenguaje natural y asistencia interactiva para mejorar la eficiencia en el desarrollo de software.",
+        "release_date": "Octubre 2023",
+        "developer": "SPRING (SG) PTE. LTD.",
+        "main_model": "No disponible",
+        "pricing_plans": "No disponible",
+        "license": "No disponible",
+        "security_privacy": "La Política de Privacidad de Trae.ai detalla la recopilación y uso de datos personales, incluyendo información proporcionada por el usuario y datos de uso de la aplicación. Estos datos se emplean para mejorar los servicios, personalizar la experiencia del usuario y comunicarse con él. Trae.ai implementa medidas de seguridad para proteger la información del usuario y puede compartir datos con terceros en circunstancias específicas, como cumplimiento legal o prestación de servicios en su nombre. La política también aborda los derechos de los usuarios en relación con sus datos personales y proporciona información de contacto para consultas sobre privacidad.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.trae.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-s-agent-is-here"
+        },
+        {
+          "source_url": "https://www.aibase.com/news/14899"
+        }
+      ]
+    },
+    "701": {
+      "app": {
+        "id": "701",
+        "name": "Tome App",
+        "url": "https://tome.app/",
+        "short_description": "Asistente de inteligencia artificial diseñado para equipos de ventas y marketing, facilitando la creación de presentaciones personalizadas y análisis de cuentas clave.",
+        "category": "Productividad",
+        "main_functionality": "Generación y personalización de presentaciones de ventas mediante inteligencia artificial, integrando datos de CRM y análisis de iniciativas estratégicas.",
+        "tags": "#Productividad #AsistenteDeVentas #PresentacionesAI",
+        "logo_filename": "id_701_tome",
+        "what_is": "Tome AI es una plataforma impulsada por inteligencia artificial que actúa como un asistente para equipos de ventas y marketing, permitiendo la creación de presentaciones y la identificación de oportunidades en cuentas clave. ",
+        "purpose": "Su propósito principal es optimizar el proceso de ventas al proporcionar herramientas que generan presentaciones personalizadas y ofrecen información estratégica sobre clientes potenciales. ",
+        "use_cases": "Identificación de iniciativas estratégicas en cuentas objetivo.​\n\nMapeo de los principales responsables de la toma de decisiones en las cuentas.​\n\nCreación de presentaciones de ventas adaptadas a las necesidades específicas de cada cliente.​\n\nPreparación de resúmenes oportunos para reuniones de ventas.",
+        "main_advantages": "Automatización en la generación de contenido para presentaciones.​\n\nIntegración con datos de CRM para análisis más precisos.​\n\nPersonalización de mensajes y propuestas para cada cliente.​\n\nAhorro de tiempo en la preparación y planificación de reuniones de ventas.",
+        "long_description": "Tome AI es una plataforma avanzada que utiliza inteligencia artificial para asistir a equipos de ventas y marketing en la creación de presentaciones impactantes y en la identificación de oportunidades dentro de cuentas clave. Al integrarse con datos de CRM y analizar iniciativas estratégicas, Tome proporciona información valiosa sobre la estructura y prioridades de las organizaciones objetivo. Sus funcionalidades incluyen la generación automatizada de presentaciones personalizadas, mapeo de responsables de decisiones, análisis de indicadores de crecimiento y preparación de resúmenes para reuniones, todo diseñado para mejorar la eficacia y eficiencia en el proceso de ventas. ",
+        "release_date": "2022",
+        "developer": "Magical Tome, Inc.",
+        "main_model": "No especificado.",
+        "pricing_plans": "Basic: Gratuito, incluye edición manual, exploración de plantillas y uso compartido ilimitado.​\n\nProfessional: $16 USD por mes, ofrece herramientas de generación y diseño con IA, análisis de participación, personalización de marca, acceso a más de 100 plantillas y exportación a PDF.​\n\nEnterprise: Precio según negociación, incluye todas las características del plan Professional más investigación y personalización con IA, ajuste personalizado de resultados de IA, integraciones de datos personalizadas, importación de plantillas de la empresa y soporte especializado.",
+        "license": "Propietaria",
+        "security_privacy": "No disponible",
+        "integration": "Tome AI se integra con herramientas como Figma, permitiendo la incorporación de contenido en vivo e interactivo en las presentaciones. "
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://landing-staging.tome.app/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://deepgram.com/ai-apps/tome"
+        },
+        {
+          "source_url": "https://play.google.com/store/apps/details?hl=en_US&id=com.tomeaiapp.presentations"
+        },
+        {
+          "source_url": "https://slidemodel.com/ai-presentation-maker/compare-tome-alternative/"
+        }
+      ]
+    },
+    "724": {
+      "app": {
+        "id": "724",
+        "name": "TheySaid",
+        "url": "https://www.theysaid.io/",
+        "short_description": "Impulse el valor para el cliente y los ingresos con la primera encuesta de IA conversacional del mundo.",
+        "category": "Automatización",
+        "main_functionality": "Creación y análisis de encuestas mediante IA que generan conversaciones personalizadas para obtener retroalimentación cualitativa y cuantitativa.",
+        "tags": "#ProcesamientoDelLenguajeNatural #EncuestasConversacionales #AnálisisDeDatos",
+        "logo_filename": "id_724_theysaid",
+        "what_is": "TheySaid es una plataforma de encuestas basada en inteligencia artificial que permite a las organizaciones recopilar y analizar retroalimentación de clientes y empleados a través de conversaciones interactivas y personalizadas.",
+        "purpose": "Su propósito principal es mejorar la calidad y profundidad de las respuestas en encuestas, facilitando la obtención de insights accionables para la toma de decisiones empresariales.",
+        "use_cases": "TheySaid se utiliza en diversos sectores para:​\n\n\nRealizar encuestas de satisfacción del cliente.​\nLlevar a cabo entrevistas automatizadas con candidatos.​\nEvaluar la experiencia del usuario en productos digitales.​\nRecopilar retroalimentación de empleados sobre el ambiente laboral.",
+        "main_advantages": "Entre los beneficios clave se incluyen:​\n\nGeneración automática de encuestas mediante IA.​\nConversaciones interactivas que aumentan la tasa de respuesta.​\nAnálisis en tiempo real de las respuestas para identificar tendencias.\nIntegración con herramientas existentes y múltiples canales de distribución.",
+        "long_description": "TheySaid es una plataforma avanzada que utiliza inteligencia artificial para transformar encuestas tradicionales en conversaciones dinámicas y personalizadas. Permite a las organizaciones generar encuestas automáticamente, interactuar con los encuestados de manera más efectiva y analizar las respuestas en tiempo real para obtener insights profundos y accionables. La plataforma se integra con múltiples canales de distribución y herramientas existentes, facilitando su implementación y maximizando el alcance de las encuestas.",
+        "release_date": "2023",
+        "developer": "TheySaid",
+        "main_model": "Utiliza modelos de procesamiento del lenguaje natural y aprendizaje automático para generar y analizar encuestas conversacionales.",
+        "pricing_plans": "Ofrece planes gratuitos y de pago, adaptados a las necesidades de diferentes organizaciones.",
+        "license": "Propietario",
+        "security_privacy": "TheySaid cumple con certificaciones de seguridad como SOC 2, SOC 3 e ISO 27001, y está en conformidad con el GDPR de la UE, garantizando la protección de los datos de los usuarios.",
+        "integration": "La plataforma se integra con diversos canales de distribución, incluyendo correo electrónico, códigos QR y redes sociales, facilitando la recopilación de respuestas desde múltiples puntos de contacto."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Nezasa aumenta leads calificados y reduce cancelaciones con TheySaid",
+          "description": "Implementó TheySaid y logró un incremento del 5-10% en leads calificados de clientes existentes en pocos meses, además de una reducción en la tasa de cancelación.",
+          "url": "https://www.theysaid.io/resources/case-studies"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Rocketlane reduce cancelaciones y aumenta ventas adicionales con TheySaid",
+          "description": "Al integrar TheySaid, experimentaron una disminución del 5-10% en la cancelación de clientes y un aumento en las oportunidades de venta adicional.",
+          "url": "https://www.theysaid.io/resources/case-studies"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "DX mejora la calidad de sus encuestas con TheySaid",
+          "description": "Utilizó TheySaid para obtener recomendaciones de preguntas que reflejaban las inquietudes internas del equipo, mejorando la calidad de las encuestas.",
+          "url": "https://www.theysaid.io/resources/case-studies"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "ClickUp optimiza la recopilación de insights con TheySaid",
+          "description": "TheySaid ayudó a mejorar la recopilación de insights, haciendo el proceso más inteligente y atractivo para los clientes.",
+          "url": "https://www.theysaid.io/resources/case-studies"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.theysaid.io/?utm_source=superhuman&utm_medium=referral&utm_campaign=nvidia-s-reassuring-earnings-report"
+        },
+        {
+          "source_url": "https://www.theysaid.io/resources/case-studies"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/theysaid"
+        },
+        {
+          "source_url": "https://ecosystem.hubspot.com/marketplace/apps/theysaid-469128?eco_tools=MARKETING_LANDING_PAGES"
+        }
+      ]
+    },
+    "792": {
+      "app": {
+        "id": "792",
+        "name": "Tool Finder",
+        "url": "https://toolfinder.co/",
+        "short_description": "Encuentre reseñas, filtre herramientas, busque al instante y descubra las mejores herramientas para un trabajo más inteligente.",
+        "category": "Productividad",
+        "main_functionality": "Permite a los usuarios descubrir, comparar y seleccionar herramientas de software adecuadas a sus necesidades, con énfasis en aplicaciones de inteligencia artificial y productividad.",
+        "tags": "#CatálogoDeSoftware #ComparadorDeHerramientas #Productividad #InteligenciaArtificial",
+        "logo_filename": "id_792_toolfinder",
+        "what_is": "Tool Finder es una plataforma en línea que actúa como un catálogo y comparador de herramientas de software, ayudando a los usuarios a encontrar aplicaciones que se ajusten a sus necesidades específicas, con un enfoque destacado en soluciones de inteligencia artificial y productividad.",
+        "purpose": "Facilita la identificación y selección de herramientas de software adecuadas para tareas empresariales, académicas o personales, proporcionando descripciones detalladas, categorizaciones y comparaciones entre diferentes opciones disponibles en el mercado.",
+        "use_cases": "Profesionales que buscan herramientas de IA para mejorar la eficiencia laboral, equipos de trabajo que necesitan soluciones colaborativas, estudiantes que requieren aplicaciones educativas y empresas que desean implementar software específico para sus operaciones.",
+        "main_advantages": "Acceso a una amplia base de datos de herramientas de software, categorización clara por tipo y función, comparaciones detalladas entre aplicaciones, y enfoque en soluciones de inteligencia artificial y productividad.",
+        "long_description": "Tool Finder es una plataforma digital que ofrece un catálogo extenso de herramientas de software, permitiendo a los usuarios explorar, comparar y seleccionar aplicaciones que se alineen con sus objetivos y necesidades. La plataforma organiza las herramientas en categorías específicas, como productividad, gestión de tareas, inteligencia artificial, entre otras, proporcionando descripciones detalladas y comparaciones para facilitar la toma de decisiones informadas. Además, Tool Finder destaca aplicaciones emergentes y populares, y ofrece recursos adicionales para ayudar a los usuarios a integrar estas herramientas en sus flujos de trabajo.",
+        "release_date": "No disponible",
+        "developer": "Tool Finder",
+        "main_model": "No disponible",
+        "pricing_plans": "Acceso gratuito a la plataforma y sus funcionalidades principales.",
+        "license": "Propietaria",
+        "security_privacy": "No disponible",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://toolfinder.co/?utm_source=superhuman&utm_medium=referral&utm_campaign=o3-sparks-agi-debate"
+        }
+      ]
+    },
+    "816": {
+      "app": {
+        "id": "816",
+        "name": "Tome AI",
+        "url": "https://tome.com/",
+        "short_description": "Revise los contratos, negocie los términos y redacte las políticas de privacidad con la ayuda de un experto legal impulsado por IA.",
+        "category": "Gestión",
+        "main_functionality": "Análisis automatizado de contratos, identificación de riesgos y sugerencias de negociación, con opción de revisión por abogados calificados.",
+        "tags": "#LegalTech #IA #Contratos #AutomatizaciónLegal #AsistenciaLegal​",
+        "logo_filename": "id_816_tomeai2",
+        "what_is": "Tome AI es una plataforma legal que utiliza inteligencia artificial para analizar contratos comerciales, identificar riesgos y ofrecer sugerencias de negociación, complementada con la posibilidad de asesoría por abogados expertos.",
+        "purpose": "Sirve para agilizar y optimizar la revisión y negociación de contratos, proporcionando análisis detallados y recomendaciones basadas en estándares de mercado, reduciendo la necesidad de consultas legales tradicionales.",
+        "use_cases": "Revisión de acuerdos de confidencialidad (NDAs).\n\nAnálisis de contratos de ventas y servicios.\n\nNegociación de términos en rondas de financiamiento.\n\nRedacción y revisión de políticas de privacidad y términos de servicio.",
+        "main_advantages": "Análisis rápido y preciso de contratos mediante IA.\n\nSugerencias de negociación aprobadas por abogados.\n\nAcceso a una base de datos extensa de precedentes y estándares de mercado.\n\nAlmacenamiento seguro de documentos en el \"Tome Vault\".\n\nIntegración con herramientas como Slack y correo electrónico para colaboración.",
+        "long_description": "Tome AI es una plataforma legal que combina inteligencia artificial con asesoría legal experta para facilitar la revisión, negociación y redacción de contratos comerciales. La herramienta analiza documentos legales, identifica riesgos y ofrece sugerencias de negociación basadas en una extensa base de datos de precedentes y estándares de mercado. Además, permite la colaboración en tiempo real y el almacenamiento seguro de documentos, optimizando los procesos legales para startups, inversores y pequeñas empresas.",
+        "release_date": "2023",
+        "developer": "Tome Law",
+        "main_model": "Utiliza modelos de lenguaje de gran escala (LLM) entrenados en terminología legal y contratos comerciales.",
+        "pricing_plans": "Tome AI (Gratuito): Hasta 5 asuntos gratuitos, análisis instantáneo mediante LLM, sugerencias de negociación aprobadas por abogados, acceso a datos de mercado y almacenamiento seguro en el \"Tome Vault\".\n\nTome + Counsel (Desde $200 por asunto): Incluye todo lo anterior, más revisión y asesoría por abogados expertos, soporte en redacción y negociación, integración con Slack y correo electrónico, y acceso anticipado a nuevas funciones.\n\nEnterprise (Precio personalizado): Soluciones personalizadas para análisis de contratos a gran escala, reglas y playbooks personalizados, benchmarking histórico e integración con herramientas internas.",
+        "license": "Propietaria",
+        "security_privacy": "Certificación SOC 2 Tipo I y en proceso de obtener SOC 2 Tipo II.\n\nCifrado de datos en reposo y en tránsito.\n\nControles de acceso basados en roles y autenticación multifactor.\n\nMonitoreo continuo y pruebas de penetración regulares.\n\nPolíticas de privacidad transparentes y prácticas de anonimización de datos.",
+        "integration": "Compatible con Slack, correo electrónico y API de contratos para facilitar la colaboración y automatización de flujos de trabajo."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://tome.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=a-scrappy-startup-challenges-openai-s-sora"
+        },
+        {
+          "source_url": "https://www.toolsforhumans.ai/ai-tools/tome"
+        },
+        {
+          "source_url": "https://www.chasingrainbows.vc/blog/tome-law-revolutionizing-legal-work-with-ai"
+        },
+        {
+          "source_url": "https://medium.com/%40alhn/%EF%B8%8F-%EF%B8%8F-with-the-worlds-first-ai-law-firm-you-can-create-nda-terms-of-service-benchmark-market-tr-472e32223121"
+        },
+        {
+          "source_url": "https://bots-uat.babble-ai.com/tome-1"
+        },
+        {
+          "source_url": "https://www.aitechsuite.com/tools/tome.com?"
+        },
+        {
+          "source_url": "https://www.reddit.com/r/LawFirm/comments/174qhaj/a_warning_against_ai_tools_dont_consider_them/"
+        },
+        {
+          "source_url": "https://www.futuretools.io/tools/tome-law"
+        }
+      ]
+    },
+    "898": {
+      "app": {
+        "id": "898",
+        "name": "They See Your Photos",
+        "url": "https://theyseeyourphotos.com/",
+        "short_description": "Descubre información oculta en tus fotos usando IA.",
+        "category": "Detección",
+        "main_functionality": "Análisis automatizado de imágenes utilizando la API de Google Vision para revelar detalles ocultos y metadatos presentes en las fotografías.",
+        "tags": "#AnálisisDeImágenes #PrivacidadDigital #GoogleVisionAPI #ReconocimientoVisual",
+        "logo_filename": "id_898_theyseeyourphotos",
+        "what_is": "They See Your Photos es una herramienta web que utiliza la API de Google Vision para analizar imágenes y demostrar la cantidad de información que puede extraerse de una sola fotografía, incluyendo detalles visibles y metadatos ocultos.",
+        "purpose": "Sirve para concienciar a los usuarios sobre la cantidad de información personal que pueden revelar sus fotos al ser analizadas por sistemas de inteligencia artificial, destacando aspectos relacionados con la privacidad digital.",
+        "use_cases": "Educación en privacidad digital y concienciación sobre los riesgos de compartir imágenes en línea.\n\nDemostraciones en talleres o seminarios sobre seguridad de la información.\n\nEvaluación personal de la información que una imagen puede revelar antes de compartirla públicamente.",
+        "main_advantages": "Proporciona una visión clara y detallada de cómo las IA pueden interpretar imágenes.\n\nFacilita la comprensión de los riesgos asociados al intercambio de fotografías en plataformas digitales.\n\nNo requiere conocimientos técnicos para su uso; interfaz sencilla e intuitiva.",
+        "long_description": "They See Your Photos es una plataforma en línea que permite a los usuarios subir una fotografía y recibir un análisis detallado generado por la API de Google Vision. Este análisis incluye descripciones de objetos, personas, emociones, ubicaciones y otros elementos presentes en la imagen, así como información extraída de los metadatos. La herramienta busca ilustrar cómo las tecnologías de inteligencia artificial pueden interpretar y extraer información de las imágenes que compartimos, destacando la importancia de la privacidad y la seguridad en el entorno digital.",
+        "release_date": "Mayo 2024",
+        "developer": "Desarrollada por Vishnu Mohandas y su equipo en Ente, una empresa enfocada en soluciones de almacenamiento de fotos con énfasis en la privacidad.",
+        "main_model": "Utiliza la API de Google Vision para el análisis de imágenes.",
+        "pricing_plans": "Servicio gratuito sin necesidad de registro.",
+        "license": "Propietaria",
+        "security_privacy": "Las imágenes subidas se procesan a través de la API de Google Vision y se eliminan después del análisis. La plataforma enfatiza la privacidad y no almacena las fotografías de los usuarios.",
+        "integration": "Actualmente, no se especifican integraciones directas con otras herramientas o plataformas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://theyseeyourphotos.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=mistral-steals-gemma-3-s-crown"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/they-see-your-photos"
+        },
+        {
+          "source_url": "https://www.geeksaresexy.net/2024/12/04/discover-what-googles-ai-knows-about-your-photos/"
+        }
+      ]
+    },
+    "1006": {
+      "app": {
+        "id": "1006",
+        "name": "Toolsmart",
+        "url": "https://www.toolsmart.ai/feature-free-humanize-ai",
+        "short_description": "Convierta el contenido de IA en texto natural, similar al humano e indetectable.",
+        "category": "Productividad",
+        "main_functionality": "Transformar texto generado por inteligencia artificial en contenido que imita la escritura humana, mejorando la naturalidad y evitando la detección por herramientas de identificación de IA.",
+        "tags": "#HumanizaciónDeTexto #ProcesamientoDeLenguajeNatural #HerramientasDeEscritura #IA #Parafraseo #Reescritura",
+        "logo_filename": "id_1006_toolsmartai",
+        "what_is": "Toolsmart es una plataforma que reúne más de 50 herramientas de inteligencia artificial diseñadas para mejorar diversas tareas, como la escritura, edición de imágenes y gestión de documentos. Su herramienta destacada, Humanize AI, permite convertir texto generado por IA en contenido que simula la escritura humana.",
+        "purpose": "Su propósito es facilitar la transformación de textos generados por inteligencia artificial en contenido más natural y humano, mejorando la legibilidad y evitando la detección por herramientas que identifican contenido automatizado.",
+        "use_cases": "Estudiantes que desean adaptar textos generados por IA para cumplir con requisitos académicos.\n\nProfesionales del marketing que buscan contenido más atractivo y natural para sus campañas.\n\nCreadores de contenido que necesitan evitar la detección de texto generado por IA en plataformas específicas.",
+        "main_advantages": "Acceso gratuito y sin necesidad de registro.\n\nOcho modos de humanización que se adaptan a diferentes estilos y necesidades.\n\nNivel de humanización ajustable para controlar la similitud con el texto original.\n\nInterfaz intuitiva y fácil de usar.",
+        "long_description": "Toolsmart es una plataforma multifuncional que ofrece una amplia gama de herramientas de inteligencia artificial para mejorar la productividad en diversas áreas. Entre sus funciones más destacadas se encuentra Humanize AI, una herramienta que transforma texto generado por IA en contenido que imita la escritura humana. Esta función ofrece ocho modos de humanización: Estándar, Fluidez, Formal, Académico, Simple, Creativo, Expandir y Acortar, permitiendo a los usuarios adaptar el texto según sus necesidades específicas. Además, permite ajustar el nivel de humanización para controlar la similitud con el texto original. La plataforma es gratuita, no requiere registro y no contiene anuncios, lo que la hace accesible y conveniente para una amplia variedad de usuarios.",
+        "release_date": "2025",
+        "developer": "WPS SOFTWARE PTE. LTD.",
+        "main_model": "No disponible",
+        "pricing_plans": "Gratuito",
+        "license": "Propietaria",
+        "security_privacy": "No se especifica información detallada sobre la protección de datos y políticas de privacidad en la fuente consultada.",
+        "integration": "Integración con WPS Office y otras herramientas de productividad."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.toolsmart.ai/feature-free-humanize-ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=the-ai-workforce-has-arrived"
+        },
+        {
+          "source_url": "https://www.toolify.ai/compare/dezgo-vs-toolsmart-free-humanize-ai"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/compare/Humanize-AI-vs-Toolsmart"
+        }
+      ]
+    },
+    "1043": {
+      "app": {
+        "id": "1043",
+        "name": "Tila",
+        "url": "https://tila.ai/",
+        "short_description": "Crea, codifica, busca y diseña contenido de IA, todo en un lienzo.",
+        "category": "Productividad",
+        "main_functionality": "Conectar agentes inteligentes en un canvas para automatizar flujos creativos y producción de contenido usando modelos como GPT‑4, DALL·E, Gemini, Luma, Kling.",
+        "tags": "#AIworkspace #MultimodalAI #MultiAgent #WorkflowAutomation #GenerativeAI #ContentCreation",
+        "logo_filename": "id_1043_tilaai",
+        "what_is": "Un espacio de trabajo visual potenciado por IA que integra múltiples modelos generativos y agentes inteligentes en un lienzo infinito, diseñado para gestionar proyectos creativos multimodales sin cambiar de aplicación.",
+        "purpose": "Unifica la creación y transformación de contenido (redacción, diseño, código, videos, análisis de datos) y automatiza tareas mediante agentes que seleccionan herramientas y modelos de forma inteligente .",
+        "use_cases": "Marketing: generación de arte, voiceovers, análisis SEO, podcasts y banners animados. \n\nEducación y presentaciones: convertir audio de reuniones en mapas mentales o informes visuales.\n\nDesarrollo y prototipado: crear interfaces interactivas (Streamlit) desde descripciones textuales en la misma plataforma.\n\nCreadores de contenido: automatización de posts con imágenes, videos y subtítulos integrados.",
+        "main_advantages": "Espacio de trabajo unificado que elimina alternar entre servicios.\n\nAcceso integrado a modelos líderes como GPT‑4, Claude, Gemini, DALL·E 3, entre otros.\n\nAgentes dentro del canvas que planifican tareas, generan prompts y escogen modelos óptimos.\n\nTransformación fluida de formatos (ej. audio → mapa mental, texto → video, foto antigua → video animado).\n\nDiversas apps internas para edición avanzada (texto, imagen, video, datos).",
+        "long_description": "Tila AI es un workspace visual infinito y multimodal que alberga agentes inteligentes (“tiles”) conectados en un lienzo. Estos agentes realizan tareas automáticas: redactan, generan imágenes o videos, analizan datos, convierten audio en mapas mentales, crean prototipos en código, todo sin cambiar de herramienta. Integración de modelos líderes (OpenAI, Claude, Gemini, DALL·E, Luma, Kling) que el sistema selecciona automáticamente para cada tile.",
+        "release_date": "Junio 2025",
+        "developer": "Tila AI desarrollada por Tovie Mobile Oy, fundada en 2025 según LinkedIn (empresa privada, 2–10 empleados).",
+        "main_model": "No usa un modelo propio exclusivo; integra múltiples LLMs y modelos de imagen/video: GPT‑4o, GPT‑4.1 (mini/nano), Claude 3.7, Gemini 2.5 Pro, DALL·E 3, Flux 1.1 Pro, Ideogram, Recraft, Luma Dream Machine, Kling, Whisper v3, ElevenLabs, entre otros.",
+        "pricing_plans": "Gratuito: 450 créditos al inicio y 50 diarios, eco‑mode con modelos básicos.\n\nStart Plan ($8/mes): 1 500 créditos/mes, 3 GB almacenamiento.\n\nPro Plan ($18/mes): 4 000 créditos, 10 GB.\n\nPremium Plan ($45/mes): 10 000 créditos, 100 GB almacenamiento.",
+        "license": "Plataforma propietaria basada en suscripción freemium; no es código abierto.",
+        "security_privacy": "No disponible",
+        "integration": "Permite integración mediante HTTP API: puedes enviar solicitudes desde un tile en el canvas; también generar apps interactivas con Streamlit basadas en tus requisitos directamente en el entorno Tila."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://tila.ai/"
+        },
+        {
+          "source_url": "https://completeaitraining.com/ai-tools/tila-ai/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/p/self-promotion/tila-the-infinite-ai-workspace-that-adapts-to-your-creative-flow"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/tila-ai"
+        },
+        {
+          "source_url": "https://www.saasworthy.com/product/tila-ai"
+        },
+        {
+          "source_url": "https://loja.metodopare.com/en/products/tila-ia-assistente-de-voz-da-marca?srsltid=AfmBOoqK-0X7UB3HmewdzPAsoX5SuvCtG-ZHj1ILLyAh07RO8Nkby00O&"
+        }
+      ]
+    },
+    "1085": {
+      "app": {
+        "id": "1085",
+        "name": "Throws AI",
+        "url": "No disponible",
+        "short_description": "Divide los videos en resúmenes inteligentes y marcas de tiempo para que puedas saltar directamente a lo que es más importante para ti.",
+        "category": "Productividad",
+        "main_functionality": "Procesamiento de videos (como podcasts o contenido educativo) para extraer resúmenes, palabras clave, transcripciones, segmentación por timestamp y aislar fragmentos esenciales de manera ágil",
+        "tags": "#AIvideo #VideoSummarization #VideoSearch #ContentIndexing #EducationalAI",
+        "logo_filename": "id_1085_throwsai",
+        "what_is": "Es una herramienta digital con IA diseñada para facilitar la navegación y análisis de contenido audiovisual extenso, convirtiéndolo en material fácil de digerir mediante resúmenes y extracción de puntos clave ",
+        "purpose": "Para ahorrar tiempo en revisar contenido largo —como podcasts, clases, entrevistas o noticias— ayudando al usuario a saltar directamente a los segmentos más importantes.",
+        "use_cases": "Visualización eficiente de podcasts o vídeos educativos.\n\nGeneración de resúmenes de contenido hablado para rápida comprensión.\n\nCreación de índices o marcadores dentro de videos largos.\n\nNavegación optimizada mediante transcripción o timestamps inteligentes.",
+        "main_advantages": "Reduce drasticamente el tiempo de revisión manual.\n\nConvierte videos largos en fragmentos accionables.\n\nFacilita la búsqueda y reutilización de contenido.\n\nIdeal para aprendizaje rápido o investigaciones audiovisuales.",
+        "long_description": "Throws AI es una plataforma avanzada de inteligencia de video mediante IA que permite a los usuarios resumir, indexar y navegar de forma eficiente por contenido audiovisual. Ofrece funciones como extracción de palabras clave, generación de marcas de tiempo (timestamps), resúmenes y transcripción, transformando videos extensos en contenido útil y fácil de explorar.",
+        "release_date": "No disponible",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "No disponible",
+        "license": "Propietaria.",
+        "security_privacy": "No disponible",
+        "integration": "Aunque se menciona compatibilidad con podcasts, entrevistas y contenido educativo, no hay detalles con terceros como editores, plataformas de aprendizaje o herramientas externas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://producthubx.com/product/throws-ai/105141"
+        },
+        {
+          "source_url": "https://slashdot.org/software/comparison/Google-AI-Overview-vs-Throws.ai/"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/compare/Automat-vs-Throws.ai/"
+        }
+      ]
+    },
+    "1103": {
+      "app": {
+        "id": "1103",
+        "name": "Thunai",
+        "url": "https://www.thunai.ai/",
+        "short_description": "Crea agentes de IA similares a los humanos con voz en tiempo real.",
+        "category": "Automatización",
+        "main_functionality": "Crea agentes inteligentes basados en datos internos (documentos, chats, videos) para automatizar atención al cliente, generación de contenido, asistencia en reuniones, gestión de correos y más.",
+        "tags": "#AgentesAI #Automatización #SoporteAI #VentasAI #Productividad #AsistentesMultimodales",
+        "logo_filename": "id_1103_thunai",
+        "what_is": "Una plataforma que permite convertir el conocimiento disperso de una organización en agentes AI operativos (voz, chat, email, automatización) capaces de interactuar de forma autónoma y eficiente.",
+        "purpose": "Facilita automatizar respuestas, generación de tickets, atención 24/7, creación de contenido, resúmenes de reuniones y flujos de trabajo, liberando al equipo para tareas de mayor valor.",
+        "use_cases": "Chat Agent que responde miles de consultas sin guiones.\n\nVoice Agent que convierte llamadas en tickets automáticamente.\n\nMeeting Agent que captura y resume reuniones en tiempo real.\n\nAutomation Agent que transforma documentos en flujos de trabajo.",
+        "main_advantages": "Resolución autónoma de tickets L1.\n\nReducción del tiempo para responder leads (~70 %).\n\nDisminución significativa del tiempo empleado en redacción de emails (~80 %). \n\nIntegración rápida (lista para usar desde el día 1).\n\nSeguridad corporativa (cumple con GDPR, SOC2, ISO27001).",
+        "long_description": "Thunai es una plataforma de automatización mediante agentes AI con un “cerebro” organizacional que aprende del conocimiento interno (documentos, llamadas, chats, enlaces). Permite desplegar agentes de voz, chat, correos, reuniones y automatización de workflows, con integración con herramientas como Slack, Teams, CRMs, calendario, entre otras.",
+        "release_date": "2025",
+        "developer": "La tecnología está desarrollada por Entrans Technologies (también mencionada como Relume en derechos reservados 2025). ",
+        "main_model": "No disponible",
+        "pricing_plans": "Free: Agente AI con uso limitado.\n\nStarter: USD ~$9/mes* (revisar, aparece como $7 en otra versión) – uso limitado.\n\nBasic: USD $99/mes – ideal para automatización de workflows.\n\nStandard: USD $199/mes – escala para equipos.\n\nPremium: USD $499/mes – automatización completa.\n\nTambién hay planes empresariales personalizados. \n (*Existen discrepancias en los precios; se indica free forever y luego cobros según plan.)",
+        "license": "Propietaria.",
+        "security_privacy": "Cumple normativas: GDPR, SOC2, ISO27001.\n\nEn App Store y Google Play se indica que no recopila ni comparte datos.",
+        "integration": "Se integra con Slack, Teams, calendarios, CRMs, correo y más. También dispone de API, widget y extensión Chrome."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.producthunt.com/products/thunai"
+        },
+        {
+          "source_url": "https://www.thunai.ai/"
+        },
+        {
+          "source_url": "https://www.thunai.ai/pricing"
+        }
+      ]
+    },
+    "1184": {
+      "app": {
+        "id": "1184",
+        "name": "The AI Consultancy Project",
+        "url": "https://go.innovatingwithai.com/",
+        "short_description": "Programa educativo y de formación diseñado para capacitar a profesionales a diseñar, lanzar y escalar servicios de consultoría en inteligencia artificial de manera rentable y práctica.",
+        "category": "Educación",
+        "main_functionality": "Proporciona un camino estructurado con metodologías, herramientas, plantillas, coaching y comunidades para crear un negocio de consultoría en IA, inclusive sin necesidad de programar o tener experiencia previa en IA.",
+        "tags": "#ConsultoríaIA #NegociosAI #CapacitaciónProfesional #EmpoderamientoEmpresarial",
+        "logo_filename": "id_1184_consultancyp",
+        "what_is": "Es un programa educativo y de formación profesional diseñado para capacitar a personas en la creación y operación de consultorías enfocadas en inteligencia artificial. Ofrece una combinación de teoría, herramientas, marcos de trabajo y apoyo comunitario para que los estudiantes se vuelvan consultores de IA listos para clientes.",
+        "purpose": "Sirve para convertir el interés o conocimiento básico en IA en un negocio de consultoría rentable, ayudando a estudiantes a adquirir habilidades empresariales y técnicas, atraer clientes y entregar servicios de valor en IA.",
+        "use_cases": "Personas interesadas en trabajar como consultores independientes de IA.\n\nProfesionales que desean lanzar una empresa de servicios IA.\n\nConstruir estrategias para identificar oportunidades de consultoría en IA.\n\nUso de plantillas y playbooks para diseñar ofertas de servicio a clientes.\n\nPosibilidad de obtener certificación y listado en un directorio público de consultores.",
+        "main_advantages": "Formación estructurada con acceso de por vida.\n\nComunidad global de estudiantes y soporte continuo.\n\nCertificación y visibilidad en directorios profesionales.\n\nEnfoque práctico para conseguir clientes y generar ingresos.\n\nOpciones para principiantes y profesionales con experiencia.",
+        "long_description": "The AI Consultancy Project es un programa de formación integral para quienes desean iniciar o escalar una consultoría en IA. Incluye currículum estructurado con playbooks, herramientas, plantillas y estrategias para cada fase de negocio: planeación, adquisición de clientes, entrega de servicios, posicionamiento y escalamiento. Los alumnos reciben soporte comunitario, sesiones en vivo y acceso a recursos continuos que permiten desarrollar un negocio enfocado en transformación digital con IA.",
+        "release_date": "2024",
+        "developer": "Innovating with AI™ — Fundado por Rob Howard, desarrollador y consultor con experiencia técnica y empresarial de más de 20 años.",
+        "main_model": "Metodologías de negocio y frameworks de consultoría adaptados a IA.",
+        "pricing_plans": "Acceso al programa completo mediante compra/inscripción.\n\nNo hay una lista pública detallada de precios o niveles específicos en el sitio (puede variar por cohortes o ofertas).\n(Indicaciones de pagos mensuales según reseñas, pero no es oficial del sitio).",
+        "license": "Propietaria.",
+        "security_privacy": "El sitio y programa cumplen con políticas de privacidad estándar de enseñanza en línea; no hay evidencia pública de incidentes públicos de seguridad o violación de datos. (No disponible info detallada específica, pero se aplica política de privacidad de la plataforma Thinkific donde está alojado).",
+        "integration": "No aplica directamente como una herramienta de software; funciona con plataformas educativas (por ejemplo, portal de cursos y comunidad)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://go.innovatingwithai.com/"
+        },
+        {
+          "source_url": "https://www.therundown.ai/p/ai-benchmarking-under-fire"
+        }
+      ]
+    },
+    "1209": {
+      "app": {
+        "id": "1209",
+        "name": "Tight Studio",
+        "url": "https://tight.studio/",
+        "short_description": "Graba tu pantalla y haz una demo preciosa sin editar con dificultades.",
+        "category": "Generación de video",
+        "main_functionality": "Graba la pantalla del usuario y utiliza inteligencia artificial para generar automáticamente demostraciones de productos o tutoriales bien editados, con opciones de subtitulado, enfoque automático en acciones importantes y transiciones fluidas.",
+        "tags": "#ScreenRecording #AIEditing #ProductDemos #GeneraciónDeVideo #VideoAutomatizado",
+        "logo_filename": "id_1209_tightstudio",
+        "what_is": "Tight Studio es una aplicación para Mac que permite grabar la pantalla del usuario y transformar esa grabación en un video de alta calidad utilizando automatización e inteligencia artificial. Está diseñada para facilitar la creación de demostraciones de productos, tutoriales y videos explicativos sin necesidad de habilidades de edición complejas. La IA se encarga de tareas como detección de pausas, generación de subtítulos y creación de transiciones fluidas, permitiendo que los usuarios se enfoquen en su contenido y no en el proceso técnico.",
+        "purpose": "Sirve para grabar y editar automáticamente videos de demostración de productos, presentaciones o tutoriales con calidad profesional. Es ideal para equipos de producto, marketing, ventas y soporte que necesitan crear material visual para mostrar cómo funciona una aplicación o plataforma de forma clara y atractiva.",
+        "use_cases": "Empresas tecnológicas que desean crear demos de producto para páginas web o lanzamientos.\n\nEquipos de soporte que necesitan grabar tutoriales para clientes.\n\nCreadores de contenido que hacen guías paso a paso.\n\nProfesionales de marketing que desean mostrar funcionalidades de forma rápida y atractiva.\n\nEquipos internos que graban procesos para documentación y onboarding.",
+        "main_advantages": "Grabación de pantalla simple, enfocada en velocidad y calidad.\n\nIA que edita automáticamente los videos grabados.\n\nGeneración automática de subtítulos y transiciones.\n\nInterfaz amigable y fluida para usuarios de Mac con chip Apple.\n\nEliminación de pasos de edición manual compleja.\n\nExportación lista para usar en sitios web, presentaciones o redes.\n\nReconocimiento de acciones importantes dentro del video para enfocar la atención.\n\nRápido y eficiente: pensado para productividad y agilidad.",
+        "long_description": "Tight Studio es una herramienta de grabación de pantalla enfocada en la creación de demos de productos y videos tutoriales con la ayuda de inteligencia artificial. La aplicación permite grabar fácilmente en Mac (compatible con Apple Silicon) y luego utiliza IA para aplicar mejoras automáticas, como generación de subtítulos, eliminación de pausas, adición de transiciones, zooms dinámicos en acciones importantes, y exportación del video final en alta calidad. Su diseño minimalista y flujo optimizado permiten crear videos impactantes sin requerir experiencia en edición. Esto la hace especialmente útil para equipos de desarrollo, producto y marketing que necesitan comunicar de manera clara y visual.",
+        "release_date": "2023",
+        "developer": "Tight Studio",
+        "main_model": "No disponible",
+        "pricing_plans": "Plan Gratuito:\n\n1 video al mes.\nGrabación de pantalla y edición automática.\nExportación básica.\n\nPlan Pro – $25 USD/mes:\n\nIlimitados videos.\nExportación sin marca de agua.\nSubtítulos personalizados.\nEdiciones automáticas avanzadas.\nFunciones adicionales de enfoque, zoom automático, transiciones, etc.\n(Descuentos disponibles en planes anuales.)",
+        "license": "Propietario",
+        "security_privacy": "Se recopila información necesaria para operar la app, como correo, metadatos de grabaciones y preferencias del usuario.\n\nNo venden ni comparten datos con terceros.\n\nEmplean medidas estándar de protección de datos y encriptación.\n\nLos usuarios pueden solicitar la eliminación de sus datos.\n\nSe usa Stripe para procesamiento de pagos, asegurando manejo seguro de información financiera.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://tight.studio/"
+        },
+        {
+          "source_url": "https://tight.studio/privacy-policy"
+        },
+        {
+          "source_url": "https://tight.studio/#feature"
+        },
+        {
+          "source_url": "https://tight.studio/#nav-pricing"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/tight-studio"
+        }
+      ]
+    },
+    "1258": {
+      "app": {
+        "id": "1258",
+        "name": "TheTabber",
+        "url": "https://thetabber.com/",
+        "short_description": "Crea, reutiliza y publica contenido en 9+ plataformas sociales.",
+        "category": "Redes sociales",
+        "main_functionality": "Gestión y publicación multiplataforma de contenido para redes sociales con apoyo de IA, incluyendo generación de captions, programación inteligente y reutilización de contenido.",
+        "tags": "#RedesSociales #GestiónDeContenido #Automatización #MarketingDigital #IAParaSocialMedia",
+        "logo_filename": "id_1258_thetabber",
+        "what_is": "TheTabber es una plataforma de productividad y marketing digital enfocada en la gestión de redes sociales. Utiliza inteligencia artificial para ayudar a los usuarios a crear captions, programar publicaciones y distribuir contenido de forma simultánea en múltiples plataformas sociales.",
+        "purpose": "Sirve para centralizar y automatizar la publicación de contenido en redes sociales, reduciendo el tiempo y la complejidad de gestionar múltiples plataformas de manera independiente.",
+        "use_cases": "Publicación simultánea en varias redes sociales desde un solo panel.\n\nReutilización de un mismo contenido adaptado a distintos formatos y plataformas.\n\nGeneración de captions asistidos por IA.\n\nProgramación de publicaciones con horarios optimizados.\n\nGestión de contenido para creadores, marcas y equipos de marketing.",
+        "main_advantages": "Ahorro significativo de tiempo en la gestión de redes sociales.\n\nPublicación en múltiples plataformas con un solo clic.\n\nAsistencia de IA para captions y optimización de contenido.\n\nInterfaz orientada a creadores y equipos pequeños.\n\nCompatible con las principales redes sociales.",
+        "long_description": "TheTabber es una solución de gestión de redes sociales diseñada para simplificar el flujo de trabajo de publicación de contenido. Permite subir contenido una sola vez y adaptarlo para su publicación en múltiples plataformas como TikTok, Instagram, YouTube, Facebook, X (Twitter), LinkedIn, Pinterest y otras. La plataforma integra funciones de inteligencia artificial para la generación de captions, programación inteligente y optimización del contenido, enfocándose en mejorar la productividad y el alcance de los usuarios.",
+        "release_date": "No disponible",
+        "developer": "TheTabber",
+        "main_model": "No disponible",
+        "pricing_plans": "Plan Gratuito / Trial:\n\nAcceso inicial a la plataforma.\nFunciones básicas para probar publicación y reutilización de contenido.\n\nPlanes de Pago:\n\nSuscripción mensual.\nPublicación en múltiples plataformas.\nAcceso a generación de captions con IA.\nProgramación avanzada y reutilización de contenido.\nLos precios y límites específicos se detallan en la página de pricing y pueden variar según el plan seleccionado.",
+        "license": "Propietaria.",
+        "security_privacy": "Recopila información de cuenta, como nombre, correo electrónico y datos de autenticación.\n\nRecopila información técnica y de uso (dirección IP, navegador, interacciones con la plataforma).\n\nUtiliza los datos para operar el servicio, mejorar funcionalidades y brindar soporte.\n\nPuede compartir información con proveedores de servicios necesarios para el funcionamiento de la plataforma.\n\nNo se especifica la venta de datos personales a terceros.\n\nLos usuarios pueden solicitar acceso, corrección o eliminación de sus datos conforme a la política de privacidad.",
+        "integration": "Integración directa con múltiples redes sociales, incluyendo TikTok, Instagram, YouTube, Facebook, X (Twitter), LinkedIn y Pinterest.\n\nNo se especifica disponibilidad de API pública."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://thetabber.com/"
+        },
+        {
+          "source_url": "https://thetabber.com/pricing"
+        },
+        {
+          "source_url": "https://thetabber.com/about"
+        },
+        {
+          "source_url": "https://thetabber.com/features"
+        },
+        {
+          "source_url": "https://thetabber.com/privacy"
+        }
+      ]
+    },
+    "1328": {
+      "app": {
+        "id": "1328",
+        "name": "Tines",
+        "url": "https://www.tines.com/",
+        "short_description": "Crea agentes y automatizaciones integrados en todo tu espacio de trabajo.",
+        "category": "Automatización",
+        "main_functionality": "Construcción, ejecución y monitoreo de workflows para conectar sistemas vía API, automatizar procesos y orquestar interacción con IA (agentes/copilotos/MCP) con gobernanza y visibilidad, orientado a equipos de seguridad e IT.",
+        "tags": "#Automatización #Workflows #Integraciones #AgentesDeIA #Copiloto #SeguridadTI #ITOps",
+        "logo_filename": "id_1328_tines",
+        "what_is": "Es una plataforma de “intelligent workflow” para construir y operar flujos de trabajo que conectan herramientas, equipos y datos. Incluye componentes como un creador visual (Storyboard), gestión de casos/incidentes (Cases) y una capa para interactuar con IA (Workbench/AI in Tines) con controles y supervisión.",
+        "purpose": "Para automatizar y orquestar procesos operativos (p. ej., triage de alertas, respuesta a incidentes, operaciones IT, enrutamiento de solicitudes), integrando múltiples herramientas y, cuando aplica, IA (agentes/copilotos) con gobernanza, aprobaciones y trazabilidad.",
+        "use_cases": "Respuesta a phishing y automatización de investigaciones en seguridad.\n\nTriage/ruteo inteligente de alertas e incident reporting automatizado (IA asistida).\n\nIntegración “vendor-agnostic” conectando herramientas internas/externas vía API.\n\nGestión de casos e incidentes en un espacio colaborativo.",
+        "main_advantages": "Conecta cualquier herramienta con API para integrar datos y acciones entre sistemas.\n\nGobernanza/controles para IA (aprobaciones, alcance definido, visibilidad) al orquestar agentes/copilotos/MCP.\n\nPlataforma enfocada en seguridad e IT (“born in security”) con monitoreo y guardrails.\n\nEvidencia de impacto en clientes: ahorros de tiempo y mejoras operativas reportadas en estudios de caso (p. ej., horas/semana o días/año).\n\nOpciones de adopción como edición gratuita “Community Edition” para iniciar pruebas/aprendizaje.",
+        "long_description": "Tines es una plataforma para construir, ejecutar y monitorear workflows que conectan herramientas, datos y personas. Incluye un builder visual (Storyboard) para diseñar automatizaciones, un espacio para investigación y colaboración (Cases), y una capa para interactuar con IA (AI in Tines/Workbench) que permite integrar agentes, copilotos y servidores/clientes MCP dentro de flujos gobernados. En IA, Tines enfatiza control y confianza: define dónde la IA sugiere/asiste/actúa, incorpora aprobaciones y supervisión, y ofrece capacidades como triage/ruteo inteligente, decisiones dinámicas en workflows y generación automatizada de reportes.",
+        "release_date": "2018",
+        "developer": "Tines (empresa fundada por Eoin Hinchy y Thomas Kinsella).",
+        "main_model": "No aplica como un único modelo: la plataforma orquesta automatización e interacción con IA. “AI in Tines” se indica como hospedado en AWS Bedrock y “powered by foundation models”; permite traer proveedor/licencia propia.",
+        "pricing_plans": "Incluye Community Edition (gratuita) y ediciones de pago (p. ej., “Starter Edition” y otras) descritas en recursos de pricing/packaging; el sitio de pricing y el artículo explicativo detallan el enfoque por ediciones/programas (incluye programa para startups).",
+        "license": "Propietario / SaaS",
+        "security_privacy": "Dispone de centro de recursos de privacidad/legal (Legal, Privacy Policy, DPA) y contenidos de seguridad (Security, “security best practices”). Publica un Trust Center (SafeBase) con información de medidas/controles. En su página de IA menciona propiedades como “stateless/private/geo-bound/tenant-scoped” y afirmaciones de “no training/no storage/no logging” para sus funciones de IA (según esa página).",
+        "integration": "La plataforma se posiciona como integradora “vendor-agnostic”: si una herramienta ofrece API, puede conectarse; se orienta a integrar herramientas mainstream, nicho e internas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "Texas A&M University System Cyber Operations impulsa una escala eficiente con Tines and Elastic",
+          "description": "Texas A&M University System Cyber Operations (protege 11 universidades y 8 agencias estatales, incluyendo Texas Division of Emergency Management). Reporta, entre otros, 300+ horas ahorradas al mes y mejoras en resolución.",
+          "url": "https://www.tines.com/case-studies/tamus/"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "OpenTable ahorra 40 horas por semana automatizando operaciones de seguridad",
+          "description": "OpenTable reporta que, al implementar Tines para automatización e integración de procesos, logró ahorrar 40 horas de trabajo por semana, mejorando la eficiencia operativa del equipo.",
+          "url": "https://www.tines.com/case-studies/opentable"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "IP Performance reduce 95% el tiempo de triage de alertas con automatización",
+          "description": "IP Performance indica que, usando Tines para automatizar y orquestar su manejo de alertas, alcanzó una reducción del 95% en el tiempo de triage, acelerando la respuesta y priorización.",
+          "url": "https://www.tines.com/case-studies/ip-performance/"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Elastic ahorró 750 días en 12 meses con automatización de flujos de trabajo",
+          "description": "Elastic documenta el uso de Tines para orquestar automatizaciones y procesos operativos, reportando un ahorro acumulado de 750 días en 12 meses mediante la estandarización y ejecución de workflows a escala.",
+          "url": "https://www.tines.com/case-studies/elastic"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.tines.com/"
+        },
+        {
+          "source_url": "https://www.tines.com/platform/cases"
+        },
+        {
+          "source_url": "https://www.tines.com/pricing/"
+        },
+        {
+          "source_url": "https://www.tines.com/blog/"
+        },
+        {
+          "source_url": "https://www.tines.com/case-studies/"
+        },
+        {
+          "source_url": "https://www.tines.com/about/"
+        },
+        {
+          "source_url": "https://www.tines.com/privacy/"
+        },
+        {
+          "source_url": "https://cybermagazine.com/news/tines-voice-of-security-2026-report"
+        }
+      ]
+    },
+    "1364": {
+      "app": {
+        "id": "1364",
+        "name": "Textio",
+        "url": "https://textio.com/",
+        "short_description": "Reclutar y desarrollar un equipo de alto rendimiento.",
+        "category": "Reclutamiento",
+        "main_functionality": "Asistente de escritura con IA “purpose-built” para RR. HH. que analiza lenguaje mientras se escribe (job posts, outreach y feedback), sugiere mejoras para inclusión/tono/claridad y puede integrarse en ATS y herramientas de performance management.",
+        "tags": "#Reclutamiento #Redacción #Gestión #DEI #NLP #AsistenteDeEscritura #RRHH",
+        "logo_filename": "id_1364_textio",
+        "what_is": "Plataforma de “augmented writing” enfocada en RR. HH. que ofrece herramientas para reclutamiento (redacción de job posts y comunicaciones) y feedback de desempeño, con guía en tiempo real y capacidades generativas.",
+        "purpose": "Para ayudar a organizaciones a atraer talento con lenguaje más inclusivo y efectivo, y a mejorar la calidad del feedback en evaluaciones de desempeño, reduciendo sesgos y elevando la acción y claridad del contenido.",
+        "use_cases": "Redacción y optimización de descripciones de puestos para atraer pools más diversos.\n\nCoaching en tiempo real para feedback de desempeño (p. ej., “start/stop/continue”).\n\nUso dentro de herramientas existentes (ATS/performance management) mediante integraciones/extensión.",
+        "main_advantages": "Guía en tiempo real para claridad e inclusión (en reclutamiento y feedback).\n\nIntegración en flujo de trabajo (ATS y performance tools) para reducir “context switching”.\n\nEnfoque de IA “purpose-built” con datos de resultados reales (según la marca).",
+        "long_description": "Plataforma modular para RR. HH. con soluciones de reclutamiento y feedback. En reclutamiento, ayuda a generar y optimizar job posts con guía en tiempo real y enfoque en inclusión/efectividad, respaldado (según la marca) por resultados de contratación del mundo real. En desempeño, guía la escritura de feedback accionable (incluyendo prompts estructurados) y puede operar dentro de herramientas de performance management mediante integraciones/extensión para escribir “donde ya trabajas”.",
+        "release_date": "Octubre 2014",
+        "developer": "Textio, Inc.",
+        "main_model": "Combina Azure OpenAI para capacidades generativas con modelos propietarios de Textio.",
+        "pricing_plans": "No disponible",
+        "license": "Propietario / SaaS",
+        "security_privacy": "Política de privacidad con “Last updated” (enero 5, 2025) y distinción explícita sobre “Customer Data” procesado bajo contrato; indica transferencias internacionales (procesamiento/almacenamiento en EE. UU.) y canales de contacto. Adicionalmente, su página de seguridad declara certificación ISO/IEC 27001:2022 para su ISMS.",
+        "integration": "Puede extenderse a ATS y herramientas de performance management; hay integraciones y extensión de navegador que menciona, entre otras, Workday, Lattice, SAP SuccessFactors, Greenhouse, iCIMS, Taleo, Oracle Recruiting (según Chrome Web Store y blog de integraciones)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "Ministerio de Defensa del Reino Unido (MoD): uso de Textio en reclutamiento",
+          "description": "El registro oficial de transparencia algorítmica del gobierno del Reino Unido documenta el uso de Textio por parte del MoD, incluyendo consideraciones de retención/borrado de datos y medidas de seguridad (cifrado y controles de acceso) descritas en el registro.",
+          "url": "https://www.gov.uk/algorithmic-transparency-records/mod-textio"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "Nevada County (condado): redacción más inclusiva y optimización del reclutamiento",
+          "description": "La sección oficial de casos de estudio de Textio lista a Nevada County como caso de uso para crear publicaciones de empleo más inclusivas y agilizar operaciones de reclutamiento para llegar más rápido a pools diversos (sin métricas públicas en el listado).",
+          "url": "https://textio.com/resources/case-studies"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Zillow Group: +16% respuestas a emails, 1.5× candidatos calificados y +12% mujeres postulantes",
+          "description": "El listado oficial de casos de estudio indica que Zillow aplicó guía de lenguaje y reportó 16% más respuestas a emails, 1.5× más candidatos calificados y 12% más mujeres postulantes.",
+          "url": "https://textio.com/resources/case-studies"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Velera: evaluaciones de desempeño 2× más rápidas y +67% en calidad del feedback",
+          "description": "El listado oficial de casos de estudio reporta que managers en Velera usan Textio Feedback para escribir reviews dos veces más rápido y mejorar la calidad del feedback en 67%.",
+          "url": "https://textio.com/resources/case-studies"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://textio.com/"
+        },
+        {
+          "source_url": "https://textio.com/resources/case-studies"
+        },
+        {
+          "source_url": "https://textio.com/privacy"
+        },
+        {
+          "source_url": "https://www.capterra.com/p/210382/Textio/"
+        }
+      ]
+    },
+    "1409": {
+      "app": {
+        "id": "1409",
+        "name": "tldrr",
+        "url": "https://tldrr.io/",
+        "short_description": "Guarda cualquier URL y deja que la IA resuma, etiquete y organice tu contenido.",
+        "category": "Productividad",
+        "main_functionality": "“Read-later” con IA: guarda enlaces, genera resúmenes (TL;DR y más), permite chatear con el contenido y buscar en la librería en lenguaje natural; además construye un “knowledge graph” (grafo de conocimiento) a partir de lo guardado para conectar temas relacionados.",
+        "tags": "#Productividad #Resúmenes #GestiónDelConocimiento #ReadLater #BúsquedaSemántica #KnowledgeGraph #iOS",
+        "logo_filename": "id_1409_tldrr",
+        "what_is": "Una app iOS para guardar cualquier URL y convertirla en conocimiento reutilizable mediante IA: resume, etiqueta, organiza y permite buscar y conversar con lo que guardas, construyendo conexiones entre temas en tu biblioteca.",
+        "purpose": "Para evitar perder enlaces en pestañas o listas de lectura: guardas un link y obtienes un resumen inmediato, puedes consultar dudas (chat) y luego recuperar/descubrir contenido por búsqueda en lenguaje natural y relaciones entre temas.",
+        "use_cases": "Resumir artículos y guardarlos como notas rápidas.\nCrear una biblioteca personal de investigación (para escritores, investigadores, inversionistas, etc.).\nGuardar y resumir videos/podcasts/PDFs (en plan premium).\nBuscar en tu librería con preguntas en lenguaje natural y “redescubrir” contenido relacionado.",
+        "main_advantages": "Reduce el tiempo de lectura al generar TL;DR y resúmenes de lo guardado.\nOrganización automática (etiquetado/temas) y recuperación por búsqueda en lenguaje natural.\nChat con tu contenido para profundizar sin reabrir todo el material.\n“Knowledge graph” para conectar ideas y surfacing de contenido relacionado.",
+        "long_description": "App iOS de “guardar y entender”: permite guardar enlaces (y contenido como videos/podcasts/PDFs, según el plan), genera resúmenes y puntos clave, habilita chat con el contenido guardado y búsqueda en lenguaje natural dentro de tu biblioteca. Incluye un enfoque de “knowledge graph” para conectar temas recurrentes y sugerir contenido relacionado conforme crece tu colección.",
+        "release_date": "Marzo 2026",
+        "developer": "GPT Genius Lab (Seller: GPT Genius Lab, LLC).",
+        "main_model": "No disponible",
+        "pricing_plans": "Gratis: 3 guardados por semana; chat y búsqueda incluidos.\nPremium: guardados ilimitados, soporte para video y podcasts, y procesamiento prioritario; prueba gratuita 7 días; luego ~US$59.99/año o ~US$9.99/mes (según ficha de App Store).",
+        "license": "Propietaria.",
+        "security_privacy": "Según la ficha de privacidad de App Store: puede usar identificadores para rastreo; puede recopilar datos vinculados al usuario (p. ej., compras, contenido de usuario, identificadores/ID de usuario, datos de uso y diagnóstico); y recopilar diagnósticos no vinculados (p. ej., performance data).",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://tldrr.io/"
+        },
+        {
+          "source_url": "https://apps.apple.com/my/app/ai-tldrr/id6759262513?l=ms"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/tldrr?"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/compare/AI-TLDRR-vs-DataQA/"
+        }
+      ]
+    },
+    "1425": {
+      "app": {
+        "id": "1425",
+        "name": "The Code Newsletter",
+        "url": "https://magic.beehiiv.com/v1/5f7ce6e3-9a71-416b-99a7-606c5f7e2447?email={{email}}&red[%E2%80%A6]1-46c4-8722-878d417fab5c&utm_source=sh_ad&utm_campaign=29_11",
+        "short_description": "Aprende a programar más rápido con IA en 5 minutos al día. Únete a desarrolladores 200k+ y lanza 5 veces más rápido",
+        "category": "Educación",
+        "main_functionality": "Curación y entrega periódica (email y web) de contenido “high signal” sobre IA aplicada a programación (noticias, releases, investigación y recursos), con archivo público de ediciones.",
+        "tags": "#Newsletter #Educación #Codificación #IA #Recursos #Investigación #NoticiasTech",
+        "logo_filename": "id_1425_newsletterthecode",
+        "what_is": "Un newsletter (y sitio web con archivo) orientado a desarrolladores e ingenieros que resume novedades y recursos sobre IA y desarrollo de software en pocos minutos por edición.",
+        "purpose": "Para mantenerse actualizado sobre herramientas, lanzamientos y tendencias relevantes en IA aplicada a programación y productividad de ingeniería, con un formato breve y curado.",
+        "use_cases": "Lectura rápida para estar al día con nuevas herramientas, releases y recursos técnicos.\nConsultar el archivo de ediciones para revisar temas pasados (investigación, guías, repositorios).\nUso en equipos de ingeniería para compartir enlaces y recursos semanales (consumo interno). (No se encontraron casos cuantificados; se describe como newsletter para devs/engineers).",
+        "main_advantages": "Curación: reduce el tiempo de búsqueda al concentrar “news, releases, research, resources” en un solo envío.\nFormato breve: propone consumo en ~5 minutos (según su propia descripción).\nArchivo público: permite consultar ediciones anteriores en la web.\nSuscripción gratuita: la página de registro indica “Subscribe for free”.",
+        "long_description": "“The Code” publica ediciones tipo newsletter (y web) enfocadas en desarrollo e IA, presentando resúmenes y enlaces a noticias, lanzamientos, investigación y recursos. Dispone de un sitio principal, una página de suscripción y un archivo de publicaciones. El enlace compartido por el usuario es un magic link de beehiiv que redirige al formulario/sitio de la newsletter para facilitar la suscripción.",
+        "release_date": "Octubre 2025",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "Gratis: la suscripción se promociona como “Subscribe for free”. No se encontraron planes de pago asociados en las páginas públicas revisadas.",
+        "license": "No disponible",
+        "security_privacy": "La suscripción y distribución se realiza mediante beehiiv; su política indica que, como suscriptor de newsletters en beehiiv, pueden recopilar correo electrónico, metadatos del navegador/IP (incluida geolocalización aproximada) para prevención de fraude/analítica, clics en enlaces en emails, y datos de encuestas/polls si existen.\nDocumentos de beehiiv: Privacy Policy y Terms of Use (aplican como plataforma).",
+        "integration": "Email + web: contenido consumible por correo y por el sitio/archivo.\nbeehiiv Magic Links / formularios: el enlace proporcionado es un flujo de suscripción vía beehiiv."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://magic.beehiiv.com/v1/5f7ce6e3-9a71-416b-99a7-606c5f7e2447?email={{email}}&red[%E2%80%A6]1-46c4-8722-878d417fab5c&utm_source=sh_ad&utm_campaign=29_11"
+        }
+      ]
+    },
+    "1429": {
+      "app": {
+        "id": "1429",
+        "name": "TopView",
+        "url": "https://www.topview.ai/es/ai-video-generator?",
+        "short_description": "Convierte tu producto en vídeos virales en segundos.",
+        "category": "Generación de video",
+        "main_functionality": "Convertir prompts, imágenes o URLs de producto en videos listos para publicar (incluye texto→video, imagen→video y URL→video), con un “agente” que replica estructuras de anuncios virales y herramientas adicionales (avatares/UGC y edición).",
+        "tags": "#GeneraciónDeVideo #TextoAVideo #ImagenAVideo #URLAVideo #UGC #AvataresIA #VideoMarketing #Ecommerce",
+        "logo_filename": "id_1429_topviewaivideo",
+        "what_is": "Una plataforma de creación de video con IA (también descrita como “AI Video Agent”) orientada a producir videos publicitarios/marketing: el usuario describe la idea o aporta activos (texto, imágenes, video de referencia o link de producto) y el sistema genera un video con estilo y estructura listos para publicar.",
+        "purpose": "Para crear anuncios y videos cortos de marketing de forma rápida (por ejemplo, para TikTok/Reels/Shorts), reduciendo edición manual, y facilitando producción a escala para e-commerce, marcas DTC, agencias y creadores.",
+        "use_cases": "Texto a video: convertir guiones/prompts o descripciones de producto en video.\nImagen a video: animar fotos de producto con movimiento y “movimientos de cámara”.\nURL a video: pegar un enlace de Shopify o Amazon para generar un anuncio “listo para publicar”.\nAvatares/UGC: generar contenido estilo UGC usando avatares o cambios de rostro, sin grabación con actores.\nOmni Reference: guiar la generación combinando texto + imágenes + clips como referencia de movimiento/estilo.",
+        "main_advantages": "Flujo rápido de producción de videos (en minutos) y enfoque en marketing/performance.\nEntradas multimodales (texto, imágenes, clips) para controlar resultado (“Omni Reference”).\nFunciones dedicadas a e-commerce (URL→video desde Shopify/Amazon).\nSistema por créditos y guía oficial de consumo por funciones.",
+        "long_description": "TopView ofrece un conjunto de herramientas de generación de video con IA orientadas a marketing: “Agente de vídeo IA” (que afirma analizar un gran volumen de anuncios virales para recrear formatos de alto rendimiento), generación texto→video, imagen→video, URL→video (Shopify/Amazon), además de funciones de avatar/UGC y edición asistida. Incluye “Omni Reference” para guiar la generación con entradas multimodales (texto para concepto, imágenes para coherencia de personaje/estilo y clips como referencia de movimiento).",
+        "release_date": "Noviembre 2025",
+        "developer": "TOPVIEW PTE. LTD. (Singapur).",
+        "main_model": "No disponible",
+        "pricing_plans": "Free: incluye 10 créditos “one-time” (según tabla comparativa) y limitaciones como exportaciones sin marca de agua “—” (no incluidas) y 1 tarea concurrente.\nPro: USD $16/mes (facturación anual: $192/año; el sitio también muestra $20→$16). Incluye acceso a modelos de video e imagen/edición, 4 tareas concurrentes, avatares de producto guardados ilimitados y 5 clones de voz gratuitos.\nBusiness: USD $40/mes (facturación anual: $480/año; el sitio también muestra $49.9→$40). Incluye acceso a modelos, 8 tareas concurrentes y 30 clones de voz gratuitos.\nEnterprise: “Let’s talk” (créditos y API/integraciones personalizadas).",
+        "license": "Propietaria (SaaS).",
+        "security_privacy": "Recopila datos de cuenta/contacto (nombre, email, contraseña; y opcionalmente empresa/rol, etc.) y, según plan, datos de pago; indica que los datos de pago se almacenan en Stripe.\nIndica que no “vende” información personal por contraprestación monetaria; comparte con proveedores/servicios necesarios (p. ej., procesamiento de pagos, cloud storage, operaciones de chatbot, transcripción de voz, generación de imágenes, analítica, marketing, etc.).\nRetención/borrado: al solicitar eliminación, “se esfuerzan” por borrar en 30 días salvo obligación legal; describe medidas de seguridad físicas/electrónicas/administrativas.\nContenido UGC: otros usuarios pueden tener acceso a UGC y posibilidad de compartirlo con terceros (según el documento).",
+        "integration": "URL→Video para enlaces de Shopify o Amazon (flujo publicitado como el más rápido para generar anuncios).\nFunciona por “modelos”/herramientas dentro de la plataforma (texto→video, imagen→video, edición, avatares), y dispone de opción Enterprise con integración de API (según pricing)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.topview.ai/es/ai-video-generator?"
+        },
+        {
+          "source_url": "https://www.topview.ai/privacy-policy"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/topview-ai"
+        },
+        {
+          "source_url": "https://www.topview.ai/case-studies/"
+        }
+      ]
+    },
+    "1498": {
+      "app": {
+        "id": "1498",
+        "name": "TikTomato",
+        "url": "https://tiktomato.com",
+        "short_description": "Plataforma web con herramientas de IA para crear y editar imágenes y video: miniaturas, logos, headshots, recorte PNG, restauración y mejoras, con uso comercial y pago por uso.",
+        "category": "Edición de imágenes",
+        "main_functionality": "Suite de herramientas “listas para usar” para generación y edición de imágenes (remover fondos, upscaling, restauración, headshots, estilos) y capacidades de generación de video, operadas con un sistema de créditos (pay-per-use) sin suscripción.",
+        "tags": "#FotoAI,#BackgroundRemoval,#Thumbnails,#Upscaling",
+        "logo_filename": "id_1498_tiktomato",
+        "what_is": "Una plataforma web que centraliza herramientas de IA para imágenes, video y edición fotográfica, orientada a tareas concretas (p. ej., remover fondo, restaurar fotos, crear headshots, logos y miniaturas). Afirma no requerir “prompt engineering” porque cada herramienta utiliza un ajuste predefinido.",
+        "purpose": "Para producir y mejorar activos visuales de forma rápida (marketing, contenido, e-commerce, diseño básico), incluyendo generación y edición con modelos de terceros desde un mismo sitio y con pago por uso.",
+        "use_cases": "Quitar fondos y exportar PNG transparente para catálogos o anuncios.\nAumentar resolución (upscale) para publicaciones o impresión ligera.\nRestaurar fotos antiguas/dañadas y mejorar rostros.\nCrear headshots “tipo LinkedIn” a partir de fotos.\nGenerar logos, posters, portadas y miniaturas para YouTube.\nComparar y ejecutar distintos modelos (imagen/video/edición) desde el mismo entorno.",
+        "main_advantages": "Pago por uso (créditos) y sin suscripción, con costos visibles por herramienta.\nUso comercial permitido para resultados generados (sujeto a licencias de modelos subyacentes).\nNo requiere prompts complejos: herramientas con prompts “pre-afinados”.\nUn solo sitio para múltiples tareas comunes (edición y generación).\nIntegra múltiples proveedores/modelos, con opción de comparar alternativas.",
+        "long_description": "TikTomato reúne herramientas de IA para creación y edición visual: remover fondos, reemplazar fondos, restauración de fotos, restauración de rostro, upscaling, generación de headshots, estilos (p. ej., caricatura, LEGO, “Ghibli style”, etc.), y generación de piezas como logos, posters, miniaturas y portadas. También destaca un módulo para comparar/usar distintos modelos de imagen, video y edición desde una misma interfaz. Cada herramienta indica su costo en créditos y el servicio funciona con un esquema de créditos (pay-per-use).",
+        "release_date": "2026",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "Sin suscripción; esquema pay-per-use basado en créditos.\nPuede otorgar créditos gratis (promociones/bonos/daily check-ins) y puede modificar esos programas.\nCréditos: algunos paquetes pueden expirar si se especifica vigencia; otros no expiran si no se indica.",
+        "license": "Propietaria / comercial",
+        "security_privacy": "Recolección: datos de cuenta (email, nombre), OAuth (Google), datos de uso (metadatos, consumo de créditos, IP/navegador), y pagos vía Stripe (no almacenan tarjeta).\nRetención: contenido generado “temporal” y puede borrarse tras 30 días; logs hasta 90 días; datos de cuenta mientras esté activa.\nSeguridad: HTTPS, contraseñas hasheadas, y menciona auditorías de seguridad.\nTerceros: Stripe, Google OAuth, Cloudflare y proveedores de IA (FAL, HuggingFace, KieAI).\nCookies: declara cookies esenciales (sin tracking/ads cookies).",
+        "integration": "Soporta Google OAuth para inicio de sesión.\nPagos integrados con Stripe.\nMenciona API access mediante tokens y endpoints con rate limits (orientado a integración técnica).\nUso de infraestructura/servicios como Cloudflare."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://tiktomato.com/"
+        },
+        {
+          "source_url": "https://www.wdbj7.com/2025/09/29/tiktok-faux-how-scammers-use-ai-imitate-popular-creators-sell-fake-products/"
+        },
+        {
+          "source_url": "https://techcrunch.com/2025/11/18/tiktok-now-lets-you-choose-how-much-ai-generated-content-you-want-to-see/"
+        },
+        {
+          "source_url": "https://tiktomato.com/privacy-policy"
+        },
+        {
+          "source_url": "https://tiktomato.com/blog"
+        }
+      ]
+    },
+    "1516": {
+      "app": {
+        "id": "1516",
+        "name": "TheLoops",
+        "url": "https://theloops.io",
+        "short_description": "Ayuda a optimizar operaciones de experiencia del cliente mediante agentes y automatización con IA.",
+        "category": "Automatización",
+        "main_functionality": "Automatización de operaciones de experiencia del cliente.",
+        "tags": "#IA #Automatización #Productividad #Soporte",
+        "logo_filename": "id_1516_theloops",
+        "what_is": "TheLoops es una plataforma que usa inteligencia artificial para analizar y optimizar operaciones relacionadas con soporte, atención y experiencia del cliente.",
+        "purpose": "Optimizar operaciones de experiencia del cliente mediante análisis y automatización con IA.",
+        "use_cases": "Soporte al cliente, análisis de operaciones, atención automatizada, seguimiento de casos, experiencia del cliente y gestión de equipos de soporte.",
+        "main_advantages": "Ayuda a mejorar procesos de atención; permite analizar operaciones; puede reducir tiempos de respuesta y apoyar la toma de decisiones.",
+        "long_description": "TheLoops es una plataforma enfocada en operaciones de experiencia del cliente. Utiliza inteligencia artificial para analizar información, detectar oportunidades de mejora y apoyar procesos relacionados con soporte, atención y seguimiento.",
+        "release_date": "No especificada",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Prueba gratuita",
+        "license": "No especificada",
+        "security_privacy": "Consultar la política de privacidad del proveedor.",
+        "integration": "Disponible mediante plataforma web del proveedor."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://theloops.io"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/theloops"
+        }
+      ]
+    },
+    "1578": {
+      "app": {
+        "id": "1578",
+        "name": "Toki",
+        "url": "https://toki.com",
+        "short_description": "Asistente de agenda con IA que captura mensajes, audios, imágenes y correos para convertirlos en planes y eventos; los programa automáticamente, prioriza, resuelve conflictos y te da recordatorios (notificaciones y llamadas) para que tus planes se cumplan.",
+        "category": "Productividad",
+        "main_functionality": "Convertir entradas multimodales (texto, voz, imágenes, emails) en tareas/eventos y gestionarlos proactivamente: agenda, recordatorios adaptativos, sugerencias ante traslapes y seguimiento.",
+        "tags": "#AgenteIA,#Multimodal,#Recordatorios,#GestiónDelTiempo",
+        "logo_filename": "id_1578_toki",
+        "what_is": "Una aplicación de productividad tipo “agente de agenda” que permite administrar el calendario mediante conversación y entradas multimodales. Captura información desde distintos formatos y la transforma en planes accionables, con programación y seguimiento.",
+        "purpose": "Para planificar el día y mantenerte al tanto de compromisos y tareas: crea eventos rápidamente, consolida calendarios, detecta conflictos y envía recordatorios (incluyendo alertas por llamada) para reducir olvidos.",
+        "use_cases": "Convertir notas/ideas sueltas (texto/voz) en eventos programados.\nSubir una imagen/captura (p. ej., póster/itinerario) para crear un evento.\nVer disponibilidad más rápido al unificar calendarios y encontrar “tiempo libre”.\nResolver traslapes sugiriendo mejores horarios.\nCrear “condiciones”/seguimiento de cosas importantes y recibir actualizaciones.",
+        "main_advantages": "Captura multimodal (texto, voz, imágenes, emails) para reducir fricción al agendar.\nEnfoque proactivo: recordatorios adaptativos, escalamiento por llamada y sugerencias ante conflictos.\nIntegración con calendarios y mensajería (menciona uso con apps de mensajería y acceso a datos de Google Calendar; también aparece como integración sencilla en reseñas).\nPrivacidad/controles: política menciona medidas de seguridad (incluida encriptación) y derechos de acceso/borrado; además indica que no usan tus datos para entrenamiento de IA.",
+        "long_description": "Funciona como asistente/agente de agenda que:\n\nCaptura información desde texto, notas de voz, imágenes y correos para convertirla en eventos/planes.\nPrograma y prioriza automáticamente, y da seguimiento para que las acciones ocurran.\nOfrece recordatorios adaptativos (notificaciones, alarmas iOS y escalamiento “CallMe”/llamadas) y sugerencias cuando hay traslapes.\nProporciona insights diarios/semanales para revisar lo que viene y cómo se usa el tiempo.\nPermite operaciones conversacionales sobre el calendario (crear, modificar, buscar) y sincronización con Google Calendar; menciona acceso vía apps de mensajería (ej., WhatsApp, iMessage, WeChat).",
+        "release_date": "2025",
+        "developer": "Orion Arm Pte. Ltd",
+        "main_model": "No especificado",
+        "pricing_plans": "App iOS: Gratis con compras dentro de la app; aparecen planes Plus y Super con opción mensual y anual (los montos varían por región/tienda). Ejemplo (App Store US): Plus (mensual) 6.99 USD, Super (mensual) 9.99 USD; Plus (anual) 71.90 USD, Super (anual) 83.90 USD.\nEn Android se indica “In-app purchases” (sin detallar precios en el extracto consultado).",
+        "license": "Propietaria",
+        "security_privacy": "Política menciona cumplimiento PDPA (Singapur) y GDPR (UE) y detalla categorías de datos: cuenta, contenido que el usuario envía (inputs/archivos), datos técnicos (logs/uso/dispositivo), cookies/analítica; además ubicación (opcional con permiso) y datos limitados de salud/bienestar si el usuario consiente.\nIndica medidas de protección (p. ej., encriptación, controles de acceso, MFA/OTP, etc.) y que no usan datos del usuario para entrenamiento de IA.\nSeñala que el almacenamiento/procesamiento puede ocurrir en servidores en EE. UU. (Virginia) y describe transferencias internacionales.\nEn Google Play se declara: “No data shared with third parties”, “Data is encrypted in transit” y opción de solicitar borrado (según ficha de la tienda).\nEn App Store, el apartado “App Privacy” lista tipos de datos que pueden vincularse al usuario (p. ej., contacto, contenido del usuario como fotos/audio, identificadores, uso) y datos que podrían usarse para tracking (identificadores), según lo indicado por el desarrollador.",
+        "integration": "Integración con Google Calendar y sincronización; acceso/uso mediante apps de mensajería (ej., WhatsApp, iMessage, WeChat) según página de features/FAQ.\nMenciona uso de información de Google APIs para mostrar información relevante desde correos/calendarios, y adhesión a la política de datos de Google API Services."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://toki.com/"
+        },
+        {
+          "source_url": "https://toki.com/features"
+        },
+        {
+          "source_url": "https://toki.com/privacy"
+        },
+        {
+          "source_url": "https://toki.com/tos"
+        },
+        {
+          "source_url": "https://apps.apple.com/us/app/toki-ai-scheduling-tasks/id6557056348"
+        }
+      ]
+    },
+    "1622": {
+      "app": {
+        "id": "1622",
+        "name": "Traivl",
+        "url": "https://www.traivl.com",
+        "short_description": "Planifica viajes con recomendaciones locales, itinerarios personalizados y apoyo de IA.",
+        "category": "Productividad",
+        "main_functionality": "Planeación de viajes con recomendaciones personalizadas.",
+        "tags": "#IA #Productividad #Viajes #AsistenteIA",
+        "logo_filename": "id_1622_traivl",
+        "what_is": "Traivl es una herramienta de planificación de viajes que utiliza inteligencia artificial para generar itinerarios, recomendaciones locales y opciones de organización.",
+        "purpose": "Planificar viajes con recomendaciones personalizadas y apoyo de inteligencia artificial.",
+        "use_cases": "Itinerarios de viaje, recomendaciones locales, planeación turística, organización de rutas, viajes personales y asistencia de viaje.",
+        "main_advantages": "Facilita planear viajes; ofrece recomendaciones personalizadas; puede ayudar a organizar actividades y destinos de forma más eficiente.",
+        "long_description": "Traivl es una herramienta de planificación de viajes con inteligencia artificial. Permite generar itinerarios, recomendaciones locales y apoyo para organizar experiencias de viaje personalizadas.",
+        "release_date": "No especificada",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Gratis",
+        "license": "No especificada",
+        "security_privacy": "Consultar la política de privacidad del proveedor.",
+        "integration": "Disponible mediante plataforma web del proveedor."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.traivl.com"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/traivl"
+        }
+      ]
+    },
+    "1680": {
+      "app": {
+        "id": "1680",
+        "name": "Tinybird",
+        "url": "https://www.tinybird.co/",
+        "short_description": "Tinybird permite construir APIs y productos de datos en tiempo real, facilitando el procesamiento, consulta y publicación de información para aplicaciones modernas.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Construcción de APIs y productos de datos en tiempo real",
+        "tags": "#Datos#APIs#Desarrollo",
+        "logo_filename": "id_1680_tinybird",
+        "what_is": "Tinybird es una plataforma para construir productos de datos y APIs en tiempo real. Permite procesar, consultar y exponer datos de forma eficiente para aplicaciones que requieren respuestas rápidas y análisis continuo.",
+        "purpose": "Permitir la construcción de APIs y productos de datos en tiempo real para aplicaciones que requieren información procesada con baja latencia.",
+        "use_cases": "APIs en tiempo real; dashboards de datos; productos analíticos; procesamiento de eventos; consultas rápidas para aplicaciones.",
+        "main_advantages": "Permite trabajar con datos en tiempo real; facilita la publicación de APIs; mejora tiempos de respuesta; es útil para productos analíticos modernos.",
+        "long_description": "Tinybird es una plataforma para construir APIs y productos de datos en tiempo real. Permite procesar, consultar y exponer información de forma eficiente para aplicaciones que requieren baja latencia y análisis continuo. Es útil para dashboards, sistemas de monitoreo, productos analíticos, eventos en tiempo real y servicios que dependen de datos actualizados.",
+        "release_date": "No disponible",
+        "developer": "tinybird.co",
+        "main_model": "No especificado",
+        "pricing_plans": "Freemium",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.tinybird.co/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/tinybird"
+        }
+      ]
+    },
+    "1709": {
+      "app": {
+        "id": "1709",
+        "name": "Timbre",
+        "url": "https://www.timbrehq.com/",
+        "short_description": "Timbre permite editar videos y audio de formato corto mediante IA, ayudando a transformar contenido multimedia en piezas más listas para publicar.",
+        "category": "Edición de video",
+        "main_functionality": "Edición de video y audio corto con inteligencia artificial",
+        "tags": "#EdiciónDeVideo #Video #Audio",
+        "logo_filename": "id_1709_timbre",
+        "what_is": "Timbre es una herramienta de edición de video y audio con inteligencia artificial. Está orientada a trabajar con contenido corto, ayudando a transformar archivos multimedia en piezas más útiles para publicación, reutilización o distribución.",
+        "purpose": "Simplificar la edición de video y audio corto con herramientas de IA para reutilizar y publicar contenido multimedia.",
+        "use_cases": "Edición de clips cortos; transformación de audio y video; preparación de contenido para redes; reutilización multimedia.",
+        "main_advantages": "Simplifica edición multimedia; acelera preparación de clips; permite reutilizar contenido; apoya producción para redes.",
+        "long_description": "Timbre es una herramienta de edición de video y audio con inteligencia artificial orientada a contenido corto. Ayuda a transformar archivos multimedia en piezas más listas para publicar, reutilizar o distribuir. Puede ser útil para creadores, equipos de contenido y áreas de marketing que trabajan con clips, audio y videos breves.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.timbrehq.com/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/timbre-e67att"
+        }
+      ]
+    },
+    "1732": {
+      "app": {
+        "id": "1732",
+        "name": "Thesys",
+        "url": "https://www.thesys.dev/",
+        "short_description": "Thesys permite crear interfaces dinámicas con apoyo de IA, facilitando el diseño de experiencias digitales y salidas visuales para productos modernos.",
+        "category": "Codificación",
+        "main_functionality": "Creación de interfaces dinámicas con asistencia de IA",
+        "tags": "#Codificación #UI #Desarrollo",
+        "logo_filename": "id_1732_thesys",
+        "what_is": "Thesys es una herramienta de inteligencia artificial enfocada en la creación de interfaces dinámicas. Ayuda a generar salidas visuales y experiencias digitales que pueden utilizarse en productos, prototipos y aplicaciones modernas.",
+        "purpose": "Facilitar la creación de interfaces dinámicas con IA para acelerar el diseño de productos, prototipos y experiencias digitales.",
+        "use_cases": "Diseño de interfaces; generación de prototipos; creación de experiencias digitales; apoyo a productos web o móviles.",
+        "main_advantages": "Acelera el diseño de interfaces; facilita prototipos visuales; reduce trabajo manual; apoya experiencias digitales modernas.",
+        "long_description": "Thesys es una herramienta de inteligencia artificial orientada a la creación de interfaces dinámicas y experiencias digitales. Su enfoque permite generar salidas visuales para productos, prototipos y aplicaciones modernas, ayudando a equipos de diseño y desarrollo a acelerar la construcción de interfaces con apoyo de IA.",
+        "release_date": "No disponible",
+        "developer": "thesys.dev",
+        "main_model": "No especificado",
+        "pricing_plans": "Prueba gratuita",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.thesys.dev/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/thesys"
+        }
+      ]
+    },
+    "1744": {
+      "app": {
+        "id": "1744",
+        "name": "Tethra AI",
+        "url": "https://tethra.ai/",
+        "short_description": "Tethra AI permite orquestar agentes de IA para operaciones de servicio, soporte y procesos automatizados.",
+        "category": "Automatización",
+        "main_functionality": "Orquestación de agentes de IA para operaciones de servicio",
+        "tags": "#Automatización #AgentesIA #Orquestación",
+        "logo_filename": "id_1744_tethra_ai",
+        "what_is": "Tethra AI es una herramienta para orquestar agentes de IA aplicados a operaciones de servicio. Está orientada a automatizar procesos, coordinar agentes y apoyar tareas de soporte o atención.",
+        "purpose": "Orquestar agentes de IA para automatizar operaciones de servicio, soporte y atención.",
+        "use_cases": "Orquestación de agentes; soporte automatizado; atención de servicio; coordinación de procesos con IA.",
+        "main_advantages": "Coordina agentes de IA; automatiza procesos de servicio; mejora soporte; facilita operaciones complejas.",
+        "long_description": "Tethra AI es una herramienta para orquestar agentes de inteligencia artificial aplicados a operaciones de servicio. Permite coordinar agentes, automatizar procesos y apoyar tareas de atención o soporte. Su utilidad se encuentra en facilitar operaciones más escalables mediante sistemas de agentes.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://tethra.ai/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/tethra-ai-njfytl"
+        }
+      ]
+    },
+    "1785": {
+      "app": {
+        "id": "1785",
+        "name": "Tindlo",
+        "url": "https://www.tindlo.com/",
+        "short_description": "Tindlo permite administrar tareas y agendas en una línea de tiempo, facilitando la organización personal o de equipo.",
+        "category": "Productividad",
+        "main_functionality": "Gestión de tareas y agendas en línea de tiempo",
+        "tags": "#Productividad #Tareas #Agenda",
+        "logo_filename": "id_1785_tindlo",
+        "what_is": "Tindlo es una herramienta de productividad para administrar tareas y agendas en una línea de tiempo. Facilita la organización de actividades personales o de equipo.",
+        "purpose": "Organizar tareas y agendas en una línea de tiempo para mejorar productividad personal o de equipo.",
+        "use_cases": "Gestión de tareas; agenda visual; seguimiento de actividades; organización de trabajo diario.",
+        "main_advantages": "Organiza tareas visualmente; facilita seguimiento; mejora planeación; apoya productividad diaria.",
+        "long_description": "Tindlo es una herramienta de productividad para administrar tareas y agendas en una línea de tiempo. Facilita organizar actividades, visualizar pendientes y dar seguimiento al trabajo diario. Puede ser útil tanto para usuarios individuales como para equipos pequeños que buscan mayor claridad operativa.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.tindlo.com/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/tindlo-ttlu0t"
+        }
+      ]
+    },
+    "1894": {
+      "app": {
+        "id": "1894",
+        "name": "Thinking Line",
+        "url": "https://www.thinkingline.com/",
+        "short_description": "Herramienta de IA para convertir ideas o temas en videos explicativos estilo pizarra, con animaciones dibujadas a mano, narración y escenas visuales. También permite generar gráficos vectoriales SVG editables y contenido educativo o corporativo desde prompts.",
+        "category": "Generación de video",
+        "main_functionality": "Generación de videos explicativos con IA a partir de prompts, usando animaciones tipo doodle, narración, escenas visuales, gráficos, voz y exportación para educación, capacitación, contenido corporativo y storytelling.",
+        "tags": "#TextoAVideo,#Educación,#Animación,#NarraciónIA",
+        "logo_filename": "id_1894_thinkingline",
+        "what_is": "Thinking Line es una plataforma de generación de videos y gráficos con IA. Permite transformar un tema o idea en una lección narrada con animaciones estilo dibujo a mano. Su enfoque principal es crear videos explicativos de pizarra, contenido educativo, materiales de capacitación y gráficos SVG editables.",
+        "purpose": "Sirve para explicar conceptos complejos de forma visual y rápida. Puede usarse para crear lecciones, videos educativos, materiales de formación corporativa, explicaciones de ciencia, matemáticas, historia, finanzas, biología, seguridad laboral, ventas y contenidos tipo cartoon o storytelling.",
+        "use_cases": "Creación de videos educativos sobre temas como agujeros negros, arquitectura LLM, redes neuronales, K-Means o historia; generación de materiales corporativos sobre seguridad, higiene, phishing, operación de montacargas y técnicas de ventas; creación de videos narrativos o de entretenimiento; generación de SVGs, ilustraciones vectoriales y recursos visuales para diseño o contenido.",
+        "main_advantages": "Permite crear videos explicativos desde un solo prompt, generar y editar en un mismo estudio, incluir narración, crear escenas animadas con gráficos, barras, ciclos y diagramas, usar voces de narración, acceder a demos por categorías y producir contenido educativo o corporativo sin animadores, locutores ni software de edición especializado.",
+        "long_description": "Thinking Line permite crear videos explicativos de estilo pizarra mediante IA. El usuario introduce un tema o prompt y la plataforma genera una explicación narrada con animaciones dibujadas a mano. También ofrece un estudio para generar y editar contenido, escenas animadas nativas, gráficos como barras, ciclos y diagramas, biblioteca de voces, videos por categorías y funciones para desarrolladores mediante API. Su contenido está orientado a educación, aprendizaje guiado, historia, capacitación corporativa, seguridad laboral, ventas, diseño, generación de SVGs y storytelling visual.",
+        "release_date": "Mayo 2026",
+        "developer": "True Brain Labs.",
+        "main_model": "No disponible",
+        "pricing_plans": "Plan Free: USD $0, incluye 4 videos al mes, voces estándar, exportación 720p y marca de agua. Plan Pro: USD $29/mes, incluye 30 videos al mes, voces premium con clonación, exportación 4K, sin marca de agua y derechos de uso comercial. Plan Enterprise: precio personalizado, incluye acceso API, soporte dedicado, branding personalizado, SSO y seguridad.",
+        "license": "Propietaria / SaaS comercial.",
+        "security_privacy": "La política de privacidad indica que recopila nombre, correo, información de facturación, prompts, imágenes, contenido subido, datos de uso, solicitudes API, logs de errores e información del dispositivo. Declara uso de cifrado en tránsito y en reposo, controles de acceso, auditorías de seguridad y capacitación interna. También menciona derechos de acceso, corrección, eliminación, portabilidad y oposición, además de retención de logs de uso por 12 meses.",
+        "integration": "Ofrece funciones para desarrolladores mediante API, incluyendo generación de videos explicativos, acceso a videos por categoría y biblioteca de voces."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.thinkingline.com/"
+        },
+        {
+          "source_url": "https://www.thinkingline.com/blog"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/thinking-line"
+        },
+        {
+          "source_url": "https://www.thinkingline.com/blog"
+        }
+      ]
+    },
+    "1916": {
+      "app": {
+        "id": "1916",
+        "name": "Town",
+        "url": "https://www.town.com/",
+        "short_description": "Town automatiza tareas, correos y calendario, ayudando a organizar flujos personales o de equipo.",
+        "category": "Automatización",
+        "main_functionality": "Automatización de tareas, correos y calendario",
+        "tags": "#Automatización #Email #Calendario",
+        "logo_filename": "id_1916_town",
+        "what_is": "Town es una herramienta de automatización para gestionar tareas, correos y calendario. Ayuda a organizar actividades, reducir trabajo manual y coordinar flujos personales o de equipo.",
+        "purpose": "Automatizar tareas, correos y calendario para mejorar organización personal o de equipo.",
+        "use_cases": "Automatización de correo; calendario; tareas; organización personal o de equipo.",
+        "main_advantages": "Automatiza calendario y correo; organiza tareas; reduce carga manual; mejora productividad.",
+        "long_description": "Town es una herramienta de automatización para gestionar tareas, correos y calendario. Ayuda a organizar actividades, reducir trabajo manual y coordinar flujos personales o de equipo. Puede ser útil para usuarios que buscan centralizar seguimiento operativo y administración diaria.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://futuretools.io/tools/town-khp7s2"
+        },
+        {
+          "source_url": "https://www.town.com/"
+        }
+      ]
+    },
+    "1969": {
+      "app": {
+        "id": "1969",
+        "name": "TextureFast",
+        "url": "https://texturefast.com/es",
+        "short_description": "TextureFast ayuda a generar texturas visuales de alta calidad para modelos 3D, diseño digital y proyectos creativos.",
+        "category": "Generación de arte",
+        "main_functionality": "Generación de texturas digitales de alta calidad para modelos 3D y proyectos visuales.",
+        "tags": "texturas 4K, modelos 3D, diseño visual, generación de imágenes",
+        "logo_filename": "id_1969_texturefast",
+        "what_is": "TextureFast es una herramienta de generación visual enfocada en crear texturas digitales de alta calidad para modelos 3D, diseño de producto, videojuegos o proyectos creativos.",
+        "purpose": "Crear texturas digitales de alta calidad para modelos 3D, diseño visual y proyectos creativos.",
+        "use_cases": "Texturas para modelos 3D; diseño de videojuegos; visualización de producto; materiales digitales.",
+        "main_advantages": "Acelera la creación de materiales visuales, facilita recursos para 3D y ayuda a producir texturas de alta calidad.",
+        "long_description": "TextureFast es una herramienta creativa enfocada en generar texturas digitales de alta calidad. Puede ser útil para modelos 3D, videojuegos, diseño de producto, visualización arquitectónica o proyectos visuales que requieren materiales realistas. Su enfoque permite acelerar la creación de recursos gráficos para entornos digitales.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://texturefast.com/es"
+        }
+      ]
+    },
+    "2038": {
+      "app": {
+        "id": "2038",
+        "name": "ThumbnailCreator",
+        "url": "https://www.thumbnailcreator.com/",
+        "short_description": "ThumbnailCreator permite crear miniaturas visuales para videos, contenido digital o redes sociales.",
+        "category": "Diseño gráfico",
+        "main_functionality": "Creación de miniaturas visuales para videos, redes sociales y contenido digital.",
+        "tags": "miniaturas, diseño gráfico, contenido visual, redes sociales",
+        "logo_filename": "id_2038_thumbnailcreator",
+        "what_is": "ThumbnailCreator es una herramienta de diseño gráfico enfocada en crear miniaturas para videos, redes sociales o contenido digital. Ayuda a generar recursos visuales útiles para captar atención y comunicar mejor una pieza de contenido.",
+        "purpose": "Crear miniaturas atractivas para videos, redes sociales y contenido digital.",
+        "use_cases": "Miniaturas para YouTube; contenido visual; diseño para redes; piezas promocionales.",
+        "main_advantages": "Acelera la creación de miniaturas, mejora la presentación visual y apoya contenido para redes o videos.",
+        "long_description": "ThumbnailCreator es una herramienta de diseño gráfico enfocada en crear miniaturas para videos, redes sociales y contenido digital. Puede ayudar a creadores, equipos de marketing o usuarios que necesitan producir piezas visuales atractivas con rapidez. Su utilidad está en mejorar la presentación visual del contenido y facilitar la creación de recursos promocionales.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.thumbnailcreator.com/"
+        }
+      ]
+    },
+    "2041": {
+      "app": {
+        "id": "2041",
+        "name": "Thumbfa.st",
+        "url": "https://thumbfa.st/",
+        "short_description": "ThumbFast ayuda a crear miniaturas y recursos visuales rápidos para marketing, videos o contenido digital.",
+        "category": "Diseño gráfico",
+        "main_functionality": "Generación rápida de miniaturas y recursos visuales para contenido digital.",
+        "tags": "miniaturas, diseño gráfico, marketing visual, contenido",
+        "logo_filename": "id_2041_thumbfast",
+        "what_is": "ThumbFast es una herramienta de diseño gráfico para crear miniaturas y recursos visuales de forma rápida. Puede ser útil para creadores, equipos de marketing o usuarios que necesitan producir materiales visuales para videos y contenido digital.",
+        "purpose": "Generar miniaturas y recursos visuales rápidos para marketing, videos o contenido digital.",
+        "use_cases": "Miniaturas rápidas; marketing visual; videos; contenido para redes sociales.",
+        "main_advantages": "Permite crear recursos visuales rápidamente, mejora materiales de contenido y apoya campañas digitales.",
+        "long_description": "ThumbFast es una herramienta de diseño gráfico para crear miniaturas y recursos visuales de forma rápida. Puede apoyar a creadores de contenido, equipos de marketing o usuarios que necesitan producir imágenes promocionales para videos, redes sociales o campañas digitales. Su valor está en acelerar la creación visual sin partir desde cero.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://thumbfa.st/"
+        }
+      ]
+    },
+    "2158": {
+      "app": {
+        "id": "2158",
+        "name": "TikTask",
+        "url": "https://tiktask.ai/",
+        "short_description": "Aplicación para Android que automatiza tareas rutinarias de gestión en redes sociales.",
+        "category": "Redes sociales",
+        "main_functionality": "Automatizar tareas rutinarias relacionadas con la gestión de redes sociales.",
+        "tags": "automatización de redes sociales, tareas sociales, gestión de contenido, aplicación móvil",
+        "logo_filename": "id_2158_tiktask",
+        "what_is": "TikTask es una aplicación para Android orientada a automatizar tareas rutinarias en redes sociales.",
+        "purpose": "Reducir el tiempo dedicado a tareas rutinarias relacionadas con redes sociales.",
+        "use_cases": "Publicación rutinaria, gestión de actividad social, automatización de tareas y mantenimiento de cuentas.",
+        "main_advantages": "Automatiza actividades repetitivas y disminuye el trabajo manual en redes sociales.",
+        "long_description": "TikTask es una aplicación para Android diseñada para automatizar tareas rutinarias relacionadas con redes sociales. Puede ayudar a reducir acciones repetitivas y facilitar el mantenimiento de actividades sociales desde un dispositivo móvil.",
+        "release_date": "No disponible",
+        "developer": "TikTask",
+        "main_model": "No especificado",
+        "pricing_plans": "No disponible",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://tiktask.ai/"
+        }
+      ]
+    },
+    "2163": {
+      "app": {
+        "id": "2163",
+        "name": "TranscriptAPI.com",
+        "url": "https://transcriptapi.com/",
+        "short_description": "API que extrae transcripciones multilingües con marcas de tiempo desde contenido audiovisual.",
+        "category": "Audio",
+        "main_functionality": "Extraer transcripciones multilingües con marcas de tiempo mediante una API.",
+        "tags": "transcripción multilingüe, marcas de tiempo, API de audio, extracción de texto",
+        "logo_filename": "id_2163_transcriptapi_com",
+        "what_is": "TranscriptAPI.com es una API especializada en extraer transcripciones multilingües con marcas de tiempo.",
+        "purpose": "Facilitar la obtención estructurada de transcripciones multilingües desde aplicaciones y servicios.",
+        "use_cases": "Transcripción de audio y video, subtítulos, análisis de contenido multilingüe y procesamiento mediante API.",
+        "main_advantages": "Ofrece acceso mediante API, compatibilidad multilingüe y marcas de tiempo para estructurar las transcripciones.",
+        "long_description": "TranscriptAPI.com es una API que extrae transcripciones multilingües con marcas de tiempo. Puede integrarse en aplicaciones y procesos que necesiten convertir contenido audiovisual en texto estructurado para análisis, subtítulos o consulta.",
+        "release_date": "No disponible",
+        "developer": "TranscriptAPI.com",
+        "main_model": "No especificado",
+        "pricing_plans": "No disponible",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://transcriptapi.com/"
+        }
+      ]
+    },
+    "2216": {
+      "app": {
+        "id": "2216",
+        "name": "TextDeck",
+        "url": "https://www.textdeck.com/home",
+        "short_description": "Herramienta que convierte instrucciones de texto en materiales visuales completamente diseñados.",
+        "category": "Generación de diseño",
+        "main_functionality": "Convertir instrucciones de texto en materiales visuales completamente diseñados.",
+        "tags": "generación de diseño, prompts de texto, contenido visual, diseño automático, materiales gráficos",
+        "logo_filename": "id_2216_textdeck",
+        "what_is": "TextDeck es una herramienta de generación de diseño que transforma prompts de texto en materiales visuales elaborados.",
+        "purpose": "Transformar instrucciones escritas en materiales visuales diseñados de forma automatizada.",
+        "use_cases": "Creación de presentaciones visuales, materiales gráficos, diseños a partir de prompts y contenido preparado para comunicar ideas.",
+        "main_advantages": "Reduce el trabajo necesario para transformar instrucciones escritas en materiales visualmente diseñados.",
+        "long_description": "TextDeck es una herramienta de generación de diseño que transforma instrucciones de texto en materiales visuales preparados. Permite partir de prompts para producir contenido diseñado, reduciendo el trabajo necesario para convertir una idea escrita en un recurso visual.",
+        "release_date": "No disponible",
+        "developer": "TextDeck",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.textdeck.com/home"
+        }
+      ]
+    },
+    "2248": {
+      "app": {
+        "id": "2248",
+        "name": "Thematic",
+        "url": "https://www.getthematic.com/",
+        "short_description": "Herramienta que analiza retroalimentación de texto no estructurado para extraer información útil.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Analizar comentarios y retroalimentación de texto no estructurado para extraer información útil.",
+        "tags": "feedback de clientes, análisis de texto, información no estructurada, insights, inteligencia de negocios",
+        "logo_filename": "id_2248_thematic",
+        "what_is": "Thematic es una plataforma de inteligencia de negocios que analiza feedback de texto no estructurado para obtener información accionable.",
+        "purpose": "Convertir feedback de texto no estructurado en información útil para análisis y toma de decisiones.",
+        "use_cases": "Análisis de feedback, clasificación de comentarios, identificación de temas recurrentes y obtención de insights.",
+        "main_advantages": "Transforma grandes volúmenes de feedback no estructurado en información más fácil de analizar.",
+        "long_description": "Thematic es una plataforma de inteligencia de negocios que analiza feedback de texto no estructurado. Su función es transformar comentarios y otras entradas textuales en información más organizada y útil para análisis.",
+        "release_date": "No disponible",
+        "developer": "Thematic Analysis Inc.",
+        "main_model": "Agentes propios; modelo base no especificado",
+        "pricing_plans": "Foundation: $25,000 USD/año; Enterprise: precio personalizado",
+        "license": "No especificado",
+        "security_privacy": "SOC 2 Type II, cifrado, pentesting y redacción de información personal identificable.",
+        "integration": "API, fuentes CX y MCP para Copilot, Claude y ChatGPT"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.getthematic.com/"
+        }
+      ]
+    },
+    "2285": {
+      "app": {
+        "id": "2285",
+        "name": "Thread Deck",
+        "url": "https://www.usethreaddeck.com/",
+        "short_description": "Espacio de trabajo visual basado en lienzo que conecta notas, prompts e información relacionada.",
+        "category": "Productividad",
+        "main_functionality": "Organizar notas, prompts e información relacionada dentro de un espacio de trabajo visual basado en lienzo.",
+        "tags": "espacio de trabajo, notas, prompts, organización visual, colaboración, productividad",
+        "logo_filename": "id_2285_thread_deck",
+        "what_is": "Thread Deck es un espacio de trabajo visual basado en lienzo que conecta notas, prompts e información relacionada.",
+        "purpose": "Organizar visualmente información, notas y prompts relacionados dentro de un único espacio de trabajo.",
+        "use_cases": "Organización de notas, gestión de prompts, conexión de ideas, investigación y espacios visuales de trabajo.",
+        "main_advantages": "Facilita relacionar ideas, notas y prompts mediante una organización visual flexible.",
+        "long_description": "Thread Deck es un espacio de trabajo visual basado en lienzo que permite conectar notas, prompts e información relacionada. Está orientado a organizar ideas y recursos de forma flexible, facilitando el trabajo con contenidos que mantienen relaciones entre sí.",
+        "release_date": "No disponible",
+        "developer": "Thread Deck",
+        "main_model": "No especificado",
+        "pricing_plans": "No disponible públicamente",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.usethreaddeck.com/"
+        }
+      ]
+    },
+    "2312": {
+      "app": {
+        "id": "2312",
+        "name": "TheQuickAssist",
+        "url": "https://thequickassist.co/",
+        "short_description": "Plataforma de WhatsApp CRM con agentes de IA, automatizaciones y herramientas para gestionar conversaciones y leads.",
+        "category": "Chat",
+        "main_functionality": "Gestionar conversaciones, leads y automatizaciones mediante WhatsApp CRM y agentes conversacionales de inteligencia artificial.",
+        "tags": "WhatsApp CRM, agentes de IA, chatbot, automatización, atención al cliente, leads, Instagram",
+        "logo_filename": "id_2312_thequickassist",
+        "what_is": "TheQuickAssist es una plataforma de WhatsApp CRM y atención automatizada que combina agentes de IA, campañas, workflows y gestión de leads.",
+        "purpose": "Centralizar y automatizar la comunicación comercial y de soporte mediante WhatsApp y otros canales.",
+        "use_cases": "WhatsApp CRM, soporte, campañas, calificación de leads, recordatorios, chatbot, workflows e Instagram.",
+        "main_advantages": "Reúne CRM, WhatsApp Business API, agentes de IA, campañas y automatizaciones dentro de una misma plataforma.",
+        "long_description": "TheQuickAssist es una plataforma de WhatsApp CRM y automatización de conversaciones. Integra WhatsApp Business API, agentes de inteligencia artificial, bandeja compartida, campañas, workflows, seguimiento de leads y herramientas de atención para automatizar procesos comerciales y de soporte.",
+        "release_date": "No disponible",
+        "developer": "Prominno Labs Pvt. Ltd.",
+        "main_model": "Agentes de IA; modelo base no especificado",
+        "pricing_plans": "Growth: ₹599/mes; Pro: ₹1,199/mes; Elite: ₹2,999/mes; Instagram Automation: ₹499/mes; prueba gratuita de 7 días",
+        "license": "No especificado",
+        "security_privacy": "Cuenta con política de privacidad y términos de uso; pagos procesados mediante Razorpay.",
+        "integration": "WhatsApp Business API, chat web, Instagram, Facebook Messenger y REST API"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://thequickassist.co/"
+        }
+      ]
+    },
+    "2370": {
+      "app": {
+        "id": "2370",
+        "name": "Toffu AI",
+        "url": "https://toffu.ai/",
+        "short_description": "Agente de marketing con IA que analiza datos reales y ejecuta tareas en plataformas publicitarias, SEO y contenido.",
+        "category": "Marketing",
+        "main_functionality": "Conectarse a plataformas de marketing para analizar datos, ejecutar auditorías, generar reportes y realizar acciones autorizadas por el usuario.",
+        "tags": "agente de marketing, Google Ads, Meta Ads, SEO, analytics, automatización, reporting, marketing",
+        "logo_filename": "id_2370_toffu_ai",
+        "what_is": "Toffu AI es un agente de marketing que se conecta directamente con herramientas publicitarias, analíticas, SEO y contenido para analizar información y ejecutar tareas.",
+        "purpose": "Automatizar trabajo operativo de marketing utilizando datos reales de las cuentas y manteniendo aprobación humana para cambios.",
+        "use_cases": "Auditorías de Google Ads y Meta Ads, SEO, reporting, investigación competitiva, creación y publicación de contenido y programación de tareas.",
+        "main_advantages": "Trabaja con datos reales de las cuentas conectadas y puede ejecutar acciones después de recibir autorización del usuario.",
+        "long_description": "Toffu AI es un agente de marketing orientado a ejecutar trabajo operativo sobre las plataformas que utiliza una empresa. Puede conectarse con Google Ads, Meta Ads, Analytics, Search Console, LinkedIn y otras herramientas para analizar rendimiento, detectar oportunidades, elaborar reportes, crear contenido y ejecutar cambios después de obtener autorización.",
+        "release_date": "No disponible",
+        "developer": "Toffu AI, Inc.",
+        "main_model": "Modelos de terceros mediante APIs comerciales; modelos específicos no publicados",
+        "pricing_plans": "Registro gratuito con créditos iniciales; planes de pago desde aproximadamente $100 USD/mes; Agency y Enterprise: personalizado",
+        "license": "No especificado",
+        "security_privacy": "Los datos de clientes no se utilizan para entrenar o mejorar modelos; los proveedores de modelos operan mediante APIs comerciales sin retención ni entrenamiento sobre esos datos.",
+        "integration": "Plataformas de publicidad, analítica, SEO y CRM mediante cuentas conectadas"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://toffu.ai/"
+        }
+      ]
+    },
+    "2409": {
+      "app": {
+        "id": "2409",
+        "name": "Trackboxx",
+        "url": "https://trackboxx.com/",
+        "short_description": "Plataforma de analítica web sin cookies para medir tráfico, comportamiento y rendimiento de sitios web.",
+        "category": "Marketing",
+        "main_functionality": "Analizar tráfico y comportamiento de usuarios en sitios web mediante analítica orientada a la privacidad y sin cookies.",
+        "tags": "analítica web, marketing, privacidad, cookie-free, métricas, tráfico web, insights, seguimiento",
+        "logo_filename": "id_2409_trackboxx",
+        "what_is": "Trackboxx es una plataforma de analítica web enfocada en medir tráfico y comportamiento sin depender de cookies.",
+        "purpose": "Ofrecer métricas de tráfico web respetando la privacidad de los usuarios y evitando el uso de cookies tradicionales.",
+        "use_cases": "Analítica web, seguimiento de visitas, medición de campañas, análisis de páginas, métricas de conversión y monitoreo de tráfico sin cookies.",
+        "main_advantages": "Proporciona analítica web sin depender de cookies, facilitando una medición orientada a la privacidad.",
+        "long_description": "Trackboxx es una plataforma de analítica web enfocada en medir tráfico y comportamiento de usuarios sin utilizar cookies tradicionales. Permite consultar métricas relacionadas con visitas y rendimiento del sitio mediante un enfoque orientado a la privacidad.",
+        "release_date": "No disponible",
+        "developer": "Trackboxx",
+        "main_model": "No especificado",
+        "pricing_plans": "Free: hasta 1,000 pageviews; Basic: €5/mes hasta 25,000 pageviews; Business: €14/mes hasta 100,000 pageviews; prueba de 30 días disponible",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "Sitios web y analítica sin cookies"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://trackboxx.com/"
+        }
+      ]
+    },
+    "2617": {
+      "app": {
+        "id": "2617",
+        "name": "TimeHero",
+        "url": "https://www.timehero.com/",
+        "short_description": "Herramienta de productividad que organiza automáticamente tareas y proyectos alrededor del calendario para ayudar a planificar el trabajo y administrar el tiempo.",
+        "category": "Productividad",
+        "main_functionality": "Planifica automáticamente tareas dentro del calendario según prioridades, disponibilidad y fechas límite, reorganizando el trabajo cuando cambian las condiciones.",
+        "tags": "gestión de tareas, planificación automática, calendario, productividad, proyectos, programación, gestión del tiempo",
+        "logo_filename": "id_2617_timehero",
+        "what_is": "TimeHero es una plataforma de gestión de tareas y planificación inteligente que organiza automáticamente el trabajo alrededor del calendario del usuario.",
+        "purpose": "Organizar automáticamente tareas y proyectos dentro del tiempo disponible para mejorar la planificación y reducir conflictos de calendario.",
+        "use_cases": "Planificar tareas diarias; organizar proyectos; distribuir trabajo en el calendario; reajustar actividades ante cambios; coordinar equipos y fechas límite.",
+        "main_advantages": "Reorganiza automáticamente tareas cuando cambian prioridades, disponibilidad o fechas, reduciendo la necesidad de replanificar manualmente.",
+        "long_description": "TimeHero es una plataforma de productividad y gestión de tareas que utiliza planificación automática para organizar el trabajo dentro del calendario. Analiza tareas, prioridades, fechas límite y disponibilidad para asignar tiempo de forma dinámica. Cuando cambian las condiciones, puede reorganizar el plan sin que el usuario tenga que reconstruir manualmente toda su agenda.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Prueba gratuita de 7 días. Basic USD 5/usuario/mes, Professional USD 12/usuario/mes y Premium USD 27/usuario/mes. Con pago anual: aproximadamente USD 4.60, USD 10 y USD 22 por usuario/mes respectivamente.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.timehero.com/"
+        }
+      ]
+    }
+  }
+}

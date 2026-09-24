@@ -1,0 +1,2335 @@
+{
+  "schemaVersion": 1,
+  "apps": {
+    "3": {
+      "app": {
+        "id": "3",
+        "name": "Snap Code | Image to Code Converter",
+        "url": "https://thesnapcode.com/?utm_source=superhuman&utm_medium=newsletter&utm_campaign=perplexity-s-meteoric-rise&_bhlid=bd131e362e1dd2d40cf38dd07a313e46a21c102f",
+        "short_description": "Herramienta que convierte imágenes en código, facilitando la extracción de información codificada de archivos visuales.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Transformación de imágenes en código para extraer y analizar datos embebidos en archivos visuales.",
+        "tags": "#EdiciónDeImágenes #AnálisisDeImágenes #VisiónPorComputadora",
+        "logo_filename": "id_3_snap_code",
+        "what_is": "Snap Code es una herramienta de desarrollo web impulsada por inteligencia artificial que convierte imágenes en código de manera eficiente.",
+        "purpose": "Su propósito principal es facilitar la transformación de diseños visuales en código funcional, agilizando el proceso de desarrollo web y reduciendo el tiempo necesario para codificar manualmente interfaces basadas en imágenes.",
+        "use_cases": "Desarrollo Web: Permite a los desarrolladores convertir maquetas o diseños en imágenes directamente en código, acelerando la creación de sitios web.\nPrototipado Rápido: Facilita la generación de prototipos funcionales a partir de bocetos o capturas de pantalla, optimizando la fase de diseño y prueba.\nAprendizaje y Enseñanza: Útil para estudiantes y educadores en la comprensión de la relación entre diseño visual y su implementación en código.",
+        "main_advantages": "Eficiencia: Reduce significativamente el tiempo de desarrollo al automatizar la conversión de imágenes a código.\nPrecisión: Mantiene la fidelidad del diseño original al generar código que refleja con exactitud la imagen proporcionada.\nVersatilidad: Soporta múltiples lenguajes y marcos de desarrollo, adaptándose a diversas necesidades y preferencias de los desarrolladores.",
+        "long_description": "Snap Code es una plataforma impulsada por inteligencia artificial que transforma imágenes en código de alta calidad en cuestión de segundos. Esta herramienta permite a desarrolladores y diseñadores convertir diseños visuales en código funcional compatible con diversos lenguajes y frameworks, como HTML, CSS, React, Vue y Bootstrap. Además, ofrece soporte multilenguaje, generación de imágenes mediante IA y herramientas de utilidad para desarrolladores, como formateadores de JSON y código.",
+        "release_date": "No disponible.",
+        "developer": "Snap Code",
+        "main_model": "Emplea modelos de inteligencia artificial para la conversión de imágenes a código, aunque no se especifica el modelo exacto.",
+        "pricing_plans": "Gratuito: Acceso a las funciones principales, incluyendo GPT 40 Mini y 10 tokens gratuitos al registrarse.",
+        "license": "No disponible.",
+        "security_privacy": "No disponible.",
+        "integration": "Compatible con múltiples lenguajes y frameworks, facilitando su integración en diversos entornos de desarrollo."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://thesnapcode.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=perplexity-s-meteoric-rise"
+        },
+        {
+          "source_url": "https://snap.berkeley.edu/"
+        },
+        {
+          "source_url": "https://help.snapchat.com/hc/es-es/articles/7012342798612--Qu%C3%A9-es-un-Snapc%C3%B3digo"
+        },
+        {
+          "source_url": "https://www.howtogeek.com/780037/how-to-scan-a-snapcode-in-snapchat/"
+        }
+      ]
+    },
+    "45": {
+      "app": {
+        "id": "45",
+        "name": "Sona",
+        "url": "https://sona.wtf/",
+        "short_description": "Captura tus conversaciones y proporciona la información que más te importa.",
+        "category": "Productividad",
+        "main_functionality": "Graba reuniones y proporciona resúmenes automáticos, destacando puntos clave y tareas pendientes, optimizando la productividad y colaboración en equipos.",
+        "tags": "#AsistenteDeReuniones #Productividad #Automatización",
+        "logo_filename": "id_45_Sona",
+        "what_is": "Sona es una plataforma de inteligencia artificial diseñada para grabar y transcribir reuniones en tiempo real, proporcionando resúmenes automáticos y destacando puntos clave y tareas pendientes. Su objetivo es optimizar la gestión y seguimiento de conversaciones empresariales, mejorando la productividad y colaboración en equipos.",
+        "purpose": "Sona facilita la documentación precisa de reuniones, permitiendo a los participantes enfocarse en la conversación sin preocuparse por tomar notas detalladas. Al generar resúmenes automáticos y resaltar elementos de acción, ayuda a mantener a todos los miembros del equipo alineados y asegura que no se pasen por alto tareas importantes.",
+        "use_cases": "Reuniones de Equipo: Documenta discusiones y decisiones clave, asegurando que todos los miembros estén informados y alineados. \n\nLlamadas con Clientes: Registra detalles importantes de conversaciones con clientes, facilitando el seguimiento de acuerdos y compromisos. \n\nSesiones de Brainstorming: Captura ideas y propuestas en tiempo real, permitiendo revisarlas y desarrollarlas posteriormente. ",
+        "main_advantages": "Precisión en Transcripciones: Ofrece una precisión superior al 99% en transcripciones, asegurando registros fieles de las conversaciones. \n\nAccesibilidad Multidispositivo: Disponible en iPhone, Apple Watch y próximamente en computadoras, facilitando su uso en diversos entornos. \n\nOperación en Segundo Plano: Funciona discretamente, permitiendo a los usuarios concentrarse en la conversación sin distracciones tecnológicas. \n\nGeneración Automática de Resúmenes: Proporciona resúmenes concisos de las reuniones, destacando puntos clave y tareas pendientes para un seguimiento efectivo.",
+        "long_description": "Sona es una aplicación de inteligencia artificial diseñada para grabar y transcribir conversaciones en tiempo real con una precisión superior al 99%. Disponible para iPhone, Apple Watch y próximamente para computadoras, Sona facilita la captura de información de manera sencilla y discreta. Además de transcribir, la aplicación resume automáticamente las conversaciones, destacando puntos clave, tareas y próximos pasos, lo que optimiza la productividad y organización del usuario. Sona también permite la interacción con las transcripciones mediante una función de chat impulsada por IA, ofreciendo respuestas y aclaraciones adicionales sobre el contenido registrado. Su compatibilidad con más de 99 idiomas la convierte en una herramienta versátil para entornos multiculturales.",
+        "release_date": "Noviembre de 2024.",
+        "developer": "Sona",
+        "main_model": "No disponible.",
+        "pricing_plans": "Gratuito: $0 - 30 minutos de transcripción\n100 mensajes de chat\n5 plantillas de resumen                                            PRO: $15/mes -  Minutos de transcripción ilimitados\nMensajes ilimitados\nPlantillas de resumen ilimitadas\n+99 idiomas",
+        "license": "Propietaria de Sona",
+        "security_privacy": "La aplicación Sona, diseñada para grabar y transcribir conversaciones en tiempo real, no proporciona información pública detallada sobre sus medidas de seguridad y políticas de privacidad. Es fundamental que los usuarios verifiquen cómo la aplicación maneja y protege los datos personales antes de su uso. Se recomienda revisar cualquier documentación oficial disponible o contactar directamente al desarrollador para obtener detalles específicos sobre la protección de datos y las prácticas de seguridad implementadas.",
+        "integration": "No disponible."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://sona.wtf/?utm_source=superhuman&utm_medium=newsletter&utm_campaign=nvidia-s-next-challenger&_bhlid=88e7d0b92b2ee2d90e01a28799e20d990938c144"
+        },
+        {
+          "source_url": "https://sona.wtf/"
+        },
+        {
+          "source_url": "https://wwwhatsnew.com/2024/11/07/sona-la-herramienta-de-ia-que-transforma-tus-conversaciones-en-oro-productivo/"
+        },
+        {
+          "source_url": "https://sona.wtf/pricing"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/sona-3"
+        },
+        {
+          "source_url": "https://sona.wtf/support"
+        }
+      ]
+    },
+    "91": {
+      "app": {
+        "id": "91",
+        "name": "Slite",
+        "url": "https://slite.com/",
+        "short_description": "Convierta cualquier documento en el texto más fácil de leer utilizando IA.",
+        "category": "Productividad",
+        "main_functionality": "Proporciona un espacio unificado para que los equipos creen, compartan y gestionen documentos, notas y bases de conocimiento, mejorando la colaboración y la eficiencia organizacional.",
+        "tags": "#Productividad #GestiónDelTiempo #Optimización",
+        "logo_filename": "id_91_slite",
+        "what_is": "Slite es una plataforma de gestión del conocimiento y colaboración diseñada para equipos. Permite a los usuarios centralizar y organizar información, documentos y notas, creando un espacio donde todos los miembros puedan acceder al contenido necesario de manera eficiente.",
+        "purpose": "Sirve para mejorar la productividad de los equipos al proporcionar un espacio compartido para documentación, reuniones, proyectos y colaboración, facilitando el flujo de información y reduciendo la duplicación de esfuerzos.",
+        "use_cases": "Documentación de Proyectos: Creación de repositorios organizados para proyectos en curso.\nGestión de Conocimientos Internos: Centralización de manuales, procedimientos y políticas.\nColaboración en Tiempo Real: Creación y edición de documentos simultáneamente por múltiples usuarios.\nPreparación de Reuniones: Notas estructuradas y agendas colaborativas para reuniones.",
+        "main_advantages": "Centraliza la información clave del equipo, eliminando la necesidad de herramientas dispersas.\nFacilita la búsqueda y recuperación de información crítica.\nHerramientas colaborativas que permiten a los equipos trabajar en documentos en tiempo real.\nIntegración con otras plataformas populares para mejorar la experiencia de uso.",
+        "long_description": "Slite es una herramienta colaborativa que ayuda a los equipos a centralizar, organizar y gestionar su conocimiento y documentación interna. Ofrece funcionalidades como edición colaborativa en tiempo real, plantillas personalizables y herramientas de búsqueda avanzada, lo que permite a las organizaciones crear un espacio único para almacenar manuales, agendas de reuniones, políticas y más. Además, Slite facilita la comunicación y la alineación de los equipos al garantizar que toda la información relevante esté siempre disponible y actualizada.",
+        "release_date": "2017",
+        "developer": "Slite SAS.",
+        "main_model": "No especificado. Utiliza funciones de búsqueda y colaboración optimizadas, pero no se describen detalles técnicos sobre IA o algoritmos específicos.",
+        "pricing_plans": "Gratuito: Funcionalidades básicas para equipos pequeños.\nStandard (Pago): Funcionalidades avanzadas como permisos, historial de versiones y más.\nEnterprise: Opciones personalizadas para grandes empresas, incluyendo mayor control y soporte.",
+        "license": "Propietaria de Slite SAS.",
+        "security_privacy": "Proporciona encriptación de datos en tránsito y en reposo.\nPermite la configuración de permisos de acceso a documentos.\nCumple con normativas estándar como GDPR.",
+        "integration": "Compatible con Slack, Google Drive, GitHub y otras herramientas populares, mejorando la conectividad y flujo de trabajo en equipos."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://slite.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=a-new-ai-model-builds-video-games-and-claude-gets-pdf-powers"
+        },
+        {
+          "source_url": "https://www.getapp.com.mx/software/124947/slite"
+        },
+        {
+          "source_url": "https://www.capterra.co/software/171199/slite"
+        },
+        {
+          "source_url": "https://www.bing.com/ck/a?!&&p=8a997913fb8cf2f9b429239c1271f6f86b13276ad92014fbfc96ddd4484342e3JmltdHM9MTczMjE0NzIwMA&ptn=3&ver=2&hsh=4&fclid=39654167-4991-6d63-0249-52f748426cac&psq=slite&u=a1aHR0cHM6Ly9zbGl0ZS5jb20vcHJpY2luZw&ntb=1"
+        },
+        {
+          "source_url": "https://www.saas4marketing.com/software/slite/"
+        }
+      ]
+    },
+    "248": {
+      "app": {
+        "id": "248",
+        "name": "Sloap AI",
+        "url": "https://sloap.co/",
+        "short_description": "Desde listados de productos hasta publicaciones de blog, genere fácilmente los títulos, descripciones, resúmenes y etiquetas que necesita, personalizados según sus reglas.",
+        "category": "Generación de texto",
+        "main_functionality": "Genera automáticamente campos de texto personalizados como títulos, descripciones, resúmenes y etiquetas, basándose en las preferencias y reglas del usuario, para mantener la consistencia en el contenido.",
+        "tags": "#AsistenteDeEscritura #GeneradorDeContenido #AutomatizaciónDeTexto",
+        "logo_filename": "id_248_sloap",
+        "what_is": "Sloap es una plataforma de automatización de texto impulsada por inteligencia artificial, diseñada para optimizar los flujos de trabajo de creación de contenido. Se especializa en generar campos de texto personalizados como títulos, descripciones, resúmenes y etiquetas, manteniendo la consistencia en diferentes piezas de contenido. \n\n",
+        "purpose": "Su propósito principal es ayudar a vendedores en línea, blogueros y creadores de contenido a ahorrar tiempo en tareas de escritura repetitivas, asegurando que el contenido generado sea coherente y esté optimizado para motores de búsqueda. \n",
+        "use_cases": "Listados de Productos de Comercio Electrónico: Facilita la creación de descripciones y títulos de productos consistentes y optimizados para SEO en catálogos de productos. \n\nCreación de Contenido para Blogs: Asiste a los blogueros en la generación de títulos atractivos, resúmenes y descripciones meta para sus publicaciones. \n\nMarketing de Contenidos: Permite a los profesionales de marketing mantener un mensaje consistente en varias piezas de contenido mientras ahorran tiempo. \n",
+        "main_advantages": "Ahorro de Tiempo: Automatiza tareas de escritura repetitivas, permitiendo a los usuarios centrarse en otras actividades. \n\nConsistencia en el Contenido: Garantiza que los textos generados mantengan un tono y estilo uniformes. \n\nOptimización para SEO: Produce contenido diseñado para mejorar la visibilidad en motores de búsqueda. \n\nInterfaz Intuitiva: Ofrece una plataforma fácil de usar, con una interfaz limpia y libre de distracciones, diseñada para la máxima productividad. \n",
+        "long_description": "Sloap es una herramienta de automatización de texto impulsada por inteligencia artificial, diseñada para agilizar la creación de contenido al generar automáticamente títulos, descripciones, resúmenes y etiquetas. Su interfaz minimalista y libre de distracciones permite a los usuarios gestionar múltiples espacios de trabajo, cada uno con campos y preferencias personalizadas. Además, ofrece funcionalidades de búsqueda inteligente y capacidades de copia y pega instantánea, facilitando la organización y reutilización de contenido previamente generado. \n",
+        "release_date": "2024",
+        "developer": "SLOAP",
+        "main_model": "No disponible",
+        "pricing_plans": "Plan Básico\nGratis\nIdeal para personas que buscan probar la generación de texto consistente\nEmpezar ahora\nFunciones\n\n1 espacio de trabajo\n\nHasta 4 campos personalizados por espacio de trabajo\n\n25 generaciones de texto por mes\n\nAcceso a todos los proyectos anteriores\nPlan de crecimiento\n20$\n/mes\nIdeal para personas que buscan probar la generación de texto consistente\nEmpezar ahora\nFunciones\n\n5 espacios de trabajo\n\nHasta 6 campos personalizados por espacio de trabajo\n\n150 generaciones de texto por mes\n\nAcceso a todos los proyectos anteriores\n\nPuesta a punto personalizada\nPro Plan\n40$\n/mes\nIdeal para personas que buscan probar la generación de texto consistente\nEmpezar ahora\nFunciones\n\nEspacios de trabajo ilimitados\n\nHasta 8 campos personalizados por espacio de trabajo\n\nGeneraciones de texto ilimitadas por mes\n\nAcceso a todos los proyectos anteriores\n\nPuesta a punto personalizada",
+        "license": "Propietario",
+        "security_privacy": "La política de privacidad de Sloap detalla cómo se recopila, utiliza y protege la información personal de los usuarios. Al utilizar los servicios de Sloap, los usuarios aceptan los términos establecidos en esta política. Se recomienda a los usuarios revisar periódicamente la política de privacidad para estar informados sobre cualquier actualización o cambio en las prácticas de manejo de datos.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://sloap.co/?utm_source=superhuman&utm_medium=referral&utm_campaign=tesla-reveals-cybercab-prototype"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/sloap"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/sloap"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/product/Sloap-AI/"
+        },
+        {
+          "source_url": "https://medium.com/@sloap"
+        },
+        {
+          "source_url": "https://sloap.co/privacy_policy"
+        }
+      ]
+    },
+    "280": {
+      "app": {
+        "id": "280",
+        "name": "SocialBlaze",
+        "url": "https://socialblaze.ai/",
+        "short_description": "Una plataforma todo en uno para la gestión de redes sociales, que ofrece publicaciones fluidas, seguimiento de análisis y creación de publicaciones impulsadas por IA.",
+        "category": "Redes sociales",
+        "main_functionality": "Facilita la programación de publicaciones, el seguimiento de análisis y la creación de contenido atractivo para optimizar la presencia en línea.",
+        "tags": "#GestiónDeRedesSociales #Automatización #Analítica #AsistenteAI",
+        "logo_filename": "id_280_social_blaze",
+        "what_is": "SocialBlaze es una plataforma integral de gestión de redes sociales que permite a empresas y profesionales administrar múltiples cuentas desde un solo lugar, optimizando su presencia en línea.",
+        "purpose": "Su propósito principal es facilitar la programación de publicaciones, el seguimiento de métricas y la creación de contenido atractivo, mejorando la eficiencia en la gestión de redes sociales. \n",
+        "use_cases": "Pequeñas y medianas empresas (PYMES): Pueden aumentar su visibilidad en línea y atraer a más clientes mediante la programación eficiente de contenido y el análisis de su rendimiento. \n\n\nAgencias de marketing: Facilita la colaboración en equipo, la gestión de múltiples cuentas de clientes y la generación de informes detallados para evaluar el éxito de las campañas. \n\nMarcas con múltiples ubicaciones: Permite una gestión centralizada de las redes sociales de diversas sucursales, asegurando una comunicación coherente y efectiva. \n",
+        "main_advantages": "Automatización del contenido: La programación y publicación automática de posts ahorra tiempo y recursos, permitiendo a las empresas centrarse en otras áreas clave. \n\nAnálisis detallado: Ofrece métricas precisas sobre el rendimiento de las publicaciones, ayudando a ajustar estrategias para maximizar el impacto. \n\nAsistente de IA: Incorpora herramientas impulsadas por inteligencia artificial para la creación de contenido, optimizando la calidad y relevancia de las publicaciones. \n\nColaboración en equipo: Facilita la gestión de equipos, permitiendo una coordinación efectiva en la creación y aprobación de contenido. ",
+        "long_description": "SocialBlaze ofrece una solución completa para la gestión de redes sociales, permitiendo a los usuarios programar publicaciones, monitorear el rendimiento a través de análisis detallados y crear contenido atractivo. La plataforma está diseñada para mejorar la eficiencia en la administración de múltiples cuentas, facilitando la colaboración en equipo y proporcionando herramientas impulsadas por inteligencia artificial para la creación de contenido.",
+        "release_date": "2024",
+        "developer": "Social Blaze LLC",
+        "main_model": "No disponible",
+        "pricing_plans": "Empresa\n$80\n/por mes\n\nFacturado anualmente (Ahorre un 15%)\n50 cuentas de redes sociales\nUsuarios ilimitados\nClientes ilimitados\nAprobación del cliente\nBiblioteca de contenido\nMarca blanca\nObtenga una prueba gratuita de 14 días\nNo se requiere tarjeta de crédito\nProfesional\n$60\n/por mes\n\nFacturado anualmente (Ahorre un 15%)\n30 cuentas de redes sociales\n10 Usuarios\nClientes ilimitados\nAprobación del cliente\nBiblioteca de contenido\nAsistente de IA\nObtenga una prueba gratuita de 14 días\nNo se requiere tarjeta de crédito\nLo más popular\nBásico\n$40\n/por mes\n\nFacturado anualmente (Ahorre un 15%)\n20 cuentas de redes sociales\n5 Usuarios\nAsistente de IA\nCalendario de contenidos\nBiblioteca de contenido\nMarca blanca\nObtenga una prueba gratuita de 14 días\nNo se requiere tarjeta de crédito\nIniciador\n$20\n/por mes\n\nFacturado anualmente (Ahorre un 15%)\n10 Cuentas de Redes Sociales\n1 Usuarios\nAsistente de IA\nCalendario de contenidos\nBiblioteca de contenido\nMarca blanca\nObtenga una prueba gratuita de 14 días\nNo se requiere tarjeta de crédito",
+        "license": "No especificado",
+        "security_privacy": "La Política de Privacidad de Social Blaze LLC explica cómo se recopilan, usan y protegen los datos de los usuarios.\n\nDatos Recopilados: Incluyen datos personales (nombre, correo, etc.), información derivada (IP, tipo de navegador) y datos financieros para transacciones.\n\nUsos Principales: Gestión de cuentas, personalización, marketing, procesamiento de pagos y análisis del uso del sitio.\n\nCompartición de Datos: Con terceros para servicios como pagos o marketing (con consentimiento) y por razones legales.\n\nSeguridad: Implementan medidas para proteger datos, aunque no garantizan seguridad absoluta.\n\nMenores: No recopilan datos de menores de 13 años intencionalmente.\n\nContacto: admin@socialblaze.ai\n\nPara detalles completos, visita socialblaze.ai/privacy-policy.",
+        "integration": "Integraciones destacadas de SocialBlaze:\n\nSlack: Comunicación en equipo.\nUnsplash y Giphy: Imágenes y GIFs atractivos.\nGoogle Drive y Dropbox: Gestión de archivos.\nZapier: Automatización con más de 3,000 apps.\nCanva: Diseño gráfico integrado.\nBitly y Rebrandly: Acortadores de enlaces.\nFeedly: Curación automatizada de contenido.\nSniply.io: Llamados a la acción personalizados."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://socialblaze.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=gemini-goes-multimodal"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/socialblaze-ai/launches"
+        },
+        {
+          "source_url": "https://socialblaze.ai/pricing-plans/"
+        },
+        {
+          "source_url": "https://socialblaze.ai/privacy-policy/"
+        },
+        {
+          "source_url": "https://socialblaze.ai/social-media-integrations/"
+        }
+      ]
+    },
+    "307": {
+      "app": {
+        "id": "307",
+        "name": "SmythOS",
+        "url": "https://smythos.com/",
+        "short_description": "Describa sus necesidades y utilice la IA para crear un agente automáticamente, utilizando los mejores modelos y API de IA.",
+        "category": "Automatización",
+        "main_functionality": "Facilita la creación de agentes de IA mediante una interfaz visual de arrastrar y soltar, permitiendo la integración con diversos modelos de IA y APIs, y su despliegue en múltiples plataformas sin necesidad de codificación manual.",
+        "tags": "#IA #NoCode #AgentesInteligentes #Automatización #IntegraciónAPIs",
+        "logo_filename": "id_307_smythos",
+        "what_is": "SmythOS es una plataforma sin código que permite a los usuarios crear, depurar y desplegar agentes de inteligencia artificial de manera rápida y eficiente. Utilizando una interfaz visual de arrastrar y soltar, los usuarios pueden integrar diversos modelos de IA y APIs en flujos de trabajo personalizados, facilitando la automatización de tareas complejas sin necesidad de programación manual.",
+        "purpose": "SmythOS está diseñado para simplificar el desarrollo y la implementación de agentes de IA en diversas aplicaciones. Permite a empresas y desarrolladores automatizar procesos, mejorar la eficiencia operativa y crear soluciones personalizadas que integran múltiples fuentes de datos y servicios, todo sin requerir conocimientos avanzados de programación.",
+        "use_cases": "Atención al Cliente Automatizada: Desarrollar agentes que gestionen consultas frecuentes de clientes, proporcionando respuestas rápidas y precisas, mejorando la satisfacción del cliente y liberando recursos humanos para tareas más complejas.\nGestión de Redes Sociales: Crear agentes que automaticen la publicación de contenido, monitoreen interacciones y analicen métricas en diversas plataformas sociales, optimizando las estrategias de marketing digital.\nAnálisis de Datos: Implementar agentes que recopilen y analicen datos de múltiples fuentes, generando informes y proporcionando insights valiosos para la toma de decisiones empresariales.\nIntegración de APIs: Construir flujos de trabajo que conecten diferentes servicios y aplicaciones a través de APIs, facilitando la interoperabilidad y la automatización de procesos interdepartamentales.",
+        "main_advantages": "Desarrollo Rápido: La interfaz intuitiva permite construir y desplegar agentes de IA en minutos, acelerando el tiempo de comercialización.\nFlexibilidad de Integración: Compatible con una amplia gama de modelos de IA y servicios API, ofreciendo soluciones personalizadas adaptadas a necesidades específicas.\nSin Necesidad de Programación: El enfoque sin código democratiza el desarrollo de IA, permitiendo que usuarios sin experiencia en programación creen agentes funcionales.\nDespliegue Versátil: Posibilidad de desplegar agentes localmente o en la nube, incluyendo plataformas como AWS, según las preferencias del usuario.\nBiblioteca de Plantillas: Acceso a una colección de agentes preconstruidos para diversos casos de uso, facilitando la personalización y adaptación rápida a diferentes escenarios empresariales.",
+        "long_description": "SmythOS es una plataforma sin código que permite a los usuarios crear, depurar y desplegar agentes de inteligencia artificial de manera rápida y eficiente. Utilizando una interfaz visual de arrastrar y soltar, los usuarios pueden integrar diversos modelos de IA y APIs en flujos de trabajo personalizados, facilitando la automatización de tareas complejas sin necesidad de programación manual. La plataforma ofrece plantillas preconstruidas para casos de uso comunes, como gestión de redes sociales, soporte al cliente y análisis de datos, lo que acelera el proceso de desarrollo.",
+        "release_date": "Diciembre 2024",
+        "developer": "INK Content, Inc.",
+        "main_model": "SmythOS permite la integración con diversos modelos de IA, incluyendo OpenAI, Hugging Face y Amazon Bedrock, entre otros, adaptándose a las necesidades específicas de cada usuario.",
+        "pricing_plans": "Gratis: Incluye 1,000 tareas y hasta 10 agentes de IA.\nStarter: Desde $19.99 hasta $109 al mes, ofrece entre 750 y 5,000 tareas, agentes de IA ilimitados, dominios personalizados y despliegues en producción.\nProfessional: Desde $169 hasta $3,999 al mes, proporciona entre 10,000 y más de 2 millones de tareas, todo lo incluido en el plan Starter, además de 25 asientos, espacio de trabajo compartido en equipo, gestión de roles, bóveda de claves compartida, trabajo en masa y programador de tareas de agentes.",
+        "license": "Propietaria",
+        "security_privacy": "SmythOS se compromete a proteger la información de sus usuarios, implementando medidas de seguridad para salvaguardar los datos contra accesos no autorizados. Se recomienda a los usuarios revisar la política de privacidad de la plataforma para estar informados sobre el manejo de sus datos.",
+        "integration": "SmythOS ofrece integraciones universales, permitiendo a los usuarios conectar sus agentes de IA con una amplia variedad de modelos de IA y APIs, incluyendo OpenAI, Hugging Face y Amazon Bedrock, sin necesidad de codificación manual. Además, los agentes pueden desplegarse en múltiples plataformas, como ChatGPT, Slack y Discord, facilitando su incorporación en diversos entornos de trabajo."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://smythos.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=notebooklm-s-new-features"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/smythos"
+        },
+        {
+          "source_url": "https://smythos.com/ai-tools/"
+        },
+        {
+          "source_url": "https://aitoolsexplorer.com/ai-tools/smythos-ai-agent-builder/"
+        },
+        {
+          "source_url": "https://www.g2.com/products/smythos/reviews"
+        },
+        {
+          "source_url": "https://huntscreens.com/es/products/smythos"
+        }
+      ]
+    },
+    "370": {
+      "app": {
+        "id": "370",
+        "name": "Sonetz",
+        "url": "https://www.sonetz.com/",
+        "short_description": "Un socio comercial impulsado por IA que simplifica las ventas, para que pueda concentrarse en hacer crecer su negocio.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Automatiza tareas de ventas como la identificación de clientes potenciales, la redacción de correos electrónicos personalizados y el seguimiento de oportunidades, integrándose con sistemas CRM existentes para optimizar el proceso de ventas.",
+        "tags": "#IA #AutomatizaciónDeVentas #CRM #GeneraciónDeLeads",
+        "logo_filename": "id_370_sonetz",
+        "what_is": "Sonetz es un asistente de ventas basado en inteligencia artificial que automatiza tareas relacionadas con la gestión de clientes potenciales, el seguimiento de oportunidades y la comunicación personalizada, integrándose con sistemas de gestión de relaciones con clientes (CRM).",
+        "purpose": "Sonetz ayuda a las empresas a optimizar sus procesos de ventas, automatizando tareas repetitivas y mejorando la eficiencia en la generación de leads, el envío de correos electrónicos personalizados y la gestión de relaciones con los clientes.",
+        "use_cases": "Generación de clientes potenciales: Identifica automáticamente prospectos con mayores posibilidades de conversión.\nRedacción de correos electrónicos personalizados: Automatiza el envío de comunicaciones adaptadas a cada cliente.\nSeguimiento automatizado: Facilita el seguimiento de oportunidades de negocio para aumentar la tasa de conversión.\nIntegración con sistemas CRM: Mejora la gestión de datos y las relaciones con los clientes.",
+        "main_advantages": "Ahorro de tiempo: Reduce significativamente las tareas manuales en procesos de ventas.\nMejor personalización: Ofrece comunicaciones más efectivas gracias a la IA.\nMayor eficiencia: Optimiza el flujo de trabajo del equipo de ventas.\nIntegración sencilla: Compatible con los principales sistemas CRM del mercado.",
+        "long_description": "Sonetz es una plataforma impulsada por inteligencia artificial que actúa como un asistente de ventas para empresas. Su principal herramienta, Aira, automatiza tareas clave del proceso de ventas, incluyendo la generación de clientes potenciales, el seguimiento de correos electrónicos y la gestión de relaciones con clientes. Aira se integra con sistemas CRM existentes, permitiendo a los equipos de ventas optimizar su flujo de trabajo sin necesidad de cambiar de herramientas. A través de una interfaz de chat intuitiva, Aira identifica los mejores leads, redacta correos electrónicos personalizados y automatiza seguimientos, facilitando la conversión de prospectos en clientes.",
+        "release_date": "Diciembre 2024",
+        "developer": "Sonetz Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "La información sobre los planes de suscripción de Sonetz no está detallada en las fuentes disponibles. Se recomienda visitar el sitio web oficial para obtener detalles actualizados.",
+        "license": "Propietaria",
+        "security_privacy": "Aspectos de Privacidad de Sonetz:\n\nDatos Recopilados: Información personal (nombre, email, pago) y datos técnicos (IP, cookies).\nUso: Para ofrecer servicios, personalizar experiencia, prevenir fraudes y cumplir con la ley.\nCompartición: Con proveedores, autoridades legales y en transferencias comerciales.\nSeguridad: Cumple con GDPR; implementa medidas para proteger datos procesados internacionalmente.\nDerechos: Acceso, corrección y eliminación de datos.",
+        "integration": "Sonetz, a través de su asistente Aira, se integra con diversos sistemas CRM, permitiendo una sincronización fluida de datos y la automatización de tareas de ventas sin necesidad de migrar o duplicar información. Esta integración facilita la adopción de la herramienta en los flujos de trabajo existentes de las empresas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.sonetz.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=o3-is-here"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/sonetz/launches"
+        },
+        {
+          "source_url": "https://j4opv4xvh6.execute-api.us-east-1.amazonaws.com/dev/policy"
+        },
+        {
+          "source_url": "https://www.sonetz.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=o3-is-here#faq"
+        },
+        {
+          "source_url": "https://www.sonetz.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=o3-is-here#integrations"
+        },
+        {
+          "source_url": "https://www.sonetz.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=o3-is-here#solution"
+        }
+      ]
+    },
+    "463": {
+      "app": {
+        "id": "463",
+        "name": "Small Hours",
+        "url": "https://www.smallhours.dev/",
+        "short_description": "Una plataforma de observabilidad impulsada por IA con análisis automatizado de causa raíz y clasificación de problemas, lo que permite un diagnóstico y una resolución más rápidos de los problemas.",
+        "category": "Productividad",
+        "main_functionality": "Automatiza el análisis de causas raíz de excepciones en servidores, analiza el impacto y asigna incidencias al equipo adecuado, integrándose con herramientas como OpenTelemetry, Datadog y Sentry.",
+        "tags": "#Observabilidad #AnálisisDeCausasRaíz #Automatización #IntegraciónConHerramientas #IA",
+        "logo_filename": "id_463_small_hours",
+        "what_is": "Small Hours es una plataforma de observabilidad impulsada por inteligencia artificial (IA) diseñada para ayudar a los equipos de desarrollo a gestionar y resolver incidencias en el software de manera más eficiente. Automatiza el análisis de causas raíz y la asignación de incidencias, permitiendo una resolución más rápida de problemas y mejorando la fiabilidad y el rendimiento de las aplicaciones.",
+        "purpose": "La plataforma está diseñada para minimizar el tiempo de inactividad y maximizar la eficiencia operativa al automatizar la identificación de las causas subyacentes de las excepciones en los servidores, analizar su impacto y asignar las incidencias al equipo o persona adecuada. Además, se integra con herramientas existentes como OpenTelemetry, Datadog y Sentry, facilitando su adopción en diversos entornos tecnológicos. \n",
+        "use_cases": "Equipos de DevOps: Reducción del tiempo de inactividad mediante la identificación y solución rápida de las causas raíz de los problemas. \nIngenieros en Turno: Mantenimiento del enfoque en tareas críticas gracias a la automatización en la clasificación y priorización de incidencias. \nGerentes de Desarrollo: Mejora de la eficiencia del equipo al optimizar las rotaciones de guardia y la gestión de incidencias.",
+        "main_advantages": "Automatización del Análisis de Causas Raíz: Utiliza algoritmos avanzados de IA para identificar automáticamente las causas de los problemas en el software, reduciendo el tiempo y esfuerzo necesarios para la investigación manual. \n\nIntegración Sencilla: Compatible con OpenTelemetry, lo que permite una integración fluida con cualquier stack tecnológico. \n\nPrivacidad y Seguridad: Los datos y el código de los usuarios son seguros y no se almacenan, garantizando la confidencialidad de la información. \n\nOptimización de Operaciones: Facilita la gestión de las rotaciones de guardia y mantiene a los ingenieros enfocados en tareas importantes, mejorando la productividad general del equipo. \n",
+        "long_description": "Small Hours es una plataforma de observabilidad impulsada por inteligencia artificial (IA) que optimiza las rotaciones de guardia y permite a los ingenieros centrarse en tareas esenciales. Ofrece análisis automatizado de causas raíz (RCA) las 24 horas, identificando excepciones en servidores, evaluando su impacto y asignando incidencias al equipo adecuado. La plataforma se integra sin problemas con diversas herramientas mediante el soporte de OpenTelemetry, permitiendo conexiones con bases de código y manuales operativos para una depuración inteligente de problemas.",
+        "release_date": "Septiembre 2024",
+        "developer": "Small Hours, Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "Individual (Gratuito): Monitoreo 24/7, 1 configuración de servicio, análisis básico de IA, hasta 1,000 solicitudes por mes, análisis de causa raíz, latencia y seguridad, y retención de datos de telemetría por 2 semanas. \n\nStartup ($299/mes): Incluye todas las características del plan Individual, además de 3 configuraciones de servicio, análisis avanzado de IA, hasta 100,000 solicitudes por mes y retención de datos de telemetría por 6 meses. \n\nEnterprise (Precio personalizado): Incluye todas las características del plan Startup, con servicios ilimitados, optimizaciones personalizadas de agentes y soporte dedicado.",
+        "license": "Propietaria",
+        "security_privacy": "Small Hours prioriza la seguridad y privacidad de los usuarios, asegurando que el código y los datos no se almacenen en sus sistemas, lo que garantiza la confidencialidad de la información procesada. \n",
+        "integration": "La plataforma es compatible con OpenTelemetry, facilitando la integración con diversas herramientas y stacks tecnológicos, incluyendo Datadog, Sentry, New Relic, Grafana y Honeycomb. \n"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.smallhours.dev/?utm_source=superhuman&utm_medium=referral&utm_campaign=gemini-gets-an-efficiency-boost"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/small-hours/launches"
+        },
+        {
+          "source_url": "https://huntscreens.com/en/products/small-hours"
+        },
+        {
+          "source_url": "https://www.aitoolpath.com/en/product_details/10772"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/product/Small-Hours/"
+        },
+        {
+          "source_url": "https://www.saasworthy.com/product/smallhours/pricing"
+        },
+        {
+          "source_url": "https://theresanaiforthat.com/ai/small-hours/"
+        },
+        {
+          "source_url": "https://www.smallhours.dev/pricing?utm_source=chatgpt.com"
+        }
+      ]
+    },
+    "465": {
+      "app": {
+        "id": "465",
+        "name": "SocialSignal",
+        "url": "https://socialsignalai.com/",
+        "short_description": "Escanea las redes sociales para encontrar conversaciones relevantes, atraer a los compradores y promocionar tu producto.",
+        "category": "Marketing de contenidos",
+        "main_functionality": "Monitoreo de conversaciones, seguimiento de palabras clave, generación de respuestas automáticas y análisis de sentimientos para optimizar la presencia y participación en redes sociales",
+        "tags": "#GestiónRedesSociales #IA #AnálisisSentimientos #Automatización #GeneraciónLeads",
+        "logo_filename": "id_465_social_signal",
+        "what_is": "SocialSignal AI es una plataforma integral de gestión de redes sociales impulsada por inteligencia artificial. Ayuda a las empresas a interactuar con su audiencia, rastrear menciones, encontrar clientes potenciales y analizar señales sociales en múltiples plataformas",
+        "purpose": "La plataforma permite a las empresas monitorear conversaciones en tiempo real, responder de manera inteligente a interacciones, analizar el sentimiento de la audiencia y optimizar estrategias de contenido en redes sociales. Facilita la gestión de la reputación de marca, la generación de leads y la identificación de tendencias del mercado. \n",
+        "use_cases": "Gestión de la Reputación de Marca: Monitorear y responder a comentarios y menciones en redes sociales para mantener una imagen positiva.\nGeneración de Clientes Potenciales: Identificar e interactuar con usuarios que muestran interés en productos o servicios.\nAnálisis Competitivo: Rastrear actividades de competidores y el compromiso de su audiencia para informar estrategias de marketing.\nGestión de Crisis: Detectar y abordar rápidamente sentimientos negativos o posibles problemas de relaciones públicas.\nOptimización de Estrategia de Contenidos: Analizar métricas de compromiso para refinar y mejorar la estrategia de contenido en redes sociales. ",
+        "main_advantages": "Automatización de Tareas: Ahorra tiempo al automatizar el monitoreo y la interacción en redes sociales.\nAnálisis Avanzado de Sentimientos: Proporciona información valiosa sobre la percepción de la audiencia.\nIntegración Multi-Plataforma: Permite gestionar múltiples redes sociales desde un solo panel.\nEscalabilidad: Ofrece planes adaptados a empresas de diferentes tamaños y necesidades.\nNotificaciones en Tiempo Real: Permite respuestas oportunas a interacciones importantes.",
+        "long_description": "SocialSignal AI es una plataforma integral de gestión de redes sociales impulsada por inteligencia artificial. Permite a las empresas interactuar con su audiencia, rastrear menciones, encontrar clientes potenciales y analizar señales sociales en múltiples plataformas. Ofrece funcionalidades como escucha social automatizada, seguimiento de palabras clave en tiempo real, respuestas generadas por IA, análisis de sentimientos y estrategias de compromiso personalizables para optimizar la presencia en redes sociales y fomentar el crecimiento empresarial.",
+        "release_date": "Septiembre 2024",
+        "developer": "SocialSignalAI.",
+        "main_model": "No disponible",
+        "pricing_plans": "SocialSignal AI ofrece una prueba gratuita para que los usuarios evalúen la plataforma. Para obtener información detallada sobre los planes de suscripción y precios, se recomienda visitar su sitio web oficial.",
+        "license": "Propietaria",
+        "security_privacy": "No disponible",
+        "integration": "SocialSignal AI se integra con múltiples plataformas de redes sociales, permitiendo gestionar diversas cuentas desde un panel centralizado. Además, ofrece notificaciones en tiempo real y respuestas automáticas impulsadas por IA para interactuar eficazmente con la audiencia. \n"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://socialsignalai.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=gemini-gets-an-efficiency-boost"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/socialsignal-ai/launches"
+        },
+        {
+          "source_url": "https://huntscreens.com/en/products/socialsignal-ai"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/socialsignal-ai?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://pluginai.dev/tool/socialsignalai-com"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/socialsignal-ai"
+        },
+        {
+          "source_url": "https://okeiai.com/es/products/socialsignalai"
+        },
+        {
+          "source_url": "https://www.aitoolnet.com/es/compare/socialhubai-vs-socialsignal-ai"
+        },
+        {
+          "source_url": "https://theresanaiforthat.com/ai/socialsignal-ai/"
+        }
+      ]
+    },
+    "529": {
+      "app": {
+        "id": "529",
+        "name": "SiteSpeakAI",
+        "url": "https://sitespeak.ai/",
+        "short_description": "Plataforma que permite crear chatbots personalizados impulsados por inteligencia artificial para automatizar el soporte al cliente en sitios web y aplicaciones, proporcionando respuestas en tiempo real y reduciendo la carga de trabajo del equipo de soporte.",
+        "category": "Automatización\n",
+        "main_functionality": "Permite a las empresas entrenar chatbots personalizados utilizando su propio contenido, como documentos de soporte, archivos PDF, videos de YouTube y bases de datos, para proporcionar asistencia al cliente las 24 horas del día, los 7 días de la semana, mejorando la experiencia del usuario y reduciendo los tickets de soporte. \n",
+        "tags": "#ChatbotAI #AutomatizaciónDeSoporte #AtenciónAlCliente #IntegraciónWeb #AsistenteVirtual",
+        "logo_filename": "id_529_site_speakai",
+        "what_is": "SiteSpeakAI es una plataforma sin código que permite a las empresas crear chatbots personalizados impulsados por inteligencia artificial.",
+        "purpose": "La plataforma está diseñada para automatizar el soporte al cliente, ofreciendo respuestas en tiempo real a las consultas de los usuarios. Al integrarse fácilmente en sitios web y otras plataformas, SiteSpeakAI mejora la experiencia del usuario, reduce la carga de trabajo de los equipos de soporte y aumenta la eficiencia operativa.",
+        "use_cases": "Soporte al Cliente en Comercio Electrónico: Automatiza respuestas a preguntas frecuentes sobre productos, estados de pedidos y procesos de devolución, disminuyendo la carga en los equipos de soporte humano. \n\n\nAsistencia para Productos SaaS: Proporciona ayuda instantánea sobre características del producto, solución de problemas y gestión de cuentas para usuarios de software. \n\n\nAtención en Instituciones Educativas: Responde preguntas de estudiantes y padres sobre admisiones, cursos, horarios y vida en el campus, mejorando la accesibilidad a la información. \n\nInformación sobre Políticas de Recursos Humanos: Crea un chatbot interno para responder preguntas de los empleados sobre políticas de la empresa, beneficios y procedimientos. \n",
+        "main_advantages": "Reducción de Costos y Tiempo: Automatiza respuestas a consultas comunes, disminuyendo la necesidad de intervención humana y permitiendo a los equipos de soporte enfocarse en tareas más complejas. \n\nDisponibilidad 24/7: Ofrece asistencia al cliente en cualquier momento, mejorando la satisfacción del usuario y asegurando respuestas inmediatas. \n\nPersonalización y Escalabilidad: Permite adaptar el chatbot a la identidad de la marca y escalar las operaciones de soporte de manera eficiente sin necesidad de recursos adicionales. \n\nIntegración Sencilla: Se integra fácilmente con diversas plataformas y herramientas, facilitando su implementación y uso en múltiples canales. ",
+        "long_description": "SiteSpeakAI es una plataforma sin código que permite a las empresas crear chatbots personalizados impulsados por inteligencia artificial. Estos chatbots se entrenan utilizando el contenido propio de la empresa, como documentos de soporte, archivos PDF, videos de YouTube, páginas de Notion, APIs o bases de datos, para proporcionar asistencia al cliente las 24 horas del día en los sitios web.",
+        "release_date": "Junio 2023",
+        "developer": "SiteSpeakAI",
+        "main_model": "Utiliza modelos avanzados de lenguaje natural, como GPT-3.5 y los últimos modelos de OpenAI y Anthropic, para comprender y generar respuestas precisas a las consultas de los usuarios.",
+        "pricing_plans": "Free:\n\n1 chatbot de IA\n10 enlaces de origen\n30 créditos de mensajes/mes\nModelo GPT-3.5\nChat en vivo e integración con Slack\nStartup:\n\n1 chatbot de IA\n30 enlaces de origen\n2,000 créditos de mensajes/mes\nIntegraciones con Notion y Bookstack\nSincronización mensual de fuentes\nPro:\n\n2 chatbots de IA + 1 asistente GPT personalizado\n200 enlaces de origen\n5,000 créditos de mensajes/mes\nIntegración con Zapier, API y bases de datos\nSincronización semanal de fuentes y soporte prioritario\nBusiness:\n\nChatbots de IA ilimitados + 10 asistentes GPT personalizados\n2,000 enlaces de origen\n50,000 créditos de mensajes/mes\nSincronización diaria de fuentes\nSoporte para dominios personalizados y soporte premium",
+        "license": "Propietaria",
+        "security_privacy": "SiteSpeakAI se compromete a proteger la información de sus usuarios. Los datos compartidos con terceros son anonimizados y utilizados únicamente para las funciones solicitadas por el usuario. La plataforma asegura que sus socios no almacenan ni retienen datos de usuarios, y no los utilizan para entrenar algoritmos o tecnologías de modelos de lenguaje.",
+        "integration": "SiteSpeakAI se integra con diversas plataformas y herramientas para mejorar la funcionalidad de los chatbots, incluyendo:\n\nSlack: Permite la comunicación directa entre el chatbot y los canales de Slack de la empresa.\n\nZapier: Facilita la automatización de flujos de trabajo al conectar el chatbot con múltiples aplicaciones y servicios.\n\nNotion y Bookstack: Permite entrenar al chatbot utilizando contenido de estas plataformas de gestión de conocimientos.\n\nAPI y Bases de Datos: Ofrece la capacidad de integrar el chatbot con APIs y bases de datos personalizadas para proporcionar respuestas más precisas y contextuales.\n\nReconocimiento de Voz y Conversión de Texto a Voz: Mejora la interacción con los usuarios al permitir entradas y salidas de voz."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/sitespeakai"
+        },
+        {
+          "source_url": "https://sitespeak.ai/?via=ffmedia"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/sitespeakai"
+        },
+        {
+          "source_url": "https://supertools.therundown.ai/content/sitespeakai"
+        },
+        {
+          "source_url": "https://kodora.ai/ai-tool/sitespeakai/"
+        },
+        {
+          "source_url": "https://creati.ai/ai-tools/sitespeakai/"
+        },
+        {
+          "source_url": "https://sitespeak.ai/features?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://ai-review.com/developer-tools/sitespeakai/"
+        },
+        {
+          "source_url": "https://dotheai.com/tools/customer-service/sitespeakai/"
+        },
+        {
+          "source_url": "https://genai.works/applications/sitespeakai"
+        }
+      ]
+    },
+    "620": {
+      "app": {
+        "id": "620",
+        "name": "Snoops",
+        "url": "https://www.snoops.co/",
+        "short_description": "Encuentre clientes potenciales u oportunidades monitoreando las discusiones en Reddit con IA.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Monitoreo de palabras clave en Reddit, análisis de discusiones mediante IA y filtrado preciso para identificar oportunidades de negocio y clientes potenciales.",
+        "tags": "#AnálisisRedesSociales #InteligenciaArtificial #GeneraciónDeLeads",
+        "logo_filename": "id_620_snoops",
+        "what_is": "Snoops es una herramienta impulsada por inteligencia artificial diseñada para monitorear y analizar en tiempo real las discusiones en Reddit, con el objetivo de identificar oportunidades de negocio relevantes para los usuarios.",
+        "purpose": "Su propósito principal es ayudar a empresas y profesionales a descubrir clientes potenciales y oportunidades de negocio al rastrear palabras clave específicas en diversas comunidades de Reddit. Mediante el análisis de conversaciones, Snoops permite identificar necesidades y problemas expresados por los usuarios, facilitando la oferta de soluciones adecuadas.",
+        "use_cases": "Generación de Leads: Empresas de desarrollo web pueden monitorear términos como \"necesito un desarrollador\" para identificar posibles clientes que buscan servicios específicos.\n\nInvestigación de Mercado: Startups pueden rastrear comentarios relacionados con sus productos o servicios para obtener retroalimentación directa de los usuarios y ajustar sus ofertas en consecuencia.\n\nValidación de Ideas de Negocio: Emprendedores pueden analizar discusiones para evaluar el interés y la demanda de nuevas ideas o productos antes de lanzarlos al mercado.",
+        "main_advantages": "Monitoreo en Tiempo Real: Permite a los usuarios estar al tanto de las conversaciones más recientes y relevantes en Reddit.\n\nAnálisis Impulsado por IA: Utiliza inteligencia artificial para filtrar y destacar discusiones con alto potencial de negocio, optimizando el tiempo y esfuerzo invertido en la búsqueda de oportunidades.\n\nFiltros Personalizables: Ofrece opciones para incluir o excluir subreddits específicos, establecer niveles mínimos de participación y ajustar otros parámetros según las necesidades del usuario.\n\nAccesibilidad: Disponible en una versión gratuita con funcionalidades básicas, así como planes de suscripción que amplían las capacidades según los requerimientos del usuario.",
+        "long_description": "Snoops es una herramienta avanzada que emplea inteligencia artificial para monitorear y analizar en tiempo real las conversaciones en Reddit, con el objetivo de identificar oportunidades de negocio relevantes. Los usuarios pueden configurar palabras clave específicas para rastrear discusiones en diversas comunidades, permitiendo descubrir necesidades, problemas o intereses expresados por los usuarios de Reddit. La plataforma ofrece filtros personalizables que permiten incluir o excluir subreddits específicos, establecer niveles mínimos de participación y ajustar otros parámetros según las necesidades del usuario.",
+        "release_date": "No disponible",
+        "developer": "Snoops.co",
+        "main_model": "No disponible",
+        "pricing_plans": "Snoops ofrece tres planes de suscripción:\n\nFree (Gratis): Sin costo.\nPermite descubrir comunidades, realizar búsquedas de palabras clave y usar filtros básicos.\nLimita a 3 oportunidades por palabra clave.\n\nStarter ($19/mes):\nIncluye todas las funciones del plan gratuito.\nBúsquedas ilimitadas de palabras clave.\nFiltros avanzados.\nHasta 15 oportunidades por palabra clave.\nAcceso a subreddits populares y análisis de audiencia impulsado por IA.\n\nPro ($29/mes):\nIncluye todas las funciones del plan Starter.\nHasta 30 oportunidades por palabra clave.\nSoporte prioritario.",
+        "license": "Propietaria",
+        "security_privacy": "La Política de Privacidad de Snoops.co explica cómo se recopilan, usan y protegen los datos de los usuarios. Recopilan información como correos electrónicos, historial de búsqueda, configuraciones de alertas y datos públicos de Reddit para personalizar servicios, procesar pagos y mejorar la experiencia del usuario. Utilizan medidas de seguridad como cifrado y acceso limitado a datos. También trabajan con terceros para autenticación, procesamiento de IA y pagos. Los datos se retienen hasta que el usuario elimine su cuenta o según lo exija la ley.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.snoops.co/?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-s-agent-is-here"
+        }
+      ]
+    },
+    "631": {
+      "app": {
+        "id": "631",
+        "name": "Softr AI",
+        "url": "https://www.softr.io/",
+        "short_description": "Softr AI es una herramienta que permite crear aplicaciones web funcionales a partir de una simple indicación de texto, sin necesidad de conocimientos de programación. Es ideal para desarrollar portales de clientes, herramientas internas, directorios o plataformas de membresía de manera rápida y eficiente.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Generación de aplicaciones web basadas en descripciones de usuario mediante inteligencia artificial.",
+        "tags": "#NoCode #GeneradorDeAplicaciones #InteligenciaArtificial",
+        "logo_filename": "id_631_softr",
+        "what_is": "Es una herramienta de inteligencia artificial que permite a los usuarios generar aplicaciones web completas y funcionales a partir de simples descripciones de texto, sin necesidad de experiencia en programación o diseño. Softr AI combina el enfoque No-Code con IA para facilitar la creación de plataformas personalizadas de manera rápida.",
+        "purpose": "Su propósito principal es simplificar y acelerar el desarrollo de aplicaciones web para individuos y empresas. Los usuarios pueden generar portales de clientes, herramientas internas, directorios, sistemas de membresía, entre otros, con solo describir sus necesidades en lenguaje natural.",
+        "use_cases": "Empresas pequeñas y medianas: Crear herramientas personalizadas para la gestión de clientes o empleados.\nFreelancers y emprendedores: Desarrollo rápido de directorios o plataformas para ventas o membresías.\nEquipos internos: Generar herramientas específicas para flujos de trabajo, sin depender de departamentos de TI.\nEducación: Creación de portales para cursos, seguimiento de estudiantes o bases de conocimiento.",
+        "main_advantages": "Facilidad de uso: La herramienta permite crear aplicaciones con instrucciones en lenguaje natural, eliminando la curva de aprendizaje técnica.\nRapidez: Genera aplicaciones funcionales en minutos, reduciendo significativamente los tiempos de desarrollo.\nPersonalización: Ofrece opciones para personalizar el diseño y las funciones según las necesidades del usuario.\nIntegraciones: Compatible con bases de datos y herramientas externas, lo que facilita su implementación en entornos existentes.\nAccesibilidad económica: Al ser una solución No-Code, reduce los costos asociados con el desarrollo de software tradicional.",
+        "long_description": "Softr AI es una plataforma innovadora que permite a los usuarios crear aplicaciones web completamente funcionales sin necesidad de conocimientos de programación. Utilizando inteligencia artificial, los usuarios pueden simplemente describir la aplicación que desean en lenguaje natural, y Softr AI se encarga de generar la aplicación correspondiente. Esta herramienta es ideal para crear portales de clientes, herramientas internas, directorios o plataformas de membresía de manera rápida y eficiente. Además, Softr AI ofrece una variedad de bloques preconstruidos y funcionales, como listas, gráficos, formularios, tablas, calendarios y mapas, que facilitan la personalización de las aplicaciones según las necesidades específicas de cada usuario.",
+        "release_date": "Octubre 2023",
+        "developer": "Softr Platforms GmbH",
+        "main_model": "No disponible",
+        "pricing_plans": "Plan Gratuito: Incluye soporte para 5 usuarios internos y 100 usuarios externos, 5 colaboradores en el espacio de trabajo y 1 dominio personalizado.\n\nPlan Básico ($49/mes): Incluye todas las características del plan gratuito, además de CSS/JS personalizado, soporte para 10 usuarios internos y 1,000 externos, y la opción de incrustar aplicaciones de Softr.\n\nPlan Profesional ($139/mes): Incluye todas las características del plan básico, además de funcionalidades avanzadas como gráficos, calendario, bandeja de entrada y Kanban, soporte para 50 usuarios internos y 5,000 externos, y la opción de eliminar el branding de Softr.\n\nPlan Negocios ($269/mes): Incluye todas las características del plan profesional, además de características exclusivas como organigrama y línea de tiempo, soporte para 100 usuarios internos y 10,000 externos, y aplicaciones móviles descargables (PWA).\n\nPlan Empresarial (Personalizado): Ofrece soluciones a medida para grandes empresas, incluyendo autenticación única para usuarios de la app (SSO), auditoría de seguridad y soporte premium.",
+        "license": "Softr AI es una aplicación web basada en suscripción diseñada para permitir a los usuarios crear aplicaciones web completamente funcionales sin necesidad de codificación avanzada.",
+        "security_privacy": "Softr AI permite definir permisos y niveles de acceso granulares, asegurando que solo los usuarios autorizados puedan ver o editar información sensible. Además, toda la información se almacena de manera segura en la base de datos del usuario.",
+        "integration": "Softr AI se integra con herramientas populares como Zapier, Google Analytics, Stripe, Hotjar y Mailchimp, facilitando su implementación en flujos de trabajo existentes."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Cómo Urban's Landscaping Group aumentó la productividad en un 25% con Softr",
+          "description": "Urban's Landscaping Group, con la asistencia de KYRRO.tech, un estudio digital y de crecimiento con sede en Francia, desarrolló una aplicación ERP personalizada utilizando Softr. Esta solución reemplazó sistemas obsoletos y flujos de trabajo manuales, lo que resultó en un aumento del 25% en la productividad. La aplicación incluye un panel de gestión de proyectos que facilita la supervisión y administración de las operaciones diarias. \n",
+          "url": "https://www.softr.io/case-studies-kyrro-tech-urbans"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Cómo el equipo de Integral Ed utilizó Softr para transformar la gestión de proyectos",
+          "description": "Integral Ed es una empresa educativa que desarrolló una plataforma de gestión de aprendizaje utilizando Softr. Esta plataforma permite a los educadores crear y administrar cursos en línea, realizar un seguimiento del progreso de los estudiantes y facilitar la comunicación entre estudiantes y profesores. La implementación de esta solución ha mejorado la eficiencia operativa y ha proporcionado una experiencia de aprendizaje más interactiva y accesible para los estudiantes.",
+          "url": "https://www.softr.io/case-studies/integral-ed"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/softr-ai"
+        },
+        {
+          "source_url": "https://www.softr.io/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/softr"
+        },
+        {
+          "source_url": "https://wwwhatsnew.com/2024/02/16/softr-ai-para-crear-aplicaciones-usando-inteligencia-artificial/"
+        },
+        {
+          "source_url": "https://www.aibase.com/tool/14126"
+        },
+        {
+          "source_url": "https://www.futuretools.io/tools/softr-ai"
+        }
+      ]
+    },
+    "693": {
+      "app": {
+        "id": "693",
+        "name": "SoBrief",
+        "url": "https://sobrief.com/",
+        "short_description": "Plataforma que ofrece más de 73,530 resúmenes de libros de ficción y no ficción, disponibles en formato de texto y audio en 40 idiomas.​",
+        "category": "Educación",
+        "main_functionality": "Proporciona resúmenes concisos de libros, permitiendo a los usuarios comprender los puntos clave en aproximadamente 10 minutos.",
+        "tags": "#Educación #AprendizajeRápido #ResúmenesDeLibros #AudioLibros #Multilingüe",
+        "logo_filename": "id_693_sobrief",
+        "what_is": "SoBrief es una plataforma digital que proporciona resúmenes de libros de ficción y no ficción en formatos de texto y audio, permitiendo a los usuarios acceder rápidamente a los conceptos clave de una obra.",
+        "purpose": "Sirve para aprender de manera rápida y eficiente sobre una amplia gama de temas sin necesidad de leer libros completos, ideal para estudiantes, profesionales y lectores curiosos con poco tiempo.",
+        "use_cases": "Estudio rápido de obras académicas o de desarrollo personal.\n\nEvaluación de libros antes de adquirirlos.\n\nEscucha de resúmenes en audio durante desplazamientos o tiempos muertos.",
+        "main_advantages": "Acceso a más de 73,000 resúmenes en múltiples idiomas.\nDisponibilidad en formatos de texto y audio.\nAhorro de tiempo y esfuerzo en la comprensión de contenidos clave.\nIdeal para formación continua y aprendizaje acelerado.",
+        "long_description": "SoBrief es una plataforma digital que ofrece más de 73,530 resúmenes de libros de ficción y no ficción, disponibles en formatos de texto y audio en 40 idiomas. Cada resumen está diseñado para transmitir los conceptos clave de una obra en aproximadamente 10 minutos, facilitando un aprendizaje rápido y eficiente. La plataforma cubre una amplia variedad de géneros, incluyendo tecnología, negocios, salud mental y productividad, entre otros. Además, SoBrief proporciona aplicaciones móviles para dispositivos iOS y Android, permitiendo a los usuarios acceder a los resúmenes en cualquier momento y lugar. ",
+        "release_date": "No disponible",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "Gratuito: Acceso ilimitado a resúmenes de texto.​\n\nPro: Por $3.75 USD al mes, ofrece acceso ilimitado a resúmenes en audio en 40 idiomas, junto con funciones adicionales como marcadores y un historial de lectura ampliado.",
+        "license": "No disponible",
+        "security_privacy": "No disponible",
+        "integration": "SoBrief ofrece aplicaciones móviles para dispositivos iOS y Android, permitiendo a los usuarios acceder a los resúmenes de libros de manera conveniente en sus dispositivos móviles. ​"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://sobrief.com/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://creati.ai/ai-tools/sobrief-com/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/sobrief-com?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://creati.ai/ai-tools/sobrief-com/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://10web.io/ai-tools/sobrief/"
+        }
+      ]
+    },
+    "702": {
+      "app": {
+        "id": "702",
+        "name": "SlidesAI",
+        "url": "https://www.slidesai.io/es",
+        "short_description": "Herramienta impulsada por inteligencia artificial que transforma texto en presentaciones atractivas de manera rápida y sencilla",
+        "category": "Productividad",
+        "main_functionality": "Conversión automatizada de texto en diapositivas de presentación mediante inteligencia artificial.​",
+        "tags": "#Productividad #Presentaciones #InteligenciaArtificial",
+        "logo_filename": "id_702_slidesai",
+        "what_is": "SlidesAI es una herramienta basada en inteligencia artificial que permite a los usuarios crear presentaciones profesionales al transformar texto en diapositivas visualmente atractivas.",
+        "purpose": "Su propósito es agilizar y simplificar el proceso de creación de presentaciones, permitiendo a los usuarios generar diapositivas de manera eficiente sin necesidad de habilidades avanzadas en diseño.",
+        "use_cases": "Profesionales que necesitan elaborar presentaciones de negocios de forma rápida.​\n\nEducadores que buscan preparar material didáctico atractivo.​\n\nEstudiantes que requieren crear exposiciones académicas eficientes.​\n\nEmprendedores que desean presentar propuestas o informes a inversores o clientes.",
+        "main_advantages": "Ahorro significativo de tiempo en la creación de presentaciones.​\n\nFacilidad de uso sin necesidad de experiencia en diseño.​\n\nPersonalización de colores y fuentes para adaptar la apariencia de las diapositivas.​\n\nIntegración con Google Slides para una experiencia fluida.​\n\nSoporte para más de 100 idiomas, ampliando su accesibilidad. ​",
+        "long_description": "SlidesAI es una aplicación innovadora que utiliza inteligencia artificial para transformar texto en presentaciones profesionales y atractivas en cuestión de segundos. Diseñada para integrarse directamente con Google Slides, permite a los usuarios ingresar texto o temas específicos, y la herramienta genera automáticamente diapositivas estructuradas y diseñadas de manera coherente. Además, ofrece opciones de personalización que incluyen la selección de esquemas de color y fuentes, facilitando la adaptación de las presentaciones a las necesidades y preferencias del usuario. ",
+        "release_date": "No disponible",
+        "developer": "Zesterv LLC.",
+        "main_model": "No especificado.",
+        "pricing_plans": "Gratuito: Permite crear hasta 3 presentaciones al mes con funcionalidades básicas.​\n\nPro: Ofrece presentaciones ilimitadas, funciones avanzadas y mayor capacidad de personalización.​\n\nEnterprise: Plan personalizado para organizaciones con necesidades específicas.",
+        "license": "Propietaria",
+        "security_privacy": "SlidesAI recopila y utiliza la dirección de correo electrónico de los usuarios con el propósito de autenticar el acceso al complemento. La dirección de correo electrónico no se utiliza para ningún otro propósito ni se comparte con terceros. ​\n",
+        "integration": "SlidesAI se integra directamente con Google Slides, permitiendo a los usuarios crear y editar presentaciones dentro de esta plataforma. "
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.slidesai.io/es?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://www.unite.ai/es/revisi%C3%B3n-de-diapositivasai/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/slidesai?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://workspace.google.com/marketplace/app/slidesaiio_create_slides_with_ai/904276957168?hl=es&utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://www3.technologyevaluation.com/es/solutions/62131/slidesai?srsltid=AfmBOopHhOCzP10wjC4W_YC3CNwBVrFKgwMB0pev4ABJKySXqZL2HB-B"
+        }
+      ]
+    },
+    "705": {
+      "app": {
+        "id": "705",
+        "name": "SlideSpeak",
+        "url": "https://slidespeak.co/",
+        "short_description": "Herramienta impulsada por inteligencia artificial que permite crear, resumir e interactuar con presentaciones y documentos de manera eficiente.",
+        "category": "Productividad",
+        "main_functionality": "Generación y resumen automatizado de presentaciones y documentos mediante inteligencia artificial, facilitando la creación y gestión de contenido profesional.",
+        "tags": "#Productividad #Presentaciones #InteligenciaArtificial #ResúmenesDeDocumentos",
+        "logo_filename": "id_705_slidespeak",
+        "what_is": "SlideSpeak AI es una plataforma que utiliza inteligencia artificial para asistir a los usuarios en la creación, resumen e interacción con presentaciones y documentos, optimizando el flujo de trabajo y mejorando la productividad.",
+        "purpose": "Su propósito es facilitar la generación de presentaciones profesionales, resumir documentos extensos y permitir la interacción con diversos formatos de archivo, todo mediante herramientas impulsadas por IA.",
+        "use_cases": "Consultores que necesitan elaborar presentaciones de negocios de forma rápida y efectiva.​\n\nEstudiantes que buscan resumir y analizar documentos académicos extensos.​\n\nEducadores que requieren preparar material didáctico interactivo y atractivo.​\n\nProfesionales que desean transformar contenido web en presentaciones estructurada",
+        "main_advantages": "Ahorro significativo de tiempo en la creación y resumen de presentaciones y documentos.​\n\nFacilidad de uso sin necesidad de experiencia en diseño.​\n\nIntegración con múltiples formatos de archivo, incluyendo PowerPoint, Word y PDF.​\n\nCapacidad de interactuar con documentos mediante chat impulsado por IA.​\n\nPersonalización de plantillas y estilos para adaptarse a la identidad de marca.",
+        "long_description": "SlideSpeak AI es una plataforma que utiliza inteligencia artificial para facilitar la creación, resumen e interacción con presentaciones y documentos. Permite generar presentaciones desde texto, PDFs, Word o contenido web; resumir documentos extensos de forma precisa; y realizar consultas mediante chat sobre uno o varios archivos. Su interfaz intuitiva y compatibilidad multilingüe la hacen accesible y eficiente para una amplia variedad de usuarios.",
+        "release_date": "No disponible",
+        "developer": "No disponible",
+        "main_model": "Utiliza modelos de lenguaje avanzados como ChatGPT para potenciar sus funcionalidades de inteligencia artificial.",
+        "pricing_plans": "Gratuito: Permite el uso limitado de funcionalidades básicas, incluyendo la creación y resumen de presentaciones y documentos.​\n\nPremium: Ofrece acceso a funcionalidades avanzadas, mayor capacidad de procesamiento y personalización, con planes mensuales y anuales disponibles.​\n\nPremium Plus: Incluye todas las características del plan Premium, además de beneficios adicionales como soporte prioritario y acceso ilimitado a herramientas.",
+        "license": "Propietaria",
+        "security_privacy": "SlideSpeak AI almacena los datos de los clientes de forma completamente cifrada y no los comparte con terceros. Además, utiliza la última tecnología para garantizar la protección de la información.",
+        "integration": "SlideSpeak AI se integra directamente con Microsoft PowerPoint, permitiendo la exportación de presentaciones en formato PPTX completamente editables. Además, ofrece una extensión para Chrome que facilita la creación de presentaciones a partir de contenido web.​"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://slidespeak.co/es/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/slidespeak"
+        },
+        {
+          "source_url": "https://www.aibase.com/es/tool/189"
+        },
+        {
+          "source_url": "https://slidespeak.softonic.com/aplicaciones-web"
+        }
+      ]
+    },
+    "735": {
+      "app": {
+        "id": "735",
+        "name": "Snoooz",
+        "url": "https://snoooz.ai/",
+        "short_description": "Asistente de correo electrónico impulsado por inteligencia artificial que gestiona automáticamente respuestas fuera de oficina personalizadas, categorización y redirección de correos electrónicos.",
+        "category": "Automatización",
+        "main_functionality": "Automatiza la gestión de correos electrónicos fuera de oficina, proporcionando respuestas personalizadas y asegurando que los mensajes urgentes sean dirigidos al contacto adecuado.​",
+        "tags": "#EmailAutomation #AIResponder #OutOfOffice #InboxManagement​",
+        "logo_filename": "id_735_snoooz",
+        "what_is": "Snoooz es una plataforma de gestión de correos electrónicos fuera de oficina que utiliza inteligencia artificial para enviar respuestas automáticas personalizadas, categorizando y redirigiendo correos según su contenido y urgencia.",
+        "purpose": "Sirve para mantener la comunicación efectiva con clientes y colegas durante ausencias, asegurando que los correos electrónicos reciban respuestas apropiadas y que asuntos urgentes sean atendidos por los contactos designados.",
+        "use_cases": "Profesionales en vacaciones: Gestiona respuestas automáticas durante periodos de ausencia, informando a los remitentes sobre la disponibilidad y proporcionando contactos alternativos si es necesario.​\n\nEquipos de atención al cliente: Redirige consultas urgentes al miembro del equipo adecuado, mejorando la satisfacción del cliente.​\n\nEmpresas con operaciones globales: Maneja respuestas en diferentes zonas horarias, asegurando comunicación continua.",
+        "main_advantages": "Personalización: Respuestas adaptadas según el remitente, contenido y contexto del correo electrónico.​\n\nAutomatización: Reducción de la carga de trabajo manual al gestionar correos electrónicos fuera de oficina.​\n\nIntegraciones: Compatible con herramientas como Gmail, Outlook, Google Calendar, Asana y más.​",
+        "long_description": "Snoooz es una solución avanzada para la gestión de correos electrónicos fuera de oficina, diseñada para profesionales y empresas que buscan mantener una comunicación efectiva durante ausencias. Utiliza inteligencia artificial para analizar el contenido, el remitente y la urgencia de los correos entrantes, generando respuestas personalizadas y redirigiendo mensajes críticos al contacto adecuado. Además, ofrece integraciones con diversas herramientas y plataformas, facilitando la automatización de tareas y mejorando la eficiencia operativa.",
+        "release_date": "2021",
+        "developer": "Snoooz AI Inc.",
+        "main_model": "Utiliza algoritmos de inteligencia artificial para el análisis de contenido y generación de respuestas.",
+        "pricing_plans": "Starter: $9/mes, ideal para profesionales individuales.​\n\nPro: Desde $19/mes, diseñado para pequeñas empresas y startups.​\n\nEnterprise: Precios personalizados para organizaciones más grandes con necesidades específicas.",
+        "license": "Propietario",
+        "security_privacy": "Snoooz AI se compromete a proteger la privacidad de los usuarios, utilizando medidas de seguridad como el cifrado de datos y cumpliendo con regulaciones como el GDPR. ",
+        "integration": "Snoooz se integra con plataformas como Gmail, Outlook, Google Calendar, Asana, Calendly, HubSpot y otras, facilitando la automatización y gestión eficiente de correos electrónicos fuera de oficina. "
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/snoooz"
+        },
+        {
+          "source_url": "https://deals.snoooz.ai/ltd?aff=f04a4ff54356e4ec816aeb90787be52b2d865524ffa10139e96da4d8ae2074a4"
+        },
+        {
+          "source_url": "https://www.g2.com/products/snoooz-ai/reviews?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://saaspirate.com/deals/snoooz-ai/"
+        },
+        {
+          "source_url": "https://www.zdnet.com/article/get-snoooz-ai-starter-for-life-for-40/"
+        },
+        {
+          "source_url": "https://medium.com/%40victoria_43984/enhancing-out-of-office-experience-the-snoooz-ai-story-4a530b85f971"
+        }
+      ]
+    },
+    "833": {
+      "app": {
+        "id": "833",
+        "name": "SongR",
+        "url": "https://www.songr.ai/",
+        "short_description": "Genera canciones personalizadas a partir de palabras clave o letras propias, eligiendo género musical y voz, todo en cuestión de segundos y sin necesidad de experiencia musical.",
+        "category": "Música",
+        "main_functionality": "Transformación de texto en canciones completas con letra, voz y acompañamiento musical, personalizables por género y tipo de voz.",
+        "tags": "#GeneraciónDeMúsica #TextToSong #IA #CreaciónMusical #CancionesPersonalizadas #SinExperienciaMusical​",
+        "logo_filename": "id_833_songrai",
+        "what_is": "SongR es una plataforma basada en inteligencia artificial que permite a los usuarios crear canciones completas ingresando solo unas pocas palabras clave o letras propias. La aplicación genera la letra, selecciona la voz y añade el acompañamiento musical según el género elegido, ofreciendo una canción lista para compartir.​",
+        "purpose": "Sirve para que cualquier persona, sin importar su experiencia musical, pueda crear canciones personalizadas para ocasiones especiales, contenido en redes sociales, proyectos creativos o simplemente por diversión.",
+        "use_cases": "Creación de canciones personalizadas para cumpleaños, aniversarios u otras celebraciones.\n\nGeneración de contenido musical original para videos en redes sociales o plataformas de streaming.\n\nComposición de canciones temáticas para campañas publicitarias o educativas.\n\nExploración creativa y práctica para aspirantes a compositores o músicos.",
+        "main_advantages": "Proceso sencillo en tres pasos: ingresar texto, seleccionar género y voz, y generar la canción.\n\nVariedad de géneros musicales disponibles, incluyendo pop, hip hop, café y piano rock.\n\nOpciones de voces masculinas y femeninas para personalizar la interpretación.\n\nPosibilidad de ingresar letras propias o permitir que la IA genere la letra.\n\nNo requiere registro ni pago durante la fase beta.​",
+        "long_description": "SongR es una innovadora herramienta de generación musical asistida por inteligencia artificial que democratiza la creación de canciones. Con una interfaz intuitiva, permite a los usuarios crear canciones completas ingresando simplemente unas palabras clave o letras propias. La plataforma ofrece una variedad de géneros musicales y opciones de voces, generando letras, melodías y acompañamientos musicales coherentes y armoniosos. Ideal para creadores de contenido, educadores, publicistas y entusiastas de la música, SongR facilita la producción musical sin necesidad de conocimientos técnicos o experiencia previa.",
+        "release_date": "2022",
+        "developer": "RIFFIT",
+        "main_model": "No disponible",
+        "pricing_plans": "Actualmente, SongR es gratuito durante su fase beta, sin necesidad de registro ni pago.",
+        "license": "Propietaria",
+        "security_privacy": "No se especifican detalles sobre políticas de privacidad o manejo de datos en el sitio oficial.",
+        "integration": "No se mencionan integraciones con otras plataformas o servicios.​"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/songr"
+        },
+        {
+          "source_url": "https://app.songr.ai/?via=aitoolsdirectory-com"
+        },
+        {
+          "source_url": "https://powerusers.ai/ai-tool/songr/"
+        },
+        {
+          "source_url": "https://opentools.ai/tools/songr"
+        },
+        {
+          "source_url": "https://openfuture.ai/tool/songr"
+        },
+        {
+          "source_url": "https://deepgram.com/ai-apps/songr"
+        },
+        {
+          "source_url": "https://opentools.ai/tools/songr"
+        },
+        {
+          "source_url": "https://powerusers.ai/ai-tool/songr/"
+        },
+        {
+          "source_url": "https://10web.io/ai-tools/songr/"
+        },
+        {
+          "source_url": "https://easywithai.com/ai-music-generators/songr/"
+        },
+        {
+          "source_url": "https://www.toolify.ai/compare/songr-vs-gpt-reader-a-free-ai-text-to-speech"
+        },
+        {
+          "source_url": "https://aitoolsarena.com/music-audio/songr-ai-music-generator"
+        }
+      ]
+    },
+    "871": {
+      "app": {
+        "id": "871",
+        "name": "Skarbe",
+        "url": "https://skarbe.com/",
+        "short_description": "Mejore su proceso de ventas capturando interacciones, obteniendo sugerencias de seguimiento y automatizando el seguimiento de conversaciones.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Automatización de tareas de ventas mediante inteligencia artificial, incluyendo seguimiento de interacciones, generación de correos personalizados y recomendaciones de acciones siguientes.",
+        "tags": "#SalesAutomation #AI #CRM #FollowUp #MeetingNotes #DealManagement​",
+        "logo_filename": "id_871_skarbe",
+        "what_is": "Skarbe es una plataforma de inteligencia artificial diseñada para optimizar los procesos de ventas, automatizando tareas administrativas y proporcionando recomendaciones personalizadas para avanzar en las negociaciones.",
+        "purpose": "Ayuda a equipos de ventas a gestionar eficientemente sus interacciones con clientes, automatizando seguimientos, transcripciones de reuniones y ofreciendo sugerencias basadas en datos para cerrar acuerdos más rápidamente.",
+        "use_cases": "Automatización de correos de seguimiento post-reunión.\n\nTranscripción y resumen de llamadas y reuniones.\n\nRecomendaciones de próximas acciones basadas en el estado de cada oportunidad.\n\nGestión centralizada de interacciones con clientes en una \"bandeja de entrada de acuerdos\".",
+        "main_advantages": "Reducción del tiempo dedicado a tareas administrativas.\n\nMejora en la tasa de conversión de oportunidades.\n\nIntegración fluida con herramientas existentes de correo y CRM.\n\nInterfaz intuitiva que facilita la adopción por parte de equipos pequeños.​",
+        "long_description": "Skarbe es una solución de inteligencia artificial enfocada en mejorar la eficiencia de los equipos de ventas. Automatiza tareas como la captura de interacciones con clientes, transcripción de reuniones, generación de correos de seguimiento y recomendaciones de acciones siguientes. Su diseño permite una integración sin fricciones con herramientas existentes, proporcionando una experiencia unificada y centrada en el usuario.",
+        "release_date": "2023",
+        "developer": "Skarbe Inc.",
+        "main_model": "Utiliza modelos de lenguaje avanzados para procesar y analizar interacciones de ventas, generando recomendaciones y automatizaciones personalizadas.",
+        "pricing_plans": "Plan gratuito con funcionalidades básicas.\n\nPlanes de pago con características avanzadas y soporte adicional.",
+        "license": "Propietaria",
+        "security_privacy": "Skarbe implementa medidas estándar de seguridad para proteger los datos de los usuarios, aunque no se especifican detalles adicionales sobre políticas de privacidad en la información disponible.",
+        "integration": "Compatible con herramientas de correo electrónico y CRM populares, permitiendo una integración fluida en el flujo de trabajo existente."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://skarbe.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=deepseek-quietly-drops-major-update"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/skarbe"
+        },
+        {
+          "source_url": "https://www.producthunt.com/posts/skarbe"
+        },
+        {
+          "source_url": "https://azariangrowthagency.com/ai-tools/skarbe/"
+        },
+        {
+          "source_url": "https://www.aibase.com/tool/36653"
+        }
+      ]
+    },
+    "919": {
+      "app": {
+        "id": "919",
+        "name": "Sonic Link",
+        "url": "https://soniclink.com/",
+        "short_description": "Plataforma que permite crear páginas de enlace en la biografía impulsadas por IA y agentes virtuales personalizados para mejorar la interacción con la audiencia.",
+        "category": "Chat",
+        "main_functionality": "Creación de páginas de enlace en la biografía personalizadas y agentes de IA que interactúan con los visitantes, ofreciendo una experiencia de usuario dinámica y personalizada.",
+        "tags": "#AsistenteVirtual #IA #LinkEnBio #Chatbot #Personalización #InteracciónConUsuarios",
+        "logo_filename": "id_919_sonilink",
+        "what_is": "Sonic Link es una herramienta que combina páginas de enlace en la biografía con agentes de inteligencia artificial personalizados, permitiendo a los usuarios mejorar su presencia en línea y la interacción con su audiencia.",
+        "purpose": "Sirve para centralizar enlaces importantes en una sola página y ofrecer una experiencia interactiva mediante un agente de IA que representa al usuario, facilitando la comunicación y el compromiso con los visitantes.",
+        "use_cases": "Influencers que desean interactuar de manera más personalizada con sus seguidores.\n\nEmpresas que buscan mejorar la atención al cliente mediante agentes virtuales.\n\nProfesionales que desean centralizar su presencia en línea y facilitar el contacto con su audiencia.",
+        "main_advantages": "Personalización de la experiencia del usuario mediante agentes de IA que reflejan la personalidad del creador.\n\nCentralización de enlaces importantes en una sola página accesible.\n\nMejora del compromiso y la interacción con la audiencia.\n\nAnálisis e informes sobre la interacción de los visitantes con la página y el agente de IA.\n",
+        "long_description": "Sonic Link es una plataforma que permite a los usuarios crear páginas de enlace en la biografía impulsadas por inteligencia artificial, combinando todos sus enlaces importantes en un solo lugar y ofreciendo una experiencia interactiva mediante agentes de IA personalizados. Estos agentes pueden ser entrenados para reflejar la personalidad y el estilo del usuario, interactuando con los visitantes de manera natural y personalizada. La plataforma también ofrece herramientas de análisis para monitorear la interacción de los visitantes, proporcionando información valiosa para mejorar la estrategia de comunicación y presencia en línea.",
+        "release_date": "Junio 2023",
+        "developer": "Sonic Link",
+        "main_model": "Utiliza tecnología basada en modelos de lenguaje de IA para la creación de agentes virtuales personalizados.",
+        "pricing_plans": "Versión gratuita con funcionalidades básicas.\n\nPlanes de pago con características avanzadas y mayor capacidad de personalización.",
+        "license": "Propietaria",
+        "security_privacy": "No se especifican detalles sobre políticas de seguridad y privacidad en la información disponible.",
+        "integration": "No se especifican integraciones con otras herramientas en la información disponible."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.atom.com/name/SonicLink"
+        },
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/sonic-link"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/sonic-link"
+        },
+        {
+          "source_url": "https://www.aitoolhunt.com/tool/soniclink.com"
+        },
+        {
+          "source_url": "https://kodora.ai/ai-tool/soniclink/"
+        },
+        {
+          "source_url": "https://deepgram.com/ai-apps/soniclink"
+        },
+        {
+          "source_url": "https://creati.ai/ai-tools/sonic-link/"
+        },
+        {
+          "source_url": "https://toolai.io/en/ai/sonic-link"
+        }
+      ]
+    },
+    "989": {
+      "app": {
+        "id": "989",
+        "name": "SMMAI",
+        "url": "https://home.smmai.app/",
+        "short_description": "Crea banners profesionales minimalistas para tus perfiles sociales con IA.",
+        "category": "Redes sociales",
+        "main_functionality": "Creación automatizada de banners para redes sociales mediante algoritmos de IA que generan múltiples variaciones de diseño a partir de texto e imágenes proporcionadas por el usuario.",
+        "tags": "#IA #DiseñoGráfico #GeneradorDeBanners #RedesSociales #NoCode",
+        "logo_filename": "id_989_smmai",
+        "what_is": "SMMAI es una herramienta de diseño gráfico que utiliza inteligencia artificial para generar automáticamente banners minimalistas y profesionales para diversas plataformas de redes sociales, facilitando la creación de contenido visual atractivo sin necesidad de habilidades de diseño.",
+        "purpose": "Permite a usuarios, desde creadores de contenido hasta pequeñas empresas, generar rápidamente banners personalizados para plataformas como Facebook, Instagram, X (Twitter), LinkedIn, Pinterest, Telegram, VKontakte y Snapchat.",
+        "use_cases": "Creación de contenido visual para publicaciones y anuncios en redes sociales.\n\nDiseño rápido de banners promocionales para campañas de marketing digital.\n\nGeneración de gráficos para blogs y sitios web sin necesidad de conocimientos de diseño.\n\nApoyo a freelancers y pequeñas empresas en la creación de material visual profesional.",
+        "main_advantages": "Interfaz intuitiva y fácil de usar, sin necesidad de registro.\n\nGeneración instantánea de múltiples variaciones de diseño.\n\nAmplia variedad de plantillas y estilos minimalistas adaptados a diferentes plataformas.\n\nHerramientas integradas de edición de texto e imagen para personalización adicional.",
+        "long_description": "SMMAI es una plataforma de diseño gráfico asistida por inteligencia artificial que permite a los usuarios generar banners minimalistas y profesionales para diversas plataformas de redes sociales. La herramienta ofrece una interfaz sencilla donde los usuarios pueden ingresar texto y/o imágenes, y la IA genera automáticamente múltiples variaciones de diseño. Además, proporciona herramientas integradas de edición para personalizar aún más los banners antes de descargarlos y compartirlos.",
+        "release_date": "2024",
+        "developer": "Anastasiia Trofimova",
+        "main_model": "No disponible",
+        "pricing_plans": "Gratuito; no requiere registro para acceder a las funcionalidades.",
+        "license": "Propietaria",
+        "security_privacy": "No se especifican detalles sobre políticas de privacidad o medidas de seguridad en la información disponible.",
+        "integration": "Disponible como aplicación web y en iOS; optimizada para iPad."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://home.smmai.app/?utm_source=superhuman&utm_medium=referral&utm_campaign=veo-wows-the-internet"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/smmai-ai-banner-maker"
+        },
+        {
+          "source_url": "https://alternativeto.net/software/smmai-ai-banner-maker/"
+        },
+        {
+          "source_url": "https://microlaunch.net/p/smmaiaibannermaker"
+        },
+        {
+          "source_url": "https://ru.chartoo.com/itunes/app/6469481413-smmai-ai-banner-maker"
+        }
+      ]
+    },
+    "1136": {
+      "app": {
+        "id": "1136",
+        "name": "Solar",
+        "url": "https://try.solar/",
+        "short_description": "Cree sus propios agentes de IA, automatizaciones de flujo de trabajo y aplicaciones de pila completa.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Traduce lenguaje natural (\"un texto\") en software completo, incluyendo bases de datos, autentificación, backend en Python, front-ends modernas, integraciones seguras y despliegue instantáneo.",
+        "tags": "#NoCode #VibeCoding\n#AIAgents #FullStackApps #Automation",
+        "logo_filename": "id_1136_solar",
+        "what_is": "Plataforma que permite convertir instrucciones en lenguaje natural en aplicaciones completas, con front-end, backend, bases de datos, autenticación y despliegue, todo asistido por un agente IA.",
+        "purpose": "Facilita la creación rápida de software completo sin necesidad de codificación manual, especialmente útil para automatizar tareas, preparar dashboards inteligentes, construir agentes personalizados y más.",
+        "use_cases": "Automatización de dashboards de análisis de imágenes satelitales.\n\nBots de trading autónomos para acciones.\n\nAgentes que monitorean tráfico en tiempo real y cuentan vehículos.",
+        "main_advantages": "Generación instantánea de aplicaciones completas a partir de texto (Language in, software out).\n\nBackend robusto en Python con base de datos, autenticación, almacenamiento, integraciones seguras y frontend atractivo.\n\nRápido despliegue con seguridad empresarial y control de acceso.\n\nCombina lo mejor del código con la simplicidad del no-code.",
+        "long_description": "Solar es una plataforma que habilita a usuarios—ya sean técnicos o no—para generar aplicaciones completas mediante lenguaje natural. Ofrece backend en Python, bases de datos (Postgres), autenticación, almacenamiento, integraciones seguras, front-ends reactivos y despliegue con un solo clic. Su agente de IA es capaz de comprender tu intención, estructurar la aplicación y generar el código necesario. Todo con seguridad empresarial, control de acceso y posibilidad de usar tu propia infraestructura.",
+        "release_date": "2025",
+        "developer": "Operado por Lumenary, Inc. (revelado en la política de privacidad).",
+        "main_model": "No disponible",
+        "pricing_plans": "Starter (Free): 500 créditos, hasta 5 proyectos, todas las funciones full-stack, soporte comunitario.\n\nPro: USD 30/mes, 3000 créditos/mes (créditos adicionales a $0.01); proyectos ilimitados, colaboración en equipo y soporte por email.\n\nEnterprise: Precios personalizados, despliegue on-premise o en tu nube, integración avanzada, soporte dedicado y SLAs.",
+        "license": "Propietaria.",
+        "security_privacy": "La política de privacidad establece que Lumenary, Inc. es el controlador de datos.\n\nRecoge datos como identificadores, métricas de uso y logs; utiliza Stripe para pagos y Datadog/Sentry/PostHog para monitoreo y análisis, con retención definida.",
+        "integration": "Backend en Python con Postgres\n\nFrontends en React\n\nIntegraciones seguras, lógica funcional y despliegue\n\nNo requiere gestión de infraestructura propia (“bring-your-own-cloud”)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://try.solar/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/solar-4"
+        },
+        {
+          "source_url": "https://try.solar/privacy"
+        }
+      ]
+    },
+    "1167": {
+      "app": {
+        "id": "1167",
+        "name": "SnowGlobe",
+        "url": "https://snowglobe.so/",
+        "short_description": "Simule usuarios reales para probar su IA antes del lanzamiento.",
+        "category": "Detección",
+        "main_functionality": "Simulación de interacciones conversacionales a gran escala con personas sintéticas para detectar riesgos, aristas y fallos en IA conversacionales antes de su producción.",
+        "tags": "#SimulaciónConversacional #TestingIA\n#RiesgosIA #Chatbots #DatosSintéticos",
+        "logo_filename": "id_1167_snowglobe",
+        "what_is": "Snowglobe es una plataforma que ayuda a probar chatbots o agentes conversacionales de IA mediante la creación de miles de simulaciones con usuarios sintéticos diversos, facilitando la identificación temprana de errores y escenarios extremos.",
+        "purpose": "Permite alinear y verificar el comportamiento de IA conversacionales a gran escala, identificar fallos como alucinaciones, violaciones de políticas y otros errores, además de generar datos etiquetados útiles para entrenamiento adicional.",
+        "use_cases": "Equipos de IA conversacional que necesitan evaluar robustez de sus modelos ante interacciones reales antes del lanzamiento. \n\nEmpresas reguladas (finanzas, salud, legal, aviación) que deben asegurar confiabilidad para evitar errores costosos. \n\nOrganizaciones de investigación o cumplimiento que requieren métricas objetivas sobre riesgos y desempeño en entornos simulados.",
+        "main_advantages": "Generación automática de cientos a miles de conversaciones en minutos. \n\nEtiquetado automático de escenarios y reportes detallados para análisis y fine‑tuning. \n\nMejor detección de fallas y cobertura de casos límite (edge cases) antes del despliegue. \n\nReducción de riesgos regulatorios y mejora de confiabilidad en entornos críticos. \n\nExperiencia de usuario valorada por su diseño intuitivo y capacidad de revelar problemas difíciles de detectar manualmente.",
+        "long_description": "Snowglobe es una plataforma de simulación conversacional avanzada desarrollada por Guardrails AI. Emula usuarios sintéticos con personalidades, metas y estilos diversos para generar conversaciones realistas con chatbots a través de sus endpoints. Posteriormente, clasifica y analiza esas interacciones para generar etiquetas automáticas, reportes de fallos y datasets útiles para entrenamiento y evaluación. Es ideal para mejorar la robustez, confiabilidad y cumplimiento antes del despliegue en producción.",
+        "release_date": "Agosto 2025",
+        "developer": "Guardrails AI",
+        "main_model": "No disponible",
+        "pricing_plans": "No disponible",
+        "license": "Comercial / propietario (no de código abierto).",
+        "security_privacy": "No disponible",
+        "integration": "Soporta conexión mediante API a chatbots (ej. endpoints) y exporta datos en formatos estándar (como CSV o formatos compatibles con HuggingFace) para entrenamiento. Ofrece despliegue en nube, VPC e incluso on‑premises."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://snowglobe.so/"
+        },
+        {
+          "source_url": "https://www.marktechpost.com/2025/08/14/guardrails-ai-introduces-snowglobe-the-simulation-engine-for-ai-agents-and-chatbots/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/snowglobe"
+        },
+        {
+          "source_url": "https://slashdot.org/software/comparison/Ilus-AI-vs-Snowglobe/"
+        }
+      ]
+    },
+    "1187": {
+      "app": {
+        "id": "1187",
+        "name": "Sketchflow",
+        "url": "https://www.sketchflow.ai/",
+        "short_description": "Plataforma de diseño impulsada por IA que transforma ideas en interfaces completas, prototipos interactivos o sitios web y aplicaciones funcionales con código listo para producción, en cuestión de minutos.",
+        "category": "Generación de diseño",
+        "main_functionality": "Utiliza inteligencia artificial para tomar descripciones, capturas o bocetos y generar diseños visuales completos, interfaces interactivas y prototipos exportables, además de producir código HTML/CSS/JS o integrarse con herramientas de diseño externas.",
+        "tags": "#DiseñoIA #GeneraciónUI #PrototiposInterativos #CódigoAutomático #UX #GeneraciónWeb",
+        "logo_filename": "id_1187_sketchflow",
+        "what_is": "Sketchflow es una herramienta de diseño inteligente que combina generación visual avanzada con lógica de producto para que cualquier persona —desde diseñadores hasta equipos de producto o emprendedores— pueda llevar sus ideas desde el concepto hasta un prototipo interactivo o una base de código sin necesidad de escribir manualmente interfaces completas.",
+        "purpose": "Sirve para acelerar y simplificar todo el proceso de diseño y prototipado, permitiendo pasar de una simple idea o texto descriptivo a:\n\nInterfaces completas con lógica de navegación y flujo generado.\n\nPrototipos interactivos para demostraciones o pruebas de usuario.\n\nCódigo exportable o detalles listos para desarrollo.",
+        "use_cases": "Generación automática de interfaces web y móviles desde una descripción o boceto.\n\nCreación de prototipos interactivos para presentaciones y pruebas con usuarios.\n\nDiseño UX/UI acelerado: diseñadores pueden producir flujos de navegación completos sin construir manualmente pantalla por pantalla.\n\nCreación de sitios web: desde texto o especificaciones, generar sitios funcionales exportables a HTML o editores externos.\n\nEquipos de producto: entender y visualizar interacciones sin codificar.",
+        "main_advantages": "Rápida generación de UI/UX: de idea a diseño en pocos minutos.\n\nPrototipos interactivos sin código: útiles para pruebas y demos.\n\nExportación de código: capacidades para producir artefactos útiles para desarrolladores.\n\nSoporte para flujos completos: no solo pantallas aisladas sino proyectos con jerarquía y lógica.\n\nApto para diseñadores, fundadores y equipos sin experticia técnica.",
+        "long_description": "Sketchflow es una plataforma de diseño potenciada por IA que permite generar interfaces visuales, prototipos interactivos y artefactos listos para desarrollo partiendo de descripciones textuales, capturas o ideas básicas. Su IA primero construye una lógica global de la aplicación o sitio (flujos, navegación, relaciones entre pantallas) y luego genera los diseños visuales correspondientes, que pueden exportarse o integrarse con código real y herramientas de desarrollo.",
+        "release_date": "No disponible",
+        "developer": "La plataforma es ofrecida por Sketchflow.ai, enfocada en diseño asistido por IA para interfaces y prototipos.",
+        "main_model": "Sketchflow emplea modelos avanzados de IA generativa multimodal (integrando lenguaje natural, visión y generación visual) que permiten transformar texto o capturas en estructuras de interfaz completas, además de módulos que generan código UI exportable.",
+        "pricing_plans": "Plan Free: acceso con proyectos y páginas generadas limitadas.\n\nPlan Plus (de pago): más páginas, proyectos ilimitados, colaboración en equipo, exportación de HTML, y otras funciones avanzadas.\n\nEl plan Plus se reporta alrededor de $18/mes o $24/año (información no oficial del sitio de terceros).",
+        "license": "Propietaria.",
+        "security_privacy": "La plataforma cuenta con Términos de Servicio y Políticas de Privacidad propias, que regulan el uso de datos y la propiedad intelectual de los contenidos generados.",
+        "integration": "Sketchflow permite exportar diseños y prototipos a formatos que pueden integrarse con editores visuales y herramientas de desarrollo, incluyendo:\n\nExportación de HTML/CSS/JS para producción o bases de código.\n\nCompatibilidad con herramientas de diseño tradicionales o editores externos."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.sketchflow.ai/"
+        },
+        {
+          "source_url": "https://www.toolify.ai/ai-news/sketchflow-aipowered-web-app-design-complete-guide-2025-3850791"
+        },
+        {
+          "source_url": "https://dicloak.com/video-insights-detail/sketchflow-ai-review-2025-watch-how-this-ai-turns-an-idea-into-a-multi-page-app-design-2025"
+        },
+        {
+          "source_url": "https://betalist.com/startups/sketchflow-space"
+        }
+      ]
+    },
+    "1253": {
+      "app": {
+        "id": "1253",
+        "name": "Somake",
+        "url": "https://www.somake.ai/",
+        "short_description": "Genera imágenes, vídeos y más impresionantes con IA.",
+        "category": "Generación de arte",
+        "main_functionality": "Generación automática de imágenes y videos a partir de descripciones en lenguaje natural, permitiendo a los usuarios producir contenido visual original con solo escribir una idea.",
+        "tags": "#TextToImage #AIArt #ContentCreation #GenerativeAI #ImageGeneration",
+        "logo_filename": "id_1253_somake",
+        "what_is": "Somake es una plataforma de generación de contenido visual impulsada por inteligencia artificial que permite a los usuarios crear imágenes, videos y otros formatos gráficos a partir de descripciones en lenguaje natural. Está orientada a creadores, diseñadores y usuarios sin experiencia técnica que buscan transformar ideas en recursos visuales en segundos.",
+        "purpose": "Sirve para crear imágenes digitales, arte conceptual, escenas animadas y recursos visuales de forma automatizada. Ayuda a generar contenido para redes sociales, presentaciones, campañas publicitarias, ideas visuales o simplemente para uso creativo personal o profesional, sin necesidad de programas de diseño o conocimientos avanzados.",
+        "use_cases": "Generación de ilustraciones para publicaciones en redes sociales.\n\nCreación de arte conceptual para videojuegos o diseño narrativo.\n\nProducción de contenido visual para campañas de marketing.\n\nApoyo visual para presentaciones o documentos creativos.\n\nUso educativo para transformar ideas abstractas en imágenes concretas.\n\nEntretenimiento y exploración artística personal.",
+        "main_advantages": "Interfaz intuitiva: simplemente escribe una idea y genera el resultado.\n\nMultiformato: admite tanto generación de imágenes como video (en expansión).\n\nAccesible: no requiere conocimientos de diseño gráfico ni herramientas avanzadas.\n\nCreatividad instantánea: ideal para plasmar ideas visuales sin esfuerzo.\n\nRápida producción: genera imágenes en segundos.\n\nCatálogo de sugerencias: ofrece ideas de ejemplo para empezar (como \"gato espacial\" o \"jardín de robots\").\n\nCompatible con español: Completamente localizado en Hispañoh\n\nIdeal para creadores de contenido, educadores, marketers y curiosos.",
+        "long_description": "Somake es una herramienta basada en inteligencia artificial que permite generar imágenes y videos con solo escribir una descripción en lenguaje natural. Su propuesta se enfoca en democratizar la creatividad visual, permitiendo a cualquier persona, sin conocimientos técnicos ni experiencia en diseño, crear contenido visual atractivo. A través de su interfaz simple y en español, los usuarios pueden escribir ideas como “un gato espacial” o “una tienda de ramen flotante” y recibir imágenes generadas automáticamente que interpretan esa descripción. El sistema ofrece sugerencias de prompts para inspirar a quienes no saben por dónde comenzar y está orientado tanto a usuarios casuales como a creadores digitales. También permite usar créditos gratuitos iniciales y luego pagar por más generaciones según el plan elegido.",
+        "release_date": "2023",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "Plan Gratuito: incluye créditos iniciales para probar la plataforma.\n\nPlanes de Pago (créditos):\n\nDesde $5 USD por 100 créditos (cada generación consume créditos).\n\nTambién ofrecen paquetes más grandes con descuentos.\n(Sistema basado en consumo de créditos, no suscripciones mensuales fijas.)",
+        "license": "Propietaria.",
+        "security_privacy": "Recopilan datos como nombre, correo electrónico, información de acceso y actividad en la plataforma.\n\nUtilizan cookies para análisis y personalización de la experiencia.\n\nNo comparten datos personales con terceros no autorizados.\n\nGarantizan el derecho del usuario a eliminar su cuenta y datos si así lo solicita.\n\nSe comprometen a proteger los datos mediante prácticas de seguridad estándar.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.somake.ai/"
+        }
+      ]
+    },
+    "1272": {
+      "app": {
+        "id": "1272",
+        "name": "Smodin",
+        "url": "https://smodin.io/es",
+        "short_description": "Suite de herramientas de escritura asistida por IA para redactar, reescribir y mejorar textos, con utilidades orientadas a productividad y apoyo académico.",
+        "category": "Redacción",
+        "main_functionality": "Herramientas de escritura con IA para crear y mejorar contenido: redacción y reescritura de textos, asistencia para producir contenido escrito con mayor rapidez.",
+        "tags": "#Redacción #GeneraciónDeTexto #Parafraseo #EscrituraAsistida #Productividad",
+        "logo_filename": "id_1272_smodin",
+        "what_is": "Es una plataforma web que ofrece un conjunto (“suite”) de herramientas de escritura asistida por inteligencia artificial para apoyar tareas de creación y mejora de textos.",
+        "purpose": "Sirve para ayudar a usuarios a redactar y refinar contenido escrito (p. ej., generar borradores, reescribir o mejorar redacción), reduciendo el tiempo de producción y facilitando el proceso de escritura.",
+        "use_cases": "Redacción de borradores para artículos, textos informativos o contenidos generales.\n\nReescritura/paráfrasis de párrafos para mejorar claridad o estilo.\n\nApoyo a estudiantes o profesionales en tareas de escritura y edición (según el enfoque del producto en “herramientas de escritura”).",
+        "main_advantages": "Centraliza varias herramientas de escritura en un solo sitio.\n\nAcelera la creación y revisión de textos.\n\nPuede ayudar a mejorar claridad y consistencia del contenido escrito.\n\nOfrece planes y página de precios dedicada (según la sección “Precios y planes”).",
+        "long_description": "Smodin es una plataforma de herramientas de escritura con IA orientada a apoyar la creación, mejora y reescritura de contenido textual desde la web. Presenta una oferta por planes (mensual/anual) y una página dedicada a precios, lo que sugiere un modelo de suscripción. El producto se posiciona como un conjunto de “herramientas de escritura potentes”, pensado para usuarios que requieren asistencia para redactar y optimizar textos de manera más eficiente.",
+        "release_date": "2025",
+        "developer": "Smodin LLC",
+        "main_model": "No disponible",
+        "pricing_plans": "Motor de arranque: $147 MXN/mes — herramientas de IA, detector/humanizador, detector de plagio, escritor y chat.\n\nDe primera calidad (Más popular): $226 MXN/mes — modelos premium, detección/humanización avanzadas, plagio avanzado, escritura ilimitada y memoria de chat extendida.",
+        "license": "No disponible",
+        "security_privacy": "Smodin LLC indica que recopila datos principalmente al crear una cuenta (p. ej., nombre y correo, y otros datos de contacto), al usar el servicio (incluyendo metadatos) y mediante cookies/tecnologías de seguimiento (como Google Analytics con IP anonimizada para usuarios anónimos), además de información de pago gestionada por un procesador externo y datos que el usuario comparta en funciones públicas como “Comunidad”. Señala que usa la información para operar, personalizar y proteger los servicios, procesar transacciones, soporte, comunicaciones y marketing, y prevención de fraude/cumplimiento legal.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://smodin.io/es"
+        },
+        {
+          "source_url": "https://smodin.io/es/pricing"
+        },
+        {
+          "source_url": "https://smodin.io/es/about"
+        },
+        {
+          "source_url": "https://smodin.io/es/legal"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/smodin?embed=true&utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-smodin&launch=smodin"
+        }
+      ]
+    },
+    "1385": {
+      "app": {
+        "id": "1385",
+        "name": "Socra",
+        "url": "https://hisocra.com/",
+        "short_description": "Domina cualquier tema, prepárate para los exámenes y crea una biblioteca de apuntes con IA.",
+        "category": "Educación",
+        "main_functionality": "Aprendizaje guiado por diálogo: define un objetivo, formula preguntas para detectar “puntos ciegos”, refuerza el recuerdo activo y genera apuntes/artefactos reutilizables a partir de la conversación.",
+        "tags": "#Educacion #TutorIA #MetodoSocratico #AprendizajeActivo #PreparacionDeExamenes #NotasDeEstudio #PensamientoCritico",
+        "logo_filename": "id_1385_socra",
+        "what_is": "Una plataforma de aprendizaje con un “Socratic AI Tutor” que prioriza el entendimiento: en lugar de responder de forma directa, conduce al usuario mediante preguntas, autoexplicación y práctica de recuerdo, adaptando el diálogo para profundizar en conceptos.",
+        "purpose": "Para estudiar de forma más efectiva (autoestudio y preparación de exámenes), identificar lagunas de conocimiento, mejorar razonamiento/explicación y conservar resultados como notas reutilizables.",
+        "use_cases": "Preparación de exámenes y repaso de temas difíciles con preguntas guiadas.\n\nEntrenamiento tipo Feynman: explicar un concepto “en simple” y recibir interrupciones/preguntas para corregir vacíos.\n\nPensamiento crítico: analizar argumentos, detectar falacias y probar supuestos.\n\nConvertir sesiones de aprendizaje en notas/artefactos para reutilizar.",
+        "main_advantages": "Enfoque en comprensión, no solo respuestas: diseñado para guiar el razonamiento con preguntas y andamiaje paso a paso.\n\nAprendizaje activo: integra recuerdo activo y autoexplicación como parte central del flujo.\n\nSalida reutilizable: convierte una sesión enfocada en notas reutilizables.\n\nAcceso multiplataforma: se promociona como disponible en web, iOS y Android.",
+        "long_description": "Plataforma de tutoría y aprendizaje por diálogo que opera con un enfoque “goal-first”: inicia con un objetivo claro, hace preguntas guiadas para revelar puntos débiles, promueve el recuerdo activo y la autoexplicación (incluyendo técnicas tipo Feynman), y resume la sesión en notas reutilizables. Se presenta como alternativa a chatbots generalistas al optimizar la interacción para retención y comprensión.",
+        "release_date": "Marzo 2026",
+        "developer": "Wood Peng\nSDE (Someone Do Everything) @ Socra & FunBlocks",
+        "main_model": "No disponible",
+        "pricing_plans": "Socra AI Pro: USD 60\n\nSocra AI Premium: USD 110\n\nSocra AI Unlimited: USD 200",
+        "license": "Propietario / SaaS",
+        "security_privacy": "No disponible",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://hisocra.com/"
+        },
+        {
+          "source_url": "https://hisocra.com/dialogue/pricing"
+        },
+        {
+          "source_url": "https://hisocra.com/blog"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/socra-socratic-ai-tutor-partner"
+        }
+      ]
+    },
+    "1387": {
+      "app": {
+        "id": "1387",
+        "name": "Sokosumi",
+        "url": "https://www.sokosumi.com/",
+        "short_description": "Agentes de marketing que investigan, planifican y gestionan por ti.",
+        "category": "Marketing",
+        "main_functionality": "Gestión y ejecución de trabajo de marketing con múltiples agentes: asignación de tareas en un taskboard, colaboración agente-a-agente, y contratación de agentes adicionales del marketplace para completar entregables (research, SEO, contenidos, análisis, etc.).",
+        "tags": "#Marketing #Automatizacion #AgentesIA #Productividad #InvestigacionDeMercado #GestionDeTareas #MarketplaceDeAgentes",
+        "logo_filename": "id_1387_sokosumi",
+        "what_is": "Un marketplace y espacio de trabajo para agentes de IA (incluye “AI coworkers” orientados a marketing) donde los usuarios descubren/contratan agentes, les asignan tareas y gestionan proyectos desde un tablero. Conecta con el ecosistema Masumi (pagos e identidad) y Kodosumi (ejecución).",
+        "purpose": "Para acelerar la ejecución de tareas de marketing (p. ej., investigación, planificación, resúmenes, SEO, variaciones de anuncios) con agentes especializados, manteniendo al usuario en control mediante un enfoque basado en tareas y entregables.",
+        "use_cases": "Investigación de mercado y posicionamiento (p. ej., “Market Research for Strategy”).\n\nPlaneación/operación de marketing en proyectos con “coworkers” (Hannah/Elena/Alex).\n\nContratar agentes del marketplace para tareas específicas (ej. datos, insights, SEO outlines, campaign summaries).\n\nIntegración vía API/uso por desarrolladores y frameworks (CrewAI, AutoGen, LangGraph, etc.) para publicar o consumir agentes.",
+        "main_advantages": "Enfoque por tareas (no solo chat): orientado a resultados y entregables, con control humano (“human in the loop”).\n\nColaboración multi-agente: coordinación y traspaso entre agentes en el mismo proyecto.\n\nMarketplace de agentes: acceso a múltiples capacidades de terceros además de coworkers.\n\nEcosistema para pagos/identidad/ejecución: integración declarada con Masumi (pagos/identidad) y Kodosumi (runtime).",
+        "long_description": "Plataforma de agentes para marketing y trabajo “agentic”: permite explorar y contratar agentes (incluyendo coworkers como Hannah/Elena/Alex) y gestionarlos desde un tablero de tareas. Los agentes pueden colaborar entre sí, delegar, y “contratar” otros agentes del marketplace cuando se necesita una capacidad específica. Está diseñada como parte del ecosistema “Sumi”: Sokosumi (marketplace), Masumi (pagos/identidad) y Kodosumi (ejecución).",
+        "release_date": "Junio 2025",
+        "developer": "Controlador/operador (Privacy Policy): Plan.Net Studios GmbH & Co. KG (Múnich, Alemania).\n\nDesarrollo/alianza (sitio): menciona desarrollo por NMKR en asociación con Serviceplan Group.",
+        "main_model": "No disponible",
+        "pricing_plans": "No disponible",
+        "license": "Propietario / SaaS",
+        "security_privacy": "La política de privacidad indica cumplimiento con GDPR y explica roles (usuarios vs proveedores de agentes) y bases legales del tratamiento. Identifica como responsable a Plan.Net Studios GmbH & Co. KG y proporciona contacto del DPO. La misma política está fechada “Last Updated: 18 March, 2026”.",
+        "integration": "Ecosistema Masumi/Kodosumi: integración declarada (pagos/identidad y runtime).\n\nZapier: existe página de integraciones de Sokosumi en Zapier (acciones como listar agentes, consultar jobs, etc.)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "BVG (operador de transporte público de Berlín) usa agentes de Sokosumi para investigación competitiva y análisis de mercado",
+          "description": "Una publicación oficial del ecosistema Masumi indica que Berliner Verkehrsbetriebe (BVG) —operador de transporte público de Berlín— ya utiliza agentes de Sokosumi para investigación competitiva y análisis de mercado. El caso se presenta como evidencia de adopción temprana en una organización vinculada a servicios públicos, describiendo el tipo de trabajo realizado (research y market analysis), aunque sin detallar métricas de impacto (p. ej., ahorro de tiempo o costos).",
+          "url": "https://www.masumi.network/blogs/meet-sokosumi"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "BVG (Berlin Transportation) es citado como “usuario oficial” temprano de Sokosumi (referencia pública)",
+          "description": "En un documento público de Project Catalyst se menciona a BVG (Berlin Transportation) como uno de los primeros usuarios oficiales de Sokosumi y se remite a una “press release”/publicación para el contexto. Esta referencia refuerza el punto de adopción en el sector de servicios públicos, aunque no incluye resultados cuantificados ni un “case study” formal.",
+          "url": "https://projectcatalyst.io/funds/14/cardano-use-cases-partners-and-products/masumi-ai-agent-network-20-by-serviceplan-group"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "“Comprehensive UX research” (~US$2,000) completado por US$18 en ~30 minutos con agentes coordinados de Sokosumi",
+          "description": "Un artículo del blog de Masumi reporta un ejemplo de ahorro de costo y tiempo: un trabajo descrito como investigación UX integral, que típicamente costaría alrededor de US$2,000 y tomaría días, fue realizado mediante múltiples agentes coordinados en Sokosumi por US$18 en aproximadamente media hora. El texto lo usa para ilustrar la propuesta “agentic” (delegación y coordinación de agentes) y su potencial para tareas profesionales, aunque no identifica públicamente al cliente final del encargo.",
+          "url": "https://www.masumi.network/blogs/the-ai-agent-revolution-is-here"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.sokosumi.com/"
+        },
+        {
+          "source_url": "https://www.sokosumi.com/privacy-policy"
+        },
+        {
+          "source_url": "https://zapier.com/de/apps/sokosumi/integrations"
+        },
+        {
+          "source_url": "https://aitoolshaus.com/tool/sokosumi"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/product/Sokosumi"
+        }
+      ]
+    },
+    "1399": {
+      "app": {
+        "id": "1399",
+        "name": "SnapGrid",
+        "url": "https://github.com/gustavscirulis/snapgrid",
+        "short_description": "Recopilar, organizar y analizar capturas de pantalla de la interfaz.",
+        "category": "Productividad",
+        "main_functionality": "Recolectar y organizar imágenes/videos en una cuadrícula y aplicar análisis con IA (OpenAI, Anthropic/Claude, Google Gemini u OpenRouter) para clasificar, detectar categorías/patrones y habilitar búsqueda y filtros inteligentes.",
+        "tags": "#Productividad #GestiónDeMedios #Organización #AnálisisVisual #DiseñoUI #AIClassification #LocalFirst",
+        "logo_filename": "id_1399_snapgridrepo",
+        "what_is": "Una app de escritorio open-source para macOS (y con releases por plataforma) que permite gestionar colecciones de imágenes y videos, con categorización automática opcional mediante proveedores de IA configurables.",
+        "purpose": "Para centralizar y organizar contenido visual (p. ej., capturas de UI, referencias, assets y material de investigación), y acelerar su consulta mediante etiquetas/categorías generadas por IA y funciones de búsqueda/filtro.",
+        "use_cases": "UI/UX: recopilar capturas de referencia, organizar inspiración y rastrear patrones de UI.\n\nDesarrollo: guardar estados de UI, bugs y capturas para regresión visual.\n\nMood boards y proyectos creativos: coleccionar referencias y separarlas por “Spaces”.\n\nGestión de assets y material de investigación: catalogación y búsqueda por categorías/patrones detectados.",
+        "main_advantages": "Local-first: medios y metadatos se almacenan localmente; no se suben de forma remota por defecto.\n\nIA opcional y multi-proveedor: permite elegir OpenAI, Claude (Anthropic), Google Gemini u OpenRouter (requiere API key).\n\n“Spaces” y prompts por espacio: organización por colecciones con exportación y posibilidad de instrucciones de análisis personalizadas por colección.\n\nBúsqueda y filtros inteligentes: basados en categorías/patrones detectados por IA.\n\nImportación desde iPhone: soporte para importar mediante un iOS Shortcut exportado desde la app.",
+        "long_description": "SnapGrid permite administrar imágenes y videos en una vista tipo “grid”, organizarlos en Spaces (colecciones), mover contenido por drag-and-drop y exportar por espacio. Incorpora análisis con IA multi-proveedor (OpenAI, Anthropic/Claude, Google Gemini u OpenRouter) para categorizar contenido y habilitar búsqueda/filtros por categorías o patrones detectados, con posibilidad de instrucciones (prompts) personalizadas por Space. Incluye importación desde iPhone mediante iOS Shortcut, y almacenamiento local rápido con opción de sincronización vía iCloud.",
+        "release_date": "No disponible",
+        "developer": "gustavscirulis (autor del repositorio).",
+        "main_model": "No disponible como “un único modelo”. La app permite análisis con múltiples proveedores (OpenAI, Anthropic/Claude, Google Gemini u OpenRouter) y selección de modelo en ajustes.",
+        "pricing_plans": "Gratuito (software de código abierto; se distribuye vía releases).",
+        "license": "GNU General Public License v3.0 (GPL-3.0).",
+        "security_privacy": "Local-first: medios, metadatos y datos de la app se guardan localmente; no se suben por defecto.\n\nIA opcional: si se activa, las imágenes se envían temporalmente al proveedor elegido para categorización/análisis.\n\nAnalítica anónima (opt-out): recopila estadísticas básicas anónimas y crash reports; se puede desactivar en ajustes.\n\nAlmacenamiento local: indica rutas de guardado (p. ej., ~/Documents/SnapGrid/ en macOS) y estructura (images/metadata/.trash).",
+        "integration": "iCloud (sincronización local según README).\n\niOS Shortcut (importación desde iPhone).\n\nProveedores IA: OpenAI, Anthropic (Claude), Google Gemini y OpenRouter (por API key)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://github.com/gustavscirulis/snapgrid"
+        },
+        {
+          "source_url": "https://github.com/gustavscirulis/snapgrid/blob/main/README.md"
+        },
+        {
+          "source_url": "https://github.com/gustavscirulis/snapgrid/releases"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/snapgrid"
+        }
+      ]
+    },
+    "1476": {
+      "app": {
+        "id": "1476",
+        "name": "Skygen",
+        "url": "https://skygen.ai/",
+        "short_description": "Agente autónomo que puede operar una computadora y ejecutar tareas de principio a fin, con enfoque en seguridad y visibilidad total de acciones para automatizar trabajo digital repetitivo.",
+        "category": "Automatización",
+        "main_functionality": "Automatización de tareas y flujos de trabajo mediante un agente que “usa” interfaces como un humano (navega, hace clic, completa formularios y ejecuta procesos) con transparencia/registro de acciones y enfoque de seguridad.",
+        "tags": "#Automatización #AIAgent #AgentesAutónomos #RPA #Productividad #ComputerUse #ComputerVision",
+        "logo_filename": "id_1476_skygenai",
+        "what_is": "Es una plataforma de automatización con un asistente/agente de IA capaz de operar una computadora (“computer use”) para ejecutar tareas digitales de extremo a extremo. Se posiciona como alternativa “más segura” con visibilidad completa de acciones (control/transparencia sobre lo que hace el agente).",
+        "purpose": "Para delegar tareas repetitivas o de varios pasos (p. ej., investigación, administración, operaciones en herramientas web/legacy) a un agente que ejecuta el trabajo en lugar de solo sugerir instrucciones, con enfoque en monitoreo y seguridad durante la ejecución.",
+        "use_cases": "Ejecutar flujos “listos para usar” desde su biblioteca (p. ej., tareas en finanzas, research, productividad, marketing, analítica, health & wellness).\nInvestigación/“deep research” y navegación guiada por el agente.\nAutomatización de tareas en sitios y herramientas “sin limitaciones de API” (según comunicación pública del producto).",
+        "main_advantages": "Automatización end-to-end: orientado a ejecutar tareas completas, no solo responder en chat.\nVisibilidad de acciones: se enfatiza la transparencia/control de lo que hace el agente.\nEnfoque de seguridad (sandbox/guardrails): la cobertura pública describe ejecución en entornos aislados (“sandbox”) y capas de control para acciones sensibles.\nAcceso multiplataforma (según comunicación pública): menciona disponibilidad en Mac, Windows y web.",
+        "long_description": "Plataforma de agentes de IA orientada a automatización de tareas en computadora: el agente observa la pantalla y ejecuta acciones en interfaces digitales para completar flujos de trabajo (por ejemplo, investigación, operaciones en sitios web y ejecución de tareas multi-paso). El posicionamiento público destaca: (1) visibilidad/registro de acciones (“full action visibility”) para que el usuario pueda monitorear lo que ocurre; y (2) arquitectura de seguridad descrita en cobertura pública como ejecución en un entorno aislado (“sandbox”) y capas/tiers de seguridad con “guardrails” para controlar acciones críticas o riesgosas.",
+        "release_date": "Agosto 2025",
+        "developer": "Skygen.ai / Skygen.AI",
+        "main_model": "No disponible",
+        "pricing_plans": "Standard: USD $9/mes (mostrado como $12 → $9 en la página de pricing).\nPro: USD $25/mes (mostrado como $30 → $25).\nMax: USD $150/mes.\nNota: la página oficial lista los niveles (Standard/Pro/Max) y precios; fuentes de terceros añaden detalles de “créditos” y número de “cloud computers”, que pueden variar.",
+        "license": "Propietaria (SaaS).",
+        "security_privacy": "La política de privacidad indica recolección de datos personales (por ejemplo, datos de identidad como nombre/usuario) y proporciona un correo de contacto.\nCobertura pública sobre el producto describe un “sandbox”/entorno aislado para ejecución y una capa de “guardrails” para control de acciones, así como afirmaciones públicas sobre que los datos no se usarían para entrenamiento (según notas de prensa/cobertura).",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://skygen.ai/"
+        },
+        {
+          "source_url": "https://www.binance.com/en/square/post/310732317741730"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/skygen"
+        },
+        {
+          "source_url": "https://aistart.ai/tool/skygen"
+        }
+      ]
+    },
+    "1506": {
+      "app": {
+        "id": "1506",
+        "name": "Sloyd",
+        "url": "https://www.sloyd.ai",
+        "short_description": "Facilita la creación de modelos 3D a partir de texto, bocetos o referencias visuales.",
+        "category": "Generación de diseño",
+        "main_functionality": "Creación de modelos 3D a partir de instrucciones o referencias visuales.",
+        "tags": "#IA #Diseño #Generación3D #Creatividad",
+        "logo_filename": "id_1506_sloyd",
+        "what_is": "Sloyd es una plataforma que facilita la creación de activos 3D mediante inteligencia artificial, especialmente útil para diseño, videojuegos, educación y prototipado.",
+        "purpose": "Facilitar la creación de modelos 3D sin requerir procesos manuales complejos de modelado.",
+        "use_cases": "Diseño de objetos 3D, creación de recursos para videojuegos, prototipado visual, educación y desarrollo de contenido interactivo.",
+        "main_advantages": "Permite generar modelos 3D con mayor rapidez; facilita la exploración de ideas visuales; puede ser útil para equipos creativos, educativos y de desarrollo.",
+        "long_description": "Sloyd es una plataforma de creación de activos 3D asistida por inteligencia artificial. Está pensada para simplificar la generación de modelos tridimensionales a partir de instrucciones o referencias, apoyando proyectos de diseño, educación, videojuegos y prototipado.",
+        "release_date": "No especificada",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Consultar precio",
+        "license": "No especificada",
+        "security_privacy": "Consultar la política de privacidad del proveedor.",
+        "integration": "Disponible mediante plataforma web del proveedor."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.sloyd.ai"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/sloyd"
+        }
+      ]
+    },
+    "1542": {
+      "app": {
+        "id": "1542",
+        "name": "Somio",
+        "url": "https://somio.ai",
+        "short_description": "Generador de música con IA que crea canciones completas (con voz) o instrumentales a partir de texto o letras, con controles de estilo (género/estado de ánimo) y opciones para música de fondo “copyright-free” para contenido digital.",
+        "category": "Música",
+        "main_functionality": "Text/Lyrics-to-Song (canción completa), generación de BGM, letras con IA y generación por referencia (pegar un enlace de YouTube para guiar estilo), además de herramientas de edición como vocal remover y stem splitter (según secciones del sitio).",
+        "tags": "#TextoAMusica,#Instrumentales,#EdicionDeAudio",
+        "logo_filename": "id_1542_somio",
+        "what_is": "Plataforma (web y app) de creación musical con IA que convierte prompts o letras en pistas musicales completas, permitiendo ajustar parámetros como género, mood y presencia de voz.",
+        "purpose": "Para producir música original (canciones o instrumentales) de forma rápida para videos, redes sociales, podcasts, presentaciones y proyectos personales, con enfoque en uso “copyright-free/royalty-free” según el servicio.",
+        "use_cases": "Crear una canción completa desde una idea o letras pegadas.\nGenerar música de fondo para YouTube, podcasts, presentaciones o anuncios.\nGenerar música “similar” basada en un enlace de YouTube (referencia) manteniendo la originalidad, según la app.\nSeparación/edición de audio (p. ej., vocal remover / stem splitter) desde herramientas del sitio.",
+        "main_advantages": "Control creativo por mood, género y voz (vocal o instrumental).\nFlujo rápido: generación típica indicada en el help center (≈30s a 2 min).\nModelo de créditos: 10 créditos por generación, con posibilidad de invitaciones y créditos iniciales para nuevos usuarios.\nDeclara música “copyright-free/segura para uso comercial” (según materiales del servicio y app listing).",
+        "long_description": "Somio permite generar canciones completas con estructura (melodía, voz e instrumentación) desde texto o letras, controlar parámetros (mood, género, configuración vocal), crear música de fondo, y usar generación guiada por referencia (enlace) para aproximar un estilo. También ofrece un sistema por créditos para generación, descarga en MP3 y herramientas de edición listadas en el sitio (p. ej., vocal remover / stem splitter).",
+        "release_date": "No disponible",
+        "developer": "Global Nexus Technology Limited (Hong Kong), indicado en Términos y en Google Play.",
+        "main_model": "No disponible",
+        "pricing_plans": "Créditos: 10 créditos por generación; nuevos usuarios reciben créditos para generar 1 canción; se pueden ganar créditos invitando amigos.\nSuscripción: existen planes (incluye mensual/anual) donde cambian cantidad y vigencia de créditos; cancelación vía soporte (y gestión desde Google Play si aplica). Precios específicos no visibles en la página de pricing analizada (probable contenido dinámico).\nIn-app purchases en Android (Google Play).",
+        "license": "Propietario (SaaS/app comercial)",
+        "security_privacy": "La política indica recopilación de datos (p. ej., email, identificadores de cuenta, música generada asociada a la cuenta) y que el contenido generado/subido se almacena y permanece como propiedad del usuario; no se publicará sin consentimiento, salvo uso anonimizado/agrupado para mejora del modelo/experiencia.\nEn Google Play, el desarrollador declara: “No data shared with third parties”, posible recolección de “Personal info”, y también que “Data isn’t encrypted” (según declaración de data safety).",
+        "integration": "App para Android (Google Play).\nUso en web (sitio somio.ai).\nFlujo de “share & rewards” para publicar creaciones en plataformas sociales (YouTube/TikTok/X/Facebook/Reddit) como parte de campañas de créditos."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://play.google.com/store/apps/details?hl=en&id=com.aimusic.somio.suno"
+        },
+        {
+          "source_url": "https://somio.ai/"
+        },
+        {
+          "source_url": "https://somio.ai/privacy-policy"
+        },
+        {
+          "source_url": "https://somio.ai/terms/"
+        },
+        {
+          "source_url": "https://www.trustpilot.com/review/somio.ai"
+        },
+        {
+          "source_url": "https://aiaxio.com/tools/ai/somio-ai"
+        }
+      ]
+    },
+    "1613": {
+      "app": {
+        "id": "1613",
+        "name": "SofaBrain",
+        "url": "https://sofabrain.com",
+        "short_description": "Permite rediseñar espacios interiores con estilos y configuraciones generadas por IA.",
+        "category": "Generación de diseño",
+        "main_functionality": "Rediseño de espacios interiores mediante inteligencia artificial.",
+        "tags": "#IA #Diseño #RealEstate #Interiores",
+        "logo_filename": "id_1613_sofabrain",
+        "what_is": "SofaBrain es una herramienta que permite modificar y rediseñar espacios interiores usando estilos y configuraciones generadas con IA.",
+        "purpose": "Rediseñar espacios interiores con estilos y configuraciones generadas mediante inteligencia artificial.",
+        "use_cases": "Decoración de interiores, remodelación, diseño residencial, visualización de mobiliario, real estate y propuestas de estilo.",
+        "main_advantages": "Permite probar estilos rápidamente; facilita visualizar cambios; puede apoyar decisiones de diseño antes de realizar modificaciones físicas.",
+        "long_description": "SofaBrain es una herramienta orientada al rediseño de espacios interiores con inteligencia artificial. Ayuda a transformar ambientes mediante propuestas visuales, estilos y configuraciones aplicables a decoración, diseño residencial y bienes raíces.",
+        "release_date": "No especificada",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Prueba gratuita",
+        "license": "No especificada",
+        "security_privacy": "Consultar la política de privacidad del proveedor.",
+        "integration": "Disponible mediante plataforma web del proveedor."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://sofabrain.com"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/sofabrain"
+        }
+      ]
+    },
+    "1617": {
+      "app": {
+        "id": "1617",
+        "name": "Skippr",
+        "url": "https://skippr.com",
+        "short_description": "Crea layouts editables y diseños rápidos generados con apoyo de inteligencia artificial.",
+        "category": "Generación de diseño",
+        "main_functionality": "Generación rápida de layouts editables con IA.",
+        "tags": "#IA #Diseño #Layouts #Creatividad",
+        "logo_filename": "id_1617_skippr",
+        "what_is": "Skippr es una herramienta de diseño que permite generar layouts y composiciones editables mediante inteligencia artificial.",
+        "purpose": "Crear layouts y composiciones editables de forma rápida con inteligencia artificial.",
+        "use_cases": "Diseño gráfico, generación de layouts, creatividad visual, prototipos, presentaciones y materiales digitales.",
+        "main_advantages": "Genera diseños editables rápidamente; apoya la creatividad visual; puede ahorrar tiempo en fases iniciales de diseño.",
+        "long_description": "Skippr es una herramienta de diseño asistida por inteligencia artificial. Permite generar layouts, composiciones y diseños editables de forma rápida para apoyar procesos creativos y de producción visual.",
+        "release_date": "No especificada",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Consultar precio",
+        "license": "No especificada",
+        "security_privacy": "Consultar la política de privacidad del proveedor.",
+        "integration": "Disponible mediante plataforma web del proveedor."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://skippr.com"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/skippr"
+        }
+      ]
+    },
+    "1635": {
+      "app": {
+        "id": "1635",
+        "name": "Slock",
+        "url": "https://slock.ai/",
+        "short_description": "Espacio de colaboración en tiempo real donde personas y agentes de IA trabajan como “compañeros” en canales y mensajes directos, con memoria persistente y ejecución local de agentes.",
+        "category": "Chat",
+        "main_functionality": "Colaboración humano-agente en canales/DMs, con agentes que conservan contexto entre sesiones y que pueden ejecutarse en tus propias computadoras mediante un daemon.",
+        "tags": "#Colaboración,#MemoriaPersistente,#Workspace,#Automatización",
+        "logo_filename": "id_1635_slock",
+        "what_is": "Plataforma de colaboración en tiempo real diseñada para que humanos y agentes de IA convivan en el mismo espacio de conversación (canales y mensajes directos), manteniendo contexto de trabajo a lo largo del tiempo.",
+        "purpose": "Para organizar trabajo “agent-native” en equipo: coordinar tareas, mantener conversaciones con contexto persistente y operar con agentes como participantes del workspace (no solo como herramientas puntuales).",
+        "use_cases": "Equipo de research de inversión: roles (p. ej., “librarian”, “devil’s advocate”, “portfolio watcher”, “scout”) trabajando como una unidad con contexto persistente.\nEquipo de ingeniería: roles (PM/ingeniero/revisor) colaborando en un canal con “un contrato compartido por cambio”.\nBúsqueda de empleo: agentes para coaching, seguimiento y preparación de entrevistas con continuidad entre aplicaciones.\nEquipo de growth: triage de señales, seguimiento y detección de patrones recurrentes.",
+        "main_advantages": "Memoria persistente por agente para mantener contexto a través de días y tareas.\nUn solo espacio conversacional (canales/DMs) donde humanos y agentes interactúan como pares.\nEjecución local de agentes (según el sitio: agentes corren en tus computadoras vía daemon), orientado a privacidad.",
+        "long_description": "Plataforma de colaboración “agent-native” que funciona como un chat de equipo (canales y mensajes directos) donde los agentes de IA participan como miembros. Destaca agentes con identidad continua (persisten entre sesiones) y un enfoque de ejecución en equipos del usuario mediante un daemon (comando publicado: npx @slock-ai/daemon) para conectar una computadora y habilitar agentes. Incluye recursos con plantillas/ideas de equipos de agentes para inversión, ingeniería, búsqueda de empleo y growth.",
+        "release_date": "2026",
+        "developer": "Botiverse.",
+        "main_model": "No disponible",
+        "pricing_plans": "Hobby: $0 (plan gratuito; “start free on Hobby”). Los niveles Team y Business se mencionan como próximos/“coming soon” en listados públicos.",
+        "license": "No disponible",
+        "security_privacy": "El sitio afirma “Full privacy” y que los agentes corren en las computadoras del usuario mediante un daemon.\nLa política de privacidad existe, pero su contenido completo no fue visible en la captura (requiere JavaScript).",
+        "integration": "Conexión de computadoras mediante el daemon publicado (npx @slock-ai/daemon) para ejecutar agentes localmente; no se documentaron integraciones adicionales específicas en las páginas consultadas."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://slock.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=deepseek-s-v4-challenges-opus-4-7-and-gpt-5-4"
+        },
+        {
+          "source_url": "https://slock.ai/#pricing"
+        },
+        {
+          "source_url": "https://slock.ai/resources/use-cases/"
+        },
+        {
+          "source_url": "https://slock.ai/resources/blog/"
+        }
+      ]
+    },
+    "1647": {
+      "app": {
+        "id": "1647",
+        "name": "Skoot",
+        "url": "https://skoothere.com/",
+        "short_description": "Planifica viajes familiares mediante itinerarios inteligentes y asistencia conversacional.",
+        "category": "Chat",
+        "main_functionality": "Planificación familiar de viajes con asistencia conversacional.",
+        "tags": "#IA #Chat #Viajes #AsistenteIA",
+        "logo_filename": "id_1647_skoot",
+        "what_is": "Skoot es una herramienta de inteligencia artificial enfocada en planificar viajes familiares mediante itinerarios inteligentes y asistencia conversacional.",
+        "purpose": "Ayudar a familias a planificar viajes mediante itinerarios inteligentes y asistencia conversacional.",
+        "use_cases": "Viajes familiares, planificación turística, itinerarios, recomendaciones de actividades, organización de rutas y asistentes de viaje.",
+        "main_advantages": "Facilita organizar viajes familiares; ofrece asistencia conversacional; puede generar planes adaptados a intereses y necesidades.",
+        "long_description": "Skoot es una herramienta de inteligencia artificial enfocada en planificación de viajes familiares. Ayuda a crear itinerarios, organizar actividades y recibir recomendaciones mediante asistencia conversacional.",
+        "release_date": "No disponible",
+        "developer": "skoothere.com",
+        "main_model": "No especificado",
+        "pricing_plans": "Gratis",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://skoothere.com/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/skoot"
+        }
+      ]
+    },
+    "1712": {
+      "app": {
+        "id": "1712",
+        "name": "Sollo",
+        "url": "https://sollo.ai/",
+        "short_description": "Sollo permite gestionar tareas empresariales mediante agentes autónomos de IA, ayudando a automatizar procesos y operaciones.",
+        "category": "Automatización",
+        "main_functionality": "Automatización de tareas empresariales mediante agentes autónomos",
+        "tags": "#Automatización #AgentesIA #Procesos",
+        "logo_filename": "id_1712_sollo",
+        "what_is": "Sollo es una herramienta para gestionar tareas empresariales mediante agentes autónomos de IA. Su enfoque está en automatizar procesos de negocio y reducir trabajo operativo mediante agentes capaces de ejecutar tareas.",
+        "purpose": "Automatizar tareas empresariales mediante agentes autónomos que ayuden a reducir carga operativa.",
+        "use_cases": "Automatización de tareas de negocio; gestión operativa; ejecución de procesos repetitivos; apoyo administrativo con agentes.",
+        "main_advantages": "Automatiza tareas empresariales; reduce carga operativa; permite delegar procesos a agentes; mejora eficiencia en equipos.",
+        "long_description": "Sollo es una herramienta para gestionar tareas empresariales mediante agentes autónomos de inteligencia artificial. Su objetivo es automatizar procesos operativos y reducir carga manual en actividades de negocio. Puede ser útil para equipos que desean delegar tareas repetitivas, coordinar procesos y mejorar eficiencia interna.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://sollo.ai/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/sollo-07l2vu"
+        }
+      ]
+    },
+    "1751": {
+      "app": {
+        "id": "1751",
+        "name": "SoftSpell",
+        "url": "https://softspell.ai",
+        "short_description": "SoftSpell automatiza el ciclo de desarrollo de software, ayudando a crear, revisar o mejorar código con IA.",
+        "category": "Codificación",
+        "main_functionality": "Automatización del ciclo de desarrollo de software",
+        "tags": "#Codificación #Desarrollo #Automatización",
+        "logo_filename": "id_1751_softspell",
+        "what_is": "SoftSpell es una herramienta de codificación que automatiza partes del ciclo de desarrollo de software. Ayuda a crear, revisar o mejorar código mediante asistencia basada en inteligencia artificial.",
+        "purpose": "Automatizar tareas del ciclo de desarrollo de software para apoyar creación, revisión y mejora de código.",
+        "use_cases": "Generación de código; revisión de software; automatización de desarrollo; mejora de funcionalidades.",
+        "main_advantages": "Automatiza tareas de desarrollo; ayuda a mejorar código; acelera ciclos técnicos; apoya productividad de programadores.",
+        "long_description": "SoftSpell es una herramienta de codificación que automatiza partes del ciclo de desarrollo de software. Ayuda a crear, revisar o mejorar código con apoyo de inteligencia artificial, facilitando tareas técnicas dentro del proceso de programación. Su utilidad está en reducir fricción en desarrollo y apoyar a equipos de software.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://softspell.ai"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/softspell-ixr71u"
+        }
+      ]
+    },
+    "1849": {
+      "app": {
+        "id": "1849",
+        "name": "SocialKit",
+        "url": "https://www.socialkit.dev/",
+        "short_description": "SocialKit analiza videos de redes sociales y ayuda a identificar estructura, desempeño y oportunidades de contenido.",
+        "category": "Redes sociales",
+        "main_functionality": "Análisis de videos de redes sociales",
+        "tags": "#RedesSociales #Analítica #Contenido",
+        "logo_filename": "id_1849_socialkit",
+        "what_is": "SocialKit es una herramienta para analizar videos de redes sociales. Ayuda a identificar estructura, desempeño y oportunidades de mejora en contenido social.",
+        "purpose": "Analizar videos de redes sociales para identificar estructura, desempeño y oportunidades de mejora.",
+        "use_cases": "Análisis de videos sociales; estrategia de contenido; revisión de estructura; optimización de publicaciones.",
+        "main_advantages": "Analiza contenido social; detecta estructura de videos; apoya estrategia; ayuda a mejorar publicaciones.",
+        "long_description": "SocialKit es una herramienta para analizar videos de redes sociales. Ayuda a identificar estructura, desempeño y oportunidades de mejora en contenido social. Puede apoyar a creadores, marcas y equipos de marketing que buscan entender qué hace funcionar un video y cómo optimizar futuras publicaciones.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.socialkit.dev/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/socialkit-3totr7"
+        }
+      ]
+    },
+    "1900": {
+      "app": {
+        "id": "1900",
+        "name": "SlidesGo",
+        "url": "https://slidesgo.io/",
+        "short_description": "Generador de presentaciones con IA que crea, embellece, convierte y mejora archivos PPT a partir de texto, PDF, Word, Markdown, HTML o videos de YouTube. Permite previsualizar, editar en navegador y exportar presentaciones en formato PowerPoint.",
+        "category": "Generación de diseño",
+        "main_functionality": "Creación automatizada de presentaciones profesionales mediante IA, incluyendo generación de PPT desde prompts, rediseño de presentaciones existentes, conversión de documentos a slides y generación de notas para exponer.",
+        "tags": "#Productividad,#PPT,#Presentaciones",
+        "logo_filename": "id_1900_slidesgo",
+        "what_is": "SlidesGo es una plataforma web de generación de presentaciones con inteligencia artificial. Su sitio la define como un generador de PPT impulsado por IA que transforma ideas o descripciones de texto en presentaciones profesionales, gestionando contenido, estructura, diseño, layouts, visuales y exportación.",
+        "purpose": "Sirve para crear presentaciones desde cero, mejorar diseños de PowerPoint existentes, convertir documentos o videos en slides, preparar notas de exposición y generar archivos PPTX editables. Está orientada a profesionales, educadores, estudiantes, marketers y usuarios que necesitan crear presentaciones rápido sin diseñarlas manualmente.",
+        "use_cases": "Crear pitch decks, presentaciones comerciales, reportes ejecutivos, clases, materiales educativos, presentaciones de marketing, resúmenes de documentos, slides desde videos de YouTube, notas para discursos y rediseños visuales de presentaciones existentes. También puede usarse para preservar consistencia visual mediante “PPT Reverse Prompt”, que extrae colores, tipografías, layouts y estilo de una presentación para reutilizarlos como prompt.",
+        "main_advantages": "Reduce el tiempo de creación de presentaciones al generar decks en minutos; permite exportar en PPTX compatible con PowerPoint, Google Slides y Keynote; ofrece generación desde texto, PDF, Word, Excel, Markdown, HTML y YouTube; permite embellecer PowerPoints existentes conservando contenido; genera notas para exposición; y permite trabajar con conteo de slides personalizable, búsqueda web y soporte multilingüe.",
+        "long_description": "SlidesGo permite crear presentaciones mediante prompts en lenguaje natural: el usuario describe el tema, audiencia o preferencias, y la IA genera una estructura con contenido, diseño y flujo lógico. También permite subir presentaciones para rediseñarlas automáticamente, convertir PDF a PPT, convertir videos de YouTube en slides, generar notas para ponente y usar herramientas gratuitas como compresión, conversión de PPT a PDF/JPG/Word, unión de archivos y extracción de prompts visuales desde PowerPoint. La plataforma incluye vista previa y edición en navegador antes de exportar a PPTX.",
+        "release_date": "Febrero 2026",
+        "developer": "SlidesGo.",
+        "main_model": "El sitio afirma usar Claude Opus 4.7; la página de precios menciona Claude Sonnet 4.6 en Starter/Standard, Claude Opus 4.7 en Premium, y la herramienta YouTube to PPT indica Gemini 3 Flash junto con Claude Opus 4.7. No publica arquitectura propia ni datasets.",
+        "pricing_plans": "La página de precios muestra tres planes con facturación anual y ahorro del 20%: Starter, $9.5/mes, con 12,000 créditos al año, 1,000 al mes, Claude Sonnet 4.6, imágenes Nano Banana 2 en 2K y hasta 10 PPTs mensuales; Standard, $23.9/mes, con 36,000 créditos al año, 3,000 al mes y hasta 60 PPTs mensuales; Premium, $47.9/mes, con 90,000 créditos al año, 7,500 al mes, Claude Opus 4.7, imágenes 4K, más de 100 plantillas profesionales y hasta 150 PPTs mensuales. También se menciona compra por equipos y pagos procesados por Stripe.",
+        "license": "ropietaria / SaaS.",
+        "security_privacy": "La política de privacidad indica que recopila información de cuenta, uso, dispositivo, cookies, pagos y contenido de presentaciones —texto, imágenes y otros materiales cargados— para operar y mejorar el servicio. Señala uso de almacenamiento seguro, cifrado y controles de acceso, aunque no garantiza seguridad absoluta. También indica que no vende ni transfiere información personal a terceros salvo obligaciones legales, protección de derechos o proveedores confiables bajo acuerdos de confidencialidad.",
+        "integration": "La integración principal es por formatos y compatibilidad: exporta PPTX para PowerPoint, Google Slides y Keynote; convierte PDF, Word, Excel, Markdown, HTML, texto y YouTube a presentaciones; y ofrece herramientas de conversión de PPT a PDF, JPG o Word. No encontré una API pública empresarial ni conectores oficiales con CRM, LMS, Slack, Google Workspace o Microsoft 365 más allá de la compatibilidad de archivos."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://slidesgo.io/"
+        },
+        {
+          "source_url": "https://slidesgo.io/pricing"
+        },
+        {
+          "source_url": "https://slidesgo.io/about"
+        },
+        {
+          "source_url": "https://slidesgo.io/privacy-policy"
+        },
+        {
+          "source_url": "https://www.toolify.ai/compare/perdopo-ai-vs-slidesgo"
+        },
+        {
+          "source_url": "https://toolatlas.io/sites/slidesgo"
+        }
+      ]
+    },
+    "1956": {
+      "app": {
+        "id": "1956",
+        "name": "SiteLove",
+        "url": "https://sitelove.io/es",
+        "short_description": "SiteLove ayuda a mejorar la presencia digital de negocios mediante herramientas orientadas a sitios web, visibilidad local y marketing.",
+        "category": "Marketing",
+        "main_functionality": "Mejora de presencia digital y marketing local para negocios mediante sitios y visibilidad online.",
+        "tags": "sitios web, Google Maps, presencia digital, marketing local",
+        "logo_filename": "id_1956_sitelove",
+        "what_is": "SiteLove es una herramienta de marketing y presencia digital que ayuda a negocios a mejorar cómo se muestran en línea, especialmente en sitios web, visibilidad local y canales relacionados con adquisición de clientes.",
+        "purpose": "Ayudar a negocios a fortalecer su presencia digital y mejorar su visibilidad frente a clientes potenciales.",
+        "use_cases": "Creación o mejora de presencia web; marketing local; visibilidad en Google Maps; captación de clientes.",
+        "main_advantages": "Ayuda a mejorar presencia digital, facilita acciones de marketing local y puede apoyar la captación de clientes.",
+        "long_description": "SiteLove es una herramienta de marketing y presencia digital pensada para negocios que necesitan mejorar cómo aparecen ante clientes potenciales. Puede apoyar la creación o mejora de sitios, visibilidad local y presencia en canales como mapas o resultados de búsqueda. Su objetivo es facilitar acciones digitales que ayuden a atraer y convertir clientes.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://sitelove.io/es"
+        }
+      ]
+    },
+    "1993": {
+      "app": {
+        "id": "1993",
+        "name": "Skills Converter",
+        "url": "https://www.wowai.ch/",
+        "short_description": "Skills Converter transforma habilidades, perfiles o experiencias en prompts o instrucciones útiles para trabajar con IA.",
+        "category": "Productividad",
+        "main_functionality": "Conversión de habilidades o perfiles en prompts e instrucciones útiles para IA.",
+        "tags": "prompts, habilidades, conversión de perfiles, guías de IA",
+        "logo_filename": "id_1993_skills_converter",
+        "what_is": "Skills Converter es una herramienta orientada a transformar habilidades, perfiles o experiencias en prompts, instrucciones o estructuras útiles para trabajar con IA.",
+        "purpose": "Transformar habilidades, perfiles o experiencias en prompts e instrucciones útiles para herramientas de IA.",
+        "use_cases": "Creación de prompts; conversión de habilidades; perfiles profesionales; guías para IA.",
+        "main_advantages": "Ayuda a convertir experiencia en instrucciones útiles para IA y facilita estructurar prompts más claros.",
+        "long_description": "Skills Converter es una herramienta que transforma habilidades, perfiles o experiencias en prompts e instrucciones útiles para trabajar con IA. Puede ayudar a estructurar mejor información profesional o técnica para convertirla en solicitudes claras. Es útil para quienes quieren aprovechar mejor herramientas de IA a partir de su experiencia o necesidades específicas.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.wowai.ch/"
+        }
+      ]
+    },
+    "2060": {
+      "app": {
+        "id": "2060",
+        "name": "Skills.sh",
+        "url": "https://www.skills.sh/",
+        "short_description": "Skills.sh ayuda a crear o ejecutar habilidades automatizadas para agentes, procesos o flujos de IA.",
+        "category": "Automatización",
+        "main_functionality": "Creación y ejecución de habilidades automatizadas para agentes o procesos de IA.",
+        "tags": "automatización, habilidades, agentes de IA, procesos",
+        "logo_filename": "id_2060_skills_sh",
+        "what_is": "Skills.sh es una herramienta de automatización enfocada en crear o ejecutar habilidades para agentes, procesos o flujos de IA. Puede servir para ampliar capacidades operativas y estructurar tareas automatizadas.",
+        "purpose": "Crear o ejecutar habilidades automatizadas para agentes, procesos o flujos de IA.",
+        "use_cases": "Habilidades para agentes; automatización de procesos; flujos de IA; tareas inteligentes.",
+        "main_advantages": "Amplía capacidades de agentes o procesos de IA, facilita ejecutar tareas y mejora la automatización.",
+        "long_description": "Skills.sh es una herramienta de automatización enfocada en crear o ejecutar habilidades para agentes, procesos o flujos de IA. Puede ayudar a estructurar capacidades específicas que permitan a agentes o sistemas realizar tareas concretas. Su valor está en ampliar las posibilidades de automatización y facilitar la ejecución de procesos inteligentes.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.skills.sh/"
+        }
+      ]
+    },
+    "2094": {
+      "app": {
+        "id": "2094",
+        "name": "Snipin AI",
+        "url": "https://snipin.ai/",
+        "short_description": "Snipin AI permite generar, recortar o producir contenido de video y clips con apoyo de IA.",
+        "category": "Generación de video",
+        "main_functionality": "Generación, recorte o producción de clips y contenido de video con IA.",
+        "tags": "video, clips, generación de video, contenido digital",
+        "logo_filename": "id_2094_snipin_ai",
+        "what_is": "Snipin AI es una herramienta de generación de video que permite generar, recortar o producir clips con apoyo de IA. Puede ser útil para creadores, equipos de marketing o usuarios que trabajan con contenido audiovisual corto.",
+        "purpose": "Generar, recortar o producir clips y contenido de video con apoyo de IA.",
+        "use_cases": "Clips de video; contenido corto; edición asistida; producción audiovisual.",
+        "main_advantages": "Acelera la creación de clips, facilita producción audiovisual y apoya contenido corto para canales digitales.",
+        "long_description": "Snipin AI es una herramienta de generación de video que permite generar, recortar o producir clips con apoyo de inteligencia artificial. Puede apoyar a creadores, equipos de marketing o usuarios que trabajan con contenido audiovisual corto. Su utilidad está en facilitar la producción de clips y materiales de video para canales digitales.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://snipin.ai/"
+        }
+      ]
+    },
+    "2137": {
+      "app": {
+        "id": "2137",
+        "name": "SlideWhisper",
+        "url": "https://www.slidewhisper.com/",
+        "short_description": "Herramienta de IA para crear presentaciones de diapositivas narradas automáticamente.",
+        "category": "Texto a voz",
+        "main_functionality": "Convertir el contenido de presentaciones en narraciones de voz generadas mediante inteligencia artificial.",
+        "tags": "presentaciones narradas, texto a voz, narración con IA, diapositivas, audio",
+        "logo_filename": "id_2137_slidewhisper",
+        "what_is": "SlideWhisper es una herramienta de texto a voz que añade narración generada con IA a presentaciones de diapositivas.",
+        "purpose": "Facilitar la creación de presentaciones narradas sin necesidad de grabar manualmente la voz.",
+        "use_cases": "Presentaciones educativas, demostraciones de producto, capacitación, materiales comerciales y contenido explicativo.",
+        "main_advantages": "Ahorra tiempo de grabación, mantiene una narración uniforme y permite producir presentaciones habladas con rapidez.",
+        "long_description": "SlideWhisper es una herramienta de inteligencia artificial orientada a crear presentaciones de diapositivas narradas. Convierte el contenido escrito en voz generada con IA, facilitando la preparación de materiales educativos, capacitaciones, demostraciones y presentaciones comerciales sin grabar manualmente la narración de cada diapositiva.",
+        "release_date": "No disponible",
+        "developer": "SlideWhisper",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.slidewhisper.com/"
+        }
+      ]
+    },
+    "2218": {
+      "app": {
+        "id": "2218",
+        "name": "SociaVault",
+        "url": "https://sociavault.com/",
+        "short_description": "API para extraer datos estructurados y en tiempo real procedentes de redes sociales.",
+        "category": "Redes sociales",
+        "main_functionality": "Extraer datos estructurados y en tiempo real procedentes de redes sociales mediante una API.",
+        "tags": "redes sociales, extracción de datos, API, datos en tiempo real, análisis social",
+        "logo_filename": "id_2218_sociavault",
+        "what_is": "SociaVault es una API orientada a extraer información estructurada y en tiempo real desde redes sociales.",
+        "purpose": "Facilitar el acceso programático a datos estructurados y actualizados procedentes de redes sociales.",
+        "use_cases": "Extracción de datos sociales, análisis de publicaciones, integración mediante API y seguimiento de información en tiempo real.",
+        "main_advantages": "Ofrece acceso estructurado y en tiempo real a información procedente de redes sociales mediante API.",
+        "long_description": "SociaVault es una API para extraer datos estructurados y en tiempo real procedentes de redes sociales. Está diseñada para facilitar la integración de información social en aplicaciones, análisis y otros procesos que requieren acceso programático a estos datos.",
+        "release_date": "No disponible",
+        "developer": "SociaVault",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://sociavault.com/"
+        }
+      ]
+    },
+    "2229": {
+      "app": {
+        "id": "2229",
+        "name": "Skene App",
+        "url": "https://www.skene.ai/",
+        "short_description": "Plataforma que genera procesos de incorporación adaptados al rol de cada usuario o empleado.",
+        "category": "Automatización",
+        "main_functionality": "Generar y automatizar procesos de incorporación adaptados a distintos roles.",
+        "tags": "onboarding, incorporación de empleados, automatización, roles, recursos humanos",
+        "logo_filename": "id_2229_skene_app",
+        "what_is": "Skene App es una plataforma de automatización que genera procesos de onboarding adaptados a diferentes roles.",
+        "purpose": "Automatizar procesos de incorporación adaptándolos al rol de cada persona.",
+        "use_cases": "Onboarding de empleados, incorporación por rol, generación de procesos de inducción y automatización de tareas iniciales.",
+        "main_advantages": "Permite adaptar automáticamente los procesos de onboarding según el rol.",
+        "long_description": "Skene App es una plataforma de automatización orientada a procesos de onboarding. Genera flujos de incorporación adaptados al rol, facilitando la preparación de actividades y contenidos diferentes según las necesidades de cada persona.",
+        "release_date": "No disponible",
+        "developer": "Skene App",
+        "main_model": "No especificado",
+        "pricing_plans": "No disponible",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.skene.ai/"
+        }
+      ]
+    },
+    "2348": {
+      "app": {
+        "id": "2348",
+        "name": "Skillduck",
+        "url": "https://www.skillduck.com/",
+        "short_description": "Generador de e-learning con IA que convierte documentos o temas en cursos interactivos y multilingües.",
+        "category": "Educación",
+        "main_functionality": "Transformar documentos, presentaciones o temas en cursos interactivos de capacitación que pueden exportarse a plataformas LMS.",
+        "tags": "e-learning, capacitación, cursos, SCORM, xAPI, LMS, formación corporativa, traducción, educación",
+        "logo_filename": "id_2348_skillduck",
+        "what_is": "SkillDuck es una plataforma de creación de e-learning corporativo que utiliza inteligencia artificial para generar cursos, ejercicios y traducciones.",
+        "purpose": "Reducir el tiempo necesario para convertir conocimiento y documentación empresarial en materiales estructurados de capacitación.",
+        "use_cases": "Onboarding, capacitación corporativa, compliance, formación de productos, cursos internos, contenido multilingüe y aprendizaje en LMS.",
+        "main_advantages": "Genera estructura, textos, quizzes y actividades interactivas y permite exportar cursos mediante SCORM, xAPI o enlace directo.",
+        "long_description": "SkillDuck es una plataforma de e-learning corporativo asistida por inteligencia artificial. Permite utilizar documentos como PDF, PowerPoint y Word o simplemente un tema para generar cursos estructurados con capítulos, quizzes, flashcards y otros elementos interactivos. Los contenidos pueden traducirse y exportarse mediante SCORM o xAPI para utilizarlos en sistemas LMS.",
+        "release_date": "No disponible",
+        "developer": "SkillDuck",
+        "main_model": "No especificado",
+        "pricing_plans": "Prueba gratuita de 14 días; Starter, Pro, Business y Enterprise mediante licencia anual con cotización personalizada",
+        "license": "No especificado",
+        "security_privacy": "Cumplimiento GDPR, hosting en la Unión Europea y opciones de SSO en planes superiores.",
+        "integration": "SCORM 1.2, SCORM 2004, xAPI, LMS y SSO"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.skillduck.com/"
+        }
+      ]
+    },
+    "2522": {
+      "app": {
+        "id": "2522",
+        "name": "SkipUp",
+        "url": "https://skipup.ai/",
+        "short_description": "Asistente de programación que automatiza por correo electrónico el seguimiento, coordinación y agendamiento de reuniones.",
+        "category": "Citas",
+        "main_functionality": "Automatiza por correo electrónico la coordinación de reuniones, seguimiento de participantes y búsqueda de horarios disponibles en calendarios.",
+        "tags": "agenda, reuniones, seguimiento automático, calendario, email, programación",
+        "logo_filename": "id_2522_skipup",
+        "what_is": "SkipUp es un asistente de programación y seguimiento que utiliza inteligencia artificial para coordinar reuniones mediante correo electrónico y calendarios.",
+        "purpose": "Reducir el trabajo manual necesario para coordinar reuniones, realizar seguimientos y encontrar horarios disponibles entre participantes.",
+        "use_cases": "Coordinar reuniones por correo; realizar seguimientos automáticos; proponer horarios disponibles; gestionar calendarios; reducir intercambios manuales para agendar citas.",
+        "main_advantages": "Reduce intercambios repetitivos de correo para coordinar reuniones y automatiza el seguimiento hasta encontrar un horario disponible.",
+        "long_description": "SkipUp es un asistente de programación que automatiza la coordinación de reuniones mediante correo electrónico y calendarios. Puede participar en conversaciones para proponer horarios, realizar seguimientos y ayudar a encontrar espacios disponibles entre participantes. Su objetivo es reducir los intercambios manuales necesarios para agendar reuniones y facilitar procesos de coordinación recurrentes.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Plan Personal gratuito con 10 reuniones. Pro desde USD 49/mes; plan Custom disponible mediante contacto comercial.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://skipup.ai/"
+        }
+      ]
+    },
+    "2525": {
+      "app": {
+        "id": "2525",
+        "name": "SkipCalls",
+        "url": "https://skipcalls.com/",
+        "short_description": "Recepcionista telefónico con IA que responde llamadas, conversa con clientes, registra información y ayuda a gestionar citas y seguimientos.",
+        "category": "Automatización",
+        "main_functionality": "Atiende llamadas telefónicas mediante un agente de voz con IA que conversa con clientes, registra información y apoya procesos de citas y seguimiento.",
+        "tags": "agente telefónico, llamadas, recepcionista virtual, asistente de voz, resúmenes",
+        "logo_filename": "id_2525_skipcalls",
+        "what_is": "SkipCalls es un recepcionista telefónico basado en inteligencia artificial diseñado para responder llamadas y gestionar interacciones básicas con clientes.",
+        "purpose": "Automatizar la atención telefónica básica para que empresas puedan responder llamadas y gestionar solicitudes sin depender exclusivamente de personal humano.",
+        "use_cases": "Responder llamadas entrantes; registrar mensajes; proporcionar información básica; gestionar solicitudes; apoyar programación de citas y seguimiento de clientes.",
+        "main_advantages": "Permite responder llamadas de manera continua y automatizar interacciones telefónicas sencillas sin ampliar proporcionalmente el equipo humano.",
+        "long_description": "SkipCalls es un recepcionista telefónico basado en inteligencia artificial. Puede responder llamadas, conversar con clientes, registrar información y apoyar tareas como citas o seguimientos. Su objetivo es proporcionar una primera capa automatizada de atención telefónica para empresas que reciben consultas frecuentes y desean mantener disponibilidad sin depender exclusivamente de operadores humanos.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Prueba gratuita de 7 días. Plan mensual USD 19.99 o USD 199/año.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://skipcalls.com/"
+        }
+      ]
+    },
+    "2558": {
+      "app": {
+        "id": "2558",
+        "name": "Sonant",
+        "url": "https://www.sonant.ai/",
+        "short_description": "Agente de voz con IA orientado al sector asegurador que atiende llamadas, gestiona consultas y automatiza tareas de recepción y seguimiento.",
+        "category": "Chat",
+        "main_functionality": "Atiende llamadas mediante un agente de voz con inteligencia artificial orientado a procesos de seguros, recepción, seguimiento y atención al cliente.",
+        "tags": "recepcionista con IA, seguros, llamadas, atención al cliente, citas, CRM, agentes de voz",
+        "logo_filename": "id_2558_sonant",
+        "what_is": "Sonant es una plataforma de agentes de voz con inteligencia artificial orientada especialmente a compañías y procesos del sector asegurador.",
+        "purpose": "Automatizar la atención telefónica y tareas de recepción en empresas de seguros mediante agentes de voz especializados.",
+        "use_cases": "Responder llamadas; gestionar consultas de pólizas; programar citas; captar prospectos; realizar seguimientos; automatizar recepción en agencias y compañías de seguros.",
+        "main_advantages": "Ofrece atención telefónica especializada y continua para procesos del sector seguros sin escalar proporcionalmente el equipo humano.",
+        "long_description": "Sonant es una plataforma de agentes de voz con inteligencia artificial orientada especialmente al sector asegurador. Permite automatizar llamadas, recepción, atención de consultas, programación de citas y seguimiento de clientes. Está diseñada para empresas y agencias que buscan reducir la carga operativa de llamadas repetitivas y mantener una atención disponible de forma continua.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.sonant.ai/"
+        }
+      ]
+    }
+  }
+}

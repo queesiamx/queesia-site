@@ -1,0 +1,2421 @@
+{
+  "schemaVersion": 1,
+  "apps": {
+    "15": {
+      "app": {
+        "id": "15",
+        "name": "Canva",
+        "url": "https://www.canva.com/es_mx/",
+        "short_description": "Herramienta de diseño gráfico en línea que permite crear publicaciones para redes sociales, presentaciones, carteles, videos, logos y más, de manera sencilla y gratuita.",
+        "category": "Diseño gráfico",
+        "main_functionality": "Proporciona una plataforma intuitiva con una amplia variedad de plantillas y recursos para facilitar la creación de contenido visual atractivo sin necesidad de experiencia en diseño.",
+        "tags": "#DiseñoGráfico #Creatividad #Visuales",
+        "logo_filename": "id_15_canva",
+        "what_is": "Canva es una plataforma en línea de diseño gráfico que permite a los usuarios crear una amplia variedad de contenidos visuales, como presentaciones, publicaciones para redes sociales, carteles, videos y logotipos, de manera sencilla y accesible",
+        "purpose": "Su propósito principal es facilitar el proceso de diseño gráfico, ofreciendo herramientas intuitivas y una extensa biblioteca de plantillas y recursos visuales, permitiendo a personas sin experiencia en diseño crear contenido atractivo y profesional.",
+        "use_cases": "Marketing Digital: Creación de contenido visual para campañas en redes sociales, anuncios y materiales promocionales.\nEducación: Elaboración de presentaciones, infografías y materiales didácticos para clases y talleres.\nEmpresas y Negocios: Diseño de logotipos, tarjetas de presentación, folletos y otros materiales corporativos.\nUso Personal: Creación de invitaciones, tarjetas de felicitación y proyectos creativos para eventos personales.",
+        "main_advantages": "Facilidad de Uso: Interfaz intuitiva que permite a cualquier usuario, independientemente de su experiencia, crear diseños de calidad.\nAmplia Biblioteca de Recursos: Acceso a miles de plantillas, imágenes, íconos y fuentes para personalizar los diseños.\nColaboración en Tiempo Real: Posibilidad de trabajar en equipo en un mismo proyecto, facilitando la colaboración y revisión de diseños.\nAccesibilidad Multiplataforma: Disponible en versión web y aplicaciones móviles, permitiendo diseñar desde cualquier dispositivo. ",
+        "long_description": "Canva es una plataforma en línea de diseño gráfico que permite a los usuarios crear una amplia variedad de contenidos visuales, como presentaciones, publicaciones para redes sociales, carteles, videos y logotipos, de manera sencilla y accesible. Ofrece una interfaz intuitiva con funciones de arrastrar y soltar, facilitando el proceso de diseño incluso para quienes no tienen experiencia previa. La plataforma cuenta con una extensa biblioteca de plantillas personalizables, imágenes, íconos y fuentes, lo que permite a los usuarios adaptar sus proyectos a sus necesidades específicas. Además, Canva ofrece herramientas de colaboración en tiempo real, permitiendo a equipos trabajar conjuntamente en proyectos desde cualquier ubicación.",
+        "release_date": "Agosto de 2013.",
+        "developer": "Canva Pty Ltd, fundada por Melanie Perkins, Cliff Obrecht y Cameron Adams.",
+        "main_model": "Canva utiliza una combinación de tecnologías web y herramientas de diseño gráfico basadas en la nube para ofrecer una experiencia de usuario fluida y accesible. Aunque no se basa en un modelo de inteligencia artificial específico, incorpora funciones que facilitan el diseño automatizado y sugerencias inteligentes.",
+        "pricing_plans": "Canva ofrece varios planes de suscripción:\n\nGratuito: Acceso a una amplia gama de herramientas y recursos básicos.\nPro: Incluye funciones avanzadas, una biblioteca más extensa de recursos y herramientas adicionales de diseño.\nEnterprise: Diseñado para grandes organizaciones, ofrece características personalizadas, mayor control administrativo y soporte prioritario. ",
+        "license": "Propietaria de Canva Pty Ltd",
+        "security_privacy": "Canva implementa medidas de seguridad para proteger la información y los datos de los usuarios, incluyendo encriptación y políticas de privacidad que detallan el manejo de la información personal. La empresa se compromete a no compartir datos de los usuarios con terceros sin consentimiento y ofrece opciones de control sobre la privacidad de los proyectos creados en la plataforma.",
+        "integration": "Canva se integra con diversas aplicaciones y plataformas, como Google Drive, Dropbox, Instagram y Facebook, facilitando la importación y exportación de contenido. Además, ofrece una API para desarrolladores que permite la creación de aplicaciones y extensiones que amplían las funcionalidades de la plataforma."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Fistula Foundation: optimiza creación de contenido",
+          "description": "Como una ONG con recursos limitados, Fistula Foundation ha encontrado en Canva una herramienta que le permite maximizar sus esfuerzos de comunicación y alcance, optimizando la creación de contenido visual sin incurrir en altos costos",
+          "url": "https://www.canva.com/canva-for-nonprofits/case-studies/stop-hunger-now/"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Amnesty International crea campañas de impacto con el poder de Canva",
+          "description": "Descripción: Amnistía Internacional crea campañas de impacto utilizando el poder de Canva, lo que le permite diseñar materiales atractivos y coherentes para sus iniciativas de derechos humanos.",
+          "url": "https://www.canva.com/es_mx/canva-para-ongs/caso-practico/amnesty/"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.canva.com/es_mx/"
+        },
+        {
+          "source_url": "https://tecnobits.net/que-es-canva-y-para-que-sirve/"
+        },
+        {
+          "source_url": "https://tecnobae.com/que-es-canva-y-para-que-sirve/"
+        },
+        {
+          "source_url": "https://www.canva.com/es_mx/help/canva-creators-program/"
+        },
+        {
+          "source_url": "https://es.wikipedia.org/wiki/Canva"
+        },
+        {
+          "source_url": "https://www.canva.com/es_mx/caso-practico/?msockid=3965416749916d63024952f748426cac"
+        }
+      ]
+    },
+    "142": {
+      "app": {
+        "id": "142",
+        "name": "BuildShip",
+        "url": "https://buildship.com/",
+        "short_description": "Automatice tareas empresariales complejas y cree API con tecnología de IA. Elija entre miles de nodos prediseñados o cree los suyos propios.\n",
+        "category": "Codificación",
+        "main_functionality": "Construcción de backends visuales mediante la conexión de nodos preconstruidos o generados por IA, facilitando la creación de APIs, automatización de flujos de trabajo y tareas programadas sin necesidad de codificación compleja.",
+        "tags": "#BajoCódigo #DesarrolloBackend #Automatización #InteligenciaArtificial #APIs",
+        "logo_filename": "id_142_buildship",
+        "what_is": "BuildShip es una plataforma de desarrollo backend visual de bajo código, potenciada por inteligencia artificial, que permite a los usuarios crear APIs, automatizar flujos de trabajo complejos y programar tareas sin necesidad de codificación extensa.",
+        "purpose": "Su propósito principal es simplificar y acelerar el proceso de desarrollo backend, permitiendo a empresas y desarrolladores construir y desplegar soluciones escalables de manera eficiente.",
+        "use_cases": "Automatización de flujos de trabajo: Integración de modelos de IA y herramientas para automatizar procesos empresariales complejos. \n\nDesarrollo de APIs personalizadas: Creación de APIs adaptadas a necesidades específicas sin codificación manual. \n\nProgramación de tareas: Ejecución de tareas en intervalos específicos, como generación de informes financieros mensuales. ",
+        "main_advantages": "Facilidad de uso: Interfaz visual intuitiva que reduce la complejidad del desarrollo backend. \n\nIntegración con IA: Capacidad para incorporar modelos de inteligencia artificial en los flujos de trabajo. \n\nEscalabilidad: Infraestructura sin servidor que maneja grandes volúmenes de usuarios y datos sin costos inesperados. \n\nFlexibilidad: Posibilidad de conectar nodos preconstruidos o generar nuevos utilizando IA, adaptándose a diversas necesidades. ",
+        "long_description": "BuildShip es una plataforma de desarrollo backend visual de bajo código, potenciada por inteligencia artificial, que permite a los usuarios crear APIs, automatizar flujos de trabajo complejos y programar tareas sin necesidad de codificación extensa. Ofrece una interfaz intuitiva donde se pueden conectar nodos preconstruidos o generar nuevos utilizando IA, facilitando la integración de modelos de inteligencia artificial y herramientas en los flujos de trabajo. Además, proporciona opciones de autoalojamiento, control de versiones robusto, integración con GitHub y cumplimiento con certificaciones como GDPR y HIPAA, lo que la hace adecuada para implementaciones a gran escala.",
+        "release_date": "BuildShip V2 se lanzó en noviembre de 2024.",
+        "developer": "Rowy Inc.",
+        "main_model": "No disponible.",
+        "pricing_plans": "BuildShip ofrece un modelo de precios basado en créditos, escalable y flexible, adaptado a diferentes etapas de proyectos o empresas. Los usuarios pagan según su uso, con opciones de recarga automática de créditos que no expiran y descuentos por compras al por mayor o planes anuales.",
+        "license": "Propietaria",
+        "security_privacy": "BuildShip cumple con certificaciones de seguridad y privacidad como GDPR y HIPAA, asegurando que los datos de los usuarios se manejen con altos estándares de protección y confidencialidad.",
+        "integration": "BuildShip permite la integración con diversas herramientas y modelos de IA, incluyendo OpenAI, Stable Diffusion y Hugging Face, facilitando la creación de flujos de trabajo multimodales que incorporan generación de texto, imágenes y video."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "OMS fortalece la respuesta sanitaria local mediante desarrollo de plataforma de emergencia con BuildShip",
+          "description": "La Organización Mundial de la Salud (OMS) colaboró con BuildShip para crear una Plataforma Global de Inteligencia Artificial de Respuesta a Emergencias. Utilizando tecnologías de bajo y sin código, la OMS descentralizó el conocimiento experto y capacitó a funcionarios locales de salud pública, mejorando el acceso a directrices y estrategias durante crisis sanitarias. La iniciativa alcanzó una precisión del 90% en la planificación de preparación y facilitó el intercambio de conocimientos contextualizados a nivel local.",
+          "url": "https://buildship.com/case-studies/buildship-who-global-emergency-response"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "99Hunters transforma el proceso de reclutamiento mediante asistente de IA personalizado con BuildShip",
+          "description": "99Hunters, la mayor plataforma de headhunters de América del Sur, utilizó BuildShip para desarrollar HunterHero, un asistente de inteligencia artificial que automatiza tareas clave del reclutamiento como la redacción de descripciones de puestos, preguntas de entrevista y retroalimentación personalizada. Integraron también Twilio para comunicación vía WhatsApp, logrando un seguimiento más eficiente de los candidatos. Gracias a BuildShip, el equipo creó un prototipo funcional en solo unas noches, agilizando flujos backend e integraciones API.",
+          "url": "https://buildship.com/case-studies/99hunters-empowers-recruiters-with-buildship"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://buildship.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-s-sora-leaks-early"
+        },
+        {
+          "source_url": "https://deepgram.com/ai-apps/buildship"
+        },
+        {
+          "source_url": "https://lowcodenocode.org/tools/buildship/"
+        },
+        {
+          "source_url": "https://wwwhatsnew.com/2024/11/18/buildship-v2-disena-apis-y-flujos-backend-visuales-con-el-poder-de-la-ia/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/buildship"
+        },
+        {
+          "source_url": "https://huntscreens.com/es/products/buildship-v2"
+        },
+        {
+          "source_url": "https://buildship.com/case-studies"
+        },
+        {
+          "source_url": "https://buildship.com/pricing"
+        },
+        {
+          "source_url": "https://buildship.com/privacy"
+        }
+      ]
+    },
+    "162": {
+      "app": {
+        "id": "162",
+        "name": "CalcGen",
+        "url": "https://calcgen.ai/",
+        "short_description": "Genere visualizaciones interactivas personalizadas a partir de sus datos y solicitudes.",
+        "category": "Automatización",
+        "main_functionality": "Generación automatizada de visualizaciones de datos interactivas y personalizadas a partir de descripciones en lenguaje natural, facilitando la narración de datos para empresas y educadores.",
+        "tags": "#VisualizaciónDeDatos #InteligenciaArtificial #Interactividad #NarraciónDeDatos",
+        "logo_filename": "id_162_calc_gen",
+        "what_is": "CalcGen AI es una herramienta de inteligencia artificial diseñada para crear visualizaciones de datos y herramientas interactivas como gráficos, diagramas y calculadoras personalizadas. Permite a los usuarios generar estos recursos mediante comandos simples en lenguaje natural, eliminando la necesidad de habilidades técnicas avanzadas.",
+        "purpose": "Su propósito principal es simplificar la creación de herramientas interactivas y visualizaciones personalizadas, haciendo que la presentación y comprensión de datos sean más accesibles tanto para profesionales como para educadores, analistas y empresas.",
+        "use_cases": "Educación: Creación de calculadoras y gráficos interactivos para explicar conceptos matemáticos o científicos.\nEmpresas: Desarrollo de dashboards o herramientas personalizadas para análisis y presentación de datos.\nMarketing y Ventas: Diseño de simuladores interactivos para clientes potenciales, como calculadoras de precios o ROI.\nAnalistas de Datos: Generación de gráficos avanzados para interpretar grandes volúmenes de información de manera visual y comprensible.\n",
+        "main_advantages": "Simplicidad: Genera visualizaciones avanzadas sin necesidad de experiencia en programación o diseño gráfico.\nPersonalización: Permite ajustar y adaptar las herramientas interactivas según las necesidades específicas del usuario.\nAhorro de tiempo: Reduce significativamente el tiempo necesario para crear gráficos y calculadoras personalizadas.\nInteractividad: Mejora la experiencia del usuario mediante herramientas que pueden ser manipuladas en tiempo real.\nAccesibilidad: Disponible para usuarios con diferentes niveles de experiencia técnica.\n",
+        "long_description": "CalcGen AI es una herramienta impulsada por inteligencia artificial que simplifica la creación de gráficos, diagramas y calculadoras interactivas, basándose únicamente en descripciones en lenguaje natural. Diseñada para usuarios con distintos niveles de experiencia técnica, esta plataforma permite la generación rápida de recursos visuales personalizados que pueden ser utilizados en educación, negocios y análisis de datos. La herramienta destaca por su enfoque en la interactividad, brindando a los usuarios la posibilidad de ajustar los parámetros en tiempo real para explorar datos de manera dinámica y comprensible.",
+        "release_date": "No disponible.",
+        "developer": "No disponible.",
+        "main_model": "No disponible.",
+        "pricing_plans": "Gratuito: Funciones básicas para creación de gráficos y calculadoras limitadas.\nPremium: Funciones avanzadas, personalización completa y soporte prioritario.\n",
+        "license": "Propietaria",
+        "security_privacy": "No se encontraron detalles específicos, pero es probable que utilice prácticas estándar de seguridad para proteger los datos introducidos y generados por los usuarios.",
+        "integration": "No se encontró información específica, pero este tipo de herramientas suelen ofrecer compatibilidad con plataformas como hojas de cálculo, software de presentación y herramientas de análisis de datos."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://calcgen.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=meet-the-ai-that-can-actually-use-your-pc"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/calcgen-ai/introduction"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/calcgen-ai"
+        },
+        {
+          "source_url": "https://launchtory.com/projects/calcgen-ai"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/calcgen-ai#calcgen-ai"
+        }
+      ]
+    },
+    "183": {
+      "app": {
+        "id": "183",
+        "name": "Boltic",
+        "url": "https://www.boltic.io/",
+        "short_description": "Automatice y gestione datos sin esfuerzo de principio a fin con una plataforma sencilla y fácil de mantener.",
+        "category": "Automatización",
+        "main_functionality": "Facilita la creación y gestión de flujos de trabajo complejos a través de una interfaz de arrastrar y soltar, integrando múltiples fuentes de datos y sistemas para automatizar tareas repetitivas y analizar información en tiempo real.",
+        "tags": "#AutomatizaciónDeProcesos #IntegraciónDeDatos #AnálisisEnTiempoReal #ProductividadEmpresarial",
+        "logo_filename": "id_183_boltic",
+        "what_is": "Boltic es una herramienta de automatización de procesos empresariales diseñada para ayudar a las organizaciones a integrar múltiples fuentes de datos y aplicaciones en flujos de trabajo cohesivos. Con su interfaz de usuario intuitiva y sin necesidad de programación, Boltic permite a los usuarios construir, gestionar y optimizar procesos de negocio con facilidad.",
+        "purpose": "Boltic se utiliza para:\n\nAutomatizar tareas repetitivas en diversas áreas operativas.\nIntegrar datos provenientes de múltiples aplicaciones y sistemas empresariales.\nCrear flujos de trabajo personalizados que optimicen la productividad y la eficiencia.\nProporcionar análisis en tiempo real para una mejor toma de decisiones.",
+        "use_cases": "Gestión de proyectos: Coordinación automatizada de tareas entre equipos usando diferentes herramientas.\nMarketing digital: Integración de datos de campañas publicitarias de varias plataformas para análisis centralizado.\nOperaciones empresariales: Automatización de procesos repetitivos como facturación, seguimiento de inventarios o informes financieros.\nAtención al cliente: Sincronización de datos entre CRM, chatbots y sistemas de soporte para mejorar la experiencia del cliente.",
+        "main_advantages": "Sin necesidad de programación: Permite que usuarios no técnicos implementen soluciones de automatización rápidamente.\nInterfaz intuitiva: Basada en arrastrar y soltar, lo que simplifica la creación de flujos de trabajo.\nIntegración avanzada: Conecta múltiples sistemas y aplicaciones en un único proceso automatizado.\nAnálisis en tiempo real: Ofrece insights para la optimización continua de los procesos.\nEscalabilidad: Se adapta al crecimiento y las necesidades cambiantes de las empresas.",
+        "long_description": "Boltic es una plataforma de automatización de procesos diseñada para integrar datos y sistemas empresariales en flujos de trabajo personalizados. Con una interfaz de arrastrar y soltar, facilita la creación de procesos complejos sin necesidad de habilidades de programación. Boltic permite a las organizaciones mejorar su eficiencia al automatizar tareas repetitivas, integrar herramientas diversas y analizar datos en tiempo real. Es ideal para equipos que buscan aumentar su productividad y simplificar la gestión operativa.",
+        "release_date": "No disponible",
+        "developer": "Shopsense Retail Technologies",
+        "main_model": "No disponible",
+        "pricing_plans": "Gratuito: Acceso limitado para probar la funcionalidad básica.\nPremium: Herramientas avanzadas y acceso ilimitado para flujos de trabajo personalizados (detalles específicos no disponibles).\n",
+        "license": "Propietaria",
+        "security_privacy": "Boltic garantiza la protección de los datos a través de medidas estándar en la industria, aunque no se proporcionan detalles específicos. Esto incluye la implementación de prácticas de seguridad y políticas de privacidad para asegurar la información procesada en la plataforma.",
+        "integration": "La plataforma permite la conexión con múltiples aplicaciones y sistemas, facilitando la automatización de procesos complejos y el manejo centralizado de datos empresariales."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.boltic.io/?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-s-new-legal-troubles"
+        },
+        {
+          "source_url": "https://intelliverso.com/herramientas-ia/boltic/"
+        },
+        {
+          "source_url": "https://www.boltic.io/apps"
+        },
+        {
+          "source_url": "https://www.boltic.io/privacy-policy"
+        }
+      ]
+    },
+    "281": {
+      "app": {
+        "id": "281",
+        "name": "Bricks",
+        "url": "https://www.thebricks.com/?",
+        "short_description": "una hoja de cálculo de IA que realiza tareas por ti utilizando indicaciones de lenguaje natural, sin necesidad de fórmulas ni horas de limpieza de datos.",
+        "category": "Automatización",
+        "main_functionality": "Automatiza la creación y gestión de hojas de cálculo, eliminando la necesidad de fórmulas y limpieza manual de datos.",
+        "tags": "#Automatización #HojasDeCálculo #InteligenciaArtificial\n\n",
+        "logo_filename": "id_281_bricks",
+        "what_is": "Bricks es una herramienta impulsada por inteligencia artificial que transforma la experiencia con las hojas de cálculo, permitiendo a los usuarios crear dashboards, informes y presentaciones de manera eficiente.",
+        "purpose": "Su propósito principal es automatizar tareas complejas en hojas de cálculo, eliminando la necesidad de fórmulas y limpieza manual de datos, facilitando así el análisis y la visualización de información.",
+        "use_cases": "Análisis de datos empresariales: Empresas pueden utilizar Bricks para generar informes detallados y visualizaciones que apoyen la toma de decisiones estratégicas. \nGestión de proyectos: Equipos de trabajo pueden crear cronogramas y mapas de ruta, mejorando la planificación y seguimiento de proyectos. \nEducación: Instituciones educativas y estudiantes pueden emplear Bricks para organizar información y presentar datos de manera clara y efectiva. \n",
+        "main_advantages": "Automatización de tareas: Reduce el tiempo invertido en tareas repetitivas, permitiendo a los usuarios enfocarse en análisis más profundos. \n\nFacilidad de uso: No se requiere ser un experto en hojas de cálculo; Bricks simplifica procesos complejos mediante comandos en lenguaje natural. \n\nVisualizaciones preconstruidas: Ofrece una colección de \"bloques\" predefinidos para análisis, informes y visualización de datos, como gráficos, tablas y diagramas. \nSeguridad y privacidad: Bricks prioriza la privacidad y seguridad de los datos, implementando medidas para proteger la información del usuario. ",
+        "long_description": "Bricks elimina la necesidad de dominar fórmulas complejas o invertir tiempo en la limpieza manual de datos. Utilizando comandos en lenguaje natural, los usuarios pueden generar gráficos, tablas, cronogramas y otros elementos visuales de forma rápida y precisa. La plataforma ofrece una colección de \"bloques\" predefinidos que facilitan el análisis y la visualización de datos, mejorando la eficiencia en la creación de documentos y presentaciones.",
+        "release_date": "2024",
+        "developer": "The Bricks Inc.",
+        "main_model": "No disponible.",
+        "pricing_plans": "Gratis\n$0\nusuario / mes\nAcceso completo a hojas de cálculo, tableros visuales y documentos\nPrueba de 100 mensajes de IA premium, luego 20 al mes\n500 mensajes básicos de IA/mes\nSoporte general\nCOMENZAR\nLo más popular\nPrima\n$20\nusuario / mes\nTodo en Gratis\n500 mensajes premium de IA/mes\nMensajes básicos de IA ilimitados\nSoporte prioritario\nCOMENZAR\nEmpresa\nCostumbre\npor mes\nTodo en Premium\nMensajes premium ilimitados de IA\nSoporte 24/7\nCOMENZAR",
+        "license": "No especificado",
+        "security_privacy": "Bricks está diseñado con un enfoque en la privacidad y seguridad de los datos de los usuarios. Sin embargo, no se proporciona información detallada sobre las medidas específicas implementadas. Para obtener más detalles, se sugiere consultar directamente con la empresa a través de su sitio web oficial.",
+        "integration": "Bricks permite la creación de diversos elementos visuales y documentos, como gráficos, calendarios, cronogramas, mapas de productos y organigramas, a partir de los datos de las hojas de cálculo. Sin embargo, no se especifica información sobre integraciones con otras herramientas o servicios.\n\nEn resumen, Bricks es una solución innovadora que simplifica la gestión de hojas de cálculo mediante inteligencia artificial, facilitando la creación de informes y presentaciones de manera más eficiente. Para información más detallada sobre sus características, políticas y planes de suscripción, se recomienda consultar directamente con la empresa a través de su sitio web oficial."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Tibco mejora la coherencia de marca y eficiencia documental mediante centralización de contenidos con Bricks.ai",
+          "description": "Con 1,800 empleados en 90 ubicaciones en Francia, Tibco implementó Bricks AI para centralizar contenidos, garantizar la uniformidad de documentos según la identidad corporativa y actualizar datos en tiempo real. Esto permitió a los equipos comerciales generar presentaciones rápidamente, mejorando la eficiencia y manteniendo la coherencia de la marca.",
+          "url": "https://www.bricks.ai/es/bricks-ai-x-tibco-es/?utm_source=chatgpt.com"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "iKo Solutions optimiza su eficiencia comercial mediante la centralización de contenidos con Bricks.ai",
+          "description": "Especializada en telecomunicaciones, redes y ciberseguridad, iKo Solutions utilizó Bricks AI para centralizar contenidos y facilitar la creación de documentos de ventas personalizados. La plataforma, descrita como fácil de usar y adaptable, permitió a los equipos comerciales generar materiales rápidamente, enfocándose en tareas de mayor valor añadido.",
+          "url": "https://www.bricks.ai/es/iko-solutions-x-bricks-ai-es/?utm_source=chatgpt.com"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Nexity Patrimoine mejora la eficiencia operativa y la coherencia visual mediante centralización de contenidos con Bricks.ai",
+          "description": "Vendedora de más de 2,000 viviendas nuevas en 130 ciudades de Francia, Nexity Patrimoine adoptó Bricks AI para centralizar contenidos, homogeneizar materiales comerciales según la carta gráfica y alimentar programas con datos actualizados. Esto permitió a los equipos de ventas crear presentaciones coherentes y actualizadas, respetando la imagen de marca y mejorando la eficiencia operativa. ",
+          "url": "https://www.bricks.ai/es/nexity-patrimoine-x-bricks-ai-es/?utm_source=chatgpt.com"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.thebricks.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=gemini-goes-multimodal"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/bricks-7/makers"
+        },
+        {
+          "source_url": "https://www.thebricks.com/pricing?utm_source=bricks&utm_medium=homepage"
+        },
+        {
+          "source_url": "https://www.thebricks.com/features?utm_source=bricks&utm_medium=homepage"
+        },
+        {
+          "source_url": "https://www.thebricks.com/about?utm_source=bricks&utm_medium=homepage"
+        },
+        {
+          "source_url": "https://www.bricks.ai/es/bricks-ai-x-tibco-es/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://www.bricks.ai/es/iko-solutions-x-bricks-ai-es/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://www.bricks.ai/es/nexity-patrimoine-x-bricks-ai-es/?utm_source=chatgpt.com"
+        }
+      ]
+    },
+    "282": {
+      "app": {
+        "id": "282",
+        "name": "BrandWell",
+        "url": "https://brandwell.ai/trafficID/",
+        "short_description": "Convierta el tráfico en clientes potenciales con TrafficID. Identifique a las personas reales en su sitio web sin formularios. Pruébalo de forma ilimitada durante 7 días y aumenta tu ROI.",
+        "category": "Marketing",
+        "main_functionality": "Automatiza la creación de contenido optimizado para SEO, incluyendo publicaciones en blogs, artículos y otros materiales de marketing, utilizando modelos de inteligencia artificial avanzados.",
+        "tags": "#GeneraciónDeContenido #OptimizaciónSEO #InteligenciaArtificial",
+        "logo_filename": "id_282_brand_well",
+        "what_is": "BrandWell es una plataforma integral impulsada por inteligencia artificial que facilita el crecimiento de marcas mediante la creación de contenido, optimización SEO y construcción de autoridad de marca. Ofrece herramientas que abarcan desde la generación de publicaciones en blogs hasta la creación de enlaces, proporcionando a los profesionales de marketing y agencias los recursos necesarios para alcanzar sus objetivos de crecimiento con contenido de alta calidad y análisis profundos.",
+        "purpose": "Su propósito principal es automatizar y optimizar el marketing de contenidos, permitiendo a las marcas aumentar su visibilidad en línea, mejorar su posicionamiento en motores de búsqueda y fortalecer su autoridad en el mercado.",
+        "use_cases": "Marketing de Contenidos SEO-Optimizado: Genera artículos y publicaciones de blog optimizados para SEO, mejorando la visibilidad en motores de búsqueda y atrayendo tráfico orgánico.\n\nConstrucción de Autoridad de Marca: Facilita la creación de enlaces naturales y la construcción de autoridad de dominio, fortaleciendo la presencia de la marca en línea.\n\nAgencias de Marketing: Permite a las agencias gestionar múltiples campañas de clientes, automatizando la producción de contenido y las auditorías de sitios web.",
+        "main_advantages": "Automatización Completa: La plataforma automatiza la creación de contenido, auditorías de sitios y generación de enlaces, reduciendo la carga de trabajo manual.\n\nContenido de Alta Calidad: Utiliza modelos de IA avanzados para producir contenido bien investigado y optimizado para SEO, alineado con las mejores prácticas de marketing digital.\n\nMejora del SEO: Ofrece herramientas para la investigación de palabras clave, agrupación de temas y análisis competitivo, mejorando el posicionamiento en motores de búsqueda.\n\nFacilidad de Uso: Diseñada para ser intuitiva, permite a los usuarios aprovechar las capacidades de la IA sin necesidad de experiencia técnica avanzada.",
+        "long_description": "BrandWell utiliza modelos de inteligencia artificial avanzados para automatizar la creación de contenido optimizado para SEO, incluyendo publicaciones en blogs, artículos y otros materiales de marketing. La plataforma también ofrece herramientas para la investigación de palabras clave, agrupación de temas y análisis competitivo, mejorando el posicionamiento en motores de búsqueda. Además, facilita la construcción de autoridad de marca mediante la generación de enlaces naturales y la creación de una red de editores de marca.",
+        "release_date": "No disponible",
+        "developer": "Workado LLC (DBA BrandWell)",
+        "main_model": "No disponible.",
+        "pricing_plans": "Elementos esenciales de BrandWell\nComienza a hacer crecer tu marca hoy mismo con nuestro plan Essentials.\n\n$249/mes\n1 usuario / 2 sitios\n\nTodo en WriteWell\n\nEditor de escritura totalmente integrado con IA\n\n25 créditos de artículos completamente investigados y optimizados para SEO\n\nAIMEE (chatbot de marketing superentrenado)\n\n+30 agentes especializados en IA\n\nDetector avanzado de IA y plagio\n\nTodo en RankWell\n\nPaquete de contenido RankWell\n\nOptimización SEO de artículos\n\nAnálisis de entidades, PNL y puntuación de prominencia\n\nAgrupación de temas\n\nInvestigación ilimitada de palabras clave\n\nInformes de análisis competitivo en tiempo real\n\nBacklinks Automatizados y Enlaces Internos\n\nIntegración con Google Search Console\n\nPublicación directa en Wordpress y Shopify\nPopular\nAgencia BrandWell\nPrecios basados en el volumen para equipos profesionales de 3 o más.\n\n$499/mes\n\n4 Sitios de Clientes\n\n\n\n25 Publicaciones de Blog Premium\n\n\n\n2 Usuarios\n\n\nTodo en BrandWell Essentials PLUS\n\nAcceso de marca blanca de BrandWell para usar como plataforma\n\nClientes invitados ilimitados\n\nAuditorías ilimitadas de sitios web\n\nUso ilimitado de inteligencia de contenido\n\nUso ilimitado de agentes de IA\n\nCurso de IA para Agencias de Marketing",
+        "license": "No especificado",
+        "security_privacy": "Datos Recopilados:\n\nInformación Personal: Nombre, correo electrónico, número de teléfono, dirección y otra información proporcionada voluntariamente.\nDatos de Uso: Interacciones del usuario con el servicio, como direcciones IP, páginas visitadas, duración de la sesión y preferencias.\nFinalidad del Uso:\n\nOfrecer Servicios: Para proporcionar, mantener y mejorar los servicios de BrandWell.\nComunicación: Contactar a los usuarios con notificaciones, actualizaciones o promociones relacionadas con los servicios.\nAnálisis y Mejora: Monitorear el uso del servicio para identificar problemas y oportunidades de mejora.\nCompartición de Datos:\n\nCon Terceros: Solo con proveedores de servicios esenciales (como alojamiento o análisis), bajo acuerdos estrictos de confidencialidad.\nPor Requerimiento Legal: Cuando sea necesario cumplir con leyes o responder a solicitudes legales válidas.\nProtección de Datos:\n\nBrandWell implementa medidas técnicas y organizativas para proteger la información contra accesos no autorizados o divulgación, aunque reconoce que ninguna medida es completamente infalible.\nDerechos del Usuario:\n\nAcceso y Corrección: Los usuarios pueden revisar y solicitar correcciones en su información.\nEliminación: Pueden solicitar la eliminación de sus datos personales, excepto cuando la ley exija conservarlos.\nPolítica para Niños:\nNo recopilan intencionalmente información de menores de 13 años.",
+        "integration": "BrandWell integra diversas funcionalidades en una sola plataforma, incluyendo la creación de contenido, optimización SEO y construcción de enlaces. Sin embargo, no se especifica información sobre integraciones con otras herramientas o servicios externos."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://brandwell.ai/trafficID/"
+        },
+        {
+          "source_url": "https://www.trendingaitools.com/ai-tools/brandwell-ai/"
+        },
+        {
+          "source_url": "https://ddiy.co/brandwell-review/"
+        },
+        {
+          "source_url": "https://brandwell.ai/pricing/"
+        },
+        {
+          "source_url": "https://brandwell.ai/privacy-policy/"
+        }
+      ]
+    },
+    "303": {
+      "app": {
+        "id": "303",
+        "name": "Browse AI",
+        "url": "https://www.browse.ai/?utm_source=branded&msclkid=db57f1e790fd1c346efb96bb52cda08d",
+        "short_description": "Plataforma sin código que permite extraer y monitorear datos de cualquier sitio web, transformándolos en hojas de cálculo o APIs de manera sencilla y eficiente.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Extracción y monitoreo de datos web sin necesidad de programación, facilitando la conversión de sitios web en APIs y la actualización automática de datos.",
+        "tags": "#NoCode #WebScraping #DataExtraction #APICreation",
+        "logo_filename": "id_303_browse_ai",
+        "what_is": "Browse AI es una plataforma sin código que permite a los usuarios extraer y monitorear datos de cualquier sitio web de manera sencilla y eficiente. La herramienta facilita la conversión de sitios web en APIs y la transformación de datos en hojas de cálculo, sin necesidad de conocimientos de programación. \n",
+        "purpose": "Browse AI está diseñada para automatizar la extracción y el monitoreo de datos web, permitiendo a los usuarios recopilar información estructurada de diversas fuentes en línea. Esto es especialmente útil para tareas como la vigilancia de precios, el seguimiento de competidores, la recopilación de leads y la investigación de mercado.",
+        "use_cases": "Investigación de Mercado: Analistas pueden extraer datos de productos y precios de múltiples sitios web para evaluar tendencias y realizar comparativas. \n\nMonitoreo de Competencia: Empresas pueden seguir las actualizaciones de productos y estrategias de precios de sus competidores en tiempo real. \n\nGeneración de Leads: Equipos de ventas pueden automatizar la recopilación de información de contacto de directorios en línea y plataformas profesionales. \n\nSeguimiento de Noticias: Periodistas y profesionales de medios pueden monitorear sitios web de noticias para obtener las últimas actualizaciones sobre temas específicos. ",
+        "main_advantages": "Facilidad de Uso: No se requieren habilidades de programación, lo que permite a cualquier usuario configurar robots para la extracción de datos en minutos. \n\nAutomatización Programada: Los usuarios pueden programar la extracción y el monitoreo de datos en intervalos específicos, asegurando que la información esté siempre actualizada. \n\nIntegraciones Amplias: Browse AI se integra con más de 7,000 aplicaciones, facilitando el flujo de datos hacia herramientas como Google Sheets, Airtable y Zapier.\n\nAdaptabilidad: La plataforma puede manejar cambios en el diseño de los sitios web, paginación, desplazamiento infinito y resolver captchas, garantizando una extracción de datos continua y precisa. \n",
+        "long_description": "Browse AI es una plataforma sin necesidad de programación que permite a los usuarios extraer y monitorear datos de cualquier sitio web de manera eficiente. Con funcionalidades como la conversión de sitios web en APIs y la transformación de datos en hojas de cálculo, facilita la automatización de tareas de recopilación de información sin requerir conocimientos técnicos avanzados. \n",
+        "release_date": "Septiembre 2021",
+        "developer": "Browse AI Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "Gratuito: Acceso a funcionalidades básicas con un número limitado de extracciones y monitoreos mensuales.\n\nPlanes de Pago: Ofrecen mayor capacidad de extracciones, monitoreos programados y acceso a integraciones avanzadas.",
+        "license": "Propietaria",
+        "security_privacy": "Browse AI implementa medidas de seguridad para proteger los datos de los usuarios y garantizar la privacidad durante la extracción y monitoreo de información.",
+        "integration": "La plataforma se integra con aplicaciones como Google Sheets, Zapier, Pabbly Connect, Make.com y Airtable, facilitando la transferencia de datos extraídos a diversas herramientas. Además, ofrece una API pública para integraciones personalizadas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolslist.io/best-ai-tools/"
+        },
+        {
+          "source_url": "https://www.browse.ai/?utm_source=branded&msclkid=db57f1e790fd1c346efb96bb52cda08d"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/browse-ai/"
+        },
+        {
+          "source_url": "https://eizie.ai/tools/browseai"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/browse-ai/makers"
+        },
+        {
+          "source_url": "https://www.browse.ai/pricing"
+        },
+        {
+          "source_url": "https://www.browse.ai/legal/privacy"
+        },
+        {
+          "source_url": "https://www.browse.ai/features"
+        },
+        {
+          "source_url": "https://www.browse.ai/integrations"
+        }
+      ]
+    },
+    "361": {
+      "app": {
+        "id": "361",
+        "name": "Candy Icons",
+        "url": "https://www.candyicons.com/",
+        "short_description": "Generador de íconos de aplicaciones basado en IA que facilita la creación de íconos únicos y atractivos en pocos pasos.",
+        "category": "Generación de diseño",
+        "main_functionality": "Permite a los usuarios generar íconos de aplicaciones personalizados a partir de descripciones de texto, eligiendo colores y estilos específicos para adaptarse a diversas plataformas.",
+        "tags": "#GeneraciónDeArte #DiseñoDeÍconos #IA #Personalización",
+        "logo_filename": "id_361_candy_icons",
+        "what_is": "CandyIcons es una herramienta en línea que utiliza inteligencia artificial para generar íconos de aplicaciones personalizados. Los usuarios pueden describir el ícono deseado, seleccionar colores y estilos, y la plataforma crea íconos únicos adaptados a sus necesidades.",
+        "purpose": "Facilita la creación de íconos de alta calidad para aplicaciones, sitios web y otros proyectos digitales, eliminando la necesidad de habilidades avanzadas en diseño gráfico",
+        "use_cases": "Desarrolladores que necesitan íconos personalizados para sus aplicaciones móviles o web.\nDiseñadores que buscan inspiración o desean agilizar el proceso de creación de íconos.\nEmpresas que requieren íconos coherentes con su identidad de marca para materiales digitales.",
+        "main_advantages": "Interfaz fácil de usar que permite la creación de íconos en tres simples pasos.\nAmplia variedad de estilos y colores personalizables.\nGeneración rápida de íconos únicos sin necesidad de experiencia en diseño.\nPropiedad total de los derechos de autor de los íconos adquiridos.",
+        "long_description": "CandyIcons es una plataforma en línea que permite a los usuarios crear íconos de aplicaciones personalizados mediante inteligencia artificial. El proceso es sencillo: el usuario proporciona una descripción del ícono deseado, selecciona los colores y el estilo preferidos, y la plataforma genera múltiples opciones de íconos basados en estas especificaciones. Además, ofrece una amplia biblioteca de íconos predefinidos y herramientas adicionales, como un generador de favicons y un generador de activos para iOS y macOS, facilitando la creación de íconos adaptados a diferentes plataformas y necesidades.",
+        "release_date": "Diciembre 2022",
+        "developer": "CandyIcons",
+        "main_model": "Utiliza tecnología de inteligencia artificial avanzada para la generación de íconos.",
+        "pricing_plans": "Ofrece planes de pago basados en créditos, con opciones que van desde paquetes pequeños hasta más amplios, permitiendo a los usuarios generar múltiples íconos según sus necesidades.",
+        "license": "Propietaria",
+        "security_privacy": "CandyIcons se compromete a proteger la privacidad de sus usuarios. Solo solicita información personal cuando es esencial para proporcionar sus servicios, recopilándola de manera justa y legal, con el conocimiento y consentimiento del usuario. Los datos se retienen únicamente durante el tiempo necesario para cumplir con el servicio solicitado y se protegen contra pérdidas, robos y accesos no autorizados mediante medidas comercialmente aceptables. CandyIcons no comparte información personal identificable públicamente ni con terceros, excepto cuando la ley lo requiere. Aunque su sitio web puede contener enlaces a sitios externos, no se responsabiliza por las prácticas de privacidad de estos. Los usuarios pueden negarse a proporcionar información personal; sin embargo, esto podría limitar el acceso a ciertos servicios. El uso continuo del sitio web implica la aceptación de estas prácticas de privacidad.",
+        "integration": "Ofrece compatibilidad con diversas plataformas, permitiendo la exportación de íconos en formatos adecuados para iOS, macOS y otros entornos digitales."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolslist.io/best-ai-design-tools/"
+        },
+        {
+          "source_url": "https://www.candyicons.com/"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/candyicons/"
+        },
+        {
+          "source_url": "https://www.toolpilot.ai/products/candyicons"
+        },
+        {
+          "source_url": "https://www.toolkitfusion.com/candyicons/"
+        },
+        {
+          "source_url": "https://appsumo.com/products/candyicons/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/candyicons/launches"
+        },
+        {
+          "source_url": "https://dynamicbusiness.com/ai-tools/candyicons-ai-app-icon-generator.html"
+        },
+        {
+          "source_url": "https://theresanaiforthat.com/ai/candyicons/"
+        },
+        {
+          "source_url": "https://www.toolsindex.ai/tools/candyicons"
+        },
+        {
+          "source_url": "https://toolspedia.io/ai-tool/candyicons/"
+        }
+      ]
+    },
+    "362": {
+      "app": {
+        "id": "362",
+        "name": "Booth AI",
+        "url": "https://booth.ai/",
+        "short_description": "Plataforma de generación de fotografías de productos asistida por IA que permite crear imágenes de alta calidad sin necesidad de muestras físicas ni sesiones fotográficas tradicionales.",
+        "category": "Generación de diseño",
+        "main_functionality": "Generación rápida de fotografías de productos en diversos entornos y estilos a partir de una imagen de referencia y una descripción textual, eliminando la necesidad de sesiones fotográficas físicas.",
+        "tags": "#GeneraciónDeImágenes #FotografíaDeProductos #IA #ComercioElectrónico",
+        "logo_filename": "id_362_booth",
+        "what_is": "Booth AI es una herramienta que utiliza inteligencia artificial para crear fotografías de productos de alta calidad, permitiendo a las empresas obtener imágenes profesionales sin la logística y el costo de una sesión fotográfica tradicional.",
+        "purpose": "Facilita la creación de contenido visual atractivo para plataformas de comercio electrónico, marketing y publicidad, optimizando tiempo y recursos en la producción de imágenes de productos.\n",
+        "use_cases": "Marcas de comercio electrónico que necesitan imágenes de productos en diversos entornos para sus tiendas en línea.\nEquipos de marketing que requieren contenido visual personalizado para campañas publicitarias.\nPequeñas empresas que buscan reducir costos en la producción de fotografías de productos.",
+        "main_advantages": "Generación rápida de imágenes sin necesidad de sesiones fotográficas físicas.\nReducción significativa de costos y tiempo en la producción de contenido visual.\nPersonalización de entornos y estilos para adaptarse a la identidad de la marca.\nFacilidad de uso, permitiendo a usuarios sin experiencia en fotografía obtener resultados profesionales.",
+        "long_description": "Booth AI es una solución innovadora que revoluciona la forma en que las empresas producen fotografías de productos. Mediante el uso de inteligencia artificial generativa, permite a los usuarios cargar una imagen de referencia de su producto y, a través de una descripción textual, generar imágenes en diversos entornos y estilos que se alineen con la identidad de su marca. Esta herramienta elimina la necesidad de sesiones fotográficas físicas, reduciendo costos y tiempos de producción, y ofreciendo flexibilidad para crear múltiples variaciones de imágenes según las necesidades del negocio. \n",
+        "release_date": "Diciembre 2023",
+        "developer": "Booth AI, Inc.",
+        "main_model": "Utiliza inteligencia artificial generativa para la creación de imágenes.",
+        "pricing_plans": "Ofrece una prueba gratuita y planes de pago adaptados a las necesidades de las empresas, con opciones que varían según la cantidad de imágenes generadas y las funcionalidades requeridas.",
+        "license": "Propietaria",
+        "security_privacy": "No disponible",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolslist.io/best-ai-design-tools/"
+        },
+        {
+          "source_url": "https://www.booth.ai/"
+        },
+        {
+          "source_url": "https://vivevirtual.es/inteligencia-artificial/booth-ai-genera-rapidamente-imagenes-de-productos-de-alta-calidad-con-ia/"
+        },
+        {
+          "source_url": "https://aplicaciones.ai/booth-ai/"
+        },
+        {
+          "source_url": "https://www.ycombinator.com/companies/booth-ai"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/booth-ai/launches"
+        },
+        {
+          "source_url": "https://www.geekdashboard.com/booth-ai-review/"
+        },
+        {
+          "source_url": "https://ia-tools.com/como-usar-booth-ai/"
+        },
+        {
+          "source_url": "https://photo.booth.ai/privacy-policy"
+        }
+      ]
+    },
+    "373": {
+      "app": {
+        "id": "373",
+        "name": "Buzzabout",
+        "url": "https://buzzabout.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=pika-1-5-s-playful-presets",
+        "short_description": "Obtén información impulsada por IA a partir de miles de millones de debates en las redes sociales.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Proporciona información en tiempo real sobre audiencias y tendencias mediante el análisis de conversaciones en plataformas como Reddit, TikTok y YouTube.",
+        "tags": "#AnálisisDeAudiencia #IA #RedesSociales #InvestigaciónDeMercado",
+        "logo_filename": "id_373_buzzabout",
+        "what_is": "BuzzAbout es una plataforma de inteligencia artificial que permite a las empresas analizar conversaciones en redes sociales y plataformas digitales en tiempo real para descubrir tendencias, comprender a su audiencia y tomar decisiones informadas basadas en datos.",
+        "purpose": "Se utiliza para identificar temas populares, comprender el comportamiento de la audiencia, monitorear la percepción de marca y optimizar estrategias de contenido en redes sociales.",
+        "use_cases": "Empresas de Marketing: Identificación de tendencias emergentes y análisis de la percepción de marca.\nInvestigación de Mercado: Obtención de insights sobre preferencias y comportamientos de consumidores.\nCreadores de Contenido: Identificación de temas relevantes y optimización de estrategias de contenido en plataformas como TikTok y YouTube.\nMarcas Globales: Seguimiento de campañas y análisis de menciones de marca en tiempo real.",
+        "main_advantages": "Análisis en Tiempo Real: Permite reacciones rápidas a tendencias emergentes.\nCobertura Multiplataforma: Analiza datos de múltiples redes sociales y foros digitales.\nInformación Accionable: Ofrece insights prácticos para mejorar la estrategia de contenido.\nOptimización de Recursos: Ayuda a priorizar esfuerzos en los temas y plataformas más relevantes.",
+        "long_description": "BuzzAbout es una herramienta basada en inteligencia artificial que analiza conversaciones en redes sociales y foros digitales en tiempo real. Su objetivo es proporcionar a las empresas insights prácticos sobre tendencias, percepciones de marca y comportamiento de las audiencias, ayudando a optimizar estrategias de contenido y campañas de marketing.",
+        "release_date": "Octubre 2024",
+        "developer": "No disponible",
+        "main_model": "Utiliza algoritmos de procesamiento de lenguaje natural (NLP) y análisis de datos en tiempo real. Detalles específicos no documentados.",
+        "pricing_plans": "FREE\n\n$0\n/ month\nStart for free\n\nSource: Reddit\n\n3 reports/month (limited)\n\nWeekly update tracker: \n\n1 report \n\nUnlimited AI assistance\n\nSharable reports\n\nSlack integration\n\nParallel searching\n\nExtended data depth\n\nUp to 5 seats\n\nPremium support\n\nRESEARCHER\n\n$29\n/ month\nGet plan\n\nAll sources\n\n10 reports/month \n\nWeekly update tracker: \n\n5 reports \n\nUnlimited AI assistance\n\nSharable reports\n\nSlack integration\n\nParallel searching\n\nExtended data depth\n\nUp to 5 seats\n\nPremium support\n\nPRO\n\n$129\n/ month\nGet plan\n\nAll sources\n\nUnlimited reports\n\nDaily update tracker: \n\n10 reports \n\nUnlimited AI assistance\n\nSharable reports\n\nSlack integration\n\nParallel searching\n\nExtended data depth\n\nUp to 5 seats\n\nPremium support\n\nTEAM\n\n$299\n/ month\nGet plan\n\nAll sources\n\nUnlimted reports\n\nDaily update tracker: \n\nUnlimited \n\nUnlimited AI assistance\n\nWhite-labeled sharable reports\n\nSlack integration\n\nParallel searching\n\nExtended data depth\n\nUp to 5 seats\n\nPremium support",
+        "license": "Propietaria",
+        "security_privacy": "BuzzAbout asegura la protección de los datos analizados, cumpliendo con regulaciones como GDPR y aplicando cifrado para datos en tránsito y en reposo.",
+        "integration": "Redes sociales (TikTok, Reddit, YouTube, entre otras).\nPosible compatibilidad con herramientas de gestión de redes y análisis de datos."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://buzzabout.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=pika-1-5-s-playful-presets"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/buzzabout/"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/buzzabout"
+        },
+        {
+          "source_url": "https://topai.tools/t/buzzabout"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/buzzabout/launches"
+        },
+        {
+          "source_url": "https://buzzabout.ai/pricing?utm_source=superhuman&utm_medium=referral&utm_campaign=pika-1-5-s-playful-presets"
+        },
+        {
+          "source_url": "https://buzzabout.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=pika-1-5-s-playful-presets#features"
+        },
+        {
+          "source_url": "https://buzzabout.ai/privacy?utm_source=superhuman&utm_medium=referral&utm_campaign=pika-1-5-s-playful-presets"
+        }
+      ]
+    },
+    "387": {
+      "app": {
+        "id": "387",
+        "name": "Bubble AI",
+        "url": "https://bubble.io/ai",
+        "short_description": "Plataforma sin código que facilita el desarrollo de aplicaciones web con integración de inteligencia artificial, permitiendo a usuarios y empresas crear soluciones avanzadas sin conocimientos de programación.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Creación, prueba y despliegue de aplicaciones web con capacidades de inteligencia artificial mediante herramientas visuales.",
+        "tags": "#NoCode #DesarrolloDeAplicaciones #InteligenciaArtificial #IntegraciónDeIA",
+        "logo_filename": "id_387_bubble",
+        "what_is": "Bubble AI es una plataforma sin código diseñada para simplificar la creación de aplicaciones web que integran funcionalidades de inteligencia artificial. Ofrece herramientas visuales para diseñar, desarrollar y escalar proyectos sin necesidad de escribir código.",
+        "purpose": "La aplicación permite a usuarios y empresas desarrollar aplicaciones web personalizadas con capacidades avanzadas de IA, como procesamiento del lenguaje natural, análisis de datos o automatización, utilizando modelos preexistentes de IA. Es ideal para quienes desean construir soluciones tecnológicas sin experiencia técnica.",
+        "use_cases": "Creación de plataformas web con chatbots alimentados por IA para atención al cliente.\nDesarrollo de herramientas internas de análisis de datos con procesamiento en tiempo real.\nPrototipos de aplicaciones para startups con integración de aprendizaje automático.\nAutomatización de flujos de trabajo empresariales.",
+        "main_advantages": "Permite a usuarios sin conocimientos de programación desarrollar aplicaciones web complejas.\nIntegración fluida con modelos de IA líderes como OpenAI GPT y Claude AI.\nHerramientas visuales fáciles de usar, como un editor de arrastrar y soltar.\nEscalabilidad para proyectos pequeños y grandes, desde prototipos hasta soluciones empresariales.\nComunidad activa y soporte técnico robusto.",
+        "long_description": "Bubble AI es una herramienta de desarrollo sin código que permite a los usuarios crear aplicaciones web con funcionalidades de inteligencia artificial, sin necesidad de escribir código. La plataforma incluye un editor visual de arrastrar y soltar para diseñar interfaces de usuario, conectividad con bases de datos y soporte para integrar modelos de IA como GPT-4 y Claude. Los usuarios pueden personalizar sus aplicaciones según necesidades específicas, implementar funciones avanzadas como chatbots, análisis de datos o automatización de procesos, y escalar sus proyectos fácilmente.",
+        "release_date": "Octubre 2015",
+        "developer": "Bubble Group, Inc.",
+        "main_model": "La plataforma facilita la integración con modelos de IA externos como GPT-4, pero no emplea un modelo propietario.",
+        "pricing_plans": "Plan gratuito con funcionalidades básicas.\nPlanes premium que incluyen más capacidad, funcionalidades avanzadas y opciones de personalización.\n(Detalles exactos pueden variar, consultar el sitio oficial para más información)",
+        "license": "Propietaria",
+        "security_privacy": "Proporciona medidas para garantizar la seguridad de datos alojados en aplicaciones creadas con la plataforma.\nCumple con regulaciones estándar como GDPR para protección de datos en Europa.\n(Es recomendable revisar su política de privacidad en el sitio oficial para detalles adicionales)",
+        "integration": "Compatible con APIs externas para integrar servicios adicionales.\nSoporte para modelos de IA como GPT-4 y Claude.\nCapacidad de conexión con bases de datos y otras plataformas empresariales."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/bubble-ai"
+        },
+        {
+          "source_url": "https://bubble.io/ai?irclickid=zhFyrGTd4xyKT%3AaRlBXuFRGNUkCSVPxYvzOJzo0&utm_source=Fat%20Frog%20Media&utm_medium=affiliate&utm_campaign=Online%20Tracking%20Link&utm_content=&irgwc=1"
+        },
+        {
+          "source_url": "https://aichief.com/ai-development-tools/bubble-ai/"
+        },
+        {
+          "source_url": "https://www.bestaitools.com/tool/bubble-ai/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/bubble/launches"
+        }
+      ]
+    },
+    "437": {
+      "app": {
+        "id": "437",
+        "name": "Bupple",
+        "url": "https://bupple.io/",
+        "short_description": "Haz una lluvia de ideas, genera y publica tu contenido social, todo en un solo lugar.",
+        "category": "Redes sociales",
+        "main_functionality": "Generación automatizada de ideas de contenido, creación de publicaciones (incluyendo videos cortos y carruseles), y publicación directa en diversas plataformas de redes sociales.",
+        "tags": "#IA #GestiónDeRedesSociales #GeneraciónDeContenido #Automatización #MarketingDigital",
+        "logo_filename": "id_437_bupple",
+        "what_is": "Bupple es una plataforma impulsada por inteligencia artificial diseñada para facilitar la creación, edición y publicación de contenido en redes sociales. Ofrece herramientas que permiten a los usuarios generar ideas, producir publicaciones atractivas y compartirlas en diversas plataformas desde una única interfaz.",
+        "purpose": "Su propósito principal es optimizar y simplificar el proceso de gestión de contenido en redes sociales, permitiendo a los usuarios ahorrar tiempo y esfuerzo en la creación de publicaciones, mejorar la calidad del contenido y aumentar la interacción con su audiencia.",
+        "use_cases": "Creación de Contenido para Redes Sociales: Los profesionales de marketing pueden utilizar Bupple para generar rápidamente publicaciones atractivas, incluyendo videos cortos y carruseles, adaptados a las tendencias actuales y a las preferencias de su audiencia.\n\nAutomatización del Proceso de Publicación: Empresas y emprendedores pueden programar y publicar contenido en múltiples plataformas de redes sociales desde una sola herramienta, asegurando una presencia constante y coherente en línea.\n\nGeneración de Ideas de Contenido: Creadores de contenido pueden aprovechar las capacidades de inteligencia artificial de Bupple para brainstormear y desarrollar nuevas ideas que resuenen con su audiencia, manteniendo su contenido fresco y relevante.",
+        "main_advantages": "Ahorro de Tiempo: Bupple automatiza tareas que tradicionalmente consumen mucho tiempo, como la edición de videos y la creación de publicaciones, permitiendo a los usuarios concentrarse en otras áreas estratégicas de su negocio.\n\nFacilidad de Uso: Con una interfaz intuitiva y funcionalidades impulsadas por IA, Bupple hace que la creación de contenido sea tan sencilla como enviar un mensaje a un amigo, eliminando la complejidad del proceso.\n\nIntegración Multiplataforma: Permite la publicación directa en diversas redes sociales, facilitando la gestión de múltiples cuentas y asegurando una estrategia de contenido coherente en todas las plataformas.\n\nContenido de Alta Calidad: Las herramientas de edición y generación de contenido de Bupple ayudan a producir publicaciones profesionales y atractivas que pueden aumentar la interacción y el compromiso de la audiencia.\n\nAccesibilidad: Ofrece planes de suscripción asequibles, incluyendo una prueba inicial de 7 días por $1, lo que permite a usuarios de diversos tamaños y presupuestos acceder a sus funcionalidades.",
+        "long_description": "Bupple es una plataforma impulsada por inteligencia artificial diseñada para optimizar la creación y gestión de contenido en redes sociales. Ofrece herramientas que permiten a los usuarios generar ideas de contenido, crear publicaciones atractivas—incluyendo videos cortos y carruseles—y publicarlas directamente en diversas plataformas sociales desde una única interfaz. La plataforma está diseñada para ser intuitiva, facilitando el proceso de creación de contenido de manera eficiente y efectiva.",
+        "release_date": "Diciembre 2024",
+        "developer": "Bupple ha sido desarrollada por un equipo de profesionales especializados en inteligencia artificial y marketing digital. Los detalles específicos sobre la compañía o los desarrolladores no se encuentran disponibles públicamente en este momento.",
+        "main_model": "Bupple utiliza modelos avanzados de inteligencia artificial para la generación y optimización de contenido, aunque los detalles específicos sobre los algoritmos empleados no han sido divulgados públicamente.",
+        "pricing_plans": "Bupple ofrece una prueba inicial de 7 días por $1, permitiendo a los usuarios acceder a todas las funcionalidades de creación de contenido durante este período. Los detalles sobre los planes de suscripción posteriores a la prueba no se especifican en la información disponible.",
+        "license": "Propietaria",
+        "security_privacy": "Bupple se compromete a proteger la información de sus usuarios y sigue prácticas estándar de la industria para garantizar la seguridad de los datos.",
+        "integration": "Bupple permite la publicación directa en diversas plataformas de redes sociales, facilitando la gestión de múltiples cuentas desde una sola interfaz."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://bupple.io/?utm_source=superhuman&utm_medium=referral&utm_campaign=what-to-expect-in-2025"
+        },
+        {
+          "source_url": "https://bupple.io/pricing"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/bupple"
+        },
+        {
+          "source_url": "https://recursosparaemprendedores.com/bubble-plataforma-no-code-ventajas-y-desventajas/"
+        },
+        {
+          "source_url": "https://kwfoundation.org/blog/2024/08/30/bubble-la-herramienta-para-crear-apps-sin-tocar-codigo/"
+        },
+        {
+          "source_url": "https://tupacbruch.com/bubble-io-la-herramienta-no-code-para-crear-negocios-por-internet/"
+        },
+        {
+          "source_url": "https://www.capterra.co/software/171359/bubble"
+        },
+        {
+          "source_url": "https://www.nocodehackers.es/herramientas-no-code/bubble"
+        },
+        {
+          "source_url": "https://bloo.media/blog/bubble-io/"
+        }
+      ]
+    },
+    "498": {
+      "app": {
+        "id": "498",
+        "name": "Brand24",
+        "url": "https://brand24.com/",
+        "short_description": "Herramienta para monitorear menciones en línea en tiempo real y analizar el sentimiento de las conversaciones sobre marcas en redes sociales, blogs, foros y más.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Permite identificar menciones de marca en tiempo real, realizar análisis de sentimiento y generar informes detallados para optimizar la gestión de reputación y la estrategia de marca.",
+        "tags": "#MonitoreoDeMedios #EscuchaSocial #AnálisisDeSentimiento #GestiónDeReputación #IA",
+        "logo_filename": "id_498_brand24",
+        "what_is": "Brand24 es una herramienta de monitoreo de medios que utiliza inteligencia artificial para rastrear y analizar menciones en línea relacionadas con marcas, productos o palabras clave específicas. Está diseñada para ayudar a empresas y profesionales a comprender cómo se perciben sus marcas en el entorno digital.",
+        "purpose": "Sirve para monitorear menciones en tiempo real, identificar tendencias, realizar análisis de sentimiento, detectar crisis de reputación y generar informes detallados que ayudan a las empresas a tomar decisiones estratégicas informadas sobre su imagen y comunicación.",
+        "use_cases": "Marketing: Evaluar el impacto de campañas publicitarias y optimizar estrategias basadas en las reacciones del público.\nGestión de reputación: Detectar y responder rápidamente a críticas o problemas antes de que escalen.\nAtención al cliente: Identificar preguntas o problemas que los clientes mencionan en línea para brindar respuestas rápidas.\nAnálisis de la competencia: Monitorizar lo que se dice sobre competidores y el mercado en general.\nRelaciones públicas: Crear estrategias basadas en información real sobre la percepción pública de una marca.",
+        "main_advantages": "Monitoreo en tiempo real de menciones en múltiples plataformas.\nAnálisis de sentimiento automatizado para identificar tono positivo, negativo o neutral.\nAlertas automáticas que notifican cuando hay un aumento repentino en menciones, lo que puede indicar una crisis o tendencia emergente.\nInformes personalizables para compartir datos relevantes con equipos o stakeholders.\nFacilidad de uso con una interfaz intuitiva y un sistema de soporte eficiente.",
+        "long_description": "Brand24 es una herramienta avanzada de monitoreo de medios y escucha social que permite a las empresas rastrear y analizar menciones en línea en tiempo real. Utiliza inteligencia artificial para evaluar el sentimiento de las conversaciones, identificar tendencias emergentes y detectar anomalías en la actividad relacionada con la marca. Además, ofrece funcionalidades como análisis de influencers, seguimiento de hashtags y generación de informes automatizados, facilitando la gestión de la reputación en línea y la toma de decisiones estratégicas basadas en datos precisos.",
+        "release_date": "Abril 2015",
+        "developer": "Brand24 Global Inc.,",
+        "main_model": "Brand24 emplea algoritmos de inteligencia artificial y técnicas de procesamiento de lenguaje natural (PNL) para el análisis de sentimientos y detección de tendencias.",
+        "pricing_plans": "Individual: $149 al mes ($119 al mes con facturación anual). Incluye seguimiento de 3 palabras clave, 2,000 menciones por mes, 1 usuario y actualizaciones cada 12 horas.\n\nTeam: $199 al mes ($159 al mes con facturación anual). Ofrece 7 palabras clave, 10,000 menciones por mes, usuarios ilimitados y actualizaciones cada hora.\n\nPro: $299 al mes ($239 al mes con facturación anual). Incluye 12 palabras clave, 40,000 menciones por mes, usuarios ilimitados y actualizaciones en tiempo real.\n\nEnterprise: $499 al mes ($399 al mes con facturación anual). Proporciona 25 palabras clave, 100,000 menciones por mes, usuarios ilimitados y actualizaciones en tiempo real.",
+        "license": "Propietaria",
+        "security_privacy": "Brand24 se compromete a proteger la información de sus usuarios mediante medidas de seguridad adecuadas y políticas de privacidad que garantizan la confidencialidad de los datos recopilados y procesados. Para obtener detalles específicos, se recomienda consultar la política de privacidad disponible en su sitio web oficial.",
+        "integration": "Brand24 se integra con diversas plataformas y servicios para mejorar la funcionalidad y facilitar el flujo de trabajo de los usuarios. Estas integraciones permiten una gestión más eficiente de las menciones y análisis recopilados. Para obtener una lista completa de integraciones disponibles, se sugiere visitar el sitio web oficial de Brand24."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Cómo XTB utiliza Brand24 para dominar el mercado de trading en línea",
+          "description": "XTB, una plataforma global de trading en línea, ha integrado Brand24 en su estrategia de marketing para gestionar su reputación en línea, analizar tendencias del mercado y monitorear a la competencia. Utilizando funciones impulsadas por inteligencia artificial, como análisis de sentimientos y análisis temático, XTB ha optimizado sus campañas de marketing y mejorado la satisfacción del cliente. En el tercer trimestre de 2024, la empresa registró un aumento del 60% en nuevos clientes y un incremento del 69% en clientes activos en comparación con el año anterior. ",
+          "url": "https://brand24.com/case-study/xtb/"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Optimización de la participación y la visibilidad en foros y Reddit con Brand24",
+          "description": "GreenRoom, una agencia de marketing, utilizó Brand24 para monitorear y analizar conversaciones en plataformas como Reddit y foros sobre su cliente Emporia, una startup de energía inteligente. Con Brand24, lograron centralizar el seguimiento, identificar tendencias y generar informes detallados. Esto resultó en un aumento de más del 1,000% en visualizaciones y un 300% en seguidores en Reddit, mejorando significativamente la visibilidad y el compromiso de la marca.",
+          "url": "https://brand24.com/case-study/greenroom-agency/"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Cómo el monitoreo de medios ayuda a FinTech en CX, adquisición de influencers y análisis de datos de IA",
+          "description": "Global66, una destacada empresa FinTech en América Latina, implementó Brand24 para mejorar su experiencia del cliente y estrategias de relaciones públicas. Mediante el monitoreo de menciones en redes sociales y el análisis de sentimientos, lograron transformar el 18% de las reseñas negativas en comentarios positivos para marzo de 2024. Además, identificaron y colaboraron con embajadores de marca que promocionaron sus servicios en plataformas como YouTube e Instagram, ampliando su alcance en el mercado.",
+          "url": "https://brand24.com/case-study/global66/"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/brand24"
+        },
+        {
+          "source_url": "https://brand24.com/brand-mentions-tool/?utm_medium=partnerprogram&utm_campaign=marketplacegroup&utm_term=ffm&pscd=try.brand24.com&ps_partner_key=ZmZt&ps_xid=V9OMolNbd7QiNQ&gsxid=V9OMolNbd7QiNQ&gspk=ZmZt"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/brand24-2/launches"
+        },
+        {
+          "source_url": "https://rankerstudio.com/es/brand24-que-es/"
+        },
+        {
+          "source_url": "https://www.capterra.mx/software/149054/brand24"
+        },
+        {
+          "source_url": "https://unite.ai/es/marca24-revisi%C3%B3n/"
+        },
+        {
+          "source_url": "https://brand24.com/case-study/"
+        },
+        {
+          "source_url": "https://www.socialancer.com/brand-24-socialmention/"
+        },
+        {
+          "source_url": "https://www.capterra.do/software/149054/brand24?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://brand24.com/es/precios/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://ciroapp.com/es/brand24-review/"
+        }
+      ]
+    },
+    "525": {
+      "app": {
+        "id": "525",
+        "name": "Bolt",
+        "url": "https://bolt.new/",
+        "short_description": "Solicite, ejecute, edite e implemente aplicaciones web de pila completa con indicaciones de lenguaje natural.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Generación y edición de código para aplicaciones web full-stack mediante inteligencia artificial, facilitando el desarrollo y despliegue directamente desde el navegador.",
+        "tags": "#DesarrolloWeb #IA #FullStack #NoCode",
+        "logo_filename": "id_525_bolt",
+        "what_is": "Bolt.new es una plataforma de desarrollo web impulsada por inteligencia artificial que permite a los usuarios crear, ejecutar, editar y desplegar aplicaciones web de pila completa directamente desde el navegador, sin necesidad de configuraciones locales.",
+        "purpose": "Esta herramienta está diseñada para facilitar y acelerar el proceso de desarrollo de aplicaciones web, permitiendo a desarrolladores, emprendedores y diseñadores convertir sus ideas en aplicaciones funcionales de manera eficiente y sin la complejidad de los entornos de desarrollo tradicionales.",
+        "use_cases": "Prototipado Rápido: Desarrolladores pueden crear prototipos de aplicaciones de manera ágil para presentar ideas a clientes o equipos internos. \n\nEmprendedores: Personas sin amplios conocimientos de codificación pueden materializar sus ideas en aplicaciones funcionales, facilitando la validación de conceptos y la entrada al mercado. \n\nDiseñadores: Profesionales del diseño pueden colaborar en la creación de aplicaciones web que reflejen sus visiones estéticas, sin depender completamente de desarrolladores.",
+        "main_advantages": "Eficiencia: Acelera el proceso de desarrollo, permitiendo iteraciones rápidas y despliegues inmediatos. \n\nFacilidad de Uso: Su enfoque basado en indicaciones de texto simplifica la creación de aplicaciones, haciéndola accesible incluso para usuarios con conocimientos técnicos limitados. \n\nEntorno Completo en el Navegador: Ofrece un entorno de desarrollo full-stack directamente en el navegador, eliminando la necesidad de instalaciones locales y configuraciones complejas. \n\nDespliegue Instantáneo: Permite desplegar aplicaciones en servicios como Netlify o Cloudflare con un solo clic, facilitando la publicación y compartición de proyectos.",
+        "long_description": "Bolt.new es una plataforma avanzada de desarrollo web impulsada por inteligencia artificial, creada por StackBlitz. \n Permite a los desarrolladores construir, ejecutar, editar y desplegar aplicaciones web de pila completa directamente desde el navegador, eliminando la necesidad de configuraciones locales.",
+        "release_date": "Octubre 2024",
+        "developer": "StackBlitz. \n",
+        "main_model": "Bolt.new integra modelos de inteligencia artificial avanzados para la generación y edición de código, aunque no se especifica públicamente el modelo exacto utilizado.",
+        "pricing_plans": "Pro: $20 al mes, adecuado para uso ligero y exploratorio.\n\nPro 50: $50 al mes, diseñado para uso ocasional durante la semana.\n\nPro 100: $100 al mes, ideal para uso diario.\n\nPro 200: $200 al mes, destinado a un uso intensivo como herramienta principal.",
+        "license": "Bolt.new es de código abierto y está disponible bajo la licencia MIT.",
+        "security_privacy": "La política de privacidad de StackBlitz detalla cómo recopila, utiliza y comparte información personal. Recoge datos como nombre, correo electrónico e información de pago, además de cookies y registros de actividad. Usa estos datos para mejorar sus servicios y no comparte información personal con terceros sin consentimiento. Puede divulgar datos si es requerido por ley o en casos de fusiones.",
+        "integration": "Bolt.new se integra con diversas herramientas y servicios, incluyendo:\n\nFrameworks y Bibliotecas: Soporta frameworks populares como React, Vue, Next.js, Svelte, entre otros. \n\nGestión de Paquetes: Permite la instalación de paquetes NPM y la configuración de backends, facilitando la integración con bases de datos como Supabase. \n\nDespliegue: Ofrece despliegue simplificado con soporte integrado para plataformas como Netlify y Cloudflare."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://bolt.new/?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-is-working-on-robots"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/bolt-new"
+        },
+        {
+          "source_url": "https://www.banani.co/blog/bolt-new-ai-review-and-alternatives"
+        },
+        {
+          "source_url": "https://bolt-ai.live/"
+        },
+        {
+          "source_url": "https://newsmarketech.com/tecnologia/bolt-new-la-herramienta-de-ia-que-te-ayuda-a-programar/"
+        },
+        {
+          "source_url": "https://topai.tools/t/bolt-new"
+        },
+        {
+          "source_url": "https://stackblitz.com/privacy-policy"
+        },
+        {
+          "source_url": "https://iahub.es/herramientas/bolt-new/"
+        },
+        {
+          "source_url": "https://www.aitoolnet.com/es/boltnew"
+        }
+      ]
+    },
+    "578": {
+      "app": {
+        "id": "578",
+        "name": "Browser Use",
+        "url": "https://browser-use.com/",
+        "short_description": "una herramienta que combina capacidades avanzadas de IA con una sólida automatización del navegador para que las interacciones web sean fluidas para los agentes de IA.",
+        "category": "Automatización",
+        "main_functionality": "Facilitar que agentes de IA controlen navegadores web para realizar acciones específicas en sitios web, mejorando la accesibilidad y eficiencia en tareas automatizadas.",
+        "tags": "#AutomatizaciónWeb #AgentesIA #ControlDeNavegador",
+        "logo_filename": "id_578_browser_use",
+        "what_is": "Browser Use es una herramienta que facilita la interacción de agentes de inteligencia artificial (IA) con sitios web al extraer elementos interactivos, permitiendo que los agentes se concentren en tareas específicas.",
+        "purpose": "Su propósito es hacer que los sitios web sean accesibles para agentes de IA, permitiendo automatizar acciones como aplicar a empleos, visitar enlaces y responder mensajes en plataformas como WhatsApp.",
+        "use_cases": "Automatización de Procesos: Agentes de IA pueden navegar y completar formularios en sitios web de manera autónoma, optimizando procesos como aplicaciones laborales.\n\nInteracción en Redes Sociales: Facilita que agentes de IA respondan mensajes en plataformas como WhatsApp, mejorando la eficiencia en la comunicación.\n\nExtracción de Información: Permite a los agentes de IA visitar enlaces y extraer datos relevantes de páginas web para análisis posteriores.",
+        "main_advantages": "Automatización Eficiente: Mejora la eficiencia de los agentes de IA al permitirles interactuar directamente con elementos web sin intervención humana.\n\nIntegración Sencilla: Ofrece una implementación simple mediante la instalación de un paquete, facilitando su uso en diversos proyectos de IA.\n\nVersatilidad: Compatible con múltiples tareas y plataformas, ampliando las capacidades de los agentes de IA en diferentes contextos.",
+        "long_description": "Browser Use es una herramienta que facilita la interacción de agentes de inteligencia artificial (IA) con sitios web al extraer elementos interactivos, permitiendo que los agentes se concentren en tareas específicas. Ofrece características como gestión de múltiples pestañas, seguimiento de elementos y acciones personalizadas, mejorando la eficiencia en la automatización de navegadores.",
+        "release_date": "Enero 2025",
+        "developer": "Browser Use",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No disponible",
+        "security_privacy": "No disponible",
+        "integration": "Browser Use es compatible con todos los modelos de lenguaje de gran tamaño (LLM) de LangChain, incluyendo GPT-4, Claude 3 y Llama 2, facilitando su integración en diversos proyectos de IA."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://browser-use.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-s-potentially-life-extending-model"
+        },
+        {
+          "source_url": "https://www.producthunt.com/posts/browser-use"
+        }
+      ]
+    },
+    "650": {
+      "app": {
+        "id": "650",
+        "name": "Bulletpen",
+        "url": "https://bulletpen.ai/",
+        "short_description": "Una aplicación de IA que transforma tus pensamientos hablados y divagaciones en una escritura pulida.",
+        "category": "Generación de texto",
+        "main_functionality": "Transformación de discursos hablados en escritos pulidos mediante inteligencia artificial.",
+        "tags": "#ProcesamientoDelLenguajeNatural #TranscripciónDeVoz #EscrituraAsistidaPorIA",
+        "logo_filename": "id_650_bulletpen",
+        "what_is": "Bulletpen es una aplicación de inteligencia artificial diseñada para transformar pensamientos hablados en textos escritos refinados en tiempo real. Utiliza tecnología avanzada para capturar y estructurar las ideas expresadas verbalmente, facilitando la creación de contenido escrito de alta calidad.",
+        "purpose": "La aplicación está destinada a usuarios que desean convertir sus ideas habladas en textos bien estructurados sin la necesidad de escribir manualmente. Es especialmente útil para la redacción de ensayos, artículos, historias y otros tipos de contenido escrito, permitiendo a los usuarios enfocarse en la generación de ideas mientras Bulletpen se encarga de la transcripción y refinamiento del texto. \n",
+        "use_cases": "Estudiantes y Académicos: Pueden dictar sus ideas o investigaciones y obtener ensayos o trabajos académicos bien redactados.\n\nEscritores y Autores: Facilita la creación de borradores de historias o libros al permitir la narración oral de ideas que se convierten en texto escrito.\n\nProfesionales de Negocios: Útil para la elaboración de informes, propuestas o correos electrónicos mediante la dictación de contenido.\n\nBlogueros y Creadores de Contenido: Permite la generación rápida de publicaciones de blog o contenido para redes sociales a través de la conversación.",
+        "main_advantages": "Eficiencia: Acelera el proceso de creación de contenido al eliminar la necesidad de escribir manualmente.\n\nAccesibilidad: Ofrece una alternativa para aquellos que encuentran la escritura manual desafiante o menos eficiente.\n\nVersatilidad: Admite diferentes estilos de escritura y tonos, adaptándose a diversas necesidades de contenido.\n\nInterfaz Intuitiva: Proporciona una experiencia de usuario limpia y sin distracciones, con herramientas de formato necesarias para una escritura efectiva. ",
+        "long_description": "Bulletpen es una aplicación de inteligencia artificial diseñada para transformar pensamientos hablados en textos escritos refinados en tiempo real. Utiliza tecnología avanzada para capturar y estructurar las ideas expresadas verbalmente, facilitando la creación de contenido escrito de alta calidad. La aplicación permite a los usuarios hablar de manera natural mientras Bulletpen convierte sus palabras en ensayos, artículos u otros tipos de contenido escrito bien estructurado. Además, ofrece opciones para seleccionar el tono deseado del texto, desde estilos académicos hasta narraciones más informales, y cuenta con comandos de edición impulsados por IA para pulir el contenido con precisión.",
+        "release_date": "Enero 2025",
+        "developer": "Rexan Wong / rexanwong.xyz",
+        "main_model": "No disponible",
+        "pricing_plans": "Bulletpen ofrece un plan gratuito que permite escribir y editar hasta 500 palabras generadas por IA por día. No se encontraron detalles sobre planes de suscripción adicionales o de pago.",
+        "license": "No disponible",
+        "security_privacy": "No disponible",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://bulletpen.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=deepseek-s-origin-story"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/bulletpen"
+        }
+      ]
+    },
+    "784": {
+      "app": {
+        "id": "784",
+        "name": "Bookaroozie",
+        "url": "https://bookaroozie.com/",
+        "short_description": "Lee y comprende libros con la ayuda de la IA.",
+        "category": "Educación",
+        "main_functionality": "Permite a los usuarios interactuar con libros y documentos en formatos como PDF, EPUB y DOCX, utilizando modelos de lenguaje para explicar, resumir y profundizar en el contenido, además de ofrecer herramientas de anotación y seguimiento del progreso de lectura.",
+        "tags": "#LecturaInteractiva #LLM #AnálisisDeTexto #Educación #SinSuscripción #OpenAI #Claude​",
+        "logo_filename": "id_784_bookaroozie",
+        "what_is": "Bookaroozie es una plataforma de lectura asistida por inteligencia artificial que permite a los usuarios interactuar con libros y documentos, ofreciendo explicaciones, resúmenes y análisis del contenido mediante modelos de lenguaje avanzados.",
+        "purpose": "Facilita la comprensión profunda de textos complejos, permitiendo a los lectores hacer preguntas, obtener aclaraciones y guardar anotaciones directamente en el documento, mejorando la experiencia de lectura y aprendizaje.",
+        "use_cases": "Estudiantes que buscan entender mejor materiales académicos, profesionales que necesitan analizar documentos extensos, lectores interesados en profundizar en novelas o textos complejos, y cualquier persona que desee una experiencia de lectura más interactiva y personalizada.",
+        "main_advantages": "Interacción directa con el contenido mediante IA, soporte para múltiples formatos de documentos, opción de utilizar modelos de lenguaje preferidos, interfaz de lectura sin distracciones, y modelo de pago único sin suscripciones recurrentes.​\nHerramientas Futuras.",
+        "long_description": "Bookaroozie es una herramienta de lectura potenciada por inteligencia artificial que transforma la manera en que los usuarios interactúan con libros y documentos. Al permitir conversaciones en tiempo real con el contenido, los lectores pueden aclarar dudas, obtener explicaciones detalladas y profundizar en temas específicos. La plataforma soporta formatos como PDF, EPUB, DOCX y TXT, y ofrece funciones como resaltado de texto, anotaciones, exportación de notas y seguimiento del progreso de lectura. Además, los usuarios pueden elegir entre diferentes modelos de lenguaje, como OpenAI y Claude, para personalizar su experiencia. Con una interfaz limpia y sin distracciones, Bookaroozie se posiciona como una alternativa innovadora a los lectores tradicionales, ofreciendo una experiencia de lectura más rica y envolvente.",
+        "release_date": "Abril 2025​",
+        "developer": "Astramind Technologies Private Limited",
+        "main_model": "Utiliza modelos de lenguaje de gran escala (LLM) como OpenAI y Claude para generar explicaciones y respuestas basadas en el contenido del documento.",
+        "pricing_plans": "Ofrece un modelo de pago único con tres planes: Gratuito (1 documento), Estándar ($39, hasta 60 documentos) y Pro ($69, documentos ilimitados y búsqueda web próximamente).",
+        "license": "Propietaria",
+        "security_privacy": "Bookaroozie recopila información básica del usuario para mejorar el servicio y garantiza la protección de los datos mediante medidas de seguridad estándar. No comparte información personal con terceros sin consentimiento.",
+        "integration": "Permite el uso de claves API propias para integrar modelos de lenguaje preferidos y próximamente ofrecerá búsqueda web integrada en el plan Pro."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://bookaroozie.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=how-to-build-smarter-in-the-ai-era"
+        },
+        {
+          "source_url": "https://poweredbyai.app/project/bookaroozie"
+        },
+        {
+          "source_url": "https://www.reddit.com/r/ProductHunters/comments/1k3h61x/launched_a_kindle_alternative_on_product_hunt/"
+        },
+        {
+          "source_url": "https://www.futuretools.io/tools/bookaroozie"
+        },
+        {
+          "source_url": "https://www.expify.ai/categories/educational-tools/ai-tool-bookaroozie"
+        },
+        {
+          "source_url": "https://www.producthunt.com/posts/bookaroozie"
+        },
+        {
+          "source_url": "https://www.toptool.app/en/product/bookaroozie"
+        },
+        {
+          "source_url": "https://oncely.com/products/bookaroozie-discount-deal"
+        }
+      ]
+    },
+    "811": {
+      "app": {
+        "id": "811",
+        "name": "Boxo",
+        "url": "https://www.boxo.io/ai",
+        "short_description": "Integre instantáneamente pantallas generadas por IA en su aplicación móvil, sin necesidad de una integración compleja.",
+        "category": "Codificación",
+        "main_functionality": "Integración de miniaplicaciones generadas por IA en aplicaciones móviles existentes utilizando un SDK unificado, facilitando la expansión de funcionalidades sin afectar el rendimiento nativo.",
+        "tags": "#DesarrolloMóvil #Miniapps #IntegraciónIA #SuperApp #SDKUnificado​",
+        "logo_filename": "id_811_boxo",
+        "what_is": "Boxo es una plataforma que permite a los desarrolladores integrar rápidamente funcionalidades generadas por inteligencia artificial en sus aplicaciones móviles existentes mediante miniaplicaciones personalizables.",
+        "purpose": "Facilita la expansión de las capacidades de una aplicación móvil al permitir la incorporación de nuevas funcionalidades, como chatbots, marketplaces o servicios de viaje, sin necesidad de reescribir el código base ni pasar por procesos de aprobación de tiendas de aplicaciones.",
+        "use_cases": "Aplicaciones financieras que integran servicios de eSIM para viajeros, plataformas de comercio electrónico que añaden marketplaces internos, o aplicaciones de estilo de vida que incorporan sistemas de reservas y programas de fidelización.",
+        "main_advantages": "Implementación rápida de nuevas funcionalidades, integración sin fricciones mediante un SDK unificado, mantenimiento de rendimiento nativo, y posibilidad de monetización a través de miniaplicaciones de terceros.",
+        "long_description": "Boxo es una plataforma diseñada para transformar aplicaciones móviles en Super Apps mediante la integración de miniaplicaciones generadas por inteligencia artificial. Utilizando un SDK unificado, los desarrolladores pueden incorporar nuevas funcionalidades, como chatbots, marketplaces, servicios de viaje y más, sin necesidad de reescribir el código base ni pasar por procesos de aprobación de tiendas de aplicaciones. Las miniaplicaciones se cargan bajo demanda, están aisladas para evitar conflictos y no aumentan el tamaño de la aplicación principal.",
+        "release_date": "2020",
+        "developer": "Boxo (anteriormente Appboxo), con sede en Singapur",
+        "main_model": "No disponible",
+        "pricing_plans": "Información no disponible públicamente; se recomienda contactar directamente a Boxo para detalles sobre planes y precios.",
+        "license": "Propietaria",
+        "security_privacy": "Boxo implementa medidas de seguridad de nivel empresarial, incluyendo cifrado de datos en reposo y en tránsito, cumplimiento con estándares como GDPR y PCI-DSS, y monitoreo de solicitudes inusuales para prevenir accesos no autorizados.",
+        "integration": "Boxo proporciona un SDK unificado compatible con múltiples plataformas de desarrollo móvil, permitiendo la integración de miniaplicaciones generadas por diversas herramientas de IA como Lovable, v0, Bolt y Replit.​"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "KOHO mejora la conectividad global de sus usuarios mediante integración de eSIM con Boxo y Airalo",
+          "description": "KOHO, empresa fintech canadiense, integró una miniaplicación de eSIM desarrollada por Boxo y Airalo en su plataforma. Esta solución permite a sus usuarios adquirir y activar eSIMs directamente desde la app, facilitando la conectividad internacional y reduciendo significativamente los costos de roaming.",
+          "url": "https://www.boxo.io/case-studies"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "GCash impulsa la participación de usuarios mediante integración de plataforma de e-commerce con Boxo",
+          "description": "GCash, la principal aplicación de pagos móviles en Filipinas, implementó la miniaplicación de Marketplace de Boxo para lanzar una plataforma de comercio electrónico dentro de su propia app. Esta integración mejoró la experiencia de compra y aumentó el compromiso de los usuarios al ofrecer una solución comercial directamente accesible desde su ecosistema financiero.",
+          "url": "https://www.boxo.io/case-studies"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "VodaPay se consolida como super app financiera mediante integración de centro comercial con Boxo",
+          "description": "VodaPay, plataforma de pagos líder en Sudáfrica, integró un centro comercial dentro de su aplicación utilizando la tecnología de miniaplicaciones de Boxo. Esta expansión de funcionalidades transformó la app en una super app financiera, ampliando sus servicios y mejorando significativamente la retención de usuarios.",
+          "url": "https://www.boxo.io/case-studies"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.boxo.io/ai?utm_source=superhuman&utm_medium=referral&utm_campaign=why-frontier-firms-are-thriving"
+        },
+        {
+          "source_url": "https://www.boxo.io/case-studies"
+        },
+        {
+          "source_url": "https://www.aisharenet.com/en/boxo/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/posts/boxo-2"
+        }
+      ]
+    },
+    "855": {
+      "app": {
+        "id": "855",
+        "name": "Buzz Clip",
+        "url": "https://www.buzzclip.io/",
+        "short_description": "Crea TikToks virales de IA y anuncios UGC en menos de un minuto.",
+        "category": "Redes sociales",
+        "main_functionality": "Creación automatizada de videos UGC para redes sociales mediante avatares animados y herramientas de edición impulsadas por inteligencia artificial.",
+        "tags": "#IA #UGC #AvataresAI #VideoMarketing #SincronizaciónLabial #Multilenguaje",
+        "logo_filename": "id_855_buzzclip",
+        "what_is": "BuzzClip es una plataforma de inteligencia artificial que facilita la creación de videos de contenido generado por el usuario (UGC) para redes sociales, utilizando avatares fotorealistas y herramientas de edición automatizadas.",
+        "purpose": "Está diseñada para ayudar a marcas y creadores de contenido a producir videos atractivos y personalizados de manera rápida y rentable, optimizando su presencia en plataformas como TikTok y YouTube Shorts.",
+        "use_cases": "Creación de anuncios publicitarios con avatares personalizados.\n\nGeneración de contenido educativo o tutoriales sin necesidad de aparecer en cámara.\n\nProducción de videos en múltiples idiomas para audiencias globales.\n\nA/B testing de diferentes versiones de contenido para campañas de marketing.",
+        "main_advantages": "Reducción significativa del tiempo y costos de producción de videos.\n\nAcceso a más de 150 avatares personalizables.\n\nSincronización labial precisa en más de 29 idiomas.\n\nPublicación directa en plataformas sociales como TikTok y YouTube.\n\nDerechos comerciales completos sobre los videos creados.",
+        "long_description": "BuzzClip es una plataforma avanzada de inteligencia artificial que permite a los usuarios crear videos de contenido generado por el usuario (UGC) de manera eficiente y personalizada. Utilizando una amplia biblioteca de avatares fotorealistas, herramientas de sincronización labial y generación de voz en múltiples idiomas, BuzzClip facilita la producción de contenido atractivo para redes sociales. La plataforma ofrece opciones de personalización detalladas, incluyendo la creación de avatares únicos y la integración de música y efectos visuales, todo dentro de un flujo de trabajo optimizado para la rapidez y la calidad.",
+        "release_date": "Febrero 2025",
+        "developer": "BuzzClip Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "Starter: $19/mes – 15 videos UGC, 15 voces en off, acceso a 150+ avatares, publicación en 1 cuenta de TikTok.\n\nGrowth: $49/mes – 50 videos UGC, 50 voces en off, publicación en múltiples cuentas de TikTok.\n\nScale: $95/mes – 120 videos UGC, 150 voces en off, publicación en múltiples cuentas de TikTok.",
+        "license": "Propietaria",
+        "security_privacy": "BuzzClip asegura que los avatares generados no están basados en personas reales y ofrece opciones de etiquetado claro para contenido generado por IA. La plataforma establece políticas estrictas contra el uso indebido o aplicaciones engañosas.",
+        "integration": "Permite la publicación directa en TikTok y YouTube Shorts, y ofrece gestión de múltiples cuentas desde un solo panel de control."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.buzzclip.io/?utm_source=superhuman&utm_medium=referral&utm_campaign=native-image-gen-unlocks-these-five-new-capabilities"
+        },
+        {
+          "source_url": "https://www.futuretools.io/tools/buzzclip"
+        },
+        {
+          "source_url": "https://www.saasworthy.com/product/buzzclip-io"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/buzzclip"
+        },
+        {
+          "source_url": "https://www.eliteai.tools/tool/buzzclip"
+        }
+      ]
+    },
+    "876": {
+      "app": {
+        "id": "876",
+        "name": "Boltweb",
+        "url": "https://www.boltweb.co/",
+        "short_description": "Cree sitios web y páginas de destino premium únicos e icónicos sin esfuerzo con el creador web de IA.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Generación automática de sitios web y páginas de aterrizaje a partir de descripciones textuales, con opciones de edición y exportación de código.",
+        "tags": "#GenerativeAI #WebBuilder #LandingPages #NoCode #AIWebDesign",
+        "logo_filename": "id_876_boltweb",
+        "what_is": "Boltweb es una herramienta basada en inteligencia artificial que permite a los usuarios crear sitios web y páginas de aterrizaje de manera rápida y sencilla, a partir de descripciones textuales.",
+        "purpose": "Está diseñada para facilitar la creación de sitios web personalizados sin necesidad de conocimientos técnicos, siendo ideal para emprendedores, pequeñas empresas y profesionales del marketing que buscan establecer una presencia en línea de forma eficiente.\n",
+        "use_cases": "Creación de páginas de aterrizaje para campañas de marketing.\n\nDesarrollo de sitios web para productos o servicios específicos.\n\nGeneración de prototipos de sitios web para validación de ideas de negocio.",
+        "main_advantages": "Interfaz intuitiva y fácil de usar.\n\nGeneración rápida de sitios web personalizados.\n\nOpciones de edición y personalización del diseño.\n\nExportación del código fuente en formatos HTML, TSX y JSX.",
+        "long_description": "Boltweb es una plataforma de creación de sitios web que utiliza inteligencia artificial para generar páginas de aterrizaje y sitios completos a partir de descripciones textuales proporcionadas por el usuario. La herramienta permite editar y personalizar el diseño generado, así como exportar el código fuente en formatos HTML, TSX y JSX. Boltweb está diseñada para ser accesible a usuarios sin experiencia en diseño o programación, ofreciendo una solución eficiente para establecer una presencia en línea.",
+        "release_date": "No disponible",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "No disponible",
+        "license": "Propietaria.",
+        "security_privacy": "No disponible.",
+        "integration": "No disponible."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.boltweb.co/?utm_source=superhuman&utm_medium=referral&utm_campaign=china-keeps-shipping"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/boltweb"
+        }
+      ]
+    },
+    "878": {
+      "app": {
+        "id": "878",
+        "name": "Canny",
+        "url": "https://canny.io/",
+        "short_description": "Ahorre tiempo, capture todos los comentarios y descubra información valiosa de los clientes sin esfuerzo con IA.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Recolección, organización y análisis automatizado de retroalimentación de usuarios para informar decisiones de desarrollo de productos.",
+        "tags": "#GestiónDeRetroalimentación #IA #Automatización #DesarrolloDeProductos #SaaS",
+        "logo_filename": "id_878_canny",
+        "what_is": "Canny es una plataforma de gestión de retroalimentación que permite a las empresas recopilar, organizar y analizar las opiniones de los usuarios para mejorar sus productos. Incorpora funciones de inteligencia artificial para automatizar tareas como la recopilación de comentarios, la identificación de solicitudes duplicadas y la priorización de características.",
+        "purpose": "Sirve para centralizar la retroalimentación de los clientes, facilitando la toma de decisiones informadas en el desarrollo de productos y manteniendo a los usuarios actualizados sobre los avances y cambios implementados.",
+        "use_cases": "Recopilación de solicitudes de funciones y comentarios de usuarios en un solo lugar.\n\nPriorización de características basadas en el impacto y la demanda del cliente.\n\nCreación de hojas de ruta públicas o privadas para mantener informados a los stakeholders.\n\nAutomatización de respuestas a comentarios mediante inteligencia artificial.\n\nAnálisis de retroalimentación para identificar tendencias y necesidades del mercado.",
+        "main_advantages": "Automatización de la gestión de retroalimentación, ahorrando tiempo y recursos.\n\nIntegración con herramientas populares como Intercom, Zendesk, HubSpot y Salesforce.\n\nMejora en la satisfacción del cliente al demostrar que sus opiniones son valoradas y consideradas.\n\nFacilita la colaboración entre equipos al centralizar la información relevante para el desarrollo de productos.",
+        "long_description": "Canny es una solución integral para la gestión de retroalimentación de clientes, diseñada para ayudar a las empresas a construir mejores productos basados en las necesidades reales de los usuarios. La plataforma permite recopilar comentarios de diversas fuentes, organizarlos y analizarlos para identificar las características más solicitadas. Con su suite de herramientas impulsadas por inteligencia artificial, como Autopilot, Canny automatiza tareas repetitivas como la detección de duplicados, la priorización de solicitudes y la generación de respuestas automáticas. ",
+        "release_date": "No disponible",
+        "developer": "Canny Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "Ofrece un plan gratuito con funcionalidades básicas y planes de pago con características avanzadas, adaptados a las necesidades de diferentes tamaños de empresa.",
+        "license": "Propietaria",
+        "security_privacy": "Cumple con estándares de seguridad como SOC 2 Tipo II y regulaciones de privacidad como GDPR y CCPA, garantizando la protección de los datos de los usuarios. ",
+        "integration": "Canny se integra con una variedad de herramientas, incluyendo Intercom, Zendesk, HubSpot, Salesforce, Jira, ClickUp y Asana, facilitando la incorporación de la retroalimentación en los flujos de trabajo existentes. "
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Ahrefs mejora la gestión de retroalimentación y comunicación con clientes mediante Canny",
+          "description": "Ahrefs implementó Canny para rastrear solicitudes de funciones y gestionar de forma eficiente las expectativas de sus usuarios. Esta herramienta facilita una comunicación más clara con los clientes y prioriza el desarrollo de funcionalidades basadas en necesidades reales del mercado.",
+          "url": "https://canny.io/case-studies/ahrefs"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "CircleCI optimiza decisiones de producto utilizando Canny como plataforma central de retroalimentación",
+          "description": "CircleCI utiliza Canny como su herramienta principal para recopilar y analizar retroalimentación de usuarios. Esta integración permite al equipo de producto tomar decisiones más informadas y alineadas con las necesidades de sus clientes, fortaleciendo su desarrollo continuo.",
+          "url": "https://canny.io/case-studies/circleci"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Mercury incrementa eficiencia y productividad mediante la implementación de Canny",
+          "description": "Mercury adoptó Canny para gestionar la retroalimentación de usuarios, lo que resultó en una mejora significativa en la eficiencia operativa y la productividad del equipo. La herramienta facilitó una priorización más efectiva del desarrollo de productos basada en las necesidades reales de los clientes.",
+          "url": "https://canny.io/case-studies/mercury"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "ClickUp gestiona la retroalimentación de su base de usuarios en expansión con Canny",
+          "description": "ClickUp utiliza Canny para rastrear y organizar la retroalimentación de su creciente comunidad de usuarios. Esta herramienta permite al equipo priorizar mejoras y nuevas funcionalidades, alineando el desarrollo del producto con las necesidades reales del mercado.",
+          "url": "https://canny.io/case-studies/clickup"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://canny.io/?utm_source=superhuman&utm_medium=referral&utm_campaign=claude-s-new-connections"
+        },
+        {
+          "source_url": "https://canny.io/case-studies"
+        },
+        {
+          "source_url": "https://www.reddit.com/r/ProductManagement/comments/18cvj9g/is_featurebaseapp_a_good_replacement_for_cannyio/"
+        },
+        {
+          "source_url": "https://canny.io/use-cases"
+        },
+        {
+          "source_url": "https://canny.io/pricing"
+        },
+        {
+          "source_url": "https://canny.io/privacy"
+        }
+      ]
+    },
+    "968": {
+      "app": {
+        "id": "968",
+        "name": "Brizy",
+        "url": "https://www.brizy.io/brizy-ai-website-builder",
+        "short_description": "Crea sitios web profesionales en segundos sin escribir ningún código.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Generación automatizada de sitios web personalizados utilizando inteligencia artificial, con opciones de personalización y edición mediante un editor visual.",
+        "tags": "#GeneraciónDeSitiosWeb #IA #EditorVisual #WhiteLabel #NoCode",
+        "logo_filename": "id_968_brizyai",
+        "what_is": "Brizy AI Website Builder es una herramienta que utiliza inteligencia artificial para generar sitios web completos en cuestión de segundos, ofreciendo plantillas personalizables y un editor visual intuitivo.",
+        "purpose": "Sirve para facilitar la creación rápida de sitios web profesionales, permitiendo a usuarios sin experiencia técnica desarrollar páginas atractivas y funcionales.",
+        "use_cases": "Agencias de marketing que necesitan crear múltiples sitios web para clientes.\n\nFreelancers que buscan una solución rápida para desarrollar portafolios o páginas personales.\n\nEmpresas que desean establecer una presencia en línea sin invertir en desarrollo web tradicional.",
+        "main_advantages": "Generación rápida de sitios web mediante IA.\n\nEditor visual de arrastrar y soltar fácil de usar.\n\nOpciones de marca blanca para agencias.\n\nIntegración con herramientas de marketing y CRM.",
+        "long_description": "Brizy AI Website Builder es una solución que permite a usuarios crear sitios web completos utilizando inteligencia artificial. La plataforma genera automáticamente páginas basadas en entradas como el nombre de la empresa y su industria, ofreciendo diseños adaptados y contenido relevante. Los usuarios pueden personalizar estos sitios mediante un editor visual intuitivo, sin necesidad de conocimientos de programación. Además, Brizy ofrece opciones de marca blanca, permitiendo a agencias y revendedores ofrecer la herramienta bajo su propia marca.",
+        "release_date": "Abril 2024",
+        "developer": "ProWebCraft LTD",
+        "main_model": "No disponible",
+        "pricing_plans": "Personal: $19/mes para 1 sitio web, incluye hosting premium y soporte.\n\nFreelancer: $108/año para hasta 25 sitios web, incluye funciones PRO y soporte premium.\n\nAgencia: $192/año para hasta 50 sitios web, incluye funciones PRO y soporte prioritario.\n\nWhite Label: $300/año para hasta 100 sitios web, permite personalización completa de la marca.\n\nEnterprise: Precios personalizados con acceso completo a la API y soporte dedicado.",
+        "license": "Propietaria",
+        "security_privacy": "Brizy cumple con el Reglamento General de Protección de Datos (GDPR) y otras normativas de privacidad, asegurando la protección de los datos de los usuarios.",
+        "integration": "Brizy se integra con diversas herramientas de marketing y CRM, como ActiveCampaign, Calendly, Constant Contact, HubSpot y Zapier."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.brizy.io/brizy-ai-website-builder?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-s-new-coding-agent"
+        },
+        {
+          "source_url": "https://appsumo.com/products/brizy/?srsltid=AfmBOoojzWah-yjFyqNyHqd8EJTJO1xmE94jATkRrdwPgR5jAMPR96DW"
+        },
+        {
+          "source_url": "https://www.designrush.com/news/brizy-introduces-first-ai-driven-white-label-website-builder"
+        },
+        {
+          "source_url": "https://www.globenewswire.com/news-release/2024/07/02/2907185/0/en/Brizy-Unveils-Industry-First-White-Label-AI-Builder-A-Turnkey-Growth-Engine-for-Agencies-SaaS.html"
+        },
+        {
+          "source_url": "https://www.techradar.com/reviews/brizy-website-builder"
+        },
+        {
+          "source_url": "https://www.producthunt.com/posts/brizy-ai-website-builder"
+        },
+        {
+          "source_url": "https://leadiq.com/c/brizy/601b8acb411f372b406f82a8"
+        },
+        {
+          "source_url": "https://www.b12.io/resource-center/website-design/is-brizys-ai-website-builder-right-for-you/"
+        },
+        {
+          "source_url": "https://www.brizy.io/privacy-policy"
+        }
+      ]
+    },
+    "993": {
+      "app": {
+        "id": "993",
+        "name": "Boomi Agentstudio",
+        "url": "https://boomi.com/platform/agentstudio/",
+        "short_description": "Diseñe, gobierne y organice todos los agentes de IA a escala para desbloquear la hiperproductividad de manera responsable.",
+        "category": "Automatización",
+        "main_functionality": "Diseño, gobernanza y orquestación de agentes de IA en un entorno unificado, facilitando su integración en procesos empresariales y garantizando cumplimiento y seguridad.",
+        "tags": "#AgentesIA #OrquestaciónIA #AutomatizaciónEmpresarial #GobernanzaIA #NoCode #Integración",
+        "logo_filename": "id_993_boomilp",
+        "what_is": "Boomi Agentstudio es una plataforma que proporciona un entorno integral para el diseño, gestión y orquestación de agentes de inteligencia artificial, permitiendo a las organizaciones implementar soluciones de IA de manera eficiente y segura.",
+        "purpose": "Sirve para centralizar y simplificar la creación y gestión de agentes de IA, integrándolos en procesos empresariales existentes, asegurando el cumplimiento normativo y facilitando la colaboración entre diferentes herramientas y plataformas.",
+        "use_cases": "Automatización de procesos de atención al cliente mediante agentes de IA.\n\nOptimización de flujos de trabajo en departamentos de finanzas y recursos humanos.\n\nIntegración de agentes de IA en sistemas de gestión de inventarios y cadena de suministro.\n\nDesarrollo de agentes personalizados para análisis de datos y generación de informes.",
+        "main_advantages": "Interfaz intuitiva y sin necesidad de programación para el diseño de agentes.\n\nCapacidades de gobernanza y cumplimiento integradas.\n\nCompatibilidad con agentes de terceros y plataformas como Amazon Bedrock.\n\nAcceso a un mercado de agentes preconstruidos y personalizables.\n\nMonitoreo en tiempo real y métricas de observabilidad para una gestión proactiva.",
+        "long_description": "Boomi Agentstudio es una solución integral diseñada para facilitar a las organizaciones la creación, gestión y orquestación de agentes de inteligencia artificial. La plataforma ofrece herramientas como Agent Designer, que permite diseñar agentes mediante plantillas sin código; Agent Control Tower, para monitorear y gobernar agentes de Boomi y terceros; Agent Garden, un espacio unificado para interactuar con agentes utilizando lenguaje natural; y Agent Marketplace, un centro para acceder a agentes preconstruidos y personalizables. Estas capacidades permiten a las empresas integrar agentes de IA en sus procesos existentes, asegurando cumplimiento normativo, seguridad y eficiencia operativa.",
+        "release_date": "Mayo 2025",
+        "developer": "Boomi, LP",
+        "main_model": "No disponible",
+        "pricing_plans": "No disponible",
+        "license": "Propietaria",
+        "security_privacy": "Incluye controles de acceso, registros de auditoría y cumplimiento normativo integrado para garantizar la seguridad y privacidad en la gestión de agentes de IA.",
+        "integration": "Compatible con agentes de terceros y plataformas como Amazon Bedrock, facilitando una integración fluida en ecosistemas tecnológicos existentes."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Jade Global acelera procesos empresariales mediante implementación de agentes de IA en múltiples áreas",
+          "description": "Jade Global desplegó más de 20 agentes de inteligencia artificial en departamentos clave como finanzas, atención al cliente y cadena de suministro. Esta estrategia permitió reducir el tiempo de desarrollo en más del 65%, optimizando significativamente la eficiencia operativa en diversas funciones empresariales.",
+          "url": "https://boomi.com/customers/"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "United Techno optimiza la gestión de agentes de IA mediante implementación segura y escalable con Boomi Agentstudio",
+          "description": "United Techno adoptó Boomi Agentstudio para gestionar de forma integral el ciclo de vida de sus agentes de inteligencia artificial. La plataforma permitió una implementación segura y escalable, mejorando la eficiencia operativa y la adaptabilidad tecnológica de la empresa.",
+          "url": "https://boomi.com/customers/"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Bits in Glass acelera la entrega de soluciones personalizadas mediante desarrollo ágil de agentes de IA",
+          "description": "Bits in Glass desarrolló agentes de inteligencia artificial personalizados para sus clientes, logrando implementar soluciones listas para producción en cuestión de semanas. Esta rapidez fue posible gracias a la practicidad y potencia de la plataforma utilizada, optimizando los tiempos de entrega sin comprometer la calidad.",
+          "url": "https://boomi.com/customers/"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://boomi.com/platform/agentstudio/?utm_source=3rdparty&utm_medium=website&utm_campaign=&utm_keyword=Superhuman-NL&utm_content=feat-tool-ad"
+        },
+        {
+          "source_url": "https://www.elevatiq.com/post/boomi-ai-studio/"
+        },
+        {
+          "source_url": "https://erp.today/boomi-launches-ai-studio-to-manage-the-agentic-ai-revolution/"
+        },
+        {
+          "source_url": "https://intellyx.com/2025/05/23/boomi-delivers-agentstudio-for-ai-agent-development/"
+        },
+        {
+          "source_url": "https://thenewstack.io/boomi-delivers-agentstudio-for-ai-agent-development/"
+        },
+        {
+          "source_url": "https://itdaily.com/news/software/boomo-agentstudio-mcp-rivery"
+        }
+      ]
+    },
+    "1123": {
+      "app": {
+        "id": "1123",
+        "name": "BrowserAct",
+        "url": "https://www.browseract.com/",
+        "short_description": "Raspe cualquier sitio web y extraiga datos web sin codificación.",
+        "category": "Automatización",
+        "main_functionality": "Automatiza extracciones de datos y tareas de navegación (scroll, clicks, formularios, login) usando prompts en lenguaje natural, adaptándose a cambios en la página, y eludiendo captchas o restricciones geográficas mediante IPs residenciales.",
+        "tags": "#Automatización #WebScraping #NoCode #NLP #BypassCAPTCHA #ResidencialIP",
+        "logo_filename": "id_1123_browseract",
+        "what_is": "Es una herramienta basada en navegador que utiliza inteligencia artificial para permitir la automatización y extracción de datos web sin programación, mediante instrucciones en lenguaje natural.",
+        "purpose": "Sirve para automatizar flujos de trabajo web complejos y recopilar datos estructurados de cualquier sitio, todo de forma visual y sin escribir una sola línea de código.",
+        "use_cases": "Investigación académica y periodística: scraping de artículos, ensayos, estadísticas.\n\nMonitorización de precios, análisis competitivo, extracción de datos de e-commerce.\n\nScraping de perfiles sociales (YouTube, TikTok): vistas, likes, subscriptores, comentarios.\n\nScraping de ofertas de empleo (por ejemplo Indeed): títulos, salarios, ubicación.",
+        "main_advantages": "No requiere conocimientos técnicos (No‑Code).\n\nGenera flujos adaptativos y resilientes (scripts self‑healing) frente a cambios.\n\nEmulación de comportamiento humano: evade bloqueos y captchas.\n\nCobertura global con IPs residenciales para evitar restricciones geográficas.",
+        "long_description": "BrowserAct es una avanzada plataforma de automatización web basada en IA que permite crear agentes o workflows mediante lenguaje natural para realizar tareas como scraping, navegación, formulación, clicks y extracción de datos de cualquier página. Integra bloqueo de anuncios, IPs residenciales, bypass automático de captchas y scripts autoadaptables—todo en una interfaz fácil de usar—ideal para profesionales que requieren datos actualizados sin escribir código.",
+        "release_date": "No disponible",
+        "developer": "Utiliza modelos de NLP y visión computacional para interpretar estructuras web en lenguaje natural y adaptarse a cambios; scripts autoconfigurables o “self‑healing”. Detalles exactos no están disponibles.",
+        "main_model": "Utiliza modelos de NLP y visión computacional para interpretar estructuras web en lenguaje natural y adaptarse a cambios; scripts autoconfigurables o “self‑healing”. Detalles exactos no están disponibles.",
+        "pricing_plans": "Freemium: prueba gratuita con 1 000 créditos diarios. \n\nPago por uso: compra de créditos (ej. $1 por 1 000 créditos, con descuento inicial).",
+        "license": "Propietaria (SaaS)",
+        "security_privacy": "Ofrece bypass de captchas y navegación human-like manteniendo privacidad, sin necesidad de exponer datos del usuario. \n\nNo se especifican políticas detalladas de privacidad o certificaciones, pero hay énfasis en prácticas éticas y cumplimiento legal en blogs.",
+        "integration": "Permite exportar resultados como CSV, JSON, integraciones con Google Sheets, Airtable, Slack, etc. \n\nPróximamente permitirá integración con plataformas de agentes y bases de datos en la nube."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.browseract.com/"
+        },
+        {
+          "source_url": "https://aitools.inc/tools/browseract"
+        },
+        {
+          "source_url": "https://www.futuretools.io/tools/browseract"
+        },
+        {
+          "source_url": "https://webcatalog.io/en/apps/browseract"
+        }
+      ]
+    },
+    "1158": {
+      "app": {
+        "id": "1158",
+        "name": "Bookster",
+        "url": "https://www.bookster.cc/",
+        "short_description": "Transforma tus conocimientos en libros electrónicos cautivadores en minutos.",
+        "category": "Redacción",
+        "main_functionality": "Convierte ideas, blogs, videos o transcripciones en ebooks listos para publicar, con diseño automático, plantillas, edición en tiempo real y capacidad de exportar o publicar directamente (incluido Kindle).",
+        "tags": "#EbookAI #CreaciónDeEbooks #IA #PublicaciónAutomática #DiseñoAutomático #ContenidoAI",
+        "logo_filename": "id_1158_bookster",
+        "what_is": "Una plataforma que automatiza la creación de ebooks con IA, transformando contenido bruto en ebooks visualmente profesionales sin necesidad de conocimientos técnicos o de diseño.",
+        "purpose": "Permite a creadores y profesionales convertir contenido en ebooks atractivos y publicarlos rápidamente, ideal para atraer leads, compartir conocimientos o monetizar contenido.",
+        "use_cases": "Transformar ideas o blogs en ebooks listos para publicar.\n\nGenerar ebooks atractivos sin preocuparse por formato, diseño o estructura.\n\nPublicar directamente en plataformas como Kindle u otros canales.",
+        "main_advantages": "Ahorro de tiempo radical: ebooks listos en cuestión de minutos.\n\nNo se requieren habilidades de diseño ni software especializado. \n\nOfrece plantillas elegantes y funciones de edición en tiempo real.",
+        "long_description": "Bookster es una suite basada en IA para crear ebooks de calidad profesional desde ideas, blogs, videos o transcripciones. Ofrece plantillas personalizables, diseño automático, edición en tiempo real y publicación directa en formatos como PDF o hacia Kindle. Elimina las barreras del diseño y la maquetación, acelerando significativamente la producción de contenido escrito.",
+        "release_date": "2025",
+        "developer": "Fundador: Andreas Braumann, creador independiente (bootstrapped).",
+        "main_model": "No disponible",
+        "pricing_plans": "Lite: US$19.99/mes (~44 créditos/año).\n\nPro: US$49.99/mes (~144 créditos/año + herramientas de marketing).\n\nEnterprise: US$199/mes con funcionalidades white-label y soporte dedicado.",
+        "license": "Plataforma propietaria (no open-source).",
+        "security_privacy": "No disponible",
+        "integration": "Exportación directa a plataformas externas (Kindle, Google Play Books), pero no se menciona integración con herramientas como Notion, Google Docs, etc."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.bookster.cc/"
+        },
+        {
+          "source_url": "https://www.saasworthy.com/product/bookster-cc"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/bookster-cc-ideas-to-ebooks-in-minutes"
+        }
+      ]
+    },
+    "1219": {
+      "app": {
+        "id": "1219",
+        "name": "Boom",
+        "url": "https://www.boomvideo.app/",
+        "short_description": "Presentaciones en vídeo impulsadas por IA que funcionan con Zoom, Meet y Teams. Haz directo o graba y luce profesional sin editar.",
+        "category": "Productividad",
+        "main_functionality": "Grabación de presentaciones y pantalla con apariencia profesional en tiempo real, sin necesidad de edición posterior, software adicional o herramientas como OBS.",
+        "tags": "#Presentaciones #GrabaciónDePantalla #Productividad #VideoProfesional #MacOnly",
+        "logo_filename": "id_1219_boomvideo",
+        "what_is": "Boom es una aplicación de escritorio para macOS diseñada para realizar presentaciones y grabaciones de pantalla con calidad de producción, eliminando la necesidad de herramientas de edición complicadas. Se enfoca en facilitar la vida de presentadores, creadores de contenido y profesionales que desean grabar videos bien estructurados con una apariencia profesional sin esfuerzo técnico.",
+        "purpose": "Permite grabar presentaciones en vivo y contenido de pantalla para cursos, demos de productos, explicaciones técnicas, videos formativos, entre otros. Es ideal para quienes desean obtener un resultado visual de alto nivel sin recurrir a editores de video ni flujos de trabajo complejos.",
+        "use_cases": "Docentes que graban clases para plataformas educativas.\n\nFundadores de startups que presentan productos a inversionistas.\n\nEquipos de ventas que crean demos para clientes.\n\nProfesionales que dan conferencias virtuales o webinars grabados.\n\nCreadores de contenido que desean evitar postproducción.",
+        "main_advantages": "Grabación en tiempo real con apariencia profesional.\n\nNo requiere conocimientos de edición de video.\n\nCompatible con herramientas como Zoom, Google Meet, Microsoft Teams.\n\nInterfaz intuitiva diseñada para usarse sin curva de aprendizaje.\n\nAhorra tiempo al evitar flujos de edición posterior.\n\nAlta calidad visual lista para compartir o publicar.\n\nReproduce elementos visuales (como presentación + cámara) en pantalla organizada.\n\nOfrece grabación de presentaciones directamente con fondo limpio y layout profesional.",
+        "long_description": "Boom es una aplicación de grabación y presentación profesional para Mac que permite a los usuarios crear contenido en video con calidad de estudio sin usar software de edición ni herramientas complejas. Con Boom, los presentadores pueden combinar su cámara y sus diapositivas en una sola pantalla, grabar en vivo con layouts personalizables y obtener resultados limpios, ideales para compartir de inmediato. Es compatible con múltiples plataformas de videollamadas y está orientada a quienes desean eficiencia, estética y simplicidad en la creación de contenidos visuales.",
+        "release_date": "2023",
+        "developer": "Boom, Inc.",
+        "main_model": "No utiliza inteligencia artificial para procesamiento de contenido.\n\nSu valor diferencial se basa en la interfaz y flujo de grabación en tiempo real, no en IA generativa.\n\nNota: A pesar de estar en un entorno tech/AI, Boom no se posiciona como una app de IA, sino como una herramienta de grabación optimizada.",
+        "pricing_plans": "Prueba Gratuita para Mac\n\nPlanes pagos: No se detallan los precios exactos, pero se ofrecen funcionalidades avanzadas bajo suscripción.",
+        "license": "Propietaria.",
+        "security_privacy": "Recolecta información mínima necesaria para la operación de la app.\n\nNo vende datos a terceros.\n\nCompatible con normativa de privacidad estándar, aunque no menciona certificación específica (como GDPR o CCPA).",
+        "integration": "Compatible visualmente con herramientas como Zoom, Google Meet, Microsoft Teams, Discord.\n\nNo se trata de integración técnica, sino que puede usarse en paralelo con estas plataformas durante presentaciones o grabaciones."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.boomvideo.app/"
+        },
+        {
+          "source_url": "https://www.boomvideo.app/pricing"
+        },
+        {
+          "source_url": "https://www.boomvideo.app/legal/privacy-policy"
+        },
+        {
+          "source_url": "https://www.boomvideo.app/about"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/boom-8"
+        }
+      ]
+    },
+    "1237": {
+      "app": {
+        "id": "1237",
+        "name": "Bookmarkify",
+        "url": "https://www.bookmarkify.io/",
+        "short_description": "Ayuda a los diseñadores a guardar, organizar y colaborar en inspiración web.",
+        "category": "Productividad",
+        "main_functionality": "Gestión de marcadores visuales que permite guardar, organizar y acceder a sitios web inspiradores a través de una interfaz limpia y visual, ideal para diseñadores, creativos y equipos de producto.",
+        "tags": "#Productividad #GestiónDeMarcadores #OrganizaciónVisual #BookmarkManager #InspiraciónWeb",
+        "logo_filename": "id_1237_bookmarkify",
+        "what_is": "Bookmarkify es una plataforma de gestión visual de marcadores diseñada para centralizar toda la inspiración web del usuario en un solo lugar. En lugar de guardar enlaces en navegadores o tomar capturas de pantalla, permite organizar recursos online como una biblioteca visual que se adapta al flujo de trabajo creativo. La herramienta permite clasificar, etiquetar y navegar los marcadores de forma estética y eficiente, enfocándose en mejorar la productividad de profesionales visuales y digitales.",
+        "purpose": "Está pensada para guardar y organizar sitios web inspiradores, ya sea para diseño, desarrollo, marketing o investigación. Permite a los usuarios conservar referencias web de manera estructurada, sin perder contenido relevante entre pestañas o carpetas caóticas. Es especialmente útil para diseñadores, creadores de contenido, equipos de producto y profesionales que trabajan con múltiples fuentes online.",
+        "use_cases": "Guardar páginas web visuales como referencias para diseño UI/UX.\n\nCrear colecciones temáticas de inspiración web para presentaciones o proyectos.\n\nOrganizar ideas de contenido y recursos digitales sin depender de capturas de pantalla.\n\nCompartir bibliotecas visuales organizadas con equipos creativos.\n\nSustituir sistemas de marcadores nativos del navegador por una solución más visual y funcional.",
+        "main_advantages": "Organización visual de bookmarks, ideal para flujos creativos.\n\nEvita la saturación de pestañas o la necesidad de tomar capturas.\n\nInterfaz intuitiva, moderna y centrada en el diseño.\n\nPermite crear colecciones por tema, propósito o cliente.\n\nAccesible desde cualquier navegador sin instalaciones.\n\nFacilita el trabajo colaborativo en equipos creativos.\n\nMejora la productividad al ofrecer acceso rápido a referencias clave.\n\nAlineado con necesidades de diseñadores, marketers, desarrolladores y creativos.",
+        "long_description": "Bookmarkify es un gestor visual de marcadores diseñado para profesionales creativos que necesitan organizar su inspiración web de forma clara y eficiente. A diferencia de los marcadores tradicionales del navegador, esta herramienta permite guardar sitios web como elementos visuales, clasificarlos en colecciones, etiquetarlos y visualizarlos en una interfaz moderna e intuitiva. Facilita el flujo de trabajo creativo al evitar la pérdida de ideas entre pestañas abiertas o capturas de pantalla desorganizadas. Su enfoque está en la simplicidad, el diseño y la accesibilidad para diseñadores, desarrolladores, marketers y cualquier usuario que trabaje con múltiples fuentes digitales. La plataforma permite acceder a tus marcadores desde cualquier lugar, mantenerlos sincronizados y visualmente organizados para facilitar la inspiración y la toma de decisiones.",
+        "release_date": "2023",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "Opción de prueba gratuita disponible (\"Try Bookmarkify for Free\").\n\nEl sitio menciona la versión Bookmarkify 2.0 pero no detalla públicamente los precios ni estructura de suscripción desde la página principal.\n\nNo se encontró una sección de precios específica al momento de consulta, lo que sugiere un modelo freemium o en desarrollo.",
+        "license": "Propietaria.",
+        "security_privacy": "No disponible",
+        "integration": "No se indican integraciones externas con herramientas como navegadores, apps de productividad o sistemas de colaboración.\n\nFunciona como una plataforma independiente basada en navegador.\n\nLos usuarios pueden guardar visualmente cualquier sitio web, pero la exportación o sincronización con otros servicios no está especificada."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.bookmarkify.io/"
+        }
+      ]
+    },
+    "1473": {
+      "app": {
+        "id": "1473",
+        "name": "Brila",
+        "url": "https://brila.ai/",
+        "short_description": "Crea páginas web de una página a partir de reseñas reales de Google Maps.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Crear automáticamente un sitio “one-page” a partir de un enlace compartible de Google Maps, analizando reseñas y datos del perfil para producir estructura y copy basado en lenguaje real de clientes; incluye hosting, regeneración/auto-updates y exportación HTML según el plan.",
+        "tags": "#PlataformasSinCódigo #GeneraciónDeDiseño #Websites #Reseñas #GoogleMaps #MarketingDeContenidos #Automatización",
+        "logo_filename": "id_1473_brilaai",
+        "what_is": "Brila es una herramienta de creación de sitios web (sin plantillas genéricas) que transforma el contenido público de un negocio en Google Maps—especialmente sus reseñas—en un sitio de una página, usando el enfoque Jobs To Be Done para detectar patrones sobre lo que los clientes “valoran” y reflejarlo en el mensaje del sitio.",
+        "purpose": "Para que negocios locales (y agencias) generen rápidamente un sitio web con mensajes más “específicos” y respaldados por reseñas reales, reduciendo el tiempo de redacción/descubrimiento del posicionamiento y facilitando publicar/hostear o exportar el sitio.",
+        "use_cases": "Crear un sitio web de una página pegando el link de “Share” de Google Maps del negocio.\nGenerar mensajes de marketing basados en patrones de reseñas (razones concretas por las que eligen al negocio).\nPublicar con hosting en subdominio Brila y, en planes pagados, conectar dominio personalizado.\nRegenerar/auto-actualizar el sitio (según plan).\nExportar HTML para auto-hosting (según plan).",
+        "main_advantages": "Contenido basado en evidencia: el sitio se construye a partir de patrones y wording de reseñas, no desde “copy inventado” (según su posicionamiento público).\nRapidez y simplicidad: flujo de entrada único (pegar link de Google Maps) para obtener un sitio inicial.\nOpciones para agencias: plan Agency con múltiples sitios y branding/estructura de dominio para agencia (según pricing/terms).\nExportación y control: exportación HTML en planes pagados para desplegar fuera de Brila.",
+        "long_description": "Brila genera sitios web de una página para negocios locales a partir de un enlace compartible de Google Maps. Analiza reseñas para detectar patrones de “Jobs To Be Done” (lo que los clientes realmente buscan/valoran) y convertirlos en mensajes y secciones del sitio. Ofrece planes con límites de reseñas analizadas y número de sitios, hosting en subdominio Brila, eliminación de branding en planes pagados, regeneración/auto-updates, exportación HTML y un plan Agency orientado a múltiples sitios y opciones para agencias.",
+        "release_date": "2026",
+        "developer": "Generated Media, Inc. (Delaware, EE. UU.; indicado en Privacy Policy y Terms).",
+        "main_model": "No disponible",
+        "pricing_plans": "Free: $0/mes; 50 reseñas analizadas; 1 sitio; hosting en subdominio Brila; con badge Brila; sin regeneración/auto-updates; sin exportación HTML.\nPro: $9/mes; 100 reseñas analizadas; hasta 3 sitios; dominio personalizado; sin badge; con regeneración/auto-updates; exportación HTML.\nAgency: $29/mes; hasta 1,000 reseñas analizadas; hasta 30 sitios; dominio personalizado y estructura para agencia; sin badge o con badge de agencia; incluye exportación HTML; algunas funciones pueden estar en waitlist/beta (según términos).",
+        "license": "Propietaria (SaaS).",
+        "security_privacy": "Datos recolectados: nombre (si se proporciona), email y datos de contacto, credenciales/autenticación, datos de suscripción y facturación, IP/cookies/identificadores/dispositivo e info aproximada de ubicación, datos del negocio (nombre/dirección/materiales de marca/preferencias), enlaces de Google Maps enviados, contenido editado/subido (copy, fotos, títulos, settings de dominio), y comunicaciones de soporte/bugs.\nUso y propósito: provisión del servicio (generar/entregar/editar sitios), billing, soporte, operación/mejora, prevención de abuso/fraude y cumplimiento legal.\nCompartición: declara que no vende información personal; puede compartir con proveedores necesarios (hosting, analítica, billing, auth, soporte, email, dominios, etc.) con salvaguardas.\nTransferencias internacionales: indica que la empresa está basada en EE. UU. y que aplica salvaguardas cuando corresponda.\nSeguridad: menciona salvaguardas “comercialmente razonables” y uso de conexiones cifradas donde aplique.\nDerechos: acceso/rectificación/borrado/restricción/objeción (según jurisdicción) y canal de contacto por email.",
+        "integration": "Google Maps: entrada principal mediante enlace de “Share” del perfil del negocio.\nDominios: soporte de custom domain (Pro/Agency).\nExportación: exportación HTML (Pro/Agency).\nHosting: hosting en subdominio Brila (y opciones para agencia en Agency).\nCompetitor analysis: aparece como funcionalidad listada en pricing (el detalle operativo público no está especificado en la página de precios)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://brila.ai/"
+        },
+        {
+          "source_url": "https://brila.ai/pricing"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/brila-2"
+        },
+        {
+          "source_url": "https://brila.ai/privacy-policy"
+        },
+        {
+          "source_url": "https://brila.ai/terms-and-conditions"
+        },
+        {
+          "source_url": "https://aitoolly.com/product/brila"
+        }
+      ]
+    },
+    "1594": {
+      "app": {
+        "id": "1594",
+        "name": "BVM",
+        "url": "https://bvmax.io",
+        "short_description": "Optimiza estrategias de ingresos mediante analítica prescriptiva impulsada por IA.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Analítica prescriptiva para estrategias de ingresos.",
+        "tags": "#IA #InteligenciaDeNegocios #Ecommerce #Finanzas",
+        "logo_filename": "id_1594_bvm",
+        "what_is": "BVM es una herramienta que utiliza inteligencia artificial y analítica prescriptiva para optimizar estrategias de ingresos, comercio electrónico y procesos financieros.",
+        "purpose": "Optimizar estrategias de ingresos y comercio electrónico mediante analítica prescriptiva.",
+        "use_cases": "E-commerce, ventas, pricing, finanzas, estrategias de ingresos, análisis comercial y optimización de decisiones.",
+        "main_advantages": "Apoya decisiones comerciales; utiliza analítica prescriptiva; puede mejorar estrategias de ingresos y operación financiera.",
+        "long_description": "BVM es una herramienta enfocada en optimizar estrategias de ingresos mediante inteligencia artificial y analítica prescriptiva. Puede aplicarse en comercio electrónico, ventas y procesos financieros.",
+        "release_date": "No especificada",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Prueba gratuita",
+        "license": "No especificada",
+        "security_privacy": "Consultar la política de privacidad del proveedor.",
+        "integration": "Disponible mediante plataforma web del proveedor."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://bvmax.io"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/bvm"
+        }
+      ]
+    },
+    "1598": {
+      "app": {
+        "id": "1598",
+        "name": "Boomy",
+        "url": "https://boomy.com",
+        "short_description": "Permite crear música con IA y distribuirla en plataformas digitales.",
+        "category": "Audio",
+        "main_functionality": "Creación musical asistida por inteligencia artificial.",
+        "tags": "#IA #Audio #Música #Creatividad",
+        "logo_filename": "id_1598_boomy",
+        "what_is": "Boomy es una herramienta que permite crear música con inteligencia artificial y distribuirla en plataformas digitales.",
+        "purpose": "Crear música con inteligencia artificial y distribuirla en plataformas digitales.",
+        "use_cases": "Creación musical, contenido para redes, música para proyectos digitales, distribución en plataformas, creatividad sonora y producción independiente.",
+        "main_advantages": "Facilita crear música sin conocimientos avanzados; permite distribuir canciones; puede apoyar creadores de contenido y proyectos digitales.",
+        "long_description": "Boomy es una herramienta de creación musical con inteligencia artificial. Permite generar música y distribuirla en plataformas digitales, apoyando a creadores que buscan producir contenido sonoro rápidamente.",
+        "release_date": "No especificada",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Freemium",
+        "license": "No especificada",
+        "security_privacy": "Consultar la política de privacidad del proveedor.",
+        "integration": "Disponible mediante plataforma web del proveedor."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://boomy.com"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/boomy"
+        }
+      ]
+    },
+    "1611": {
+      "app": {
+        "id": "1611",
+        "name": "Cactus Interior",
+        "url": "https://cactusinterior.com",
+        "short_description": "Genera ideas de diseño interior y visualizaciones de espacios con apoyo de inteligencia artificial.",
+        "category": "Generación de diseño",
+        "main_functionality": "Generación de ideas y visualizaciones de diseño interior con IA.",
+        "tags": "#IA #Diseño #RealEstate #Interiores",
+        "logo_filename": "id_1611_cactus_interior",
+        "what_is": "Cactus Interior es una herramienta de inteligencia artificial orientada a generar inspiración, estilos y visualizaciones para proyectos de diseño interior.",
+        "purpose": "Apoyar la generación de ideas y propuestas visuales para diseño interior.",
+        "use_cases": "Diseño de interiores, decoración, visualización de espacios, real estate, inspiración visual y propuestas para clientes.",
+        "main_advantages": "Genera inspiración rápidamente; facilita visualizar estilos; puede apoyar a diseñadores, inmobiliarias y usuarios que desean renovar espacios.",
+        "long_description": "Cactus Interior es una herramienta de inteligencia artificial enfocada en diseño interior. Permite generar ideas, estilos y visualizaciones para transformar espacios, facilitando la exploración de propuestas visuales antes de ejecutar cambios reales.",
+        "release_date": "No especificada",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificada",
+        "security_privacy": "Consultar la política de privacidad del proveedor.",
+        "integration": "Disponible mediante plataforma web del proveedor."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://cactusinterior.com"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/cactus-ai"
+        }
+      ]
+    },
+    "1643": {
+      "app": {
+        "id": "1643",
+        "name": "Call Annie",
+        "url": "https://callannie.ai/",
+        "short_description": "Permite conversar en tiempo real con un asistente de IA para apoyo personal o profesional.",
+        "category": "Chat",
+        "main_functionality": "Asistente conversacional en tiempo real.",
+        "tags": "#IA #Chat #AtenciónAlCliente #AsistenteIA",
+        "logo_filename": "id_1643_call_annie",
+        "what_is": "Call Annie es una herramienta que permite conversar en tiempo real con un asistente de inteligencia artificial para apoyo personal, comunicación y tareas cotidianas.",
+        "purpose": "Permitir conversaciones en tiempo real con un asistente de inteligencia artificial.",
+        "use_cases": "Asistencia personal, conversación con IA, apoyo cotidiano, comunicación, productividad y consultas rápidas.",
+        "main_advantages": "Ofrece interacción en tiempo real; facilita recibir apoyo conversacional; puede servir como asistente personal o profesional.",
+        "long_description": "Call Annie es una herramienta que permite conversar en tiempo real con un asistente de inteligencia artificial. Puede apoyar tareas personales, consultas rápidas, comunicación y productividad cotidiana.",
+        "release_date": "No disponible",
+        "developer": "callannie.ai",
+        "main_model": "No especificado",
+        "pricing_plans": "Freemium",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://callannie.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/call-annie"
+        }
+      ]
+    },
+    "1652": {
+      "app": {
+        "id": "1652",
+        "name": "Boostbot",
+        "url": "https://boostbot.org/",
+        "short_description": "Automatiza tareas en juegos móviles mediante agentes de IA y flujos de productividad.",
+        "category": "Educación",
+        "main_functionality": "Automatización de tareas en juegos móviles con IA.",
+        "tags": "#IA #Educación #Gaming #Productividad",
+        "logo_filename": "id_1652_boostbot",
+        "what_is": "Boostbot es una herramienta que automatiza tareas en juegos móviles mediante agentes de inteligencia artificial y flujos orientados a productividad.",
+        "purpose": "Automatizar tareas en juegos móviles mediante agentes de inteligencia artificial.",
+        "use_cases": "Gaming, automatización de tareas, juegos móviles, agentes de IA, productividad en juegos y flujos automatizados.",
+        "main_advantages": "Automatiza tareas repetitivas; puede ahorrar tiempo en juegos móviles; utiliza agentes de IA para ejecutar acciones específicas.",
+        "long_description": "Boostbot es una herramienta que utiliza inteligencia artificial para automatizar tareas en juegos móviles. Su enfoque está en agentes de IA y flujos de productividad aplicados a experiencias de gaming.",
+        "release_date": "No disponible",
+        "developer": "boostbot.org",
+        "main_model": "No especificado",
+        "pricing_plans": "Consultar precio",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://boostbot.org/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/boostbot"
+        }
+      ]
+    },
+    "1655": {
+      "app": {
+        "id": "1655",
+        "name": "Bria",
+        "url": "https://bria.ai/",
+        "short_description": "Permite crear y editar imágenes con IA mediante herramientas visuales orientadas a diseño.",
+        "category": "Edición de imágenes",
+        "main_functionality": "Creación y edición de imágenes con inteligencia artificial.",
+        "tags": "#IA #EdiciónDeImágenes #Diseño #Creatividad",
+        "logo_filename": "id_1655_bria",
+        "what_is": "Bria es una herramienta visual orientada a crear, modificar y editar imágenes mediante inteligencia artificial para flujos de diseño y contenido.",
+        "purpose": "Crear y editar imágenes mediante inteligencia artificial para diseño y contenido.",
+        "use_cases": "Edición de imágenes, generación visual, diseño gráfico, contenido comercial, creatividad digital y producción de recursos visuales.",
+        "main_advantages": "Facilita crear y modificar imágenes; apoya flujos de diseño; puede ahorrar tiempo en producción visual.",
+        "long_description": "Bria es una herramienta de inteligencia artificial para creación y edición de imágenes. Está orientada a flujos de diseño, generación visual y producción de contenido creativo o comercial.",
+        "release_date": "No disponible",
+        "developer": "bria.ai",
+        "main_model": "No especificado",
+        "pricing_plans": "Freemium",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://bria.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/bria"
+        }
+      ]
+    },
+    "1699": {
+      "app": {
+        "id": "1699",
+        "name": "Brainrot.mov",
+        "url": "https://brainrot.mov",
+        "short_description": "Genera videos cortos listos para TikTok/Reels/Shorts a partir de guiones, con voces de personajes, subtítulos virales, animaciones y fondos tipo “gameplay”, con exportación optimizada y creación en menos de un minuto.",
+        "category": "Generación de video",
+        "main_functionality": "Convertir un script en un video “viral-ready” en ~60 segundos, combinando voces de personajes, subtítulos/estilos de caption, animación con control de movimiento y fondos automáticos de gameplay, con exportación en un clic.",
+        "tags": "#VideoMarketing,#TikTok,#Reels,#VozIA",
+        "logo_filename": "id_1699_brainrotmov",
+        "what_is": "Es un “creator studio” orientado a creación rápida de videos cortos para redes sociales. Permite transformar guiones en videos con elementos integrados (voz, subtítulos, animaciones y fondos) y ofrece planes de suscripción y acceso por API en ciertos niveles.",
+        "purpose": "Para producir volumen de videos cortos listos para publicar (formato feed-first), reduciendo la necesidad de edición manual y acelerando el ciclo idea → video → publicación.",
+        "use_cases": "Crear “short explainer” a partir de un guion (p. ej., contenido educativo/tecnológico).\nGenerar videos con subtítulos de estilo viral (TikTok/Neon/Bold Impact, etc.).\nProducir clips con fondos automáticos tipo Minecraft/Subway Surfers/GTA para mejorar retención.\nAutomatizar generación vía API (por ejemplo, integrarlo a un flujo de publicación o a un backend propio).",
+        "main_advantages": "Rapidez: creación “en menos de un minuto” (según el sitio).\nOptimización para algoritmos: formatos pensados para TikTok/Reels/Shorts.\nComponentes integrados: voces, captions y fondos automáticos en un flujo único.\nEscalabilidad con planes y API: niveles con más cuotas, sin marca de agua y API/automatización (Business).",
+        "long_description": "Plataforma de creación de video corto orientada a “feed-first”. Permite: escribir o usar un guion, generar videos con voces de personajes (50+ en planes superiores), aplicar estilos de subtítulos virales, añadir fondos automáticos de gameplay (p. ej., Minecraft/Subway Surfers/GTA), usar animaciones con control de movimiento, y exportar en un clic optimizado para plataformas de short-form. Incluye planes con límites mensuales de videos y características escalables (más voces, estilos de caption, fondos personalizados, personajes custom, sin watermark) y opción de API (Creator/Business) con streaming de progreso (SSE) y webhooks.",
+        "release_date": "Mayo 2023",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "Free: $0, 3 videos/mes, 4 voces default, 1 estilo de captions, calidad estándar.\nHobby: $8/mes (facturado anual), 30 videos/mes, 750 Kling credits, AI Script Writer, 8 voces, 5 estilos de captions.\nCreator: $20/mes (facturado anual), 100 videos/mes, 1,500 Kling credits, 50+ voces + búsqueda, fondos personalizados, todos los estilos de captions.\nBusiness: $32/mes (facturado anual), videos ilimitados, 3,200 Kling credits, personajes personalizados, sin watermark, acceso API.\nEnterprise: precio/condiciones bajo contacto comercial; incluye cuentas gestionadas y “custom integrations”, SLA y account manager.",
+        "license": "Propietaria (SaaS).",
+        "security_privacy": "La política indica recolección potencial de nombre/username, email, uso del servicio y datos técnicos (IP, navegador, ubicación, SO); uso para prestar el servicio, administrar cuenta y procesar pagos vía Stripe; y declara medidas de seguridad para evitar pérdida/acceso no autorizado. Contacto de privacidad: cj@cjrapps.com.",
+        "integration": "Ofrece API (v2) para generación de videos y control granular (scripts, voces, posicionamiento de personajes, rendering), autenticación por X-API-Key, límites por plan y opciones de SSE stream para progreso y webhooks para notificaciones de estado."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://brainrot.mov/"
+        },
+        {
+          "source_url": "https://brainrot.mov/#plans"
+        },
+        {
+          "source_url": "https://brainrot.mov/privacy"
+        },
+        {
+          "source_url": "https://brainrot.mov/terms"
+        },
+        {
+          "source_url": "https://flippa.com/12382472-brainrot-mov-generates-those-viral-family-guy-explainer-videos-used-by-accounts-like-ig-awspeter-69k-ig-technerdpeter-119k"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/product/brainrot.mov"
+        }
+      ]
+    },
+    "1706": {
+      "app": {
+        "id": "1706",
+        "name": "Bugster",
+        "url": "https://www.bugster.dev/",
+        "short_description": "Bugster automatiza la creación de pruebas y se adapta a cambios en la interfaz, ayudando a equipos de desarrollo a validar aplicaciones con menos trabajo manual.",
+        "category": "Codificación",
+        "main_functionality": "Automatización de pruebas de software adaptadas a cambios de interfaz",
+        "tags": "#Codificación #Testing #QA",
+        "logo_filename": "id_1706_bugster",
+        "what_is": "Bugster es una herramienta de testing con IA que automatiza la creación de pruebas y se adapta a cambios en la interfaz. Está pensada para reducir trabajo manual en validación de software y ayudar a mantener pruebas actualizadas conforme evoluciona una aplicación.",
+        "purpose": "Automatizar pruebas de software y adaptarlas a cambios de interfaz para reducir trabajo manual en QA.",
+        "use_cases": "Automatización de pruebas; validación de interfaces; QA continuo; mantenimiento de pruebas ante cambios de UI.",
+        "main_advantages": "Reduce esfuerzo de QA manual; mantiene pruebas actualizadas; se adapta a cambios de interfaz; mejora cobertura de validación.",
+        "long_description": "Bugster es una herramienta de testing impulsada por IA que automatiza la creación de pruebas y se adapta a cambios en la interfaz de usuario. Está diseñada para ayudar a equipos de desarrollo y QA a validar aplicaciones con menos trabajo manual. Su valor está en mantener pruebas más resilientes ante cambios visuales o funcionales y acelerar ciclos de revisión.",
+        "release_date": "No disponible",
+        "developer": "bugster.dev",
+        "main_model": "No especificado",
+        "pricing_plans": "Prueba gratuita",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.bugster.dev/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/bugster"
+        }
+      ]
+    },
+    "1717": {
+      "app": {
+        "id": "1717",
+        "name": "Buildra",
+        "url": "https://buildra.dev/es",
+        "short_description": "Buildra permite generar aplicaciones full stack a partir de prompts, acelerando el paso de una idea a un prototipo funcional.",
+        "category": "Codificación",
+        "main_functionality": "Generación de aplicaciones full stack desde prompts",
+        "tags": "#Codificación #GeneraciónDeCódigo #Desarrollo",
+        "logo_filename": "id_1717_buildra",
+        "what_is": "Buildra es una herramienta de generación de aplicaciones full stack mediante prompts. Su objetivo es acelerar el desarrollo de prototipos o aplicaciones funcionales a partir de instrucciones en lenguaje natural.",
+        "purpose": "Acelerar la creación de aplicaciones full stack mediante instrucciones en lenguaje natural.",
+        "use_cases": "Creación de prototipos full stack; generación de aplicaciones desde prompts; desarrollo rápido; validación de ideas.",
+        "main_advantages": "Acelera prototipos full stack; permite desarrollar desde prompts; reduce barreras técnicas; ayuda a validar ideas más rápido.",
+        "long_description": "Buildra es una herramienta para generar aplicaciones full stack a partir de prompts. Su enfoque busca acelerar la creación de prototipos y productos funcionales mediante instrucciones en lenguaje natural. Puede ser útil para desarrolladores, equipos pequeños o emprendedores que necesitan validar ideas rápidamente.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://buildra.dev/es"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/buildra-7ryza1"
+        }
+      ]
+    },
+    "1719": {
+      "app": {
+        "id": "1719",
+        "name": "Build This Now",
+        "url": "https://www.buildthisnow.com/",
+        "short_description": "Build This Now ayuda a crear aplicaciones SaaS a partir de ideas en lenguaje natural, facilitando la generación de prototipos.",
+        "category": "Codificación",
+        "main_functionality": "Creación de aplicaciones SaaS a partir de ideas en lenguaje natural",
+        "tags": "#Codificación #SaaS #Desarrollo",
+        "logo_filename": "id_1719_build_this_now",
+        "what_is": "Build This Now es una herramienta para crear aplicaciones SaaS a partir de ideas expresadas en lenguaje natural. Ayuda a convertir conceptos iniciales en prototipos o bases funcionales de producto.",
+        "purpose": "Convertir ideas de producto en prototipos o aplicaciones SaaS mediante generación asistida por IA.",
+        "use_cases": "Prototipado SaaS; generación de productos digitales; validación de ideas; construcción rápida de aplicaciones.",
+        "main_advantages": "Facilita crear prototipos SaaS; transforma ideas en bases funcionales; reduce tiempo inicial de desarrollo; apoya validación temprana.",
+        "long_description": "Build This Now es una herramienta para crear aplicaciones SaaS a partir de ideas expresadas en lenguaje natural. Ayuda a transformar conceptos iniciales en prototipos o bases funcionales de producto. Su valor está en reducir la fricción inicial del desarrollo y facilitar la validación temprana de soluciones digitales.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.buildthisnow.com/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/build-this-now-ex0l8t"
+        }
+      ]
+    },
+    "1748": {
+      "app": {
+        "id": "1748",
+        "name": "BoundBot",
+        "url": "https://www.boundbot.com/",
+        "short_description": "BoundBot permite automatizar soporte al cliente mediante agentes de IA, ayudando a responder y gestionar conversaciones.",
+        "category": "Automatización",
+        "main_functionality": "Automatización de soporte al cliente con agentes de IA",
+        "tags": "#Automatización #Chatbot #Soporte",
+        "logo_filename": "id_1748_boundbot",
+        "what_is": "BoundBot es una herramienta de automatización de soporte al cliente mediante agentes de IA. Ayuda a gestionar conversaciones, responder solicitudes y mejorar la atención operativa.",
+        "purpose": "Automatizar soporte al cliente mediante agentes de IA capaces de responder y gestionar conversaciones.",
+        "use_cases": "Atención al cliente; respuestas automáticas; gestión de conversaciones; soporte operativo con IA.",
+        "main_advantages": "Automatiza atención al cliente; reduce carga de soporte; mejora tiempos de respuesta; permite escalar conversaciones.",
+        "long_description": "BoundBot es una herramienta de automatización de soporte al cliente mediante agentes de inteligencia artificial. Ayuda a gestionar conversaciones, responder solicitudes y mejorar tiempos de atención. Puede ser útil para equipos de soporte, operaciones y servicio al cliente que necesitan escalar respuestas sin aumentar proporcionalmente la carga manual.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.boundbot.com/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/boundbot-7l7tbw"
+        }
+      ]
+    },
+    "1992": {
+      "app": {
+        "id": "1992",
+        "name": "CalendHub",
+        "url": "https://calendhub.com/",
+        "short_description": "CalendHub ayuda a organizar calendarios, reuniones y disponibilidad para mejorar la gestión de agenda.",
+        "category": "Productividad",
+        "main_functionality": "Gestión de calendarios, disponibilidad y programación de reuniones.",
+        "tags": "calendarios, agenda, programación, productividad",
+        "logo_filename": "id_1992_calendhub",
+        "what_is": "CalendHub es una herramienta de productividad para organizar calendarios, disponibilidad y reuniones. Su función principal es facilitar la programación y coordinación de agenda.",
+        "purpose": "Organizar calendarios, disponibilidad y reuniones para facilitar la gestión de agenda.",
+        "use_cases": "Gestión de agenda; coordinación de reuniones; disponibilidad; organización de calendarios.",
+        "main_advantages": "Mejora la organización de agenda, facilita coordinar reuniones y reduce conflictos de disponibilidad.",
+        "long_description": "CalendHub es una herramienta de productividad enfocada en calendarios, disponibilidad y programación de reuniones. Ayuda a organizar agenda, coordinar horarios y reducir fricción al planear sesiones con otras personas. Es útil para profesionales, equipos o negocios que gestionan múltiples reuniones y necesitan mayor claridad en su disponibilidad.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://calendhub.com/"
+        }
+      ]
+    },
+    "2052": {
+      "app": {
+        "id": "2052",
+        "name": "Box Extract",
+        "url": "https://www.box.com/es-419/home",
+        "short_description": "Box Extract permite extraer datos de documentos, archivos o contenido estructurado mediante automatización.",
+        "category": "Automatización",
+        "main_functionality": "Extracción automatizada de datos desde documentos, archivos o contenido estructurado.",
+        "tags": "extracción de datos, documentos, automatización, procesamiento",
+        "logo_filename": "id_2052_box_extract",
+        "what_is": "Box Extract es una herramienta de automatización enfocada en extraer datos desde documentos, archivos o contenido estructurado. Puede ser útil para procesar información, reducir captura manual y acelerar tareas documentales.",
+        "purpose": "Extraer datos de documentos, archivos o contenido estructurado para reducir captura manual.",
+        "use_cases": "Extracción de datos; procesamiento documental; captura automática; archivos estructurados.",
+        "main_advantages": "Reduce captura manual, acelera procesamiento documental y mejora la extracción de información.",
+        "long_description": "Box Extract es una herramienta de automatización enfocada en extraer datos desde documentos, archivos o contenido estructurado. Puede ser útil para procesos administrativos, análisis documental o captura de información. Su valor está en reducir captura manual, acelerar procesamiento y mejorar la disponibilidad de datos útiles.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.box.com/es-419/home"
+        }
+      ]
+    },
+    "2056": {
+      "app": {
+        "id": "2056",
+        "name": "Burntop",
+        "url": "https://burntop.dev/",
+        "short_description": "Burntap ayuda a organizar tareas, información o flujos de trabajo para mejorar la productividad diaria.",
+        "category": "Productividad",
+        "main_functionality": "Organización de tareas, información y flujos de trabajo para mejorar productividad.",
+        "tags": "productividad, organización, tareas, flujo de trabajo",
+        "logo_filename": "id_2056_burntap",
+        "what_is": "Burntap es una herramienta de productividad enfocada en organizar tareas, información o flujos de trabajo. Puede ayudar a usuarios o equipos que necesitan mantener mayor claridad en sus pendientes y reducir desorden operativo.",
+        "purpose": "Ayudar a organizar tareas, información y flujos de trabajo para mejorar la productividad diaria.",
+        "use_cases": "Gestión de tareas; organización de información; productividad personal; seguimiento de flujos de trabajo.",
+        "main_advantages": "Mejora la organización diaria, reduce desorden operativo y facilita dar seguimiento a tareas e información.",
+        "long_description": "Burntap es una herramienta de productividad enfocada en organizar tareas, información y flujos de trabajo. Puede ayudar a usuarios o equipos que necesitan mantener claridad sobre pendientes, reducir desorden operativo y mejorar la forma en que administran actividades diarias. Su valor está en facilitar una operación más ordenada y enfocada.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://burntop.dev/"
+        }
+      ]
+    },
+    "2073": {
+      "app": {
+        "id": "2073",
+        "name": "byVoice",
+        "url": "https://www.byvoice.io/",
+        "short_description": "byVoice permite automatizar procesos mediante voz, asistentes o interacciones operativas habladas.",
+        "category": "Automatización",
+        "main_functionality": "Automatización de procesos mediante voz, asistentes e interacciones habladas.",
+        "tags": "automatización, voz, asistentes, procesos operativos",
+        "logo_filename": "id_2073_byvoice",
+        "what_is": "byVoice es una herramienta de automatización que permite operar procesos mediante voz, asistentes o interacciones habladas. Puede ser útil para flujos donde la voz facilita captura, seguimiento o ejecución de tareas.",
+        "purpose": "Automatizar procesos mediante voz, asistentes e interacciones habladas.",
+        "use_cases": "Asistentes de voz; automatización hablada; captura por voz; procesos operativos.",
+        "main_advantages": "Permite operar procesos mediante voz, facilita captura de información y reduce fricción en tareas habladas.",
+        "long_description": "byVoice es una herramienta de automatización que permite operar procesos mediante voz, asistentes e interacciones habladas. Puede ser útil para capturar información, ejecutar tareas o dar seguimiento a procesos usando comandos o comunicación por voz. Su utilidad está en reducir fricción y facilitar flujos operativos más naturales.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.byvoice.io/"
+        }
+      ]
+    },
+    "2089": {
+      "app": {
+        "id": "2089",
+        "name": "CanvasGPT",
+        "url": "https://canvasgpt.com/",
+        "short_description": "CanvasGPT permite automatizar procesos o flujos de trabajo relacionados con Canvas y tareas asistidas por IA.",
+        "category": "Automatización",
+        "main_functionality": "Automatización de procesos relacionados con Canvas y flujos asistidos por IA.",
+        "tags": "automatización, Canvas, flujos de IA, productividad",
+        "logo_filename": "id_2089_canvasgpt",
+        "what_is": "CanvasGPT es una herramienta de automatización que apoya procesos relacionados con Canvas y tareas asistidas por IA. Puede ayudar a organizar flujos de trabajo, generar contenido o facilitar actividades dentro de entornos conectados a Canvas.",
+        "purpose": "Automatizar procesos relacionados con Canvas y tareas asistidas por IA.",
+        "use_cases": "Automatización en Canvas; tareas educativas; flujos asistidos por IA; productividad académica.",
+        "main_advantages": "Ayuda a automatizar tareas relacionadas con Canvas, mejorar productividad y simplificar flujos asistidos por IA.",
+        "long_description": "CanvasGPT es una herramienta de automatización orientada a procesos relacionados con Canvas y tareas asistidas por IA. Puede ayudar a organizar flujos de trabajo, generar contenido o facilitar actividades en entornos conectados a Canvas. Su valor está en simplificar tareas repetitivas y mejorar la productividad en flujos educativos u operativos.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://canvasgpt.com/"
+        }
+      ]
+    },
+    "2135": {
+      "app": {
+        "id": "2135",
+        "name": "Bridgecall",
+        "url": "https://www.bridgecall.app/",
+        "short_description": "Plataforma de traducción de voz y video en tiempo real basada en inteligencia artificial.",
+        "category": "Traducción",
+        "main_functionality": "Traducir contenido de voz y video en tiempo real.",
+        "tags": "traducción en tiempo real, traducción de voz, traducción de video, interpretación con IA",
+        "logo_filename": "id_2135_bridgecall",
+        "what_is": "Bridgecall es una plataforma de traducción en tiempo real para conversaciones de voz y contenido de video.",
+        "purpose": "Reducir las barreras lingüísticas durante conversaciones y transmisiones de voz o video.",
+        "use_cases": "Reuniones multilingües, llamadas internacionales, traducción de videos y comunicación en tiempo real entre hablantes de distintos idiomas.",
+        "main_advantages": "Permite comunicarse entre idiomas con menor demora y combina traducción de voz y video.",
+        "long_description": "Bridgecall es una plataforma de traducción de voz y video en tiempo real basada en inteligencia artificial. Está diseñada para facilitar conversaciones y contenidos multilingües, permitiendo que personas que hablan distintos idiomas se comuniquen con menor intervención manual.",
+        "release_date": "No disponible",
+        "developer": "Bridgecall",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.bridgecall.app/"
+        }
+      ]
+    },
+    "2190": {
+      "app": {
+        "id": "2190",
+        "name": "Brightcall.ai",
+        "url": "https://brightcall.ai/",
+        "short_description": "Herramienta para capturar prospectos, calificarlos y programar citas automáticamente.",
+        "category": "Automatización",
+        "main_functionality": "Capturar, calificar y dar seguimiento a prospectos, además de programar citas.",
+        "tags": "calificación de leads, citas, prospectos, automatización de ventas, seguimiento comercial",
+        "logo_filename": "id_2190_brightcall_ai",
+        "what_is": "Brightcall.ai es una solución de automatización comercial para capturar, calificar y dar seguimiento a prospectos.",
+        "purpose": "Automatizar la captura, calificación y seguimiento de prospectos comerciales y la programación de citas.",
+        "use_cases": "Captura de leads, calificación de prospectos, seguimiento comercial y programación automática de reuniones.",
+        "main_advantages": "Reúne captura, calificación, seguimiento y programación de citas dentro de un mismo flujo comercial.",
+        "long_description": "Brightcall.ai es una plataforma de automatización comercial que ayuda a capturar, calificar y dar seguimiento a prospectos, además de programar citas. Su objetivo es concentrar varias etapas del manejo de leads y reducir tareas repetitivas dentro del proceso de ventas.",
+        "release_date": "No disponible",
+        "developer": "Brightcall.ai",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://brightcall.ai/"
+        }
+      ]
+    },
+    "2194": {
+      "app": {
+        "id": "2194",
+        "name": "BrainGrid",
+        "url": "https://www.braingrid.ai/",
+        "short_description": "Herramienta que transforma instrucciones en especificaciones y tareas para proyectos de software.",
+        "category": "Codificación",
+        "main_functionality": "Convertir instrucciones en especificaciones técnicas y tareas para proyectos de desarrollo.",
+        "tags": "desarrollo de software, especificaciones técnicas, generación de tareas, prompts, planificación de código",
+        "logo_filename": "id_2194_braingrid",
+        "what_is": "BrainGrid es una herramienta de codificación que transforma prompts en especificaciones y tareas técnicas.",
+        "purpose": "Transformar instrucciones generales en especificaciones y tareas estructuradas para proyectos de software.",
+        "use_cases": "Generación de especificaciones, definición de tareas técnicas, planificación de desarrollos y estructuración de proyectos de software.",
+        "main_advantages": "Convierte ideas o instrucciones generales en elementos técnicos más estructurados para facilitar la ejecución del desarrollo.",
+        "long_description": "BrainGrid es una herramienta de codificación que convierte prompts en especificaciones y tareas técnicas. Está orientada a transformar instrucciones generales en elementos más estructurados que puedan utilizarse para planificar y desarrollar proyectos de software.",
+        "release_date": "No disponible",
+        "developer": "BrainGrid",
+        "main_model": "No especificado",
+        "pricing_plans": "No disponible",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.braingrid.ai/"
+        }
+      ]
+    },
+    "2338": {
+      "app": {
+        "id": "2338",
+        "name": "BrightStage AI",
+        "url": "https://brightstageai.com/",
+        "short_description": "Plataforma de IA para crear y ejecutar webinars, presentaciones y eventos de ventas automatizados.",
+        "category": "Marketing",
+        "main_functionality": "Crear webinars y presentaciones automatizadas con video, chat, seguimiento y herramientas de conversión asistidas por inteligencia artificial.",
+        "tags": "webinars automatizados, eventos con IA, ventas, funnels, presentaciones, seguimiento, marketing automation",
+        "logo_filename": "id_2338_brightstage_ai",
+        "what_is": "BrightStage AI es una plataforma de marketing y ventas que automatiza webinars, presentaciones, eventos y procesos posteriores de seguimiento.",
+        "purpose": "Automatizar experiencias de venta y marketing que normalmente requieren webinars en vivo, presentadores y seguimiento manual.",
+        "use_cases": "Webinars evergreen, presentaciones comerciales, demostraciones, funnels, captación de leads, seguimiento automatizado y eventos de ventas.",
+        "main_advantages": "Integra creación de contenido, webinars automatizados, chat, seguimiento multicanal y analítica dentro de una misma plataforma.",
+        "long_description": "BrightStage AI es una plataforma de automatización de marketing y ventas centrada en eventos y webinars impulsados por inteligencia artificial. Permite generar presentaciones y videos, ejecutar webinars evergreen, interactuar con asistentes mediante chat y activar seguimientos personalizados y acciones de conversión sin depender de un presentador en vivo.",
+        "release_date": "No disponible",
+        "developer": "BrightStage AI",
+        "main_model": "No especificado",
+        "pricing_plans": "Prueba gratuita de 14 días; Starter: $59.95 USD/mes; Growth: $78.20 USD/mes; Scale: $498.50 USD/mes",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "API, Zapier, autoresponders, CRM, email y SMS"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://brightstageai.com/"
+        }
+      ]
+    },
+    "2433": {
+      "app": {
+        "id": "2433",
+        "name": "Botsify",
+        "url": "https://botsify.com/",
+        "short_description": "Plataforma para crear y desplegar agentes conversacionales y automatizaciones de atención al cliente.",
+        "category": "Automatización",
+        "main_functionality": "Crear, desplegar y gestionar agentes conversacionales y automatizaciones orientadas a atención al cliente.",
+        "tags": "agentes de IA, chatbots, automatización, atención al cliente, soporte, despliegue, conversaciones, workflows",
+        "logo_filename": "id_2433_botsify",
+        "what_is": "Botsify es una plataforma de automatización conversacional que permite crear y desplegar chatbots y agentes para atención al cliente.",
+        "purpose": "Permitir a empresas automatizar conversaciones y tareas de atención al cliente mediante agentes y chatbots.",
+        "use_cases": "Chatbots de soporte, generación de leads, atención al cliente, automatización de preguntas frecuentes, conversaciones web y workflows de servicio.",
+        "main_advantages": "Permite desplegar automatizaciones conversacionales para distintos escenarios de atención sin construir cada solución desde cero.",
+        "long_description": "Botsify es una plataforma de automatización conversacional para crear y desplegar chatbots y agentes orientados a atención al cliente. Puede utilizarse para responder preguntas frecuentes, captar leads, gestionar conversaciones y automatizar tareas relacionadas con soporte y servicio.",
+        "release_date": "No disponible",
+        "developer": "Botsify",
+        "main_model": "No especificado",
+        "pricing_plans": "Done-for-You AI Agent: $149 USD/mes o $1,490 USD/año; soluciones para agencias y white-label con precios adicionales",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "Sitios web y canales de atención conversacional"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://botsify.com/"
+        }
+      ]
+    },
+    "2538": {
+      "app": {
+        "id": "2538",
+        "name": "Calton Datx",
+        "url": "https://caltondatx.com/",
+        "short_description": "Plataforma de analítica para publicidad exterior que utiliza datos y visión por computadora para medir audiencias y comportamiento del tráfico.",
+        "category": "Publicidad",
+        "main_functionality": "Analiza audiencias y tráfico asociados a publicidad exterior mediante datos y visión por computadora para apoyar medición y optimización de campañas.",
+        "tags": "publicidad exterior, DOOH, analítica de audiencia, visión por computadora, tráfico, medición",
+        "logo_filename": "id_2538_calton_datx",
+        "what_is": "Calton Datx es una plataforma de analítica y medición para publicidad exterior y DOOH basada en datos, tráfico y visión por computadora.",
+        "purpose": "Mejorar la medición y análisis de publicidad exterior mediante datos sobre audiencias, tráfico y comportamiento.",
+        "use_cases": "Medir audiencias de publicidad exterior; analizar tráfico; evaluar ubicaciones DOOH; comparar desempeño de campañas; obtener métricas mediante visión por computadora.",
+        "main_advantages": "Añade métricas basadas en datos y visión por computadora a un medio publicitario tradicionalmente más difícil de medir.",
+        "long_description": "Calton Datx es una plataforma de analítica enfocada en publicidad exterior y medios DOOH. Utiliza datos y técnicas de visión por computadora para estudiar tráfico, audiencias y comportamiento alrededor de ubicaciones publicitarias. Su objetivo es ofrecer métricas que ayuden a anunciantes y operadores a evaluar el desempeño de espacios exteriores y tomar decisiones basadas en información cuantificable.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://caltondatx.com/"
+        }
+      ]
+    }
+  }
+}

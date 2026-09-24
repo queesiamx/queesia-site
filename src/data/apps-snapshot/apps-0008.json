@@ -1,0 +1,2387 @@
+{
+  "schemaVersion": 1,
+  "apps": {
+    "77": {
+      "app": {
+        "id": "77",
+        "name": "Codeium",
+        "url": "https://codeium.com/",
+        "short_description": "Una plataforma personalizable impulsada por IA que puede colaborar contigo como un copiloto y abordar tareas complejas de forma independiente como un agente.",
+        "category": "Productividad",
+        "main_functionality": "Proporciona sugerencias de código en tiempo real, facilita la búsqueda de fragmentos de código y permite interacciones de chat para resolver dudas de programación, mejorando la eficiencia y productividad de los desarrolladores.",
+        "tags": "#Productividad #Educación #Automatización",
+        "logo_filename": "id_77_codeium",
+        "what_is": "Codeium es una herramienta de inteligencia artificial diseñada para programadores. Actúa como un asistente en tiempo real que sugiere y autocompleta código, responde preguntas técnicas, y optimiza flujos de trabajo de desarrollo, todo desde el entorno de desarrollo integrado (IDE) favorito del usuario.",
+        "purpose": "Sirve para aumentar la productividad de los desarrolladores al reducir el tiempo dedicado a escribir código manualmente, buscar soluciones en línea y depurar errores. Ayuda a automatizar tareas repetitivas y a encontrar rápidamente fragmentos de código relevantes.",
+        "use_cases": "Desarrollo Web: Autocompletar estructuras HTML, CSS y JavaScript.\nPrototipos Rápidos: Generar funciones o algoritmos estándar de forma inmediata.\nDepuración: Buscar soluciones específicas para errores o problemas.\nAprendizaje: Ayudar a nuevos desarrolladores a entender estructuras de código con ejemplos claros.\nEntornos Empresariales: Facilitar proyectos colaborativos al estandarizar prácticas de codificación.",
+        "main_advantages": "Compatible con más de 70 lenguajes de programación, como Python, Java, JavaScript y más.\nFunciona en IDEs populares como VS Code, IntelliJ, y PyCharm.\nOfrece chat integrado para resolver dudas de programación en tiempo real.\nAhorra tiempo al generar código repetitivo o común.\nFacilita la colaboración con equipos al mantener consistencia en la codificación.",
+        "long_description": "Codeium es una herramienta de inteligencia artificial diseñada para asistir a desarrolladores en la escritura y optimización de código. Sus principales funcionalidades incluyen:\n\nAutocompletado de Código: Ofrece sugerencias en tiempo real mientras el desarrollador escribe, basándose en el contexto del proyecto y el archivo actual, lo que agiliza el proceso de codificación y reduce errores. \n\nAsistente de Chat en el Editor: Permite a los usuarios interactuar con una IA dentro del entorno de desarrollo integrado (IDE) para resolver dudas, obtener explicaciones de código y recibir sugerencias sobre refactorización. \n\nBúsqueda Inteligente: Facilita la localización de funciones, variables o fragmentos de código específicos dentro de grandes bases de código, mejorando la eficiencia en proyectos complejos. \n\nGeneración de Código: A partir de descripciones en lenguaje natural, Codeium puede generar funciones completas, pruebas unitarias o documentación, acelerando el desarrollo y asegurando consistencia. \n\nIntegración Multi-IDE: Compatible con más de 40 entornos de desarrollo, incluyendo Visual Studio Code, JetBrains y otros, adaptándose a las preferencias de los desarrolladores.",
+        "release_date": "2021",
+        "developer": "Exafunction, Inc.",
+        "main_model": "Utiliza modelos de aprendizaje profundo entrenados en grandes conjuntos de datos de código para proporcionar sugerencias y asistencia precisas.",
+        "pricing_plans": "Plan Individual: Gratuito, incluye autocompletado ilimitado, asistente de chat en el editor y conciencia de contexto básica. \n\nPlan Pro: $10/mes, ofrece mayores límites de indexación, mejor velocidad de autocompletado y acceso ilimitado a modelos avanzados como GPT-4. \n\nPlan Teams: $24/mes por usuario, diseñado para equipos de hasta 50 desarrolladores, con características como análisis organizacional y asistencia en la revisión de código mediante IA.",
+        "license": "Propietaria de Exafunction, Inc.",
+        "security_privacy": "Codeium cumple con estándares de seguridad como SOC 2 Tipo 2 y no utiliza datos no permisivos para entrenar su modelo de IA, asegurando la protección de la información del usuario.",
+        "integration": "Se integra con más de 40 IDEs, incluyendo Visual Studio Code, JetBrains y otros entornos populares, facilitando su adopción en diversos flujos de trabajo de desarrollo."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://codeium.com/windsurf?utm_source=superhuman&utm_medium=newsletter&utm_campaign=microsoft-s-ai-revamp&_bhlid=5e349cd9fbf9d3ebd6c38c0a54b278a641f7f4e2"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/codeium"
+        },
+        {
+          "source_url": "https://herramientasdeia.io/codeium/"
+        },
+        {
+          "source_url": "https://codeium.com/pricing"
+        },
+        {
+          "source_url": "https://codeium.com/enterprise"
+        },
+        {
+          "source_url": "https://codeium.com/privacy-policy"
+        },
+        {
+          "source_url": "https://future-pedia.com/es/tool/codeium-ai/"
+        },
+        {
+          "source_url": "https://codeium.com/faq"
+        }
+      ]
+    },
+    "87": {
+      "app": {
+        "id": "87",
+        "name": "ClickUp",
+        "url": "https://clickup.com/",
+        "short_description": "Plataforma integral de productividad que centraliza la gestión de tareas, documentos y colaboración en equipo, optimizada con inteligencia artificial para mejorar la eficiencia laboral.",
+        "category": "Productividad",
+        "main_functionality": "Ofrece herramientas para la gestión de proyectos, colaboración en documentos, seguimiento de tareas y automatización de flujos de trabajo, todo en una sola plataforma.",
+        "tags": "#FlujoDeTareas #Productividad #Colaboración #Automatización",
+        "logo_filename": "id_87_clickup",
+        "what_is": "ClickUp es una plataforma de productividad y gestión de proyectos todo en uno que reúne herramientas para la planificación, organización y colaboración en un solo lugar. Con capacidades impulsadas por inteligencia artificial, ayuda a los equipos a optimizar su flujo de trabajo y aumentar la eficiencia.",
+        "purpose": "Sirve para organizar y priorizar tareas, planificar proyectos, colaborar en documentos y automatizar procesos, permitiendo que los equipos trabajen de manera más eficiente en proyectos complejos y tareas diarias.",
+        "use_cases": "Gestión de Proyectos: Planificación y seguimiento de proyectos con vistas en listas, tableros, cronogramas y gráficos de Gantt.\nAutomatización de Flujos de Trabajo: Configuración de automatizaciones para reducir tareas manuales.\nColaboración en Equipo: Creación y edición conjunta de documentos, notas y listas de tareas.\nSeguimiento de Objetivos: Medición del progreso hacia metas específicas a través de herramientas de monitoreo integradas.\nIntegración Empresarial: Uso en departamentos como marketing, desarrollo de software, recursos humanos y finanzas.",
+        "main_advantages": "Plataforma todo en uno que reduce la necesidad de utilizar múltiples herramientas.\nOpciones de personalización para adaptarse a diferentes estilos de trabajo.\nCapacidades de IA para resumir texto, generar contenido y predecir fechas de vencimiento.\nIntegración con más de 1,000 aplicaciones como Slack, Google Drive, Trello y Jira.\nIdeal para equipos remotos y colaboraciones multifuncionales.",
+        "long_description": "ClickUp es una plataforma integral de gestión de proyectos y productividad que centraliza diversas herramientas en un solo lugar, facilitando la planificación, organización y colaboración de equipos. Sus principales funcionalidades incluyen:\n\nGestión de Tareas y Proyectos: Permite crear, asignar y priorizar tareas, estableciendo fechas límite y seguimiento del progreso mediante vistas personalizables como listas, tableros Kanban, calendarios y diagramas de Gantt. \n\nDocumentos y Notas: Ofrece la posibilidad de crear y editar documentos colaborativos, notas y wikis, integrados directamente en los proyectos para un acceso y referencia rápidos. \n\nAutomatización de Flujos de Trabajo: Facilita la automatización de procesos repetitivos mediante reglas personalizadas, reduciendo el trabajo manual y minimizando errores. \n\nIntegraciones: Se integra con más de 1,000 aplicaciones externas, incluyendo Slack, Google Drive, Trello y Jira, permitiendo una sincronización fluida de datos y procesos. \n\nHerramientas de Comunicación: Incluye funciones de chat en tiempo real, comentarios en tareas y menciones, mejorando la comunicación y colaboración entre miembros del equipo. \n\nInformes y Análisis: Proporciona paneles de control y herramientas de análisis para monitorear el rendimiento, identificar cuellos de botella y tomar decisiones informadas basadas en datos.",
+        "release_date": "2017",
+        "developer": "ClickUp, fundada por Zeb Evans y Alex Yurkowski.",
+        "main_model": "No disponible.",
+        "pricing_plans": "Free Forever: Ideal para uso personal, con tareas, usuarios, equipos y proyectos ilimitados. \n\nUnlimited: Por $7 por usuario al mes, incluye integraciones ilimitadas, paneles de control y campos personalizados. \n\nBusiness: Por $12 por usuario al mes, ofrece funciones avanzadas como gestión de recursos, seguimiento del tiempo y seguridad mejorada. \n\nBusiness Plus: Por $19 por usuario al mes, añade mejoras adicionales en seguridad y personalización. \n\nEnterprise: Plan personalizado para grandes empresas, con características avanzadas y soporte dedicado. \n",
+        "license": "Propietaria",
+        "security_privacy": "ClickUp implementa medidas de seguridad estándar de la industria para proteger la información y los datos de los usuarios, asegurando la confidencialidad y la integridad de las transacciones.",
+        "integration": "ClickUp se integra con diversas herramientas y servicios, facilitando la adaptación y optimización de flujos de trabajo existentes."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/clickup"
+        },
+        {
+          "source_url": "https://clickup.com/ai?utm_source=ps&utm_medium=cpc&utm_campaign=ps_cpc_at_nnc_pro_trial_all-devices_cpc_lp_x_all-departments_x_ffm&pscd=try.web.clickup.com&ps_partner_key=ZmZt&ps_xid=5XBsI2DuyWHIVj&gsxid=5XBsI2DuyWHIVj&gspk=ZmZt"
+        },
+        {
+          "source_url": "https://clickup.com/terms/privacy"
+        },
+        {
+          "source_url": "https://clickup.com/pricing"
+        },
+        {
+          "source_url": "https://clickup.com/about"
+        },
+        {
+          "source_url": "https://clickup.com/features"
+        },
+        {
+          "source_url": "https://help.clickup.com/hc/en-us/articles/13826034537623-ClickUp-AI-FAQ"
+        }
+      ]
+    },
+    "97": {
+      "app": {
+        "id": "97",
+        "name": "CodeConvert",
+        "url": "https://www.codeconvert.ai/",
+        "short_description": "Herramienta de inteligencia artificial que permite convertir código entre más de 25 lenguajes de programación con un solo clic, facilitando la adaptación y reutilización de código en diferentes entornos.",
+        "category": "Codificación",
+        "main_functionality": "Conversión automatizada de código fuente entre múltiples lenguajes de programación, optimizando el proceso de desarrollo y reduciendo la necesidad de reescribir código manualmente.",
+        "tags": "#Automatización #Programación #Productividad",
+        "logo_filename": "id_97_code_convert",
+        "what_is": "CodeConvert AI es una herramienta basada en inteligencia artificial diseñada para facilitar la conversión de código entre múltiples lenguajes de programación. Su objetivo es simplificar el proceso de adaptación de código existente a diferentes entornos, reduciendo la necesidad de reescribir manualmente y acelerando el desarrollo de software.",
+        "purpose": "Esta plataforma permite a desarrolladores y equipos de software transformar código escrito en un lenguaje de programación a otro de manera eficiente y precisa. Es especialmente útil para proyectos que requieren migraciones de lenguaje, integración de sistemas heterogéneos o colaboración entre equipos que utilizan diferentes tecnologías.",
+        "use_cases": "Migración de Proyectos: Transformar aplicaciones escritas en lenguajes obsoletos a lenguajes modernos para mejorar el rendimiento y mantenimiento.\nIntegración de Sistemas: Facilitar la interoperabilidad entre módulos desarrollados en distintos lenguajes dentro de una misma arquitectura de software.\nAprendizaje y Formación: Ayudar a programadores a comprender cómo se implementan ciertas funcionalidades en diferentes lenguajes, acelerando el proceso de aprendizaje.\nOptimización de Recursos: Permitir la reutilización de código existente en nuevos proyectos que requieren un lenguaje de programación diferente. ",
+        "main_advantages": "Eficiencia: Reduce significativamente el tiempo y esfuerzo necesarios para convertir código entre lenguajes.\nPrecisión: Utiliza modelos avanzados de IA para asegurar una conversión precisa y de alta calidad.\nFacilidad de Uso: No requiere instalación ni configuración; basta con pegar el código y seleccionar el lenguaje de destino.\nCompatibilidad Amplia: Soporta más de 25 lenguajes de programación, incluyendo C++, Java, Python, JavaScript, entre otros.",
+        "long_description": "CodeConvert AI es una herramienta basada en inteligencia artificial diseñada para facilitar la conversión de código entre múltiples lenguajes de programación. Su objetivo es simplificar el proceso de adaptación de código existente a diferentes entornos, reduciendo la necesidad de reescribir manualmente y acelerando el desarrollo de software.",
+        "release_date": "Febrero 2023",
+        "developer": "CodeConvert AI.",
+        "main_model": "CodeConvert AI utiliza modelos avanzados de inteligencia artificial para asegurar que el código se convierta con la mayor precisión y calidad.",
+        "pricing_plans": "CodeConvert AI ofrece opciones flexibles de precios, desde un plan gratuito hasta pases semanales y mensuales, para adaptarse a las necesidades de cualquier usuario.",
+        "license": "Propietaria de CodeConvert AI.",
+        "security_privacy": "CodeConvert AI se toma en serio la privacidad y la seguridad. No retiene el código de entrada del usuario ni el código de salida generado.",
+        "integration": "CodeConvert AI es una solución basada en la web, eliminando la necesidad de descargas o instalaciones. No se especifican integraciones con otras herramientas en la información disponible."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.codeconvert.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=chatgpt-takes-on-google-with-new-search-feature"
+        },
+        {
+          "source_url": "https://kodora.ai/ai-tool/codeconvert-ai/"
+        },
+        {
+          "source_url": "https://vivevirtual.es/inteligencia-artificial/codeconvert-ai-automatiza-la-conversion-de-codigo-entre-lenguajes-de-programacion-con-ia/"
+        },
+        {
+          "source_url": "https://codeconvert-ai.softonic.com/aplicaciones-web"
+        },
+        {
+          "source_url": "https://topai.tools/t/codeconvert-ai"
+        },
+        {
+          "source_url": "https://www.aitoolnet.com/es/codeconvert-ai?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://iasensei.net/codeconvert-ai/"
+        },
+        {
+          "source_url": "https://www.codeconvert.ai/privacy"
+        },
+        {
+          "source_url": "https://www.codeconvert.ai/pricing"
+        }
+      ]
+    },
+    "118": {
+      "app": {
+        "id": "118",
+        "name": "Cogent AI",
+        "url": "https://joincogent.com/",
+        "short_description": "Elimine las conjeturas de la recaudación de fondos: cargue su plataforma para acceder a la inteligencia de inversión impulsada por IA.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Generación automatizada de materiales de estudio personalizados y asistencia interactiva mediante chat con documentos del usuario.",
+        "tags": "#BI #Automatización #Finanzas #Colaboración",
+        "logo_filename": "id_118_cogentai",
+        "what_is": "Cogent es una plataforma de aprendizaje impulsada por inteligencia artificial que ofrece herramientas como cuestionarios, tarjetas de memoria, creadores de planes de lecciones y chatbots para mejorar el proceso de estudio.",
+        "purpose": "Su propósito principal es facilitar y optimizar el aprendizaje mediante recursos interactivos y personalizados, adaptándose a las necesidades de estudiantes de diversas edades y niveles educativos.",
+        "use_cases": "Estudiantes de secundaria que buscan reforzar sus conocimientos en materias específicas.\nUniversitarios que requieren herramientas de estudio avanzadas para preparar exámenes.\nProfesionales en formación continua que desean organizar y planificar su aprendizaje de manera eficiente.",
+        "main_advantages": "Interfaz intuitiva y fácil de usar.\nHerramientas de estudio personalizables que se adaptan a diferentes estilos de aprendizaje.\nCapacidades de colaboración en tiempo real con compañeros y educadores.\nAcceso a recursos educativos precisos y actualizados gracias a algoritmos avanzados de IA.",
+        "long_description": "Cogent es una plataforma de aprendizaje impulsada por inteligencia artificial que ofrece una variedad de herramientas diseñadas para mejorar el proceso de estudio. Entre sus funcionalidades destacan la generación de cuestionarios, tarjetas de memoria (flashcards), creadores de planes de lecciones y chatbots interactivos. Estas herramientas permiten a los usuarios personalizar su experiencia de aprendizaje, adaptándose a sus necesidades y estilos individuales. Además, Cogent facilita la colaboración en tiempo real con compañeros y educadores, promoviendo un entorno de estudio más dinámico y efectivo.",
+        "release_date": "No disponible.",
+        "developer": "No disponible.",
+        "main_model": "No disponible.",
+        "pricing_plans": "Gratis: Ofrece acceso limitado con hasta 3 temas, 3 flashcards generadas por IA al mes, 1 plan de estudio por IA al mes (próximamente), acceso compartido con hasta 3 personas por archivo y chatbot limitado.\nElite: Por $20 al mes, proporciona acceso ilimitado a temas, flashcards generadas por IA, planes de estudio (próximamente), capacidades completas del chatbot, acceso compartido ilimitado, organización en carpetas y acceso a todas las funciones beta.",
+        "license": "Propietaria",
+        "security_privacy": "Cogent utiliza algoritmos avanzados de IA para proporcionar información precisa y confiable basada en el tema elegido por el usuario. Sin embargo, no se proporciona información específica sobre políticas de seguridad y privacidad en el sitio web.",
+        "integration": "No se menciona información sobre la compatibilidad o integración con otros servicios o aplicaciones en la información disponible."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://cogentai.platvix.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=anthropic-and-aws-join-forces"
+        },
+        {
+          "source_url": "https://www.aitoolnet.com/es/cogent"
+        },
+        {
+          "source_url": "https://bestofai.com/article/cogent"
+        },
+        {
+          "source_url": "https://findaitools.com.br/produtividade/cogent/"
+        }
+      ]
+    },
+    "119": {
+      "app": {
+        "id": "119",
+        "name": "Colorixor",
+        "url": "https://www.colorixor.xyz/",
+        "short_description": "Vuelva a colorear fácilmente los objetos de las imágenes con precisión de IA y dé vida a sus ideas.",
+        "category": "Edición de imágenes",
+        "main_functionality": "Recolorear objetos específicos dentro de imágenes utilizando algoritmos avanzados de IA para una transformación precisa y rápida.",
+        "tags": "#EdiciónDeImágenes #Recoloración #DiseñoGráfico",
+        "logo_filename": "id_119_colorixor",
+        "what_is": "Colorixor es una herramienta de edición de imágenes impulsada por inteligencia artificial que permite a los usuarios cambiar los colores de objetos específicos dentro de una imagen de manera precisa y eficiente.",
+        "purpose": "Su propósito principal es facilitar la recoloración de objetos en imágenes, permitiendo a diseñadores, creadores de contenido y usuarios en general experimentar con diferentes paletas de colores y estilos visuales sin necesidad de procesos manuales complejos.",
+        "use_cases": "Diseño Gráfico: Los diseñadores pueden utilizar Colorixor para presentar múltiples variaciones de color de un producto o diseño a sus clientes de manera rápida y eficiente. \n\nComercio Electrónico: Los minoristas en línea pueden modificar los colores de los productos en sus catálogos digitales para alinearlos con tendencias estacionales o preferencias de los clientes, sin necesidad de realizar nuevas sesiones fotográficas. \n\nMarketing en Redes Sociales: Influencers y gestores de contenido pueden ajustar los colores de sus imágenes para mantener una estética coherente con su marca o para destacar en campañas específicas. ",
+        "main_advantages": "Recoloración Instantánea: Permite cambiar los colores de objetos en imágenes de forma inmediata, optimizando el flujo de trabajo. \n\nDetección Inteligente de Objetos: Utiliza algoritmos avanzados para identificar automáticamente los objetos en una imagen, eliminando la necesidad de selecciones manuales tediosas. \n\nPersonalización Infinita de Colores: Ofrece una amplia gama de opciones de color, desde tonos sutiles hasta colores vibrantes, permitiendo una personalización detallada según las necesidades del usuario. \n\nInterfaz Intuitiva: Diseñada para ser fácil de usar, incluso para aquellos sin experiencia previa en edición de imágenes, facilitando la adopción de la herramienta.",
+        "long_description": "Colorixor es una herramienta de inteligencia artificial diseñada para facilitar la recolorización de objetos en imágenes de manera precisa y eficiente. Utiliza algoritmos avanzados de detección de objetos para identificar automáticamente elementos dentro de una imagen, permitiendo a los usuarios seleccionar y modificar colores sin necesidad de procesos manuales tediosos. La plataforma ofrece una amplia gama de opciones de personalización de colores, desde tonos sutiles hasta matices audaces, brindando flexibilidad para adaptarse a diversas necesidades creativas. Su interfaz intuitiva permite a los usuarios cargar una imagen, seleccionar el objeto deseado y aplicar el color preferido, generando una imagen transformada de alta calidad de forma rápida.",
+        "release_date": "Noviembre 2024",
+        "developer": "No disponible.",
+        "main_model": "No disponible.",
+        "pricing_plans": "Colorixor opera mediante un sistema de tokens de IA. Los usuarios pueden adquirir estos tokens y utilizarlos según sus necesidades específicas. Los precios están diseñados para ser competitivos en el mercado, ofreciendo una relación costo-beneficio favorable.\n\n",
+        "license": "No disponible.",
+        "security_privacy": "No disponible.",
+        "integration": "No disponible."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.colorixor.xyz/?utm_source=superhuman&utm_medium=referral&utm_campaign=anthropic-and-aws-join-forces"
+        },
+        {
+          "source_url": "https://www.aitoolnet.com/es/colorixor"
+        },
+        {
+          "source_url": "https://aipure.ai/products/colorixor"
+        },
+        {
+          "source_url": "https://www.producthunt.com/posts/colorixor"
+        },
+        {
+          "source_url": "https://steemhunt.com/%40kaaju/colorixor-recolor-objects-in-your-images-with-ai"
+        },
+        {
+          "source_url": "https://rocky-balmoral-02e.notion.site/Privacy-Policy-Colorixor-13232a93cec380df9483e82cce524ddd"
+        },
+        {
+          "source_url": "https://rocky-balmoral-02e.notion.site/About-Us-Colorixor-xyz-13232a93cec380ddad14f1688a270ba4"
+        }
+      ]
+    },
+    "126": {
+      "app": {
+        "id": "126",
+        "name": "Coda AI",
+        "url": "https://coda.io/product/ai",
+        "short_description": "Asistente de trabajo inteligente que integra capacidades de inteligencia artificial en documentos colaborativos, facilitando la creación, resumen y automatización de tareas para equipos.",
+        "category": "Redacción",
+        "main_functionality": "Automatización de tareas y generación de contenido en documentos colaborativos mediante inteligencia artificial, incluyendo la creación de tablas, resúmenes y asistencia en la escritura.",
+        "tags": "#AsistenteVirtual #IA #Automatización #DocumentosColaborativos #Productividad",
+        "logo_filename": "id_126_coda_ai",
+        "what_is": "Coda AI es una extensión de inteligencia artificial integrada en la plataforma de documentos colaborativos Coda. Está diseñada para ayudar a los equipos a trabajar de manera más eficiente al proporcionar herramientas inteligentes para la generación, resumen y gestión de contenido en documentos.",
+        "purpose": "Su propósito es optimizar la productividad en equipos y proyectos mediante la automatización de tareas rutinarias, como la creación de resúmenes, redacción de texto y organización de información. Además, permite personalizar funciones según las necesidades específicas de los usuarios.",
+        "use_cases": "Redacción asistida: Generación de texto automáticamente para propuestas, correos electrónicos o resúmenes.\nCreación de resúmenes: Resumen rápido de información clave de documentos extensos.\nGestión de proyectos: Automatización de tablas y actualizaciones de tareas en proyectos colaborativos.\nAnálisis de datos: Procesamiento de datos almacenados en documentos y generación de conclusiones o gráficos.\nFacilitación de reuniones: Registro de notas, seguimiento de acciones y generación de informes automáticamente.",
+        "main_advantages": "Mejora la eficiencia al reducir el tiempo dedicado a tareas repetitivas.\nIncrementa la colaboración con herramientas inteligentes dentro de un espacio compartido.\nFlexibilidad para personalizar flujos de trabajo según las necesidades del equipo.\nCompatibilidad con integraciones y herramientas existentes.\nFácil acceso desde la plataforma Coda, sin necesidad de herramientas adicionales.",
+        "long_description": "Coda AI es una extensión de inteligencia artificial integrada en la plataforma de documentos colaborativos Coda. Diseñada para mejorar la eficiencia y productividad de los equipos, Coda AI ofrece funcionalidades como la generación automática de contenido, resúmenes de documentos, creación de tablas y automatización de tareas repetitivas. Además, proporciona asistencia en la escritura, sugiriendo ediciones y facilitando la elaboración de textos. Coda AI se integra con más de 600 herramientas y aplicaciones, permitiendo una gestión centralizada de la información y flujos de trabajo personalizados.",
+        "release_date": "No disponible.",
+        "developer": "Coda",
+        "main_model": "No disponible.",
+        "pricing_plans": "Coda AI está incluida para los creadores de documentos (Doc Makers) en los espacios de trabajo de pago, sin necesidad de una licencia o complemento adicional.",
+        "license": "Propietaria",
+        "security_privacy": "Coda AI se compromete a proteger la privacidad y seguridad de los datos de los usuarios. Aunque no se detallan políticas específicas en la información disponible, es recomendable que los usuarios revisen las políticas de privacidad y términos de servicio en el sitio oficial para comprender cómo se manejan sus datos.",
+        "integration": "Coda AI se integra con más de 600 aplicaciones y servicios, permitiendo la consolidación de herramientas y datos en un solo lugar para facilitar la colaboración y eficiencia del equipo."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/coda-ai"
+        },
+        {
+          "source_url": "https://coda.io/product/ai?ps_partner_key=ZmZt&ps_xid=7ppvJ6opBW2jxv&gsxid=7ppvJ6opBW2jxv&gspk=ZmZt"
+        },
+        {
+          "source_url": "https://coda.io/resources"
+        },
+        {
+          "source_url": "https://coda.io/solutions"
+        },
+        {
+          "source_url": "https://coda.io/pricing"
+        },
+        {
+          "source_url": "https://coda.io/about"
+        },
+        {
+          "source_url": "https://coda.io/trust/privacy"
+        }
+      ]
+    },
+    "148": {
+      "app": {
+        "id": "148",
+        "name": "CodeAnt",
+        "url": "https://www.codeant.ai/",
+        "short_description": "Detecte y corrija automáticamente problemas de calidad de código, errores y vulnerabilidades de seguridad en tiempo real con cada confirmación de código.\n",
+        "category": "Codificación",
+        "main_functionality": "Realiza análisis estático del código para identificar y solucionar problemas de calidad y seguridad, proporcionando resúmenes de cambios y sugerencias de mejora directamente en el entorno de desarrollo integrado (IDE) o en las solicitudes de extracción (pull requests).",
+        "tags": "#RevisiónDeCódigo #InteligenciaArtificial #SeguridadDeAplicaciones #AnálisisEstático #DesarrolloDeSoftware",
+        "logo_filename": "id_148_code_ant",
+        "what_is": "CodeAnt AI es una herramienta de revisión de código impulsada por inteligencia artificial que ayuda a los desarrolladores a detectar y corregir automáticamente problemas de calidad y vulnerabilidades de seguridad en más de 30 lenguajes de programación. Se integra directamente con entornos de desarrollo integrados (IDEs), solicitudes de extracción (pull requests) y pipelines de integración y entrega continua (CI/CD).",
+        "purpose": "Su propósito principal es mejorar la calidad del código y la seguridad de las aplicaciones al identificar y solucionar problemas como anti-patrones, código duplicado o muerto, funciones complejas y vulnerabilidades de seguridad. Además, proporciona resúmenes concisos de los cambios en las solicitudes de extracción, facilitando la comprensión y revisión del código por parte del equipo.",
+        "use_cases": "Equipos de Desarrollo de Software: Automatiza la revisión de código, reduciendo el tiempo dedicado a esta tarea y mejorando la consistencia y calidad del código.\n\nEmpresas de Tecnología: Implementa prácticas de seguridad proactivas al identificar y corregir vulnerabilidades antes de que lleguen a producción.\n\nStartups en Crecimiento: Facilita la escalabilidad del desarrollo al mantener estándares de código elevados sin necesidad de ampliar significativamente el equipo de revisión.",
+        "main_advantages": "Reducción del Tiempo de Revisión: Disminuye el tiempo dedicado a la revisión de código en un 50%, permitiendo a los desarrolladores enfocarse en la implementación de nuevas funcionalidades. \n\nMejora de la Calidad del Código: Identifica y corrige automáticamente problemas de calidad, asegurando un código más limpio y mantenible.\n\nDetección de Vulnerabilidades de Seguridad: Detecta vulnerabilidades potenciales, contribuyendo a la creación de aplicaciones más seguras.\n\nIntegración Fluida: Se integra fácilmente con herramientas y flujos de trabajo existentes, como IDEs y sistemas de control de versiones, sin interrumpir el proceso de desarrollo.",
+        "long_description": "CodeAnt AI es una herramienta avanzada de revisión de código impulsada por inteligencia artificial, diseñada para mejorar la calidad y seguridad del software en más de 30 lenguajes de programación. Se integra directamente con entornos de desarrollo integrados (IDEs), solicitudes de extracción (pull requests) y pipelines de integración y entrega continua (CI/CD), proporcionando análisis estático del código en tiempo real. Sus funcionalidades incluyen la detección y corrección automática de anti-patrones, código duplicado o muerto, funciones complejas y vulnerabilidades de seguridad. Además, ofrece resúmenes concisos de los cambios en las solicitudes de extracción, facilitando la comprensión y revisión del código por parte del equipo.",
+        "release_date": "2023",
+        "developer": "CodeAnt AI, fundada por Amartya Jha y Chinmay Bharti.",
+        "main_model": "Emplea modelos de lenguaje de gran tamaño (LLMs) y motores de análisis sintáctico abstracto (AST) para detectar y corregir problemas de código.",
+        "pricing_plans": "**AI Code R$10 por usuario/mes. Incluye resumen de solicitudes de extracción, detección de problemas de calidad y seguridad, y soporte dedicado. \n\nCode Quality Platform: $15 por usuario/mes. Ofrece análisis estático del código, reglas personalizadas, análisis de complejidad y documentación del código. \n\nCode Security Platform: $15 por usuario/mes. Incluye pruebas de seguridad de aplicaciones estáticas (SAST), seguridad de infraestructura como código (IaC), análisis de composición de software (SCA) y escaneo de secretos. ",
+        "license": "Propietaria",
+        "security_privacy": "CodeAnt AI es compatible con SOC 2, lo que garantiza altos estándares de seguridad y privacidad de los datos. Los datos se procesan de manera segura, y la empresa se compromete a no almacenar información sensible sin el consentimiento del usuario.",
+        "integration": "Se integra con entornos de desarrollo como Visual Studio Code y JetBrains, sistemas de control de versiones como GitHub y Bitbucket, y herramientas de seguimiento de problemas como JIRA. Estas integraciones permiten una experiencia fluida y eficiente en el flujo de trabajo de desarrollo."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Good Glamm Group mejora la calidad y eficiencia del desarrollo mediante revisión automatizada con CodeAnt AI",
+          "description": "El Good Glamm Group, líder en belleza y cuidado personal, adoptó CodeAnt AI para enfrentar los desafíos de revisión de código y evaluaciones de seguridad en su creciente base tecnológica. Esta solución permitió reducir en un 50% el tiempo de revisión, disminuir falsos positivos en seguridad y mantener altos estándares de calidad mediante reglas personalizadas, impulsando significativamente la productividad del equipo de ingeniería.",
+          "url": "https://www.codeant.ai/customer-story/good-glamm-group"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Orange Health Labs mejora la calidad del código y agiliza revisiones mediante implementación de CodeAnt AI",
+          "description": "Orange Health Labs, destacado laboratorio de diagnóstico en la India, adoptó CodeAnt AI para enfrentar los retos de calidad y seguridad en un entorno con casi 100 repositorios de código. La herramienta permitió generar resúmenes automáticos de pull requests, identificar violaciones de patrones y aplicar mejores prácticas, lo que redujo significativamente el tiempo de revisión y fortaleció su flujo de trabajo de ingeniería, apoyando su misión de atención médica en tiempo real.",
+          "url": "https://www.codeant.ai/customer-story/orange-health"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Draup mejora la calidad y mantenibilidad del software mediante documentación automatizada con CodeAnt AI",
+          "description": "Draup, plataforma de inteligencia de ventas para empresas Fortune 500, implementó CodeAnt AI para enfrentar retos en documentación de código y detección de patrones ineficientes. En solo una semana, documentaron más de 10,000 funciones, corrigieron 1,200 anti-patrones y refactorizaron más de 3,000 funciones complejas. Esta automatización mejoró la calidad, seguridad y eficiencia del desarrollo de software de forma significativa.",
+          "url": "https://www.codeant.ai/customer-story/draup"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.codeant.ai/ai-code-review?utm_source=superhuman&utm_medium=referral&utm_campaign=from-chatbots-to-computer-control"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/codeant-ai/features"
+        },
+        {
+          "source_url": "https://www.ycombinator.com/companies/codeant-ai"
+        },
+        {
+          "source_url": "https://topai.tools/t/codeant-ai"
+        },
+        {
+          "source_url": "https://iuu.ai/es/tool/codeant-ai"
+        },
+        {
+          "source_url": "https://marketplace.atlassian.com/apps/1235138/codeant-ai?tab=overview"
+        },
+        {
+          "source_url": "https://www.codeant.ai/customer-story"
+        },
+        {
+          "source_url": "https://www.codeant.ai/resources"
+        },
+        {
+          "source_url": "https://www.codeant.ai/#pricing"
+        },
+        {
+          "source_url": "https://www.codeant.ai/privacy-policy"
+        }
+      ]
+    },
+    "150": {
+      "app": {
+        "id": "150",
+        "name": "Codara",
+        "url": "https://codara.io/",
+        "short_description": "Revisa tu código y diagnostica errores usando IA.",
+        "category": "Codificación",
+        "main_functionality": "Automatiza el proceso de revisión de código mediante IA, ofreciendo análisis en tiempo real, comentarios línea por línea y sugerencias de corrección para optimizar la calidad del código",
+        "tags": "#RevisiónDeCódigo #InteligenciaArtificial #Automatización #DesarrolloDeSoftware",
+        "logo_filename": "id_150_codara",
+        "what_is": "Codara es una plataforma basada en inteligencia artificial diseñada para automatizar y optimizar la revisión de código. Proporciona retroalimentación detallada y sugerencias de mejora en tiempo real para desarrolladores, ayudándolos a escribir código de mayor calidad de manera más eficiente.",
+        "purpose": "Codara sirve para agilizar el proceso de revisión de código al ofrecer un análisis preciso y sugerencias de corrección que permiten a los desarrolladores detectar y solucionar errores rápidamente. También ayuda a estandarizar el estilo de programación y mejorar la calidad general del software.",
+        "use_cases": "Individual: Un desarrollador utiliza Codara para revisar automáticamente sus commits antes de enviarlos, asegurándose de que cumplen con los estándares de calidad del proyecto.\nEmpresarial: Equipos de desarrollo implementan Codara para mantener coherencia en el estilo de código y minimizar errores humanos durante el desarrollo de software.\nEducación: Instituciones académicas lo emplean como herramienta para enseñar buenas prácticas de programación a los estudiantes.",
+        "main_advantages": "Ahorro de tiempo: Automatiza la revisión de código, reduciendo significativamente el tiempo dedicado a esta tarea manual.\nMayor calidad del código: Identifica errores, inconsistencias y áreas de mejora con precisión.\nRetroalimentación inmediata: Proporciona análisis en tiempo real para corregir problemas al momento de escribir el código.\nMejora colaborativa: Facilita el trabajo en equipo al unificar estándares de código dentro de los proyectos.",
+        "long_description": "Codara es una herramienta de revisión de código impulsada por inteligencia artificial que se integra directamente en el entorno de desarrollo del usuario. Ofrece análisis en tiempo real de los cambios en el código, proporcionando sugerencias y posibles soluciones para errores y advertencias detectadas. Además, facilita diagnósticos de errores provenientes de comandos específicos, simplificando el proceso de depuración. Las revisiones y diagnósticos se guardan localmente en directorios designados dentro del proyecto, permitiendo un seguimiento detallado de las mejoras realizadas.",
+        "release_date": "No disponible.",
+        "developer": "No disponible.",
+        "main_model": "No disponible.",
+        "pricing_plans": "Prueba Gratuita: 14 días sin costo.\nSuscripción Mensual: $4 USD al mes, incluye revisiones ilimitadas, función de diagnóstico, modelos de IA propietarios, revisión de código no preparado y entre dos ramas, con almacenamiento local de las revisiones.\nPlan Empresarial: Incluye todas las características del plan básico, además de una instancia de IA dedicada, modelos de IA privados y locales, y soporte prioritario.",
+        "license": "Propietaria",
+        "security_privacy": "Codara asegura la confidencialidad y seguridad del código del usuario, garantizando que los datos permanezcan privados en todo momento.",
+        "integration": "Codara se integra sin problemas en el entorno de desarrollo existente del usuario, permitiendo una configuración rápida y revisiones eficientes."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://codara.io/?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-s-next-ai-giant-could-be-orion"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/codara/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/codara"
+        },
+        {
+          "source_url": "https://vivevirtual.es/inteligencia-artificial/codigo-generativo/codara/"
+        },
+        {
+          "source_url": "https://bestofai.com/article/codara-ai-code-review"
+        },
+        {
+          "source_url": "https://toole.ai/tools-codara/"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/codara/?ref=embed"
+        }
+      ]
+    },
+    "161": {
+      "app": {
+        "id": "161",
+        "name": "Cody",
+        "url": "https://meetcody.ai/",
+        "short_description": "Un asistente de IA que puedes entrenar en tu negocio, equipo, procesos y clientes con tu propia base de conocimientos.",
+        "category": "Codificación",
+        "main_functionality": "Proporcionar soporte avanzado a desarrolladores mediante búsquedas en bases de código, generación de código y documentación automatizada.",
+        "tags": "AsistenteDeCodificación #DesarrolloDeSoftware #InteligenciaArtificial #ProductividadEnProgramación",
+        "logo_filename": "id_161_cody",
+        "what_is": "Cody es un asistente de inteligencia artificial diseñado para desarrolladores, enfocado en ofrecer asistencia durante la codificación y en la comprensión de bases de código complejas. Funciona como una herramienta integral para buscar información en bases de código, generar fragmentos de código y explicar funciones o estructuras de manera sencilla.",
+        "purpose": "Su principal propósito es aumentar la productividad y eficiencia de los desarrolladores, ayudándoles a comprender bases de código existentes, solucionar problemas de programación y generar código de manera rápida y precisa.",
+        "use_cases": "Revisión de Código: Análisis automatizado de bases de código extensas para detectar errores o áreas de mejora.\nDocumentación: Generación de comentarios y documentación técnica sobre funciones o módulos.\nAprendizaje: Asistencia para programadores nuevos que necesitan entender lenguajes de programación o bases de código complejas.\nDesarrollo Rápido: Prototipado rápido de funciones o soluciones específicas.\nBúsquedas en Código: Localización eficiente de referencias o ejemplos dentro de grandes repositorios.\n",
+        "main_advantages": "Compatibilidad con Múltiples Lenguajes: Funciona con una amplia variedad de lenguajes de programación.\nEficiencia en Proyectos Complejos: Ayuda a comprender y trabajar con bases de código grandes.\nReducción de Errores: Proporciona análisis y sugerencias que mejoran la calidad del código.\nFacilidad de Uso: Integración fluida en entornos de desarrollo (IDEs) y plataformas populares.\nColaboración: Permite compartir resultados y conocimientos entre equipos técnicos.\n",
+        "long_description": "Cody es un asistente de inteligencia artificial diseñado para desarrolladores y equipos técnicos, que se especializa en optimizar tareas relacionadas con la programación. Proporciona capacidades avanzadas como búsqueda y comprensión de bases de código, generación de fragmentos de código personalizados y documentación técnica automatizada. Además, Cody permite localizar referencias, analizar estructuras complejas y optimizar procesos de desarrollo, todo dentro de un entorno accesible e intuitivo.",
+        "release_date": "No disponible.",
+        "developer": "Sourcegraph",
+        "main_model": "No disponible.",
+        "pricing_plans": "Gratuito: Funciones básicas para búsquedas en bases de código y generación de código limitada.\nPremium: Funciones avanzadas de análisis, generación de código y soporte técnico priorizado.\n",
+        "license": "Propietaria",
+        "security_privacy": "Cody se integra en entornos de desarrollo con medidas de seguridad estándar para proteger las bases de código y datos de los usuarios. No se encontró información específica sobre sus políticas de privacidad, pero es probable que cumpla con las normativas de protección de datos.",
+        "integration": "Se integra con plataformas como IDEs (Visual Studio Code, JetBrains, entre otros) y sistemas de control de versiones como GitHub, facilitando la colaboración y el flujo de trabajo para desarrolladores."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://meetcody.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=apple-rolls-out-chatgpt-integration"
+        },
+        {
+          "source_url": "https://sourcegraph.com/demo/cody\n"
+        },
+        {
+          "source_url": "https://meetcody.ai/use-cases/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/codedesign"
+        },
+        {
+          "source_url": "https://meetcody.ai/privacy-policy/"
+        },
+        {
+          "source_url": "https://meetcody.ai/pricing/"
+        }
+      ]
+    },
+    "166": {
+      "app": {
+        "id": "166",
+        "name": "CodeDesign AI",
+        "url": "https://codedesign.ai/",
+        "short_description": "Plataforma que permite crear y desplegar sitios web impresionantes en minutos, brindando la facilidad de tener un desarrollador a tu lado.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Generación automatizada de sitios web a partir de indicaciones en lenguaje natural, con opciones de personalización y exportación de código.",
+        "tags": "#GeneraciónDeSitiosWeb #InteligenciaArtificial #DiseñoWeb #Automatización",
+        "logo_filename": "id_166_code_design",
+        "what_is": "CodeDesign AI es una herramienta impulsada por inteligencia artificial que permite a los usuarios crear sitios web de manera rápida y sencilla. A través de indicaciones en lenguaje natural, los usuarios pueden generar diseños personalizados y exportar código limpio, eliminando la necesidad de habilidades avanzadas en desarrollo o diseño web.",
+        "purpose": "CodeDesign AI está diseñada para agilizar el proceso de creación de sitios web, ofreciendo soluciones rápidas y personalizadas para emprendedores, pequeñas empresas y diseñadores que buscan una forma eficiente de materializar sus ideas en línea.",
+        "use_cases": "• Emprendedores: Creación de sitios web para startups o negocios en etapas iniciales.\n• Freelancers y Diseñadores: Herramienta para prototipos rápidos o entregas ágiles de proyectos.\n• Marketing: Generación de páginas de destino para campañas promocionales.\n• Educación: Creación de portafolios o sitios informativos para instituciones educativas.\n",
+        "main_advantages": "• Velocidad: Creación de sitios web en minutos.\n• Facilidad de Uso: No requiere conocimientos avanzados en programación o diseño.\n• Exportación de Código: Posibilidad de personalizar y desarrollar más allá del diseño inicial.\n• Flexibilidad: Opciones para personalizar colores, fuentes y estructuras según las necesidades del proyecto.\n• Ahorro de Costos: Ideal para usuarios con presupuestos limitados que buscan calidad profesional.\n",
+        "long_description": "CodeDesign AI es una herramienta innovadora de diseño y desarrollo web impulsada por inteligencia artificial. Permite a los usuarios crear sitios web completos a partir de descripciones en lenguaje natural, ofreciendo una solución rápida y accesible para quienes no tienen experiencia técnica. La plataforma genera diseños personalizables, exporta código limpio y optimiza el tiempo necesario para lanzar proyectos web. Es una opción ideal tanto para principiantes como para diseñadores profesionales que buscan una herramienta eficiente para desarrollar sitios web atractivos y funcionales.",
+        "release_date": "No disponible.",
+        "developer": "No disponible.",
+        "main_model": "No disponible.",
+        "pricing_plans": "• Gratuito: Funciones básicas con plantillas limitadas.\n• Premium: Acceso completo a diseños avanzados, exportación de código y soporte técnico.\n",
+        "license": "Propietaria",
+        "security_privacy": "CodeDesign AI emplea prácticas estándar para garantizar la seguridad de los datos de los usuarios y los proyectos generados. No se encontraron detalles específicos sobre políticas de privacidad.",
+        "integration": "Compatible con plataformas de hosting web y sistemas de gestión de contenido, permitiendo la integración con herramientas como WordPress y editores de código."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://codedesign.ai/"
+        },
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/codedesign\n"
+        },
+        {
+          "source_url": "https://codedesign.ai/pricing"
+        },
+        {
+          "source_url": "https://codedesign.ai/privacy"
+        }
+      ]
+    },
+    "211": {
+      "app": {
+        "id": "211",
+        "name": "Cliptalk",
+        "url": "https://www.cliptalk.pro/",
+        "short_description": "Herramienta de creación de videos impulsada por inteligencia artificial que transforma textos en videos editados y optimizados para plataformas como YouTube Shorts, Instagram Reels y TikTok, automatizando tareas complejas de edición y facilitando la producción de contenido atractivo.",
+        "category": "Edición de video",
+        "main_functionality": "Convierte textos o guiones en videos completos, gestionando automáticamente la edición, generación de subtítulos, inserción de B-roll y eliminación de silencios, permitiendo a los usuarios crear contenido de alta calidad sin necesidad de habilidades avanzadas de edición.",
+        "tags": "#EdiciónDeVideo #InteligenciaArtificial #ContenidoParaRedesSociales #AutomatizaciónDeContenido #GeneraciónDeVideos",
+        "logo_filename": "id_211_cliptalk",
+        "what_is": "Cliptalk es una plataforma de creación de videos impulsada por inteligencia artificial que transforma textos o guiones en videos completamente editados y optimizados para plataformas de redes sociales como YouTube Shorts, Instagram Reels y TikTok. La herramienta automatiza tareas complejas de edición, incluyendo la generación de subtítulos, inserción de material complementario (B-roll) y eliminación de silencios, facilitando la producción de contenido atractivo sin necesidad de habilidades avanzadas de edición.",
+        "purpose": "Cliptalk está diseñada para simplificar y acelerar el proceso de creación de videos, permitiendo a los usuarios convertir ideas escritas en contenido visual de alta calidad listo para ser publicado en diversas plataformas sociales. Al automatizar tareas de edición y ofrecer herramientas de personalización, Cliptalk ayuda a creadores de contenido, profesionales de marketing y empresas a aumentar su presencia en línea y atraer a su audiencia de manera más efectiva.",
+        "use_cases": "Creadores de Contenido: Youtubers, influencers y bloggers pueden transformar sus guiones o artículos en videos atractivos, ampliando su alcance en plataformas de video de formato corto.\n\nMarketing Digital: Equipos de marketing pueden convertir campañas escritas en contenido visual dinámico, mejorando el engagement y la conversión en redes sociales.\n\nEducación en Línea: Educadores y formadores pueden convertir materiales escritos en videos educativos, facilitando el aprendizaje y la retención de información.",
+        "main_advantages": "Automatización de la Edición: La IA de Cliptalk procesa automáticamente los videoclips según las indicaciones del usuario, manejando tareas complejas de edición sin intervención manual. \n\nGeneración de Subtítulos: Produce subtítulos rápidos y precisos en más de 20 idiomas, aumentando el alcance y la accesibilidad del contenido.\n\nInserción de B-roll con IA: Añade automáticamente material complementario relevante a los videoclips, mejorando el interés visual y el valor de producción. \n\nEdición en Lenguaje Natural: Permite editar videos mediante comandos de voz o instrucciones de texto simples, haciendo el proceso intuitivo y fácil de usar. \n\nEliminación de Silencios y Muletillas: Remueve silencios no deseados y palabras de relleno con un solo clic, optimizando la fluidez del video.\n\nPersonalización Completa: Ofrece opciones para ajustar estilos, cambiar actores de voz, elegir entre 48 idiomas, añadir música y más, permitiendo una personalización total del contenido.",
+        "long_description": "Cliptalk es una plataforma de creación de videos impulsada por inteligencia artificial que convierte textos o guiones en videos completamente editados y optimizados para plataformas de redes sociales como YouTube Shorts, Instagram Reels y TikTok. La herramienta automatiza tareas complejas de edición, incluyendo la generación de subtítulos, inserción de material complementario (B-roll) y eliminación de silencios, facilitando la producción de contenido atractivo sin necesidad de habilidades avanzadas de edición.",
+        "release_date": "No disponible",
+        "developer": "Cliptalk.pro., Inc.",
+        "main_model": "Cliptalk utiliza algoritmos avanzados de inteligencia artificial para procesar textos y convertirlos en videos editados, gestionando automáticamente tareas como la generación de subtítulos y la inserción de material complementario.",
+        "pricing_plans": "Iniciador\n\n$19\ncuando se cobra mensualmente\n\nVer plan anual (50% más barato)\n\nTodo en el Plan Gratuito, más:\n120 minutos de generación de IA al mes\n5 voces profesionales de IA\n2 clones de voz profesionales\nVídeos de hasta 2 minutos de duración\nAcceso al editor de video AI\nSubtítulos automáticos en +20 idiomas\nLicencia comercial\nMarca de agua añadida\nPro\n\n$59\ncuando se cobra mensualmente\n\nActualizar a Pro\n\nVer plan anual (50% más barato)\n\nTodo en el Plan Starter, más:\n300 minutos de generación de IA al mes\n25 voces profesionales de IA\n10 clones de voz profesional\nVídeos de hasta 5 minutos de duración\nVelocidad de renderizado de vídeo priorizada\nAtención al cliente empresarial 24/7\nGratis\n\n$0\n\nEmpieza de forma gratuita\n\n1 minuto de generación de IA\nSubtítulos automáticos en +20 idiomas\nVoces profesionales de IA\nRelaciones de aspecto de vídeo publicables para todas las plataformas (9:16, 1:1, 16:9)\nMarca de agua añadida\nAcceso al editor de video AI\nLicencia comercial",
+        "license": "No disponible",
+        "security_privacy": "La información específica sobre las políticas de seguridad y privacidad de Cliptalk no está disponible en las fuentes consultadas.",
+        "integration": "Cliptalk permite compartir directamente los videos generados en plataformas de redes sociales como YouTube Shorts, Instagram Reels y TikTok, facilitando la distribución del contenido."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/cliptalk"
+        },
+        {
+          "source_url": "https://www.cliptalk.pro/?via=aitoolsdirectory"
+        },
+        {
+          "source_url": "https://aitoolsforme.com/tools/cliptalk"
+        },
+        {
+          "source_url": "https://easywithai.com/ai-video-generators/cliptalk/"
+        },
+        {
+          "source_url": "https://aimojo.io/es/tools/cliptalk/"
+        },
+        {
+          "source_url": "https://pluginai.dev/tool/cliptalk-pro"
+        },
+        {
+          "source_url": "https://www.cliptalk.pro/pricing"
+        },
+        {
+          "source_url": "https://www.cliptalk.pro/#features"
+        },
+        {
+          "source_url": "https://www.cliptalk.pro/privacy-policy"
+        }
+      ]
+    },
+    "454": {
+      "app": {
+        "id": "454",
+        "name": "Codeleaks",
+        "url": "https://copyleaks.com/code-governance-and-compliance",
+        "short_description": "Detecta plagio y generación de código por IA con precisión, ayudando a mantener la integridad y cumplimiento de licencias en proyectos de software.",
+        "category": "Detección",
+        "main_functionality": "Identificar código fuente plagiado o generado por IA, ofreciendo análisis detallado para prevenir infracciones de derechos de autor y proteger la propiedad intelectual.",
+        "tags": "#DetecciónDePlagio #CódigoGeneradoPorIA #CumplimientoDeLicencias",
+        "logo_filename": "id_454_codeleaks",
+        "what_is": "Codeleaks es una solución de inteligencia artificial desarrollada por Copyleaks que permite detectar plagio y generación de código fuente por IA. Se utiliza para garantizar la integridad del código y el cumplimiento de licencias en proyectos de software.",
+        "purpose": "Está diseñado para identificar similitudes en el código fuente y verificar si ha sido copiado o generado por herramientas de inteligencia artificial. Esto es crucial para prevenir infracciones de derechos de autor, proteger la propiedad intelectual y garantizar el cumplimiento normativo en proyectos de software.",
+        "use_cases": "Educación: Evaluar la originalidad de proyectos de programación enviados por estudiantes.\nEmpresas de software: Garantizar que los desarrolladores cumplan con las licencias de código abierto y eviten el uso indebido de código protegido por derechos de autor.\nGobierno y organizaciones legales: Verificar la autoría y originalidad del código utilizado en contratos o proyectos adjudicados.\nDesarrolladores independientes: Asegurar la originalidad de su trabajo y evitar la dependencia de código generado automáticamente que no cumpla con las normativas.",
+        "main_advantages": "Alta precisión: Detecta similitudes con una efectividad de hasta el 99.8%.\nCumplimiento normativo: Ayuda a prevenir problemas legales relacionados con licencias y derechos de autor.\nProtección de la propiedad intelectual: Asegura que el código sea original y evita el uso no autorizado de código de terceros.\nInformes detallados: Proporciona análisis claros y completos sobre la procedencia y similitudes del código.\nCompatibilidad: Compatible con múltiples lenguajes de programación.",
+        "long_description": "Codeleaks es una herramienta avanzada desarrollada por Copyleaks que permite detectar código fuente plagiado o generado por inteligencia artificial con una precisión de hasta el 99.8%. Analiza múltiples repositorios de código, como GitHub y Stack Overflow, proporcionando alertas sobre detalles de licencias para evitar infracciones de derechos de autor. Su objetivo es garantizar la integridad del código y el cumplimiento normativo en proyectos de software.",
+        "release_date": "Junio 2022",
+        "developer": "Copyleaks Ltd.",
+        "main_model": "No disponible",
+        "pricing_plans": "Copyleaks ofrece tres planes principales:\n\nDetección de IA + Plagio: Identifica contenido generado por IA y plagio con precisión del 99% en más de 30 idiomas y múltiples lenguajes de programación.\nVerificador de Plagio: Detecta plagio, parafraseo y similitudes en texto y código fuente.\nDetector de IA: Especializado en contenido generado por inteligencia artificial en diversos idiomas.",
+        "license": "Propietaria",
+        "security_privacy": "Copyleaks se compromete a proteger la privacidad y seguridad de los datos de sus usuarios, implementando medidas para garantizar la confidencialidad y la integridad de la información procesada. Para detalles específicos, se aconseja revisar la política de privacidad en su sitio web oficial.",
+        "integration": "Codeleaks puede analizar código en múltiples repositorios, incluyendo plataformas como GitHub y Stack Overflow, facilitando la detección de plagio y generación de código por IA en diversos entornos de desarrollo."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Universidad de Oakland fortalece la integridad académica y promueve el aprendizaje mediante adopción de Copyleaks",
+          "description": "La Universidad de Oakland adoptó Copyleaks en 2020 para detectar plagio y fomentar el aprendizaje académico. La herramienta, integrada con Moodle, facilitó conversaciones constructivas al permitir a los estudiantes acceder a los informes de similitud. Con el auge de la inteligencia artificial generativa, Copyleaks también les permitió detectar contenido creado por IA, reforzando su compromiso con la integridad académica y adaptándose a los nuevos desafíos educativos.",
+          "url": "https://copyleaks.com/case-studies/oakland-university"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Concurso de Asentamiento Espacial Gerard K. O'Neill",
+          "description": "La Sociedad Nacional del Espacio (NSS) implementó Copyleaks en 2018 para automatizar la detección de plagio en su Concurso de Asentamientos Espaciales, reduciendo el tiempo de revisión de semanas a días. En 2023, el sistema identificó y descalificó 1,894 de 4,567 propuestas por plagio, mejorando la precisión y eficiencia del proceso. NSS planea integrar el detector de IA de Copyleaks para abordar contenidos generados por inteligencia artificial en el futuro.",
+          "url": "https://copyleaks.com/case-studies/nss"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/codeleaks"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/copyleaks/launches"
+        },
+        {
+          "source_url": "https://muchasapps.com/app/codeleaks"
+        },
+        {
+          "source_url": "https://www.100ai.tools/tool/codeleaks"
+        },
+        {
+          "source_url": "https://aitoolspy.com/product/codeleaks/"
+        },
+        {
+          "source_url": "https://copyleaks.com/case-studies"
+        },
+        {
+          "source_url": "https://www.unite.ai/copyleaks-review/"
+        },
+        {
+          "source_url": "https://goldpenguin.org/tools/codeleaks/"
+        },
+        {
+          "source_url": "https://copyleaks.com/pricing"
+        },
+        {
+          "source_url": "https://copyleaks.com/privacy-policy"
+        }
+      ]
+    },
+    "502": {
+      "app": {
+        "id": "502",
+        "name": "CoachVox",
+        "url": "https://coachvox.ai/",
+        "short_description": "CoachVox es una plataforma que permite a coaches, consultores y creadores de contenido crear una versión de inteligencia artificial de sí mismos para interactuar con su audiencia, generar leads y proporcionar soporte personalizado las 24 horas. \n",
+        "category": "Automatización",
+        "main_functionality": "CoachVox permite a los usuarios entrenar una IA personalizada basada en su propio contenido y estilo de comunicación, creando un avatar virtual que puede interactuar con clientes y audiencia, responder preguntas, ofrecer soporte y generar leads de manera continua.",
+        "tags": "#AsistenteVirtual #IA #GeneraciónDeLeads #SoporteAlCliente #Coaching",
+        "logo_filename": "id_502_coachvox",
+        "what_is": "CoachVox es una plataforma en línea que permite a coaches, consultores y creadores de contenido crear una versión de inteligencia artificial de sí mismos. Esta IA personalizada interactúa con la audiencia, proporcionando soporte, respondiendo preguntas y generando leads de manera continua, replicando el estilo y conocimiento del usuario.",
+        "purpose": "Generar leads: Convertir visitantes del sitio web en clientes potenciales mediante interacciones personalizadas.\n\nProporcionar soporte 24/7: Atender consultas y ofrecer asistencia en cualquier momento, mejorando la experiencia del cliente.\n\nInteractuar con la comunidad: Responder preguntas y mantener el compromiso de la audiencia de manera constante.\n\nConstruir familiaridad: Fortalecer la relación con la audiencia al mantener una presencia constante y personalizada.",
+        "use_cases": "Coaches y Consultores: Profesionales que desean ampliar su alcance, ofreciendo orientación y soporte a más clientes sin comprometer su tiempo personal.\n\nCreadores de Contenido: Autores, podcasters y bloggers que buscan interactuar con su audiencia de manera más profunda y personalizada, respondiendo preguntas y ofreciendo contenido adicional.\n\nEmpresas y Startups: Organizaciones que desean proporcionar soporte al cliente automatizado y personalizado, mejorando la satisfacción del usuario y optimizando procesos internos.\n\nEducadores y Mentores: Profesionales de la educación que buscan ofrecer asistencia y orientación adicional a sus estudiantes fuera del horario de clases.",
+        "main_advantages": "Escalabilidad: Permite a los profesionales ampliar su alcance y atender a una audiencia más amplia sin aumentar su carga de trabajo.\n\nPersonalización: La IA se entrena con el contenido y estilo únicos del usuario, asegurando interacciones auténticas y coherentes.\n\nDisponibilidad Continua: Ofrece soporte y respuestas en tiempo real, las 24 horas del día, mejorando la experiencia del cliente.\n\nGeneración de Leads: Convierte visitantes en clientes potenciales mediante interacciones personalizadas y atractivas.\n\nEficiencia Operativa: Automatiza tareas repetitivas, permitiendo a los profesionales centrarse en actividades de mayor valor añadido.",
+        "long_description": "CoachVox es una plataforma en línea que permite a coaches, consultores y creadores de contenido crear una versión de inteligencia artificial (IA) de sí mismos. Esta IA personalizada se entrena con el contenido y estilo únicos del usuario, permitiendo interactuar con la audiencia de manera auténtica y coherente. La plataforma facilita la generación de leads, proporciona soporte 24/7 a clientes y responde preguntas dentro de la comunidad, ampliando el alcance y la eficiencia del profesional sin incrementar su carga de trabajo.",
+        "release_date": "Junio 2023",
+        "developer": "CoachVox fue fundada por Jodie Cook y Ben, quienes, junto con un equipo talentoso de desarrolladores, crearon la plataforma para brindar orientación efectiva a través de la IA.",
+        "main_model": "CoachVox utiliza como motor principal de IA la tecnología de OpenAI, complementada con una capa de lógica y flujos de trabajo propios, denominada su motor cognitivo, para ofrecer una experiencia de coaching personalizada y realista",
+        "pricing_plans": "CoachVox ofrece una prueba gratuita de 14 días. Posteriormente, la suscripción tiene un costo de $99 por mes, que incluye acceso al panel de control intuitivo, comunidad de creadores, alojamiento y uso de datos, soporte asincrónico ilimitado, carga fácil de datos y generación ilimitada de leads.",
+        "license": "No especificado",
+        "security_privacy": "CoachVox se compromete a proteger la privacidad y seguridad de los datos de sus usuarios. La información proporcionada se utiliza para entrenar la IA personalizada y no se comparte con terceros sin consentimiento. La plataforma implementa medidas de seguridad para garantizar la confidencialidad de los datos y cumplir con las normativas de protección de información.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/coachvox"
+        },
+        {
+          "source_url": "https://coachvox.ai/?via=cc29e0"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/coachvox-ai"
+        },
+        {
+          "source_url": "https://www.crunchbase.com/organization/coachvox-ai"
+        },
+        {
+          "source_url": "https://www.b12.io/ai-directory/coachvox/"
+        },
+        {
+          "source_url": "https://theaireports.com/ai-chatbot/coachvox-ai/"
+        },
+        {
+          "source_url": "https://vivevirtual.es/inteligencia-artificial/coachvox-ai-crea-una-version-ai-de-ti-mismo/"
+        },
+        {
+          "source_url": "https://aplicaciones.ai/coachvox-ai/"
+        },
+        {
+          "source_url": "https://iasensei.net/coachvox-ai/"
+        }
+      ]
+    },
+    "662": {
+      "app": {
+        "id": "662",
+        "name": "Cleve",
+        "url": "https://www.cleve.ai/",
+        "short_description": "Una aplicación de notas de IA para tu marca personal que convierte tus ideas rápidas en publicaciones optimizadas en segundos.",
+        "category": "Productividad",
+        "main_functionality": "Asistir en la creación, organización y distribución de contenido personalizado en múltiples canales, utilizando inteligencia artificial para generar ideas, estructurar publicaciones y proporcionar análisis mensuales.",
+        "tags": "#AsistenteDeEscritura #GestiónDeContenido #InteligenciaArtificial",
+        "logo_filename": "id_662_cleve",
+        "what_is": "Cleve es una plataforma integral impulsada por inteligencia artificial diseñada para facilitar la creación, organización y distribución de contenido personal en diversas plataformas digitales. Actúa como un asistente virtual que ayuda a los usuarios a documentar ideas, generar publicaciones personalizadas y analizar el rendimiento de su contenido.",
+        "purpose": "Cleve está orientado a profesionales, creadores de contenido y líderes de opinión que buscan mantener una presencia constante y coherente en múltiples canales digitales. La aplicación permite a los usuarios capturar ideas rápidamente, convertirlas en publicaciones adaptadas a diferentes plataformas y monitorear su impacto, todo desde una única herramienta.",
+        "use_cases": "Profesionales de negocios: Documentar reflexiones y generar contenido para plataformas como LinkedIn, ayudando a construir una marca personal sólida.\n\nCreadores de contenido: Organizar ideas y producir publicaciones coherentes para blogs y redes sociales, manteniendo una presencia en línea activa.\n\nEducadores y conferencistas: Capturar notas de voz y transformarlas en contenido escrito para compartir con estudiantes o seguidores.",
+        "main_advantages": "Generación de contenido personalizada: Cleve aprende el estilo de escritura del usuario para crear publicaciones que reflejen su tono y voz únicos.\n\nOrganización eficiente: La aplicación permite almacenar y estructurar ideas de manera efectiva, facilitando el acceso y la reutilización de contenido.\n\nAnálisis de rendimiento: Ofrece análisis mensuales que ayudan a los usuarios a comprender el impacto de su contenido y a ajustar sus estrategias en consecuencia.\n\nIntegración multicanal: Facilita la distribución de contenido en diversas plataformas, asegurando una presencia coherente en todos los canales seleccionados.",
+        "long_description": "Cleve es una plataforma integral impulsada por inteligencia artificial que facilita la creación, organización y distribución de contenido personal en diversas plataformas digitales. Diseñada para profesionales, líderes de opinión y creadores de contenido, Cleve permite a los usuarios capturar ideas rápidamente, convertirlas en publicaciones adaptadas a diferentes canales y monitorear su impacto, todo desde una única herramienta. Además, Cleve organiza automáticamente las ideas utilizando inteligencia artificial, asegurando que todas las notas estén seguras y respaldadas con seguridad de nivel Google.",
+        "release_date": "No disponible",
+        "developer": "Cleve Sdn. Bhd.",
+        "main_model": "No disponible",
+        "pricing_plans": "Cleve ofrece una opción para comenzar de forma gratuita. Para obtener detalles específicos sobre los planes de suscripción y precios, se recomienda visitar la sección de precios en su sitio web.",
+        "license": "No disponible",
+        "security_privacy": "Cleve asegura que todas las notas de los usuarios están protegidas y respaldadas con seguridad de nivel Google.",
+        "integration": "Cleve permite la importación de publicaciones anteriores para aprender el estilo de escritura del usuario y facilita la generación de contenido para múltiples plataformas. Sin embargo, no se dispone de información detallada sobre integraciones específicas con otras herramientas o servicios."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.cleve.ai/blog?utm_source=superhuman&utm_medium=referral&utm_campaign=the-first-ai-civilization"
+        },
+        {
+          "source_url": "https://www.crunchbase.com/organization/cleve"
+        }
+      ]
+    },
+    "681": {
+      "app": {
+        "id": "681",
+        "name": "Codev",
+        "url": "https://www.co.dev/",
+        "short_description": "una plataforma impulsada por IA que te permite crear aplicaciones completas modernas y escalables utilizando lenguaje natural, todo mientras mantienes la propiedad total de tu código.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Generación automática de aplicaciones web full-stack a partir de descripciones en lenguaje natural, utilizando Next.js y Supabase.",
+        "tags": "#IA #DesarrolloDeSoftware #GeneradorDeAplicaciones #Nextjs #Supabase",
+        "logo_filename": "id_681_codev",
+        "what_is": "Codev es una plataforma de desarrollo asistido por inteligencia artificial que permite a los usuarios generar aplicaciones web full-stack a partir de descripciones en lenguaje natural. Utiliza tecnologías modernas como Next.js y Supabase para crear automáticamente código funcional.",
+        "purpose": "Sirve para acelerar el proceso de desarrollo de aplicaciones web, eliminando la necesidad de codificación manual y facilitando la creación de interfaces, bases de datos y lógica de negocio a partir de especificaciones en texto.",
+        "use_cases": "Startups y emprendedores: Creación rápida de prototipos y productos mínimos viables (MVP) sin necesidad de un equipo de desarrollo completo.\nEquipos de desarrollo: Aceleración de la construcción de proyectos mediante la generación de código automatizado.\nProfesionales no técnicos: Creación de aplicaciones funcionales sin necesidad de conocimientos avanzados en programación.\nAutomatización de tareas empresariales: Desarrollo de herramientas internas y dashboards personalizados.",
+        "main_advantages": "Reducción significativa del tiempo de desarrollo de software.\nEliminación de la necesidad de escribir código desde cero.\nIntegración con tecnologías modernas como Next.js y Supabase.\nFacilidad de uso para usuarios con y sin experiencia en programación.\nOptimización del flujo de trabajo para desarrolladores y equipos técnicos.",
+        "long_description": "Codev es una plataforma impulsada por inteligencia artificial que transforma descripciones en lenguaje natural en aplicaciones web full-stack utilizando Next.js y Supabase. Al ingresar una idea o descripción textual, la IA de Codev genera automáticamente una aplicación completa, incluyendo componentes, estilos y funcionalidades necesarias. Esto permite a desarrolladores y no desarrolladores materializar rápidamente sus ideas en aplicaciones web funcionales. Las aplicaciones generadas son totalmente personalizables, brindando a los usuarios la flexibilidad de modificar y ampliar el código según sus necesidades específicas.",
+        "release_date": "No disponible",
+        "developer": "Wisp Labs, Inc",
+        "main_model": "Codev está impulsado por \"Claude\", un modelo de lenguaje avanzado que interpreta descripciones en lenguaje natural para generar aplicaciones web.",
+        "pricing_plans": "No disponible",
+        "license": "Propietaria",
+        "security_privacy": "La política de privacidad de Wisp Labs, Inc., actualizada el 2 de febrero de 2024, detalla cómo se recopila, utiliza y comparte la información personal de los usuarios al interactuar con sus servicios, incluyendo el sitio web co.dev. La empresa recopila información personal proporcionada voluntariamente por los usuarios, como nombres y direcciones de correo electrónico, así como datos de pago necesarios para procesar compras, los cuales son almacenados por su proveedor de pagos, STRIPE. No se procesan datos sensibles. La información recopilada se utiliza para proporcionar, mejorar y administrar los servicios, comunicarse con los usuarios, garantizar la seguridad y prevenir fraudes, y cumplir con las leyes aplicables.",
+        "integration": "Las aplicaciones generadas por Codev utilizan Next.js y Supabase, lo que facilita la integración con otras herramientas y servicios compatibles con estas tecnologías. Además, dado que el código es totalmente personalizable, los desarrolladores pueden ampliar y conectar sus aplicaciones con diversas APIs y servicios según sus necesidades."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.co.dev/?utm_source=superhuman&utm_medium=referral&utm_campaign=diving-deeper-into-deep-research"
+        },
+        {
+          "source_url": "https://www.g2.com/products/codev/reviews?set-locale=es"
+        },
+        {
+          "source_url": "https://huntscreens.com/es/products/codev"
+        }
+      ]
+    },
+    "713": {
+      "app": {
+        "id": "713",
+        "name": "Collato",
+        "url": "No Disponible (https://collato.com/?)",
+        "short_description": "Convierte tus reuniones en documentos al instante con plantillas personalizables.",
+        "category": "Automatización",
+        "main_functionality": "Captura y convierte información dispersa en documentos organizados, facilitando la gestión del conocimiento y la toma de decisiones en equipos de producto.​",
+        "tags": "#AsistenteIA #GestiónDeConocimiento #DocumentaciónAutomatizada",
+        "logo_filename": "id_713_collato",
+        "what_is": "Collato es una herramienta impulsada por inteligencia artificial diseñada para ayudar a los equipos de producto a gestionar y utilizar eficientemente su conocimiento.",
+        "purpose": "Facilita la búsqueda, resumen y generación de contenido basado en el conocimiento del producto, ahorrando horas de trabajo manual y mejorando la eficiencia del equipo. ",
+        "use_cases": "Creación de documentos como PRDs, notas de lanzamiento y guías de usuario; generación de resúmenes de documentos extensos; y obtención de respuestas rápidas a consultas sobre el producto.",
+        "main_advantages": "Ahorro de tiempo en tareas de documentación, mejora en la precisión de la información, y centralización del conocimiento del producto en una plataforma segura y accesible. ​",
+        "long_description": "Collato es una plataforma de inteligencia artificial que transforma automáticamente transcripciones de reuniones, imágenes y grabaciones de audio en documentación estructurada y accionable. Al integrar diversas fuentes de información, permite a los equipos de producto acceder rápidamente a conocimientos dispersos, generar resúmenes precisos y crear documentos esenciales para la gestión del producto. Su enfoque en la seguridad y cumplimiento normativo garantiza la protección de los datos del usuario.",
+        "release_date": "Marzo 2023",
+        "developer": "Collato",
+        "main_model": "No especificado.",
+        "pricing_plans": "Ofrece planes gratuitos y de pago.",
+        "license": "Propietario",
+        "security_privacy": "Collato es SOC 2 certificado y cumple con GDPR, utilizando encriptación segura para proteger los datos. ​",
+        "integration": "Se integra con herramientas como Google Docs, Notion, Jira y Confluence, facilitando la conexión y organización de información dispersa en equipos de producto."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://collato.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=why-big-tech-is-flocking-to-openai"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/collato"
+        },
+        {
+          "source_url": "https://powerusers.ai/ai-tool/collato"
+        },
+        {
+          "source_url": "https://betalist.com/startups/collato-ai"
+        },
+        {
+          "source_url": "https://creati.ai/ai-tools/collato/"
+        }
+      ]
+    },
+    "775": {
+      "app": {
+        "id": "775",
+        "name": "Clockwise",
+        "url": "https://www.getclockwise.com/",
+        "short_description": "Programe reuniones y automatice su calendario con IA.",
+        "category": "Automatización",
+        "main_functionality": "Optimización automática de calendarios mediante inteligencia artificial, permitiendo la reprogramación de reuniones, asignación de bloques de tiempo para trabajo profundo y gestión de eventos según las preferencias del usuario y del equipo.",
+        "tags": "#AsistenteDeCalendario #Automatización #IA #GestiónDelTiempo #IntegraciónConSlack #IntegraciónConGoogleCalendar #IntegraciónConOutlook",
+        "logo_filename": "id_775_clockwise",
+        "what_is": "Clockwise es una herramienta de inteligencia artificial diseñada para gestionar y optimizar calendarios de manera automática. Actúa como un asistente personal que reorganiza reuniones, asigna bloques de tiempo para tareas importantes y adapta la agenda según las preferencias individuales y del equipo, todo ello con el objetivo de mejorar la productividad y reducir el estrés asociado a la gestión del tiempo.​",
+        "purpose": "Su propósito principal es facilitar la gestión del tiempo en entornos laborales, permitiendo a los usuarios concentrarse en tareas importantes al minimizar conflictos de agenda, reducir interrupciones y automatizar la programación de reuniones y eventos.",
+        "use_cases": "Profesionales que necesitan bloques de tiempo ininterrumpido para trabajo profundo.\n\nEquipos que buscan coordinar reuniones sin conflictos de horarios.\n\nEmpresas que desean automatizar la gestión de calendarios para mejorar la eficiencia operativa.\n\nUsuarios que requieren integrar sus calendarios personales y laborales de manera coherente.",
+        "main_advantages": "Automatización de la programación y reprogramación de reuniones según preferencias establecidas.\n\nAsignación inteligente de bloques de tiempo para tareas importantes, como trabajo profundo o descansos.\n\nIntegración con plataformas populares como Google Calendar, Outlook y Slack.\n\nCapacidad para gestionar múltiples calendarios y adaptarse a cambios en tiempo real.\n\nInterfaz intuitiva que permite interactuar mediante lenguaje natural para realizar ajustes en la agenda.",
+        "long_description": "Clockwise es una solución de inteligencia artificial que actúa como asistente de calendario, diseñada para optimizar la gestión del tiempo en entornos profesionales. Mediante el análisis de las preferencias del usuario y del equipo, reorganiza automáticamente reuniones, asigna bloques de tiempo para tareas importantes y adapta la agenda a las necesidades cambiantes del entorno laboral. Su integración con plataformas como Google Calendar, Outlook y Slack permite una experiencia fluida y coherente en la gestión de calendarios. Además, su capacidad para interactuar mediante lenguaje natural facilita la realización de ajustes en la agenda de manera sencilla y eficiente.",
+        "release_date": "No disponible",
+        "developer": "Clockwise Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "No disponible",
+        "license": "No disponible",
+        "security_privacy": "No disponible",
+        "integration": "Compatible con Google Calendar, Outlook y Slack, permitiendo una gestión integral de calendarios y comunicación en entornos laborales.​\nClockwise Calendario Inteligente\n+3\n"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Asana mejora el tiempo de concentración de sus ingenieros con Clockwise",
+          "description": "Para reducir interrupciones por reuniones, Asana implementó Clockwise, que reorganiza calendarios y prioriza bloques de Focus Time. Esto mejoró la planificación y la productividad de ingenieros y gerentes.",
+          "url": "https://www.getclockwise.com/customers/asana"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Atlassian optimiza el tiempo de trabajo global con Clockwise",
+          "description": "Con más de 10,000 empleados en 13 países, Atlassian usa Clockwise para coordinar reuniones, proteger el Focus Time y fomentar una cultura de trabajo enfocada. La herramienta facilita la colaboración distribuida y mejora la productividad diaria.",
+          "url": "https://www.getclockwise.com/customers/atlassian"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Prezi gana hasta 3 horas diarias de Focus Time por persona con Clockwise",
+          "description": "Prezi implementó Clockwise para automatizar reuniones y proteger el tiempo de concentración. Esto aumentó la productividad y mejoró la satisfacción del equipo al liberar hasta 3 horas diarias por persona para tareas clave y descansos.",
+          "url": "https://www.getclockwise.com/customers/prezi"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.getclockwise.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=llama-4-is-here"
+        },
+        {
+          "source_url": "https://support.getclockwise.com/article/206-clockwise-calendar"
+        },
+        {
+          "source_url": "https://appsource.microsoft.com/en-ph/product/web-apps/clockwiseinc10242023191625.clockwise?tab=Overview"
+        },
+        {
+          "source_url": "https://chromewebstore.google.com/detail/clockwise-time-management/hjcneejoopafkkibfbcaeoldpjjiamog?hl=en"
+        },
+        {
+          "source_url": "https://www.getclockwise.com/customers"
+        }
+      ]
+    },
+    "817": {
+      "app": {
+        "id": "817",
+        "name": "Clerkly",
+        "url": "https://app.clerkly.co/",
+        "short_description": "Haga preguntas regulatorias en un lenguaje cotidiano y encuentre respuestas de fuentes oficiales de EE. UU.",
+        "category": "Gestión",
+        "main_functionality": "Proporcionar respuestas a consultas legales y administrativas utilizando datos de fuentes gubernamentales oficiales, con enlaces directos a dichas fuentes.",
+        "tags": "#LegalTech #IA #RegulacionesEEUU #AsistenteLegal #FuentesOficiales",
+        "logo_filename": "id_817_clerkly",
+        "what_is": "Clerkly es una herramienta en línea que utiliza inteligencia artificial para ayudar a los usuarios a navegar por la burocracia estadounidense, proporcionando respuestas a preguntas sobre leyes y regulaciones basadas en fuentes gubernamentales oficiales.",
+        "purpose": "Sirve para obtener información precisa y actualizada sobre trámites, regulaciones y procedimientos gubernamentales en EE. UU., facilitando la comprensión de procesos burocráticos.",
+        "use_cases": "Consultar requisitos para obtener licencias o permisos específicos.\n\nEntender procedimientos de inmigración o ciudadanía.\n\nAcceder a información sobre beneficios gubernamentales.\n\nOrientarse en procesos legales o administrativos complejos.",
+        "main_advantages": "Acceso a información basada exclusivamente en fuentes oficiales del gobierno de EE. UU.\n\nInterfaz sencilla que permite realizar consultas en lenguaje natural.\n\nProporciona enlaces directos a las fuentes originales para una verificación adicional.\n\nFacilita la comprensión de procesos burocráticos sin necesidad de conocimientos legales previos.",
+        "long_description": "Clerkly es una plataforma en línea que actúa como un asistente legal, utilizando inteligencia artificial para responder preguntas relacionadas con leyes y regulaciones de EE. UU. Los usuarios pueden realizar consultas en lenguaje natural, y Clerkly proporciona respuestas basadas en información extraída de fuentes gubernamentales oficiales, como sitios web de agencias federales y estatales. Cada respuesta incluye enlaces directos a las fuentes originales, permitiendo a los usuarios verificar y profundizar en la información proporcionada. La herramienta está diseñada para facilitar la navegación por procesos burocráticos y legales, ofreciendo una guía clara y accesible.",
+        "release_date": "2024",
+        "developer": "No disponible",
+        "main_model": "Utiliza un sistema de Recuperación-Augmentación-Generación (RAG) combinado con modelos de lenguaje de gran escala (LLM) para procesar y generar respuestas basadas en datos oficiales.",
+        "pricing_plans": "Actualmente, la aplicación es de uso gratuito.",
+        "license": "Propietaria",
+        "security_privacy": "Clerkly enfatiza que sus respuestas se basan en fuentes oficiales y recomienda a los usuarios verificar la información proporcionada. No se especifica información adicional sobre políticas de seguridad y privacidad.",
+        "integration": "No se especifica información sobre integraciones con otras herramientas o plataformas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://app.clerkly.co/?utm_source=superhuman&utm_medium=referral&utm_campaign=a-scrappy-startup-challenges-openai-s-sora"
+        },
+        {
+          "source_url": "https://lawprofessors.typepad.com/appellate_advocacy/2023/08/can-ai-prepare-me-for-a-clerkship-interview.html"
+        }
+      ]
+    },
+    "819": {
+      "app": {
+        "id": "819",
+        "name": "Coldreach",
+        "url": "https://coldreach.ai/",
+        "short_description": "Una plataforma de IA que recomienda nuevos clientes potenciales con evidencia, para que sepas por qué están listos para comprar.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Monitoreo de señales de intención de compra y generación de mensajes personalizados para prospección de ventas.",
+        "tags": "#SalesIntelligence #LeadGeneration #AIOutreach #B2BSales #IntentSignals​",
+        "logo_filename": "id_819_coldreach",
+        "what_is": "Coldreach es una plataforma de inteligencia artificial diseñada para optimizar el proceso de prospección de ventas. Utiliza algoritmos avanzados para analizar datos públicos y detectar señales de intención de compra, permitiendo a los equipos de ventas enfocar sus esfuerzos en los prospectos más prometedores.",
+        "purpose": "Sirve para identificar y priorizar leads con alta probabilidad de conversión, automatizar la personalización de mensajes de alcance y mejorar la eficiencia del equipo de ventas al reducir el tiempo dedicado a la investigación manual.",
+        "use_cases": "Empresas de software que buscan identificar clientes potenciales que recientemente han contratado personal clave.\n\nProveedores de servicios financieros que desean detectar compañías en expansión.\n\nAgencias de marketing que necesitan personalizar campañas de alcance basadas en eventos específicos del mercado.",
+        "main_advantages": "Detección en tiempo real de señales de compra personalizadas.\n\nAutomatización de la personalización de mensajes de alcance.\n\nIntegración con herramientas existentes de CRM y flujos de trabajo.\n\nReducción significativa del tiempo dedicado a la investigación de prospectos.",
+        "long_description": "Coldreach es una herramienta de inteligencia artificial que transforma el proceso de prospección de ventas al identificar señales de intención de compra en tiempo real. Analiza más de 70 millones de cuentas utilizando fuentes de datos públicas como publicaciones de empleo, noticias y reportes financieros. Los usuarios pueden definir señales personalizadas que indican intención de compra, y la plataforma monitorea continuamente estas señales para generar listas de leads priorizados. Además, Coldreach automatiza la creación de mensajes de alcance personalizados, adaptados al tono y estilo de cada empresa, y se integra con herramientas de CRM para facilitar la implementación en flujos de trabajo existentes.",
+        "release_date": "2023",
+        "developer": "Coldreach Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "No especificado públicamente",
+        "license": "Propietaria",
+        "security_privacy": "Coldreach utiliza datos públicos para su análisis y ofrece integraciones seguras con herramientas de CRM existentes.",
+        "integration": "Compatible con sistemas de CRM y otras herramientas de ventas para facilitar la integración en flujos de trabajo existentes."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://coldreach.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=a-scrappy-startup-challenges-openai-s-sora"
+        },
+        {
+          "source_url": "https://www.aibase.com/tool/32518"
+        },
+        {
+          "source_url": "https://www.ycombinator.com/companies/coldreach"
+        },
+        {
+          "source_url": "https://www.aitechsuite.com/tools/coldreach.ai"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/coldreach-yc-w23"
+        },
+        {
+          "source_url": "https://aitools.inc/tools/coldreach"
+        }
+      ]
+    },
+    "857": {
+      "app": {
+        "id": "857",
+        "name": "ClipZap",
+        "url": "https://www.clipzap.ai/",
+        "short_description": "Recorta, edita y traduce vídeos automáticamente con IA.",
+        "category": "Edición de video",
+        "main_functionality": "Automatización del flujo de trabajo para la creación de videos mediante modelos de IA, incluyendo generación desde texto o imágenes, edición avanzada y traducción multilingüe.",
+        "tags": "#GeneraciónDeVideo #EdiciónConIA #TraducciónAutomática #FlujoDeTrabajo #CreaciónDeContenido #Multilenguaje",
+        "logo_filename": "id_857_clipzap",
+        "what_is": "ClipZap es una plataforma de inteligencia artificial diseñada para simplificar y agilizar la creación de contenido multimedia. Ofrece herramientas que permiten generar videos a partir de texto o imágenes, editar contenido existente y traducir videos a múltiples idiomas, todo dentro de un entorno unificado y automatizado.",
+        "purpose": "Está orientada a creadores de contenido, equipos de marketing y empresas que buscan producir videos de alta calidad de manera rápida y eficiente, reduciendo la necesidad de intervención manual y optimizando los recursos disponibles.",
+        "use_cases": "Creación de videos promocionales para redes sociales a partir de descripciones textuales.\n\nEdición y mejora de calidad de videos existentes mediante herramientas de IA.\n\nTraducción y subtitulación automática de contenido para audiencias globales.\n\nGeneración de videos educativos o tutoriales personalizados.",
+        "main_advantages": "Automatización completa del proceso de creación de videos.\n\nIntegración de múltiples modelos de IA líderes en la industria.\n\nInterfaz intuitiva y fácil de usar, adecuada para usuarios sin experiencia técnica.\n\nAmplia biblioteca de plantillas y flujos de trabajo personalizables.\n\nCapacidades multilingües para alcanzar audiencias internacionales.",
+        "long_description": "ClipZap es una plataforma avanzada de inteligencia artificial que revoluciona la creación de contenido multimedia al ofrecer un entorno unificado para generar, editar y traducir videos. Mediante la integración de más de 30 modelos de IA líderes, permite a los usuarios transformar ideas en videos de alta calidad con solo unos clics. Sus herramientas abarcan desde la generación de videos a partir de texto o imágenes, hasta la mejora de calidad de videos existentes y la traducción automática a múltiples idiomas. La plataforma está diseñada para ser accesible tanto para principiantes como para profesionales, ofreciendo flujos de trabajo personalizables y una amplia gama de plantillas para diversas necesidades.",
+        "release_date": "2024",
+        "developer": "JUNOVERSE TECHNOLOGY PTE. LTD.",
+        "main_model": "Integración de múltiples modelos de IA, incluyendo Pika Labs, Luma AI, Kling, Minimax, entre otros.",
+        "pricing_plans": "Versión Gratuita: Acceso limitado con marca de agua en los videos generados.\n\nPlanes de Pago: Ofrecen acceso completo a todas las herramientas, eliminación de marcas de agua y generación de videos sin restricciones.",
+        "license": "Propietaria",
+        "security_privacy": "ClipZap asegura la protección de los datos del usuario y ofrece opciones para la gestión de contenido generado por IA, incluyendo herramientas para la eliminación de fondos y control de privacidad en los videos creados.",
+        "integration": "La plataforma se integra con diversas herramientas y modelos de IA, como Runway, Synthesia, HeyGen, entre otros, permitiendo una experiencia de creación de contenido más rica y versátil.​"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.clipzap.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=native-image-gen-unlocks-these-five-new-capabilities"
+        },
+        {
+          "source_url": "https://www.reddit.com/r/AIToolTesting/comments/1jva7ut/i_tested_clipzap_ai_heres_what_i_think/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/clipzap"
+        },
+        {
+          "source_url": "https://www.aibase.com/tool/www.aibase.com/tool/35676"
+        },
+        {
+          "source_url": "https://www.capterra.com/p/10027072/ClipZap-ai/"
+        }
+      ]
+    },
+    "902": {
+      "app": {
+        "id": "902",
+        "name": "ClipDrop",
+        "url": "https://clipdrop.co/",
+        "short_description": "Conjunto de herramientas de edición y creación visual para generar imágenes impresionantes en segundos.",
+        "category": "Edición de imágenes",
+        "main_functionality": "Edición y generación de imágenes mediante inteligencia artificial, incluyendo eliminación de fondos, objetos y texto, mejora de calidad, reiluminación, ampliación de imágenes y generación de imágenes a partir de texto.",
+        "tags": "#EdiciónDeImágenes #GeneraciónDeImágenes #EliminaciónDeFondos #MejoraDeImágenes #Reiluminación #AmpliaciónDeImágenes",
+        "logo_filename": "id_902_clipdrop",
+        "what_is": "ClipDrop es una plataforma de edición de imágenes que utiliza inteligencia artificial para ofrecer herramientas avanzadas de edición y generación de contenido visual, facilitando tareas complejas de manera accesible y eficiente.",
+        "purpose": "Permite a usuarios de diversos niveles eliminar fondos, objetos o texto de imágenes, mejorar su calidad, reiluminarlas, ampliarlas y generar nuevas imágenes a partir de descripciones textuales, todo mediante herramientas basadas en IA.",
+        "use_cases": "Diseñadores gráficos que necesitan editar imágenes de manera rápida y precisa.\n\nCreadores de contenido que buscan generar imágenes atractivas sin conocimientos avanzados de edición.\n\nProfesionales de marketing que requieren adaptar imágenes para diferentes plataformas y formatos.",
+        "main_advantages": "Interfaz intuitiva y fácil de usar.\n\nAmplia gama de herramientas de edición basadas en IA.\n\nDisponibilidad en múltiples plataformas, incluyendo web, iOS y Android.\n\nIntegración con otras aplicaciones mediante API.",
+        "long_description": "ClipDrop es una plataforma integral de edición de imágenes que aprovecha la inteligencia artificial para simplificar y potenciar el proceso creativo. Ofrece herramientas como eliminación de fondos, objetos y texto, mejora de calidad, reiluminación, ampliación de imágenes y generación de contenido visual a partir de texto. Su interfaz amigable y su disponibilidad en múltiples plataformas la convierten en una solución accesible para profesionales y aficionados por igual.",
+        "release_date": "2020",
+        "developer": "Init ML (adquirida por Stability AI en febrero de 2023 y posteriormente por Jasper.ai en febrero de 2024)",
+        "main_model": "Utiliza modelos de inteligencia artificial propietarios desarrollados por Init ML, con integración de tecnologías de aprendizaje profundo para tareas específicas de edición y generación de imágenes.",
+        "pricing_plans": "Plan Gratuito: Acceso limitado a herramientas básicas con restricciones en la cantidad de imágenes procesadas y presencia de marcas de agua.\n\nPlan Pro: $7 USD/mes (facturado anualmente) o $9 USD/mes (facturado mensualmente), con acceso completo a todas las herramientas, procesamiento de imágenes en alta definición y sin marcas de agua.",
+        "license": "Propietaria",
+        "security_privacy": "ClipDrop cumple con las normativas de privacidad y seguridad de datos, incluyendo el Reglamento General de Protección de Datos (GDPR).",
+        "integration": "Ofrece una API que permite la integración con otras aplicaciones y flujos de trabajo personalizados, facilitando la automatización de tareas de edición y generación de imágenes."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://clipdrop.co/?utm_source=superhuman&utm_medium=referral&utm_campaign=baidu-s-gpt-4-5-killer"
+        },
+        {
+          "source_url": "https://yeswelab.com/blogs/aplicaciones-de-la-inteligencia-artificial/clipdrop-replace-background"
+        },
+        {
+          "source_url": "https://www.toolsforhumans.ai/ai-tools/clipdrop"
+        },
+        {
+          "source_url": "https://callin.io/ai-tools/clipdrop/"
+        },
+        {
+          "source_url": "https://medium.com/%40rsudha222/clipdrop-ai-a-game-changer-for-visual-content-creation-7b185792c566"
+        },
+        {
+          "source_url": "https://www.toolify.ai/ai-news/clipdrop-ai-review-free-ai-tools-for-image-editing-3324794"
+        },
+        {
+          "source_url": "https://allthingsai.com/tool/clipdrop"
+        },
+        {
+          "source_url": "https://fotographer.ai/magazine/009"
+        },
+        {
+          "source_url": "https://easywithai.com/ai-image-editors/clipdrop/"
+        },
+        {
+          "source_url": "https://pitchbook.com/profiles/company/442949-32"
+        }
+      ]
+    },
+    "923": {
+      "app": {
+        "id": "923",
+        "name": "Codename Goose",
+        "url": "https://block.github.io/goose/",
+        "short_description": "Un agente de IA de código abierto en la máquina que puede automatizar sus tareas, con extensiones que se integran con sus herramientas y aplicaciones existentes.",
+        "category": "Codificación",
+        "main_functionality": "Automatización de tareas complejas de ingeniería de software mediante agentes de IA que interactúan con modelos de lenguaje y herramientas de desarrollo, operando localmente en el sistema del usuario.",
+        "tags": "#AgenteIA #AutomatizaciónDeDesarrollo #CódigoAbierto #MCP #IntegraciónLLM #HerramientasDeDesarrollo",
+        "logo_filename": "id_923_codenamegoose",
+        "what_is": "Codename Goose es un marco de trabajo de agente de inteligencia artificial de código abierto desarrollado por Block, diseñado para automatizar tareas de desarrollo de software mediante la integración con modelos de lenguaje y herramientas existentes.",
+        "purpose": "Facilita la automatización de tareas repetitivas y complejas en el desarrollo de software, como migraciones de código, generación de pruebas unitarias, gestión de características y más, operando localmente y adaptándose a los flujos de trabajo existentes.",
+        "use_cases": "Migración de código entre frameworks o lenguajes (por ejemplo, de Ember a React, de Ruby a Kotlin).\n\nGeneración de pruebas unitarias y aumento de la cobertura de código.\n\nAutomatización de tareas de configuración y despliegue.\n\nIntegración con herramientas como GitHub, Google Drive y JetBrains IDEs mediante extensiones.\n\nCreación de monitores en Datadog y gestión de banderas de características.",
+        "main_advantages": "Operación local que garantiza la privacidad y seguridad de los datos.\n\nExtensibilidad mediante el Protocolo de Contexto de Modelo (MCP), permitiendo integraciones personalizadas.\n\nCompatibilidad con múltiples modelos de lenguaje, tanto de código abierto como propietarios.\n\nInterfaz de línea de comandos y aplicación de escritorio disponibles.\n\nLicencia Apache 2.0 que permite uso comercial y modificaciones.\n",
+        "long_description": "Codename Goose es un agente de inteligencia artificial de código abierto que opera localmente en el sistema del usuario, diseñado para automatizar tareas complejas de desarrollo de software. Utiliza el Protocolo de Contexto de Modelo (MCP) para integrarse con diversas herramientas y servicios, y es compatible con múltiples modelos de lenguaje, como Gemini, Claude, GPT-4 y DeepSeek. Goose puede ejecutar, depurar y gestionar proyectos completos, adaptándose a los flujos de trabajo existentes y permitiendo a los desarrolladores centrarse en tareas de mayor valor añadido.",
+        "release_date": "Enero 2025",
+        "developer": "Block, Inc.",
+        "main_model": "Compatible con múltiples modelos de lenguaje (LLM), incluyendo Gemini, Claude, GPT-4 y DeepSeek.",
+        "pricing_plans": "Gratuito; software de código abierto bajo licencia Apache 2.0.",
+        "license": "Apache License 2.0",
+        "security_privacy": "Opera localmente en el sistema del usuario, lo que garantiza que los datos no se envían a servidores externos, preservando la privacidad y seguridad de la información.",
+        "integration": "Integración mediante extensiones con herramientas como GitHub, Google Drive y JetBrains IDEs, utilizando el Protocolo de Contexto de Modelo (MCP) para conectar con diversos sistemas y servicios."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://block.github.io/goose/?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-is-feeling-the-heat"
+        },
+        {
+          "source_url": "https://medium.com/bytes-being/goose-on-the-loose-blocks-ai-agent-takes-flight-in-the-developer-world-c82414e6a71f"
+        },
+        {
+          "source_url": "https://www.infoq.com/news/2025/02/codename-goose/"
+        },
+        {
+          "source_url": "https://sourceforge.net/projects/codename-goose.mirror/"
+        },
+        {
+          "source_url": "https://squareup.com/us/en/the-bottom-line/podcasts/the-square-developer-podcast/goose"
+        }
+      ]
+    },
+    "970": {
+      "app": {
+        "id": "970",
+        "name": "Códex",
+        "url": "https://openai.com/codex",
+        "short_description": "Agente de ingeniería de software basado en inteligencia artificial que automatiza tareas de programación, como escritura de código, corrección de errores y pruebas, dentro de un entorno seguro en la nube.",
+        "category": "Codificación",
+        "main_functionality": "Automatización de tareas de desarrollo de software mediante inteligencia artificial, incluyendo generación de código, depuración, pruebas y revisión de código.",
+        "tags": "#AgenteDeCodificación #IA #AutomatizaciónDeSoftware #DesarrolloDeSoftware #Codex",
+        "logo_filename": "id_970_codexai",
+        "what_is": "OpenAI Codex es un agente de inteligencia artificial diseñado para asistir en tareas de desarrollo de software, capaz de generar código, identificar errores, ejecutar pruebas y proponer mejoras de manera autónoma.",
+        "purpose": "Sirve para aumentar la eficiencia y productividad de los desarrolladores al automatizar tareas repetitivas y proporcionar asistencia en tiempo real durante el proceso de programación.",
+        "use_cases": "Automatización de escritura de código y generación de funciones.\n\nIdentificación y corrección de errores en el código existente.\n\nEjecución de pruebas y validación de funcionalidades.\n\nRevisión y propuesta de mejoras en el código.",
+        "main_advantages": "Ahorro de tiempo al automatizar tareas repetitivas.\n\nMejora en la calidad del código mediante pruebas y validaciones automáticas.\n\nAsistencia en tiempo real para desarrolladores.\n\nIntegración con entornos de desarrollo existentes.",
+        "long_description": "OpenAI Codex es un agente de inteligencia artificial que opera en la nube, diseñado para asistir en tareas de desarrollo de software. Utiliza el modelo codex-1, una versión especializada del modelo o3 de OpenAI, optimizado para ingeniería de software. Codex puede ejecutar múltiples tareas en paralelo, como escribir funciones, responder preguntas sobre el código, corregir errores y proponer solicitudes de extracción para revisión. Cada tarea se ejecuta en un entorno aislado en la nube, precargado con el repositorio del usuario, lo que garantiza seguridad y eficiencia en el proceso de desarrollo.",
+        "release_date": "Mayo 2025",
+        "developer": "OpenAI",
+        "main_model": "codex-1, basado en el modelo o3 de OpenAI, optimizado para tareas de ingeniería de software.",
+        "pricing_plans": "ChatGPT Pro: $200/mes.\n\nChatGPT Team y Enterprise: Precios personalizados según necesidades de la organización.\n\nChatGPT Plus y Edu: Acceso próximamente disponible.",
+        "license": "Propietaria",
+        "security_privacy": "Codex ejecuta cada tarea en un contenedor efímero y aislado en la nube, con tráfico de red bloqueado después de la instalación de dependencias, lo que garantiza que no se pueda extraer código ni datos durante la ejecución. Además, cada comando de shell, ejecución de prueba y diferencia de código se registra y presenta para su revisión antes de la fusión.",
+        "integration": "Codex se integra con GitHub, permitiendo la precarga de repositorios y facilitando la escritura de nuevas funciones, corrección de errores y ejecución de pruebas dentro del entorno de desarrollo del usuario."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://openai.com/index/openai-codex/"
+        },
+        {
+          "source_url": "https://economictimes.indiatimes.com/tech/artificial-intelligence/openai-codex-ai-coding-agent-for-chatgpt-google-gemini-anthropic-claude/articleshow/121220263.cms"
+        },
+        {
+          "source_url": "https://www.techspot.com/news/107956-openai-launches-codex-new-ai-coding-agent-software.html"
+        },
+        {
+          "source_url": "https://techcrunch.com/2025/05/20/openais-codex-is-part-of-a-new-cohort-of-agentic-coding-tools/"
+        },
+        {
+          "source_url": "https://futurism.com/codex-openai-coding-agent"
+        }
+      ]
+    },
+    "1002": {
+      "app": {
+        "id": "1002",
+        "name": "Code Rev",
+        "url": "https://coderev.princesahni.com/",
+        "short_description": "Mejore sus habilidades de codificación analizando su código y obteniendo comentarios de sus compañeros.",
+        "category": "Codificación",
+        "main_functionality": "Proporcionar análisis de código asistido por inteligencia artificial y facilitar revisiones colaborativas entre desarrolladores.",
+        "tags": "#RevisiónDeCódigo #IA #DesarrolloColaborativo #AnálisisDeCódigo",
+        "logo_filename": "id_1002_coderevai",
+        "what_is": "Code Rev es una plataforma que ofrece revisiones de código asistidas por inteligencia artificial, permitiendo a los desarrolladores recibir retroalimentación instantánea y colaborar con otros para mejorar la calidad de su código.",
+        "purpose": "Su propósito es ayudar a los desarrolladores a mejorar sus habilidades de programación mediante análisis automatizados y revisiones de código colaborativas, fomentando un aprendizaje continuo y una mejora en la calidad del software.",
+        "use_cases": "Desarrolladores que buscan mejorar la calidad de su código a través de retroalimentación automatizada y de pares.\n\nEquipos de desarrollo que desean implementar revisiones de código eficientes y colaborativas.\n\nOrganizaciones que buscan herramientas para evaluar y mejorar las habilidades de programación de sus empleados.",
+        "main_advantages": "Análisis de código impulsado por inteligencia artificial que proporciona retroalimentación instantánea.\n\nFacilita la colaboración entre desarrolladores mediante revisiones de código entre pares.\n\nEntorno de aprendizaje continuo que ayuda a los desarrolladores a identificar y corregir errores comunes.\n\nInterfaz intuitiva y fácil de usar, accesible para desarrolladores de todos los niveles.",
+        "long_description": "Code Rev es una plataforma de revisión de código que combina análisis automatizado mediante inteligencia artificial y revisiones colaborativas entre desarrolladores. Diseñada para mejorar las habilidades de programación, ofrece retroalimentación instantánea sobre el código enviado y permite a los usuarios revisar proyectos de otros, fomentando un entorno de aprendizaje y mejora continua. La plataforma es gratuita y de código abierto, sin anuncios ni suscripciones premium, y está construida utilizando el stack MERN (MongoDB, Express.js, React y Node.js) junto con Redux para la gestión del estado.",
+        "release_date": "2025",
+        "developer": "Princes Ahni",
+        "main_model": "No disponible",
+        "pricing_plans": "Gratuito",
+        "license": "Código abierto\n\n",
+        "security_privacy": "No disponible",
+        "integration": ""
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://coderev.princesahni.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=anthropic-reveals-claude-4"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/product/Code-Rev/"
+        },
+        {
+          "source_url": "https://docs.rev.ai/resources/code-samples/node/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/posts/code-rev?utm_campaign=producthunt-api&utm_medium=api-v2"
+        }
+      ]
+    },
+    "1053": {
+      "app": {
+        "id": "1053",
+        "name": "Colby",
+        "url": "https://getcolby.com/",
+        "short_description": "Analice las ventas y ayude con la entrada de datos y la generación de clientes potenciales.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Entrada de datos mediante voz o texto natural; Investigación de prospectos; Actualizaciones masivas en Salesforce.",
+        "tags": "#IA #CRM #AutomatizaciónDeVentas #GestiónDeDatos #AsistenteDeVentas #Salesforce",
+        "logo_filename": "id_1053_colby",
+        "what_is": "Es una extensión para Chrome que actúa como agente de ventas impulsado por IA, diseñada específicamente para integrarse de forma nativa con Salesforce.",
+        "purpose": "Facilita la actualización del CRM sin teclear, permite dictar notas, generar tareas de seguimiento y capturar oportunidades directamente desde una conversación. Además, permite investigar clientes y añadir nuevos leads con comandos sencillos. ",
+        "use_cases": "Dictar resúmenes post‑llamada, y que Colby cree notas, tareas y actualice oportunidades. \n\nCrear múltiples leads automáticamente (“add all YC W23 companies to my Salesforce as new leads”). \n\nRealizar actualizaciones masivas de registros en segundos en lugar de horas. \n\nInvestigar información del mercado o clientes previo a reuniones mediante comandos naturales. ",
+        "main_advantages": "Reduce el tiempo de entrada manual en Salesforce, mejorando la productividad del equipo de ventas. \n\nSe integra directamente en el entorno de Salesforce como una extensión de Chrome, eliminando la necesidad de interfaces o configuraciones adicionales. \n\nInterfaz de voz intuitiva que reduce la carga cognitiva al reemplazar el teclado por la voz. \n\nPermite investigación instantánea y actualizaciones masivas a gran velocidad.",
+        "long_description": "Colby es una extensión integrada en Chrome que transforma la forma en que los equipos de ventas interactúan con Salesforce. Permite realizar actualizaciones con lenguaje natural, tanto por voz como texto, sin cambiar de ventana. Ofrece funcionalidades como creación de contactos, registro de notas, generación de tareas, búsqueda de prospectos y actualizaciones masivas optimizadas. Todo ello dentro del flujo de trabajo habitual, sin interrupciones ni configuraciones complejas, con promesas de mejora continua y sin costo adicional para los usuarios básicos.",
+        "release_date": "No disponible",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "No disponible",
+        "license": "No disponible",
+        "security_privacy": "El sitio indica que emplea buenas prácticas comunes y se basa en la infraestructura de nube de Google. Los datos están cifrados tanto en reposo como en tránsito.",
+        "integration": "Se integra como extensión a Chrome y opera directamente dentro de Salesforce. No se menciona compatibilidad con otras herramientas. "
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://getcolby.com/"
+        },
+        {
+          "source_url": "https://www.toolify.ai/compare/smartlyze-vs-colby-ai"
+        },
+        {
+          "source_url": "https://www.foxworldtravel.com/news-releases-awards/meet-colby-ai-fox-world-travels-ai-assistant-revolutionizing-travel-planning-and-management/"
+        }
+      ]
+    },
+    "1262": {
+      "app": {
+        "id": "1262",
+        "name": "Cluely",
+        "url": "https://cluely.com/?",
+        "short_description": "Toma notas perfectas de reuniones y obtén respuestas en tiempo real.",
+        "category": "Productividad",
+        "main_functionality": "Asistencia en tiempo real durante reuniones mediante IA, incluyendo toma automática de notas y generación instantánea de respuestas contextuales.",
+        "tags": "#Productividad #AsistenteIA #Reuniones #NotasAutomáticas #IAEnTiempoReal",
+        "logo_filename": "id_1262_cluely",
+        "what_is": "Cluely es una herramienta de inteligencia artificial diseñada para asistir a los usuarios durante reuniones virtuales. Funciona en segundo plano mientras el usuario participa en una llamada, proporcionando notas automáticas y respuestas en tiempo real sin interrumpir el flujo de la reunión.",
+        "purpose": "Sirve para mejorar el desempeño del usuario en reuniones, entrevistas o llamadas profesionales, ayudando a recordar información clave, responder preguntas de forma inmediata y mantener un registro preciso de lo discutido.",
+        "use_cases": "Asistencia en reuniones de trabajo virtuales.\n\nSoporte durante entrevistas laborales o técnicas.\n\nToma automática de notas en llamadas de equipo.\n\nRespuestas contextuales en tiempo real durante discusiones.\n\nApoyo para presentaciones y reuniones remotas.",
+        "main_advantages": "Asistencia en tiempo real sin interrumpir la reunión.\n\nGeneración automática de notas precisas.\n\nFuncionamiento discreto en segundo plano.\n\nInterfaz orientada a productividad individual.\n\nEnfoque en velocidad y utilidad inmediata.",
+        "long_description": "Cluely es un asistente de inteligencia artificial enfocado en reuniones virtuales que ayuda a los usuarios a mantenerse informados y responder eficazmente durante llamadas. La herramienta toma notas de manera automática y genera respuestas en tiempo real basadas en el contexto de la conversación. Está diseñada para ejecutarse de forma discreta, permitiendo al usuario concentrarse en la interacción mientras la IA actúa como apoyo continuo.",
+        "release_date": "No disponible",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "Plan Gratuito / Acceso Inicial:\n\nAcceso limitado a funcionalidades básicas para probar el servicio.\n\nPlanes de Pago:\n\nSuscripción mensual.\nAcceso completo a asistencia en tiempo real y notas automáticas.\nLos precios y límites específicos se detallan en la página de pricing y pueden variar.",
+        "license": "Propietaria.",
+        "security_privacy": "Recopila información de cuenta y datos proporcionados por el usuario.\n\nPuede recopilar audio, transcripciones o información derivada de reuniones para proporcionar el servicio.\n\nUtiliza los datos para operar, mantener y mejorar la plataforma.\n\nImplementa medidas de seguridad razonables para la protección de la información.\n\nLos datos pueden compartirse con proveedores de servicios necesarios para el funcionamiento del producto.\n\nLos usuarios pueden solicitar acceso, corrección o eliminación de sus datos conforme a la política de privacidad.",
+        "integration": "Diseñado para usarse durante reuniones virtuales en sistemas compatibles con Windows.\n\nNo se especifican integraciones técnicas detalladas ni disponibilidad de API pública."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://cluely.com/?"
+        },
+        {
+          "source_url": "https://cluely.com/pricing"
+        },
+        {
+          "source_url": "https://cluely.com/manifesto"
+        },
+        {
+          "source_url": "https://cluely.com/privacy-policy"
+        }
+      ]
+    },
+    "1292": {
+      "app": {
+        "id": "1292",
+        "name": "Cloudera",
+        "url": "https://www.cloudera.com/",
+        "short_description": "Tu manual semanal para navegar el caos de agentes y convertir la interrupción de la IA en una ventaja escalable. Escucha el pódcast The AI Forecast.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Proveer una plataforma de datos en entornos híbridos para transformar datos en información/insights confiables, soportando casos como analítica de clientes (“customer analytics/customer insights”) y capacidades relacionadas con IA.",
+        "tags": "#InteligenciaDeNegocios #PlataformaDeDatos #Analitica #IAEmpresarial #NubeHibrida #DataFabric",
+        "logo_filename": "id_1292_cloudera",
+        "what_is": "Una plataforma de datos orientada a organizaciones que buscan operar en entornos híbridos (“Cloud Anywhere. Data Anywhere. AI Everywhere.”) y convertir datos en insights confiables para apoyar la toma de decisiones.",
+        "purpose": "Para habilitar analítica y casos de negocio basados en datos (incluyendo iniciativas de IA), gestionando datos a través de distintos entornos de nube y/o infraestructura, con un enfoque en resultados confiables.",
+        "use_cases": "Customer analytics / customer insights: impulsar engagement, reducir churn y descubrir insights para crecimiento (según el encabezado de la página de “Customer Analytics”).\n\nAnalítica empresarial y apoyo a decisiones en múltiples industrias (según el mensaje de la portada).\n\nIniciativas de IA ligadas a datos y arquitecturas híbridas (mención de “AI Everywhere” y “Data Fabrics for AI” en el banner del evento).",
+        "main_advantages": "Enfoque híbrido: “Cloud Anywhere. Data Anywhere.”\n\nOrientación a insights confiables (“valuable insight you can trust”).\n\nMensajería explícita hacia resultados de negocio: mejorar decisiones, proteger contra amenazas y generar impacto (según la portada).\n\nCasos orientados a customer analytics: engagement, menor atrición y crecimiento (según la página de customer insights/analytics).",
+        "long_description": "Cloudera se presenta como una plataforma para operar datos y analítica en un esquema híbrido (“Cloud Anywhere. Data Anywhere. AI Everywhere.”), orientada a que organizaciones conviertan datos en insights confiables. En su comunicación pública enfatiza impacto en la toma de decisiones y beneficios organizacionales. También muestra soluciones enfocadas a Customer Analytics, con objetivos como aumentar el engagement del cliente, reducir la atrición y descubrir insights para impulsar crecimiento.",
+        "release_date": "No disponible",
+        "developer": "Cloudera, Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "No disponible",
+        "license": "No disponible",
+        "security_privacy": "La Privacy Statement de Cloudera (actualizada el 17 dic 2025) describe cómo Cloudera, Inc. recopila y usa datos personales (p. ej., nombre, datos de contacto/profesionales, identificadores en línea, actividad de navegación, registros de chat y grabaciones) para operar el sitio y servicios, marketing, analítica, seguridad y cumplimiento legal; puede compartirlos con afiliadas, proveedores, socios y por requerimientos legales, aplica medidas de seguridad, define criterios de retención, contempla transferencias internacionales (incluido EE. UU.) y detalla derechos de privacidad (acceso, corrección, eliminación, oposición, portabilidad y opt-out de publicidad dirigida), además de indicar que no está dirigida a menores de 16. La Product & Service Data Policy explica el tratamiento de datos de clientes en productos/servicios (cuenta, control plane, diagnósticos/telemetría, soporte y uso), destacando un modelo de responsabilidades compartidas en nube y que Cloudera no procesa Workload Data/On-Prem data del cliente, mientras sí utiliza datos de diagnóstico/uso (a menudo desidentificados) para soporte, seguridad y mejora del servicio.",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.cloudera.com/"
+        },
+        {
+          "source_url": "https://www.cloudera.com/legal/policies.html"
+        },
+        {
+          "source_url": "https://www.cloudera.com/solutions/customer-insights.html"
+        },
+        {
+          "source_url": "https://www.cloudera.com/about.html"
+        }
+      ]
+    },
+    "1333": {
+      "app": {
+        "id": "1333",
+        "name": "Clipchamp",
+        "url": "https://clipchamp.com/es/",
+        "short_description": "Editor de vídeo en línea de Microsoft para crear y editar videos fácilmente, con funciones asistidas por IA (subtítulos automáticos, texto a voz y mejora de audio), grabación de cámara/pantalla y biblioteca de contenido para producir videos para redes sociales, escuela o trabajo.",
+        "category": "Edición de video",
+        "main_functionality": "Edición y producción de video (en navegador y app de Windows) con herramientas de recorte/ajuste/exportación y capacidades de IA como subtitulado automático, voz en off por texto a voz y mejoras de audio (ruido, silencios, muletillas).",
+        "tags": "#EdiciónDeVideo #Video #IA #SubtítulosAutomáticos #TextoAVoz #GrabaciónDePantalla #GrabaciónDeCámara #Audio",
+        "logo_filename": "id_1333_clipchamp",
+        "what_is": "Plataforma de edición de vídeo basada en web (y disponible en Windows) que permite crear, grabar, editar y exportar videos; incluye funciones “inteligentes”/de IA para subtitulado, voz en off y mejoras de audio.",
+        "purpose": "Para producir videos de manera rápida (p. ej., tutoriales, presentaciones, contenidos para redes), grabar pantalla/cámara, mejorar audio, añadir subtítulos/voz en off y exportar en alta definición para publicación y compartición.",
+        "use_cases": "Generar subtítulos automáticos en múltiples idiomas para accesibilidad.\n\nCrear voz en off con texto a voz (IA) ajustando tono/ritmo.\n\nGrabar pantalla/cámara/voz para demos, capacitación o presentaciones.\n\nMejorar audio eliminando ruido y silencios/pausas no deseadas.",
+        "main_advantages": "Enfoque “rápido y sencillo” para usuarios no técnicos.\n\nExportación en HD sin marca de agua en plan gratis (según pricing).\n\nFunciones de IA integradas (subtítulos, texto a voz, herramientas de audio).\n\nDisponibilidad en navegador y como app en Windows (y app móvil iOS).",
+        "long_description": "Clipchamp es un editor de video de Microsoft orientado a creación y edición en navegador y Windows. Permite importar y editar clips en una línea de tiempo, agregar transiciones, texto y música; grabar pantalla y cámara; y usar funciones de IA como subtítulos automáticos, texto a voz y herramientas de mejora de audio (por ejemplo, reducción de ruido y eliminación de silencios). También ofrece biblioteca de contenido y opciones de exportación (HD y, en Premium, hasta 4K).",
+        "release_date": "2014",
+        "developer": "Microsoft (Clipchamp forma parte de Microsoft desde 2021).",
+        "main_model": "No disponible",
+        "pricing_plans": "Gratis: editor para todos; exporta hasta 1080p HD; incluye herramientas de IA indicadas (según comparativa).\n\nPremium: funciones premium incluidas con Microsoft 365 Personal y Familia (por ejemplo, exportación hasta 4K UHD, recursos premium, kit de marca).\n\nTrabajo/Educación: se menciona un plan estándar incluido en algunas licencias M365; y acceso a funciones premium/creación de vídeo con IA con licencias específicas (p. ej., Copilot para empresas).",
+        "license": "Propietaria.",
+        "security_privacy": "El sitio indica uso/compartición segura y “privacidad garantizada”.\n\nTérminos y privacidad se alinean con el Microsoft Services Agreement y la Microsoft Privacy Statement (según anuncio oficial de Clipchamp).",
+        "integration": "Se listan integraciones con OneDrive, Dropbox, YouTube, TikTok, LinkedIn, Xbox y GIPHY; y en el entorno Microsoft 365 se describe integración con SharePoint y Stream para editar contenido almacenado en OneDrive/SharePoint."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Evergrowth aumenta 10× el engagement con video pitches personalizados creados con Clipchamp",
+          "description": "El caso de cliente de Microsoft documenta que Evergrowth integró Clipchamp para crear video pitches personalizados, logrando incrementar 10× el engagement y contribuyendo a crecimiento en nuevos ingresos (según la historia del cliente).",
+          "url": "https://www.microsoft.com/en/customers/story/19133-evergrowth-microsoft-365-business"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://clipchamp.com/es/"
+        },
+        {
+          "source_url": "https://clipchamp.com/es/pricing/"
+        },
+        {
+          "source_url": "https://clipchamp.com/es/company/"
+        },
+        {
+          "source_url": "https://clipchamp.com/es/blog/"
+        },
+        {
+          "source_url": "https://support.microsoft.com/es-es/topic/what-are-the-clipchamp-paid-plans-and-how-do-they-work-f3a42f9b-7e8d-496b-a56f-f353898fe508"
+        }
+      ]
+    },
+    "1424": {
+      "app": {
+        "id": "1424",
+        "name": "Clico",
+        "url": "https://tryclico.com/",
+        "short_description": "Selecciona texto para las respuestas, resume los artículos y redacta las respuestas sin salir de la pestaña.",
+        "category": "Redacción",
+        "main_functionality": "Escritura asistida por IA “en el cursor” en cualquier campo de texto del navegador (borradores, respuestas, reescrituras), más resumen de páginas, búsqueda contextual y dictado por voz, usando el contenido visible de la página como contexto cuando el usuario lo activa.",
+        "tags": "#Redacción #AsistenteDeEscritura #ExtensiónChrome #ResumenDePáginas #Reescritura #DictadoPorVoz #BúsquedaConIA #Productividad",
+        "logo_filename": "id_1424_clicoai",
+        "what_is": "Una extensión de navegador (principalmente para Chrome/Chromium) que integra un diálogo de IA dentro de los cuadros de texto y también ofrece atajos para resumir lo que se está leyendo y realizar búsqueda/explicación basada en selecciones, usando el contexto de la página cuando se activa por el usuario.",
+        "purpose": "Para acelerar tareas de escritura y comunicación (correos, mensajes, documentos, publicaciones, respuestas), evitando copiar/pegar contexto en un chatbot; además, permite resumir contenido y consultar/explicar texto seleccionado sin salir de la pestaña.",
+        "use_cases": "Redactar y responder correos en Gmail con contexto del hilo.\nReescribir texto seleccionado (más corto, más formal, más claro) en cualquier editor web (Notion, Docs, Slack, etc.).\nResumir una página web/PDF con atajo (doble pulsación de tecla, según la ficha).\nDictado por voz para generar mensajes/borradores en campos de texto.\nUsar contexto multi-pestaña mediante “@mentions” (con cuenta).",
+        "main_advantages": "Trabajo sin cambiar de pestaña: la IA se invoca dentro del campo donde se escribe.\nContexto automático: lee el texto visible de la página y el campo activo sólo cuando el usuario lo activa.\nAtajos y flujo rápido: escritura, resumen, búsqueda contextual y voz desde el navegador.\nAcceso gratuito durante beta: plan básico gratuito y “Full Access” gratuito con cuenta (según pricing).\nEnfoque de privacidad declarado: sin escaneo en segundo plano y con exclusiones explícitas (passwords, pagos, historial, cookies, etc.).",
+        "long_description": "Extensión de IA para escritura y productividad en navegador. Permite abrir un diálogo de IA dentro de cualquier campo de texto (atajo), generar borradores/respuestas/reescrituras y correcciones, y usar funciones como: resumen rápido de la página, búsqueda/explicación basada en selección, dictado por voz y contexto ampliado mediante selección explícita de pestañas (función “@”). Opera leyendo el contenido visible y el campo activo únicamente cuando el usuario activa la herramienta; al cerrar el diálogo deja de leer.",
+        "release_date": "Abril 2026",
+        "developer": "SOPHIAPRO PTE. LTD.",
+        "main_model": "No disponible",
+        "pricing_plans": "Clico Basic: $0 “forever”, sin registro; 5 usos de IA por día; escritura en cualquier cuadro de texto; resumen de páginas; búsqueda web integrada; compatible con navegadores Chromium.\nClico Full Access: $0 “forever”, requiere cuenta; uso diario ilimitado; incluye lo de Basic + dictado por voz, contexto multi-pestaña con @mentions, preferencias, acceso temprano.\nPlan de pago: No disponible (declaran que todavía no existe plan de pago y que exploran opciones futuras).",
+        "license": "Propietaria.",
+        "security_privacy": "Lectura sólo bajo activación del usuario; no monitorea, escanea ni indexa en segundo plano; se detiene al cerrar el diálogo.\nExclusiones explícitas: no accede a contraseñas, datos de pago, historial, cookies/sesiones, otras pestañas salvo selección con “@”, ni archivos locales.\nPolítica de privacidad: acceso temporal a contenido de página al activar; retención indicada (p. ej., instrucciones/prompt hasta 30 días para debugging; datos de uso hasta 12 meses); cifrado en tránsito (HTTPS/TLS).\nAutenticación con Clerk (según la página de seguridad), y el servicio usa proveedores de IA de terceros para procesar solicitudes.\nChrome Web Store: declara que los datos no se venden a terceros y no se usan fuera de los casos aprobados (según la declaración del desarrollador en la ficha).",
+        "integration": "Funciona en Chrome, Edge, Brave, Arc y navegadores Chromium; también menciona disponibilidad para Firefox.\nCompatible con sitios/herramientas donde haya cuadros de texto (ej.: Gmail, Google Docs, Notion, Slack, LinkedIn, etc., listados como “works everywhere you write”).\nCapacidades de contexto: lectura de página actual y campo activo; multi-pestaña mediante selección explícita con “@”."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://tryclico.com/"
+        },
+        {
+          "source_url": "https://tryclico.com/#features"
+        },
+        {
+          "source_url": "https://tryclico.com/pricing"
+        },
+        {
+          "source_url": "https://tryclico.com/why-clico-is-safe"
+        }
+      ]
+    },
+    "1444": {
+      "app": {
+        "id": "1444",
+        "name": "ClipMake",
+        "url": "https://clipmake.ai/?",
+        "short_description": "Genera anuncios UGC en video con creadores sintéticos: pega un link del producto o sube imagen, elige un “creator”, usa/crea un guion y obtén variantes listas para correr en Meta/TikTok en minutos.",
+        "category": "Publicidad",
+        "main_functionality": "Producción rápida de variantes de video UGC para performance ads (scripts + avatar/actor IA + voz), con enfoque en volumen de testeo (“hook/CTA swapping”), créditos por video y exportación/uso para campañas.",
+        "tags": "#Publicidad #Marketing #GeneraciónDeVideo #UGC #Ecommerce #MetaAds #TikTokAds #TextoAVideo",
+        "logo_filename": "id_1444_clipmakeai",
+        "what_is": "Es una plataforma SaaS para generar video ads estilo UGC con “creadores” generados por IA. El usuario aporta imágenes y/o un enlace del producto y un guion; el sistema produce un video (y audio) sintético usando proveedores de IA de terceros.",
+        "purpose": "Para escalar la producción de creatividades publicitarias (muchas variaciones por mes) y acelerar pruebas de hooks/ángulos/CTAs en campañas de pago, sin contratar actores/creadores tradicionales.",
+        "use_cases": "Generar 15/40/120 anuncios UGC al mes (según plan) para pruebas A/B de creatividades.\nProbar rápidamente distintos hooks y CTAs sin regenerar todo el video (“hook/CTA swapping”).\nCrear ads desde URL (p. ej., Shopify) para incorporar assets del producto sin enviar muestras físicas.\nLocalizar/variar voces y estilos (menciona modos como “Pro Realism + VocalMatch”).",
+        "main_advantages": "Costo por video orientado a volumen (p. ej., ≈$2.48–$2.60/video según el plan mostrado públicamente).\nVelocidad de generación (minutos) y flujo “producto → guion → video”.\nControl del copy: el sitio enfatiza que genera “exactamente lo que se escribe” para evitar claims no deseados (especialmente en verticales reguladas).\nDerechos comerciales en planes y opción de prueba (1 crédito gratis con watermark en el free).",
+        "long_description": "Servicio web para crear anuncios UGC con IA: el usuario aporta inputs (imágenes, guiones y/o materiales) y el sistema genera video y audio sintéticos mediante modelos de IA de terceros. Incluye funciones para producir volumen de variaciones, optimizar hooks/CTAs y un esquema de créditos (1 video = 1 crédito; ciertos modos consumen más).",
+        "release_date": "2026",
+        "developer": "DESIGNREVISION STUDIO SRL (Rumania).",
+        "main_model": "No disponible",
+        "pricing_plans": "Free: 1 crédito gratis (video con watermark; sin tarjeta).\nStarter: $39/mes, 15 videos (≈$2.60/video).\nGrowth: $99/mes, 40 videos (≈$2.48/video).\nAgency: $299/mes, 120 videos (≈$2.49/video).",
+        "license": "Propietaria (SaaS).",
+        "security_privacy": "Controlador de datos: DESIGNREVISION STUDIO SRL (Rumania).\nDatos: cuenta (nombre/email), inputs (imágenes/guiones), uso (logs/IP), cookies necesarias; declara no usar cookies publicitarias/tracking por defecto.\nSubprocesadores: proveedores de IA (video/audio), Stripe (pagos), Google OAuth (si aplica), storage en EE. UU.; transferencias con SCCs.\nRetención: mientras haya suscripción; borrado programado al cancelar; eliminación permanente ~30 días tras fin de suscripción (incl. backups).\nIA/entrenamiento: indica que, salvo acuerdo Enterprise, proveedores de IA podrían usar inputs para mejora/entrenamiento; el usuario puede objetar (con implicaciones de uso).\nRestricción destacada en Terms: prohíbe subir fotos/video/voz de personas identificables sin consentimiento; prohíbe menores; exige transparencia de contenido IA al distribuir.",
+        "integration": "Pagos con Stripe y login con Google OAuth.\nEntrada por URL de producto (p. ej., Shopify) y generación para correr en Meta/TikTok/YouTube (mencionado como uso/flujo)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://clipmake.ai/?"
+        },
+        {
+          "source_url": "https://clipmake.ai/#pricing"
+        },
+        {
+          "source_url": "https://clipmake.ai/#faq"
+        },
+        {
+          "source_url": "https://clipmake.ai/privacy"
+        },
+        {
+          "source_url": "https://martech.zone/clipmake-ai-ugc-video-ads-replace-creators/"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/clipmake-ai"
+        }
+      ]
+    },
+    "1510": {
+      "app": {
+        "id": "1510",
+        "name": "CodeGeeX",
+        "url": "https://codegeex.cn",
+        "short_description": "Ayuda a programar con funciones de autocompletado, depuración y asistencia inteligente para desarrollo de software.",
+        "category": "Codificación",
+        "main_functionality": "Asistencia de programación con autocompletado y depuración.",
+        "tags": "#IA #Codificación #Desarrollo #Programación",
+        "logo_filename": "id_1510_codegeex",
+        "what_is": "CodeGeeX es un asistente de codificación con inteligencia artificial que apoya a desarrolladores en tareas como autocompletado, depuración y generación de código.",
+        "purpose": "Asistir a desarrolladores en tareas de programación, autocompletado, depuración y generación de código.",
+        "use_cases": "Programación asistida, depuración de errores, generación de fragmentos de código, aprendizaje de programación y apoyo en proyectos de software.",
+        "main_advantages": "Acelera tareas de programación; ayuda a reducir errores; puede apoyar a desarrolladores principiantes y avanzados; facilita la escritura de código.",
+        "long_description": "CodeGeeX es un asistente de codificación basado en inteligencia artificial. Su objetivo es apoyar a desarrolladores mediante autocompletado, generación de código, depuración y asistencia técnica en distintos flujos de desarrollo.",
+        "release_date": "No especificada",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Gratis",
+        "license": "No especificada",
+        "security_privacy": "Consultar la política de privacidad del proveedor.",
+        "integration": "Disponible mediante plataforma web del proveedor."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://codegeex.cn"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/codegeex"
+        }
+      ]
+    },
+    "1520": {
+      "app": {
+        "id": "1520",
+        "name": "Cleanup.pictures",
+        "url": "https://cleanup.pictures",
+        "short_description": "Elimina fondos, objetos o imperfecciones de imágenes de forma rápida con inteligencia artificial.",
+        "category": "Edición de imágenes",
+        "main_functionality": "Edición rápida de imágenes con inteligencia artificial.",
+        "tags": "#IA #EdiciónDeImágenes #Diseño #Imagen",
+        "logo_filename": "id_1520_cleanup_pictures",
+        "what_is": "Cleanup.pictures es una herramienta que permite eliminar fondos, objetos o imperfecciones de imágenes de manera rápida mediante inteligencia artificial.",
+        "purpose": "Editar imágenes de forma rápida eliminando objetos, fondos o imperfecciones con inteligencia artificial.",
+        "use_cases": "Edición de fotografías, eliminación de objetos, limpieza de imágenes, retoque visual, contenido para comercio electrónico y diseño gráfico.",
+        "main_advantages": "Permite editar imágenes rápidamente; reduce trabajo manual; facilita eliminar elementos no deseados; puede apoyar diseño y fotografía comercial.",
+        "long_description": "Cleanup.pictures es una herramienta de edición de imágenes asistida por inteligencia artificial. Permite limpiar fotografías, eliminar objetos o corregir imperfecciones de manera rápida, útil para diseño, marketing, fotografía y comercio electrónico.",
+        "release_date": "No especificada",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Freemium",
+        "license": "No especificada",
+        "security_privacy": "Consultar la política de privacidad del proveedor.",
+        "integration": "Disponible mediante plataforma web del proveedor."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://cleanup.pictures"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/cleanuppictures"
+        }
+      ]
+    },
+    "1544": {
+      "app": {
+        "id": "1544",
+        "name": "CodeWiz",
+        "url": "https://codewiz.app",
+        "short_description": "Ayuda a niños y estudiantes a desarrollar habilidades de programación mediante aprendizaje personalizado.",
+        "category": "Educación",
+        "main_functionality": "Aprendizaje de programación asistido por inteligencia artificial.",
+        "tags": "#IA #Educación #Programación #Aprendizaje",
+        "logo_filename": "id_1544_codewiz",
+        "what_is": "CodeWiz es una herramienta educativa que ayuda a niños y estudiantes a desarrollar habilidades de programación mediante aprendizaje personalizado y asistencia con inteligencia artificial.",
+        "purpose": "Apoyar el aprendizaje de programación y habilidades tecnológicas mediante asistencia personalizada con IA.",
+        "use_cases": "Aprendizaje de programación, educación tecnológica, robótica, ejercicios guiados, tutoría personalizada y formación inicial en desarrollo de software.",
+        "main_advantages": "Facilita el aprendizaje personalizado; apoya a estudiantes en programación; puede ayudar a introducir habilidades tecnológicas de forma más accesible.",
+        "long_description": "CodeWiz es una herramienta educativa apoyada por inteligencia artificial. Está orientada a facilitar el aprendizaje de programación y habilidades tecnológicas mediante asistencia personalizada, ejercicios guiados y apoyo para estudiantes.",
+        "release_date": "No especificada",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Freemium",
+        "license": "No especificada",
+        "security_privacy": "Consultar la política de privacidad del proveedor.",
+        "integration": "Disponible mediante plataforma web del proveedor."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://codewiz.app"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/codewiz"
+        }
+      ]
+    },
+    "1612": {
+      "app": {
+        "id": "1612",
+        "name": "Collov AI",
+        "url": "https://collov.com",
+        "short_description": "Transforma fotografías de espacios en propuestas visuales de diseño interior realistas.",
+        "category": "Generación de diseño",
+        "main_functionality": "Transformación de fotografías de interiores en propuestas visuales realistas.",
+        "tags": "#IA #Diseño #Interiores #Visualización",
+        "logo_filename": "id_1612_collov_ai",
+        "what_is": "Collov AI es una herramienta de diseño interior que transforma fotografías de espacios en visualizaciones realistas con apoyo de inteligencia artificial.",
+        "purpose": "Transformar fotografías de espacios en propuestas visuales realistas de diseño interior.",
+        "use_cases": "Diseño de interiores, remodelación, decoración, visualización inmobiliaria, propuestas comerciales y presentación de espacios.",
+        "main_advantages": "Convierte fotos en visualizaciones realistas; facilita comparar estilos; puede acelerar propuestas de diseño y presentación de interiores.",
+        "long_description": "Collov AI es una herramienta de diseño interior asistida por inteligencia artificial. Permite transformar fotografías de espacios en propuestas visuales realistas, útiles para decoración, remodelación y visualización de interiores.",
+        "release_date": "No especificada",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Prueba gratuita",
+        "license": "No especificada",
+        "security_privacy": "Consultar la política de privacidad del proveedor.",
+        "integration": "Disponible mediante plataforma web del proveedor."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://collov.com"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/collov"
+        }
+      ]
+    },
+    "1670": {
+      "app": {
+        "id": "1670",
+        "name": "Code Genius",
+        "url": "https://www.code-genius.dev/",
+        "short_description": "Code Genius es un asistente de programación con IA que apoya en la generación, explicación y mejora de código para acelerar tareas de desarrollo.",
+        "category": "Codificación",
+        "main_functionality": "Asistencia para escribir, explicar y mejorar código",
+        "tags": "#Código #AsistenteDeCódigo #Programación",
+        "logo_filename": "id_1670_code_genius",
+        "what_is": "Code Genius es un asistente de programación basado en IA. Ayuda a los desarrolladores a generar fragmentos de código, comprender funciones, resolver dudas técnicas y mejorar la eficiencia durante el desarrollo de software.",
+        "purpose": "Apoyar a desarrolladores en tareas de programación, explicación de código y mejora de soluciones técnicas mediante asistencia con IA.",
+        "use_cases": "Generación de código; explicación de funciones; apoyo en depuración; mejora de fragmentos de programación; aprendizaje técnico.",
+        "main_advantages": "Ahorra tiempo en tareas de programación; ayuda a entender código; apoya la generación de soluciones técnicas; puede mejorar la productividad de desarrolladores.",
+        "long_description": "Code Genius es un asistente de programación basado en inteligencia artificial. Ayuda a generar código, explicar fragmentos, resolver dudas técnicas y mejorar soluciones durante el desarrollo de software. Su utilidad principal está en acompañar a programadores y equipos técnicos en tareas cotidianas, reduciendo tiempos de búsqueda, documentación y escritura de código.",
+        "release_date": "No disponible",
+        "developer": "code-genius.dev",
+        "main_model": "No especificado",
+        "pricing_plans": "Freemium",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.code-genius.dev/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/code-genius"
+        }
+      ]
+    },
+    "1676": {
+      "app": {
+        "id": "1676",
+        "name": "Cognition AI",
+        "url": "https://www.cognition.ai/",
+        "short_description": "Cognition AI desarrolla agentes de IA orientados a programación y automatización de tareas complejas dentro del ciclo de desarrollo de software.",
+        "category": "Codificación",
+        "main_functionality": "Desarrollo de agentes de IA para programación y tareas técnicas",
+        "tags": "#Código #AgentesIA #Programación",
+        "logo_filename": "id_1676_cognition_ai",
+        "what_is": "Cognition AI es una empresa enfocada en agentes de inteligencia artificial para programación. Sus soluciones buscan ejecutar tareas técnicas complejas, apoyar el desarrollo de software y automatizar partes del ciclo de ingeniería.",
+        "purpose": "Impulsar la automatización de tareas complejas de programación mediante agentes de IA orientados al desarrollo de software.",
+        "use_cases": "Automatización de programación; ejecución de tareas técnicas complejas; apoyo en ingeniería de software; desarrollo asistido por agentes.",
+        "main_advantages": "Permite delegar tareas técnicas a agentes de IA; acelera procesos de programación; puede apoyar proyectos complejos; impulsa nuevas formas de automatización en software.",
+        "long_description": "Cognition AI desarrolla agentes de inteligencia artificial orientados a programación y automatización de tareas técnicas. Sus soluciones buscan ejecutar tareas complejas dentro del ciclo de desarrollo de software, apoyando a equipos de ingeniería en actividades que requieren razonamiento, contexto y ejecución técnica. Representa una categoría emergente de herramientas basadas en agentes especializados.",
+        "release_date": "No disponible",
+        "developer": "cognition.ai",
+        "main_model": "No especificado",
+        "pricing_plans": "Precio bajo consulta",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.cognition.ai/?utm_source=futurepedia&utm_medium=marketplace&utm_campaign=futurepedia"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/cognition-ai"
+        }
+      ]
+    },
+    "1772": {
+      "app": {
+        "id": "1772",
+        "name": "Code[Input]",
+        "url": "https://codeinput.com/",
+        "short_description": "Code[Input] ayuda a resolver conflictos de Git y administrar flujos de trabajo, facilitando tareas técnicas de desarrollo.",
+        "category": "Productividad",
+        "main_functionality": "Resolución de conflictos de Git y gestión de workflows técnicos",
+        "tags": "#Productividad #Git #FlujosDeTrabajo",
+        "logo_filename": "id_1772_codeinput",
+        "what_is": "Code[Input] es una herramienta de productividad técnica que ayuda a resolver conflictos de Git y administrar workflows de desarrollo. Está pensada para equipos que trabajan con repositorios y procesos colaborativos de código.",
+        "purpose": "Resolver conflictos de Git y mejorar flujos técnicos de desarrollo colaborativo.",
+        "use_cases": "Resolución de conflictos Git; administración de workflows técnicos; colaboración en repositorios; apoyo a equipos de desarrollo.",
+        "main_advantages": "Reduce fricción en Git; ayuda a resolver conflictos; mejora colaboración técnica; agiliza workflows de desarrollo.",
+        "long_description": "Code[Input] es una herramienta de productividad técnica enfocada en resolver conflictos de Git y administrar flujos de trabajo de desarrollo. Está pensada para equipos que colaboran en repositorios y necesitan reducir fricción en tareas de integración, control de versiones y coordinación técnica.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://codeinput.com/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/codeinput-z7khv4"
+        }
+      ]
+    },
+    "1811": {
+      "app": {
+        "id": "1811",
+        "name": "Cliphi",
+        "url": "https://www.cliphi.com/",
+        "short_description": "Cliphi convierte videos largos en clips cortos, facilitando la reutilización de contenido para redes sociales.",
+        "category": "Redes sociales",
+        "main_functionality": "Conversión de videos largos en clips cortos",
+        "tags": "#RedesSociales #Video #Clips",
+        "logo_filename": "id_1811_cliphi",
+        "what_is": "Cliphi es una herramienta para transformar videos largos en clips cortos. Ayuda a reutilizar contenido audiovisual para redes sociales, campañas o distribución digital.",
+        "purpose": "Reutilizar videos largos convirtiéndolos en clips cortos para redes sociales.",
+        "use_cases": "Clips para redes sociales; reutilización de videos largos; contenido corto; edición rápida.",
+        "main_advantages": "Ahorra tiempo editando videos; genera clips cortos; reutiliza contenido; apoya redes sociales.",
+        "long_description": "Cliphi es una herramienta para transformar videos largos en clips cortos. Ayuda a reutilizar contenido audiovisual para redes sociales, campañas o distribución digital. Puede ser útil para creadores, marcas y equipos de contenido que necesitan producir piezas breves a partir de material existente.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.cliphi.com/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/cliphi-w0gfbv"
+        }
+      ]
+    },
+    "1864": {
+      "app": {
+        "id": "1864",
+        "name": "Cliptude",
+        "url": "https://www.cliptude.com/",
+        "short_description": "Cliptude permite crear videos a partir de investigación o guiones, facilitando producción audiovisual para contenido digital.",
+        "category": "Generación de video",
+        "main_functionality": "Generación de videos a partir de investigación o guiones",
+        "tags": "#GeneraciónDeVideo #Clips #Contenido",
+        "logo_filename": "id_1864_cliptude",
+        "what_is": "Cliptude es una herramienta de generación de video que permite crear videos a partir de investigación, guiones o información base. Ayuda a transformar contenido estructurado en piezas audiovisuales para comunicación digital.",
+        "purpose": "Crear videos a partir de investigación, guiones o información base para facilitar comunicación audiovisual.",
+        "use_cases": "Videos desde guiones; contenido audiovisual; clips educativos; producción de videos para redes.",
+        "main_advantages": "Convierte investigación en video; facilita producción audiovisual; reutiliza guiones; acelera creación de contenido.",
+        "long_description": "Cliptude es una herramienta de generación de video que permite crear videos a partir de investigación, guiones o información base. Ayuda a transformar contenido estructurado en piezas audiovisuales útiles para redes sociales, educación o comunicación digital. Su valor está en acelerar la producción de contenido en video.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.cliptude.com/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/cliptude-d29djt"
+        }
+      ]
+    },
+    "1989": {
+      "app": {
+        "id": "1989",
+        "name": "CNAPS",
+        "url": "https://cnaps.ai/",
+        "short_description": "CNAPS permite automatizar procesos y flujos de trabajo mediante agentes de IA orientados a tareas operativas.",
+        "category": "Automatización",
+        "main_functionality": "Automatización de procesos mediante agentes de IA y flujos de trabajo.",
+        "tags": "automatización, agentes de IA, workflows, procesos",
+        "logo_filename": "id_1989_cnaps",
+        "what_is": "CNAPS es una plataforma de automatización que utiliza agentes de IA para ejecutar procesos, coordinar tareas y reducir trabajo manual dentro de flujos operativos.",
+        "purpose": "Automatizar procesos y tareas operativas mediante agentes de IA y flujos de trabajo.",
+        "use_cases": "Automatización de procesos; agentes de IA; workflows internos; reducción de tareas manuales.",
+        "main_advantages": "Reduce trabajo manual, conecta procesos y permite ejecutar tareas repetitivas con agentes de IA.",
+        "long_description": "CNAPS es una plataforma de automatización que utiliza agentes de IA para ejecutar tareas y coordinar procesos. Puede ayudar a reducir trabajo manual en flujos operativos, conectando acciones y decisiones dentro de un proceso. Es útil para equipos que buscan automatizar actividades repetitivas sin depender completamente de intervención humana.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://cnaps.ai/"
+        }
+      ]
+    },
+    "2012": {
+      "app": {
+        "id": "2012",
+        "name": "Clipt",
+        "url": "https://clipt.cc/",
+        "short_description": "Clipt permite crear y editar clips de video de forma rápida para contenido corto, redes sociales o comunicación digital.",
+        "category": "Edición de video",
+        "main_functionality": "Creación y edición rápida de clips de video para contenido digital.",
+        "tags": "clips de video, edición rápida, contenido corto, redes sociales",
+        "logo_filename": "id_2012_clipt",
+        "what_is": "Clipt es una herramienta de edición de video enfocada en crear clips o piezas cortas de forma rápida. Puede ser útil para redes sociales, marketing, contenido educativo o comunicación digital.",
+        "purpose": "Crear clips de video de forma rápida para contenido corto, redes sociales o comunicación digital.",
+        "use_cases": "Clips para redes sociales; edición rápida; contenido corto; video marketing.",
+        "main_advantages": "Acelera la creación de clips, facilita contenido corto y ayuda a reutilizar videos para redes sociales.",
+        "long_description": "Clipt es una herramienta de edición de video enfocada en crear clips o piezas cortas de forma rápida. Puede apoyar contenido para redes sociales, marketing, educación o comunicación digital. Su utilidad está en facilitar la transformación de material de video en fragmentos reutilizables y más fáciles de publicar.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://clipt.cc/"
+        }
+      ]
+    },
+    "2102": {
+      "app": {
+        "id": "2102",
+        "name": "CodeKudu",
+        "url": "https://codekudu.com/",
+        "short_description": "CodeKudu apoya tareas de codificación, desarrollo y productividad para equipos técnicos.",
+        "category": "Codificación",
+        "main_functionality": "Apoyo a codificación, desarrollo y productividad para equipos técnicos.",
+        "tags": "codificación, desarrollo, programación, herramientas para developers",
+        "logo_filename": "id_2102_codekudu",
+        "what_is": "CodeKudu es una herramienta de codificación orientada a apoyar tareas de desarrollo, programación y productividad técnica. Puede ser útil para equipos que necesitan acelerar trabajo con código o mejorar flujos de desarrollo.",
+        "purpose": "Apoyar tareas de codificación, desarrollo y productividad para equipos técnicos.",
+        "use_cases": "Codificación; productividad técnica; desarrollo; herramientas para programadores.",
+        "main_advantages": "Mejora productividad técnica, ayuda a desarrollar con mayor rapidez y apoya flujos de codificación.",
+        "long_description": "CodeKudu es una herramienta de codificación orientada a apoyar tareas de desarrollo, programación y productividad técnica. Puede ser útil para equipos que necesitan acelerar trabajo con código, resolver tareas técnicas o mejorar flujos de desarrollo. Su valor está en apoyar la productividad de programadores y equipos técnicos.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://codekudu.com/"
+        }
+      ]
+    },
+    "2191": {
+      "app": {
+        "id": "2191",
+        "name": "CloudGo.ai",
+        "url": "https://cloudgo.ai/",
+        "short_description": "Plataforma de IA orientada a automatizar tareas y operaciones de infraestructura en la nube.",
+        "category": "Automatización",
+        "main_functionality": "Automatizar tareas relacionadas con infraestructura y operaciones en entornos cloud.",
+        "tags": "infraestructura cloud, automatización en la nube, operaciones cloud, asistentes de IA, gestión técnica",
+        "logo_filename": "id_2191_cloudgo_ai",
+        "what_is": "CloudGo.ai es una plataforma de automatización orientada a tareas de infraestructura y operaciones en la nube.",
+        "purpose": "Reducir tareas manuales relacionadas con la operación y administración de infraestructura en la nube.",
+        "use_cases": "Gestión de infraestructura cloud, automatización de tareas técnicas y apoyo a operaciones en la nube.",
+        "main_advantages": "Automatiza tareas de infraestructura cloud y reduce parte del trabajo operativo repetitivo.",
+        "long_description": "CloudGo.ai es una plataforma orientada a automatizar tareas relacionadas con infraestructura y operaciones en la nube. Puede apoyar actividades técnicas recurrentes y facilitar la administración de entornos cloud mediante herramientas asistidas por inteligencia artificial.",
+        "release_date": "No disponible",
+        "developer": "CloudGo.ai",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://cloudgo.ai/"
+        }
+      ]
+    },
+    "2238": {
+      "app": {
+        "id": "2238",
+        "name": "CodeProt",
+        "url": "https://codeprot.com/",
+        "short_description": "Herramienta para revisar pull requests, analizar código y sugerir correcciones.",
+        "category": "Codificación",
+        "main_functionality": "Revisar pull requests, analizar cambios de código y proponer correcciones.",
+        "tags": "revisión de código, pull requests, análisis de PR, corrección de código, desarrollo de software",
+        "logo_filename": "id_2238_codeprot",
+        "what_is": "CodeProt es una herramienta de codificación que revisa pull requests, analiza cambios y ayuda a corregir problemas en el código.",
+        "purpose": "Facilitar la revisión de pull requests y la detección de problemas en cambios de código.",
+        "use_cases": "Revisión de pull requests, análisis de cambios, detección de errores y apoyo a procesos de code review.",
+        "main_advantages": "Ayuda a revisar cambios de código y detectar problemas antes de integrar un pull request.",
+        "long_description": "CodeProt es una herramienta de codificación diseñada para revisar pull requests, analizar cambios de código y proponer correcciones. Está orientada a apoyar procesos de revisión y facilitar la detección de problemas antes de integrar modificaciones.",
+        "release_date": "No disponible",
+        "developer": "CodeProt",
+        "main_model": "Algoritmos propietarios; modelo base no especificado",
+        "pricing_plans": "Prueba gratuita de 14 días; precios de pago no publicados",
+        "license": "No especificado",
+        "security_privacy": "Zero data retention, arquitectura zero-trust, SSL/TLS y entornos temporales.",
+        "integration": "GitHub, GitLab y GitLab self-hosted"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://codeprot.com/"
+        }
+      ]
+    },
+    "2303": {
+      "app": {
+        "id": "2303",
+        "name": "Coldi",
+        "url": "https://coldi.ai/",
+        "short_description": "Plataforma de agentes de voz para automatizar llamadas comerciales entrantes y salientes.",
+        "category": "Automatización",
+        "main_functionality": "Automatizar llamadas comerciales entrantes y salientes mediante agentes de voz con inteligencia artificial.",
+        "tags": "agentes de voz, ventas, llamadas, outbound, inbound, automatización comercial",
+        "logo_filename": "id_2303_coldi",
+        "what_is": "Coldi es una plataforma de automatización basada en agentes de voz para gestionar llamadas comerciales entrantes y salientes.",
+        "purpose": "Automatizar llamadas comerciales y conversaciones de ventas mediante agentes de voz con inteligencia artificial.",
+        "use_cases": "Prospección comercial, llamadas outbound, atención inbound, seguimiento de leads y automatización de ventas.",
+        "main_advantages": "Permite automatizar conversaciones telefónicas comerciales y ampliar la capacidad de atención sin aumentar proporcionalmente el trabajo manual.",
+        "long_description": "Coldi es una plataforma de automatización basada en agentes de voz con inteligencia artificial. Está orientada a gestionar llamadas comerciales entrantes y salientes y puede utilizarse en procesos como prospección, seguimiento de leads, ventas y atención inicial.",
+        "release_date": "No disponible",
+        "developer": "Coldi AI",
+        "main_model": "No especificado",
+        "pricing_plans": "Outbound: desde $0.40 USD/minuto; Inbound: desde $500 USD por agente",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "Zendesk, Salesforce, VoIP, voz, chat y mensajería"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://coldi.ai/"
+        }
+      ]
+    },
+    "2339": {
+      "app": {
+        "id": "2339",
+        "name": "Cline",
+        "url": "https://cline.bot/",
+        "short_description": "Agente de programación de código abierto para colaborar en tareas de desarrollo de software mediante inteligencia artificial.",
+        "category": "Codificación",
+        "main_functionality": "Asistir tareas de programación y desarrollo de software mediante un agente colaborativo de código abierto.",
+        "tags": "agente de programación, open source, desarrollo de software, programación colaborativa, generación de código, codificación",
+        "logo_filename": "id_2339_cline",
+        "what_is": "Cline es un agente de programación de código abierto que colabora con desarrolladores en tareas de software mediante inteligencia artificial.",
+        "purpose": "Asistir a desarrolladores en tareas de programación mediante un agente de código abierto capaz de colaborar sobre proyectos de software.",
+        "use_cases": "Generación de código, edición de proyectos, depuración, programación asistida y colaboración con agentes de desarrollo.",
+        "main_advantages": "Ofrece asistencia de programación dentro del propio entorno de desarrollo y permite trabajar de forma colaborativa con un agente open source.",
+        "long_description": "Cline es un agente de programación de código abierto diseñado para colaborar con desarrolladores dentro de proyectos de software. Puede apoyar tareas como generación y edición de código, navegación de repositorios, ejecución de comandos y resolución de problemas mediante inteligencia artificial.",
+        "release_date": "No disponible",
+        "developer": "Cline Bot Inc.",
+        "main_model": "Anthropic, OpenAI, Google, OpenRouter y modelos locales mediante Ollama o LM Studio",
+        "pricing_plans": "Código abierto gratuito para desarrolladores individuales; se paga únicamente la inferencia utilizada; Enterprise: personalizado",
+        "license": "Apache 2.0",
+        "security_privacy": "Con BYOK o modelos locales, el código y las solicitudes pueden permanecer fuera de los servidores de Cline. Las claves se guardan en el gestor de credenciales del sistema y no se registran en los servidores de Cline.",
+        "integration": "VS Code, CLI, Slack, Telegram, MCP, Anthropic, OpenAI, OpenRouter, Ollama y LM Studio"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://cline.bot/"
+        }
+      ]
+    },
+    "2408": {
+      "app": {
+        "id": "2408",
+        "name": "CloudAgent",
+        "url": "https://cloudagent.io/",
+        "short_description": "Capa de gestión con IA para organizar, operar y proteger infraestructura cloud con contexto de arquitectura, costos y seguridad.",
+        "category": "Automatización",
+        "main_functionality": "Dar contexto de arquitectura, costos, salud y seguridad a agentes que administran infraestructura cloud bajo controles y aprobaciones.",
+        "tags": "cloud, AWS, Azure, seguridad, costos, infraestructura, agentes, MCP, DevOps, automatización",
+        "logo_filename": "id_2408_cloudagent",
+        "what_is": "CloudAgent es una capa de gestión para infraestructura cloud que proporciona contexto y controles a agentes de IA para operar arquitectura, costos, salud y seguridad.",
+        "purpose": "Facilitar operaciones cloud seguras y repetibles proporcionando contexto, guardrails y workflows a agentes de IA.",
+        "use_cases": "Administración AWS y Azure, monitoreo de costos, seguridad, configuración de infraestructura, compliance, workflows y DevOps.",
+        "main_advantages": "Mantiene contexto de infraestructura, aplica acceso de escritura por sesión, comprobaciones y aprobaciones antes de ejecutar cambios.",
+        "long_description": "CloudAgent es una capa de gestión con inteligencia artificial para infraestructura cloud. Organiza arquitectura, costos, salud y señales de seguridad para dar contexto a agentes que operan entornos AWS y Azure. Incorpora guardrails, permisos de escritura por sesión, comprobaciones antes de cambios, aprobaciones humanas, auditoría y workflows reutilizables.",
+        "release_date": "No disponible",
+        "developer": "CloudAgent",
+        "main_model": "No especificado",
+        "pricing_plans": "Free: $0; Individual: $25 USD/mes; Teams: $500 USD/mes; Enterprise: personalizado",
+        "license": "No especificado",
+        "security_privacy": "Incluye controles de acceso para operaciones cloud, comprobaciones previas, aprobaciones y mecanismos de auditoría antes de ejecutar determinados cambios.",
+        "integration": "AWS, Microsoft Azure, MCP y herramientas de infraestructura cloud"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://cloudagent.io/"
+        }
+      ]
+    },
+    "2411": {
+      "app": {
+        "id": "2411",
+        "name": "CloudTalk",
+        "url": "https://www.cloudtalk.io/",
+        "short_description": "Sistema telefónico empresarial que combina llamadas, routing, dialers y agentes de voz con inteligencia artificial.",
+        "category": "Automatización",
+        "main_functionality": "Gestionar llamadas empresariales y automatizar atención mediante routing, marcadores, analítica y agentes de voz con IA.",
+        "tags": "telefonía empresarial, call center, agentes de voz, ventas, soporte, llamadas, automatización, IA",
+        "logo_filename": "id_2411_cloudtalk",
+        "what_is": "CloudTalk es un sistema telefónico empresarial para ventas y soporte que combina telefonía tradicional con automatización y agentes de voz con inteligencia artificial.",
+        "purpose": "Centralizar las comunicaciones telefónicas de ventas y soporte y automatizar parte de la atención mediante agentes de voz.",
+        "use_cases": "Ventas telefónicas, soporte, call centers, recepción 24/7, campañas outbound, routing, análisis de llamadas y agentes de voz.",
+        "main_advantages": "Combina números locales, routing, dialers, integraciones y agentes de voz en las mismas colas y procesos empresariales.",
+        "long_description": "CloudTalk es una plataforma de telefonía empresarial para equipos de ventas y soporte. Integra números locales, routing, marcadores automáticos, analítica e integraciones con agentes de voz capaces de atender llamadas de forma continua. Los agentes humanos y de inteligencia artificial pueden utilizar las mismas colas, números y sistemas conectados.",
+        "release_date": "No disponible",
+        "developer": "CloudTalk",
+        "main_model": "No especificado",
+        "pricing_plans": "Sistema telefónico desde €19/usuario/mes con facturación anual; AI Voice Agents desde €99/mes por 200 minutos; prueba gratuita de 14 días",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "Telefonía empresarial, CRM, routing, dialers y agentes de voz"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.cloudtalk.io/"
+        }
+      ]
+    },
+    "2600": {
+      "app": {
+        "id": "2600",
+        "name": "Cloudonix",
+        "url": "https://cloudonix.com/",
+        "short_description": "Plataforma de comunicaciones y telefonía programable para crear agentes de voz, aplicaciones SIP y experiencias automatizadas de llamadas.",
+        "category": "Automatización",
+        "main_functionality": "Ofrece infraestructura de telefonía y comunicaciones programables para crear agentes de voz, aplicaciones SIP y flujos automatizados de llamadas.",
+        "tags": "agentes de voz, telefonía, SIP, comunicaciones, llamadas, APIs, automatización",
+        "logo_filename": "id_2600_cloudonix",
+        "what_is": "Cloudonix es una plataforma de comunicaciones programables y telefonía orientada a aplicaciones y agentes de voz.",
+        "purpose": "Facilitar la creación de aplicaciones de voz y comunicaciones automatizadas mediante infraestructura telefónica programable.",
+        "use_cases": "Construir agentes de voz; realizar llamadas automatizadas; integrar telefonía SIP; crear IVR; conectar aplicaciones con APIs de comunicación; operar asistentes telefónicos.",
+        "main_advantages": "Centraliza telefonía, SIP y APIs de comunicación necesarias para integrar voz y automatización dentro de aplicaciones.",
+        "long_description": "Cloudonix es una plataforma de comunicaciones programables y telefonía para desarrollar aplicaciones y agentes de voz. Proporciona infraestructura relacionada con llamadas, SIP y APIs que permiten integrar comunicaciones dentro de productos digitales. Puede utilizarse para asistentes telefónicos, sistemas IVR y otros flujos donde sea necesario conectar inteligencia artificial con redes de voz.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Plan Forever Free. Starter USD 69/mes, Professional USD 119/mes, Growth USD 189/mes y Agency USD 299/mes; tarifas menores con facturación anual.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://cloudonix.com/"
+        }
+      ]
+    },
+    "2616": {
+      "app": {
+        "id": "2616",
+        "name": "Colormind",
+        "url": "http://colormind.io/",
+        "short_description": "Generador de paletas de colores basado en aprendizaje profundo que propone combinaciones visuales para diseño, branding y proyectos digitales.",
+        "category": "Generación de diseño",
+        "main_functionality": "Genera paletas de colores mediante aprendizaje automático y permite explorar, guardar y ajustar combinaciones para distintos proyectos visuales.",
+        "tags": "paletas de colores, diseño, colores, deep learning, identidad visual, inspiración, diseño web",
+        "logo_filename": "id_2616_colormind",
+        "what_is": "Colormind es un generador de paletas de colores basado en aprendizaje profundo que aprende combinaciones visuales a partir de imágenes y referencias de diseño.",
+        "purpose": "Ayudar a diseñadores y creadores a encontrar combinaciones de colores coherentes para proyectos visuales.",
+        "use_cases": "Crear paletas para sitios web; definir colores de marca; explorar combinaciones visuales; obtener inspiración para ilustración, UI y diseño gráfico.",
+        "main_advantages": "Permite generar rápidamente combinaciones de colores mediante un modelo entrenado con referencias visuales y ajustar manualmente los resultados.",
+        "long_description": "Colormind es un generador de paletas de colores basado en aprendizaje profundo. Utiliza modelos entrenados con imágenes, fotografías y referencias visuales para proponer combinaciones de colores. Los usuarios pueden bloquear colores concretos, generar nuevas variaciones y utilizar los resultados en sitios web, interfaces, branding, ilustración y otros proyectos de diseño.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "http://colormind.io/"
+        }
+      ]
+    }
+  }
+}

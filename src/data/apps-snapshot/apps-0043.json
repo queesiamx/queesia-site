@@ -1,0 +1,2434 @@
+{
+  "schemaVersion": 1,
+  "apps": {
+    "27": {
+      "app": {
+        "id": "27",
+        "name": "Vanta",
+        "url": "https://www.vanta.com/",
+        "short_description": "Plataforma que automatiza la recopilación de evidencia y el monitoreo continuo de controles para más de 30 marcos de cumplimiento, incluyendo SOC 2, ISO 27001 y GDPR, facilitando a las empresas obtener y mantener certificaciones de seguridad y privacidad.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Vanta automatiza hasta el 90% del trabajo necesario para cumplir con marcos de seguridad y privacidad, permitiendo a las empresas obtener certificaciones como SOC 2, HIPAA, ISO 27001, PCI y GDPR de manera más rápida y eficiente.",
+        "tags": "#BI #AnálisisDeUsuario #ExperienciaDelCliente",
+        "logo_filename": "id_27_vanta",
+        "what_is": "Vanta es una plataforma basada en la nube que automatiza la gestión del cumplimiento y la seguridad, ayudando a las empresas a prepararse para auditorías y a mantener certificaciones como SOC 2, ISO 27001, HIPAA y GDPR.",
+        "purpose": "Su propósito principal es simplificar y agilizar los procesos de cumplimiento normativo y seguridad de la información, permitiendo a las organizaciones obtener y mantener certificaciones de manera más eficiente y con menos esfuerzo manual.",
+        "use_cases": "Preparación para Auditorías: Empresas que buscan certificaciones como SOC 2 pueden utilizar Vanta para automatizar la recopilación de evidencia y el monitoreo continuo de controles. \n\nMonitoreo de Seguridad: Organizaciones que desean supervisar en tiempo real su postura de seguridad y detectar posibles riesgos o incumplimientos. \n\nGestión de Políticas: Equipos de cumplimiento que necesitan crear, gestionar y actualizar políticas internas alineadas con las regulaciones vigentes.",
+        "main_advantages": "Automatización: Reduce hasta el 90% del trabajo manual asociado con el cumplimiento normativo. \n\nMonitoreo Continuo: Proporciona supervisión en tiempo real de la seguridad y el cumplimiento, facilitando la detección y resolución de problemas de manera proactiva. \n\nIntegraciones: Se conecta con diversas herramientas y sistemas de terceros para verificar la infraestructura, datos y seguridad física de las organizaciones. \n\nFacilidad de Uso: Ofrece una interfaz intuitiva y flujos de trabajo configurables que simplifican la gestión del cumplimiento y la seguridad. ",
+        "long_description": "Vanta es una plataforma integral de gestión de confianza que automatiza y simplifica los procesos de cumplimiento y seguridad para organizaciones de diversos tamaños. Su objetivo principal es ayudar a las empresas a obtener y mantener certificaciones de seguridad y privacidad, como SOC 2, ISO 27001, HIPAA, PCI y GDPR, de manera más eficiente y con menos esfuerzo manual. La plataforma ofrece monitoreo continuo de sistemas y procesos, asegurando que las organizaciones cumplan con los estándares requeridos en todo momento. Vanta se integra con más de 300 sistemas preconstruidos, facilitando la conexión con aplicaciones existentes y automatizando el monitoreo de controles técnicos.",
+        "release_date": "2018",
+        "developer": "Vanta Inc.",
+        "main_model": "Vanta utiliza algoritmos de inteligencia artificial para automatizar la recopilación de evidencia y el monitoreo continuo de controles de seguridad y cumplimiento.",
+        "pricing_plans": "Vanta ofrece planes de suscripción que varían según el tamaño de la organización y las necesidades específicas de cumplimiento. Los detalles específicos de los planes de suscripción no están disponibles públicamente.",
+        "license": "Propietaria de Vanta Inc.",
+        "security_privacy": "Vanta se compromete a proteger la privacidad y seguridad de los datos de los usuarios, implementando medidas de seguridad adecuadas para garantizar la confidencialidad y el uso adecuado de la información proporcionada.",
+        "integration": "Vanta ofrece más de 300 integraciones preconstruidas con sistemas como proveedores de nube, HRIS, rastreadores de tareas y más, facilitando la conexión con aplicaciones existentes y automatizando el monitoreo de controles técnicos."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://link.mail.beehiiv.com/ss/c/u001.QR8PDET7GVRZS9oWC_jpgIv1FGI4NOZISt5DhWqZKRbJc8EUxD5fAg6RgynC7sPfWZgPLUelu0j4ei352616afMEb9EMrqi8Kbm66xDwJEvkWwHhGck6y0-FI2rZ7fxVELqOoHurMgSt3rObgpWzhVS30pyCM5Oi6_xo6Jy2UmrY7bx64iDtqY90miE0u7MZxbH-K1wUALvZHsUa5uY9FfTDEuD0uVS6gX2argh-mgXLuCmmwQEzKwXKG1DB378a0b6I0jkPTlVkzj5zRxqxrQ/4bf/e5fD1QubRqaLteDOBkCgRA/h13/h001.Y0YccS-7jay_HLZ2-X1iyA6Onp7M6-W6-VaK5YFZbHQ"
+        },
+        {
+          "source_url": "https://www.vanta.com/"
+        },
+        {
+          "source_url": "https://www.vanta.com/features"
+        },
+        {
+          "source_url": "https://www.vanta.com/pricing"
+        },
+        {
+          "source_url": "https://www.getapp.com.mx/software/2036075/vanta"
+        },
+        {
+          "source_url": "https://www.youtube.com/watch?v=m6RPjjuLjJA"
+        },
+        {
+          "source_url": "https://www.olympus-ims.com/en/downloads/detail/?0%5Bdownloads%5D%5Bid%5D=276827948"
+        },
+        {
+          "source_url": "https://www.unite.ai/es/Serie-de-entrevistas-con-el-vicepresidente-de-ingenier%C3%ADa-de-Vanta%2C-Iccha-Sethi/"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/vanta-com/features"
+        },
+        {
+          "source_url": "https://www.joinsecret.com/es/compare/drata-vs-vanta"
+        },
+        {
+          "source_url": "https://canvasbusinessmodel.com/es/blogs/how-it-works/vanta-how-it-works"
+        },
+        {
+          "source_url": "https://smartfense.com/vanta/"
+        }
+      ]
+    },
+    "99": {
+      "app": {
+        "id": "99",
+        "name": "VEED",
+        "url": "https://www.veed.io/",
+        "short_description": "Plataforma en línea que ofrece herramientas de edición de video basadas en inteligencia artificial, permitiendo a los usuarios crear, editar y compartir videos de manera sencilla y eficiente.",
+        "category": "Edición de video",
+        "main_functionality": "Proporciona una suite completa de herramientas para la creación y edición de videos, incluyendo generación de subtítulos automáticos, conversión de texto a voz, eliminación de ruido de fondo y más, todo accesible desde el navegador sin necesidad de descargas.",
+        "tags": "#EdiciónDeVideo #TextoAVoz #ReducciónDeRuido",
+        "logo_filename": "id_99_veed",
+        "what_is": "VEED es una plataforma en línea que ofrece herramientas de edición de video basadas en inteligencia artificial, permitiendo a los usuarios crear, editar y compartir videos de manera sencilla y eficiente. Su interfaz intuitiva y funciones avanzadas la hacen accesible tanto para principiantes como para profesionales del video.",
+        "purpose": "VEED facilita la creación y edición de videos de alta calidad directamente desde el navegador, sin necesidad de instalar software adicional. Ofrece funcionalidades como generación automática de subtítulos, conversión de texto a voz, eliminación de ruido de fondo y herramientas de grabación y transmisión en vivo, optimizando el proceso de producción de contenido audiovisual.",
+        "use_cases": "Marketing en Redes Sociales: Creación de contenido atractivo para plataformas como YouTube, TikTok e Instagram, con opciones de redimensionamiento y formato fáciles. \nCapacitación Corporativa: Desarrollo de videos de capacitación profesional y contenido educativo con características como grabación de pantalla y avatares de IA. \nEducación y E-learning: Producción de materiales educativos y tutoriales en video, incorporando subtítulos y traducciones automáticas para mayor accesibilidad. \nComunicación Empresarial: Grabación y edición de reuniones, presentaciones y webinars, facilitando la comunicación interna y externa de las organizaciones.",
+        "main_advantages": "Accesibilidad: Al ser una plataforma en línea, no requiere instalaciones y es compatible con múltiples dispositivos y sistemas operativos. \nFacilidad de Uso: Interfaz intuitiva que permite a usuarios sin experiencia en edición de video crear contenido de calidad profesional. \nFunciones Avanzadas: Herramientas basadas en IA, como generación automática de subtítulos, conversión de texto a voz y eliminación de ruido de fondo, que optimizan el proceso de edición. \nColaboración: Permite la colaboración en tiempo real entre equipos, facilitando la co-creación y revisión de proyectos de video. ",
+        "long_description": "VEED es una plataforma en línea que ofrece una suite completa de herramientas de edición de video basadas en inteligencia artificial. Permite a los usuarios crear, editar y compartir videos de manera sencilla y eficiente, directamente desde el navegador, sin necesidad de instalar software adicional. Entre sus funcionalidades destacan la generación automática de subtítulos, conversión de texto a voz, eliminación de ruido de fondo, grabación de pantalla y cámara web, y transmisión en vivo. Su interfaz intuitiva y capacidades avanzadas la hacen accesible tanto para principiantes como para profesionales del video.",
+        "release_date": "2018",
+        "developer": "VEED Ltd.",
+        "main_model": "VEED utiliza modelos avanzados de inteligencia artificial para funciones como la generación automática de subtítulos y la conversión de texto a voz. Sin embargo, no se especifica públicamente el modelo o algoritmo exacto empleado.",
+        "pricing_plans": "Gratuito: Incluye funciones básicas de edición de video, pero agrega una marca de agua a los videos exportados.\nBásico: Elimina la marca de agua, permite subtítulos automáticos (hasta 144 horas al año), exportación en Full HD, redimensionado automático y admite hasta un editor. \nSOCIALANCER\nPro: Ofrece todas las funciones del plan Básico, además de exportación en 4K, subtítulos automáticos ilimitados, herramientas de colaboración en equipo y soporte prioritario.\nEmpresarial: Diseñado para equipos grandes, incluye todas las funciones del plan Pro, junto con características personalizadas y soporte dedicado.",
+        "license": "Propietaria de VEED Ltd.",
+        "security_privacy": "VEED se compromete a proteger la privacidad y seguridad de los datos de sus usuarios. Implementa protocolos de seguridad robustos y cumple con regulaciones de protección de datos, garantizando la confidencialidad y seguridad de la información procesada.",
+        "integration": "VEED se integra con diversas plataformas y herramientas populares, facilitando la incorporación de datos en flujos de trabajo existentes. Por ejemplo, permite la importación y exportación de videos desde y hacia plataformas como YouTube, Dropbox y Google Drive, optimizando la gestión de contenido multimedia."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolslist.io/best-ai-design-tools/"
+        },
+        {
+          "source_url": "https://www.veed.io/"
+        },
+        {
+          "source_url": "https://www.veed.io/es-CO/herramientas"
+        },
+        {
+          "source_url": "https://aipure.ai/es/products/veed/features?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://aipure.ai/es/articles/veed-review-ai-powered-video-editing-revolution"
+        },
+        {
+          "source_url": "https://tecno.americaeconomia.com/resenas/veed-el-editor-de-video-para-redes-sociales-que-puede-ser-tu-gran-aliado"
+        },
+        {
+          "source_url": "https://ciroapp.com/es/veed-review/"
+        },
+        {
+          "source_url": "https://aimojo.io/es/tools/veed/"
+        },
+        {
+          "source_url": "https://www.veed.io/pricing"
+        },
+        {
+          "source_url": "https://www.veed.io/privacy"
+        }
+      ]
+    },
+    "120": {
+      "app": {
+        "id": "120",
+        "name": "Upscale media",
+        "url": "https://www.upscale.media/es",
+        "short_description": "Herramienta en línea que utiliza inteligencia artificial para mejorar y ampliar imágenes, aumentando su resolución sin perder calidad.",
+        "category": "Edición de imágenes",
+        "main_functionality": "Aumentar la resolución de imágenes hasta 4 veces, mejorando su calidad y eliminando artefactos de compresión.",
+        "tags": "#IA #MejoraDeImagen #AmpliaciónDeImagen #ProcesamientoDeImágenes",
+        "logo_filename": "id_120_upscale_media",
+        "what_is": "Upscale.media es una plataforma en línea que emplea tecnología de inteligencia artificial para mejorar y ampliar imágenes, permitiendo a los usuarios aumentar la resolución de sus fotos sin comprometer la calidad.\n",
+        "purpose": "Su propósito principal es mejorar la calidad de imágenes de baja resolución, haciéndolas aptas para impresiones de alta calidad, presentaciones profesionales o publicaciones en línea que requieren mayor claridad y detalle.",
+        "use_cases": "Fotógrafos: Mejorar la calidad de imágenes antiguas o de baja resolución para portafolios o impresiones.\nDiseñadores gráficos: Ampliar imágenes sin perder calidad para proyectos de diseño.\nE-commerce: Optimizar fotos de productos para catálogos en línea, aumentando la atracción visual.\nUsuarios generales: Mejorar fotos personales para redes sociales o álbumes digitales.",
+        "main_advantages": "Interfaz sencilla y fácil de usar.\nProcesamiento rápido de imágenes.\nCapacidad para procesar múltiples formatos de imagen.\nEliminación de artefactos de compresión, mejorando la claridad.\nServicio gratuito con opciones de suscripción para funcionalidades avanzadas.",
+        "long_description": "Upscale.media es una herramienta en línea que utiliza inteligencia artificial avanzada para mejorar y ampliar imágenes de manera automática y eficiente. Permite a los usuarios aumentar la resolución de sus fotografías hasta 4 veces el tamaño original sin comprometer la calidad, preservando detalles y texturas esenciales. La plataforma es compatible con diversos formatos de imagen, incluyendo PNG, JPEG, JPG, WEBP y HEIC, y soporta archivos de hasta 1500 x 1500 píxeles y 25 MB de tamaño. Además, ofrece opciones de escalado de 2x y 4x, y cuenta con funcionalidades adicionales como la eliminación de artefactos JPEG para mejorar la nitidez de las imágenes. Upscale.media es accesible tanto para individuos como para empresas, proporcionando soluciones escalables que se integran fácilmente en flujos de trabajo existentes a través de su API.",
+        "release_date": "No disponible.",
+        "developer": "PixelBin.io.",
+        "main_model": "Upscale.media emplea algoritmos avanzados de inteligencia artificial y modelos de aprendizaje automático para reescalar imágenes de manera inteligente, mejorando la calidad y resolución sin perder detalles.",
+        "pricing_plans": "Upscale.media ofrece un plan gratuito que permite procesar hasta 3 imágenes mensuales. Para necesidades más amplias, dispone de planes de suscripción mensual a través de PixelBin.io, que ofrecen capacidades de procesamiento de imágenes en lote y otras funcionalidades avanzadas.",
+        "license": "Propietaria",
+        "security_privacy": "Upscale.media se compromete a proteger la privacidad de los usuarios y la seguridad de los datos. Las imágenes cargadas se procesan de manera segura, y la plataforma cuenta con políticas de privacidad que detallan el manejo y protección de la información del usuario.",
+        "integration": "Upscale.media ofrece una API que permite a las empresas integrar sus capacidades de mejora y escalado de imágenes en flujos de trabajo y aplicaciones existentes, facilitando la automatización y eficiencia en el procesamiento de imágenes."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.upscale.media/es"
+        },
+        {
+          "source_url": "https://www.upscale.media/es/features"
+        },
+        {
+          "source_url": "https://www.upscale.media/es/about-us"
+        },
+        {
+          "source_url": "https://www.upscale.media/es/pricing"
+        },
+        {
+          "source_url": "https://www.upscale.media/es/privacy-policy"
+        }
+      ]
+    },
+    "134": {
+      "app": {
+        "id": "134",
+        "name": "Upsolve AI",
+        "url": "https://upsolve.ai/",
+        "short_description": "Utilice los datos de sus productos para integrar análisis para sus clientes con la ayuda de la IA.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Proporciona herramientas para la creación de dashboards embebidos mediante una interfaz intuitiva y capacidades de IA, permitiendo a los usuarios finales realizar consultas y obtener insights de manera autónoma.",
+        "tags": "#AnálisisDeDatos #BusinessIntelligence #Dashboards #InteligenciaArtificial",
+        "logo_filename": "id_134_upsolve_ai",
+        "what_is": "Upsolve AI es una plataforma de análisis de datos que utiliza inteligencia artificial para integrar dashboards analíticos en productos digitales. Su objetivo es democratizar el acceso a herramientas de business intelligence, permitiendo que los usuarios sin conocimientos técnicos puedan explorar datos y tomar decisiones basadas en insights.",
+        "purpose": "Sirve para ayudar a empresas a añadir capacidades analíticas a sus productos, permitiendo a los usuarios finales interactuar con datos en tiempo real. Es ideal para aplicaciones que necesitan presentar información clara y accesible, como herramientas de gestión empresarial, software financiero o plataformas de educación en línea.",
+        "use_cases": "Empresas Financieras: Crear dashboards para clientes que deseen monitorear su inversión o gestión presupuestaria.\nSaaS (Software as a Service): Ofrecer a los usuarios finales herramientas integradas para analizar métricas de uso o desempeño.\nEducación: Proveer insights sobre el progreso de los estudiantes y áreas de mejora.\nGestión Empresarial: Visualizar datos operativos para optimizar procesos internos.\nRetail: Analizar patrones de ventas y comportamiento del cliente.",
+        "main_advantages": "Interactividad y flexibilidad: Dashboards dinámicos que los usuarios pueden personalizar según sus necesidades.\nAccesibilidad: Permite que personas sin formación técnica analicen datos complejos.\nAutomatización: Genera insights automáticamente, eliminando la necesidad de análisis manual.\nEscalabilidad: Fácil de integrar en productos con diferentes tamaños de usuarios y niveles de complejidad.\nAhorro de tiempo y costos: Reduce la dependencia de analistas especializados al ofrecer herramientas de análisis integradas.",
+        "long_description": "Upsolve AI es una plataforma de análisis de datos impulsada por inteligencia artificial que permite a las empresas integrar dashboards analíticos en sus productos digitales. Su objetivo es democratizar el acceso a herramientas de business intelligence, facilitando que usuarios sin conocimientos técnicos puedan explorar datos y tomar decisiones informadas. La plataforma ofrece una interfaz intuitiva para la creación de dashboards embebidos, permitiendo a los usuarios finales realizar consultas y obtener insights de manera autónoma. Además, Upsolve AI proporciona conexiones integradas con bases de datos y almacenes de datos populares, acelerando el proceso de visualización y análisis de información.",
+        "release_date": "2023",
+        "developer": "Upsolve AI fue fundada por Ka Ling Wu y Serguei Balanovich, exlíderes de producto e ingeniería en Palantir, respectivamente.",
+        "main_model": "Upsolve AI utiliza algoritmos de inteligencia artificial para automatizar y mejorar el análisis de datos, permitiendo a los usuarios obtener insights de manera eficiente.",
+        "pricing_plans": "Launch (De cero a uno): $300/mes - ¿Qué está incluido?\n3 plantillas de panel de control integradas\nHasta 50 inquilinos\nIncrustación de componentes iFrame\nDescargas CSV\nSoporte de la comunidad de Slack\nPrueba gratuita de 30 días.                                                                                                                                                                                                                                                                                                                           Growth (De uno a N): $1000/mes - ¿Qué está incluido?\n\n3+ plantillas de panel de control integradas\n50 inquilinos+\nEstilo personalizado del panel de control\nIncrustación de componentes iFrame\nIncrustación de componentes de React\nInteligencia empresarial integrada (espacio de trabajo personal del usuario final)\nDescargas CSV\nDescargas de PDF\nSoporte dedicado e incorporación.                                                                                                                                                                                                                                                                                                           ENTERPRISE (De uno a infinito): $¡Vamos a charlar!\n\n¿Qué está incluido?\nPlantillas de panel de control integradas ilimitadas\nInquilinos ilimitados\nEstilo personalizado del panel de control\nIncrustación de componentes iFrame\nIncrustación de componentes de React\nInteligencia empresarial integrada (espacio de trabajo personal del usuario final)\nIA para análisis orientados al usuario final\nDescargas de CSV\nDescargas de PDF\nImplementación en las instalaciones\nSAML SSO\nSoporte e incorporación.",
+        "license": "Propietaria",
+        "security_privacy": "Upsolve AI se compromete a proteger la privacidad de los usuarios y la seguridad de los datos, implementando medidas de seguridad avanzadas y cumpliendo con las regulaciones vigentes en materia de protección de datos.",
+        "integration": "Upsolve AI ofrece integraciones con diversas herramientas y plataformas utilizadas en los procesos de análisis de datos y business intelligence, facilitando una experiencia más fluida y eficiente para las empresas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "PAXAFE optimiza la visibilidad de la cadena de suministro mediante paneles analíticos personalizados con Upsolve AI",
+          "description": "PAXAFE colaboró con Upsolve AI para integrar paneles de análisis predictivo y en tiempo real en su plataforma CONTXT. Gracias a una solución de bajo código y alineada con su diseño nativo, lograron desplegar funcionalidades completas en solo cinco semanas. Esta integración permitió a usuarios sin experiencia técnica construir análisis personalizados, redujo costos operativos entre un 20 % y 35 %, y mejoró la toma de decisiones y la gestión de riesgos en cadenas de suministro críticas.",
+          "url": "https://upsolve.ai/impact-study/paxafe"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://upsolve.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=apple-intelligence-is-here"
+        },
+        {
+          "source_url": "https://www.producthunt.com/posts/upsolve-ai"
+        },
+        {
+          "source_url": "https://upsolve.in/"
+        },
+        {
+          "source_url": "https://www.ycombinator.com/companies/upsolve-ai?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://www.saasworthy.com/product/upsolve-ai"
+        },
+        {
+          "source_url": "https://www.indietool.io/indietool/upsolve-ai"
+        },
+        {
+          "source_url": "https://upsolve.ai/pricing"
+        },
+        {
+          "source_url": "https://upsolve.ai/about"
+        },
+        {
+          "source_url": "https://upsolve.ai/impact-study"
+        },
+        {
+          "source_url": "https://upsolve.ai/#features"
+        },
+        {
+          "source_url": "https://upsolve.ai/privacy-policy"
+        }
+      ]
+    },
+    "279": {
+      "app": {
+        "id": "279",
+        "name": "Vidalgo",
+        "url": "https://www.vidalgo.tech/?ref=aitoolsdirectory",
+        "short_description": "Vidalgo es una plataforma impulsada por inteligencia artificial que permite a los usuarios crear videos verticales atractivos de manera sencilla y rápida, optimizados para plataformas como TikTok, YouTube Shorts e Instagram Reels. La herramienta automatiza procesos como la redacción de guiones, selección de imágenes y ensamblaje de videos, facilitando la producción de contenido de alta calidad sin necesidad de habilidades técnicas avanzadas. \n",
+        "category": "Generación de video",
+        "main_functionality": "Automatización de la creación de videos verticales mediante inteligencia artificial, incluyendo la generación de guiones, selección de imágenes y ensamblaje de videos, optimizados para plataformas de redes sociales.",
+        "tags": "#GeneraciónDeVideo #InteligenciaArtificial #RedesSociales",
+        "logo_filename": "id_279_vidalgo",
+        "what_is": "Vidalgo es una herramienta de inteligencia artificial diseñada para la creación de videos verticales de alta calidad. Simplifica el proceso de producción al automatizar tareas clave como la redacción de guiones, la selección de recursos visuales y el ensamblaje de videos, optimizándolos para plataformas de redes sociales.",
+        "purpose": "Sirve para agilizar y facilitar la creación de videos verticales atractivos y profesionales. Está dirigida a creadores de contenido, marcas y empresas que buscan mejorar su presencia en redes sociales sin necesidad de contar con experiencia en edición de video.",
+        "use_cases": "Marketing en redes sociales: Crear anuncios y contenido promocional dinámico y optimizado para plataformas como Instagram Reels y TikTok.\nInfluencers y creadores de contenido: Generar videos atractivos de manera rápida para aumentar la interacción con sus seguidores.\nPequeñas empresas: Diseñar contenido visualmente atractivo para mejorar su alcance y presencia digital.\nEducación y capacitación: Crear tutoriales y videos explicativos breves de alta calidad para audiencias específicas.",
+        "main_advantages": "Ahorro de tiempo mediante la automatización del proceso de creación de videos.\nGeneración de contenido optimizado para el formato vertical, ideal para redes sociales.\nFacilidad de uso para usuarios sin experiencia técnica en edición de video.\nMejora del impacto visual y narrativo de los videos.\nReducción de costos al eliminar la necesidad de contratar editores profesionales.",
+        "long_description": "Vidalgo es una plataforma impulsada por inteligencia artificial que permite a los usuarios crear videos verticales atractivos de manera sencilla y rápida, optimizados para plataformas como TikTok, YouTube Shorts e Instagram Reels. La herramienta automatiza procesos como la redacción de guiones, selección de imágenes y ensamblaje de videos, facilitando la producción de contenido de alta calidad sin necesidad de habilidades técnicas avanzadas.",
+        "release_date": "No disponible",
+        "developer": "VIDALGO TECH.",
+        "main_model": "No disponible",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "La política de privacidad de Vidalgo asegura que los datos personales de los usuarios se recopilan solo cuando son necesarios para brindar servicios, siempre de manera justa, transparente y con el consentimiento del usuario. Estos datos pueden incluir nombre, correo electrónico y otros detalles proporcionados al registrarse, como cuando se usa una cuenta de Google para iniciar sesión.\n\nLos datos se protegen frente a accesos no autorizados, pérdida o uso indebido, y se almacenan solo mientras sean necesarios para los propósitos indicados. Vidalgo no comparte datos personales identificables con terceros, salvo cuando lo exige la ley. También se adhiere a regulaciones de privacidad como el Reglamento General de Protección de Datos (GDPR) de la UE.\n\nEl sitio web de Vidalgo puede contener enlaces a sitios externos, pero no se responsabiliza por las prácticas de privacidad de estos. Los usuarios tienen derecho a rechazar proporcionar datos, aunque esto podría limitar el acceso a ciertos servicios.\n\nVidalgo puede enviar comunicaciones transaccionales necesarias y, ocasionalmente, información de marketing, aunque los usuarios pueden optar por no recibir estos mensajes en cualquier momento.",
+        "integration": "No especificado"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/vidalgo"
+        },
+        {
+          "source_url": "https://www.vidalgo.tech/?ref=aitoolsdirectory"
+        },
+        {
+          "source_url": "https://creati.ai/ai-tools/vidalgo/"
+        },
+        {
+          "source_url": "https://topai.tools/t/vidalgo"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/vidalgo"
+        },
+        {
+          "source_url": "https://aitools.fyi/vidalgo"
+        },
+        {
+          "source_url": "https://www.capterra.in/software/1067257/Vidalgo"
+        },
+        {
+          "source_url": "https://www.vidalgo.tech/privacy-policy"
+        }
+      ]
+    },
+    "397": {
+      "app": {
+        "id": "397",
+        "name": "UpCat",
+        "url": "https://upcat.app/",
+        "short_description": "Extensión de navegador que utiliza IA para crear cartas de presentación personalizadas y proporciona alertas en tiempo real de nuevas ofertas de trabajo en Upwork.",
+        "category": "Reclutamiento",
+        "main_functionality": "Generación de cartas de presentación personalizadas y alertas de empleo en tiempo real para usuarios de Upwork.",
+        "tags": "#IA #ExtensiónDeNavegador #Upwork #CartasDePresentación #AlertasDeEmpleo",
+        "logo_filename": "id_397_upcat",
+        "what_is": "UpCat es una herramienta basada en inteligencia artificial diseñada específicamente para optimizar la experiencia de búsqueda de empleo en Upwork. Funciona como una extensión de navegador que asiste a los freelancers en la creación de propuestas personalizadas y en la gestión eficiente de las oportunidades laborales en la plataforma.",
+        "purpose": "Su propósito principal es ayudar a los usuarios a destacar en sus postulaciones en Upwork al generar cartas de presentación efectivas, adaptadas a las necesidades de los empleadores, y notificarles rápidamente sobre nuevas ofertas de trabajo relevantes para sus habilidades.",
+        "use_cases": "Freelancers buscando trabajo en Upwork: Automatiza la redacción de propuestas atractivas basadas en las descripciones de los proyectos.\nNotificaciones en tiempo real: Permite a los usuarios actuar con rapidez cuando surge una nueva oferta de trabajo adecuada.\nOptimización de tiempo: Reduce el esfuerzo manual necesario para personalizar cada propuesta y revisar continuamente las nuevas ofertas en la plataforma.",
+        "main_advantages": "Eficiencia: Minimiza el tiempo dedicado a la preparación de propuestas.\nPersonalización: Genera textos que se adaptan a las necesidades específicas de los proyectos.\nAlertas rápidas: Notifica de manera instantánea sobre nuevas oportunidades.\nAccesibilidad: Funciona directamente desde el navegador, integrándose perfectamente con el flujo de trabajo del usuario.",
+        "long_description": "UpCat es una extensión de navegador impulsada por inteligencia artificial que facilita la gestión de propuestas laborales en Upwork. La herramienta automatiza la creación de cartas de presentación personalizadas basadas en las descripciones de las ofertas de empleo y los perfiles de los freelancers. Además, ofrece notificaciones en tiempo real sobre nuevas oportunidades laborales que coinciden con las habilidades del usuario, ayudando a freelancers a postularse rápidamente y con propuestas optimizadas. Su interfaz sencilla permite a los usuarios integrar UpCat en su flujo de trabajo diario, ahorrando tiempo y maximizando la efectividad de sus postulaciones.",
+        "release_date": "2023",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "Gratuito: Ofrece acceso limitado a las funcionalidades.\nPremium: Incluye acceso completo a la generación de propuestas personalizadas y alertas en tiempo real.",
+        "license": "Propietaria",
+        "security_privacy": "Los datos de los usuarios están protegidos según las políticas de privacidad establecidas por la aplicación, pero no se menciona específicamente si cumple con regulaciones como GDPR o CCPA.\nLa herramienta opera desde el navegador y no parece requerir acceso adicional a datos personales más allá de los necesarios para personalizar las propuestas.",
+        "integration": "Se integra exclusivamente con Upwork para gestionar la búsqueda y postulación de empleo. No se menciona compatibilidad con otras plataformas o herramientas de productividad."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolslist.io/best-ai-general-writing-tools/"
+        },
+        {
+          "source_url": "https://upcat.app/"
+        },
+        {
+          "source_url": "https://serp.ai/tools/upcat/"
+        },
+        {
+          "source_url": "https://chromewebstore.google.com/detail/upcat-upwork-job-alert-ch/mcalfpchdglalmmjkgohhcadlfigoglo"
+        },
+        {
+          "source_url": "https://creati.ai/es/ai-tools/upcat/"
+        },
+        {
+          "source_url": "https://10web.io/ai-tools/upcat/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/upcat-a-i-powered-upwork-proposals"
+        }
+      ]
+    },
+    "411": {
+      "app": {
+        "id": "411",
+        "name": "Veeroll",
+        "url": "https://veeroll.com/",
+        "short_description": "Plataforma impulsada por inteligencia artificial que permite crear videos de alta calidad para redes sociales en minutos, sin necesidad de grabaciones propias.",
+        "category": "Texto a video",
+        "main_functionality": "Facilita la creación de videos personalizados para plataformas como Instagram Reels, YouTube Shorts, TikTok y LinkedIn, utilizando scripts generados por IA, voces sintéticas realistas y una amplia biblioteca de imágenes y videos libres de derechos.",
+        "tags": "#GeneraciónDeVideos #InteligenciaArtificial #MarketingDigital #Automatización #RedesSociales",
+        "logo_filename": "id_411_veeroll",
+        "what_is": "Veeroll es una herramienta de inteligencia artificial que permite a los usuarios crear videos publicitarios y de contenido de manera rápida y eficiente. La plataforma ofrece herramientas avanzadas que generan scripts, seleccionan recursos visuales y producen videos de alta calidad adaptados a diferentes plataformas digitales.",
+        "purpose": "Veeroll está diseñada para facilitar la creación de contenido audiovisual, especialmente para campañas publicitarias y publicaciones en redes sociales. Permite a usuarios sin experiencia técnica producir videos atractivos y optimizados para plataformas como Instagram, TikTok, LinkedIn y YouTube.",
+        "use_cases": "Creación de videos promocionales para productos o servicios.\nGeneración de contenido atractivo para publicaciones en redes sociales.\nProducción de videos educativos o tutoriales para empresas y creadores de contenido.\nDesarrollo de campañas publicitarias en formato video para Instagram Reels o YouTube Shorts.",
+        "main_advantages": "Ahorro de tiempo al eliminar la necesidad de grabaciones y edición manual.\nAcceso a una amplia biblioteca de recursos visuales y de audio.\nScripts generados por IA que optimizan la comunicación del mensaje.\nCompatibilidad con múltiples plataformas digitales.\nInterfaz intuitiva, adecuada para principiantes y expertos en marketing.",
+        "long_description": "Veeroll es una plataforma impulsada por inteligencia artificial que permite a las empresas generar videos de alta calidad para redes sociales en minutos, sin necesidad de filmar contenido propio. Ofrece herramientas para la generación de guiones, voces sintéticas realistas, imágenes únicas creadas por IA y una amplia biblioteca de más de 3 millones de imágenes y videos de stock. La plataforma facilita la creación de videos optimizados para Instagram Reels, YouTube Shorts, TikTok, LinkedIn y otras plataformas sociales, ayudando a las empresas a aumentar su visibilidad y atraer a su audiencia objetivo.",
+        "release_date": "2023",
+        "developer": "Veeroll es una empresa hermana de fewStones, una compañía líder en producción de videos corporativos, y StoryboardHero, un generador de guiones gráficos impulsado por IA.",
+        "main_model": "Veeroll utiliza modelos avanzados de inteligencia artificial para la generación de guiones, imágenes y voces sintéticas, integrando tecnologías de vanguardia para ofrecer contenido de alta calidad. Por ejemplo, emplea voces hiperrealistas proporcionadas por ElevenLabs.\n\n",
+        "pricing_plans": "Veeroll ofrece planes de suscripción flexibles que se adaptan a las necesidades de diferentes usuarios. Además, cuenta con opciones de servicio completo (Done-For-You) a partir de $199 al mes, donde el equipo de Veeroll se encarga de crear todos los videos en la cuenta del usuario.",
+        "license": "Propietaria",
+        "security_privacy": "Veeroll implementa medidas estándar de seguridad para proteger la información de los usuarios y garantizar la integridad de los contenidos creados. Para obtener detalles específicos sobre sus políticas de privacidad y prácticas de seguridad, se recomienda consultar la política de privacidad disponible en su sitio web oficial.",
+        "integration": "Veeroll permite la publicación directa de videos en cuentas de redes sociales, facilitando la distribución de contenido. Esta funcionalidad está en constante desarrollo para ampliar la compatibilidad con diversas plataformas y optimizar el flujo de trabajo de los usuarios."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://veeroll.com/?fpr=ffmedia"
+        },
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/veeroll"
+        },
+        {
+          "source_url": "https://www.cloudbooklet.com/ai-tools/veeroll-ai"
+        },
+        {
+          "source_url": "https://www.saasworthy.com/product/veeroll"
+        },
+        {
+          "source_url": "https://aiforeveryone.org/veeroll"
+        },
+        {
+          "source_url": "https://bestofai.com/tool/veeroll"
+        },
+        {
+          "source_url": "https://theresanaiforthat.com/ai/veeroll/"
+        },
+        {
+          "source_url": "https://aitoolsedge.com/tools/veeroll/"
+        },
+        {
+          "source_url": "https://www.g2.com/products/veeroll-pte-ltd-veeroll/reviews"
+        },
+        {
+          "source_url": "https://veeroll.com/features"
+        },
+        {
+          "source_url": "https://veeroll.com/pricing"
+        },
+        {
+          "source_url": "https://veeroll.com/privacy-policy"
+        }
+      ]
+    },
+    "517": {
+      "app": {
+        "id": "517",
+        "name": "Upmetrics",
+        "url": "https://upmetrics.co/",
+        "short_description": "Upmetrics es una plataforma de planificación empresarial impulsada por inteligencia artificial que facilita la creación de planes de negocio, previsiones financieras y presentaciones para emprendedores y pequeñas empresas",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Generación automatizada de planes de negocio y previsiones financieras precisas, optimizando el proceso de planificación empresarial. \n",
+        "tags": "#PlanificaciónEmpresarial #IA #PlanesDeNegocio #PrevisionesFinancieras",
+        "logo_filename": "id_517_upmetrics",
+        "what_is": "Upmetrics es un software de planificación empresarial basado en la nube que facilita la creación de planes de negocio, previsiones financieras y presentaciones para emprendedores y propietarios de pequeñas empresas. La plataforma ofrece plantillas personalizadas y herramientas optimizadas para elaborar documentos profesionales que atraigan a inversores y faciliten la obtención de financiación.",
+        "purpose": "Upmetrics ayuda a los emprendedores a estructurar y desarrollar sus ideas de negocio de manera efectiva. Permite validar conceptos empresariales, establecer objetivos claros, analizar el mercado objetivo y planificar estrategias de crecimiento. Además, facilita la creación de proyecciones financieras precisas y presentaciones convincentes para inversores, lo que incrementa las posibilidades de obtener financiación y asegurar el éxito empresarial.",
+        "use_cases": "Emprendedores y Startups: Desarrollo de planes de negocio sólidos para presentar a inversores y obtener capital inicial.\nConsultores de Negocios: Asistencia en la creación de planes estratégicos para clientes en diversas industrias.\nEducadores y Estudiantes: Herramienta educativa para enseñar y aprender sobre planificación empresarial y desarrollo de modelos de negocio.\nPequeñas y Medianas Empresas: Planificación de expansiones, lanzamiento de nuevos productos o servicios y estrategias de crecimiento.",
+        "main_advantages": "Asistente de IA: Facilita la redacción de planes de negocio mediante inteligencia artificial, permitiendo generar contenido, reescribir secciones y ajustar el tono del documento. \n\nPlantillas Personalizadas: Acceso a una amplia biblioteca con más de 400 ejemplos de planes de negocio específicos de la industria, que sirven como referencia para elaborar planes personalizados. \n\nColaboración en Tiempo Real: Permite la colaboración con miembros del equipo, facilitando la contribución conjunta y la gestión eficiente del plan de negocio. \n\nPrevisiones Financieras Automatizadas: Genera proyecciones financieras precisas, ayudando a los emprendedores a comprender las necesidades de capital y la viabilidad económica de sus proyectos. \n\nInterfaz Intuitiva: Diseño fácil de usar que simplifica el proceso de planificación empresarial, haciéndolo accesible tanto para principiantes como para profesionales experimentados. ",
+        "long_description": "Upmetrics es una plataforma integral de planificación empresarial que permite a emprendedores, pequeñas empresas y consultores crear planes de negocio detallados, realizar previsiones financieras precisas y diseñar presentaciones profesionales. La plataforma ofrece una variedad de plantillas personalizables y herramientas colaborativas que facilitan la estructuración de ideas de negocio, análisis de mercado y estrategias de crecimiento.",
+        "release_date": "Agosto 2024",
+        "developer": "Codesket Pvt Ltd.",
+        "main_model": "No disponible",
+        "pricing_plans": "Starter: $7/mes (anual) | Incluye 400+ ejemplos de planes, previsión financiera de 3 años, creador de pitch decks y exportación a PDF.\nPremium: $14/mes (anual) | Añade asistencia de IA, previsión financiera de 7 años, herramientas estratégicas y exportación a PDF/DOC/PPT/Excel.\nProfessional: $37/mes (anual) | Incluye 3 espacios de trabajo, previsión financiera de 10 años, plantillas personalizadas y gestión de clientes.",
+        "license": "Upmetrics opera bajo un modelo de suscripción con diferentes niveles de acceso según el plan elegido.",
+        "security_privacy": "Upmetrics implementa medidas de seguridad para proteger la información de los usuarios, incluyendo el uso de conexiones seguras (SSL) y políticas de privacidad que garantizan la confidencialidad de los datos proporcionados.",
+        "integration": "Upmetrics permite la exportación de planes de negocio y documentos en múltiples formatos, facilitando su integración con otras herramientas de productividad y plataformas de presentación. Sin embargo, no se especifican integraciones directas con aplicaciones de terceros."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/upmetrics"
+        },
+        {
+          "source_url": "https://upmetrics.co/?ref=aitoolsdirectory"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/upmetrics"
+        },
+        {
+          "source_url": "https://easywithai.com/ai-business-tools/upmetrics-ai/"
+        },
+        {
+          "source_url": "https://10web.io/ai-tools/upmetrics/"
+        },
+        {
+          "source_url": "https://www.toolify.ai/es/tool/upmetrics-ai"
+        },
+        {
+          "source_url": "https://www.capterra.com.ar/software/171456/business-plan-software"
+        },
+        {
+          "source_url": "https://www.getapp.com.mx/software/111605/upmetrics"
+        },
+        {
+          "source_url": "https://upmetrics.co/es/precios"
+        }
+      ]
+    },
+    "573": {
+      "app": {
+        "id": "573",
+        "name": "Velvet",
+        "url": "https://www.usevelvet.com/",
+        "short_description": "Registre solicitudes, agregue almacenamiento en caché y ejecute experimentos con una puerta de enlace de IA para ingenieros.",
+        "category": "Automatización",
+        "main_functionality": "Proporciona una puerta de enlace de IA que almacena solicitudes de LLM en una base de datos, permitiendo consultas para analizar el rendimiento, evaluar modelos y generar conjuntos de datos.\n",
+        "tags": "#LLM #AnálisisDeIA #MonitoreoDeIA #AlmacenamientoDeDatos",
+        "logo_filename": "id_573_velvet",
+        "what_is": "Velvet es una puerta de enlace de inteligencia artificial diseñada para ingenieros que trabajan con modelos de lenguaje de gran escala (LLM). La plataforma almacena las solicitudes de los LLM en una base de datos PostgreSQL controlada por el usuario, permitiendo analizar, evaluar y monitorear las características de IA en producción",
+        "purpose": "Velvet facilita a los equipos de producto y de ingeniería de startups en rápido crecimiento la realización de consultas a sus datos de producción de manera eficiente. Utilizando un editor de SQL basado en IA, permite la colaboración en análisis y desarrollo de funciones, optimizando el tiempo y los recursos invertidos en estas tareas.",
+        "use_cases": "Análisis de Rendimiento: Permite a los ingenieros consultar registros para entender el uso, solucionar problemas, calcular costos y evaluar modelos de IA en producción. \n\nDesarrollo de Funciones: Facilita la creación y colaboración en análisis y desarrollo de funciones de manera eficiente, permitiendo a los equipos construir características y analíticas de productos utilizando puntos finales de API interoperables.\n\nMonitoreo Continuo: Ofrece la capacidad de ejecutar experimentos y monitorear el uso continuo contra métricas establecidas, alertando a los equipos cuando las pruebas fallan o se desvían de los parámetros esperados. ",
+        "main_advantages": "Implementación Rápida: Requiere solo dos líneas de código para comenzar, lo que permite una integración ágil en los sistemas existentes. \n\nAnálisis Granular: Facilita consultas detalladas de los datos mediante SQL para analizar el uso, costos y métricas, proporcionando una comprensión profunda del rendimiento de las características de IA. \n\nCaché Inteligente: Optimiza los costos y la latencia mediante el almacenamiento en caché de solicitudes, reduciendo el tiempo de respuesta y los recursos necesarios para procesar solicitudes idénticas.\n\nGeneración de Conjuntos de Datos: Permite la creación de conjuntos de datos para evaluaciones, ajuste fino y flujos de trabajo por lotes, facilitando el entrenamiento y mejora continua de los modelos de IA. ",
+        "long_description": "Velvet es una plataforma de datos centrada en la inteligencia artificial, diseñada para equipos de producto e ingeniería en startups de alto crecimiento. Ofrece un editor de SQL impulsado por IA que permite consultar bases de datos de manera colaborativa, facilitando análisis de datos en tiempo real y desarrollo de funcionalidades. Los usuarios pueden hacer preguntas en lenguaje natural y automatizar consultas SQL, compartir conocimientos de datos con el equipo y construir características de productos utilizando puntos finales de API interoperables.",
+        "release_date": "Agosto 2024",
+        "developer": "Velvet Tech, Inc., dba Velvet",
+        "main_model": "Utiliza inteligencia artificial para asistir en la escritura de consultas SQL y análisis de datos. \n",
+        "pricing_plans": "Gratuito: Hasta 10,000 solicitudes por mes.\n\nPlanes de Pago: Detalles no especificados públicamente; se recomienda contactar al equipo de Velvet para obtener información personalizada.",
+        "license": "No especificado",
+        "security_privacy": "Velvet almacena las solicitudes de los modelos de lenguaje de gran escala (LLM) en una base de datos PostgreSQL controlada por el usuario, lo que permite mantener el control total sobre los datos almacenados.",
+        "integration": "Proporciona puntos finales de API interoperables que permiten la construcción de características y analíticas de productos en tiempo real, facilitando la integración con diversas aplicaciones y plataformas."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.usevelvet.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=experts-crowdsource-ultimate-ai-test"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/velvet-3"
+        },
+        {
+          "source_url": "https://www.aitechsuite.com/tools/usevelvet.com"
+        },
+        {
+          "source_url": "https://starwatcher.io/startups/usevelvet.com"
+        },
+        {
+          "source_url": "https://www.futuretools.io/tools/velvet"
+        },
+        {
+          "source_url": "https://gptzone.net/aplicaciones-ia/velvet/?utm_source=chatgpt.com"
+        },
+        {
+          "source_url": "https://iaperfecta.com/velvet/"
+        },
+        {
+          "source_url": "https://www.aitoolnet.com/es/velvet"
+        },
+        {
+          "source_url": "https://www.basedtools.ai/es/ai/velvet?utm_source=chatgpt.com"
+        }
+      ]
+    },
+    "619": {
+      "app": {
+        "id": "619",
+        "name": "UPDF AI",
+        "url": "https://ai.updf.com/",
+        "short_description": "Utilice la IA para resumir, traducir o crear mapas mentales para cualquier PDF directamente en su navegador.",
+        "category": "Productividad",
+        "main_functionality": "Proporciona herramientas para editar, anotar y convertir archivos PDF, además de capacidades impulsadas por IA para resumir, traducir y chatear con el contenido de los documentos.",
+        "tags": "#PDFEditor #InteligenciaArtificial #GestiónDeDocumentos",
+        "logo_filename": "id_619_updf",
+        "what_is": "UPDF AI es una aplicación avanzada que combina las funcionalidades tradicionales de un editor de PDF con capacidades de inteligencia artificial. Permite a los usuarios no solo editar, anotar y convertir archivos PDF, sino también interactuar directamente con el contenido mediante herramientas impulsadas por IA.",
+        "purpose": "Su propósito principal es mejorar la eficiencia en la gestión de documentos PDF, facilitando tareas como la edición, anotación y conversión de archivos. Además, ofrece funciones avanzadas como resumen de documentos extensos, traducción a múltiples idiomas y la capacidad de interactuar con el contenido a través de un asistente de chat impulsado por IA.",
+        "use_cases": "Educación: Estudiantes y profesores pueden utilizar UPDF AI para resumir textos largos, traducir material académico y obtener explicaciones detalladas de conceptos complejos presentes en los PDFs.\n\nNegocios: Profesionales pueden editar contratos, anotar informes y convertir documentos en diferentes formatos, además de utilizar la IA para extraer información clave y traducir documentos para clientes internacionales.\n\nInvestigación: Investigadores pueden analizar grandes volúmenes de datos en PDFs, resumir hallazgos y traducir estudios en otros idiomas, optimizando el proceso de revisión de literatura.",
+        "main_advantages": "Eficiencia Mejorada: La integración de la IA permite realizar tareas complejas, como resúmenes y traducciones, de manera más rápida y precisa.\n\nInterfaz Intuitiva: Diseñada para ser fácil de usar, facilitando la navegación y utilización de sus múltiples funciones.\n\nCompatibilidad Multiplataforma: Disponible en Windows, Mac, iOS y Android, permitiendo a los usuarios trabajar en sus documentos desde cualquier dispositivo.\n\nSeguridad de Datos: UPDF AI asegura la protección de la información del usuario, manteniendo la confidencialidad de los documentos procesados.",
+        "long_description": "UPDF AI es una herramienta avanzada para gestionar documentos PDF que integra inteligencia artificial para potenciar sus funcionalidades tradicionales. Permite editar, anotar y convertir archivos, además de ofrecer capacidades avanzadas como resumir documentos extensos y traducirlos a más de 10 idiomas, preservando su formato original. Su asistente de chat impulsado por IA responde preguntas, explica conceptos y proporciona información adicional sobre el contenido del PDF, facilitando la comprensión y el análisis de textos complejos. Disponible en Windows, Mac, iOS y Android, combina una interfaz intuitiva con funcionalidades diseñadas para optimizar la productividad y eficiencia en la gestión documental.",
+        "release_date": "Enero 2025",
+        "developer": "Superace Software Technology Co., Ltd.",
+        "main_model": "UPDF AI está impulsado por GPT-4, lo que le permite ofrecer funciones avanzadas de procesamiento de lenguaje natural para interactuar con el contenido de los PDFs.",
+        "pricing_plans": "UPDF AI ofrece diferentes planes de suscripción para adaptarse a las necesidades de los usuarios. Por ejemplo, el plan \"Asistente de IA\" tiene un costo de 79,00 € al año e incluye uso ilimitado de las funciones de IA, como resumir, traducir y convertir PDFs a mapas mentales. Además, existe una opción de prueba gratuita para que los usuarios puedan evaluar las funcionalidades antes de comprometerse con una suscripción. \n",
+        "license": "Propietaria",
+        "security_privacy": "UPDF AI se compromete a proteger la información de los usuarios, asegurando que los datos procesados se manejen de manera confidencial y segura. Sin embargo, no se encontraron detalles específicos sobre las políticas de privacidad o medidas de seguridad implementadas.",
+        "integration": "No disponible, pero permite importar y exportar documentos en formatos comunes, como Word, Excel y PowerPoint, facilitando el trabajo en otros entornos."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://ai.updf.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-s-agent-is-here"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/updf-ai"
+        },
+        {
+          "source_url": "https://topai.tools/t/updf-ai"
+        }
+      ]
+    },
+    "729": {
+      "app": {
+        "id": "729",
+        "name": "Vapi AI",
+        "url": "https://vapi.ai/",
+        "short_description": "Agentes de voz para llevar a cabo conversaciones similares a las humanas, automatizar las llamadas salientes, la calificación de clientes potenciales y la interacción con el cliente.",
+        "category": "Codificación",
+        "main_functionality": "Proporciona herramientas y APIs para integrar agentes de voz basados en IA en diversas aplicaciones, optimizando operaciones telefónicas y mejorando la experiencia del usuario.",
+        "tags": "#ProcesamientoDelLenguajeNatural #AgentesDeVoz #DesarrolloDeSoftware #InteligenciaArtificial",
+        "logo_filename": "id_729_vapi",
+        "what_is": "Vapi es una plataforma diseñada para que desarrolladores implementen agentes de voz con inteligencia artificial en sus aplicaciones, facilitando interacciones de voz automatizadas y naturales.",
+        "purpose": "Permite a las empresas automatizar y mejorar la comunicación por voz con clientes, optimizando procesos como atención al cliente, programación de citas y generación de leads.",
+        "use_cases": "Vapi se utiliza para:​\n\nAutomatizar servicios de atención al cliente mediante agentes de voz.\nGestionar y programar citas en sectores como la salud.​\nRealizar llamadas de ventas y seguimiento automatizadas.​\nIntegrar asistentes de voz en aplicaciones móviles y web.",
+        "main_advantages": "Entre sus beneficios destacan:​\n\nImplementación rápida de agentes de voz personalizados.​\nInfraestructura escalable capaz de manejar millones de llamadas concurrentes.​\nIntegración flexible con modelos y datos personalizados.​\nCumplimiento con estándares de seguridad como HIPAA y SOC-2.",
+        "long_description": "Vapi es una plataforma avanzada que permite a los desarrolladores integrar agentes de voz con inteligencia artificial en sus aplicaciones de manera eficiente. Ofrece una API flexible que facilita la creación de agentes de voz personalizados, capaces de manejar interacciones complejas y escalar según las necesidades del negocio. La plataforma soporta múltiples modelos de lenguaje y servicios de transcripción, proporcionando una solución integral para la automatización de comunicaciones por voz.",
+        "release_date": "2020",
+        "developer": "Vapi Inc.",
+        "main_model": "Utiliza modelos de procesamiento del lenguaje natural y aprendizaje automático para interpretar y generar respuestas en interacciones de voz.",
+        "pricing_plans": "Vapi ofrece un modelo de precios basado en el uso, cobrando $0.05 por minuto para las llamadas, con costos adicionales por servicios de transcripción, modelos y voz, que se cobran al costo. También ofrece números de teléfono a $2 por mes cada uno. ",
+        "license": "Propietaria",
+        "security_privacy": "Vapi cumple con estándares de seguridad como HIPAA y SOC-2, implementando medidas para proteger la información personal y garantizar la privacidad de los datos en las interacciones de voz. ",
+        "integration": "La plataforma permite la integración con diversos proveedores de servicios de transcripción, modelos de lenguaje y servicios de texto a voz, ofreciendo flexibilidad para adaptarse a las necesidades específicas de cada aplicación."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Fleetworks ahorra 100+ horas de ingeniería por mes",
+          "description": "Fleetworks, en colaboración con Vapi, desarrolló un asistente de voz con manejo natural de interrupciones, clave para su clientela del sector transporte. Esto mejoró la fluidez de las llamadas, permitió escalar operaciones con miles de interacciones diarias y liberó al equipo para enfocarse en funciones especializadas, convirtiendo la IA de voz en un pilar de su propuesta de valor.",
+          "url": "https://vapi.ai/blog/fleetworks-saves-100-engineering-hours-per-month-2"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://vapi.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=google-wows-with-major-new-releases"
+        },
+        {
+          "source_url": "https://vapi.ai/#use-cases"
+        },
+        {
+          "source_url": "https://www.forbes.com/sites/davidprosser/2024/12/12/big-talk-how-vapi-plans-to-solve-customer-service-with-voice-ai"
+        },
+        {
+          "source_url": "https://www.lindy.ai/blog/vapi-ai"
+        },
+        {
+          "source_url": "https://www.vatech.io/tutorial/how-to-use-vapi-ai-for-real-time-communication"
+        },
+        {
+          "source_url": "https://www.venturescout.io/p/vapi"
+        },
+        {
+          "source_url": "https://www.ycombinator.com/companies/vapi"
+        }
+      ]
+    },
+    "904": {
+      "app": {
+        "id": "904",
+        "name": "Validly",
+        "url": "https://heyjuno.co/",
+        "short_description": "Plataforma de investigación impulsada por inteligencia artificial que automatiza entrevistas con usuarios, proporcionando insights cualitativos a escala y en tiempo real.",
+        "category": "Marketing de contenidos",
+        "main_functionality": "Conducción automatizada de entrevistas cualitativas mediante agentes de IA, permitiendo la recopilación y análisis de datos de usuarios de manera eficiente y escalable.",
+        "tags": "#InvestigaciónDeUsuario #EntrevistasIA #InsightsCualitativos #Automatización",
+        "logo_filename": "id_904_heyjuno",
+        "what_is": "Validly, ahora conocida como Juno, es una plataforma de investigación de usuarios que utiliza inteligencia artificial para realizar entrevistas automatizadas, facilitando la obtención de insights cualitativos sin intervención humana directa.",
+        "purpose": "Su propósito principal es ayudar a equipos de producto, diseño y marketing a comprender mejor a sus usuarios mediante entrevistas automatizadas que recopilan datos cualitativos de manera rápida y eficiente.",
+        "use_cases": "Equipos de producto que necesitan feedback continuo de usuarios.\n\nInvestigadores que buscan escalar entrevistas cualitativas sin aumentar recursos humanos.\n\nEmpresas que desean comprender comportamientos y motivaciones de clientes en diferentes mercados.",
+        "main_advantages": "Automatización de entrevistas con usuarios en múltiples idiomas.\n\nRecopilación de insights en tiempo real y a gran escala.\n\nReducción de sesgos y barreras culturales en la investigación.\n\nAhorro de tiempo y recursos en procesos de investigación cualitativa.",
+        "long_description": "Validly, ahora conocida como Juno, es una plataforma de investigación de usuarios que emplea inteligencia artificial para automatizar entrevistas cualitativas. Permite a las empresas obtener insights profundos sobre las experiencias, pensamientos y sentimientos de sus usuarios, sin necesidad de intervención humana directa. La plataforma puede realizar múltiples entrevistas simultáneamente, analizar datos en tiempo real y proporcionar resultados accionables que informan decisiones de producto y estrategia.",
+        "release_date": "2023",
+        "developer": "Hey Juno Co.",
+        "main_model": "No disponible",
+        "pricing_plans": "Beta gratuita: Acceso anticipado con entrevistas limitadas.\n\nPlanes pagos: Información no especificada públicamente.",
+        "license": "Propietaria",
+        "security_privacy": "La plataforma prioriza la privacidad y seguridad de los datos de los usuarios, manteniendo altos estándares en el manejo de información sensible.",
+        "integration": "No se especifican integraciones con otras herramientas en la información disponible."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Torii promueve el diálogo sobre IA aplicada al diseño de productos mediante patrocinio de eventos especializados",
+          "description": "Torii respalda activamente las conversaciones sobre el uso de inteligencia artificial en el diseño de productos, patrocinando eventos como \"Applied GenAI: Insights from Product & Design Leaders\", donde se reúnen expertos de producto y diseño para compartir conocimientos y experiencias innovadoras.",
+          "url": "https://www.linkedin.com/company/heyjunoco"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Juno apoya a startups en Sunrise25 ofreciendo estudios gratuitos para comprender mejor a sus clientes",
+          "description": "Durante el evento Sunrise25 en Sídney, Juno brindó estudios gratuitos a startups interesadas en profundizar el conocimiento de sus clientes. Esta iniciativa permitió a los participantes obtener insights valiosos sin costo, fortaleciendo su comprensión de mercado y apoyando el desarrollo de estrategias basadas en datos desde etapas tempranas.",
+          "url": "https://www.linkedin.com/company/heyjunoco"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/validly"
+        },
+        {
+          "source_url": "https://heyjuno.co/?via=aitoolsdirectory-com"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/juno-research"
+        },
+        {
+          "source_url": "https://eliteai.tools/tool/heyjuno.co/alternatives"
+        },
+        {
+          "source_url": "https://aihungry.com/tools/validly"
+        },
+        {
+          "source_url": "https://bestofai.com/tool/validly"
+        }
+      ]
+    },
+    "938": {
+      "app": {
+        "id": "938",
+        "name": "Unwink",
+        "url": "https://unwink.ai/",
+        "short_description": "Plataforma de inteligencia de clientes que transforma datos estructurados y no estructurados en insights accionables mediante inteligencia artificial, optimizando soporte, desarrollo de productos y eficiencia operativa.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Procesamiento automatizado de feedback de clientes para generar insights estratégicos y mejorar la toma de decisiones empresariales.",
+        "tags": "#InteligenciaDeClientes #AnálisisDeSentimientos #AutomatizaciónDeFlujosDeTrabajo #IA #Multilingüe #AsistenteVirtual",
+        "logo_filename": "id_938_unwink",
+        "what_is": "Unwink AI es una plataforma que utiliza inteligencia artificial para analizar y procesar feedback de clientes, convirtiendo datos complejos en insights prácticos que impulsan la eficiencia y la estrategia empresarial.",
+        "purpose": "Ayuda a las empresas a comprender mejor las necesidades y comportamientos de sus clientes mediante el análisis de datos de múltiples fuentes, facilitando la mejora de productos, servicios y operaciones internas.",
+        "use_cases": "Equipos de atención al cliente: Automatización y eficiencia en la gestión de feedback.\n\nDesarrollo de productos: Priorización de características basada en necesidades reales de clientes.\n\nDescubrimiento de IA conversacional: Mejora en la precisión y velocidad de entrenamiento de modelos.\n\nOperaciones empresariales: Integración de feedback en múltiples líneas de negocio para decisiones estratégicas.",
+        "main_advantages": "Consolidación de datos de diversas fuentes en una única plataforma.\n\nAnálisis de texto y sentimientos para identificar tendencias y necesidades del cliente.\n\nAutomatización de flujos de trabajo y generación de informes en tiempo real.\n\nSoporte multilingüe para análisis global.\n\nAsistente virtual personalizado que facilita la interpretación de datos y la toma de decisiones.",
+        "long_description": "Unwink AI es una plataforma de inteligencia de clientes que emplea algoritmos avanzados de inteligencia artificial para procesar y analizar datos estructurados y no estructurados provenientes de múltiples fuentes, como archivos CSV, Excel, Intercom, Zendesk, Salesforce y APIs. La plataforma ofrece análisis de texto y sentimientos, automatización de flujos de trabajo, alertas e informes en tiempo real, soporte multilingüe y un asistente virtual personalizado. Estas funcionalidades permiten a las empresas obtener insights accionables que mejoran la eficiencia operativa, la satisfacción del cliente y la toma de decisiones estratégicas.",
+        "release_date": "Mayo 2025",
+        "developer": "Unwink AI Technologies",
+        "main_model": "Utiliza algoritmos avanzados de procesamiento de lenguaje natural y aprendizaje automático para el análisis de datos.",
+        "pricing_plans": "No disponible",
+        "license": "Propietaria",
+        "security_privacy": "Cumple con estándares de seguridad como GDPR, ISO/27001 y SOC 2 Tipo I (en progreso). No utiliza datos personales identificables para el entrenamiento de modelos y ofrece control total al usuario sobre sus datos.",
+        "integration": "Compatible con plataformas como Intercom, Zendesk, Salesforce, y permite la integración mediante APIs para consolidar datos de diversas fuentes."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://unwink.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=meta-explores-super-sensing-glasses"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/compare/Unwink-AI-vs-Unwrap.ai/"
+        },
+        {
+          "source_url": "https://www.capterra.com/p/10029206/Unwink-ai/"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/unwink-ai"
+        },
+        {
+          "source_url": "https://www.aibase.com/tool/37370"
+        },
+        {
+          "source_url": "https://www.f6s.com/company/unwink-ai"
+        },
+        {
+          "source_url": "https://slashdot.org/software/p/Unwink-AI/"
+        }
+      ]
+    },
+    "940": {
+      "app": {
+        "id": "940",
+        "name": "Vermile",
+        "url": "https://vermile.com/",
+        "short_description": "Genera y publica automáticamente entradas de blog SEO directamente en WordPress.",
+        "category": "SEO",
+        "main_functionality": "Creación automatizada de artículos de blog optimizados para SEO y publicación directa en WordPress, incluyendo generación de backlinks y gestión de flujos de trabajo.",
+        "tags": "#AIContentGeneration #SEOAutomation #WordPressIntegration #BacklinkBuilder #MultilingualSupport",
+        "logo_filename": "id_940_vermilleai",
+        "what_is": "Vermile es una plataforma impulsada por inteligencia artificial que permite generar, automatizar y publicar contenido de blog optimizado para SEO directamente en sitios de WordPress.",
+        "purpose": "Facilita a empresas y agencias la creación de contenido de alta calidad y su publicación automática, mejorando la autoridad del sitio web y el posicionamiento en motores de búsqueda.",
+        "use_cases": "Empresas que desean mantener un flujo constante de contenido en sus blogs sin invertir tiempo manual.\n\nAgencias de marketing que gestionan múltiples sitios de clientes y necesitan automatizar la creación y publicación de contenido.\n\nProfesionales que buscan mejorar el SEO de sus sitios mediante contenido optimizado y generación de backlinks.",
+        "main_advantages": "Ahorro de tiempo en la creación y publicación de contenido.\n\nGeneración de artículos estructurados y optimizados para SEO.\n\nIntegración directa con WordPress para publicación automática.\n\nHerramienta de generación de backlinks para mejorar la autoridad del sitio.",
+        "long_description": "Vermile es una plataforma de inteligencia artificial diseñada para automatizar la creación y publicación de contenido de blog optimizado para SEO. Su motor \"Composer\" genera artículos bien estructurados y adaptados a las necesidades del usuario, cumpliendo con las mejores prácticas de SEO y estructura HTML. La plataforma permite la integración directa con WordPress, facilitando la publicación automática de contenido. Además, ofrece herramientas para la generación de backlinks, lo que contribuye al crecimiento de la autoridad del sitio web. Vermile soporta múltiples idiomas y proporciona flujos de trabajo automatizados para una gestión eficiente del contenido.",
+        "release_date": "No disponible",
+        "developer": "Vermile, Corp.",
+        "main_model": "No disponible",
+        "pricing_plans": "Starter: $10/mes - 400 créditos, 3 automatizaciones por conexión, imágenes destacadas, soporte en inglés y griego, generador de backlinks.\n\nStandard: $30/mes - 1,000 créditos, 5 automatizaciones por conexión, investigación automática de palabras clave, imágenes destacadas, soporte en inglés y griego, generador de backlinks.\n\nEnterprise: Precio personalizado - Créditos y automatizaciones personalizados, características avanzadas según necesidades del cliente.",
+        "license": "Propietaria",
+        "security_privacy": "No disponible",
+        "integration": "Integración directa con WordPress para publicación automática de contenido."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://vermile.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=openai-looks-to-convince-microsoft"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/vermile"
+        },
+        {
+          "source_url": "https://vermill.io/"
+        },
+        {
+          "source_url": "https://www.aitoolhub.net/en/tool/vermile"
+        },
+        {
+          "source_url": "https://www.aitoolhub.net/en/tool/vermile"
+        }
+      ]
+    },
+    "997": {
+      "app": {
+        "id": "997",
+        "name": "Veo3",
+        "url": "https://deepmind.google/models/veo/",
+        "short_description": "Genera vídeos con audio perfectamente sincronizado, incluidos efectos de sonido, diálogos y ruido ambiental.",
+        "category": "Generación de video",
+        "main_functionality": "Creación de videos con audio y efectos visuales a partir de texto o imágenes, permitiendo control detallado sobre estilo, movimiento y narrativa.",
+        "tags": "#TextToVideo #GeneraciónDeVideo #IA #AudioSincronizado #ControlDeCámara #EstiloCinematográfico",
+        "logo_filename": "id_997_google_veo",
+        "what_is": "Veo 3 es un modelo de generación de video desarrollado por Google DeepMind que transforma descripciones textuales o imágenes en videos de alta calidad con audio integrado, incluyendo diálogos y efectos sonoros.",
+        "purpose": "Facilita la creación de contenido audiovisual realista y personalizado, permitiendo a creadores y cineastas producir escenas complejas sin necesidad de recursos tradicionales de filmación.",
+        "use_cases": "Producción Cinematográfica: Desarrollo de escenas y cortometrajes con control total sobre narrativa y estilo visual.\n\nEducación: Generación de contenido educativo visualmente atractivo y adaptado a diferentes temáticas.\n\nMarketing y Publicidad: Creación de anuncios personalizados y campañas visuales impactantes.\n\nPrototipado Creativo: Visualización rápida de ideas y conceptos para proyectos audiovisuales.",
+        "main_advantages": "Generación de videos con audio sincronizado y realista.\n\nAlta fidelidad visual y comprensión de prompts complejos.\n\nControl detallado sobre elementos como cámara, estilo y movimiento.\n\nIntegración con herramientas como Flow para una experiencia de creación más fluida.",
+        "long_description": "Veo 3 es la tercera iteración del modelo de generación de video de Google DeepMind, diseñado para transformar descripciones textuales o imágenes en videos de alta calidad con audio integrado. La herramienta permite a los usuarios generar escenas complejas con control sobre elementos como movimiento de cámara, estilo visual y narrativa. Además, Veo 3 integra la generación de audio, incluyendo diálogos y efectos sonoros, sincronizados con la imagen, ofreciendo una experiencia cinematográfica completa. La integración con la herramienta Flow permite una creación más fluida y colaborativa, facilitando el proceso creativo para cineastas y creadores de contenido.",
+        "release_date": "Mayo 2025",
+        "developer": "Google DeepMind",
+        "main_model": "Modelo de generación de video de tercera generación de Google DeepMind, con capacidades avanzadas de comprensión de texto y generación de audio sincronizado.",
+        "pricing_plans": "Google AI Pro: Acceso a funciones clave de Veo 3 y 100 generaciones por mes.\n\nGoogle AI Ultra ($249/mes): Acceso completo a Veo 3 con generación de audio nativa y mayores límites de uso.",
+        "license": "Propietaria",
+        "security_privacy": "Veo 3 incluye medidas de seguridad como la marca de agua digital SynthID para identificar contenido generado por IA y políticas de moderación de contenido para prevenir usos indebidos.",
+        "integration": "Compatible con Flow, la herramienta de creación cinematográfica de Google, y accesible a través de la plataforma Gemini y Vertex AI."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://veo3.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=altman-x-ive"
+        },
+        {
+          "source_url": "https://www.techradar.com/computing/artificial-intelligence/i-just-used-veo-3-to-create-a-wild-ai-video-and-its-easier-than-you-think"
+        },
+        {
+          "source_url": "https://pollo.ai/m/veo/veo-3"
+        },
+        {
+          "source_url": "https://www.reddit.com/r/PartneredYoutube/comments/1ktae2k/veo_3_unbelievably_realistic_ai_video_generator/"
+        },
+        {
+          "source_url": "https://deepmind.google/models/veo/"
+        }
+      ]
+    },
+    "998": {
+      "app": {
+        "id": "998",
+        "name": "UseResume",
+        "url": "https://useresume.ai/",
+        "short_description": "Cree currículos y cartas de presentación profesionales y personalizados en minutos con IA.",
+        "category": "Reclutamiento",
+        "main_functionality": "Generación y optimización de currículums y cartas de presentación adaptados a descripciones de empleo específicas utilizando inteligencia artificial.",
+        "tags": "#GeneradorDeCurrículums #IA #OptimizaciónATS #CartasDePresentación #AutomatizaciónRRHH",
+        "logo_filename": "id_998_useresumeai",
+        "what_is": "UseResume es una plataforma basada en inteligencia artificial que permite a los usuarios crear y optimizar currículums y cartas de presentación profesionales, adaptándolos a descripciones de empleo específicas para mejorar las oportunidades laborales.",
+        "purpose": "Facilita la creación de documentos de aplicación laboral personalizados y compatibles con sistemas de seguimiento de candidatos (ATS), ahorrando tiempo y aumentando las probabilidades de ser seleccionado para entrevistas.",
+        "use_cases": "Recién graduados: Generación de currículums iniciales adaptados a ofertas específicas.\n\nCambio de carrera: Reformulación de experiencias previas para alinearlas con nuevas industrias.\n\nProfesionales en búsqueda activa: Creación de múltiples versiones de currículums para diferentes aplicaciones.\n\nRedacción de cartas de presentación: Generación de cartas personalizadas que complementan el currículum.",
+        "main_advantages": "Optimización automática de contenido según la descripción del empleo.\n\nPlantillas profesionales compatibles con ATS.\n\nControl de versiones y ediciones ilimitadas.\n\nHerramientas adicionales como generador de cartas de renuncia y corrector ortográfico y gramatical.",
+        "long_description": "UseResume es una plataforma de creación y optimización de currículums y cartas de presentación impulsada por inteligencia artificial. Permite a los usuarios importar un currículum existente o comenzar desde cero, analizar descripciones de empleo y generar documentos personalizados y compatibles con sistemas de seguimiento de candidatos (ATS). La plataforma ofrece una variedad de plantillas profesionales, herramientas de edición intuitivas, control de versiones y funciones adicionales como generador de cartas de renuncia y corrector ortográfico y gramatical.",
+        "release_date": "Mayo 2025",
+        "developer": "Accelerated Ideas OÜ",
+        "main_model": "No disponible",
+        "pricing_plans": "Gratuito: 1 crédito de IA, ediciones ilimitadas, 5 descargas de documentos con marca de agua.\n\nAcceso completo semanal ($9/semana): Descargas ilimitadas, créditos de IA ilimitados, versiones ilimitadas, ediciones ilimitadas, seguimiento de empleos, soporte prioritario, optimización ATS avanzada, todas las plantillas, sin marcas de agua.\n\nAcceso completo mensual ($19/mes): Mismas características que el plan semanal con ahorro adicional.\n\nDescargas de 5 documentos ($7): Pago único, 5 descargas de documentos, 5 créditos de IA, versiones y ediciones ilimitadas, soporte prioritario, todas las plantillas, sin marcas de agua.",
+        "license": "Propietaria",
+        "security_privacy": "No disponible",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://useresume.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=altman-x-ive"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/useresume-ai"
+        }
+      ]
+    },
+    "1025": {
+      "app": {
+        "id": "1025",
+        "name": "Vexub",
+        "url": "https://vexub.com/",
+        "short_description": "Crea videos personalizados de TikTok y YouTube en cualquier categoría con control total con IA.",
+        "category": "Generación de video",
+        "main_functionality": "Conversión de texto, MP3, MP4 y SMS en videos listos para TikTok, YouTube y más, con voz narrada y subtítulos.",
+        "tags": "#TextToVideo #AIVideo #FacelessVideo #VideoMonetization #Subtitles",
+        "logo_filename": "id_1025_vexubai",
+        "what_is": "Plataforma basada en la nube que permite a creadores y empresas transformar distintos tipos de entradas (texto, audio, video, SMS) en videos atractivos para redes sociales e iniciativas de monetización.",
+        "purpose": "Facilita la creación rápida de contenido audiovisual profesional sin necesidad de herramientas avanzadas o grabación en cámara.",
+        "use_cases": "Creación de videos tipo cuento o historias para TikTok/YouTube.\n\nTransformación de podcasts o grabaciones (MP3) en videos dinámicos.\n\nPromociones de productos con voiceover y subtítulos automáticos.\n\nGeneración de contenido educativo/curso en video para plataformas de aprendizaje.",
+        "main_advantages": "No se necesita equipo ni experiencia en edición.\n\nProducción rápida en pocos clics.\n\nVariedad de voces, estilos visuales y narradores profesionales.\n\nSubtítulos automáticos incluidos.\n\nMonetización integrada (YouTube, TikTok, afiliados, cursos).",
+        "long_description": "Vexub permite crear videos desde textos, audios, vídeos o SMS, integrando IA para elegir visuales, estilos, voces y subtítulos automáticamente. Está optimizado para contenido corto y viral, apoyando monetización a través de redes sociales.",
+        "release_date": "Junio 2025",
+        "developer": "Fundada por Vahe Avetissian, ubicada en París, Francia, con un equipo pequeño (~8+ empleados).",
+        "main_model": "Implementa IA propietaria para generación de video y audio; sin detalles técnicos públicos (modelo específico “No disponible”).",
+        "pricing_plans": "Basic: 15 USD/mes – 30 videos.\n\nPlus: 25 USD/mes – 55 videos.\n\nPro: 50 USD/mes – 120 videos.\nTambién existe plan gratuito de prueba con un crédito.",
+        "license": "Propietaria",
+        "security_privacy": "Se menciona adherencia a políticas legales (Términos y Privacidad), pero sin detalles sobre cifrado o uso de datos.",
+        "integration": "No se encontraron integraciones con terceros; funciona de forma independiente vía web/cloud. No se menciona API pública ."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://vexub.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=elevenlabs-breakthrough-voice-model"
+        },
+        {
+          "source_url": "https://aiagentsdirectory.com/agent/vexub"
+        },
+        {
+          "source_url": "https://www.aibase.com/tool/37691"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/compare/Crayo-vs-Vexub"
+        },
+        {
+          "source_url": "https://toolbattles.com/product/vexub"
+        }
+      ]
+    },
+    "1028": {
+      "app": {
+        "id": "1028",
+        "name": "v0.dev",
+        "url": "https://v0.dev/",
+        "short_description": "Le permite generar una interfaz de usuario con indicaciones de texto simples, copiar, pegar y enviar.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Conversión de prompts en interfaces funcionales usando tecnologías como React, Tailwind CSS y shadcn/ui.",
+        "tags": "#AIWebDev #CodeGenerator #ReactAI #GenerativeUI #FrontendAutomation",
+        "logo_filename": "id_1028_v0dev",
+        "what_is": "Asistente chat‑basado de programación creado por Vercel, capaz de generar interfaces UI, lógica, e incluso aplicaciones completas, con soporte para múltiples frameworks como React, Vue, Svelte e HTML/CSS.",
+        "purpose": "Facilita la creación rápida de prototipos, landing pages, componentes UI, y funcionalidad web, acelerando el desarrollo front‑end sin entrar al detalle desde cero.",
+        "use_cases": "Prototipado rápido de dashboards o formularios.\n\nConversión de mockups o descripciones en interfaces funcionales.\n\nGeneración de código base para blogs, chatbots, análisis de datos.\n\nAgregar lógica e integraciones a proyectos con un solo prompt.",
+        "main_advantages": "Reducción drástica del tiempo de construcción de UI.\n\nCompatible con despliegue automático en Vercel.\n\nPermite integración directa con servicios como Supabase, Redis, Postgres.\n\nExiste plan gratuito con créditos mensuales.",
+        "long_description": "v0.dev actúa como copiloto de programación: genera UI, lógica e incluso aplicaciones completas en base a prompts o imágenes, integrando frameworks modernos. Ofrece bloques de código (\"Blocks\") que se pueden copiar o desplegar directamente en Vercel, con soporte de integración vía CLI.",
+        "release_date": "2023",
+        "developer": "Vercel Labs (compañía matriz Vercel, creadores de Next.js).",
+        "main_model": "Modelos personalizados optimizados para desarrollo web, combinados con modelos de frontera (frontier models).",
+        "pricing_plans": "Gratis: 200 créditos mensuales.\n\nBásico: $10/mes (1 500 créditos).\n\nEstándar: $30/mes (5 000 créditos).\n\nPremium: $50/mes (10 000 créditos).\n\nPlan Enterprise personalizado disponible.",
+        "license": "Software propietario ofrecido como servicio (SaaS) dentro del ecosistema de Vercel.",
+        "security_privacy": "Permite eliminar datos bajo demanda; datos no se utilizan para entrenar sin consentimiento explícito .",
+        "integration": "Integraciones CMS/DB: Supabase, Neon, Upstash, Blob storage.\nDespliegue automático en Vercel.\n\nCLI para instalar componentes directamente en proyectos existentes.\n\nCompatibilidad con múltiples frameworks (React, Vue, Svelte, HTML/CSS)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://v0.dev/?utm_source=superhuman&utm_medium=referral&utm_campaign=elevenlabs-breakthrough-voice-model"
+        },
+        {
+          "source_url": "https://aipure.ai/vn/articles/v0dev-review-ai-powered-web-development-tool-or-vercel"
+        },
+        {
+          "source_url": "https://www.futuretools.io/tools/v0-dev"
+        },
+        {
+          "source_url": "https://www.gptdemo.net/en/tool/v0-dev"
+        },
+        {
+          "source_url": "https://medium.com/%40ogounaya/v0-dev-the-revolutionary-web-development-tool-by-vercel-51c42308805a"
+        }
+      ]
+    },
+    "1054": {
+      "app": {
+        "id": "1054",
+        "name": "Unwrap",
+        "url": "https://www.unwrap.ai/",
+        "short_description": "Agrega y analiza los comentarios de los clientes en todos tus canales utilizando la misma plataforma que impulsa la inteligencia del cliente en Doordash, Perplexity, Stripe, Lyft y más.",
+        "category": "Inteligencia de negocios",
+        "main_functionality": "Agrupa y categoriza automáticamente comentarios de usuarios; genera alertas de anomalías, dashboards interactivos y respuestas automatizadas, todo usando NLP.",
+        "tags": "#CustomerIntelligence #FeedbackAnalytics #NLP #AnálisisDeClientes #PlataformaIA",
+        "logo_filename": "id_1054_unwrap",
+        "what_is": "Una herramienta de análisis de feedback que aplica NLP para interpretar retroalimentación escrita de diversas fuentes, como reseñas, tickets de soporte, encuestas y redes sociales, y convertirla en insights estructurados.",
+        "purpose": "Permite a equipos de producto, atención al cliente y experiencia del usuario, entender rápidamente qué valoran o necesitan los clientes, sin procesamiento manual.",
+        "use_cases": "Integración de datos desde fuentes como encuestas, redes sociales, tickets, reseñas de app, etc.\n\nGeneración de alertas en tiempo real sobre tendencias emergentes o problemas críticos.\n\nConsulta en lenguaje natural a través de un asistente para obtener insights con gráficos y ejemplos.\n\n",
+        "main_advantages": "Análisis proactivo en vez de reactivo, eliminando trabajo manual.\n\nAlta precisión en etiquetado (> 90%), con soporte multilenguaje.\n\nSeguridad y cumplimiento empresarial: SOC 2 Tipo II, GDPR, SSO, y redacción automática de PII.\n\nIntegración con canales como Slack, envío de alertas y respuestas automáticas.",
+        "long_description": "Unwrap es una plataforma de inteligencia del cliente que integra feedback desde múltiples fuentes—como reseñas, tickets de soporte, redes sociales y encuestas—y lo analiza mediante NLP. Automatiza la detección de temas emergentes y anomalías sin necesidad de configuraciones manuales. Proporciona insights visuales mediante dashboards, asistencia en lenguaje natural, alertas proactivas, respuestas automatizadas y manejo de diferencias entre equipos. ",
+        "release_date": "Julio 2022",
+        "developer": "Fundada por Ryan Millner (CEO) y Ashwin Singhania (CTO), ambos ex‑Product Managers de Amazon Alexa. Basada en Santa Barbara, CA.",
+        "main_model": "Utiliza NLP personalizado, modelos de etiquetado con alta precisión (> 90 %), y un enfoque “zero‑shot” para identificar insights sin necesidad de entrenamiento previo.",
+        "pricing_plans": "Ofrece planes personalizados desde USD 24,000 por año, basados en volumen de feedback e integraciones; incluye prueba de 30 días.",
+        "license": "Propietaria.",
+        "security_privacy": "Cumple SOC 2 Tipo II y GDPR; permite SSO, monitorización de actividad, eliminación automática de PII, y encriptación.",
+        "integration": "Admite más de 3,000 integraciones (encuestas, tickets, redes sociales, etc.), incluye integración con Slack, API, email y digests regulares."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.pacbiztimes.com/2025/01/30/unwrap-receives-12-million-in-series-a-funding/"
+        },
+        {
+          "source_url": "https://www.businesswire.com/news/home/20250130865543/en/AI-powered-Analytics-Platform-Unwrap-Secures-Series-A-to-Redefine-Customer-Intelligence"
+        },
+        {
+          "source_url": "https://www.pacbiztimes.com/2024/02/05/santa-barbara-startup-uses-ai-to-unravel-customer-feedback-process/"
+        }
+      ]
+    },
+    "1121": {
+      "app": {
+        "id": "1121",
+        "name": "Verbite",
+        "url": "https://verbite.com/",
+        "short_description": "Genere contenido SEO de alto rango listo para publicar con IA.",
+        "category": "SEO",
+        "main_functionality": "Emplea cinco agentes IA especializados (Deep Research, Articles, Category, Outline Designer, Quality Editor) que colaboran para generar contenido estructurado, preciso, alineado con voz de marca y listo para publicación.",
+        "tags": "#SEOcontent #AIwriting\n#ContentMarketing #MultiAgentIA",
+        "logo_filename": "id_1121_verbite",
+        "what_is": "Una plataforma de creación de contenido SEO impulsada por IA, diseñada para generar artículos y descripciones e‑commerce listos para publicar, más allá de borradores. Cuenta con agentes especializados para asegurar precisión, estructura y calidad.",
+        "purpose": "Para crear contenido SEO bien investigado y formateado que enganche y posicione bien, al tiempo que refuerza la voz de marca, reduce tiempos y mejora eficacia en equipos de marketing.",
+        "use_cases": "Producción de artículos de blog SEO optimizados.\n\nGeneración de descripciones de categorías para e‑commerce.\n\nEscalamiento de creación de contenido en marketing o agencias.\n\nAutomatización del flujo de contenido para mayor eficiencia.",
+        "main_advantages": "Contenido listo para publicar sin necesidad de revisiones extensas.\n\nEscalabilidad mediante generación masiva.\n\nEnfoque IA multicapas para garantizar calidad y precisión.\n\nAdaptación coherente a la voz de marca.\n\nOptimización SEO avanzada.",
+        "long_description": "Verbite es una plataforma de creación de contenido SEO que utiliza cinco agentes de inteligencia artificial especializados para generar textos optimizados, estructurados y listos para publicar. Desde la investigación profunda hasta la edición final, automatiza cada etapa del proceso para garantizar precisión, coherencia con la marca y cumplimiento de estándares SEO, permitiendo escalar la producción de artículos y descripciones sin sacrificar calidad.",
+        "release_date": "2025",
+        "developer": "No disponible",
+        "main_model": "No disponible",
+        "pricing_plans": "Starter: ~$24–29/mes, incluye 500 tokens, hasta 25 artículos, 5 proyectos, 1 usuario.\n\nBusiness: ~$82.50–99/mes, 2,500 tokens, hasta 125 artículos, 50 proyectos, 4 usuarios, generación en bloque.\n\nAgency: ~$249–299/mes, 10,000 tokens, hasta 500 artículos, 300 proyectos, múltiples usuarios.\nIncluye prueba gratuita y formatos mensuales y anuales.",
+        "license": "No disponible",
+        "security_privacy": "No disponible",
+        "integration": "Se menciona soporte tipo API y del flujo de gestión de contenido en navegador, pero sin detalles claros de integración externa específica."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://verbite.com/"
+        },
+        {
+          "source_url": "https://www.capterra.com/p/10031117/Verbite/"
+        },
+        {
+          "source_url": "https://aipure.ai/products/verbite"
+        },
+        {
+          "source_url": "https://www.toolify.ai/tool/verbite"
+        },
+        {
+          "source_url": "https://huntscreens.com/en/products/verbite"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/verbite"
+        },
+        {
+          "source_url": "https://www.saasworthy.com/product/verbite"
+        },
+        {
+          "source_url": "https://www.superwebtricks.com/verbite-com/"
+        }
+      ]
+    },
+    "1135": {
+      "app": {
+        "id": "1135",
+        "name": "UntitledPen",
+        "url": "https://www.untitledpen.com/",
+        "short_description": "Crea las voces en off más humanas para tu contenido.",
+        "category": "Texto a voz",
+        "main_functionality": "Convertir texto en voz humana natural y realizar transcripción inversa (voz a texto), con capacidades avanzadas para editar, estilizar y personalizar el contenido escrito y hablado.",
+        "tags": "#TextToSpeech #SpeechToText\n#AIWritingAssistant\n#VoiceCustomization #SmartEditor",
+        "logo_filename": "id_1135_untitledpen",
+        "what_is": "Herramienta de creación de audio asistida por IA que permite escribir o dictar texto, editarlo en un entorno tipo editor inteligente, y generar voice-overs con voces humanas personalizables.",
+        "purpose": "Facilita la creación rápida de audio para contenidos como podcasts, videos, presentaciones, o narraciones, sin necesidad de grabaciones manuales. También ofrece transcripción y refinamiento de texto mediante IA.",
+        "use_cases": "Producción de podcasts y narración de video.\n\nPresentaciones y contenido educativo.\n\nTranscripción de voz a texto y refinamiento de guiones.\n\nCreación de scripts estilizados mediante comandos rápidos de IA.",
+        "main_advantages": "Editor inteligente estilo Notion, que facilita la escritura y lujo de contenido.\n\nTranscripción dual (texto a voz y voz a texto).\n\nAmplia selección de voces con personalización en tono, acento y personalidad.\n\nHerramientas rápidas de escritura y edición asistida.\n\nExportación de audio en alta calidad.",
+        "long_description": "UntitledPen es una herramienta avanzada de edición y generación de audio por IA que integra un editor tipo Notion con funciones inteligentes de escritura y comandos contextuales. Permite convertir texto en voice-over en múltiples voces personalizables y transcribir voz a texto. Ofrece edición ligera de audio, refinamiento automático de guiones, y es ideal para creadores que buscan eficiencia y expresividad en su producción de contenido auditivo.",
+        "release_date": "No disponible",
+        "developer": "Egret Studios LLC (mencionado en pie de página)",
+        "main_model": "No disponible",
+        "pricing_plans": "Free (gratuito): hasta 10,000 caracteres por mes (~10 minutos), incluye todas las voces, transcripción, refinamiento hasta 1,000 caracteres/día, audio en alta calidad (128 kbps, 44.1 kHz).\n\nPro Plan (anual): USD 12/mes (USD 144/año), hasta 200,000 caracteres al mes (~200 minutos), incluye personalización de tono, comandos IA, transcripción, y audio premium (192 kbps). \n\nCreator Plan (mensual): USD 25/mes, mismos beneficios y límites que Pro.",
+        "license": "Propietaria.",
+        "security_privacy": "No disponible",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.untitledpen.com/"
+        },
+        {
+          "source_url": "https://slashdot.org/software/comparison/OpenAI.fm-vs-UntitledPen"
+        },
+        {
+          "source_url": "https://sourceforge.net/software/compare/OpenAI.fm-vs-UntitledPen"
+        }
+      ]
+    },
+    "1146": {
+      "app": {
+        "id": "1146",
+        "name": "VibeScan",
+        "url": "https://vibescan.io/?",
+        "short_description": "Escanee, encuentre y solucione problemas en su código.",
+        "category": "Codificación",
+        "main_functionality": "Escanea código generado por IA para identificar y corregir vulnerabilidades, mejorar rendimiento y calidad, y verificar la preparación para el lanzamiento con un sistema de puntuación y checklist automatizado.",
+        "tags": "#CodeSecurity #PerformanceAnalysis\n#AIScanning #QualityCheck",
+        "logo_filename": "id_1146_vibescan",
+        "what_is": "Es una plataforma avanzada que analiza código generado por herramientas de IA (como ChatGPT, GitHub Copilot, Claude, entre otras) para evaluar su seguridad, rendimiento, calidad y lista de verificación de lanzamiento.",
+        "purpose": "Su propósito principal es permitir a desarrolladores y equipos asegurar que el código asistido por IA esté libre de errores críticos, optimizado y listo para producción, a través de detección automática y corrección de problemas.",
+        "use_cases": "Equipos de desarrollo que usan IA para generar código y necesitan garantizar seguridad, calidad y rendimiento.\n\nStartups sin equipos dedicados de seguridad, que requieren validación rápida.\n\nCorporativos que deben cumplir normativas de seguridad en código.",
+        "main_advantages": "Detecta vulnerabilidades específicas de código generado por IA (como claves expuestas o inyección SQL).\n\nMejora rendimiento: identifica cuellos de botella y sugiere soluciones como caché.\n\nRefactorización automática de código duplicado o mal estructurado.\n\nChecklist de lanzamiento que cubre aspectos como analíticas, términos legales, etc.\n\nSoluciones automatizadas: permite aplicar correcciones con un clic.\n\nPuntuaciones integrales que reflejan preparación para producción.",
+        "long_description": "VibeScan es una solución sofisticada para analizar automáticamente código generado por modelos de IA. Permite cargar código (subida directa o desde repositorios como GitHub) y realiza un escaneo exhaustivo que abarca:\n\nSeguridad: vulnerabilidades como exposición de claves API o inyecciones SQL, con opciones de corrección.\n\nCalidad: detección de duplicaciones, estructuras deficientes y sugerencias de refactorización.\n\nRendimiento: identificación y solución de cuellos de botella (como carga lenta).\n\nPreparación para lanzamiento: checklist con elementos como integración de pagos, analíticas, límites de tasa, términos de servicio, y políticas de privacidad.\nGenera puntuaciones y proporciona un tablero de control claro donde se pueden aplicar correcciones con un solo clic. Compatible con múltiples herramientas de generación de código mediante IA.",
+        "release_date": "2025",
+        "developer": "Creado por “Volo”, descrito como un experto en desarrollo con IA (más de 25,000 suscriptores), según una fuente especializada.",
+        "main_model": "No disponible",
+        "pricing_plans": "Se mencionan varios planes: “Starter” (aprox. $13.30/mes), “Pro”, y “Ultra”; también hay referencia a precios desde $13.3/mes en SaaSworthy.",
+        "license": "Propietaria.",
+        "security_privacy": "VibeScan promete preservar la privacidad del código: no usa el código de los usuarios para entrenar modelos y no lo persiste en sus sistemas.",
+        "integration": "Compatible con múltiples generadores de código IA: ChatGPT, GitHub Copilot, Claude, Cursor, Replit, Cline, Lovable, Bolt.new, Windsurf, entre otros.\n\nPermite escanear repositorios GitHub directamente."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://vibescan.io/"
+        },
+        {
+          "source_url": "https://aipure.ai/products/vibescan"
+        },
+        {
+          "source_url": "https://www.futuretools.io/tools/vibescan"
+        },
+        {
+          "source_url": "https://www.saasworthy.com/product/vibescan-io"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/vibescan"
+        },
+        {
+          "source_url": "https://huntscreens.com/en/products/vibescan"
+        }
+      ]
+    },
+    "1152": {
+      "app": {
+        "id": "1152",
+        "name": "Vecteezy",
+        "url": "https://www.vecteezy.com/",
+        "short_description": "Biblioteca en línea masiva de vectores, imágenes, fotografías y vídeos libres de regalías, con búsqueda avanzada y recursos generativos etiquetados bajo criterios relacionados con IA.",
+        "category": "Educación",
+        "main_functionality": "Permite a creadores explorar, filtrar, y descargar assets visuales —vectores, fotos, vídeos— con licencias flexibles. Cuenta además con opciones “Pro” para descargas ilimitadas con derechos comerciales sin atribución.",
+        "tags": "#VectorGraphics #StockAssets #RoyaltyFree #AI‑TaggedContent",
+        "logo_filename": "id_1152_vexteezy",
+        "what_is": "Un marketplace digital de recursos gráficos. Aunque no es una herramienta generativa de IA, incluye contenido etiquetado como “AI-generated” para organización y búsqueda.",
+        "purpose": "Proveer contenido visual de alta calidad para diseñadores, marketeros y creadores digitales, con fácil acceso y licencias claras.",
+        "use_cases": "Diseñadores que necesitan ilustraciones vectoriales o fotos para proyectos de marketing o editorial.\n\nCreadores que buscan contenido multimedia sin complicaciones de licencias.\n\nProfesionales que requieren assets listos para publicar en redes sociales, sitios web o presentaciones.",
+        "main_advantages": "Catálogo masivo con recursos profesionales y actualizaciones constantes. \n\nLicencia comercial sencilla —Pro elimina requisitos de atribución y ofrece descargas ilimitadas. \n\nFiltrado temático y por licencias para encontrar fácilmente contenido relevante.\n\nAceptación de contenido generado por IA, bajo estándares de calidad.",
+        "long_description": "Vecteezy es una plataforma sólida para obtener vectores, imágenes, fotos y vídeos libres de derechos, ideales para creadores visuales. Su sistema incluye búsqueda avanzada, filtros por licencia y estilo, y un plan “Pro” que ofrece descargas ilimitadas con derechos totales. Además, da la opción de incluir y gestionar contenido etiquetado como generado por IA, siempre bajo sus estándares de calidad visual.",
+        "release_date": "No disponible",
+        "developer": "Eezy LLC, empresa propietaria de Vecteezy.",
+        "main_model": "No disponible",
+        "pricing_plans": "Gratis: acceso limitado con requisitos de atribución.\n\nPro: suscripción para uso comercial completo, sin atribución, descargas ilimitadas y sin publicidad.",
+        "license": "Mixto — recursos bajo licencia gratuita (con atribución) y contenido Pro con derechos comerciales completos.",
+        "security_privacy": "No disponible",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.vecteezy.com/free-vector/ai-tools?page=2"
+        },
+        {
+          "source_url": "https://simplifyaitools.com/vecteezy"
+        },
+        {
+          "source_url": "https://aitoolsdirectory.com/tool/vecteezy-ai"
+        }
+      ]
+    },
+    "1174": {
+      "app": {
+        "id": "1174",
+        "name": "Usemotion",
+        "url": "https://www.usemotion.com/",
+        "short_description": "Plataforma que combina gestión de tareas, programación automática de calendario, agentes o “AI Employees”, gestión de proyectos y automatización de flujos de trabajo para aumentar la productividad personal y de equipos.",
+        "category": "Productividad",
+        "main_functionality": "Gestión automática de tareas y priorización según plazos, dependencias, disponibilidad de equipo. \n\nProgramación automática de horarios/días en el calendario, reajuste cuando cambian tareas o compromisos. \n\n“AI Employees” o agentes IA que pueden hacerse cargo de tareas operativas como marketing, ventas, soporte, etc. \n\nGestión de documentación, reuniones, notas, dashboards e integración con otras herramientas.",
+        "tags": "#AIEmployees #GestiónDeProyectos #GestiónDelTiempo #Automatización #CalendarioIA #TareasInteligentes #Productividad #SchedulingIA",
+        "logo_filename": "id_1174_usemotion",
+        "what_is": "Motion es una aplicación/plataforma de productividad que integra agentes inteligentes (“AI Employees”) y automatización para ayudar a individuos y equipos a organizar, priorizar, ejecutar tareas, organizar proyectos, reuniones, notas, y optimizar el flujo de trabajo sin tanta gestión manual.",
+        "purpose": "Para reducir el tiempo dedicado a la coordinación, seguimiento manual, reuniones innecesarias, planificación manual de tareas; para que los usuarios puedan enfocarse en trabajo de mayor valor mientras la herramienta se encarga de lo repetitivo o estructural. Mejora la productividad y claridad sobre lo que debe hacerse y cuándo.",
+        "use_cases": "Equipos de marketing, ventas y operaciones que tienen muchas tareas operativas, seguimientos, deadlines múltiples. \n\nStartups que buscan optimizar su tiempo, avanzar rápido en hitos sin agrandar mucho equipo. \n\nProfesionales ocupados con varios compromisos, reuniones, correos, etc., que necesitan una herramienta para que su día se planifique automáticamente alrededor de lo importante. ",
+        "main_advantages": "Ahorro de tiempo al automatizar planificación, reasignaciones, programación de tareas. \n\nVisibilidad sobre proyectos/tareas, evitando que algo se quede “atascado” por dependencias no atendidas. \n\nIntegración con calendario, agendas y herramientas del día a día, lo que reduce fricción. \n\nAdaptabilidad: cuando las circunstancias cambian (tareas tardan más, reuniones se modifican), la herramienta reordena, reajusta prioridades.",
+        "long_description": "Motion es una plataforma de productividad apoyada en IA que permite coordinar tareas, proyectos, calendarios, reuniones, notas, y agentes automáticos (“AI Employees”) dentro de un solo entorno. Los usuarios pueden asignar tareas, gestionar dependencias, visualizar timelines, obtener alertas si un proyecto está retrasado, programar automáticamente su día según prioridades vs calendario, colaborar en equipo, reutilizar plantillas, automatizar flujos de trabajo repetitivos (SOPs). Permite integración con calendario, múltiples dispositivos (app móvil, escritorio, navegador) y descargables.",
+        "release_date": "No disponible",
+        "developer": "Empresa: Motion (de UseMotion) — startup con respaldo de Y Combinator.",
+        "main_model": "No disponible",
+        "pricing_plans": "No disponible",
+        "license": "Propietaria.",
+        "security_privacy": "Tienen centro de ayuda, términos de servicio, política de privacidad. \n\nNo encontré detalles públicos sobre certificaciones específicas (por ejemplo GDPR o similares) o auditorías de seguridad en los recursos revisados.\n\nIntegraciones también indican que trabaja con proveedores como Google Calendar, etc., lo que supone que manejan sincronización de datos con servicios externos.",
+        "integration": "Integraciones con calendarios (Google, Outlook, etc.), soporta sincronización móvil, aplicaciones de escritorio, etc. Permite importar eventos de calendario y programar tareas alrededor de ellos. Tiene API, workflows automatizados, integraciones con otras herramientas de productividad."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Ally Advantage ahorra trabajo manual con AI Project Manager",
+          "description": "Ally Advantage usa Motion para la gestión de proyectos con agentes IA; su “AI Project Manager” automatiza asignaciones, planificación de recursos, lo que permite ahorrar tiempo en coordinación manual.",
+          "url": "https://www.usemotion.com/features/ai-project-manager.html"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "Efficient App logra completar proyectos 30 % más rápido",
+          "description": "En su sitio, Motion indica que Efficient App usa su plataforma para mantener a los gestores al tanto de todos los proyectos sin gastar horas persiguiendo actualizaciones, lo que permite que los proyectos sean terminados aproximadamente 30 % más rápido.",
+          "url": "https://www.usemotion.com/"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.usemotion.com/"
+        },
+        {
+          "source_url": "https://www.usemotion.com/pricing"
+        },
+        {
+          "source_url": "https://efficient.app/apps/motion"
+        },
+        {
+          "source_url": "https://autogpt.net/usemotion-review-a-complete-guide"
+        }
+      ]
+    },
+    "1228": {
+      "app": {
+        "id": "1228",
+        "name": "Vellum",
+        "url": "https://www.vellum.ai/",
+        "short_description": "Crea agentes de IA usando un inglés sencillo para hacer tus tareas aburridas.",
+        "category": "Automatización",
+        "main_functionality": "Implementación de agentes de IA personalizables para automatizar flujos de trabajo operativos mediante lenguaje natural y modelos LLM. Integra entradas y salidas estructuradas, conecta con APIs y herramientas externas, y permite pruebas y ajustes con control total.",
+        "tags": "#AgentesIA #Automatización #LLM #FlujosDeTrabajo #Integraciones #Operaciones",
+        "logo_filename": "id_1228_vellum",
+        "what_is": "Vellum AI es una plataforma para la creación y despliegue de agentes de inteligencia artificial centrados en automatizar tareas operativas repetitivas. Los agentes utilizan modelos de lenguaje (LLMs) combinados con lógica de negocio, integraciones externas y flujos de datos personalizados. El sistema permite desde la redacción de respuestas hasta la manipulación de APIs, pasando por procesamiento de datos y coordinación entre herramientas empresariales.",
+        "purpose": "Sirve para automatizar operaciones rutinarias que tradicionalmente requieren intervención humana. Está enfocado en departamentos como producto, ventas, soporte, finanzas y marketing. Permite crear agentes que realizan tareas como análisis de tickets, generación de reportes, respuestas automatizadas, enriquecimiento de datos y validación de información.",
+        "use_cases": "Responder automáticamente a solicitudes de soporte con agentes entrenados.\n\nValidar y enriquecer información de clientes o leads de forma automática.\n\nProcesar documentos y extraer información relevante.\n\nAutomatizar pasos en flujos de ventas, como seguimiento o calificación de leads.\n\nCrear plantillas personalizadas para analizar tickets de clientes y sugerir acciones.",
+        "main_advantages": "Permite construir agentes de IA altamente personalizables sin escribir código desde cero.\n\nCompatible con modelos como OpenAI, Anthropic, Cohere y otros.\n\nPlantillas listas para usar que aceleran la implementación.\n\nPermite testeo detallado y control de prompts, contexto y lógica.\n\nAdmite integración vía API con otras herramientas empresariales.\n\nFuncionalidad de \"agent actions\" para ejecutar acciones concretas (enviar mails, leer CRM, etc.).\n\nSeguimiento y evaluación del rendimiento de los agentes en producción.\n\nPrivacidad y seguridad de nivel empresarial.",
+        "long_description": "Vellum AI permite construir agentes operativos basados en IA que automatizan tareas repetitivas mediante el uso de modelos de lenguaje como GPT-4 y Claude. Los usuarios pueden definir entradas, salidas, contexto y lógica de cada agente, conectarlo con APIs externas o herramientas internas, y realizar pruebas detalladas antes de ponerlo en producción. Su enfoque modular facilita la implementación rápida de flujos complejos sin requerir programación tradicional. A través de un entorno visual, se pueden diseñar, probar y ajustar agentes con alta granularidad, incluyendo validaciones y ramificaciones.",
+        "release_date": "2022",
+        "developer": "Vellum Labs, Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "Starter (Free):\n\n3 agentes activos\nHasta 5 usuarios\n500 ejecuciones al mes\nAcceso limitado a funciones\n\nTeam ($99 USD/mes)\n\n10 agentes\n10,000 ejecuciones\nAcceso a funcionalidades avanzadas y soporte prioritario\n\nEnterprise\n\nPersonalizable\nSoporte dedicado, integración avanzada, control de seguridad",
+        "license": "Propietaria.",
+        "security_privacy": "Recopilan datos de uso para mejorar el producto y garantizar funcionamiento.\n\nNo comparten información personal sin consentimiento.\n\nCumplen prácticas estándar de protección de datos.\n\nUso de servicios externos bajo acuerdos de privacidad.\n\nPolítica clara sobre manejo de datos ingresados por el usuario y almacenamiento en servidores seguros.",
+        "integration": "APIs externas (cualquier servicio con API puede conectarse)\n\nCRM, herramientas de soporte (Zendesk, etc.)\n\nModelos LLM externos (OpenAI, Claude, Cohere, Mistral)\n\nPosibilidad de integración personalizada mediante flujos definidos por el usuario"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.vellum.ai/"
+        },
+        {
+          "source_url": "https://www.vellum.ai/pricing"
+        },
+        {
+          "source_url": "https://www.vellum.ai/templates"
+        },
+        {
+          "source_url": "https://www.vellum.ai/blog"
+        },
+        {
+          "source_url": "https://www.vellum.ai/docs/privacy-policy"
+        }
+      ]
+    },
+    "1308": {
+      "app": {
+        "id": "1308",
+        "name": "Veeso",
+        "url": "https://veeso.ai/",
+        "short_description": "Convierte la redacción en bruto en visuales claros y pulidos con un solo clic, sin necesidad de habilidades de diseño.",
+        "category": "Generación de diseño",
+        "main_functionality": "Generación automática de diseños “content-first”: el usuario pega contenido o sube un archivo y el sistema produce un layout con tipografía/estructura; permite editar, generar variantes y exportar (según plan) usando un sistema de créditos.",
+        "tags": "#GeneraciónDeDiseño #DiseñoGráfico #RedesSociales #Marketing #AutoLayout #Plantillas #EdiciónAsistida #Créditos",
+        "logo_filename": "id_1308_veeso",
+        "what_is": "Plataforma de diseño asistido por IA (“content-first”) que transforma contenido escrito (o archivos) en composiciones visuales editables, orientadas a piezas como social media, posters, brochures y otros formatos.",
+        "purpose": "Para producir materiales visuales de forma rápida a partir de texto (copy) o documentos, reduciendo el trabajo manual de maquetación y facilitando que usuarios sin experiencia profesional en diseño generen piezas listas para publicar o imprimir.",
+        "use_cases": "Crear posts para redes sociales (Instagram/Facebook/LinkedIn) a partir de un prompt o copy.\n\nGenerar contenido visual para e-commerce (p. ej., Amazon A+ Content).\n\nDiseñar materiales de negocio (trípticos, posters de eventos).\n\nProducir layouts multipágina (p. ej., PDFs/“documents” y “slides” mencionados en el sitio).",
+        "main_advantages": "Rapidez y enfoque “content-first”: genera diseños en minutos a partir de texto/archivos.\n\nEditabilidad: los diseños se pueden ajustar posteriormente (edición en el flujo de “chat/edit”).\n\nVariedad de herramientas/formatos: catálogo de generadores para distintos casos (social, negocio, e-commerce).\n\nModelo por créditos: explica obtención/consumo/expiración de créditos y uso por modos (Fast/Ultra).\n\nPropiedad del contenido (según FAQ): indica que los archivos/proyectos pertenecen al usuario y que siguen políticas de privacidad para no acceder/usar contenido sin permiso.",
+        "long_description": "Veeso es una herramienta de diseño “content-first” que permite introducir contenido (pegar texto o subir archivos) para generar automáticamente un diseño con estructura, tipografía y layout, manteniendo el contenido completo. Incluye generación de piezas para distintos escenarios (p. ej., social media, e-commerce y materiales de negocio), edición posterior del diseño y funciones de tratamiento visual (p. ej., eliminación de fondo, reescalado HD y estilos de imagen). Opera con un esquema de créditos (bonos de bienvenida, créditos diarios, referidos y créditos por suscripción) y detalla cómo se consumen/expiran y qué acciones cuestan créditos.",
+        "release_date": "2025",
+        "developer": "Veeso AI",
+        "main_model": "El sitio menciona “Latest AI Models” y lista modelos/proveedores (p. ej., GPT-5, GPT-4.1, Claude 4.5, Gemini, Qwen, etc.), pero no detalla cuál es el modelo principal por defecto ni el esquema exacto de selección.",
+        "pricing_plans": "No disponible",
+        "license": "Propietario / SaaS",
+        "security_privacy": "No disponible",
+        "integration": "No disponible"
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://veeso.ai/"
+        },
+        {
+          "source_url": "https://veeso.ai/ai-design-tools"
+        },
+        {
+          "source_url": "https://veeso.ai/learn"
+        },
+        {
+          "source_url": "https://veeso.ai/pricing"
+        },
+        {
+          "source_url": "https://www.f6s.com/software/veeso-ai"
+        }
+      ]
+    },
+    "1311": {
+      "app": {
+        "id": "1311",
+        "name": "Veemo",
+        "url": "https://veemo.ai/",
+        "short_description": "Convierte prompts de texto sencillos en vídeos cinematográficos en alta definición con movimiento consciente de la física y una profundidad visual impresionante.",
+        "category": "Texto a video",
+        "main_functionality": "Generación de contenido (video, imagen y audio) en un solo flujo —texto-a-video, imagen-a-video, video-a-video y herramientas de imagen— usando modelos integrados (p. ej., Veo 3.1, Sora 2 Pro, Runway Gen-4, Kling, Midjourney y otros) con control por créditos/planes.",
+        "tags": "#GeneracionDeVideo #TextoAVideo #ImagenAVideo #VideoAVideo #GeneracionDeImagenes #EdicionDeImagenes #Audio #ModelosMultiples #Creditos",
+        "logo_filename": "id_1311_veemo",
+        "what_is": "Es una plataforma web de creación con IA que permite generar videos, imágenes y audio desde prompts (texto) o archivos (por ejemplo imágenes/video), ofreciendo varias herramientas en un mismo lugar y apoyándose en servicios de modelos de terceros para ejecutar las generaciones.",
+        "purpose": "Sirve para producir piezas audiovisuales (clips, creatividades, variaciones de estilo y recursos visuales) de forma rápida sin “saltar” entre múltiples herramientas o cuentas, gestionando el consumo mediante un sistema de créditos y planes.",
+        "use_cases": "Creación de clips desde texto (text-to-video) para marketing y redes.\n\nAnimación desde una imagen (image-to-video) y variaciones a partir de referencias.\n\nReestilizado/transformación de videos existentes (video-to-video).\n\nGeneración/edición de imágenes (p. ej., estilos, mejoras, in/outpainting) para creatividades.\n\nGeneración de audio/música vía herramientas de audio integradas (mencionado en navegación/AI Audio).",
+        "main_advantages": "Unificación de flujo: centraliza varias modalidades (video/imagen/audio) y herramientas (texto-a-video, imagen-a-video, video-a-video, editor de imagen) en una sola interfaz.\n\nAcceso multi-modelo: lista de modelos integrados en la propia plataforma (p. ej., Sora 2 Pro, Veo 3.1, Runway Gen-4, Kling 2.6, Wan 2.6, Midjourney, GPT-4o Image, Seedream 3, Nano Banana Pro).\n\nModelo de uso por créditos/planes: planes con créditos anuales y reinicio por ciclo de facturación; esto permite controlar consumo y escalar según necesidad.\n\nEnfoque práctico: en términos, la plataforma reconoce dependencia de servicios de IA de terceros (calidad/disponibilidad puede variar), lo que transparenta el origen del cómputo de generación.\n\nControl y soporte en planes: en el sitio se menciona “copy protection” y soporte prioritario 1-a-1 en plan Pro.",
+        "long_description": "Veemo AI se presenta como un estudio integral para generar video, imagen y audio con IA. Incluye flujos de texto-a-video, imagen-a-video, video-a-video y referencia-a-video, además de herramientas de generación/edición de imágenes. En su web lista “Integrated AI Models” y muestra múltiples modelos disponibles dentro de la plataforma (por ejemplo Sora 2 Pro, Veo 3.1, Wan 2.6, Runway Gen-4, Kling 2.6, Midjourney, GPT-4o Image, Seedream 3 y Nano Banana Pro). El uso se gestiona con créditos y límites según plan; los términos señalan que las generaciones dependen de servicios de IA de terceros, y que la disponibilidad/calidad puede variar.",
+        "release_date": "Febrero 2026",
+        "developer": "No disponible",
+        "main_model": "No hay un único modelo: la plataforma integra varios modelos de terceros (p. ej., Sora 2 Pro, Veo 3.1, Runway Gen-4, Kling 2.6, Midjourney, GPT-4o Image, Seedream 3, Nano Banana Pro; y audio vía Suno en navegación).",
+        "pricing_plans": "Planes mostrados en pricing: Base, Creator y Pro, con facturación anual (mostrando equivalentes mensuales) y créditos anuales incluidos (6,960 / 17,802 / 54,924), además de “subscription credits refresh every billing cycle”. En Pro se menciona “extra bonus” de créditos y soporte 1-a-1.",
+        "license": "Propietario / SaaS",
+        "security_privacy": "La política de privacidad describe recolección de datos de cuenta (email/identificadores), contenido y uso (prompts, archivos subidos, medios generados, uso de créditos), pagos (procesados por terceros; veemo almacena identificadores de orden/suscripción y estado), y datos técnicos/logs (IP, navegador, dispositivo) para seguridad y depuración. Indica que comparte datos solo con proveedores (hosting, autenticación, almacenamiento, pagos y servicios de generación), no vende datos, define retención (mientras la cuenta esté activa y un periodo razonable posterior; logs/pagos por obligaciones), uso de cookies necesarias de sesión/autenticación, derechos del usuario (acceso/corrección/eliminación/portabilidad, etc.), medidas de seguridad (cifrado y controles) sin garantía absoluta, restricciones de menores (13/16 EEA-UK) y posibles transferencias internacionales con salvaguardas. Contacto: support@veemo.ai\n.",
+        "integration": "Integra múltiples modelos de IA dentro de la misma plataforma (lista de “Integrated AI Models”). En términos y privacidad declara uso de servicios de terceros para autenticación, pagos y generación (sin detallar integraciones tipo API pública/Zapier en esas páginas)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://veemo.ai/"
+        },
+        {
+          "source_url": "https://veemo.ai/pricing"
+        },
+        {
+          "source_url": "https://veemo.ai/privacy-policy"
+        },
+        {
+          "source_url": "https://veemo.ai/terms-and-conditions"
+        },
+        {
+          "source_url": "https://veemo.ai/blog"
+        }
+      ]
+    },
+    "1417": {
+      "app": {
+        "id": "1417",
+        "name": "Venn",
+        "url": "https://www.venn.ai/?",
+        "short_description": "Delegar trabajo real a los agentes de IA con medidas de seguridad.",
+        "category": "Automatización",
+        "main_functionality": "Conectar IA a aplicaciones empresariales mediante OAuth, heredando permisos existentes y aplicando controles granulares (solo lectura o escritura acotada por objetos/acciones), con registro de actividad para gobernar lo que el agente puede hacer.",
+        "tags": "#Automatizacion #AgentesIA #AIGovernance #Conectores #OAuth #MCP #Productividad #ControlDeAcceso",
+        "logo_filename": "id_1417_vennai",
+        "what_is": "Es una capa de conexión y control para que herramientas de IA trabajen “dentro” de tus apps (CRM, docs, soporte, etc.) con permisos definidos. Se posiciona como un conector universal para habilitar acciones (no solo lectura) con guardrails y visibilidad.",
+        "purpose": "Sirve para que un agente/IA pueda consultar y ejecutar acciones en múltiples sistemas (por ejemplo, buscar información, actualizar registros, crear tickets, generar documentos/presentaciones) manteniendo el control sobre qué puede leer y escribir, evitando acceso indiscriminado.",
+        "use_cases": "Operaciones comerciales/CRM: consultar datos y actualizar campos con permisos acotados (p. ej., Salesforce, HubSpot).\nSoporte/Customer Success: extraer contexto de tickets y generar resúmenes/entregables en Docs/Slides y compartirlos en Slack.\nProducto/Ingeniería: convertir feedback (emails/Intercom/Notion) en tickets (Jira) y priorizar backlog, manteniendo control sobre acciones permitidas.",
+        "main_advantages": "Control granular por permisos/acciones: define lectura vs escritura y alcance; el conector hereda permisos OAuth existentes y no los amplía.\nNo indexa ni cachea datos por defecto (según el enfoque descrito): accede solo a lo requerido para una solicitud y no registra el contenido de datos de apps, sino metadatos de conexión (endpoints, timestamps).\nCompatibilidad amplia de integraciones: lista decenas de apps (Google Workspace, Slack, Salesforce, Jira, Notion, Zendesk, etc.) y también múltiples herramientas de IA.\nEnfoque de cumplimiento/seguridad: el artículo de seguridad indica SOC 2 Type II bajo auditoría de Barndoor.",
+        "long_description": "Venn.ai conecta herramientas de IA (Claude, ChatGPT, Cursor, VS Code, OpenClaw, entre otras listadas) con aplicaciones de trabajo (CRM, gestión de proyectos, soporte, documentos, finanzas, etc.). Su propuesta central es aplicar una capa de gobernanza: autentica integraciones con OAuth 2.0 (sin ver/guardar contraseñas), hereda permisos existentes por app y permite configurar guardrails (solo lectura o escritura limitada por objetos/acciones). Declara que no pre-indexa datos; realiza consultas puntuales para cumplir solicitudes y registra metadatos de conexión para monitoreo/seguridad. También se comunica como un “gobernance layer” para desplegar agentes como OpenClaw con control de lectura/escritura/modificación sobre 40+ herramientas/servicios.",
+        "release_date": "2026",
+        "developer": "Barndoor AI, Inc. (Venn “powered by Barndoor AI, Inc.”).",
+        "main_model": "No disponible",
+        "pricing_plans": "Plan mostrado: US$5/mes (equivalente a US$50 anual), incluyendo “Unlimited connectors”, “Unlimited actions”, conectores de lectura y escritura y “Activity logs”.",
+        "license": "Propietario / SaaS",
+        "security_privacy": "OAuth 2.0 para conexiones; Venn no ve ni almacena usuario/contraseña. Cada integración es independiente y revocable.\nHerencia de permisos: el acceso lo determina OAuth/los permisos ya existentes; Venn no puede ampliar ni evadir políticas del cliente.\nAcceso bajo demanda: declara que no pre-fetch/caché/indexa datos; no almacena el contenido de datos de apps; registra metadatos de conexión y puede retener logs para seguridad/depuración.\nEntrenamiento: indica que Venn.ai no usa datos de negocio para entrenar modelos; el procesamiento sigue políticas del proveedor de IA usado (OpenAI/Anthropic, etc.).\nPolítica aplicable: Venn enlaza su “Privacy Policy” a Barndoor; la política de Barndoor (Effective Feb 13, 2026) cubre barndoor.ai y venn.ai, describe recolección de datos de cuenta/uso y uso de cookies/analytics, e incluye un apartado sobre “Google Data” (no usar para desarrollar/mejorar/entrenar servicios, según el texto visible).",
+        "integration": "Integra herramientas de IA (ChatGPT, Claude, Claude Code, Cursor, OpenClaw, VS Code) y múltiples apps empresariales, incluyendo (lista parcial) Gmail, Google Drive/Docs/Sheets/Slides/Calendar, Slack, Salesforce, HubSpot, Jira, Notion, Zendesk, Shopify, Stripe, Zoom, GitHub/GitLab, Dropbox, ServiceNow, Snowflake, QuickBooks Online, Xero, entre otras."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.venn.ai/?"
+        },
+        {
+          "source_url": "https://www.venn.ai/blog/security"
+        },
+        {
+          "source_url": "https://www.venn.ai/#plans-1"
+        },
+        {
+          "source_url": "https://www.venn.ai/integrations"
+        },
+        {
+          "source_url": "https://barndoor.ai/privacy-policy/"
+        },
+        {
+          "source_url": "https://www.producthunt.com/products/venn-ai-2"
+        },
+        {
+          "source_url": "https://aithority.com/machine-learning/barndoor-launches-venn-ai-the-easiest-and-safest-way-to-connect-ai-tools-to-business-applications/"
+        }
+      ]
+    },
+    "1436": {
+      "app": {
+        "id": "1436",
+        "name": "Verdent",
+        "url": "https://www.verdent.ai/",
+        "short_description": "Asistente de programación agéntica con ejecución en paralelo: convierte ideas en planes, escribe y verifica cambios, y permite trabajar desde VS Code/JetBrains con tareas concurrentes y revisión clara antes de confirmar. ",
+        "category": "Codificación",
+        "main_functionality": "Orquesta agentes de IA para planificar, ejecutar y verificar tareas de desarrollo (cambios multi-archivo, aislamiento de espacios de trabajo, revisión de diffs) e integra extensiones para VS Code y JetBrains.",
+        "tags": "#Codificación #AgentesDeIA #AsistenteDeProgramación #VSCode #JetBrains #Planificación #VerificaciónDeCódigo",
+        "logo_filename": "id_1436_verdentai",
+        "what_is": "Plataforma de programación “agéntica” (agentic coding) que ayuda a construir software mediante planes ejecutables, coordinación de tareas en paralelo y verificación de resultados, con uso desde una app de escritorio y extensiones para IDE.",
+        "purpose": "Para acelerar y estructurar el trabajo de desarrollo (ideación → plan → implementación → verificación), reduciendo fricción en tareas largas o complejas y permitiendo ejecutar múltiples trabajos simultáneamente sin conflictos.",
+        "use_cases": "Implementación de features y refactors con planificación previa y verificación (tests/lint/validaciones) antes de integrar cambios.\nMultitarea: ejecutar varias tareas o proyectos en paralelo con espacios de trabajo aislados.\nDocumentación y prototipos: generación/organización de documentación y creación de demos rápidas.",
+        "main_advantages": "Modo de planificación y aclaración: ayuda a convertir ideas difusas en tareas claras y planes estructurados.\nTrabajo en paralelo: facilita crear y ejecutar múltiples tareas sin perder contexto.\nRevisión clara: resumen y cambios resaltados antes de confirmar.\nIntegración IDE: soporte para VS Code y JetBrains.\nAcceso a modelos líderes (según su sitio): ofrece elección de modelos dentro de la plataforma y consumo por créditos.",
+        "long_description": "Verdent se presenta como un “socio nativo de IA” para construir software con enfoque en: aclaración de requisitos, planificación (planes estructurados), ejecución de tareas en paralelo y revisión/verificación de cambios antes de integrarlos. Ofrece app de escritorio para manejar proyectos y extensiones para VS Code/JetBrains para operar desde el IDE. Su esquema de uso se basa en créditos, con planes individuales (Free/Starter/Pro/Max), recargas y opciones para equipos/empresa.",
+        "release_date": "Septiembre 2025",
+        "developer": "Verdent AI, Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "Free: prueba gratis 7 días con 100 créditos.\nStarter: USD $19/mes (480 créditos/mes).\nPro: USD $59/mes (1500 créditos/mes).\nMax: USD $179/mes (4500 créditos/mes).\nRecargas: compra de paquetes de créditos; indica que no caducan.\nTeams: USD $20/usuario/mes (480 créditos/usuario/mes) + administración/cobro unificado.\nEnterprise: personalizado.",
+        "license": "Propietaria (SaaS).",
+        "security_privacy": "Recopila datos de cuenta (email/usuario), contenidos de Input/Output, y datos técnicos de uso.\nRepositorios: no accede a repositorios salvo que el usuario habilite code indexing; si se habilita, genera embeddings y “encrypted code chunks” para búsqueda (sin guardar el código en texto plano, según el documento).\nIndica que Input/Output no se usa para entrenamiento salvo consentimiento explícito.\nAlmacenamiento en servidores en EE. UU. y política general de retención/elim./anonimización.",
+        "integration": "Extensión para VS Code y plugin para JetBrains.\nAutenticación mencionada en privacidad: registro con Google o GitHub (además de email)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.verdent.ai/"
+        },
+        {
+          "source_url": "https://www.verdent.ai/es/pricing"
+        },
+        {
+          "source_url": "https://www.verdent.ai/blog"
+        },
+        {
+          "source_url": "https://www.verdent.ai/es/about-us"
+        },
+        {
+          "source_url": "https://www.verdent.ai/es/privacy"
+        },
+        {
+          "source_url": "https://www.businesswire.com/news/home/20250923178280/en/Verdent-AI-Introduces-Verdent-and-Verdent-Deck-New-AI-Tools-That-Let-Human-Developers-Thrive-to-Deliver-Complex-Enterprise-Grade-Code"
+        }
+      ]
+    },
+    "1439": {
+      "app": {
+        "id": "1439",
+        "name": "VeriBite",
+        "url": "https://veribite.ai/",
+        "short_description": "Escáner de alimentos con IA que analiza comidas, etiquetas y menús para detectar aceites de semillas ocultos, ultraprocesados y reclamos engañosos, entregando un puntaje e insights en segundos.",
+        "category": "Detección",
+        "main_functionality": "Escaneo por foto para generar un “Food Truth Score”, señalar ingredientes/claims de riesgo, estimar impacto corporal (energía, digestión, recuperación, inflamación) y dar seguimiento del progreso en el tiempo.",
+        "tags": "#Detección #FoodScanner #Ingredientes #Ultraprocesados #SeedOils #Salud",
+        "logo_filename": "id_1439_verbiteai",
+        "what_is": "Plataforma de “food scanning” con IA orientada a transparencia alimentaria: analiza una imagen de un alimento (comida, producto empacado o menú) y devuelve un puntaje/diagnóstico sobre ingredientes y claims de marketing.",
+        "purpose": "Para ayudar a las personas a evaluar rápidamente lo que consumen y tomar decisiones informadas, identificando aceites de semillas ocultos, componentes ultraprocesados y etiquetas potencialmente engañosas, además de visualizar impacto y progreso.",
+        "use_cases": "Evaluación de productos empaquetados en supermercado mediante foto de etiqueta.\nRevisión de menús/platillos para estimar “impacto corporal” reportado (energía, digestión, recuperación, inflamación).\nSeguimiento de hábitos y evolución de puntajes con histórico/progreso.",
+        "main_advantages": "Resultado rápido en segundos con un puntaje y banderas sobre ingredientes/claims.\nEnfoque explícito en detectar “hidden seed oils”, ultraprocesados y claims engañosos.\nSeguimiento de progreso e indicadores de impacto (según su descripción pública).\nDisponibilidad declarada en iOS, Android y web.",
+        "long_description": "Funciona con un ciclo “Scan, Truth, Impact, Progress”: el usuario toma una foto de una comida, alimento empacado o menú; la plataforma genera un “Food Truth Score” resaltando aceites de semillas ocultos, ultraprocesados y claims engañosos; muestra el impacto corporal (energía, digestión, recuperación, inflamación) y permite rastrear el progreso a lo largo del tiempo. Declara usar Google Gemini AI para el análisis.",
+        "release_date": "No disponible",
+        "developer": "JGM Investments LLC",
+        "main_model": "Google Gemini AI",
+        "pricing_plans": "Free: escaneo básico con anuncios.\nPro: USD $12.99/mes; “unlimited Quick Scans”, “Deep Scans”, historial completo y sin anuncios.\nElite: USD $24.99/mes; añade tracking avanzado de impacto corporal, AI coaching, integración fitness y soporte prioritario.",
+        "license": "Propietaria (SaaS).",
+        "security_privacy": "Indica uso de cifrado estándar de la industria en tránsito y en reposo; las imágenes de escaneo se procesan para análisis y “no se comparten con terceros” (según su texto público); además señala que recopila solo lo necesario para operar y mejorar el servicio.",
+        "integration": "Disponibilidad declarada: iOS, Android y web.\n“Integración fitness” mencionada como característica del plan Elite (sin detallar plataformas específicas)."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://veribite.ai/"
+        },
+        {
+          "source_url": "https://veribite.ai/how-it-works"
+        },
+        {
+          "source_url": "https://veribite.ai/privacy"
+        },
+        {
+          "source_url": "https://veribite.ai/about"
+        },
+        {
+          "source_url": "https://veribite.org"
+        }
+      ]
+    },
+    "1474": {
+      "app": {
+        "id": "1474",
+        "name": "Velo",
+        "url": "https://www.usevelo.ai",
+        "short_description": "Convierte grabaciones de pantalla “en bruto” en mensajes y demos de video listos para compartir: reescribe el guion, mejora el flujo visual y puede presentar el contenido con avatar y voz, reduciendo la necesidad de múltiples tomas y edición manual.",
+        "category": "Edición de video",
+        "main_functionality": "Generar videos tipo demo/walkthrough a partir de grabaciones, archivos o enlaces: guion automático, agente de navegador que “graba por ti”, editor, sharing por link, y opciones de avatar/voz (VeloTwins).",
+        "tags": "#EdiciónDeVideo #GeneraciónDeVideo #Automatización #DemosDeProducto #ScreenRecording #AvatarAI #VoiceAI",
+        "logo_filename": "id_1474_veloai",
+        "what_is": "Velo es una plataforma de creación de demos y walkthroughs “AI-native” que transforma grabaciones o recorridos de producto en videos con narrativa y edición automatizada, incluyendo opciones como agente de navegador, guion con IA y avatar/voz.",
+        "purpose": "Para producir rápidamente videos de comunicación (pitches, demos, tutoriales, actualizaciones de producto, onboarding, soporte) con menos retrabajo de grabación y menos edición manual.",
+        "use_cases": "Demos de producto sin cámara: generación de video narrado a partir de grabación o recorrido guiado.\n“Paste a link”: pegar URL, narrar y dejar que el agente registre el demo.\nMejora de grabaciones existentes (Zoom/Gong/MP4): re-guionizar y entregar un video más “publicable”.\nContenido para equipos (ventas, producto, soporte, marketing, educación): videos cortos para compartir por enlace.",
+        "main_advantages": "Reduce retrabajo de grabación: el sitio ilustra un flujo comparativo (p. ej., “12 takes vs 1 take” y “55 mins saved” como ejemplo de ahorro de tiempo).\nMúltiples formas de crear: grabar, subir video, subir PDFs/PNGs, o pegar un enlace.\nAutomatización por “browser agent” + guion: el agente ejecuta acciones y la plataforma gestiona guion/narración/render.\nCompartición y control: enlaces compartibles y editor integrado para ajustes.",
+        "long_description": "Velo genera demos y mensajes de video “watch-worthy” a partir de grabaciones de pantalla, archivos (MP4/MOV) o recorridos desde un enlace. Ofrece generación automática de guion y narrativa, un agente que puede grabar dentro del navegador, un editor para personalizar elementos (p. ej., estilos visuales/brand kit) y funciones de avatar/voz (incl. VeloTwins). También permite compartir por enlace y administrar descargas según el plan.",
+        "release_date": "Abril 2026",
+        "developer": "Flowframe, Inc.",
+        "main_model": "No disponible",
+        "pricing_plans": "Free: $0/mes; 15 “Velo minutes”/mes; editor completo; compartir sin watermark; 1 video con avatar/mes; descargas con watermark por defecto (remover watermark: $9.99).\nPro: $20/mes; 60 Velo minutes/mes; hasta 3 min de avatar video; acceso a avatares públicos; descargas sin watermark; 3 “script retries” y 3 regeneraciones de voz por video; “turn links into videos” (5/mes).\nUltra: $200/mes; 600 Velo minutes/mes; 30 min de avatar video; VeloTwins personalizados; 10 “script retries” y 10 regeneraciones de voz; link-to-video ilimitado.",
+        "license": "Propietaria (SaaS).",
+        "security_privacy": "Datos recolectados: cuenta/perfil; facturación vía Stripe; contenido de proyectos (prompts, guiones, ediciones, videos, grabaciones, imágenes, audio, archivos importados); inputs de avatar/voz (incl. imagen de rostro, voz, audio de micrófono/sistema); datos técnicos (IP, dispositivo, logs, analítica, cookies) e interacciones en páginas públicas.\nUso de datos: operación del servicio, generación de outputs, soporte, seguridad, prevención de abuso y cumplimiento legal.\nProveedores/terceros (mencionados): infraestructura, analítica, comunicaciones y procesamiento de IA; la política lista ejemplos como Fal, ElevenLabs, Cleanvoice, Gemini, OpenAI, Anthropic, Stripe, Google Analytics, PostHog e Intercom.\nContenido sensible: el usuario es responsable de no subir material confidencial/regulado si no está autorizado.\nDeepfakes/abuso: políticas prohíben, entre otros, deepfakes no consensuados y uso malicioso.\nRetención: conservación “por el tiempo razonablemente necesario”; al borrar la cuenta el contenido público/compartido “debería” volverse inaccesible, con posibles retenciones por motivos legales/seguridad/backups.",
+        "integration": "Fuentes de grabación/entrada: subida de archivos MP4/MOV y soporte para reutilizar grabaciones (el sitio menciona ejemplos como Zoom/Gong/Fathom).\nWeb app + Chrome extension: para captura y creación de demos (documentación lo describe).\nCompartición: enlaces públicos/compartibles y páginas interactivas (comentarios/reacciones/forms) según configuración.\nPagos: Stripe para suscripciones/pagos."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://www.usevelo.ai"
+        },
+        {
+          "source_url": "https://www.usevelo.ai/pricing"
+        },
+        {
+          "source_url": "https://www.usevelo.ai/blog"
+        }
+      ]
+    },
+    "1481": {
+      "app": {
+        "id": "1481",
+        "name": "URLtoVideo",
+        "url": "https://urltovideo.ai/",
+        "short_description": "Generador de anuncios en video para e-commerce que convierte enlaces de producto (p. ej., Shopify/Amazon/TikTok Shop) en creatividades listas para publicar, con guion automatizado, plantillas, avatares y opciones para replicar formatos de anuncios.",
+        "category": "Generación de video",
+        "main_functionality": "Analiza una URL de producto, extrae información (imágenes/detalles) y genera videos publicitarios estructurados; incluye biblioteca de anuncios para “replicar” estilos/estructuras, generación de guiones y funciones de avatar/voz para piezas tipo UGC.",
+        "tags": "#GeneraciónDeVideo #Publicidad #Marketing #Ecommerce #UGC #VideoAds #TextoAVoz #Avatares",
+        "logo_filename": "id_1481_urltovideo",
+        "what_is": "Plataforma de IA orientada a e-commerce y performance marketing que genera video ads a partir de un enlace de producto (Shopify, Amazon, TikTok Shop y otras páginas), automatizando estructura del anuncio, guion y producción del video.",
+        "purpose": "ara producir y escalar creatividades publicitarias en video (p. ej., para TikTok/short-form) con menos trabajo manual: pegar enlace → generar variaciones → exportar y lanzar campañas.",
+        "use_cases": "Generar anuncios desde links de productos de Shopify/Amazon/TikTok Shop.\nCrear variaciones rápidas de creatividades (ganchos/formatos) para pruebas A/B.\nReplicar estructuras de anuncios ganadores desde una ad library y adaptarlas al producto propio.\nProducir anuncios con AI avatars y voz (UGC-style) sin grabación humana.",
+        "main_advantages": "Reduce trabajo manual (guion + ensamblado) al generar el anuncio desde la URL.\nPensado para e-commerce y “high-converting structures” (según posicionamiento del sitio).\nFunciones adicionales en planes: búsqueda en biblioteca de anuncios, clon/replicación y clonación de voz (según pricing).\nModelo por créditos con incentivos de créditos (p. ej., bono de registro y check-in diario, según pricing).",
+        "long_description": "URLtoVideo es un generador de anuncios en video centrado en e-commerce: al pegar una URL de producto, la plataforma analiza la página y crea un video publicitario con una estructura predefinida para short-form. Ofrece generación automática de guion, creación de videos de “product showcase” y formatos tipo UGC con avatares/voz, además de funciones para replicar anuncios mediante una biblioteca interna y, en planes superiores, capacidades como clonación de voz y mayor volumen de generación medido por créditos.",
+        "release_date": "2025",
+        "developer": "HandHunt HongKong Limited",
+        "main_model": "No disponible",
+        "pricing_plans": "Planes basados en créditos (incluye Free y planes de pago). La página de precios lista Growth/Pro/Business con créditos mensuales y capacidades como búsquedas en ad library, favoritos, voice clones y tipos de generación (avatar/product showcase/script).",
+        "license": "Propietaria.",
+        "security_privacy": "Cuenta con Privacy Policy y Terms; la política incluye apartados como privacidad de menores y un canal de contacto. En “Terms” se publica entidad/registro y dirección de la compañía, además del email de contacto.",
+        "integration": "Se orienta a exportar y usar anuncios en plataformas publicitarias/sociales; no se encontró documentación pública de API/integraciones de terceros en el sitio principal."
+      },
+      "news": [
+        {
+          "success_type": "Casos de Éxito en el Sector Gubernamental",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        },
+        {
+          "success_type": "Casos de Éxito en el Sector Privado",
+          "title": "No hay casos de éxito identificados.",
+          "description": "NA",
+          "url": "NA"
+        }
+      ],
+      "sources": [
+        {
+          "source_url": "https://urltovideo.ai/"
+        },
+        {
+          "source_url": "https://urltovideo.ai/privacy"
+        },
+        {
+          "source_url": "https://urltovideo.ai/terms"
+        },
+        {
+          "source_url": "https://urltovideo.ai/pricing"
+        },
+        {
+          "source_url": "https://www.g2.com/es/products/url-to-video/wishlists?host_path=%2Fproducts%2Furl-to-video%2Freviews&source=pdp_avatar"
+        }
+      ]
+    },
+    "1623": {
+      "app": {
+        "id": "1623",
+        "name": "Vacay",
+        "url": "https://www.usevacay.com/chatbot",
+        "short_description": "Ayuda a planear viajes mediante chatbots, itinerarios personalizados y recomendaciones globales.",
+        "category": "Chat",
+        "main_functionality": "Planificación de viajes mediante chatbot e itinerarios personalizados.",
+        "tags": "#IA #Chat #Viajes #AsistenteIA",
+        "logo_filename": "id_1623_vacay",
+        "what_is": "Vacay es una herramienta de inteligencia artificial para planear viajes mediante chatbots, recomendaciones globales e itinerarios personalizados.",
+        "purpose": "Ayudar a planear viajes mediante chatbots e itinerarios personalizados.",
+        "use_cases": "Planificación de viajes, chatbots turísticos, recomendaciones globales, itinerarios personalizados, asistencia de viaje y búsqueda de destinos.",
+        "main_advantages": "Ofrece interacción conversacional; facilita crear itinerarios; puede apoyar decisiones de viaje con recomendaciones personalizadas.",
+        "long_description": "Vacay es una herramienta de inteligencia artificial para planificación de viajes. Utiliza chatbots y recomendaciones personalizadas para ayudar a crear itinerarios y organizar experiencias turísticas.",
+        "release_date": "No especificada",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Freemium",
+        "license": "No especificada",
+        "security_privacy": "Consultar la política de privacidad del proveedor.",
+        "integration": "Disponible mediante plataforma web del proveedor."
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.usevacay.com/chatbot"
+        },
+        {
+          "source_url": "https://www.futurepedia.io/tool/vacay"
+        }
+      ]
+    },
+    "1783": {
+      "app": {
+        "id": "1783",
+        "name": "Uplizd",
+        "url": "https://uplizd.ai/",
+        "short_description": "Uplizd permite construir y desplegar flujos de trabajo y aplicaciones con IA de forma más rápida.",
+        "category": "Automatización",
+        "main_functionality": "Construcción y despliegue de workflows y apps con IA",
+        "tags": "#Automatización #Workflows #AppsIA",
+        "logo_filename": "id_1783_uplizd",
+        "what_is": "Uplizd es una herramienta para construir y desplegar flujos de trabajo y aplicaciones con IA. Está orientada a acelerar la creación de procesos automatizados y soluciones internas.",
+        "purpose": "Construir y desplegar workflows y aplicaciones con IA para acelerar procesos internos.",
+        "use_cases": "Creación de workflows; despliegue de apps con IA; automatización interna; construcción rápida de procesos.",
+        "main_advantages": "Acelera creación de workflows; permite desplegar apps con IA; reduce fricción técnica; facilita automatización interna.",
+        "long_description": "Uplizd es una herramienta para construir y desplegar workflows y aplicaciones con inteligencia artificial. Está orientada a acelerar la creación de procesos automatizados y soluciones internas. Puede apoyar a equipos que desean crear flujos, herramientas o apps sin depender completamente de desarrollo tradicional.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://uplizd.ai/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/uplizd-sm8jeh"
+        }
+      ]
+    },
+    "1808": {
+      "app": {
+        "id": "1808",
+        "name": "UTM Mind",
+        "url": "https://www.utmmind.com/",
+        "short_description": "UTM Mind genera y administra enlaces UTM para campañas, ayudando a ordenar el seguimiento de marketing.",
+        "category": "Marketing",
+        "main_functionality": "Generación y administración de enlaces UTM",
+        "tags": "#Marketing #UTM #Tracking",
+        "logo_filename": "id_1808_utm_mind",
+        "what_is": "UTM Mind es una herramienta de marketing para generar y administrar enlaces UTM. Facilita el orden del tracking de campañas y el seguimiento de resultados.",
+        "purpose": "Generar y administrar enlaces UTM para mejorar el seguimiento de campañas de marketing.",
+        "use_cases": "Tracking de campañas; enlaces UTM; medición de marketing; organización de fuentes de tráfico.",
+        "main_advantages": "Ordena enlaces UTM; facilita medición de campañas; reduce errores de tracking; apoya marketing.",
+        "long_description": "UTM Mind es una herramienta de marketing para generar y administrar enlaces UTM. Facilita el seguimiento de campañas, fuentes de tráfico y resultados asociados a acciones comerciales. Su valor está en ordenar el tracking y reducir errores al crear parámetros de medición para campañas digitales.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.utmmind.com/"
+        },
+        {
+          "source_url": "https://futuretools.io/tools/utm-mind-j98y4s"
+        }
+      ]
+    },
+    "1999": {
+      "app": {
+        "id": "1999",
+        "name": "Vaethat",
+        "url": "https://www.vaethat.com/",
+        "short_description": "Vaethat permite mejorar imágenes, ajustar calidad visual y optimizar recursos gráficos con apoyo de IA.",
+        "category": "Edición de imágenes",
+        "main_functionality": "Mejora, edición y optimización visual de imágenes con apoyo de IA.",
+        "tags": "mejora de imágenes, edición visual, calidad de imagen, diseño",
+        "logo_filename": "id_1999_vaethat",
+        "what_is": "Vaethat es una herramienta de mejora visual que permite optimizar imágenes, ajustar calidad y apoyar procesos de edición gráfica mediante IA.",
+        "purpose": "Mejorar la calidad visual de imágenes mediante edición, optimización y ajustes asistidos por IA.",
+        "use_cases": "Mejora de imágenes; edición visual; optimización gráfica; recursos para diseño.",
+        "main_advantages": "Mejora calidad visual, acelera ajustes de imagen y facilita optimizar recursos gráficos.",
+        "long_description": "Vaethat es una herramienta de mejora visual que utiliza IA para optimizar imágenes. Puede ayudar a ajustar calidad, mejorar recursos gráficos y preparar imágenes para diseño, contenido o presentación. Es útil para usuarios que necesitan mejorar materiales visuales sin realizar ediciones manuales complejas.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.vaethat.com/"
+        }
+      ]
+    },
+    "2000": {
+      "app": {
+        "id": "2000",
+        "name": "Upfirst",
+        "url": "https://upfirst.ai/",
+        "short_description": "Upfirst ayuda a automatizar la atención inicial de prospectos o clientes mediante agentes de IA.",
+        "category": "Automatización",
+        "main_functionality": "Automatización de atención inicial a prospectos o clientes mediante agentes de IA.",
+        "tags": "agentes de IA, llamadas, atención inicial, automatización comercial",
+        "logo_filename": "id_2000_upfirst",
+        "what_is": "Upfirst es una herramienta de automatización comercial que utiliza agentes de IA para atender prospectos o clientes en una primera interacción, ayudando a responder y canalizar oportunidades.",
+        "purpose": "Automatizar la atención inicial de prospectos o clientes mediante agentes de IA.",
+        "use_cases": "Atención inicial; calificación de prospectos; respuestas automáticas; automatización comercial.",
+        "main_advantages": "Reduce tiempos de respuesta inicial, ayuda a captar oportunidades y automatiza interacción con prospectos.",
+        "long_description": "Upfirst es una herramienta de automatización comercial enfocada en la primera atención a prospectos o clientes. Utiliza agentes de IA para responder, calificar o canalizar oportunidades desde el contacto inicial. Puede ser útil para negocios que reciben consultas frecuentes y necesitan responder con rapidez antes de pasar a atención humana.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://upfirst.ai/"
+        }
+      ]
+    },
+    "2042": {
+      "app": {
+        "id": "2042",
+        "name": "Vicoa",
+        "url": "https://vicoa.ai/",
+        "short_description": "Vitca permite automatizar procesos y tareas operativas con apoyo de IA para reducir trabajo manual.",
+        "category": "Automatización",
+        "main_functionality": "Automatización de procesos y tareas operativas con apoyo de IA.",
+        "tags": "automatización, procesos, asistentes de IA, operación",
+        "logo_filename": "id_2042_vitca",
+        "what_is": "Vitca es una herramienta de automatización que ayuda a ejecutar procesos y tareas operativas con apoyo de IA. Puede servir para reducir actividades manuales y mejorar la eficiencia en flujos repetitivos.",
+        "purpose": "Automatizar procesos y tareas operativas para reducir trabajo manual.",
+        "use_cases": "Automatización operativa; asistentes de IA; procesos internos; tareas repetitivas.",
+        "main_advantages": "Reduce tareas manuales, mejora procesos internos y permite automatizar actividades repetitivas con IA.",
+        "long_description": "Vitca es una herramienta de automatización que ayuda a ejecutar procesos y tareas operativas con apoyo de IA. Puede utilizarse en actividades repetitivas, seguimiento de procesos o flujos internos donde se busca reducir intervención manual. Su utilidad está en mejorar eficiencia y liberar tiempo para tareas de mayor valor.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "De pago",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://vicoa.ai/"
+        }
+      ]
+    },
+    "2074": {
+      "app": {
+        "id": "2074",
+        "name": "Vibe HTML",
+        "url": "https://vibehtml.com/",
+        "short_description": "VibeHTML ayuda a crear o trabajar con código HTML y recursos web mediante asistencia de IA.",
+        "category": "Codificación",
+        "main_functionality": "Creación y edición de código HTML y recursos web con asistencia de IA.",
+        "tags": "codificación, HTML, desarrollo web, generación de código",
+        "logo_filename": "id_2074_vibehtml",
+        "what_is": "VibeHTML es una herramienta de codificación enfocada en crear o trabajar con código HTML y recursos web. Puede apoyar a desarrolladores o usuarios técnicos en la generación y ajuste de interfaces o componentes web.",
+        "purpose": "Ayudar a crear, editar o trabajar con código HTML y recursos web.",
+        "use_cases": "HTML; desarrollo web; generación de código; edición de interfaces.",
+        "main_advantages": "Acelera trabajo con HTML, facilita crear recursos web y apoya tareas de desarrollo frontend.",
+        "long_description": "VibeHTML es una herramienta de codificación enfocada en crear, editar o trabajar con código HTML y recursos web. Puede apoyar a desarrolladores, diseñadores web o usuarios técnicos que necesitan generar interfaces, componentes o estructuras frontend. Su valor está en acelerar tareas de desarrollo web y facilitar ajustes sobre código HTML.",
+        "release_date": "No disponible",
+        "developer": "futuretools.link",
+        "main_model": "No especificado",
+        "pricing_plans": "No especificado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://vibehtml.com/"
+        }
+      ]
+    },
+    "2245": {
+      "app": {
+        "id": "2245",
+        "name": "UserTrace",
+        "url": "https://getusertrace.com/",
+        "short_description": "Plataforma que simula recorridos de usuario para evaluar experiencias y flujos digitales.",
+        "category": "Productividad",
+        "main_functionality": "Simular recorridos de usuario para evaluar flujos y experiencias dentro de productos digitales.",
+        "tags": "recorridos de usuario, experiencia de usuario, simulación de navegación, pruebas UX, productividad",
+        "logo_filename": "id_2245_usertrace",
+        "what_is": "UserTrace es una herramienta de productividad que simula recorridos de usuario para evaluar experiencias digitales.",
+        "purpose": "Evaluar experiencias digitales mediante la simulación de recorridos y flujos de usuario.",
+        "use_cases": "Pruebas de experiencia de usuario, simulación de recorridos, evaluación de flujos y análisis de productos digitales.",
+        "main_advantages": "Permite evaluar flujos digitales mediante simulaciones antes de depender únicamente de pruebas manuales.",
+        "long_description": "UserTrace es una plataforma que simula recorridos de usuario para evaluar experiencias digitales. Está orientada a reproducir interacciones y flujos dentro de productos digitales con el fin de facilitar su revisión.",
+        "release_date": "No disponible",
+        "developer": "UserTrace",
+        "main_model": "Agnóstico al modelo",
+        "pricing_plans": "Precio no publicado; contratación empresarial",
+        "license": "No especificado",
+        "security_privacy": "Cuenta con política de privacidad y términos empresariales; controles específicos no detallados.",
+        "integration": "API sandbox, Voice, WhatsApp, Slack y Workflow"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://getusertrace.com/"
+        }
+      ]
+    },
+    "2254": {
+      "app": {
+        "id": "2254",
+        "name": "UTMGuard",
+        "url": "https://www.utmguard.com/",
+        "short_description": "Herramienta que detecta y alerta sobre enlaces UTM rotos o inconsistentes.",
+        "category": "Detección",
+        "main_functionality": "Detectar y alertar sobre enlaces UTM rotos, incorrectos o inconsistentes.",
+        "tags": "UTM, enlaces rotos, detección de errores, seguimiento de campañas, control de enlaces",
+        "logo_filename": "id_2254_utmguard",
+        "what_is": "UTMGuard es una herramienta de detección que supervisa enlaces UTM y alerta sobre errores o inconsistencias.",
+        "purpose": "Detectar errores e inconsistencias en enlaces UTM utilizados para seguimiento de campañas.",
+        "use_cases": "Control de enlaces UTM, auditoría de campañas, detección de enlaces rotos y revisión de parámetros de seguimiento.",
+        "main_advantages": "Ayuda a detectar problemas de seguimiento antes de que afecten la medición de campañas.",
+        "long_description": "UTMGuard es una herramienta de detección que supervisa enlaces UTM utilizados en campañas. Está diseñada para identificar enlaces rotos, errores o inconsistencias que puedan afectar el seguimiento y la medición de resultados.",
+        "release_date": "No disponible",
+        "developer": "UTMGuard",
+        "main_model": "No especificado",
+        "pricing_plans": "Gratis; Pro: $15 USD/mes; Team: $49; Agency: $199; descuento early access disponible",
+        "license": "No especificado",
+        "security_privacy": "Integración de solo lectura con GA4; no instala código de seguimiento ni modifica datos.",
+        "integration": "Google Analytics 4 (GA4), solo lectura"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.utmguard.com/"
+        }
+      ]
+    },
+    "2268": {
+      "app": {
+        "id": "2268",
+        "name": "Velt",
+        "url": "https://velt.dev/",
+        "short_description": "SDK para incorporar flujos de revisión, comentarios y aprobaciones directamente dentro de aplicaciones.",
+        "category": "Codificación",
+        "main_functionality": "Integrar revisión y aprobación colaborativa entre usuarios y agentes de IA dentro de productos digitales.",
+        "tags": "SDK, revisión, aprobaciones, comentarios, colaboración, agentes de IA, aplicaciones web",
+        "logo_filename": "id_2268_velt",
+        "what_is": "Velt es un SDK que permite incorporar flujos de revisión, comentarios, colaboración y aprobación directamente dentro de aplicaciones.",
+        "purpose": "Facilitar que equipos y agentes de IA revisen trabajo dentro del propio producto antes de que los cambios sean aprobados.",
+        "use_cases": "Comentarios en aplicaciones, flujos de aprobación, revisión colaborativa, sugerencias de agentes, auditoría y edición compartida.",
+        "main_advantages": "Permite añadir infraestructura de revisión y aprobación sin desarrollar desde cero comentarios, presencia, auditoría y colaboración en tiempo real.",
+        "long_description": "Velt es un SDK orientado a integrar revisión y aprobación directamente dentro de aplicaciones digitales. Proporciona comentarios, sugerencias, colaboración en tiempo real, flujos de aprobación, auditoría y capacidades para que agentes de IA participen en la revisión manteniendo una decisión humana antes de aplicar cambios.",
+        "release_date": "No disponible",
+        "developer": "Velt",
+        "main_model": "No especificado",
+        "pricing_plans": "Hacker: gratis; Growth y Enterprise: contrato personalizado",
+        "license": "No especificado",
+        "security_privacy": "SOC 2 Type II; soporte HIPAA con BAA y opciones de residencia regional de datos.",
+        "integration": "Frameworks web, almacenamiento, CRM y herramientas de automatización"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://velt.dev/"
+        }
+      ]
+    },
+    "2274": {
+      "app": {
+        "id": "2274",
+        "name": "UXMagic.ai",
+        "url": "https://uxmagic.ai/",
+        "short_description": "Herramienta que transforma prompts de texto, capturas de pantalla y bocetos en diseños e interfaces digitales.",
+        "category": "Generación de diseño",
+        "main_functionality": "Convertir prompts, capturas de pantalla y bocetos en diseños e interfaces digitales.",
+        "tags": "diseño UX, interfaces, screenshots, prompts, prototipos, generación de diseño",
+        "logo_filename": "id_2274_uxmagic_ai",
+        "what_is": "UXMagic.ai es una herramienta de generación de diseño que transforma prompts, capturas de pantalla y bocetos en interfaces digitales.",
+        "purpose": "Acelerar la creación de interfaces y experiencias digitales a partir de instrucciones visuales o textuales.",
+        "use_cases": "Diseño UX/UI, generación de interfaces, prototipos, conversión de screenshots y creación de layouts.",
+        "main_advantages": "Convierte distintos tipos de referencia visual o textual en propuestas de interfaz de manera rápida.",
+        "long_description": "UXMagic.ai es una herramienta de generación de diseño que transforma prompts de texto, capturas de pantalla y bocetos en propuestas de interfaces digitales. Está orientada a acelerar procesos de UX y UI mediante la generación asistida de layouts, prototipos y componentes visuales.",
+        "release_date": "No disponible",
+        "developer": "UXMagic",
+        "main_model": "No especificado",
+        "pricing_plans": "Free: $0; Pro: $35 USD/mes o $17.50 USD/mes con facturación anual; Enterprise: personalizado",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "GitHub Sync, MCP, Figma, Claude, Cursor, VS Code, Windsurf, Codex y Antigravity"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://uxmagic.ai/"
+        }
+      ]
+    },
+    "2300": {
+      "app": {
+        "id": "2300",
+        "name": "Vezlo",
+        "url": "https://www.vezlo.org/",
+        "short_description": "SDK de código abierto que transforma código fuente en una representación consultable y utilizable con inteligencia artificial.",
+        "category": "Codificación",
+        "main_functionality": "Transformar código fuente en una representación consultable y reutilizable por herramientas y sistemas de inteligencia artificial.",
+        "tags": "SDK, código fuente, desarrollo de software, programación, inteligencia artificial, herramientas para desarrolladores",
+        "logo_filename": "id_2300_vezlo",
+        "what_is": "Vezlo es un SDK de código abierto que transforma código fuente en una representación consultable y utilizable por sistemas de inteligencia artificial.",
+        "purpose": "Facilitar que herramientas y agentes de inteligencia artificial comprendan y consulten bases de código existentes.",
+        "use_cases": "Comprensión de código, consulta de repositorios, contexto para agentes de programación, documentación y análisis de software.",
+        "main_advantages": "Facilita que sistemas de inteligencia artificial trabajen con bases de código mediante una representación más consultable.",
+        "long_description": "Vezlo es un SDK de código abierto diseñado para transformar código fuente en una representación que pueda ser consultada y utilizada por herramientas de inteligencia artificial. Está orientado a facilitar la comprensión de repositorios y aportar contexto a agentes y sistemas relacionados con desarrollo de software.",
+        "release_date": "No disponible",
+        "developer": "Vezlo",
+        "main_model": "Agnóstico al modelo; SDK para asistentes sobre código",
+        "pricing_plans": "Gratis y código abierto bajo licencia AGPL-3.0",
+        "license": "AGPL-3.0",
+        "security_privacy": "Código abierto; controles adicionales de seguridad no especificados públicamente.",
+        "integration": "Next.js, React, API; soporte para JavaScript, TypeScript, Python, Go y Rust"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.vezlo.org/"
+        }
+      ]
+    },
+    "2317": {
+      "app": {
+        "id": "2317",
+        "name": "Vibecode",
+        "url": "https://www.vibecodeapp.com/",
+        "short_description": "Plataforma no-code con IA para crear aplicaciones móviles y web mediante instrucciones en lenguaje natural.",
+        "category": "Plataformas sin código",
+        "main_functionality": "Crear aplicaciones móviles y web desde prompts, incluyendo frontend, backend, datos y opciones de publicación.",
+        "tags": "apps móviles, apps web, no-code, Claude Code, generación de aplicaciones, App Store, desarrollo con IA",
+        "logo_filename": "id_2317_vibecode",
+        "what_is": "Vibecode es una plataforma no-code con inteligencia artificial para crear aplicaciones móviles y web a partir de instrucciones.",
+        "purpose": "Reducir la barrera técnica para crear y publicar aplicaciones móviles y web mediante inteligencia artificial.",
+        "use_cases": "Aplicaciones móviles, aplicaciones web, prototipos, publicación en App Store, bases de datos y productos digitales.",
+        "main_advantages": "Integra creación, backend, base de datos y publicación de apps dentro de un flujo basado en prompts.",
+        "long_description": "Vibecode es una plataforma de creación de aplicaciones asistida por inteligencia artificial. Permite construir apps móviles y web mediante lenguaje natural e incorpora funciones como backend, bases de datos, autenticación, integraciones, generación de activos y opciones para publicar o exportar el producto.",
+        "release_date": "No disponible",
+        "developer": "Not A Number Labs Incorporated",
+        "main_model": "Claude Code; compatible además con otros servicios de IA",
+        "pricing_plans": "Free: $0; Plus: $20 USD/mes; Pro: $50 USD/mes; Max: $200 USD/mes",
+        "license": "No especificado",
+        "security_privacy": "Política de privacidad de Not A Number Labs; backend con autenticación y sesiones seguras mediante Better Auth.",
+        "integration": "Vibecode Cloud, Supabase, Firebase, Expo, App Store, Google Sign-In, Cursor y VS Code"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://www.vibecodeapp.com/"
+        }
+      ]
+    },
+    "2332": {
+      "app": {
+        "id": "2332",
+        "name": "Vibe3D",
+        "url": "https://vibe3d.ai/",
+        "short_description": "Herramienta que transforma modelos 3D en renders y contenido visual mediante inteligencia artificial.",
+        "category": "Generación de arte",
+        "main_functionality": "Transformar modelos tridimensionales en renders y contenido visual mediante inteligencia artificial.",
+        "tags": "3D, renders, modelos 3D, generación visual, inteligencia artificial, generación de arte",
+        "logo_filename": "id_2332_vibe3d",
+        "what_is": "Vibe3D es una herramienta de generación de arte que convierte modelos 3D en renders y contenido visual mediante inteligencia artificial.",
+        "purpose": "Facilitar la generación de renders y contenido visual a partir de modelos tridimensionales.",
+        "use_cases": "Renders 3D, visualización de modelos, contenido creativo, prototipos visuales y presentación de diseños tridimensionales.",
+        "main_advantages": "Reduce el trabajo manual necesario para convertir modelos 3D en materiales visuales y renders presentables.",
+        "long_description": "Vibe3D es una herramienta de generación visual orientada a transformar modelos tridimensionales en renders y contenido gráfico mediante inteligencia artificial. Puede utilizarse para visualizar diseños, presentar modelos y acelerar la creación de materiales derivados de activos 3D.",
+        "release_date": "No disponible",
+        "developer": "Vibe3D",
+        "main_model": "Modelos de generación visual; modelo base no especificado",
+        "pricing_plans": "3 renders gratis al registrarse; Starter: $19 USD/mes; Pro: $39 USD/mes; Studio: $79 USD/mes; Student: $9 USD",
+        "license": "No especificado",
+        "security_privacy": "Las entradas y renders del usuario no se utilizan para entrenar los modelos propios; proveedores externos de IA pueden procesar contenido para prestar el servicio.",
+        "integration": "Google Sign-In; otras integraciones no especificadas"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://vibe3d.ai/"
+        }
+      ]
+    },
+    "2333": {
+      "app": {
+        "id": "2333",
+        "name": "Versuno AI",
+        "url": "https://versuno.ai/",
+        "short_description": "Plataforma para organizar, probar y optimizar prompts utilizados con modelos de inteligencia artificial.",
+        "category": "Productividad",
+        "main_functionality": "Organizar, probar y optimizar prompts utilizados con modelos y aplicaciones de inteligencia artificial.",
+        "tags": "prompts, gestión de prompts, optimización de prompts, pruebas, evaluación, productividad",
+        "logo_filename": "id_2333_versuno_ai",
+        "what_is": "Versuno AI es una plataforma de productividad orientada a organizar, probar y optimizar prompts utilizados con sistemas de inteligencia artificial.",
+        "purpose": "Mejorar la organización, prueba y optimización de prompts utilizados con modelos de inteligencia artificial.",
+        "use_cases": "Gestión de prompts, pruebas, comparación de instrucciones, optimización de resultados y organización de workflows con IA.",
+        "main_advantages": "Centraliza el trabajo con prompts y facilita comparar y mejorar instrucciones utilizadas con distintos sistemas de IA.",
+        "long_description": "Versuno AI es una plataforma orientada a gestionar y optimizar prompts utilizados con modelos de inteligencia artificial. Permite organizar instrucciones, realizar pruebas y mejorar prompts para facilitar workflows más consistentes y reutilizables.",
+        "release_date": "No disponible",
+        "developer": "Versuno",
+        "main_model": "No especificado",
+        "pricing_plans": "Free: $0; Pro: $19 USD/mes; Team: $89 USD/mes; paquetes adicionales desde $5 USD",
+        "license": "No especificado",
+        "security_privacy": "El plan Team incluye control de acceso basado en roles; otros controles no especificados públicamente.",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://versuno.ai/"
+        }
+      ]
+    },
+    "2407": {
+      "app": {
+        "id": "2407",
+        "name": "Updaytr",
+        "url": "https://updaytr.com/",
+        "short_description": "Servicio de reportes de campo que convierte llamadas telefónicas en actualizaciones estructuradas y reportes profesionales.",
+        "category": "Automatización",
+        "main_functionality": "Recopilar actualizaciones mediante llamadas y transformarlas automáticamente en reportes estructurados distribuidos por correo electrónico.",
+        "tags": "reportes de campo, llamadas, voz, construcción, equipos de campo, reportes diarios, automatización, IA",
+        "logo_filename": "id_2407_updaytr",
+        "what_is": "Updaytr es una plataforma de reportes de campo basada en llamadas telefónicas que utiliza IA para organizar actualizaciones habladas y convertirlas en informes.",
+        "purpose": "Eliminar la necesidad de que equipos de campo escriban manualmente sus actualizaciones y reportes diarios.",
+        "use_cases": "Reportes diarios de construcción, servicios de campo, ventas, logística, inspecciones, mantenimiento y actualizaciones de equipos.",
+        "main_advantages": "Funciona mediante llamadas telefónicas sin exigir que el personal instale aplicaciones o escriba formularios.",
+        "long_description": "Updaytr es una plataforma de reporting basada en conversaciones telefónicas. Los miembros de un equipo llaman y describen sus avances de forma natural; la inteligencia artificial organiza la información y genera reportes que pueden distribuirse inmediatamente o mediante resúmenes diarios o semanales. Está especialmente orientada a construcción, servicios de campo, logística y otros trabajos donde escribir reportes resulta poco práctico.",
+        "release_date": "No disponible",
+        "developer": "Updaytr",
+        "main_model": "No especificado",
+        "pricing_plans": "Free: $0 con hasta 150 minutos mensuales y 1 caller; planes de pago desde $8 USD/mes con precio plano para el equipo",
+        "license": "No especificado",
+        "security_privacy": "No especificado",
+        "integration": "Telefonía y correo electrónico"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://updaytr.com/"
+        }
+      ]
+    },
+    "2440": {
+      "app": {
+        "id": "2440",
+        "name": "viaSocket",
+        "url": "https://viasocket.com/",
+        "short_description": "Plataforma no-code para conectar aplicaciones y automatizar flujos de trabajo mediante integraciones.",
+        "category": "Automatización",
+        "main_functionality": "Conectar aplicaciones y automatizar flujos de trabajo mediante integraciones no-code y lógica de procesos.",
+        "tags": "automatización, no-code, integraciones, workflows, APIs, aplicaciones, agentes de IA, productividad",
+        "logo_filename": "id_2440_viasocket",
+        "what_is": "viaSocket es una plataforma no-code de automatización que conecta aplicaciones y permite construir workflows mediante integraciones.",
+        "purpose": "Permitir que usuarios conecten aplicaciones y automaticen procesos sin desarrollar integraciones manualmente.",
+        "use_cases": "Automatización de procesos, integraciones entre SaaS, sincronización de datos, notificaciones, workflows empresariales y operaciones no-code.",
+        "main_advantages": "Permite conectar aplicaciones y construir workflows sin código, reduciendo la necesidad de integraciones personalizadas.",
+        "long_description": "viaSocket es una plataforma no-code para integrar aplicaciones y construir workflows automatizados. Permite conectar diferentes servicios, transferir información entre ellos y ejecutar acciones encadenadas sin tener que desarrollar integraciones manualmente mediante código.",
+        "release_date": "No disponible",
+        "developer": "viaSocket",
+        "main_model": "OpenAI y Anthropic para funciones asistidas por IA; viaSocket no opera un modelo propio",
+        "pricing_plans": "Basic: $0 con 10,000 tareas y 500 créditos/mes; Premium: $99 USD/mes; Agency: $250 USD/mes; planes Embed disponibles",
+        "license": "No especificado",
+        "security_privacy": "Datos en tránsito protegidos mediante TLS 1.2/1.3 y datos almacenados mediante AES-256. Las credenciales se almacenan cifradas y los datos de workflows no se utilizan para entrenar modelos de IA.",
+        "integration": "Más de 2,000 aplicaciones, APIs, webhooks y workflows no-code"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://viasocket.com/"
+        }
+      ]
+    },
+    "2474": {
+      "app": {
+        "id": "2474",
+        "name": "Uthana",
+        "url": "https://uthana.com/",
+        "short_description": "Plataforma de IA para generar movimiento y animación 3D a partir de texto o video, además de rigging y creación de personajes.",
+        "category": "Generación de video",
+        "main_functionality": "Genera animaciones y movimiento para personajes 3D a partir de instrucciones de texto, video y otras referencias de movimiento.",
+        "tags": "animación 3D, texto a movimiento, video a movimiento, captura de movimiento, personajes 3D",
+        "logo_filename": "id_2474_uthana",
+        "what_is": "Uthana es una plataforma de inteligencia artificial especializada en generación de movimiento, animación y producción de personajes 3D.",
+        "purpose": "Facilitar la creación y procesamiento de movimiento humano para personajes 3D, simulaciones y flujos de animación.",
+        "use_cases": "Generar animaciones a partir de texto; extraer movimiento desde video; animar personajes 3D; preparar datos de movimiento; integrar animación en videojuegos, simulaciones o experiencias 3D.",
+        "main_advantages": "Permite generar y transformar movimiento humano con IA para reducir trabajo manual de animación y facilitar su integración en flujos 3D.",
+        "long_description": "Uthana es una plataforma de inteligencia artificial enfocada en movimiento humano y animación 3D. Sus herramientas permiten generar movimiento a partir de texto, reconstruir movimiento desde video y transferirlo a distintos personajes o cuerpos. También puede integrarse mediante API y utilizarse en flujos de animación, videojuegos, simulaciones, investigación y sistemas relacionados con inteligencia artificial física.",
+        "release_date": "No especificado",
+        "developer": "No especificado",
+        "main_model": "No especificado",
+        "pricing_plans": "Pago por uso, sin suscripción obligatoria. Texto a movimiento desde USD 0.02/s; video a movimiento USD 0.05/s; auto-rigging USD 0.15 por rig y generación de personaje USD 0.75. Las nuevas suscripciones dejaron de ofrecerse en agosto de 2026.",
+        "license": "No especificado",
+        "security_privacy": "No disponible",
+        "integration": "No especificado"
+      },
+      "news": [],
+      "sources": [
+        {
+          "source_url": "https://uthana.com/"
+        }
+      ]
+    }
+  }
+}
