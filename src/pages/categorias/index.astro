@@ -3,7 +3,10 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import CategoryDynamic from "../../components/CategoryDynamic.jsx";
 ---
 
-<BaseLayout title="Categoría | Queesia">
+<BaseLayout
+  title="Categoría | Queesia"
+  robots="noindex, follow"
+>
   <main class="w-full min-h-screen">
     <CategoryDynamic client:load />
   </main>
