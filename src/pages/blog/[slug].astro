@@ -1,0 +1,818 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+function formatDate(value: string): string {
+  if (!value) return "";
+
+  try {
+    return new Intl.DateTimeFormat("es-MX", {
+      year: "numeric",
+      month: "long",
+      day: "numeric",
+      timeZone: "UTC",
+    }).format(new Date(`${value}T00:00:00Z`));
+  } catch {
+    return value;
+  }
+}
+
+export async function getStaticPaths() {
+  const API_BASE = "https://queesia.com/api/blog";
+  const LIST_URL = `${API_BASE}/list.php?page=1&limit=1000&sort=recent`;
+  const POST_URL = `${API_BASE}/post.php`;
+  const SLUG_PATTERN = /^[a-z0-9]+(?:-[a-z0-9]+)*$/;
+  const PLACEHOLDER_HTML = "<p>Contenido no disponible.</p>";
+
+  function failBuild(message: string): never {
+    throw new Error(`[blog static pages] ${message}`);
+  }
+
+  function isRecord(value: unknown): value is Record<string, any> {
+    return Boolean(value) && typeof value === "object";
+  }
+
+  function asString(value: unknown): string {
+    return typeof value === "string" ? value : value == null ? "" : String(value);
+  }
+
+  function stripTags(value: string): string {
+    return value.replace(/<[^>]+>/g, " ");
+  }
+
+  function normalizeComparable(value: string): string {
+    return stripTags(value)
+      .toLowerCase()
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      .replace(/[^a-z0-9]+/g, " ")
+      .trim();
+  }
+
+  function hasUsefulHtml(value: unknown): boolean {
+    const html = asString(value).trim();
+    return html !== "" && html !== PLACEHOLDER_HTML;
+  }
+
+  function hasUsefulMd(value: unknown): boolean {
+    return asString(value).trim() !== "";
+  }
+
+  function parseTags(value: unknown): string[] {
+    if (Array.isArray(value)) {
+      return value.map(asString).map((tag) => tag.trim()).filter(Boolean);
+    }
+
+    return asString(value)
+      .split(",")
+      .map((tag) => tag.trim())
+      .filter(Boolean);
+  }
+
+  function escapeHtml(value: string): string {
+    return value
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#39;");
+  }
+
+  function removeDuplicateBodyH1(html: string, title: string): string {
+    const titleComparable = normalizeComparable(title);
+
+    const cleaned = html.replace(/<h1\b[^>]*>([\s\S]*?)<\/h1>/gi, (match, inner) => {
+      const headingComparable = normalizeComparable(inner);
+      const duplicatesTitle =
+        headingComparable !== "" &&
+        (titleComparable === headingComparable ||
+          titleComparable.includes(headingComparable) ||
+          headingComparable.includes(titleComparable));
+
+      return duplicatesTitle ? "" : match;
+    });
+
+    if (/<h1\b/i.test(cleaned)) {
+      failBuild(`body still contains an H1 after duplicate-title cleanup for "${title}"`);
+    }
+
+    return cleaned;
+  }
+
+  function normalizePost(post: Record<string, any>) {
+    const title = asString(post.title) || "Sin titulo";
+    const slug = asString(post.slug);
+    const contentHtml = asString(post.content_html);
+    const contentMd = asString(post.content_md);
+    const bodyHtml = hasUsefulHtml(contentHtml)
+      ? removeDuplicateBodyH1(contentHtml, title)
+      : `<pre class="markdown-fallback">${escapeHtml(contentMd)}</pre>`;
+
+    return {
+      id: asString(post.id),
+      slug,
+      title,
+      excerpt: asString(post.excerpt) || "Sin resumen disponible.",
+      coverUrl: asString(post.cover_url || post.coverUrl || post.image),
+      tags: parseTags(post.tags),
+      authorName: asString(post.author_name || post.author) || "Equipo Queesia",
+      authorAvatar: asString(post.author_avatar),
+      readMins: asString(post.read_time ?? post.read_minutes),
+      publishedAt: asString(post.published_at || post.date),
+      views: asString(post.views ?? "0"),
+      colabUrl: asString(post.colab_url),
+      bodyHtml,
+    };
+  }
+
+  async function fetchJson(url: string, context: string) {
+    let response: Response;
+
+    try {
+      response = await fetch(url);
+    } catch (error) {
+      failBuild(`${context} request failed: ${error instanceof Error ? error.message : String(error)}`);
+    }
+
+    if (!response.ok) {
+      failBuild(`${context} returned HTTP ${response.status}`);
+    }
+
+    try {
+      return await response.json();
+    } catch (error) {
+      failBuild(`${context} returned invalid JSON: ${error instanceof Error ? error.message : String(error)}`);
+    }
+  }
+
+  function validateSlug(slug: string, context: string) {
+    if (!slug) failBuild(`${context} has an empty slug`);
+    if (!SLUG_PATTERN.test(slug)) failBuild(`${context} has invalid slug "${slug}"`);
+  }
+
+  function isOwnCandidate(item: Record<string, any>): boolean {
+    return asString(item.post_origin) !== "externo";
+  }
+
+  const payload = await fetchJson(LIST_URL, "list.php");
+  const items = Array.isArray(payload?.data)
+    ? payload.data
+    : Array.isArray(payload?.items)
+      ? payload.items
+      : null;
+
+  if (!items) {
+    failBuild("list.php did not return a valid data/items array");
+  }
+
+  const seenSlugs = new Set<string>();
+  const ownCandidates: Record<string, any>[] = [];
+
+  for (const item of items) {
+    if (!isRecord(item)) {
+      failBuild("list.php returned a non-object item");
+    }
+
+    const slug = asString(item.slug);
+    validateSlug(slug, `list item ${asString(item.id) || "(without id)"}`);
+
+    if (seenSlugs.has(slug)) {
+      failBuild(`duplicate slug "${slug}" in list.php`);
+    }
+
+    seenSlugs.add(slug);
+
+    if (isOwnCandidate(item)) {
+      ownCandidates.push(item);
+    }
+  }
+
+  const paths = [];
+
+  for (const item of ownCandidates) {
+    const slug = asString(item.slug);
+    const detailPayload = await fetchJson(
+      `${POST_URL}?slug=${encodeURIComponent(slug)}`,
+      `post.php for slug "${slug}"`
+    );
+    const detail = isRecord(detailPayload?.post) ? detailPayload.post : null;
+
+    if (!detail) {
+      failBuild(`post.php for slug "${slug}" did not return a valid post object`);
+    }
+
+    if (asString(detail.slug) !== slug) {
+      failBuild(`post.php slug mismatch for "${slug}"`);
+    }
+
+    if (asString(detail.post_origin) === "externo") {
+      failBuild(`own candidate "${slug}" returned external detail`);
+    }
+
+    if (asString(detail.published) !== "1") {
+      failBuild(`own candidate "${slug}" is not published`);
+    }
+
+    const hasUsefulContent = hasUsefulHtml(detail.content_html) || hasUsefulMd(detail.content_md);
+
+    if (!hasUsefulContent) {
+      failBuild(`own candidate "${slug}" has no useful content`);
+    }
+
+    const post = normalizePost(detail);
+
+    paths.push({
+      params: { slug },
+      props: { post },
+    });
+  }
+
+  if (paths.length !== 3) {
+    failBuild(`expected exactly 3 static blog posts, got ${paths.length}`);
+  }
+
+  return paths;
+}
+
+const { post } = Astro.props;
+const formattedDate = formatDate(post.publishedAt);
+const canonical = `/blog/${post.slug}/`;
+---
+
+<BaseLayout
+  title={`${post.title} | Queesia`}
+  description={post.excerpt}
+  canonical={canonical}
+  robots="index, follow"
+  ogType="article"
+  ogImage={post.coverUrl}
+>
+  <div
+    class="blog-post-bg-global pointer-events-none fixed inset-0 -z-10"
+    aria-hidden="true"
+  >
+    <div class="blog-post-bg-mask-y">
+      <div class="blog-post-bg-mask-x">
+        <img src="/src/assets/bg_amorph.svg" class="blog-post-bg-image" alt="" />
+      </div>
+    </div>
+  </div>
+
+  <section class="blog-post-hero">
+    <div class="hero-blog-deco" aria-hidden="true">
+      <div class="hero-orb hero-orb-left"></div>
+      <div class="hero-orb hero-orb-right"></div>
+      <div class="hero-half hero-half-left"></div>
+      <div class="hero-half hero-half-right"></div>
+    </div>
+
+    <div class="container">
+      <a href="/blog" class="back-link">Volver al blog</a>
+      <div id="postHero">
+        <div class="post-hero-meta">
+          <span>Blog</span>
+          {formattedDate && <span>-</span>}
+          {formattedDate && <span>{formattedDate}</span>}
+          {post.readMins && <span>-</span>}
+          {post.readMins && <span>{post.readMins} min lectura</span>}
+        </div>
+
+        <h1>{post.title}</h1>
+
+        <p class="post-hero-excerpt">{post.excerpt}</p>
+
+        {post.tags.length > 0 && (
+          <div class="tags">
+            {post.tags.map((tag: string) => <span class="tag">{tag}</span>)}
+          </div>
+        )}
+      </div>
+    </div>
+  </section>
+
+  <section class="blog-post-body-section">
+    <div class="container">
+      <div class="blog-post-layout">
+        <article class="blog-post-content-card">
+          {post.coverUrl && (
+            <div class="post-cover-wrap">
+              <img src={post.coverUrl} alt={post.title} loading="eager" />
+            </div>
+          )}
+
+          <div class="blog-post-content" set:html={post.bodyHtml}></div>
+        </article>
+
+        <aside class="blog-post-sidebar">
+          <div class="sidebar-card">
+            <p class="sidebar-eyebrow">Articulo</p>
+
+            <div class="author-row">
+              {post.authorAvatar && (
+                <img src={post.authorAvatar} alt={post.authorName} />
+              )}
+              <div>
+                <strong>{post.authorName}</strong>
+                <span>{formattedDate || "Fecha no disponible"}</span>
+              </div>
+            </div>
+
+            <div class="meta-list">
+              {post.readMins && (
+                <div class="meta-item">
+                  <span>Tiempo de lectura</span>
+                  <strong>{post.readMins} min</strong>
+                </div>
+              )}
+              <div class="meta-item">
+                <span>Lecturas</span>
+                <strong>{post.views}</strong>
+              </div>
+            </div>
+          </div>
+
+          {post.colabUrl && (
+            <div class="sidebar-card" id="postColabCard">
+              <p class="sidebar-eyebrow">Recurso adicional</p>
+              <h3>Notebook o enlace relacionado</h3>
+              <p>Consulta el recurso complementario asociado a este articulo.</p>
+              <a
+                href={post.colabUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                class="btn-primary"
+              >
+                Abrir recurso
+              </a>
+            </div>
+          )}
+        </aside>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style is:global>
+  .blog-post-bg-global {
+    background: transparent;
+  }
+
+  .blog-post-bg-mask-y {
+    width: 100%;
+    height: 100%;
+    mask-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0),
+      #000 12%,
+      #000 88%,
+      rgba(0, 0, 0, 0)
+    );
+    -webkit-mask-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0),
+      #000 12%,
+      #000 88%,
+      rgba(0, 0, 0, 0)
+    );
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+  }
+
+  .blog-post-bg-mask-x {
+    width: 100%;
+    height: 100%;
+    mask-image: linear-gradient(
+      to right,
+      rgba(0, 0, 0, 0),
+      #000 10%,
+      #000 90%,
+      rgba(0, 0, 0, 0)
+    );
+    -webkit-mask-image: linear-gradient(
+      to right,
+      rgba(0, 0, 0, 0),
+      #000 10%,
+      #000 90%,
+      rgba(0, 0, 0, 0)
+    );
+    mask-repeat: no-repeat;
+    -webkit-mask-repeat: no-repeat;
+  }
+
+  .blog-post-bg-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.22;
+  }
+
+  .container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 1.25rem;
+  }
+
+  .blog-post-hero {
+    position: relative;
+    overflow: hidden;
+    padding: 5.35rem 0 2.35rem;
+    background: transparent;
+  }
+
+  .hero-blog-deco {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  .hero-orb {
+    position: absolute;
+    border-radius: 999px;
+    background: transparent;
+    backdrop-filter: blur(2px);
+    mix-blend-mode: soft-light;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+  }
+
+  .hero-orb-left {
+    top: -36px;
+    left: -64px;
+    width: 280px;
+    height: 280px;
+  }
+
+  .hero-orb-right {
+    bottom: -48px;
+    right: -70px;
+    width: 260px;
+    height: 260px;
+  }
+
+  .hero-half {
+    position: absolute;
+    border: 1px solid rgba(255, 255, 255, 0.28);
+    background: transparent;
+    mix-blend-mode: soft-light;
+  }
+
+  .hero-half-left {
+    top: 72px;
+    left: -88px;
+    width: 230px;
+    height: 230px;
+    border-radius: 999px 0 0 999px;
+  }
+
+  .hero-half-right {
+    bottom: 30px;
+    right: -88px;
+    width: 230px;
+    height: 230px;
+    border-radius: 999px 0 0 999px;
+  }
+
+  .blog-post-hero > .container {
+    position: relative;
+    z-index: 1;
+  }
+
+  .back-link {
+    display: inline-flex;
+    margin-bottom: 1rem;
+    color: #5b6ee1;
+    text-decoration: none;
+    font-weight: 700;
+    font-family: "Raleway", ui-sans-serif, system-ui, sans-serif;
+  }
+
+  .back-link:hover {
+    text-decoration: underline;
+  }
+
+  .post-hero-meta {
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+    font-size: 0.88rem;
+    color: #64748b;
+    font-weight: 700;
+    font-family: "Raleway", ui-sans-serif, system-ui, sans-serif;
+  }
+
+  #postHero h1 {
+    margin: 0.9rem 0 0.7rem;
+    font-size: clamp(2rem, 4vw, 3.3rem);
+    line-height: 1.1;
+    color: rgb(31, 41, 55);
+    max-width: 900px;
+    font-family: "Montserrat", sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    letter-spacing: -0.02em;
+    text-wrap: balance;
+  }
+
+  .post-hero-excerpt {
+    max-width: 820px;
+    margin: 0;
+    font-size: 1.04rem;
+    line-height: 1.72;
+    color: rgb(75, 85, 99);
+    font-family: "Raleway", ui-sans-serif, system-ui, sans-serif;
+  }
+
+  .blog-post-body-section {
+    padding: 0.25rem 0 4rem;
+    background: transparent;
+  }
+
+  .blog-post-layout {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) 330px;
+    gap: 1.5rem;
+    align-items: start;
+  }
+
+  .blog-post-content-card,
+  .sidebar-card {
+    background: rgba(255, 255, 255, 0.86);
+    backdrop-filter: blur(10px);
+    border: 1px solid #d9dff8;
+    border-radius: 24px;
+    box-shadow: 0 10px 30px rgba(15, 23, 42, 0.05);
+  }
+
+  .blog-post-content-card {
+    overflow: hidden;
+  }
+
+  .post-cover-wrap {
+    border-bottom: 1px solid rgba(217, 223, 248, 0.72);
+  }
+
+  .post-cover-wrap img {
+    width: 100%;
+    max-height: 460px;
+    object-fit: cover;
+    display: block;
+  }
+
+  .blog-post-content {
+    padding: 1.85rem 1.75rem 1.95rem;
+    color: #374151;
+    font-family: "Raleway", ui-sans-serif, system-ui, sans-serif;
+    line-height: 1.82;
+    font-size: 1.03rem;
+  }
+
+  .blog-post-content h1,
+  .blog-post-content h2,
+  .blog-post-content h3,
+  .blog-post-content h4 {
+    color: #111827;
+    font-family: "Montserrat", sans-serif;
+    line-height: 1.22;
+    margin-top: 1.6em;
+    margin-bottom: 0.65em;
+    font-weight: 500;
+    letter-spacing: -0.015em;
+  }
+
+  .blog-post-content h1 {
+    font-size: 1.95rem;
+  }
+
+  .blog-post-content h2 {
+    font-size: 1.62rem;
+  }
+
+  .blog-post-content h3 {
+    font-size: 1.32rem;
+  }
+
+  .blog-post-content h4 {
+    font-size: 1.08rem;
+  }
+
+  .blog-post-content p,
+  .blog-post-content ul,
+  .blog-post-content ol,
+  .blog-post-content blockquote,
+  .blog-post-content pre {
+    margin: 0 0 1.18rem;
+  }
+
+  .blog-post-content ul,
+  .blog-post-content ol {
+    padding-left: 1.35rem;
+  }
+
+  .blog-post-content img {
+    max-width: 100%;
+    border-radius: 16px;
+    display: block;
+    margin: 1rem 0;
+  }
+
+  .blog-post-content a {
+    color: #2f5bea;
+  }
+
+  .blog-post-content blockquote {
+    border-left: 4px solid #cfd8ff;
+    padding-left: 1rem;
+    color: #475569;
+  }
+
+  .blog-post-content pre {
+    background: #f8fafc;
+    border: 1px solid #e2e8f0;
+    border-radius: 16px;
+    padding: 1rem;
+    overflow: auto;
+  }
+
+  .markdown-fallback {
+    white-space: pre-wrap;
+    word-break: break-word;
+  }
+
+  .blog-post-sidebar {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    position: sticky;
+    top: 104px;
+  }
+
+  .sidebar-card {
+    padding: 1.3rem;
+  }
+
+  .sidebar-eyebrow {
+    margin: 0 0 0.7rem;
+    font-size: 0.82rem;
+    font-weight: 800;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: #5b6ee1;
+    font-family: "Raleway", ui-sans-serif, system-ui, sans-serif;
+  }
+
+  .sidebar-card h3 {
+    margin: 0 0 0.55rem;
+    color: #111827;
+    font-family: "Montserrat", sans-serif;
+    font-size: 1.08rem;
+    line-height: 1.28;
+    font-weight: 500;
+  }
+
+  #postColabCard {
+    background: linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.9) 0%,
+      rgba(245, 247, 255, 0.92) 100%
+    );
+  }
+
+  .sidebar-card p {
+    margin: 0 0 1rem;
+    color: #6b7280;
+    line-height: 1.65;
+    font-family: "Raleway", ui-sans-serif, system-ui, sans-serif;
+  }
+
+  .author-row {
+    display: flex;
+    gap: 0.8rem;
+    align-items: center;
+    margin-bottom: 1.05rem;
+  }
+
+  .author-row img {
+    width: 44px;
+    height: 44px;
+    border-radius: 999px;
+    object-fit: cover;
+  }
+
+  .author-row strong,
+  .meta-item strong {
+    display: block;
+    color: #111827;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+  }
+
+  .author-row span,
+  .meta-item span {
+    color: #64748b;
+    font-family: "Raleway", ui-sans-serif, sans-serif;
+    font-size: 0.94rem;
+  }
+
+  .meta-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.85rem;
+  }
+
+  .meta-item + .meta-item {
+    border-top: 1px solid rgba(217, 223, 248, 0.7);
+    padding-top: 0.85rem;
+  }
+
+  .meta-item {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    align-items: baseline;
+    padding-top: 0.15rem;
+  }
+
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    margin: 1.1rem 0 0;
+  }
+
+  .tag {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.42rem 0.8rem;
+    border-radius: 999px;
+    background: #eef1ff;
+    color: #4c5a78;
+    font-size: 0.84rem;
+    font-weight: 600;
+    font-family: "Raleway", ui-sans-serif, system-ui, sans-serif;
+  }
+
+  .btn-primary {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.85rem 1.2rem;
+    border-radius: 999px;
+    font-weight: 700;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    background: #2f5bea;
+    color: #ffffff;
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+    font-family: "Raleway", ui-sans-serif, system-ui, sans-serif;
+  }
+
+  .btn-primary:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 8px 20px rgba(47, 91, 234, 0.2);
+  }
+
+  @media (max-width: 1000px) {
+    .blog-post-layout {
+      grid-template-columns: 1fr;
+    }
+
+    .blog-post-sidebar {
+      position: static;
+    }
+  }
+
+  @media (max-width: 900px) {
+    .blog-post-hero {
+      padding: 6.25rem 0 1.6rem;
+    }
+
+    .blog-post-content {
+      padding: 1.35rem 1.2rem 1.5rem;
+    }
+  }
+
+  @media (max-width: 640px) {
+    #postHero h1 {
+      font-size: 2.1rem;
+      line-height: 1.08;
+    }
+
+    .post-hero-excerpt {
+      font-size: 1rem;
+      line-height: 1.7;
+    }
+
+    .post-hero-meta {
+      font-size: 0.84rem;
+    }
+
+    .tags {
+      gap: 0.5rem;
+    }
+
+    .tag {
+      font-size: 0.8rem;
+      padding: 0.38rem 0.72rem;
+    }
+  }
+</style>
