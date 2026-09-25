@@ -52,7 +52,10 @@ try {
 }
 ---
 <meta charset="UTF-8" />
-<BaseLayout title={`Top 5 en ${categoria}`}>
+<BaseLayout
+  title={`Top 5 en ${categoria}`}
+  robots="noindex, follow"
+>
   <h1 class="text-2xl font-bold mb-4">Top 5 de <span class="capitalize">{categoria}</span></h1>
   
   <a href={`/categorias/${categoria}`} class="inline-block bg-black text-white px-4 py-2 rounded hover:bg-gray-800 transition mb-6">

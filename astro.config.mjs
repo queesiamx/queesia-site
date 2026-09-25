@@ -16,8 +16,9 @@ const excludedSitemapPathnames = new Set([
 const shouldIncludeInSitemap = (page) => {
   const { pathname } = new URL(page);
   const normalizedPathname = pathname.endsWith("/") ? pathname : `${pathname}/`;
+  const isCategoryTopPath = /^\/categorias\/[^/]+\/top\/$/.test(normalizedPathname);
 
-  return !excludedSitemapPathnames.has(normalizedPathname);
+  return !excludedSitemapPathnames.has(normalizedPathname) && !isCategoryTopPath;
 };
 
 export default defineConfig({
