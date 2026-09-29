@@ -314,9 +314,17 @@ const DISCORD_URL = import.meta.env.PUBLIC_DISCORD_URL ?? "";
       return post?.postOrigin === "externo" && Boolean(getExternalDestination(post));
     }
 
+    const staticPostSlugs = new Set([
+      "ia-fiscalizacion-mexico-adopcion-institucional",
+      "radar-queesia-semanal-ia-energia-infraestructura-mexico",
+      "machine-learning-reologia-condensados-viscosidad"
+    ]);
+
     function getPostHref(post) {
       return isExternalPost(post)
         ? getExternalDestination(post)
+        : post?.postOrigin === "queesia" && staticPostSlugs.has(post.slug)
+        ? `/blog/${encodeURIComponent(post.slug)}/`
         : post?.slug
         ? `/blog/post?slug=${encodeURIComponent(post.slug)}`
         : "#";
