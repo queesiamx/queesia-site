@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import bgAmorphUrl from "../../assets/bg_amorph.svg?url";
 
 
 const TELEGRAM_URL =
@@ -20,7 +21,7 @@ const DISCORD_URL = import.meta.env.PUBLIC_DISCORD_URL ?? "";
     <div class="blog-bg-mask-y">
       <div class="blog-bg-mask-x">
         <img
-          src="/src/assets/bg_amorph.svg"
+          src={bgAmorphUrl}
           class="blog-bg-image"
           alt=""
         />

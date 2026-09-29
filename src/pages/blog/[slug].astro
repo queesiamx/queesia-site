@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import bgAmorphUrl from "../../assets/bg_amorph.svg?url";
 
 function formatDate(value: string): string {
   if (!value) return "";
@@ -292,7 +293,7 @@ const serializedJsonLd = JSON.stringify(jsonLd)
   >
     <div class="blog-post-bg-mask-y">
       <div class="blog-post-bg-mask-x">
-        <img src="/src/assets/bg_amorph.svg" class="blog-post-bg-image" alt="" />
+        <img src={bgAmorphUrl} class="blog-post-bg-image" alt="" />
       </div>
     </div>
   </div>

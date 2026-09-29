@@ -1,5 +1,6 @@
 ---
 import BaseLayout from "../../layouts/BaseLayout.astro";
+import bgAmorphUrl from "../../assets/bg_amorph.svg?url";
 ---
 
 <BaseLayout
@@ -14,7 +15,7 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
     <div class="blog-post-bg-mask-y">
       <div class="blog-post-bg-mask-x">
         <img
-          src="/src/assets/bg_amorph.svg"
+          src={bgAmorphUrl}
           class="blog-post-bg-image"
           alt=""
         />

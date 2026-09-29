@@ -157,7 +157,6 @@ html { scroll-padding-top: var(--header-h); } /* anclas no quedan ocultas */
 /* antes posiblemente tenía bg blanco */
 .bg-tech-circuits{
   /* background-color: #fff;   <-- quítalo */
-  background-image: url('/src/assets/circuits.svg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
