@@ -99,6 +99,14 @@ export async function getStaticPaths() {
   }
 
   function normalizePost(post: Record<string, any>) {
+    if (
+      !asString(post.title).trim() ||
+      !asString(post.excerpt).trim() ||
+      !asString(post.author_name || post.author).trim()
+    ) {
+      failBuild(`missing editorial metadata for "${asString(post.slug)}"`);
+    }
+
     const title = asString(post.title) || "Sin titulo";
     const slug = asString(post.slug);
     const contentHtml = asString(post.content_html);
@@ -236,6 +244,37 @@ export async function getStaticPaths() {
 const { post } = Astro.props;
 const formattedDate = formatDate(post.publishedAt);
 const canonical = `/blog/${post.slug}/`;
+const canonicalUrl = new URL(canonical, Astro.site ?? Astro.url.origin).toString();
+const publicationDate = new Date(`${post.publishedAt}T00:00:00Z`);
+
+if (
+  !/^\d{4}-\d{2}-\d{2}$/.test(post.publishedAt) ||
+  !Number.isFinite(publicationDate.getTime()) ||
+  publicationDate.toISOString().slice(0, 10) !== post.publishedAt
+) {
+  throw new Error(`[blog structured data] invalid publication date for "${post.slug}"`);
+}
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  headline: post.title,
+  description: post.excerpt,
+  author: { "@type": "Person", name: post.authorName },
+  datePublished: post.publishedAt,
+  mainEntityOfPage: { "@type": "WebPage", "@id": canonicalUrl },
+  publisher: {
+    "@type": "Organization",
+    name: "Queesia",
+    url: "https://queesia.com/",
+  },
+};
+const serializedJsonLd = JSON.stringify(jsonLd)
+  .replace(/</g, "\\u003c")
+  .replace(/>/g, "\\u003e")
+  .replace(/&/g, "\\u0026")
+  .replace(/\u2028/g, "\\u2028")
+  .replace(/\u2029/g, "\\u2029");
 ---
 
 <BaseLayout
@@ -246,6 +285,7 @@ const canonical = `/blog/${post.slug}/`;
   ogType="article"
   ogImage={post.coverUrl}
 >
+  <script is:inline type="application/ld+json" set:html={serializedJsonLd} />
   <div
     class="blog-post-bg-global pointer-events-none fixed inset-0 -z-10"
     aria-hidden="true"
