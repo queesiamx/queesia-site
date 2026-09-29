@@ -18,7 +18,7 @@ concurrency:
 jobs:
   deploy-production:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 60
 
     steps:
       - name: Validate production deployment gate
