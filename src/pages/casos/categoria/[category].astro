@@ -40,29 +40,37 @@ if (!category) {
 }
 
 const response = await fetch(`https://queesia.com/api/obtener_casos_por_categoria.php?category=${encodeURIComponent(category)}`);
+
+if (!response.ok) {
+  throw new Error(`La API de casos devolvió HTTP ${response.status} para "${category}".`);
+}
+
 const rawData = await response.json();
 
-const casos: Caso[] = Array.isArray(rawData.cases) ? rawData.cases : [];
+if (rawData?.success !== true || !Array.isArray(rawData.cases)) {
+  throw new Error(`La API de casos no devolvió una respuesta válida para "${category}".`);
+}
+
+const casos: Caso[] = rawData.cases;
+const visibleCases = casos.filter(
+  (caso) =>
+    !caso.title?.toLowerCase().includes("no hay quesos de éxito identificados") &&
+    caso.description !== "NA" &&
+    caso.url !== "NA"
+);
+const title = `Casos de IA: ${category} | Queesia`;
+const description = visibleCases.length > 0
+  ? `Consulta los casos de aplicación de inteligencia artificial de la categoría ${category} publicados en Queesia.`
+  : `Categoría ${category} de casos de aplicación de inteligencia artificial en Queesia. Actualmente no hay casos disponibles para mostrar.`;
 ---
 
-<BaseLayout>
+<BaseLayout title={title} description={description}>
   <div class="max-w-7xl mx-auto px-4 py-8">
     <h1 class="text-2xl font-bold mb-4 italic">Quesos de éxito: {category} 🧀</h1>
 
-    {casos.filter(
-      (caso) =>
-        !caso.title?.toLowerCase().includes("no hay quesos de éxito identificados") &&
-        caso.description !== "NA" &&
-        caso.url !== "NA"
-    ).length > 0 ? (
+    {visibleCases.length > 0 ? (
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-4 items-stretch">
-        {casos
-          .filter(
-            (caso) =>
-              !caso.title?.toLowerCase().includes("no hay quesos de éxito identificados") &&
-              caso.description !== "NA" &&
-              caso.url !== "NA"
-          )
+        {visibleCases
           .map((caso) => (
             <CaseCard caso={caso} />
           ))}
