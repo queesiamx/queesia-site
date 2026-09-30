@@ -1,4 +1,18 @@
 // src/components/CaseCard.jsx
+function isValidExternalUrl(value) {
+  if (typeof value !== "string") return false;
+
+  const url = value.trim();
+  if (!/^https?:\/\//i.test(url) || /[\s\\]/.test(url)) return false;
+
+  try {
+    const parsed = new URL(url);
+    return parsed.protocol === "http:" || parsed.protocol === "https:";
+  } catch {
+    return false;
+  }
+}
+
 export default function CaseCard({ caso, variant = "compact" }) {
   const logo =
     caso?.logo_filename
@@ -66,9 +80,9 @@ export default function CaseCard({ caso, variant = "compact" }) {
       </div>
 
       {/* Link al caso */}
-      {caso?.url && caso.url.toLowerCase() !== "na" && (
+      {isValidExternalUrl(caso?.url) && (
         <a
-          href={caso.url}
+          href={caso.url.trim()}
           target="_blank"
           className="mt-4 ml-auto text-sm text-blue-600 hover:underline"
         >

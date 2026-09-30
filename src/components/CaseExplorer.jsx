@@ -2,6 +2,20 @@ import { useEffect, useState } from "react";
 import { iconMap } from "../utils/categoryInfo.tsx";
 import * as Icons from "lucide-react";
 
+function isValidExternalUrl(value) {
+  if (typeof value !== "string") return false;
+
+  const url = value.trim();
+  if (!/^https?:\/\//i.test(url) || /[\s\\]/.test(url)) return false;
+
+  try {
+    const parsed = new URL(url);
+    return parsed.protocol === "http:" || parsed.protocol === "https:";
+  } catch {
+    return false;
+  }
+}
+
 /**
  * @param {{ categoryFilter?: string | null }} props
  */
@@ -189,9 +203,9 @@ export default function CaseExplorer({ categoryFilter = null }) {
                 {caso.description}
               </p>
 
-              {caso.url !== "NA" && (
+              {isValidExternalUrl(caso.url) && (
                 <a
-                  href={caso.url}
+                  href={caso.url.trim()}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-blue-600 underline text-sm"
@@ -267,9 +281,9 @@ export default function CaseExplorer({ categoryFilter = null }) {
                     {caso.description}
                   </p>
 
-                  {caso.url !== "NA" && (
+                  {isValidExternalUrl(caso.url) && (
                     <a
-                      href={caso.url}
+                      href={caso.url.trim()}
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-blue-600 underline text-sm"
