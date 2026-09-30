@@ -247,7 +247,7 @@
           "source_url": "https://aitoolsdirectory.com/tool/aitable"
         },
         {
-          "source_url": "ps://aitable.ai/"
+          "source_url": "https://aitable.ai/"
         },
         {
           "source_url": "https://aitable.ai/?via=aitools"
@@ -334,7 +334,7 @@
       "app": {
         "id": "352",
         "name": "AIGraphics",
-        "url": "No Disponible (https://aigraphics.io/)",
+        "url": "https://aigraphics.io/",
         "short_description": "Plataforma impulsada por inteligencia artificial que permite crear gráficos de alta calidad de manera rápida y sencilla.",
         "category": "Diseño gráfico",
         "main_functionality": "AIGraphics facilita la creación de diversos tipos de gráficos, como imágenes para redes sociales, miniaturas de YouTube, logotipos, fotografías e ilustraciones, utilizando algoritmos avanzados de inteligencia artificial para automatizar el proceso de diseño gráfico",
@@ -375,7 +375,7 @@
           "source_url": "https://creati.ai/ai-tools/aigraphics/"
         },
         {
-          "source_url": "defhttps://aplicaciones.ai/ai-graphics/"
+          "source_url": "https://aplicaciones.ai/ai-graphics/"
         },
         {
           "source_url": "https://yeswelab.com/blogs/aplicaciones-de-la-inteligencia-artificial/aigraphics"
