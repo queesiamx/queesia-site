@@ -323,16 +323,16 @@
         "id": "176",
         "name": "Latitude",
         "url": "https://latitude.so/",
-        "short_description": "Una plataforma de ingeniería de prompts de código abierto para crear, evaluar y perfeccionar tus prompts con IA.",
+        "short_description": "Plataforma de código abierto para observar, evaluar y mejorar aplicaciones y agentes de inteligencia artificial.",
         "category": "Automatización",
-        "main_functionality": "Desarrollo de sistemas de asistencia al conductor que permiten la conducción sin manos y sin necesidad de atención constante, con el objetivo de mejorar la seguridad y la experiencia del usuario en vehículos de próxima generación de Ford.",
+        "main_functionality": "Registrar y analizar ejecuciones, aplicar evaluaciones y localizar fallos en aplicaciones de IA.",
         "tags": "#ConducciónAutomatizada #AsistenciaAlConductor #InteligenciaArtificial #SeguridadVial #FordMotorCompany",
         "logo_filename": "id_176_latitude",
-        "what_is": "Latitude AI es una subsidiaria de Ford Motor Company enfocada en el desarrollo de sistemas avanzados de asistencia al conductor (ADAS). Utiliza tecnologías de inteligencia artificial para diseñar experiencias de conducción automatizadas que priorizan la seguridad y el confort del usuario.",
+        "what_is": "Latitude ofrece herramientas para analizar ejecuciones de sistemas de IA, evaluar sus resultados y detectar problemas de calidad.",
         "purpose": "Latitude AI está diseñada para ofrecer soluciones que permitan a los conductores disfrutar de una experiencia de conducción sin manos y sin necesidad de supervisión constante, mejorando la seguridad vial y reduciendo el estrés asociado con la conducción diaria.",
         "use_cases": "Conducción en Carreteras: Implementación de sistemas que permiten a los conductores liberar el control en tramos largos y monótonos de carretera.\nAsistencia en Tráfico Intenso: Automatización parcial en situaciones de tráfico denso para reducir la fatiga del conductor.\nSeguridad Activa: Detección de posibles riesgos y respuesta proactiva para evitar accidentes.\nConfort en la Conducción: Optimización de rutas y ajustes automáticos para garantizar una experiencia más relajada.\nPreparación para Autonomía Total: Desarrollos que sientan las bases para una conducción completamente autónoma en el futuro.",
         "main_advantages": "Seguridad Mejorada: Reducción de riesgos de accidentes al automatizar tareas críticas de conducción.\nReducción de Estrés: Elimina la necesidad de supervisión constante en situaciones específicas, como carreteras o tráfico intenso.\nInnovación Continua: Desarrollo de tecnologías avanzadas que posicionan a Ford como líder en conducción automatizada.\nAdaptabilidad: Compatible con los vehículos de próxima generación de Ford, ampliando las capacidades de sus sistemas actuales.\nAhorro de Tiempo: Automatización de tareas de conducción que permite a los usuarios centrarse en otras actividades durante trayectos prolongados.",
-        "long_description": "Latitude AI es una subsidiaria de Ford Motor Company, establecida en marzo de 2023, dedicada al desarrollo de tecnologías de conducción automatizada. Su misión es transformar la experiencia de conducción, haciéndola más segura, menos estresante y más placentera para todos. La empresa se centra en crear sistemas de asistencia al conductor que permitan una conducción sin manos y sin necesidad de atención constante, con el objetivo de mejorar la seguridad vial y ofrecer a los conductores más tiempo libre durante sus trayectos.",
+        "long_description": "Latitude permite a los equipos examinar el comportamiento de sus aplicaciones de IA mediante trazas, evaluaciones y análisis de conversaciones. Sus herramientas ayudan a identificar errores y comprobar el efecto de los cambios durante el desarrollo y la operación.",
         "release_date": "Marzo 2023",
         "developer": "Latitude AI es una subsidiaria de propiedad total de Ford Motor Company.",
         "main_model": "No disponible; la documentación pública no especifica el modelo o algoritmo de inteligencia artificial utilizado por Latitude AI.",
@@ -370,9 +370,6 @@
         },
         {
           "source_url": "https://latitude.so/pricing"
-        },
-        {
-          "source_url": "https://lat.ai/about"
         }
       ]
     },

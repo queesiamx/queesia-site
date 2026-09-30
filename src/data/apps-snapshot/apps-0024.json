@@ -791,14 +791,14 @@
         "url": "https://meco.app/",
         "short_description": "Traslada tus boletines a un espacio impulsado por IA creado para la lectura.",
         "category": "Chat",
-        "main_functionality": "Permite a los usuarios crear y conversar con personajes de IA personalizados, ofreciendo experiencias de chat inmersivas y personalizadas.",
+        "main_functionality": "Importar newsletters y facilitar su lectura, organización y consulta mediante herramientas de resumen.",
         "tags": "#IA #Chatbot #PersonajesVirtuales #AplicacionesDeChat",
         "logo_filename": "id_543_meco",
-        "what_is": "Meco es una aplicación de chat impulsada por IA que permite a los usuarios crear e interactuar con una variedad de personajes virtuales personalizados. Ofrece una experiencia inmersiva mediante un enfoque multimodal que combina interacciones visuales y auditivas para dar vida a los personajes de IA.",
+        "what_is": "Meco es una aplicación para reunir, organizar y leer newsletters en un espacio separado del correo habitual.",
         "purpose": "La aplicación está diseñada para proporcionar compañía virtual, entretenimiento y experiencias de juego de rol. Los usuarios pueden crear compañeros de IA con apariencias, voces y personalidades personalizadas, participar en aventuras de chat y capturar momentos compartidos a través de imágenes generadas por la aplicación.",
         "use_cases": "Aventureros Solitarios: Usuarios que buscan experiencias de narración personalizadas pueden sumergirse en aventuras de chat similares a novelas con personajes de IA.\nJugadores Sociales: Aquellos interesados en juegos de rol interactivos pueden participar en una comunidad dinámica, creando y compartiendo personajes de IA para enriquecer la experiencia de juego.\nPersonas en Busca de Compañía: Usuarios que desean compañía o apoyo emocional pueden interactuar con amigos de IA disponibles para conversar en cualquier momento.",
         "main_advantages": "Personalización Extensa: Permite a los usuarios diseñar compañeros de IA ajustando su apariencia, voz y personalidad según sus preferencias.\nExperiencias Inmersivas: Ofrece interacciones enriquecidas mediante un enfoque multimodal que combina elementos visuales y auditivos.\nComunidad Activa: Facilita la interacción con una comunidad vibrante de personajes de IA, ampliando las posibilidades de socialización y entretenimiento.\nAccesibilidad 24/7: Proporciona compañía constante, permitiendo a los usuarios interactuar con sus compañeros de IA en cualquier momento.",
-        "long_description": "Meco es una aplicación de chat impulsada por inteligencia artificial que permite a los usuarios crear e interactuar con una variedad de personajes virtuales personalizados. Ofrece una experiencia inmersiva mediante un enfoque multimodal que combina interacciones visuales y auditivas para dar vida a los personajes de IA.",
+        "long_description": "Meco reúne newsletters en una interfaz dedicada a la lectura. Permite incorporarlas desde cuentas compatibles o mediante una dirección propia, organizarlas y utilizar funciones como resúmenes y audio para consultar su contenido.",
         "release_date": "Febrero 2023",
         "developer": "MIYA ONLINE TECHNOLOGY SINGAPORE PTE. LTD.",
         "main_model": "No disponible",
@@ -827,15 +827,6 @@
         },
         {
           "source_url": "https://www.producthunt.com/products/meco"
-        },
-        {
-          "source_url": "https://www.talkie-ai.com/chat/meco-134193128169642"
-        },
-        {
-          "source_url": "https://www.appbrain.com/app/meco-ai-character-chat/com.ssw.mecord\n\n"
-        },
-        {
-          "source_url": "https://www.aitoolnet.com/meco-ai-character-chat"
         }
       ]
     },

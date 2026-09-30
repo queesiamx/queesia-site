@@ -643,16 +643,16 @@
         "id": "510",
         "name": "HabitSense",
         "url": "https://habitsense.ai/landing",
-        "short_description": "Rastree, analice y mejore sus hábitos diarios con información impulsada por IA y hermosas visualizaciones.",
+        "short_description": "Aplicación para registrar hábitos individuales y grupales y analizar su evolución.",
         "category": "Productividad",
-        "main_functionality": "Monitoreo y análisis de hábitos diarios utilizando sensores multimodales y algoritmos de IA para proporcionar recomendaciones personalizadas que promuevan un estilo de vida más saludable.",
+        "main_functionality": "Registrar hábitos y mostrar patrones, evolución y relaciones entre ellos.",
         "tags": "#SaludDigital #IA #Wearable #mHealth",
         "logo_filename": "id_510_habit_sense",
-        "what_is": "HabitSense es una plataforma portátil impulsada por inteligencia artificial que combina sensores RGB, térmicos y acelerómetros para detectar en tiempo real comportamientos de riesgo para la salud, como comer en exceso y fumar. Diseñada para preservar la privacidad del usuario, HabitSense proporciona una solución innovadora para aplicaciones de salud móvil (mHealth).",
+        "what_is": "HabitSense es una aplicación de seguimiento de hábitos que reúne registros, visualizaciones y recomendaciones basadas en la actividad del usuario.",
         "purpose": "Su propósito principal es monitorear y analizar hábitos diarios que pueden afectar negativamente la salud, proporcionando información y recomendaciones personalizadas para promover comportamientos más saludables. Además, HabitSense puede ser utilizada en investigaciones clínicas para desarrollar y probar intervenciones adaptativas en tratamientos de salud.",
         "use_cases": "Monitoreo de Comportamientos de Riesgo: Detecta automáticamente acciones como fumar o comer en exceso, permitiendo a los usuarios tomar conciencia de sus hábitos y adoptar medidas correctivas. \n\nInvestigación Clínica: Proporciona datos objetivos para estudios sobre comportamientos de salud, facilitando el desarrollo de intervenciones personalizadas. \n\nMejora de Hábitos de Salud: Ofrece recomendaciones basadas en datos para ayudar a los usuarios a adoptar estilos de vida más saludables. \n",
         "main_advantages": "Preservación de la Privacidad: Utiliza algoritmos que activan la grabación solo durante comportamientos de riesgo detectados, reduciendo la captura de datos innecesarios y protegiendo la privacidad del usuario. \n\nEficiencia Energética: Implementa estrategias de activación que optimizan el consumo de energía, permitiendo un uso prolongado del dispositivo. \n\nDiseño Modular y Expandible: Su arquitectura modular facilita la reparación, actualización de sensores y adaptación a diversas aplicaciones de monitoreo de salud. \n\nDetección Precisa en Tiempo Real: Emplea modelos de inteligencia artificial avanzados que logran una alta precisión en la detección de gestos relacionados con comportamientos de riesgo para la salud. ",
-        "long_description": "HabitSense es una plataforma portátil impulsada por inteligencia artificial diseñada para monitorear y analizar hábitos diarios que pueden afectar la salud, como comer en exceso y fumar. Utiliza una combinación de sensores RGB, térmicos y acelerómetros para detectar en tiempo real estos comportamientos, proporcionando a los usuarios información y recomendaciones personalizadas para promover estilos de vida más saludables.",
+        "long_description": "HabitSense permite llevar un seguimiento de hábitos personales o compartidos y consultar visualizaciones de su evolución. Su oferta incluye análisis y recomendaciones para ayudar al usuario a revisar sus rutinas.",
         "release_date": "Enero 2025",
         "developer": "No disponible",
         "main_model": "HabitSense emplea el algoritmo S.E.C.U.R.E. (Sensor-Enabled Control for Ubiquitous Recording and Evaluation) para activar la grabación solo durante comportamientos de riesgo detectados, y utiliza modelos de inteligencia artificial avanzados que logran una alta precisión en la detección de gestos relacionados con comportamientos de riesgo para la salud.",
@@ -684,9 +684,6 @@
         },
         {
           "source_url": "https://www.producthunt.com/products/habitsense"
-        },
-        {
-          "source_url": "https://www.researchgate.net/publication/383884199_HabitSense_A_Privacy-Aware_AI-Enhanced_Multimodal_Wearable_Platform_for_mHealth_Applications"
         },
         {
           "source_url": "https://www.habitsense.co.uk/"

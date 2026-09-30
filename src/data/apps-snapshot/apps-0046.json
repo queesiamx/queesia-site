@@ -119,16 +119,16 @@
         "id": "246",
         "name": "Zencoder",
         "url": "https://zencoder.ai/",
-        "short_description": "Un agente que permite a los desarrolladores enviar productos más rápido mediante una comprensión profunda de su base de código y la automatización de tareas de varios pasos.",
+        "short_description": "Agente de IA para trabajar con bases de código y automatizar tareas de desarrollo de software.",
         "category": "Automatización",
-        "main_functionality": "Conversión y optimización de archivos de video para su distribución en diferentes dispositivos y plataformas mediante una API escalable y eficiente.",
+        "main_functionality": "Analizar el código del proyecto y ejecutar tareas de programación, pruebas y revisión.",
         "tags": "#TranscodificaciónDeVideo #API #ProcesamientoDeVideo #VideoEnLaNube",
         "logo_filename": "id_246_zencoder",
-        "what_is": "Zencoder es una plataforma de transcodificación de video en la nube que permite convertir archivos de video en diversos formatos, asegurando que puedan reproducirse en múltiples dispositivos y plataformas. Esta solución está diseñada para facilitar la distribución de contenido multimedia a través de una API potente y fácil de integrar.",
+        "what_is": "Zencoder ofrece agentes de programación que utilizan el contexto del proyecto para ayudar a implementar, revisar y probar cambios.",
         "purpose": "El propósito principal de Zencoder es optimizar y convertir archivos de video para garantizar su compatibilidad con diferentes formatos, dispositivos y redes. Es una herramienta ideal para empresas y desarrolladores que necesitan entregar contenido multimedia de alta calidad a su audiencia de manera eficiente.",
         "use_cases": "Servicios de transmisión de video: Plataformas de streaming que requieren codificar contenido multimedia para diferentes calidades y dispositivos.\nDistribución de contenido en redes sociales: Creadores de contenido que optimizan videos para su publicación en plataformas como YouTube o Instagram.\nAplicaciones móviles y sitios web: Empresas que desean garantizar que sus videos sean compatibles con reproductores integrados en diferentes sistemas operativos.\nEducación y formación en línea: Plataformas eLearning que requieren formatos compatibles para cursos en video.",
         "main_advantages": "Escalabilidad: Capacidad para manejar grandes volúmenes de procesamiento de video de forma rápida y eficiente.\nAutomatización: API que permite una integración sencilla y automatización del flujo de trabajo de transcodificación.\nCalidad optimizada: Ofrece configuraciones avanzadas para garantizar una alta calidad en la salida del video.\nCompatibilidad: Transcodifica videos para cumplir con los requisitos de reproducción en múltiples dispositivos, incluyendo móviles, tablets y computadoras.\nSoporte técnico: Documentación detallada y soporte confiable para resolver dudas o problemas durante la implementación.",
-        "long_description": "Zencoder es una plataforma de transcodificación de video en la nube que permite a los usuarios convertir archivos de video a diversos formatos, garantizando su compatibilidad con múltiples dispositivos y plataformas. Ofrece una API robusta que facilita la integración y automatización de procesos de codificación, asegurando rapidez y confiabilidad en la entrega de contenido multimedia.",
+        "long_description": "Zencoder proporciona agentes para asistir a los equipos durante el desarrollo de software. Trabaja con el contexto de los repositorios y ofrece herramientas para implementar cambios, generar pruebas y revisar código desde entornos de desarrollo y otros flujos compatibles.",
         "release_date": "Noviembre 2024",
         "developer": "Brightcove Inc.",
         "main_model": "No disponible",
@@ -160,9 +160,6 @@
         },
         {
           "source_url": "https://aipure.ai/es/products/zencoder"
-        },
-        {
-          "source_url": "https://www.brightcove.com/es/products/zencoder/"
         },
         {
           "source_url": "https://zencoder.ai/privacy-policy"

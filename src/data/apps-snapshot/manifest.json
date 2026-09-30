@@ -51,7 +51,7 @@
     {
       "file": "apps-0008.json",
       "count": 50,
-      "sha256": "19a7a70d54b6968040e083aee2731fb37ea02216cba2130f09732c3416fed469"
+      "sha256": "ca2f96bc83b8c7f0c8e7eb516bb5b95da640062e7926d98de820dc5d7f61c552"
     },
     {
       "file": "apps-0009.json",
@@ -96,7 +96,7 @@
     {
       "file": "apps-0017.json",
       "count": 50,
-      "sha256": "bb32ed230d7429303db5e68abab3ca0dafaca5fd115af287298d3baf20517f7f"
+      "sha256": "197ff4aeb70afdb2eea3759fcfc638718e94f703c6a9d64602806b9547ec1716"
     },
     {
       "file": "apps-0018.json",
@@ -121,7 +121,7 @@
     {
       "file": "apps-0022.json",
       "count": 50,
-      "sha256": "d578dbfb2fc7a4dd5a8c22fd0fff50bd348c3b8f2552b3bb475c1719550c09cd"
+      "sha256": "638987e18bed362d710435ec4bcfc145fecfdcc3e76344de22ddc299a6a950d2"
     },
     {
       "file": "apps-0023.json",
@@ -131,7 +131,7 @@
     {
       "file": "apps-0024.json",
       "count": 50,
-      "sha256": "1c82a5e04e3ee3ab37050c918ea9dbd858c6f1193a872890d564505b36311528"
+      "sha256": "9fd5ceb97a9e7670021be313063ae472b638b5f6bb2cb6a4ee3047b8d02589dc"
     },
     {
       "file": "apps-0025.json",
@@ -241,7 +241,7 @@
     {
       "file": "apps-0046.json",
       "count": 37,
-      "sha256": "4b3f3a2c8260cabda5bd5d07989e5665660047e4d83ef711fb23d160671d26e9"
+      "sha256": "45f06ff0d49e330c35e09cfec84b00fb934556f7ecf273b92c26ef35a9cdad35"
     }
   ]
 }

@@ -514,17 +514,17 @@
       "app": {
         "id": "161",
         "name": "Cody",
-        "url": "https://meetcody.ai/",
+        "url": "https://meetcody.ai/",
         "short_description": "Un asistente de IA que puedes entrenar en tu negocio, equipo, procesos y clientes con tu propia base de conocimientos.",
         "category": "Codificación",
-        "main_functionality": "Proporcionar soporte avanzado a desarrolladores mediante búsquedas en bases de código, generación de código y documentación automatizada.",
+        "main_functionality": "Consultar una base de conocimiento empresarial y generar respuestas contextualizadas.",
         "tags": "AsistenteDeCodificación #DesarrolloDeSoftware #InteligenciaArtificial #ProductividadEnProgramación",
         "logo_filename": "id_161_cody",
-        "what_is": "Cody es un asistente de inteligencia artificial diseñado para desarrolladores, enfocado en ofrecer asistencia durante la codificación y en la comprensión de bases de código complejas. Funciona como una herramienta integral para buscar información en bases de código, generar fragmentos de código y explicar funciones o estructuras de manera sencilla.",
+        "what_is": "Cody, de MeetCody, es un asistente de IA que utiliza documentos y conocimiento de una organización para responder consultas de equipos y clientes.",
         "purpose": "Su principal propósito es aumentar la productividad y eficiencia de los desarrolladores, ayudándoles a comprender bases de código existentes, solucionar problemas de programación y generar código de manera rápida y precisa.",
         "use_cases": "Revisión de Código: Análisis automatizado de bases de código extensas para detectar errores o áreas de mejora.\nDocumentación: Generación de comentarios y documentación técnica sobre funciones o módulos.\nAprendizaje: Asistencia para programadores nuevos que necesitan entender lenguajes de programación o bases de código complejas.\nDesarrollo Rápido: Prototipado rápido de funciones o soluciones específicas.\nBúsquedas en Código: Localización eficiente de referencias o ejemplos dentro de grandes repositorios.\n",
         "main_advantages": "Compatibilidad con Múltiples Lenguajes: Funciona con una amplia variedad de lenguajes de programación.\nEficiencia en Proyectos Complejos: Ayuda a comprender y trabajar con bases de código grandes.\nReducción de Errores: Proporciona análisis y sugerencias que mejoran la calidad del código.\nFacilidad de Uso: Integración fluida en entornos de desarrollo (IDEs) y plataformas populares.\nColaboración: Permite compartir resultados y conocimientos entre equipos técnicos.\n",
-        "long_description": "Cody es un asistente de inteligencia artificial diseñado para desarrolladores y equipos técnicos, que se especializa en optimizar tareas relacionadas con la programación. Proporciona capacidades avanzadas como búsqueda y comprensión de bases de código, generación de fragmentos de código personalizados y documentación técnica automatizada. Además, Cody permite localizar referencias, analizar estructuras complejas y optimizar procesos de desarrollo, todo dentro de un entorno accesible e intuitivo.",
+        "long_description": "MeetCody permite organizar información empresarial y utilizarla como contexto para asistentes de IA. Puede emplearse para resolver consultas internas y ofrecer respuestas a clientes basadas en el contenido proporcionado por la organización.",
         "release_date": "No disponible.",
         "developer": "Sourcegraph",
         "main_model": "No disponible.",
@@ -552,13 +552,7 @@
           "source_url": "https://meetcody.ai/?utm_source=superhuman&utm_medium=referral&utm_campaign=apple-rolls-out-chatgpt-integration"
         },
         {
-          "source_url": "https://sourcegraph.com/demo/cody\n"
-        },
-        {
           "source_url": "https://meetcody.ai/use-cases/"
-        },
-        {
-          "source_url": "https://www.producthunt.com/products/codedesign"
         },
         {
           "source_url": "https://meetcody.ai/privacy-policy/"
