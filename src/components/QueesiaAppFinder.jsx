@@ -96,7 +96,7 @@ const MOCK_RESULTS_BY_AREA = {
       afinidad: "Alta",
       razon:
         "Es una alternativa útil si buscas reutilizar contenido largo y convertirlo en piezas breves para TikTok, Reels o Shorts.",
-      url: "/catalogo",
+      url: "/#catalogo",
     },
     {
       appId: "mock-video-3",
@@ -105,7 +105,7 @@ const MOCK_RESULTS_BY_AREA = {
       afinidad: "Media",
       razon:
         "Puede servir como complemento si tu prioridad es generar subtítulos, cortes rápidos o edición asistida.",
-      url: "/catalogo",
+      url: "/#catalogo",
     },
   ],
   Imagen: [
@@ -116,7 +116,7 @@ const MOCK_RESULTS_BY_AREA = {
       afinidad: "Alta",
       razon:
         "Encaja si necesitas crear imágenes, piezas visuales o diseños rápidos para publicaciones digitales.",
-      url: "/catalogo",
+      url: "/#catalogo",
     },
     {
       appId: "mock-image-2",
@@ -125,7 +125,7 @@ const MOCK_RESULTS_BY_AREA = {
       afinidad: "Alta",
       razon:
         "Puede ayudarte a producir contenido visual con menos trabajo manual, especialmente para marketing o redes sociales.",
-      url: "/catalogo",
+      url: "/#catalogo",
     },
     {
       appId: "mock-image-3",
@@ -134,7 +134,7 @@ const MOCK_RESULTS_BY_AREA = {
       afinidad: "Media",
       razon:
         "Funciona como apoyo para ajustar imágenes, generar variaciones o crear recursos visuales de forma rápida.",
-      url: "/catalogo",
+      url: "/#catalogo",
     },
   ],
   Productividad: [
@@ -145,7 +145,7 @@ const MOCK_RESULTS_BY_AREA = {
       afinidad: "Alta",
       razon:
         "Puede ayudarte a resumir documentos, extraer puntos clave y convertir textos largos en información accionable.",
-      url: "/catalogo",
+      url: "/#catalogo",
     },
     {
       appId: "mock-docs-2",
@@ -154,7 +154,7 @@ const MOCK_RESULTS_BY_AREA = {
       afinidad: "Alta",
       razon:
         "Es útil si trabajas con PDFs, reportes o textos extensos y necesitas entenderlos más rápido.",
-      url: "/catalogo",
+      url: "/#catalogo",
     },
     {
       appId: "mock-docs-3",
@@ -163,7 +163,7 @@ const MOCK_RESULTS_BY_AREA = {
       afinidad: "Media",
       razon:
         "Puede funcionar como alternativa para resumir, clasificar o extraer ideas principales de contenido escrito.",
-      url: "/catalogo",
+      url: "/#catalogo",
     },
   ],
   General: [
@@ -192,7 +192,7 @@ const MOCK_RESULTS_BY_AREA = {
       afinidad: "Media",
       razon:
         "Puede funcionar como alternativa general para tareas asistidas con inteligencia artificial.",
-      url: "/catalogo",
+      url: "/#catalogo",
     },
   ],
 };

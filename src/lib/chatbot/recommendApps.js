@@ -1731,7 +1731,7 @@ function normalizeCatalogResults(apps, payload) {
       categoria,
       afinidad: getAffinity(app, payload, index),
       razon: buildReason(description, categoria),
-      url: appId ? `/app/${appId}/` : "/catalogo",
+      url: appId ? `/app/${appId}/` : "/#catalogo",
       logoFilename: app.logo_filename || null,
       raw: app,
     };
