@@ -1413,21 +1413,21 @@
         "url": "https://www.get-prism.com/",
         "short_description": "Compare la productividad de los desarrolladores de su empresa con la de sus pares de la industria para mejorar el rendimiento y la eficiencia.",
         "category": "Inteligencia de negocios",
-        "main_functionality": "Extrae datos de documentos, genera recomendaciones operacionales (facturas, contratos, mantenimiento, cumplimiento), responde preguntas en lenguaje natural, optimiza energía y flujos operativos de propiedades con IA especializada.",
-        "tags": "#CREOperations #DocumentAI #BuildingOps #AIPropertyManagement #PrismAI",
+        "main_functionality": "Medir y comparar indicadores del proceso de desarrollo de software.",
+        "tags": "#ProductividadDeDesarrollo #MétricasDeIngeniería #Analítica #Benchmarking",
         "logo_filename": "id_1080_prismai",
-        "what_is": "Es una plataforma IA específica para bienes raíces comerciales (CRE), que agiliza la gestión operativa mediante extracción de información de documentos, consultas en lenguaje natural y generación de recomendaciones estratégicas para propiedades.",
-        "purpose": "Para ayudar a equipos de propiedad, administración y técnicos a manejar datos operativos del edificio de manera eficiente y estratégica. Automatiza tareas tediosas como procesamiento de facturas, detección de incumplimientos, previsiones de mantenimiento, y extracción de información crítica de contratos o certificaciones.",
-        "use_cases": "Automatización de facturación: sube una factura y Prism extrae automáticamente los datos clave. \n\nRecomendaciones sostenibles: analiza facturas de energía para sugerir mejoras de eficiencia. \n\nCumplimiento de seguros: extrae detalles clave de certificados de COI para mantener los requisitos al día. \n\nCumplimiento legal y alertas de mantenimiento: conecta datos de contratos con registros operativos y envía alertas de fechas críticas. \n\nReparaciones: convierte manuales complejos en guías paso a paso.",
-        "main_advantages": "Ahorro de tiempo significativo (horas de búsqueda manual se reducen a minutos)\n\nRecomendaciones accionables desde el primer uso (ROI inmediato) \n\nSeguridad robusta, con certificaciones SOC 2 Type II y cumplimiento GDPR/CCPA; aislamiento de datos y acceso basado en roles.",
-        "long_description": "Prism AI es parte de la plataforma Prism by Building Engines, una solución integral para la gestión de operaciones de edificios comerciales. Combina módulos operativos —como órdenes de trabajo, mantenimiento preventivo, inspecciones, gestión de contratos, comunicaciones con ocupantes, HVAC, energía y planes de piso— con inteligencia artificial especializada para proporcionar insights, recomendaciones, procesamiento de documentos y automatización operativa. ",
+        "what_is": "Prism es una herramienta de métricas de productividad para equipos de ingeniería de software.",
+        "purpose": "Ayudar a equipos de ingeniería a identificar oportunidades de mejora en sus procesos.",
+        "use_cases": "Revisar tiempos de entrega y revisión de código; comparar métricas del equipo con referencias sectoriales.",
+        "main_advantages": "Centralización de métricas de ingeniería y comparación con referencias del sector.",
+        "long_description": "Permite revisar métricas del trabajo de desarrollo, como tiempo de ciclo, pull requests por ingeniero y velocidad de revisión, y comparar el rendimiento con referencias del sector.",
         "release_date": "No disponible",
-        "developer": "Building Engines — empresa enfocada en soluciones tecnológicas para administración de activos inmobiliarios comerciales. ",
+        "developer": "",
         "main_model": "No disponible",
         "pricing_plans": "No disponible",
         "license": "Propietaria.",
-        "security_privacy": "Cuenta con certificación SOC 2 tipo II, cumple con GDPR y CCPA, mantiene segregación de datos y control de acceso por roles.",
-        "integration": "Ofrece infraestructura API-First que facilita la integración con sistemas existentes, aunque no se detallan tecnologías específicas."
+        "security_privacy": "",
+        "integration": ""
       },
       "news": [
         {
@@ -1443,14 +1443,7 @@
           "url": "NA"
         }
       ],
-      "sources": [
-        {
-          "source_url": "https://buildingengines-prism.zendesk.com/hc/en-us/articles/4410664595995-Communications-User-Guide"
-        },
-        {
-          "source_url": "https://oem.flir.com/prism-family/"
-        }
-      ]
+      "sources": []
     },
     "1093": {
       "app": {
