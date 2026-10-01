@@ -837,23 +837,23 @@
       "app": {
         "id": "521",
         "name": "HighLightFactCheck",
-        "url": "No Disponible (https://aigraphics.io/)",
+        "url": "",
         "short_description": "escriba o pegue una frase para comprobar si es verdadera, parcialmente verdadera o falsa con una extensión de navegador con tecnología de IA.",
         "category": "Redacción",
         "main_functionality": "Analiza y verifica la precisión de contenido en línea, proporcionando calificaciones claras, evaluaciones de severidad y explicaciones detalladas para cada afirmación, ayudando a combatir la desinformación.",
-        "tags": "#VerificaciónDeHechos #IA #ExtensiónDeNavegador #API #Multilingüe",
+        "tags": "#VerificaciónDeHechos #AnálisisDeAfirmaciones #IA #ExtensiónDeNavegador",
         "logo_filename": "id_521_highlight_factcheck",
-        "what_is": "HighlightFactCheck es una herramienta avanzada de verificación de hechos que utiliza algoritmos impulsados por inteligencia artificial para analizar y verificar información en línea. Ofrece verificaciones instantáneas a través de un sitio web, una extensión de Chrome y una API, soportando más de 90 idiomas.",
+        "what_is": "HighlightFactCheck fue una herramienta de análisis de afirmaciones que utilizaba IA y consultas a fuentes para ofrecer evaluaciones y explicaciones.",
         "purpose": "Su propósito principal es ayudar a los usuarios a verificar la precisión del contenido en línea de manera rápida y sencilla, empoderándolos para distinguir entre información verdadera y falsa de manera eficiente.",
-        "use_cases": "Periodismo y verificación de noticias: Los periodistas pueden usar HighlightFactCheck para verificar rápidamente la información en sus artículos, asegurando la precisión antes de la publicación. \n\nModeración de contenido en redes sociales: Las plataformas de redes sociales pueden integrar la API para verificar automáticamente los hechos del contenido generado por los usuarios, ayudando a combatir la difusión de desinformación. \n\nInvestigación académica: Los investigadores pueden utilizar la herramienta para validar datos y referencias en sus trabajos, garantizando la credibilidad de sus publicaciones.\nEducación: Estudiantes y educadores pueden emplear HighlightFactCheck para evaluar la veracidad de las fuentes utilizadas en tareas y materiales didácticos.",
-        "main_advantages": "Accesibilidad multiplataforma: Disponible como un sitio web, extensión de Chrome y API, permitiendo a los usuarios verificar hechos en diversas plataformas e integrar capacidades de verificación de hechos en sus propias aplicaciones. \n\nAnálisis y explicaciones completas: Proporciona verificaciones de hechos exhaustivas con calificaciones claras, evaluaciones de gravedad y explicaciones detalladas de 200-300 palabras para cada declaración. \n\nAprendizaje y mejora continua: Almacena verificaciones de hechos en una base de datos, permitiendo que el sistema aprenda y mejore con el tiempo, resultando en resultados más rápidos y precisos para afirmaciones verificadas frecuentemente. \n\nSugerencias de reescritura: Ofrece sugerencias para mejorar la precisión de las declaraciones, ayudando activamente a los usuarios a mejorar la calidad de su contenido. \n\nSoporte multilingüe: Soporta más de 90 idiomas, haciéndolo útil para la verificación de hechos a nivel global.",
-        "long_description": "HighlightFactCheck es una herramienta avanzada de verificación de hechos impulsada por inteligencia artificial que permite a los usuarios verificar la veracidad de la información en línea de manera instantánea. Disponible a través de un sitio web, una extensión de Chrome y una API, soporta más de 90 idiomas, facilitando la detección de desinformación en diversos contextos y plataformas.",
+        "use_cases": "Revisión preliminar de afirmaciones en textos periodísticos, educativos y publicaciones en línea.",
+        "main_advantages": "Presentación de evaluaciones, explicaciones y fuentes para revisar afirmaciones.",
+        "long_description": "El proyecto ofrecía análisis de afirmaciones, evaluaciones de veracidad, explicaciones y sugerencias de reformulación. Se presentó mediante web, extensión de Chrome y API.",
         "release_date": "No disponible",
         "developer": "No disponible",
         "main_model": "No disponible",
         "pricing_plans": "HighlightFactCheck ofrece un plan gratuito con verificaciones ilimitadas por día. Además, dispone de un plan premium denominado \"FactCheckPro\" con un costo de $7.99 al mes, que permite hasta 5 verificaciones por minuto y 150 verificaciones por día, junto con características avanzadas como análisis detallados, explicaciones completas y sugerencias de reescritura.",
         "license": "No disponible",
-        "security_privacy": "HighlightFactCheck garantiza la protección de los datos de los usuarios mediante integraciones seguras, como la autenticación con Auth0, asegurando que la información personal y las actividades de verificación se mantengan confidenciales y protegidas contra accesos no autorizados.",
+        "security_privacy": "El repositorio documenta autenticación mediante Auth0; esto no acredita por sí solo la confidencialidad integral del servicio.",
         "integration": "HighlightFactCheck se integra a través de una extensión de Chrome que permite verificar información directamente en cualquier sitio web. Además, ofrece una API que facilita la incorporación de sus capacidades de verificación de hechos en aplicaciones y plataformas de terceros, ampliando su utilidad en diversos entornos digitales."
       },
       "news": [
@@ -871,9 +871,6 @@
         }
       ],
       "sources": [
-        {
-          "source_url": "https://highlightfactcheck.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=why-everyone-wants-a-piece-of-openai"
-        },
         {
           "source_url": "https://www.producthunt.com/products/highlightfactcheck"
         },

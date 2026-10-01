@@ -1071,22 +1071,22 @@
         "name": "Basejump",
         "url": "https://basejump.ai/",
         "short_description": "permite a los equipos acceder a los datos utilizando el idioma que hablan todos los días.",
-        "category": "Plataformas sin código",
+        "category": "Inteligencia de negocios",
         "main_functionality": "Proporciona una interfaz conversacional que permite a los usuarios consultar y analizar datos directamente desde sus bases de datos utilizando lenguaje natural, eliminando la necesidad de conocimientos técnicos en SQL.",
         "tags": "#AnálisisDeDatos #InteligenciaArtificial #Chatbot #BasesDeDatos",
         "logo_filename": "id_666_basejump",
         "what_is": "Basejump es una plataforma de análisis de datos basada en inteligencia artificial que permite a los usuarios interactuar con sus bases de datos mediante lenguaje natural. Su objetivo es hacer que la consulta y el análisis de datos sean accesibles para cualquier persona, sin necesidad de conocimientos avanzados en SQL u otras herramientas de análisis.",
-        "purpose": "Basejump está diseñado para simplificar el acceso y análisis de datos al permitir consultas conversacionales. Esto facilita a las empresas obtener información en tiempo real sin depender de analistas de datos o equipos técnicos.",
+        "purpose": "Facilitar consultas en lenguaje natural sobre datos empresariales y reducir consultas rutinarias al equipo de análisis.",
         "use_cases": "Empresas y startups: Permite a los equipos de negocio obtener insights sin necesidad de recurrir a especialistas en datos.\nDepartamentos de ventas y marketing: Acceso rápido a métricas clave sin usar herramientas de análisis complejas.\nGestión de producto: Análisis en tiempo real del uso de una aplicación o plataforma sin consultas manuales en bases de datos.\nSoporte y atención al cliente: Acceso a datos de usuarios y consultas frecuentes sin necesidad de interacciones técnicas.",
-        "main_advantages": "Acceso rápido y sencillo a la información sin conocimientos técnicos.\nEliminación de la barrera del SQL, permitiendo consultas en lenguaje natural.\nIntegración con bases de datos existentes, sin necesidad de configuraciones complejas.\nMejora en la toma de decisiones al proporcionar información en tiempo real.\nAumento de la eficiencia al reducir la carga de trabajo de los equipos de datos.",
+        "main_advantages": "Consultas conversacionales, validación de SQL, control de acceso y trazabilidad de consultas y resultados.",
         "long_description": "Basejump es una plataforma de análisis de datos impulsada por inteligencia artificial que permite a los usuarios interactuar con sus bases de datos utilizando lenguaje natural. Al eliminar la necesidad de conocimientos técnicos en SQL, Basejump facilita que cualquier miembro de una organización pueda acceder y analizar datos de manera eficiente. La plataforma se integra con diversas fuentes de datos y proporciona respuestas rápidas a consultas formuladas en lenguaje cotidiano, agilizando la toma de decisiones basadas en datos.",
         "release_date": "Septiembre 2024",
-        "developer": "Basejump AI.",
+        "developer": "Basejump AI Inc.",
         "main_model": "No disponible",
-        "pricing_plans": "Basejump ofrece una versión gratuita con funcionalidades básicas y planes de pago que brindan acceso a características avanzadas y soporte prioritario.",
-        "license": "Propietaria",
-        "security_privacy": "Basejump implementa medidas de seguridad estándar de la industria para proteger los datos de los usuarios, incluyendo cifrado de datos en tránsito y en reposo, autenticación de usuarios y controles de acceso basados en roles. La plataforma cumple con las regulaciones de privacidad de datos aplicables, como el GDPR, y proporciona opciones para la gestión de datos sensibles.",
-        "integration": "Basejump se integra con una variedad de sistemas de gestión de bases de datos, incluyendo MySQL, PostgreSQL y SQL Server, así como con plataformas de análisis de datos como Tableau y Power BI. Estas integraciones permiten a los usuarios incorporar fácilmente Basejump en sus flujos de trabajo existentes y mejorar sus capacidades de análisis de datos."
+        "pricing_plans": "Basejump Cloud permite comenzar gratuitamente. Consultar la oferta vigente para condiciones y límites adicionales.",
+        "license": "Núcleo abierto bajo AGPL-3.0; servicio Basejump Cloud disponible por separado.",
+        "security_privacy": "Documenta control de acceso por roles y trazabilidad de consultas. El servicio declara cifrado en tránsito y reposo y que no utiliza los datos del cliente para entrenar IA.",
+        "integration": "Conexión con PostgreSQL, Snowflake, Athena, MySQL, Redshift y SQL Server; API en Basejump Cloud."
       },
       "news": [
         {
@@ -1104,16 +1104,7 @@
       ],
       "sources": [
         {
-          "source_url": "https://supertools.therundown.ai/content/maxium-ai"
-        },
-        {
-          "source_url": "https://www.producthunt.com/products/maxium-ai"
-        },
-        {
           "source_url": "https://www.superbcrew.com/basejump-ai-lets-users-access-data-at-the-speed-of-a-conversation-for-faster-insights/"
-        },
-        {
-          "source_url": "https://venturebeat.com/games/basejump-will-launch-social-gaming-platform-with-ai-powered-game-creator/"
         }
       ]
     },
