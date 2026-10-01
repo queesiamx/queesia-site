@@ -6,23 +6,23 @@
         "id": "3",
         "name": "Snap Code | Image to Code Converter",
         "url": "https://thesnapcode.com/?utm_source=superhuman&utm_medium=newsletter&utm_campaign=perplexity-s-meteoric-rise&_bhlid=bd131e362e1dd2d40cf38dd07a313e46a21c102f",
-        "short_description": "Herramienta que convierte imágenes en código, facilitando la extracción de información codificada de archivos visuales.",
-        "category": "Plataformas sin código",
-        "main_functionality": "Transformación de imágenes en código para extraer y analizar datos embebidos en archivos visuales.",
-        "tags": "#EdiciónDeImágenes #AnálisisDeImágenes #VisiónPorComputadora",
+        "short_description": "Convierte imágenes de interfaces y diseños visuales en código para desarrollo web.",
+        "category": "Codificación",
+        "main_functionality": "Generar y actualizar código de interfaces web a partir de imágenes.",
+        "tags": "#GeneraciónDeCódigo #DesarrolloWeb #ImagenACódigo #Prototipado",
         "logo_filename": "id_3_snap_code",
         "what_is": "Snap Code es una herramienta de desarrollo web impulsada por inteligencia artificial que convierte imágenes en código de manera eficiente.",
         "purpose": "Su propósito principal es facilitar la transformación de diseños visuales en código funcional, agilizando el proceso de desarrollo web y reduciendo el tiempo necesario para codificar manualmente interfaces basadas en imágenes.",
         "use_cases": "Desarrollo Web: Permite a los desarrolladores convertir maquetas o diseños en imágenes directamente en código, acelerando la creación de sitios web.\nPrototipado Rápido: Facilita la generación de prototipos funcionales a partir de bocetos o capturas de pantalla, optimizando la fase de diseño y prueba.\nAprendizaje y Enseñanza: Útil para estudiantes y educadores en la comprensión de la relación entre diseño visual y su implementación en código.",
-        "main_advantages": "Eficiencia: Reduce significativamente el tiempo de desarrollo al automatizar la conversión de imágenes a código.\nPrecisión: Mantiene la fidelidad del diseño original al generar código que refleja con exactitud la imagen proporcionada.\nVersatilidad: Soporta múltiples lenguajes y marcos de desarrollo, adaptándose a diversas necesidades y preferencias de los desarrolladores.",
-        "long_description": "Snap Code es una plataforma impulsada por inteligencia artificial que transforma imágenes en código de alta calidad en cuestión de segundos. Esta herramienta permite a desarrolladores y diseñadores convertir diseños visuales en código funcional compatible con diversos lenguajes y frameworks, como HTML, CSS, React, Vue y Bootstrap. Además, ofrece soporte multilenguaje, generación de imágenes mediante IA y herramientas de utilidad para desarrolladores, como formateadores de JSON y código.",
+        "main_advantages": "Conversión de diseños visuales a código y selección de distintas tecnologías de interfaz.",
+        "long_description": "Snap Code convierte imágenes de interfaces en código web. Permite seleccionar tecnologías como React, Vue, Tailwind CSS o Bootstrap y trabajar sobre el código generado.",
         "release_date": "No disponible.",
         "developer": "Snap Code",
-        "main_model": "Emplea modelos de inteligencia artificial para la conversión de imágenes a código, aunque no se especifica el modelo exacto.",
-        "pricing_plans": "Gratuito: Acceso a las funciones principales, incluyendo GPT 40 Mini y 10 tokens gratuitos al registrarse.",
+        "main_model": "GPT-4o Mini y GPT-4o, según la opción seleccionada en la aplicación.",
+        "pricing_plans": "Acceso gratuito limitado y planes de pago Starter y Pro; también ofrece compra de tokens.",
         "license": "No disponible.",
         "security_privacy": "No disponible.",
-        "integration": "Compatible con múltiples lenguajes y frameworks, facilitando su integración en diversos entornos de desarrollo."
+        "integration": "Genera código para tecnologías de interfaz como React, Vue, Tailwind CSS y Bootstrap."
       },
       "news": [
         {
@@ -41,15 +41,6 @@
       "sources": [
         {
           "source_url": "https://thesnapcode.com/?utm_source=superhuman&utm_medium=referral&utm_campaign=perplexity-s-meteoric-rise"
-        },
-        {
-          "source_url": "https://snap.berkeley.edu/"
-        },
-        {
-          "source_url": "https://help.snapchat.com/hc/es-es/articles/7012342798612--Qu%C3%A9-es-un-Snapc%C3%B3digo"
-        },
-        {
-          "source_url": "https://www.howtogeek.com/780037/how-to-scan-a-snapcode-in-snapchat/"
         }
       ]
     },

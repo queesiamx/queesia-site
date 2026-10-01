@@ -1078,7 +1078,7 @@
         "id": "1318",
         "name": "ZeroRank",
         "url": "https://zerorank.ai/",
-        "short_description": "Crea impresionantes vídeos e imágenes generados por IA en minutos.",
+        "short_description": "Analiza y monitoriza la visibilidad de tu marca en respuestas de buscadores y asistentes de IA.",
         "category": "SEO",
         "main_functionality": "Monitoreo y analítica de “AI search visibility”: identifica prompts relevantes, rastrea rankings/menciones en modelos (p. ej., ChatGPT, Gemini, Perplexity, Claude), y permite comparar contra competidores con métricas como visibilidad y sentimiento.",
         "tags": "#SEO #AIMarketing #BrandMonitoring #CompetitorAnalysis #SentimentAnalysis",
@@ -1088,13 +1088,13 @@
         "use_cases": "Descubrir preguntas/prompts donde una marca debería aparecer y detectar “gaps” de visibilidad.\n\nMonitorear diariamente posiciones/menciones/citas y cambios en el tiempo.\n\nSeguimiento de sentimiento/tono con respecto a la marca.\n\nBenchmarking competitivo (comparación contra competidores).",
         "main_advantages": "Cobertura multi-plataforma/modelo (menciona soporte/seguimiento en ChatGPT, Gemini, Perplexity, Claude, entre otros).\n\nPanel centralizado para visibilidad, menciones, citas y sentimiento.\n\nEnfoque accionable: orientado a detectar oportunidades (prompts) y movimientos de mercado antes que competidores.\n\nComparación competitiva con métricas de visibilidad/ranking/menciones.",
         "long_description": "Plataforma de analítica para visibilidad de marca en búsqueda con IA. Permite: (1) descubrir los prompts/preguntas relevantes donde la marca debería aparecer; (2) rastrear rankings/menciones en múltiples modelos/plataformas con actualización diaria; (3) analizar visibilidad y sentimiento/tono de cómo la IA describe a la marca; (4) comparar desempeño frente a competidores (benchmarking) y apoyar la toma de decisiones para optimizar la presencia en respuestas generadas por IA.",
-        "release_date": "2024",
+        "release_date": "",
         "developer": "ZeroRank AI",
         "main_model": "No disponible",
-        "pricing_plans": "Free trial: “7-Day Free Trial” en el sitio y política de prueba gratuita (sin requerir información de pago durante el trial, según la política).\n\nStarter: USD $76/mes (desde $89), hasta 25 prompts, hasta 2250 respuestas analizadas/mes, países y asientos ilimitados, soporte por email (entre otros ítems listados).\n\nPro: USD $169/mes (desde $199), hasta 100 prompts, hasta 9000 respuestas analizadas/mes, soporte email + Slack, etc.\n\nEnterprise: Precio “Custom”, 300+ prompts, 27000+ respuestas analizadas/mes, etc.",
+        "pricing_plans": "Ofrece prueba gratuita y planes Starter, Pro y Enterprise, con límites según el plan y modalidad de facturación.",
         "license": "Propietario / SaaS",
         "security_privacy": "Indica que no vende/alquila información personal; puede compartir con proveedores de servicio bajo confidencialidad y por requerimiento legal.\n\nMedidas de seguridad declaradas: cifrado en tránsito y en reposo, evaluaciones de seguridad y controles de acceso (sin garantizar seguridad absoluta).\n\nDatos recolectados (ejemplos): nombre/email, empresa/puesto, pagos (procesados por proveedores), info de marca/competidores, comunicaciones; y datos técnicos/uso (IP, navegador, SO).\n\nContacto de privacidad: support@zerorank.ai",
-        "integration": "En el sitio se menciona una sección de “Integrations / Works with Your Favorite Tools”, pero no se listan integraciones específicas en texto accesible (parece presentarse como contenido visual/imagen)."
+        "integration": "Dispone de servidor MCP y API REST para consultar datos de ZeroRank desde herramientas y asistentes compatibles, según el plan."
       },
       "news": [
         {

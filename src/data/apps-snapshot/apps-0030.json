@@ -8,18 +8,18 @@
         "url": "https://www.photoleapapp.com/",
         "short_description": "Aplicación de edición fotográfica que combina herramientas avanzadas con inteligencia artificial para transformar imágenes de manera creativa y profesional.",
         "category": "Edición de imágenes",
-        "main_functionality": "Transformación de imágenes en código para extraer y analizar datos embebidos en archivos visuales.",
-        "tags": "#EdiciónDeImágenes #AnálisisDeImágenes #VisiónPorComputadora",
+        "main_functionality": "Editar y transformar fotografías mediante ajustes, composición de imágenes y herramientas de inteligencia artificial.",
+        "tags": "#EdiciónFotográfica #GeneraciónDeImágenes #Retoque #EfectosVisuales",
         "logo_filename": "id_4_photoleap",
         "what_is": "Photoleap es una aplicación de edición fotográfica que combina herramientas avanzadas con inteligencia artificial, permitiendo a los usuarios transformar y mejorar sus imágenes de manera creativa y profesional.",
         "purpose": "Su propósito principal es ofrecer una plataforma integral para la edición de fotos, facilitando desde ajustes básicos hasta la creación de arte digital complejo, todo desde dispositivos móviles.",
         "use_cases": "Fotógrafos pueden realizar ajustes detallados y aplicar efectos avanzados a sus imágenes.\nCreación de Contenido: Creadores de contenido y diseñadores gráficos pueden generar imágenes atractivas para redes sociales, marketing y proyectos personales.\nAnimación de Fotos: Usuarios pueden añadir movimiento a imágenes estáticas, creando GIFs y videos dinámicos.\nGeneración de Imágenes con IA: Transformar descripciones textuales en imágenes únicas mediante inteligencia artificial.",
-        "main_advantages": "Versatilidad: Amplia gama de herramientas que abarcan desde ediciones básicas hasta funciones avanzadas de IA.\nAccesibilidad: Interfaz intuitiva que facilita su uso tanto para principiantes como para profesionales.\nActualizaciones Constantes: Incorporación regular de nuevas funciones y mejoras basadas en las tendencias y necesidades del usuario.\nIntegración de IA: Funciones como generación de imágenes a partir de texto y animación de fotos, potenciadas por inteligencia artificial.",
+        "main_advantages": "Reúne herramientas de edición fotográfica, composición y generación de imágenes en una aplicación móvil.",
         "long_description": "Photoleap es una aplicación de edición fotográfica desarrollada por Lightricks que combina herramientas avanzadas con inteligencia artificial para transformar imágenes de manera creativa y profesional. Ofrece funcionalidades como la eliminación de fondos y objetos, aplicación de filtros y efectos, generación de imágenes a partir de texto, animación de fotos y edición basada en capas. Su interfaz intuitiva permite a usuarios de todos los niveles crear contenido visual de alta calidad directamente desde sus dispositivos móviles.",
         "release_date": "2017",
         "developer": "Lightricks Ltd.",
         "main_model": "No disponible.",
-        "pricing_plans": "Gratuito: Acceso a funciones básicas y opciones de compras dentro de la aplicación para acceder a características premium. Suscripción mensual: Aproximadamente $5.00 USD al mes. \nAIMOJO\n\nSuscripción anual: Alrededor de $59.99 USD al año. \nAIMOJO\n\nPago único: Disponible para acceso ilimitado sin necesidad de suscripción recurrente.",
+        "pricing_plans": "Ofrece funciones gratuitas y acceso de pago a funciones premium. Los paquetes y precios dependen de la plataforma y la oferta disponible.",
         "license": "Propietaria de Lightricks Ltd.",
         "security_privacy": "Lightricks, desarrollador de Photoleap, recopila datos como información de contacto, contenido del usuario y diagnósticos para mejorar la experiencia de la aplicación. Estos datos pueden utilizarse para rastrear al usuario en aplicaciones y sitios web de otras empresas. Se recomienda revisar la política de privacidad de Lightricks para obtener detalles específicos sobre la gestión de datos. \n",
         "integration": "Photoleap se integra con Motionleap, otra aplicación de Lightricks, permitiendo a los usuarios añadir movimiento a imágenes estáticas y crear contenido animado directamente desde la plataforma."
@@ -53,9 +53,6 @@
         },
         {
           "source_url": "https://aimojo.io/es/tools/photoleap/"
-        },
-        {
-          "source_url": "https://www.unite.ai/photoleap-review/"
         },
         {
           "source_url": "https://www.elespanol.com/elandroidelibre/aplicaciones/20230603/photoleap-android-partido-inteligencia-artificial-edicion-imagenes/764423698_0.html"
