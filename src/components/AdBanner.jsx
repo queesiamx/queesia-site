@@ -123,13 +123,10 @@ export default function AdBanner() {
           align-items: center;
           gap: 1.5rem;
           padding: 1.35rem 1.5rem;
-          border: 1px solid rgba(139, 92, 246, 0.22);
+          border: 1px solid rgba(37, 99, 235, 0.38);
           border-radius: 24px;
-          background:
-            radial-gradient(circle at top left, rgba(124, 58, 237, 0.13), transparent 34%),
-            radial-gradient(circle at bottom right, rgba(14, 165, 233, 0.12), transparent 34%),
-            rgba(255, 255, 255, 0.74);
-          box-shadow: 0 18px 45px rgba(15, 23, 42, 0.08);
+          background: #ffffff;
+          box-shadow: inset 3px 0 0 #327ffa, 0 6px 20px rgba(15, 23, 42, 0.06);
           backdrop-filter: blur(16px);
         }
 
@@ -152,8 +149,9 @@ export default function AdBanner() {
           margin-bottom: 0.45rem;
           padding: 0.28rem 0.65rem;
           border-radius: 999px;
-          background: rgba(124, 58, 237, 0.09);
-          color: #6d28d9;
+          background: #dbeafe;
+          color: #1d4ed8;
+          box-shadow: inset 0 0 0 1px rgba(37, 99, 235, 0.16);
           font-size: 0.72rem;
           font-weight: 700;
           letter-spacing: 0.08em;
@@ -201,18 +199,18 @@ export default function AdBanner() {
           white-space: nowrap;
           padding: 0.78rem 1.05rem;
           border-radius: 999px;
-          background: #111827;
+          background: #0d0d0d;
           color: #ffffff;
           font-size: 0.92rem;
           font-weight: 800;
           text-decoration: none;
-          box-shadow: 0 12px 24px rgba(17, 24, 39, 0.16);
+          box-shadow: 0 6px 14px rgba(13, 13, 13, 0.14);
           transition: transform 0.18s ease, box-shadow 0.18s ease, opacity 0.18s ease;
         }
 
         .ad-banner__cta:hover {
           transform: translateY(-1px);
-          box-shadow: 0 16px 28px rgba(17, 24, 39, 0.22);
+          box-shadow: 0 8px 18px rgba(13, 13, 13, 0.18);
           opacity: 0.95;
         }
 
